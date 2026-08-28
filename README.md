@@ -1,7 +1,7 @@
 This repository contains a comprehensive collection of clean CSV files detailing historical match results and scores across the top Four tiers of English professional football. 
 
-- **Total CSV files:** 146
-- **Total data points (numeric cells):** 3,964,372 
+- **Total CSV files:** 147
+- **Total data points (numeric cells):** 4,063,466 
 - **Temporal Scope:** 1993/94 Season to Present
 
 ## 📋 League Coverage & Structure
