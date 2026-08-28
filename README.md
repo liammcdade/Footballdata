@@ -1,7 +1,7 @@
-This repository contains a comprehensive collection of clean CSV files detailing historical match results and scores across the top three tiers of English professional football. 
+This repository contains a comprehensive collection of clean CSV files detailing historical match results and scores across the top Four tiers of English professional football. 
 
-- **Total CSV Files:** 106
-- **Total Data Points:** 2,948,100 (Numeric cells)
+- **Total CSV files:** 146
+- **Total data points (numeric cells):** 3,964,372 
 - **Temporal Scope:** 1993/94 Season to Present
 
 ## 📋 League Coverage & Structure
@@ -22,5 +22,4 @@ While columns may vary slightly depending on the vintage, each dataset typically
 *   `FTHG` / `FTAG`: Full-time home and away goals scored.
 *   `FTR`: Full-time result (`H` = Home Win, `D` = Draw, `A` = Away Win).
 *   `HTHG` / `HTAG` / `HTR`: Half-time statistics (where available).
-- **Total CSV files:** 146
-- **Total data points (numeric cells):** 3,964,372
+

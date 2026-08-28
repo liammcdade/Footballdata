@@ -122,7 +122,7 @@ def main():
     print("=" * 70)
 
     # ----- NEW: Update README.md -----
-    readme_path = root_path / "README.md"
+    readme_path = Path(r"C:\Users\liam\Documents\GitHub\Footballdata\README.md")
     update_readme(readme_path, len(csv_files), grand_total)
     # ---------------------------------
 
