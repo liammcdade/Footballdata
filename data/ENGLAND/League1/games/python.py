@@ -63,7 +63,7 @@ def get_unique_filename(base_name, existing_files):
     return f"{name} ({counter}){ext}"
 
 def main():
-    files = glob.glob("E0*.csv")
+    files = glob.glob("E2*.csv")
     if not files:
         print("No E0*.csv files found.")
         return
