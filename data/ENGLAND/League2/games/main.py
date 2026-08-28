@@ -2,7 +2,7 @@ import webbrowser
 import time
 
 # Base URL without the season code
-BASE_URL = "https://www.football-data.co.uk/mmz4281/{}/E2.csv"
+BASE_URL = "https://www.football-data.co.uk/mmz4281/{}/E3.csv"
 
 # We want seasons from 1993–94 up to 2025–26
 START_YEAR = 1993

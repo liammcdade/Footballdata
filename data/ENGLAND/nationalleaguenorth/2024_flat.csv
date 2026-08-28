@@ -1,0 +1,553 @@
+HomeTeam,AwayTeam,FTHG,FTAG,FTR
+Alfreton Town,Banbury United,2,0,H
+Alfreton Town,Bishop's Stortford,3,0,H
+Alfreton Town,Blyth Spartans,3,0,H
+Alfreton Town,Boston United,4,0,H
+Alfreton Town,Brackley Town,0,1,A
+Alfreton Town,Buxton,2,1,H
+Alfreton Town,Chester,1,1,D
+Alfreton Town,Chorley,2,0,H
+Alfreton Town,Curzon Ashton,0,0,D
+Alfreton Town,Darlington,2,3,A
+Alfreton Town,Farsley Celtic,2,0,H
+Alfreton Town,Gloucester City,3,0,H
+Alfreton Town,Hereford,3,1,H
+Alfreton Town,King's Lynn Town,1,1,D
+Alfreton Town,Peterborough Sports,2,1,H
+Alfreton Town,Rushall Olympic,1,0,H
+Alfreton Town,Scarborough Athletic,1,3,A
+Alfreton Town,Scunthorpe United,2,2,D
+Alfreton Town,South Shields,1,0,H
+Alfreton Town,Southport,3,1,H
+Alfreton Town,Spennymoor Town,2,1,H
+Alfreton Town,Tamworth,0,0,D
+Alfreton Town,Warrington Town,1,1,D
+Banbury United,Alfreton Town,0,0,D
+Banbury United,Bishop's Stortford,2,2,D
+Banbury United,Blyth Spartans,0,0,D
+Banbury United,Boston United,0,1,A
+Banbury United,Brackley Town,0,1,A
+Banbury United,Buxton,0,3,A
+Banbury United,Chester,1,0,H
+Banbury United,Chorley,1,4,A
+Banbury United,Curzon Ashton,0,1,A
+Banbury United,Darlington,2,1,H
+Banbury United,Farsley Celtic,1,1,D
+Banbury United,Gloucester City,1,2,A
+Banbury United,Hereford,1,2,A
+Banbury United,King's Lynn Town,1,1,D
+Banbury United,Peterborough Sports,0,3,A
+Banbury United,Rushall Olympic,1,2,A
+Banbury United,Scarborough Athletic,1,0,H
+Banbury United,Scunthorpe United,0,2,A
+Banbury United,South Shields,0,3,A
+Banbury United,Southport,0,1,A
+Banbury United,Spennymoor Town,0,3,A
+Banbury United,Tamworth,0,3,A
+Banbury United,Warrington Town,3,0,H
+Bishop's Stortford,Alfreton Town,0,4,A
+Bishop's Stortford,Banbury United,3,1,H
+Bishop's Stortford,Blyth Spartans,1,3,A
+Bishop's Stortford,Boston United,1,0,H
+Bishop's Stortford,Brackley Town,1,2,A
+Bishop's Stortford,Buxton,3,1,H
+Bishop's Stortford,Chester,2,0,H
+Bishop's Stortford,Chorley,1,4,A
+Bishop's Stortford,Curzon Ashton,0,0,D
+Bishop's Stortford,Darlington,1,0,H
+Bishop's Stortford,Farsley Celtic,0,1,A
+Bishop's Stortford,Gloucester City,1,4,A
+Bishop's Stortford,Hereford,0,1,A
+Bishop's Stortford,King's Lynn Town,0,2,A
+Bishop's Stortford,Peterborough Sports,0,2,A
+Bishop's Stortford,Rushall Olympic,1,4,A
+Bishop's Stortford,Scarborough Athletic,0,2,A
+Bishop's Stortford,Scunthorpe United,0,5,A
+Bishop's Stortford,South Shields,2,3,A
+Bishop's Stortford,Southport,2,3,A
+Bishop's Stortford,Spennymoor Town,0,1,A
+Bishop's Stortford,Tamworth,1,2,A
+Bishop's Stortford,Warrington Town,1,4,A
+Blyth Spartans,Alfreton Town,1,3,A
+Blyth Spartans,Banbury United,2,2,D
+Blyth Spartans,Bishop's Stortford,3,0,H
+Blyth Spartans,Boston United,2,2,D
+Blyth Spartans,Brackley Town,1,5,A
+Blyth Spartans,Buxton,3,2,H
+Blyth Spartans,Chester,2,2,D
+Blyth Spartans,Chorley,1,1,D
+Blyth Spartans,Curzon Ashton,2,3,A
+Blyth Spartans,Darlington,1,2,A
+Blyth Spartans,Farsley Celtic,4,0,H
+Blyth Spartans,Gloucester City,4,2,H
+Blyth Spartans,Hereford,2,1,H
+Blyth Spartans,King's Lynn Town,0,1,A
+Blyth Spartans,Peterborough Sports,2,3,A
+Blyth Spartans,Rushall Olympic,1,2,A
+Blyth Spartans,Scarborough Athletic,0,1,A
+Blyth Spartans,Scunthorpe United,1,1,D
+Blyth Spartans,South Shields,2,1,H
+Blyth Spartans,Southport,3,3,D
+Blyth Spartans,Spennymoor Town,2,0,H
+Blyth Spartans,Tamworth,0,1,A
+Blyth Spartans,Warrington Town,1,2,A
+Boston United,Alfreton Town,3,1,H
+Boston United,Banbury United,1,2,A
+Boston United,Bishop's Stortford,3,0,H
+Boston United,Blyth Spartans,3,1,H
+Boston United,Brackley Town,1,2,A
+Boston United,Buxton,2,3,A
+Boston United,Chester,1,0,H
+Boston United,Chorley,2,2,D
+Boston United,Curzon Ashton,1,1,D
+Boston United,Darlington,2,0,H
+Boston United,Farsley Celtic,3,0,H
+Boston United,Gloucester City,1,0,H
+Boston United,Hereford,1,0,H
+Boston United,King's Lynn Town,2,0,H
+Boston United,Peterborough Sports,2,1,H
+Boston United,Rushall Olympic,0,1,A
+Boston United,Scarborough Athletic,0,0,D
+Boston United,Scunthorpe United,1,1,D
+Boston United,South Shields,3,1,H
+Boston United,Southport,3,0,H
+Boston United,Spennymoor Town,1,2,A
+Boston United,Tamworth,0,2,A
+Boston United,Warrington Town,2,0,H
+Brackley Town,Alfreton Town,1,0,H
+Brackley Town,Banbury United,3,1,H
+Brackley Town,Bishop's Stortford,1,0,H
+Brackley Town,Blyth Spartans,1,1,D
+Brackley Town,Boston United,2,1,H
+Brackley Town,Buxton,2,1,H
+Brackley Town,Chester,3,1,H
+Brackley Town,Chorley,1,0,H
+Brackley Town,Curzon Ashton,0,2,A
+Brackley Town,Darlington,1,0,H
+Brackley Town,Farsley Celtic,0,0,D
+Brackley Town,Gloucester City,2,0,H
+Brackley Town,Hereford,2,0,H
+Brackley Town,King's Lynn Town,1,3,A
+Brackley Town,Peterborough Sports,3,1,H
+Brackley Town,Rushall Olympic,0,1,A
+Brackley Town,Scarborough Athletic,0,1,A
+Brackley Town,Scunthorpe United,2,0,H
+Brackley Town,South Shields,1,1,D
+Brackley Town,Southport,0,0,D
+Brackley Town,Spennymoor Town,3,1,H
+Brackley Town,Tamworth,3,0,H
+Brackley Town,Warrington Town,2,0,H
+Buxton,Alfreton Town,1,2,A
+Buxton,Banbury United,3,1,H
+Buxton,Bishop's Stortford,2,0,H
+Buxton,Blyth Spartans,3,0,H
+Buxton,Boston United,1,1,D
+Buxton,Brackley Town,0,0,D
+Buxton,Chester,1,4,A
+Buxton,Chorley,3,1,H
+Buxton,Curzon Ashton,1,1,D
+Buxton,Darlington,5,0,H
+Buxton,Farsley Celtic,1,2,A
+Buxton,Gloucester City,2,0,H
+Buxton,Hereford,2,1,H
+Buxton,King's Lynn Town,2,2,D
+Buxton,Peterborough Sports,2,2,D
+Buxton,Rushall Olympic,2,2,D
+Buxton,Scarborough Athletic,0,0,D
+Buxton,Scunthorpe United,0,0,D
+Buxton,South Shields,0,2,A
+Buxton,Southport,0,1,A
+Buxton,Spennymoor Town,0,2,A
+Buxton,Tamworth,2,1,H
+Buxton,Warrington Town,0,6,A
+Chester,Alfreton Town,0,2,A
+Chester,Banbury United,1,1,D
+Chester,Bishop's Stortford,2,0,H
+Chester,Blyth Spartans,2,1,H
+Chester,Boston United,0,0,D
+Chester,Brackley Town,1,0,H
+Chester,Buxton,0,1,A
+Chester,Chorley,0,0,D
+Chester,Curzon Ashton,0,0,D
+Chester,Darlington,0,0,D
+Chester,Farsley Celtic,2,0,H
+Chester,Gloucester City,3,0,H
+Chester,Hereford,1,2,A
+Chester,King's Lynn Town,3,0,H
+Chester,Peterborough Sports,3,2,H
+Chester,Rushall Olympic,0,1,A
+Chester,Scarborough Athletic,3,0,H
+Chester,Scunthorpe United,2,0,H
+Chester,South Shields,0,1,A
+Chester,Southport,0,1,A
+Chester,Spennymoor Town,1,1,D
+Chester,Tamworth,2,0,H
+Chester,Warrington Town,2,0,H
+Chorley,Alfreton Town,3,2,H
+Chorley,Banbury United,3,0,H
+Chorley,Bishop's Stortford,2,1,H
+Chorley,Blyth Spartans,2,0,H
+Chorley,Boston United,0,3,A
+Chorley,Brackley Town,1,1,D
+Chorley,Buxton,3,2,H
+Chorley,Chester,0,2,A
+Chorley,Curzon Ashton,4,0,H
+Chorley,Darlington,8,0,H
+Chorley,Farsley Celtic,1,1,D
+Chorley,Gloucester City,3,1,H
+Chorley,Hereford,1,2,A
+Chorley,King's Lynn Town,3,1,H
+Chorley,Peterborough Sports,2,0,H
+Chorley,Rushall Olympic,2,1,H
+Chorley,Scarborough Athletic,3,0,H
+Chorley,Scunthorpe United,1,1,D
+Chorley,South Shields,2,1,H
+Chorley,Southport,3,0,H
+Chorley,Spennymoor Town,2,1,H
+Chorley,Tamworth,1,0,H
+Chorley,Warrington Town,0,1,A
+Curzon Ashton,Alfreton Town,2,1,H
+Curzon Ashton,Banbury United,4,1,H
+Curzon Ashton,Bishop's Stortford,1,0,H
+Curzon Ashton,Blyth Spartans,3,1,H
+Curzon Ashton,Boston United,3,1,H
+Curzon Ashton,Brackley Town,2,0,H
+Curzon Ashton,Buxton,0,3,A
+Curzon Ashton,Chester,0,1,A
+Curzon Ashton,Chorley,0,1,A
+Curzon Ashton,Darlington,1,3,A
+Curzon Ashton,Farsley Celtic,0,0,D
+Curzon Ashton,Gloucester City,4,1,H
+Curzon Ashton,Hereford,1,0,H
+Curzon Ashton,King's Lynn Town,1,1,D
+Curzon Ashton,Peterborough Sports,1,2,A
+Curzon Ashton,Rushall Olympic,1,1,D
+Curzon Ashton,Scarborough Athletic,0,1,A
+Curzon Ashton,Scunthorpe United,1,0,H
+Curzon Ashton,South Shields,2,0,H
+Curzon Ashton,Southport,3,2,H
+Curzon Ashton,Spennymoor Town,0,3,A
+Curzon Ashton,Tamworth,0,1,A
+Curzon Ashton,Warrington Town,0,3,A
+Darlington,Alfreton Town,0,2,A
+Darlington,Banbury United,3,1,H
+Darlington,Bishop's Stortford,0,2,A
+Darlington,Blyth Spartans,0,0,D
+Darlington,Boston United,0,0,D
+Darlington,Brackley Town,1,1,D
+Darlington,Buxton,2,1,H
+Darlington,Chester,3,2,H
+Darlington,Chorley,0,3,A
+Darlington,Curzon Ashton,1,3,A
+Darlington,Farsley Celtic,3,1,H
+Darlington,Gloucester City,1,1,D
+Darlington,Hereford,2,0,H
+Darlington,King's Lynn Town,1,2,A
+Darlington,Peterborough Sports,1,0,H
+Darlington,Rushall Olympic,1,1,D
+Darlington,Scarborough Athletic,0,1,A
+Darlington,Scunthorpe United,4,0,H
+Darlington,South Shields,2,2,D
+Darlington,Southport,2,0,H
+Darlington,Spennymoor Town,1,2,A
+Darlington,Tamworth,0,1,A
+Darlington,Warrington Town,1,1,D
+Farsley Celtic,Alfreton Town,2,3,A
+Farsley Celtic,Banbury United,0,1,A
+Farsley Celtic,Bishop's Stortford,3,1,H
+Farsley Celtic,Blyth Spartans,1,0,H
+Farsley Celtic,Boston United,2,0,H
+Farsley Celtic,Brackley Town,1,4,A
+Farsley Celtic,Buxton,2,0,H
+Farsley Celtic,Chester,1,2,A
+Farsley Celtic,Chorley,1,1,D
+Farsley Celtic,Curzon Ashton,2,1,H
+Farsley Celtic,Darlington,1,2,A
+Farsley Celtic,Gloucester City,1,0,H
+Farsley Celtic,Hereford,0,0,D
+Farsley Celtic,King's Lynn Town,0,0,D
+Farsley Celtic,Peterborough Sports,1,0,H
+Farsley Celtic,Rushall Olympic,1,4,A
+Farsley Celtic,Scarborough Athletic,2,0,H
+Farsley Celtic,Scunthorpe United,0,2,A
+Farsley Celtic,South Shields,1,1,D
+Farsley Celtic,Southport,0,0,D
+Farsley Celtic,Spennymoor Town,0,0,D
+Farsley Celtic,Tamworth,2,2,D
+Farsley Celtic,Warrington Town,0,2,A
+Gloucester City,Alfreton Town,3,0,H
+Gloucester City,Banbury United,0,2,A
+Gloucester City,Bishop's Stortford,1,1,D
+Gloucester City,Blyth Spartans,0,1,A
+Gloucester City,Boston United,3,7,A
+Gloucester City,Brackley Town,1,1,D
+Gloucester City,Buxton,0,0,D
+Gloucester City,Chester,1,6,A
+Gloucester City,Chorley,0,2,A
+Gloucester City,Curzon Ashton,3,0,H
+Gloucester City,Darlington,0,1,A
+Gloucester City,Farsley Celtic,0,1,A
+Gloucester City,Hereford,2,3,A
+Gloucester City,King's Lynn Town,1,2,A
+Gloucester City,Peterborough Sports,2,1,H
+Gloucester City,Rushall Olympic,2,0,H
+Gloucester City,Scarborough Athletic,1,0,H
+Gloucester City,Scunthorpe United,1,2,A
+Gloucester City,South Shields,0,5,A
+Gloucester City,Southport,2,2,D
+Gloucester City,Spennymoor Town,4,2,H
+Gloucester City,Tamworth,1,2,A
+Gloucester City,Warrington Town,1,3,A
+Hereford,Alfreton Town,3,3,D
+Hereford,Banbury United,4,1,H
+Hereford,Bishop's Stortford,1,0,H
+Hereford,Blyth Spartans,5,2,H
+Hereford,Boston United,0,2,A
+Hereford,Brackley Town,1,0,H
+Hereford,Buxton,2,2,D
+Hereford,Chester,1,1,D
+Hereford,Chorley,0,1,A
+Hereford,Curzon Ashton,3,1,H
+Hereford,Darlington,1,0,H
+Hereford,Farsley Celtic,4,1,H
+Hereford,Gloucester City,1,1,D
+Hereford,King's Lynn Town,2,2,D
+Hereford,Peterborough Sports,0,1,A
+Hereford,Rushall Olympic,1,0,H
+Hereford,Scarborough Athletic,3,1,H
+Hereford,Scunthorpe United,1,5,A
+Hereford,South Shields,0,3,A
+Hereford,Southport,0,1,A
+Hereford,Spennymoor Town,2,1,H
+Hereford,Tamworth,0,0,D
+Hereford,Warrington Town,2,1,H
+King's Lynn Town,Alfreton Town,2,1,H
+King's Lynn Town,Banbury United,1,2,A
+King's Lynn Town,Bishop's Stortford,3,2,H
+King's Lynn Town,Blyth Spartans,1,1,D
+King's Lynn Town,Boston United,1,2,A
+King's Lynn Town,Brackley Town,2,2,D
+King's Lynn Town,Buxton,1,3,A
+King's Lynn Town,Chester,0,0,D
+King's Lynn Town,Chorley,1,0,H
+King's Lynn Town,Curzon Ashton,0,4,A
+King's Lynn Town,Darlington,0,1,A
+King's Lynn Town,Farsley Celtic,0,0,D
+King's Lynn Town,Gloucester City,1,1,D
+King's Lynn Town,Hereford,2,2,D
+King's Lynn Town,Peterborough Sports,0,1,A
+King's Lynn Town,Rushall Olympic,2,1,H
+King's Lynn Town,Scarborough Athletic,3,4,A
+King's Lynn Town,Scunthorpe United,3,1,H
+King's Lynn Town,South Shields,3,1,H
+King's Lynn Town,Southport,1,4,A
+King's Lynn Town,Spennymoor Town,0,1,A
+King's Lynn Town,Tamworth,1,1,D
+King's Lynn Town,Warrington Town,0,0,D
+Peterborough Sports,Alfreton Town,1,1,D
+Peterborough Sports,Banbury United,2,0,H
+Peterborough Sports,Bishop's Stortford,4,2,H
+Peterborough Sports,Blyth Spartans,2,2,D
+Peterborough Sports,Boston United,0,2,A
+Peterborough Sports,Brackley Town,0,3,A
+Peterborough Sports,Buxton,1,3,A
+Peterborough Sports,Chester,1,1,D
+Peterborough Sports,Chorley,1,3,A
+Peterborough Sports,Curzon Ashton,1,1,D
+Peterborough Sports,Darlington,2,0,H
+Peterborough Sports,Farsley Celtic,1,0,H
+Peterborough Sports,Gloucester City,1,0,H
+Peterborough Sports,Hereford,1,4,A
+Peterborough Sports,King's Lynn Town,1,1,D
+Peterborough Sports,Rushall Olympic,4,0,H
+Peterborough Sports,Scarborough Athletic,1,0,H
+Peterborough Sports,Scunthorpe United,0,1,A
+Peterborough Sports,South Shields,2,4,A
+Peterborough Sports,Southport,2,0,H
+Peterborough Sports,Spennymoor Town,0,2,A
+Peterborough Sports,Tamworth,1,4,A
+Peterborough Sports,Warrington Town,1,3,A
+Rushall Olympic,Alfreton Town,1,1,D
+Rushall Olympic,Banbury United,1,1,D
+Rushall Olympic,Bishop's Stortford,4,0,H
+Rushall Olympic,Blyth Spartans,1,3,A
+Rushall Olympic,Boston United,1,0,H
+Rushall Olympic,Brackley Town,0,2,A
+Rushall Olympic,Buxton,0,3,A
+Rushall Olympic,Chester,1,1,D
+Rushall Olympic,Chorley,5,0,H
+Rushall Olympic,Curzon Ashton,2,2,D
+Rushall Olympic,Darlington,3,2,H
+Rushall Olympic,Farsley Celtic,0,2,A
+Rushall Olympic,Gloucester City,3,3,D
+Rushall Olympic,Hereford,0,1,A
+Rushall Olympic,King's Lynn Town,1,2,A
+Rushall Olympic,Peterborough Sports,1,0,H
+Rushall Olympic,Scarborough Athletic,4,2,H
+Rushall Olympic,Scunthorpe United,0,3,A
+Rushall Olympic,South Shields,2,0,H
+Rushall Olympic,Southport,2,3,A
+Rushall Olympic,Spennymoor Town,4,3,H
+Rushall Olympic,Tamworth,1,2,A
+Rushall Olympic,Warrington Town,0,0,D
+Scarborough Athletic,Alfreton Town,0,1,A
+Scarborough Athletic,Banbury United,3,0,H
+Scarborough Athletic,Bishop's Stortford,5,0,H
+Scarborough Athletic,Blyth Spartans,1,0,H
+Scarborough Athletic,Boston United,3,2,H
+Scarborough Athletic,Brackley Town,2,1,H
+Scarborough Athletic,Buxton,1,0,H
+Scarborough Athletic,Chester,1,0,H
+Scarborough Athletic,Chorley,1,1,D
+Scarborough Athletic,Curzon Ashton,0,2,A
+Scarborough Athletic,Darlington,2,0,H
+Scarborough Athletic,Farsley Celtic,1,2,A
+Scarborough Athletic,Gloucester City,1,1,D
+Scarborough Athletic,Hereford,3,0,H
+Scarborough Athletic,King's Lynn Town,2,0,H
+Scarborough Athletic,Peterborough Sports,1,1,D
+Scarborough Athletic,Rushall Olympic,3,1,H
+Scarborough Athletic,Scunthorpe United,0,0,D
+Scarborough Athletic,South Shields,1,1,D
+Scarborough Athletic,Southport,0,1,A
+Scarborough Athletic,Spennymoor Town,1,1,D
+Scarborough Athletic,Tamworth,0,1,A
+Scarborough Athletic,Warrington Town,2,2,D
+Scunthorpe United,Alfreton Town,1,0,H
+Scunthorpe United,Banbury United,2,0,H
+Scunthorpe United,Bishop's Stortford,6,1,H
+Scunthorpe United,Blyth Spartans,5,1,H
+Scunthorpe United,Boston United,2,2,D
+Scunthorpe United,Brackley Town,1,0,H
+Scunthorpe United,Buxton,0,3,A
+Scunthorpe United,Chester,2,2,D
+Scunthorpe United,Chorley,3,0,H
+Scunthorpe United,Curzon Ashton,0,1,A
+Scunthorpe United,Darlington,4,0,H
+Scunthorpe United,Farsley Celtic,2,0,H
+Scunthorpe United,Gloucester City,2,0,H
+Scunthorpe United,Hereford,4,1,H
+Scunthorpe United,King's Lynn Town,0,0,D
+Scunthorpe United,Peterborough Sports,1,1,D
+Scunthorpe United,Rushall Olympic,2,0,H
+Scunthorpe United,Scarborough Athletic,4,1,H
+Scunthorpe United,South Shields,3,1,H
+Scunthorpe United,Southport,1,0,H
+Scunthorpe United,Spennymoor Town,6,0,H
+Scunthorpe United,Tamworth,0,1,A
+Scunthorpe United,Warrington Town,1,0,H
+South Shields,Alfreton Town,3,1,H
+South Shields,Banbury United,4,0,H
+South Shields,Bishop's Stortford,7,0,H
+South Shields,Blyth Spartans,1,3,A
+South Shields,Boston United,1,2,A
+South Shields,Brackley Town,0,1,A
+South Shields,Buxton,1,0,H
+South Shields,Chester,0,1,A
+South Shields,Chorley,2,1,H
+South Shields,Curzon Ashton,0,0,D
+South Shields,Darlington,0,4,A
+South Shields,Farsley Celtic,2,1,H
+South Shields,Gloucester City,3,0,H
+South Shields,Hereford,0,0,D
+South Shields,King's Lynn Town,2,0,H
+South Shields,Peterborough Sports,1,2,A
+South Shields,Rushall Olympic,2,0,H
+South Shields,Scarborough Athletic,1,0,H
+South Shields,Scunthorpe United,2,1,H
+South Shields,Southport,3,0,H
+South Shields,Spennymoor Town,2,0,H
+South Shields,Tamworth,1,0,H
+South Shields,Warrington Town,1,1,D
+Southport,Alfreton Town,2,3,A
+Southport,Banbury United,0,1,A
+Southport,Bishop's Stortford,4,1,H
+Southport,Blyth Spartans,2,3,A
+Southport,Boston United,0,2,A
+Southport,Brackley Town,3,1,H
+Southport,Buxton,2,2,D
+Southport,Chester,0,2,A
+Southport,Chorley,0,2,A
+Southport,Curzon Ashton,0,3,A
+Southport,Darlington,2,0,H
+Southport,Farsley Celtic,1,1,D
+Southport,Gloucester City,2,1,H
+Southport,Hereford,1,2,A
+Southport,King's Lynn Town,0,4,A
+Southport,Peterborough Sports,0,0,D
+Southport,Rushall Olympic,3,0,H
+Southport,Scarborough Athletic,3,1,H
+Southport,Scunthorpe United,0,1,A
+Southport,South Shields,1,0,H
+Southport,Spennymoor Town,1,2,A
+Southport,Tamworth,0,0,D
+Southport,Warrington Town,0,4,A
+Spennymoor Town,Alfreton Town,2,1,H
+Spennymoor Town,Banbury United,5,2,H
+Spennymoor Town,Bishop's Stortford,1,0,H
+Spennymoor Town,Blyth Spartans,2,0,H
+Spennymoor Town,Boston United,0,0,D
+Spennymoor Town,Brackley Town,0,1,A
+Spennymoor Town,Buxton,2,3,A
+Spennymoor Town,Chester,1,1,D
+Spennymoor Town,Chorley,0,2,A
+Spennymoor Town,Curzon Ashton,1,2,A
+Spennymoor Town,Darlington,2,1,H
+Spennymoor Town,Farsley Celtic,3,1,H
+Spennymoor Town,Gloucester City,3,0,H
+Spennymoor Town,Hereford,2,0,H
+Spennymoor Town,King's Lynn Town,3,0,H
+Spennymoor Town,Peterborough Sports,0,0,D
+Spennymoor Town,Rushall Olympic,3,0,H
+Spennymoor Town,Scarborough Athletic,1,1,D
+Spennymoor Town,Scunthorpe United,1,0,H
+Spennymoor Town,South Shields,2,5,A
+Spennymoor Town,Southport,5,1,H
+Spennymoor Town,Tamworth,1,4,A
+Spennymoor Town,Warrington Town,2,0,H
+Tamworth,Alfreton Town,0,1,A
+Tamworth,Banbury United,1,2,A
+Tamworth,Bishop's Stortford,3,0,H
+Tamworth,Blyth Spartans,3,1,H
+Tamworth,Boston United,0,0,D
+Tamworth,Brackley Town,1,0,H
+Tamworth,Buxton,2,0,H
+Tamworth,Chester,0,0,D
+Tamworth,Chorley,2,1,H
+Tamworth,Curzon Ashton,0,0,D
+Tamworth,Darlington,4,0,H
+Tamworth,Farsley Celtic,1,0,H
+Tamworth,Gloucester City,1,0,H
+Tamworth,Hereford,4,0,H
+Tamworth,King's Lynn Town,3,1,H
+Tamworth,Peterborough Sports,3,0,H
+Tamworth,Rushall Olympic,2,1,H
+Tamworth,Scarborough Athletic,2,0,H
+Tamworth,Scunthorpe United,1,2,A
+Tamworth,South Shields,3,2,H
+Tamworth,Southport,4,0,H
+Tamworth,Spennymoor Town,2,0,H
+Tamworth,Warrington Town,1,1,D
+Warrington Town,Alfreton Town,2,2,D
+Warrington Town,Banbury United,2,1,H
+Warrington Town,Bishop's Stortford,2,1,H
+Warrington Town,Blyth Spartans,0,2,A
+Warrington Town,Boston United,0,0,D
+Warrington Town,Brackley Town,2,2,D
+Warrington Town,Buxton,1,0,H
+Warrington Town,Chester,1,0,H
+Warrington Town,Chorley,2,1,H
+Warrington Town,Curzon Ashton,1,4,A
+Warrington Town,Darlington,1,3,A
+Warrington Town,Farsley Celtic,1,1,D
+Warrington Town,Gloucester City,1,2,A
+Warrington Town,Hereford,1,2,A
+Warrington Town,King's Lynn Town,1,0,H
+Warrington Town,Peterborough Sports,0,1,A
+Warrington Town,Rushall Olympic,2,1,H
+Warrington Town,Scarborough Athletic,4,0,H
+Warrington Town,Scunthorpe United,0,2,A
+Warrington Town,South Shields,2,2,D
+Warrington Town,Southport,0,3,A
+Warrington Town,Spennymoor Town,3,3,D
+Warrington Town,Tamworth,0,3,A

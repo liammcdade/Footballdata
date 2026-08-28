@@ -22,3 +22,5 @@ While columns may vary slightly depending on the vintage, each dataset typically
 *   `FTHG` / `FTAG`: Full-time home and away goals scored.
 *   `FTR`: Full-time result (`H` = Home Win, `D` = Draw, `A` = Away Win).
 *   `HTHG` / `HTAG` / `HTR`: Half-time statistics (where available).
+- **Total CSV files:** 146
+- **Total data points (numeric cells):** 3,964,372

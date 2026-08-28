@@ -1,0 +1,553 @@
+HomeTeam,AwayTeam,FTHG,FTAG,FTR
+AFC Fylde,AFC Telford United,2,1,H
+AFC Fylde,Alfreton Town,3,0,H
+AFC Fylde,Bedford Town,1,0,H
+AFC Fylde,Buxton,1,2,A
+AFC Fylde,Chester,2,2,D
+AFC Fylde,Chorley,1,0,H
+AFC Fylde,Curzon Ashton,5,1,H
+AFC Fylde,Darlington,4,1,H
+AFC Fylde,Hereford,2,1,H
+AFC Fylde,Kidderminster Harriers,2,1,H
+AFC Fylde,King's Lynn Town,4,1,H
+AFC Fylde,Leamington,1,1,D
+AFC Fylde,Macclesfield,5,1,H
+AFC Fylde,Marine,2,0,H
+AFC Fylde,Merthyr Town,1,0,H
+AFC Fylde,Oxford City,3,2,H
+AFC Fylde,Peterborough Sports,5,2,H
+AFC Fylde,Radcliffe,4,3,H
+AFC Fylde,Scarborough Athletic,2,1,H
+AFC Fylde,South Shields,2,4,A
+AFC Fylde,Southport,4,0,H
+AFC Fylde,Spennymoor Town,5,0,H
+AFC Fylde,Worksop Town,2,3,A
+AFC Telford United,AFC Fylde,1,3,A
+AFC Telford United,Alfreton Town,4,1,H
+AFC Telford United,Bedford Town,2,2,D
+AFC Telford United,Buxton,0,1,A
+AFC Telford United,Chester,3,1,H
+AFC Telford United,Chorley,2,2,D
+AFC Telford United,Curzon Ashton,1,1,D
+AFC Telford United,Darlington,1,1,D
+AFC Telford United,Hereford,3,0,H
+AFC Telford United,Kidderminster Harriers,1,2,A
+AFC Telford United,King's Lynn Town,2,1,H
+AFC Telford United,Leamington,1,2,A
+AFC Telford United,Macclesfield,3,0,H
+AFC Telford United,Marine,0,2,A
+AFC Telford United,Merthyr Town,2,4,A
+AFC Telford United,Oxford City,4,0,H
+AFC Telford United,Peterborough Sports,3,2,H
+AFC Telford United,Radcliffe,2,0,H
+AFC Telford United,Scarborough Athletic,4,1,H
+AFC Telford United,South Shields,1,1,D
+AFC Telford United,Southport,2,2,D
+AFC Telford United,Spennymoor Town,3,0,H
+AFC Telford United,Worksop Town,2,1,H
+Alfreton Town,AFC Fylde,0,1,A
+Alfreton Town,AFC Telford United,1,0,H
+Alfreton Town,Bedford Town,1,2,A
+Alfreton Town,Buxton,2,2,D
+Alfreton Town,Chester,0,2,A
+Alfreton Town,Chorley,1,0,H
+Alfreton Town,Curzon Ashton,3,3,D
+Alfreton Town,Darlington,0,3,A
+Alfreton Town,Hereford,2,1,H
+Alfreton Town,Kidderminster Harriers,1,1,D
+Alfreton Town,King's Lynn Town,1,1,D
+Alfreton Town,Leamington,2,1,H
+Alfreton Town,Macclesfield,0,2,A
+Alfreton Town,Marine,2,0,H
+Alfreton Town,Merthyr Town,3,2,H
+Alfreton Town,Oxford City,1,1,D
+Alfreton Town,Peterborough Sports,0,2,A
+Alfreton Town,Radcliffe,1,1,D
+Alfreton Town,Scarborough Athletic,2,1,H
+Alfreton Town,South Shields,0,2,A
+Alfreton Town,Southport,1,1,D
+Alfreton Town,Spennymoor Town,2,1,H
+Alfreton Town,Worksop Town,1,1,D
+Bedford Town,AFC Fylde,0,2,A
+Bedford Town,AFC Telford United,3,1,H
+Bedford Town,Alfreton Town,2,2,D
+Bedford Town,Buxton,3,0,H
+Bedford Town,Chester,1,2,A
+Bedford Town,Chorley,2,0,H
+Bedford Town,Curzon Ashton,2,2,D
+Bedford Town,Darlington,3,4,A
+Bedford Town,Hereford,2,2,D
+Bedford Town,Kidderminster Harriers,0,0,D
+Bedford Town,King's Lynn Town,4,2,H
+Bedford Town,Leamington,3,1,H
+Bedford Town,Macclesfield,1,2,A
+Bedford Town,Marine,1,1,D
+Bedford Town,Merthyr Town,3,4,A
+Bedford Town,Oxford City,1,0,H
+Bedford Town,Peterborough Sports,4,1,H
+Bedford Town,Radcliffe,1,0,H
+Bedford Town,Scarborough Athletic,1,1,D
+Bedford Town,South Shields,1,2,A
+Bedford Town,Southport,2,3,A
+Bedford Town,Spennymoor Town,0,3,A
+Bedford Town,Worksop Town,0,2,A
+Buxton,AFC Fylde,0,3,A
+Buxton,AFC Telford United,0,2,A
+Buxton,Alfreton Town,6,0,H
+Buxton,Bedford Town,3,0,H
+Buxton,Chester,1,2,A
+Buxton,Chorley,3,2,H
+Buxton,Curzon Ashton,2,3,A
+Buxton,Darlington,1,0,H
+Buxton,Hereford,1,2,A
+Buxton,Kidderminster Harriers,1,3,A
+Buxton,King's Lynn Town,1,2,A
+Buxton,Leamington,4,1,H
+Buxton,Macclesfield,2,4,A
+Buxton,Marine,4,0,H
+Buxton,Merthyr Town,1,2,A
+Buxton,Oxford City,2,1,H
+Buxton,Peterborough Sports,0,0,D
+Buxton,Radcliffe,2,1,H
+Buxton,Scarborough Athletic,2,0,H
+Buxton,South Shields,1,1,D
+Buxton,Southport,1,2,A
+Buxton,Spennymoor Town,1,2,A
+Buxton,Worksop Town,3,1,H
+Chester,AFC Fylde,1,0,H
+Chester,AFC Telford United,2,1,H
+Chester,Alfreton Town,2,2,D
+Chester,Bedford Town,1,2,A
+Chester,Buxton,1,0,H
+Chester,Chorley,3,3,D
+Chester,Curzon Ashton,1,1,D
+Chester,Darlington,2,1,H
+Chester,Hereford,1,1,D
+Chester,Kidderminster Harriers,1,1,D
+Chester,King's Lynn Town,0,0,D
+Chester,Leamington,2,0,H
+Chester,Macclesfield,2,0,H
+Chester,Marine,1,1,D
+Chester,Merthyr Town,2,2,D
+Chester,Oxford City,2,1,H
+Chester,Peterborough Sports,3,2,H
+Chester,Radcliffe,1,3,A
+Chester,Scarborough Athletic,1,1,D
+Chester,South Shields,1,3,A
+Chester,Southport,1,2,A
+Chester,Spennymoor Town,2,1,H
+Chester,Worksop Town,0,1,A
+Chorley,AFC Fylde,2,0,H
+Chorley,AFC Telford United,3,1,H
+Chorley,Alfreton Town,0,1,A
+Chorley,Bedford Town,1,0,H
+Chorley,Buxton,1,2,A
+Chorley,Chester,3,0,H
+Chorley,Curzon Ashton,0,1,A
+Chorley,Darlington,1,2,A
+Chorley,Hereford,4,2,H
+Chorley,Kidderminster Harriers,2,1,H
+Chorley,King's Lynn Town,4,0,H
+Chorley,Leamington,1,1,D
+Chorley,Macclesfield,3,2,H
+Chorley,Marine,2,1,H
+Chorley,Merthyr Town,0,2,A
+Chorley,Oxford City,3,3,D
+Chorley,Peterborough Sports,0,1,A
+Chorley,Radcliffe,0,1,A
+Chorley,Scarborough Athletic,2,2,D
+Chorley,South Shields,1,1,D
+Chorley,Southport,4,2,H
+Chorley,Spennymoor Town,0,0,D
+Chorley,Worksop Town,2,1,H
+Curzon Ashton,AFC Fylde,1,3,A
+Curzon Ashton,AFC Telford United,0,8,A
+Curzon Ashton,Alfreton Town,2,1,H
+Curzon Ashton,Bedford Town,2,2,D
+Curzon Ashton,Buxton,0,4,A
+Curzon Ashton,Chester,0,1,A
+Curzon Ashton,Chorley,2,0,H
+Curzon Ashton,Darlington,1,2,A
+Curzon Ashton,Hereford,2,1,H
+Curzon Ashton,Kidderminster Harriers,0,1,A
+Curzon Ashton,King's Lynn Town,3,0,H
+Curzon Ashton,Leamington,1,1,D
+Curzon Ashton,Macclesfield,0,2,A
+Curzon Ashton,Marine,4,1,H
+Curzon Ashton,Merthyr Town,0,3,A
+Curzon Ashton,Oxford City,2,2,D
+Curzon Ashton,Peterborough Sports,1,0,H
+Curzon Ashton,Radcliffe,0,3,A
+Curzon Ashton,Scarborough Athletic,1,2,A
+Curzon Ashton,South Shields,1,2,A
+Curzon Ashton,Southport,1,3,A
+Curzon Ashton,Spennymoor Town,2,2,D
+Curzon Ashton,Worksop Town,3,1,H
+Darlington,AFC Fylde,1,3,A
+Darlington,AFC Telford United,2,2,D
+Darlington,Alfreton Town,3,1,H
+Darlington,Bedford Town,2,0,H
+Darlington,Buxton,0,2,A
+Darlington,Chester,1,1,D
+Darlington,Chorley,2,3,A
+Darlington,Curzon Ashton,3,3,D
+Darlington,Hereford,1,1,D
+Darlington,Kidderminster Harriers,0,2,A
+Darlington,King's Lynn Town,1,1,D
+Darlington,Leamington,1,0,H
+Darlington,Macclesfield,1,2,A
+Darlington,Marine,2,3,A
+Darlington,Merthyr Town,3,1,H
+Darlington,Oxford City,1,3,A
+Darlington,Peterborough Sports,5,2,H
+Darlington,Radcliffe,3,0,H
+Darlington,Scarborough Athletic,1,2,A
+Darlington,South Shields,1,2,A
+Darlington,Southport,2,0,H
+Darlington,Spennymoor Town,1,0,H
+Darlington,Worksop Town,5,1,H
+Hereford,AFC Fylde,1,4,A
+Hereford,AFC Telford United,1,1,D
+Hereford,Alfreton Town,2,0,H
+Hereford,Bedford Town,2,2,D
+Hereford,Buxton,0,2,A
+Hereford,Chester,5,2,H
+Hereford,Chorley,1,4,A
+Hereford,Curzon Ashton,3,3,D
+Hereford,Darlington,1,0,H
+Hereford,Kidderminster Harriers,0,1,A
+Hereford,King's Lynn Town,0,2,A
+Hereford,Leamington,5,1,H
+Hereford,Macclesfield,0,2,A
+Hereford,Marine,2,1,H
+Hereford,Merthyr Town,3,0,H
+Hereford,Oxford City,1,2,A
+Hereford,Peterborough Sports,2,2,D
+Hereford,Radcliffe,3,1,H
+Hereford,Scarborough Athletic,1,2,A
+Hereford,South Shields,2,1,H
+Hereford,Southport,1,2,A
+Hereford,Spennymoor Town,1,2,A
+Hereford,Worksop Town,2,1,H
+Kidderminster Harriers,AFC Fylde,1,0,H
+Kidderminster Harriers,AFC Telford United,3,0,H
+Kidderminster Harriers,Alfreton Town,1,0,H
+Kidderminster Harriers,Bedford Town,2,1,H
+Kidderminster Harriers,Buxton,2,2,D
+Kidderminster Harriers,Chester,1,1,D
+Kidderminster Harriers,Chorley,3,1,H
+Kidderminster Harriers,Curzon Ashton,1,0,H
+Kidderminster Harriers,Darlington,1,2,A
+Kidderminster Harriers,Hereford,2,1,H
+Kidderminster Harriers,King's Lynn Town,4,1,H
+Kidderminster Harriers,Leamington,3,2,H
+Kidderminster Harriers,Macclesfield,1,1,D
+Kidderminster Harriers,Marine,4,0,H
+Kidderminster Harriers,Merthyr Town,0,0,D
+Kidderminster Harriers,Oxford City,1,1,D
+Kidderminster Harriers,Peterborough Sports,4,0,H
+Kidderminster Harriers,Radcliffe,1,5,A
+Kidderminster Harriers,Scarborough Athletic,1,0,H
+Kidderminster Harriers,South Shields,1,0,H
+Kidderminster Harriers,Southport,1,1,D
+Kidderminster Harriers,Spennymoor Town,1,0,H
+Kidderminster Harriers,Worksop Town,2,2,D
+King's Lynn Town,AFC Fylde,1,2,A
+King's Lynn Town,AFC Telford United,1,1,D
+King's Lynn Town,Alfreton Town,0,2,A
+King's Lynn Town,Bedford Town,0,1,A
+King's Lynn Town,Buxton,3,2,H
+King's Lynn Town,Chester,0,2,A
+King's Lynn Town,Chorley,1,1,D
+King's Lynn Town,Curzon Ashton,0,0,D
+King's Lynn Town,Darlington,1,1,D
+King's Lynn Town,Hereford,0,0,D
+King's Lynn Town,Kidderminster Harriers,0,1,A
+King's Lynn Town,Leamington,2,0,H
+King's Lynn Town,Macclesfield,1,1,D
+King's Lynn Town,Marine,1,0,H
+King's Lynn Town,Merthyr Town,4,0,H
+King's Lynn Town,Oxford City,1,2,A
+King's Lynn Town,Peterborough Sports,2,2,D
+King's Lynn Town,Radcliffe,1,3,A
+King's Lynn Town,Scarborough Athletic,2,3,A
+King's Lynn Town,South Shields,3,0,H
+King's Lynn Town,Southport,2,0,H
+King's Lynn Town,Spennymoor Town,0,1,A
+King's Lynn Town,Worksop Town,0,1,A
+Leamington,AFC Fylde,1,1,D
+Leamington,AFC Telford United,1,3,A
+Leamington,Alfreton Town,1,2,A
+Leamington,Bedford Town,2,2,D
+Leamington,Buxton,0,1,A
+Leamington,Chester,0,2,A
+Leamington,Chorley,1,0,H
+Leamington,Curzon Ashton,2,1,H
+Leamington,Darlington,0,1,A
+Leamington,Hereford,1,2,A
+Leamington,Kidderminster Harriers,2,3,A
+Leamington,King's Lynn Town,2,5,A
+Leamington,Macclesfield,0,1,A
+Leamington,Marine,0,1,A
+Leamington,Merthyr Town,1,2,A
+Leamington,Oxford City,0,0,D
+Leamington,Peterborough Sports,4,2,H
+Leamington,Radcliffe,2,1,H
+Leamington,Scarborough Athletic,1,2,A
+Leamington,South Shields,0,2,A
+Leamington,Southport,2,1,H
+Leamington,Spennymoor Town,0,2,A
+Leamington,Worksop Town,1,2,A
+Macclesfield,AFC Fylde,1,4,A
+Macclesfield,AFC Telford United,1,1,D
+Macclesfield,Alfreton Town,1,1,D
+Macclesfield,Bedford Town,2,1,H
+Macclesfield,Buxton,0,2,A
+Macclesfield,Chester,0,2,A
+Macclesfield,Chorley,1,2,A
+Macclesfield,Curzon Ashton,3,2,H
+Macclesfield,Darlington,2,1,H
+Macclesfield,Hereford,3,1,H
+Macclesfield,Kidderminster Harriers,5,1,H
+Macclesfield,King's Lynn Town,4,0,H
+Macclesfield,Leamington,3,1,H
+Macclesfield,Marine,0,1,A
+Macclesfield,Merthyr Town,1,3,A
+Macclesfield,Oxford City,3,0,H
+Macclesfield,Peterborough Sports,3,1,H
+Macclesfield,Radcliffe,2,1,H
+Macclesfield,Scarborough Athletic,1,1,D
+Macclesfield,South Shields,1,0,H
+Macclesfield,Southport,2,1,H
+Macclesfield,Spennymoor Town,0,2,A
+Macclesfield,Worksop Town,3,1,H
+Marine,AFC Fylde,0,1,A
+Marine,AFC Telford United,2,1,H
+Marine,Alfreton Town,2,3,A
+Marine,Bedford Town,2,1,H
+Marine,Buxton,2,1,H
+Marine,Chester,2,1,H
+Marine,Chorley,2,1,H
+Marine,Curzon Ashton,0,4,A
+Marine,Darlington,1,4,A
+Marine,Hereford,0,1,A
+Marine,Kidderminster Harriers,2,0,H
+Marine,King's Lynn Town,1,1,D
+Marine,Leamington,5,0,H
+Marine,Macclesfield,2,4,A
+Marine,Merthyr Town,1,3,A
+Marine,Oxford City,0,0,D
+Marine,Peterborough Sports,0,1,A
+Marine,Radcliffe,3,0,H
+Marine,Scarborough Athletic,1,1,D
+Marine,South Shields,2,2,D
+Marine,Southport,4,2,H
+Marine,Spennymoor Town,0,2,A
+Marine,Worksop Town,4,2,H
+Merthyr Town,AFC Fylde,2,4,A
+Merthyr Town,AFC Telford United,1,4,A
+Merthyr Town,Alfreton Town,6,2,H
+Merthyr Town,Bedford Town,7,1,H
+Merthyr Town,Buxton,1,3,A
+Merthyr Town,Chester,1,2,A
+Merthyr Town,Chorley,2,3,A
+Merthyr Town,Curzon Ashton,2,1,H
+Merthyr Town,Darlington,3,1,H
+Merthyr Town,Hereford,2,2,D
+Merthyr Town,Kidderminster Harriers,0,1,A
+Merthyr Town,King's Lynn Town,1,0,H
+Merthyr Town,Leamington,4,1,H
+Merthyr Town,Macclesfield,1,2,A
+Merthyr Town,Marine,1,3,A
+Merthyr Town,Oxford City,1,1,D
+Merthyr Town,Peterborough Sports,2,0,H
+Merthyr Town,Radcliffe,0,5,A
+Merthyr Town,Scarborough Athletic,1,3,A
+Merthyr Town,South Shields,3,1,H
+Merthyr Town,Southport,2,0,H
+Merthyr Town,Spennymoor Town,2,3,A
+Merthyr Town,Worksop Town,2,0,H
+Oxford City,AFC Fylde,1,0,H
+Oxford City,AFC Telford United,0,0,D
+Oxford City,Alfreton Town,5,0,H
+Oxford City,Bedford Town,1,2,A
+Oxford City,Buxton,2,1,H
+Oxford City,Chester,1,2,A
+Oxford City,Chorley,2,0,H
+Oxford City,Curzon Ashton,1,2,A
+Oxford City,Darlington,5,1,H
+Oxford City,Hereford,3,0,H
+Oxford City,Kidderminster Harriers,3,2,H
+Oxford City,King's Lynn Town,0,1,A
+Oxford City,Leamington,1,1,D
+Oxford City,Macclesfield,2,1,H
+Oxford City,Marine,0,2,A
+Oxford City,Merthyr Town,1,3,A
+Oxford City,Peterborough Sports,2,0,H
+Oxford City,Radcliffe,1,5,A
+Oxford City,Scarborough Athletic,0,2,A
+Oxford City,South Shields,1,3,A
+Oxford City,Southport,1,2,A
+Oxford City,Spennymoor Town,1,2,A
+Oxford City,Worksop Town,2,0,H
+Peterborough Sports,AFC Fylde,0,5,A
+Peterborough Sports,AFC Telford United,2,3,A
+Peterborough Sports,Alfreton Town,1,1,D
+Peterborough Sports,Bedford Town,3,1,H
+Peterborough Sports,Buxton,1,2,A
+Peterborough Sports,Chester,3,0,H
+Peterborough Sports,Chorley,2,1,H
+Peterborough Sports,Curzon Ashton,1,1,D
+Peterborough Sports,Darlington,0,1,A
+Peterborough Sports,Hereford,0,2,A
+Peterborough Sports,Kidderminster Harriers,2,1,H
+Peterborough Sports,King's Lynn Town,2,2,D
+Peterborough Sports,Leamington,0,0,D
+Peterborough Sports,Macclesfield,4,3,H
+Peterborough Sports,Marine,0,0,D
+Peterborough Sports,Merthyr Town,0,3,A
+Peterborough Sports,Oxford City,0,0,D
+Peterborough Sports,Radcliffe,3,0,H
+Peterborough Sports,Scarborough Athletic,0,4,A
+Peterborough Sports,South Shields,0,3,A
+Peterborough Sports,Southport,0,1,A
+Peterborough Sports,Spennymoor Town,1,3,A
+Peterborough Sports,Worksop Town,0,1,A
+Radcliffe,AFC Fylde,3,3,D
+Radcliffe,AFC Telford United,2,2,D
+Radcliffe,Alfreton Town,3,1,H
+Radcliffe,Bedford Town,0,0,D
+Radcliffe,Buxton,1,5,A
+Radcliffe,Chester,1,3,A
+Radcliffe,Chorley,2,2,D
+Radcliffe,Curzon Ashton,3,3,D
+Radcliffe,Darlington,3,1,H
+Radcliffe,Hereford,1,0,H
+Radcliffe,Kidderminster Harriers,1,3,A
+Radcliffe,King's Lynn Town,0,1,A
+Radcliffe,Leamington,2,1,H
+Radcliffe,Macclesfield,1,0,H
+Radcliffe,Marine,4,1,H
+Radcliffe,Merthyr Town,1,3,A
+Radcliffe,Oxford City,1,0,H
+Radcliffe,Peterborough Sports,2,1,H
+Radcliffe,Scarborough Athletic,1,4,A
+Radcliffe,South Shields,2,5,A
+Radcliffe,Southport,1,2,A
+Radcliffe,Spennymoor Town,0,2,A
+Radcliffe,Worksop Town,2,1,H
+Scarborough Athletic,AFC Fylde,2,1,H
+Scarborough Athletic,AFC Telford United,1,1,D
+Scarborough Athletic,Alfreton Town,0,0,D
+Scarborough Athletic,Bedford Town,2,2,D
+Scarborough Athletic,Buxton,2,1,H
+Scarborough Athletic,Chester,1,0,H
+Scarborough Athletic,Chorley,0,0,D
+Scarborough Athletic,Curzon Ashton,1,0,H
+Scarborough Athletic,Darlington,0,1,A
+Scarborough Athletic,Hereford,0,0,D
+Scarborough Athletic,Kidderminster Harriers,0,2,A
+Scarborough Athletic,King's Lynn Town,1,1,D
+Scarborough Athletic,Leamington,2,0,H
+Scarborough Athletic,Macclesfield,2,2,D
+Scarborough Athletic,Marine,1,2,A
+Scarborough Athletic,Merthyr Town,2,1,H
+Scarborough Athletic,Oxford City,1,0,H
+Scarborough Athletic,Peterborough Sports,3,1,H
+Scarborough Athletic,Radcliffe,0,3,A
+Scarborough Athletic,South Shields,2,2,D
+Scarborough Athletic,Southport,2,0,H
+Scarborough Athletic,Spennymoor Town,1,0,H
+Scarborough Athletic,Worksop Town,0,0,D
+South Shields,AFC Fylde,2,1,H
+South Shields,AFC Telford United,2,2,D
+South Shields,Alfreton Town,3,0,H
+South Shields,Bedford Town,1,1,D
+South Shields,Buxton,2,2,D
+South Shields,Chester,4,0,H
+South Shields,Chorley,2,0,H
+South Shields,Curzon Ashton,3,0,H
+South Shields,Darlington,0,1,A
+South Shields,Hereford,2,1,H
+South Shields,Kidderminster Harriers,1,2,A
+South Shields,King's Lynn Town,1,1,D
+South Shields,Leamington,3,0,H
+South Shields,Macclesfield,4,1,H
+South Shields,Marine,1,0,H
+South Shields,Merthyr Town,4,1,H
+South Shields,Oxford City,4,1,H
+South Shields,Peterborough Sports,2,1,H
+South Shields,Radcliffe,3,0,H
+South Shields,Scarborough Athletic,4,0,H
+South Shields,Southport,1,0,H
+South Shields,Spennymoor Town,6,0,H
+South Shields,Worksop Town,3,1,H
+Southport,AFC Fylde,2,3,A
+Southport,AFC Telford United,2,0,H
+Southport,Alfreton Town,2,1,H
+Southport,Bedford Town,3,1,H
+Southport,Buxton,0,0,D
+Southport,Chester,2,2,D
+Southport,Chorley,1,1,D
+Southport,Curzon Ashton,2,4,A
+Southport,Darlington,2,2,D
+Southport,Hereford,5,1,H
+Southport,Kidderminster Harriers,2,2,D
+Southport,King's Lynn Town,0,0,D
+Southport,Leamington,1,2,A
+Southport,Macclesfield,1,2,A
+Southport,Marine,2,1,H
+Southport,Merthyr Town,1,0,H
+Southport,Oxford City,1,3,A
+Southport,Peterborough Sports,2,3,A
+Southport,Radcliffe,2,0,H
+Southport,Scarborough Athletic,1,1,D
+Southport,South Shields,0,0,D
+Southport,Spennymoor Town,2,0,H
+Southport,Worksop Town,1,1,D
+Spennymoor Town,AFC Fylde,0,5,A
+Spennymoor Town,AFC Telford United,0,2,A
+Spennymoor Town,Alfreton Town,1,1,D
+Spennymoor Town,Bedford Town,0,0,D
+Spennymoor Town,Buxton,2,2,D
+Spennymoor Town,Chester,1,2,A
+Spennymoor Town,Chorley,1,0,H
+Spennymoor Town,Curzon Ashton,4,1,H
+Spennymoor Town,Darlington,0,4,A
+Spennymoor Town,Hereford,2,0,H
+Spennymoor Town,Kidderminster Harriers,3,1,H
+Spennymoor Town,King's Lynn Town,0,5,A
+Spennymoor Town,Leamington,2,0,H
+Spennymoor Town,Macclesfield,0,0,D
+Spennymoor Town,Marine,1,1,D
+Spennymoor Town,Merthyr Town,6,4,H
+Spennymoor Town,Oxford City,1,1,D
+Spennymoor Town,Peterborough Sports,1,0,H
+Spennymoor Town,Radcliffe,2,3,A
+Spennymoor Town,Scarborough Athletic,1,1,D
+Spennymoor Town,South Shields,1,1,D
+Spennymoor Town,Southport,2,0,H
+Spennymoor Town,Worksop Town,0,1,A
+Worksop Town,AFC Fylde,1,0,H
+Worksop Town,AFC Telford United,3,1,H
+Worksop Town,Alfreton Town,1,0,H
+Worksop Town,Bedford Town,0,2,A
+Worksop Town,Buxton,1,2,A
+Worksop Town,Chester,2,1,H
+Worksop Town,Chorley,1,1,D
+Worksop Town,Curzon Ashton,0,1,A
+Worksop Town,Darlington,1,1,D
+Worksop Town,Hereford,2,3,A
+Worksop Town,Kidderminster Harriers,1,1,D
+Worksop Town,King's Lynn Town,2,2,D
+Worksop Town,Leamington,2,0,H
+Worksop Town,Macclesfield,2,4,A
+Worksop Town,Marine,1,2,A
+Worksop Town,Merthyr Town,3,5,A
+Worksop Town,Oxford City,1,2,A
+Worksop Town,Peterborough Sports,8,0,H
+Worksop Town,Radcliffe,2,0,H
+Worksop Town,Scarborough Athletic,1,0,H
+Worksop Town,South Shields,0,3,A
+Worksop Town,Southport,2,0,H
+Worksop Town,Spennymoor Town,3,3,D

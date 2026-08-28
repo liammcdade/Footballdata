@@ -8,6 +8,18 @@ K_FACTOR = 30
 INITIAL_RATING = 1500
 MIN_PERCENT = 0.05
 MIN_ABSOLUTE = 3
+
+# League weights: 1.0 for Premier League, down to 0.0 for National League North
+# Adjust these values as you see fit.
+LEAGUE_WEIGHTS = {
+    'premier league': 1.0,
+    'championship': 0.8,
+    'league1': 0.6,
+    'league2': 0.4,
+    'national league': 0.25,
+    'nationalleaguenorth': 0.1,
+    'nationalleaguesouth': 0.1,
+}
 # -----------------------------------
 
 def parse_date(date_str):
@@ -15,15 +27,12 @@ def parse_date(date_str):
     date_str = date_str.strip()
     if not date_str:
         return None
-    # If there's a time part (e.g., "14/08/93 15:00"), remove it
     if ' ' in date_str:
         date_str = date_str.split(' ')[0]
-    # Try 4-digit year first
     try:
         return datetime.strptime(date_str, '%d/%m/%Y')
     except ValueError:
         pass
-    # Try 2-digit year
     try:
         return datetime.strptime(date_str, '%d/%m/%y')
     except ValueError:
@@ -44,6 +53,12 @@ def read_all_matches(data_dir):
     print(f"Found {len(csv_files)} CSV files.")
     for f in csv_files:
         rel = os.path.relpath(f, data_dir)
+        parts = rel.split(os.sep)
+        league = parts[0].lower() if len(parts) > 1 else ''
+        weight = LEAGUE_WEIGHTS.get(league, 1.0)
+        if league and league not in LEAGUE_WEIGHTS:
+            print(f"Warning: Unknown league '{league}' – using weight 1.0")
+
         encodings = ['utf-8-sig', 'latin-1', 'cp1252']
         for enc in encodings:
             try:
@@ -52,28 +67,34 @@ def read_all_matches(data_dir):
                     header = next(reader, None)
                     if header is None:
                         continue
-                    # Map column names to indices (case‑insensitive)
                     col_map = {name.strip().lower(): idx for idx, name in enumerate(header)}
-                    # Required columns
-                    required = ['date', 'hometeam', 'awayteam', 'fthg', 'ftag', 'ftr']
+                    
+                    # Required columns (date is optional if weight is low)
+                    required = ['hometeam', 'awayteam', 'fthg', 'ftag', 'ftr']
                     if not all(col in col_map for col in required):
                         print(f"Warning: {rel} missing required columns; skipping file.")
                         break
-                    idx_date = col_map['date']
+                    
+                    # Date handling: if missing, only allow if weight is low
+                    has_date = 'date' in col_map
+                    if not has_date and weight > 0.2:
+                        print(f"Warning: {rel} has no date column and weight > 0.2; skipping file.")
+                        break
+                    
                     idx_home = col_map['hometeam']
                     idx_away = col_map['awayteam']
                     idx_hg = col_map['fthg']
                     idx_ag = col_map['ftag']
                     idx_res = col_map['ftr']
+                    idx_date = col_map.get('date', -1)  # -1 if missing
 
                     for row in reader:
-                        if len(row) <= max(idx_date, idx_home, idx_away, idx_hg, idx_ag, idx_res):
+                        if len(row) <= max(idx_home, idx_away, idx_hg, idx_ag, idx_res):
                             continue
-                        date_str = row[idx_date].strip()
                         home = row[idx_home].strip()
                         away = row[idx_away].strip()
                         ftr = row[idx_res].strip()
-                        if not date_str or not home or not away or not ftr:
+                        if not home or not away or not ftr:
                             continue
                         try:
                             home_goals = int(row[idx_hg].strip()) if row[idx_hg].strip() else 0
@@ -81,11 +102,18 @@ def read_all_matches(data_dir):
                         except (ValueError, IndexError):
                             home_goals = away_goals = 0
 
-                        dt = parse_date(date_str)
-                        if dt is None:
-                            continue
-                        matches.append((dt, home, away, home_goals, away_goals, ftr))
-                # Successfully read the file, break encoding loop
+                        # Parse date or use dummy
+                        if has_date and idx_date != -1 and len(row) > idx_date:
+                            date_str = row[idx_date].strip()
+                            dt = parse_date(date_str)
+                            if dt is None and weight > 0.2:
+                                continue  # skip only if we actually need the date
+                            elif dt is None:
+                                dt = datetime(2000, 1, 1)  # dummy for low-weight
+                        else:
+                            dt = datetime(2000, 1, 1)  # dummy if no date column
+
+                        matches.append((dt, home, away, home_goals, away_goals, ftr, weight))
                 break
             except UnicodeDecodeError:
                 continue
@@ -96,9 +124,15 @@ def read_all_matches(data_dir):
 
 def compute_elo_and_performance(matches):
     ratings = defaultdict(lambda: INITIAL_RATING)
-    performance = defaultdict(lambda: defaultdict(lambda: {'actual': 0.0, 'expected': 0.0, 'count': 0}))
+    # performance: team -> opponent -> dict with unweighted count and weighted sums
+    performance = defaultdict(lambda: defaultdict(lambda: {
+        'count': 0,                # number of matches (unweighted)
+        'weighted_actual': 0.0,
+        'weighted_expected': 0.0,
+        'weighted_count': 0.0      # sum of weights for averaging
+    }))
 
-    for dt, home, away, home_goals, away_goals, ftr in matches:
+    for dt, home, away, home_goals, away_goals, ftr, weight in matches:
         Rh = ratings[home]
         Ra = ratings[away]
 
@@ -106,7 +140,7 @@ def compute_elo_and_performance(matches):
         Eh = 1.0 / (1.0 + 10.0 ** ((Ra - Rh) / 400.0))
         Ea = 1.0 - Eh
 
-        # Actual points: 1 for win, 0.5 for draw, 0 for loss
+        # Actual points
         if ftr == 'H':
             ah, aa = 1.0, 0.0
         elif ftr == 'A':
@@ -114,27 +148,30 @@ def compute_elo_and_performance(matches):
         else:  # 'D'
             ah, aa = 0.5, 0.5
 
-        # Update Elo ratings
-        ratings[home] = Rh + K_FACTOR * (ah - Eh)
-        ratings[away] = Ra + K_FACTOR * (aa - Ea)
+        # Update Elo ratings – scaled by league weight
+        ratings[home] = Rh + K_FACTOR * weight * (ah - Eh)
+        ratings[away] = Ra + K_FACTOR * weight * (aa - Ea)
 
-        # Record performance for home team against away
+        # Update performance stats for home team against away
         perf_home = performance[home][away]
-        perf_home['actual'] += ah
-        perf_home['expected'] += Eh
         perf_home['count'] += 1
+        perf_home['weighted_actual'] += weight * ah
+        perf_home['weighted_expected'] += weight * Eh
+        perf_home['weighted_count'] += weight
 
-        # Record performance for away team against home
+        # Update performance stats for away team against home
         perf_away = performance[away][home]
-        perf_away['actual'] += aa
-        perf_away['expected'] += Ea
         perf_away['count'] += 1
+        perf_away['weighted_actual'] += weight * aa
+        perf_away['weighted_expected'] += weight * Ea
+        perf_away['weighted_count'] += weight
 
     return ratings, performance
 
 def analyse_performance(performance):
     results = {}
     for team, opponents in performance.items():
+        # Total matches (unweighted) for this team
         team_total = sum(stats['count'] for stats in opponents.values())
         min_games = max(MIN_ABSOLUTE, int(MIN_PERCENT * team_total))
 
@@ -143,14 +180,18 @@ def analyse_performance(performance):
             cnt = stats['count']
             if cnt < min_games:
                 continue
-            actual = stats['actual']
-            expected = stats['expected']
-            avg_dev = (actual - expected) / cnt
+            # Weighted averages
+            wc = stats['weighted_count']
+            if wc == 0:
+                continue
+            wa = stats['weighted_actual'] / wc
+            we = stats['weighted_expected'] / wc
+            avg_dev = wa - we   # because (weighted_actual - weighted_expected) / wc
             valid_opponents[opp] = {
                 'count': cnt,
                 'avg_dev': avg_dev,
-                'avg_actual': actual / cnt,
-                'avg_expected': expected / cnt
+                'avg_actual': wa,
+                'avg_expected': we
             }
 
         if not valid_opponents:
@@ -180,7 +221,7 @@ def main():
         print("No valid matches found.")
         return
 
-    print("Computing Elo ratings and performance deviations...")
+    print("Computing Elo ratings and performance deviations (league‑weighted)...")
     ratings, performance = compute_elo_and_performance(matches)
 
     print("Analysing results...")
@@ -192,15 +233,14 @@ def main():
         best_opp, best_stats = data['best']
         worst_opp, worst_stats = data['worst']
         print(f"  Most favourable opponent: {best_opp}")
-        print(f"    Games: {best_stats['count']}, Avg Actual PPG: {best_stats['avg_actual']:.3f}, "
-              f"Avg Expected PPG: {best_stats['avg_expected']:.3f}, "
-              f"Avg Deviation: {best_stats['avg_dev']:+.3f}")
+        print(f"    Games: {best_stats['count']}, Weighted Avg Actual PPG: {best_stats['avg_actual']:.3f}, "
+              f"Weighted Avg Expected PPG: {best_stats['avg_expected']:.3f}, "
+              f"Weighted Avg Deviation: {best_stats['avg_dev']:+.3f}")
         print(f"  Least favourable opponent: {worst_opp}")
-        print(f"    Games: {worst_stats['count']}, Avg Actual PPG: {worst_stats['avg_actual']:.3f}, "
-              f"Avg Expected PPG: {worst_stats['avg_expected']:.3f}, "
-              f"Avg Deviation: {worst_stats['avg_dev']:+.3f}")
+        print(f"    Games: {worst_stats['count']}, Weighted Avg Actual PPG: {worst_stats['avg_actual']:.3f}, "
+              f"Weighted Avg Expected PPG: {worst_stats['avg_expected']:.3f}, "
+              f"Weighted Avg Deviation: {worst_stats['avg_dev']:+.3f}")
 
-    # Print final Elo ratings (now in normal range)
     print("\nFinal Elo ratings (top 10):")
     sorted_ratings = sorted(ratings.items(), key=lambda x: x[1], reverse=True)
     for team, rating in sorted_ratings:

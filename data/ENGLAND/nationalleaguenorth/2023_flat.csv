@@ -1,0 +1,553 @@
+HomeTeam,AwayTeam,FTHG,FTAG,FTR
+AFC Fylde,AFC Telford United,3,1,H
+AFC Fylde,Alfreton Town,2,0,H
+AFC Fylde,Banbury United,5,0,H
+AFC Fylde,Blyth Spartans,0,3,A
+AFC Fylde,Boston United,4,1,H
+AFC Fylde,Brackley Town,3,0,H
+AFC Fylde,Bradford (Park Avenue),3,1,H
+AFC Fylde,Buxton,1,0,H
+AFC Fylde,Chester,1,1,D
+AFC Fylde,Chorley,1,2,A
+AFC Fylde,Curzon Ashton,3,1,H
+AFC Fylde,Darlington,3,2,H
+AFC Fylde,Farsley Celtic,3,1,H
+AFC Fylde,Gloucester City,2,0,H
+AFC Fylde,Hereford,1,3,A
+AFC Fylde,Kettering Town,2,1,H
+AFC Fylde,Kidderminster Harriers,0,2,A
+AFC Fylde,King's Lynn Town,3,3,D
+AFC Fylde,Leamington,5,1,H
+AFC Fylde,Peterborough Sports,1,0,H
+AFC Fylde,Scarborough Athletic,0,2,A
+AFC Fylde,Southport,1,0,H
+AFC Fylde,Spennymoor Town,2,2,D
+AFC Telford United,AFC Fylde,0,3,A
+AFC Telford United,Alfreton Town,1,2,A
+AFC Telford United,Banbury United,2,1,H
+AFC Telford United,Blyth Spartans,0,1,A
+AFC Telford United,Boston United,1,2,A
+AFC Telford United,Brackley Town,0,1,A
+AFC Telford United,Bradford (Park Avenue),4,0,H
+AFC Telford United,Buxton,1,1,D
+AFC Telford United,Chester,0,0,D
+AFC Telford United,Chorley,1,0,H
+AFC Telford United,Curzon Ashton,2,3,A
+AFC Telford United,Darlington,1,4,A
+AFC Telford United,Farsley Celtic,1,1,D
+AFC Telford United,Gloucester City,0,4,A
+AFC Telford United,Hereford,0,1,A
+AFC Telford United,Kettering Town,1,1,D
+AFC Telford United,Kidderminster Harriers,1,2,A
+AFC Telford United,King's Lynn Town,0,4,A
+AFC Telford United,Leamington,1,1,D
+AFC Telford United,Peterborough Sports,0,1,A
+AFC Telford United,Scarborough Athletic,1,1,D
+AFC Telford United,Southport,1,1,D
+AFC Telford United,Spennymoor Town,1,1,D
+Alfreton Town,AFC Fylde,0,1,A
+Alfreton Town,AFC Telford United,1,0,H
+Alfreton Town,Banbury United,2,0,H
+Alfreton Town,Blyth Spartans,1,0,H
+Alfreton Town,Boston United,3,1,H
+Alfreton Town,Brackley Town,1,0,H
+Alfreton Town,Bradford (Park Avenue),0,0,D
+Alfreton Town,Buxton,3,0,H
+Alfreton Town,Chester,2,2,D
+Alfreton Town,Chorley,0,2,A
+Alfreton Town,Curzon Ashton,1,2,A
+Alfreton Town,Darlington,2,2,D
+Alfreton Town,Farsley Celtic,1,0,H
+Alfreton Town,Gloucester City,1,2,A
+Alfreton Town,Hereford,1,1,D
+Alfreton Town,Kettering Town,2,0,H
+Alfreton Town,Kidderminster Harriers,1,1,D
+Alfreton Town,King's Lynn Town,0,2,A
+Alfreton Town,Leamington,2,0,H
+Alfreton Town,Peterborough Sports,2,2,D
+Alfreton Town,Scarborough Athletic,2,0,H
+Alfreton Town,Southport,4,0,H
+Alfreton Town,Spennymoor Town,3,2,H
+Banbury United,AFC Fylde,3,1,H
+Banbury United,AFC Telford United,1,2,A
+Banbury United,Alfreton Town,1,1,D
+Banbury United,Blyth Spartans,0,0,D
+Banbury United,Boston United,0,0,D
+Banbury United,Brackley Town,0,1,A
+Banbury United,Bradford (Park Avenue),1,0,H
+Banbury United,Buxton,1,3,A
+Banbury United,Chester,2,2,D
+Banbury United,Chorley,3,0,H
+Banbury United,Curzon Ashton,0,0,D
+Banbury United,Darlington,0,0,D
+Banbury United,Farsley Celtic,2,2,D
+Banbury United,Gloucester City,1,1,D
+Banbury United,Hereford,3,1,H
+Banbury United,Kettering Town,0,3,A
+Banbury United,Kidderminster Harriers,0,1,A
+Banbury United,King's Lynn Town,0,1,A
+Banbury United,Leamington,2,2,D
+Banbury United,Peterborough Sports,0,0,D
+Banbury United,Scarborough Athletic,2,1,H
+Banbury United,Southport,3,1,H
+Banbury United,Spennymoor Town,0,1,A
+Blyth Spartans,AFC Fylde,0,0,D
+Blyth Spartans,AFC Telford United,3,0,H
+Blyth Spartans,Alfreton Town,2,2,D
+Blyth Spartans,Banbury United,1,1,D
+Blyth Spartans,Boston United,1,4,A
+Blyth Spartans,Brackley Town,1,1,D
+Blyth Spartans,Bradford (Park Avenue),0,1,A
+Blyth Spartans,Buxton,0,3,A
+Blyth Spartans,Chester,0,2,A
+Blyth Spartans,Chorley,1,2,A
+Blyth Spartans,Curzon Ashton,2,2,D
+Blyth Spartans,Darlington,0,0,D
+Blyth Spartans,Farsley Celtic,1,1,D
+Blyth Spartans,Gloucester City,2,0,H
+Blyth Spartans,Hereford,5,0,H
+Blyth Spartans,Kettering Town,1,0,H
+Blyth Spartans,Kidderminster Harriers,0,1,A
+Blyth Spartans,King's Lynn Town,0,0,D
+Blyth Spartans,Leamington,2,2,D
+Blyth Spartans,Peterborough Sports,1,1,D
+Blyth Spartans,Scarborough Athletic,1,2,A
+Blyth Spartans,Southport,1,0,H
+Blyth Spartans,Spennymoor Town,1,3,A
+Boston United,AFC Fylde,0,1,A
+Boston United,AFC Telford United,4,1,H
+Boston United,Alfreton Town,1,0,H
+Boston United,Banbury United,0,1,A
+Boston United,Blyth Spartans,3,0,H
+Boston United,Brackley Town,1,0,H
+Boston United,Bradford (Park Avenue),1,0,H
+Boston United,Buxton,3,0,H
+Boston United,Chester,2,3,A
+Boston United,Chorley,1,4,A
+Boston United,Curzon Ashton,0,1,A
+Boston United,Darlington,3,1,H
+Boston United,Farsley Celtic,4,0,H
+Boston United,Gloucester City,2,2,D
+Boston United,Hereford,2,4,A
+Boston United,Kettering Town,1,1,D
+Boston United,Kidderminster Harriers,2,1,H
+Boston United,King's Lynn Town,0,2,A
+Boston United,Leamington,3,0,H
+Boston United,Peterborough Sports,0,0,D
+Boston United,Scarborough Athletic,2,2,D
+Boston United,Southport,3,5,A
+Boston United,Spennymoor Town,1,2,A
+Brackley Town,AFC Fylde,1,1,D
+Brackley Town,AFC Telford United,1,2,A
+Brackley Town,Alfreton Town,1,1,D
+Brackley Town,Banbury United,1,1,D
+Brackley Town,Blyth Spartans,1,1,D
+Brackley Town,Boston United,1,0,H
+Brackley Town,Bradford (Park Avenue),4,1,H
+Brackley Town,Buxton,2,0,H
+Brackley Town,Chester,1,1,D
+Brackley Town,Chorley,1,1,D
+Brackley Town,Curzon Ashton,1,0,H
+Brackley Town,Darlington,3,0,H
+Brackley Town,Farsley Celtic,0,3,A
+Brackley Town,Gloucester City,4,0,H
+Brackley Town,Hereford,2,1,H
+Brackley Town,Kettering Town,3,0,H
+Brackley Town,Kidderminster Harriers,2,0,H
+Brackley Town,King's Lynn Town,1,1,D
+Brackley Town,Leamington,1,2,A
+Brackley Town,Peterborough Sports,2,0,H
+Brackley Town,Scarborough Athletic,2,0,H
+Brackley Town,Southport,1,0,H
+Brackley Town,Spennymoor Town,2,1,H
+Bradford (Park Avenue),AFC Fylde,0,2,A
+Bradford (Park Avenue),AFC Telford United,1,0,H
+Bradford (Park Avenue),Alfreton Town,3,0,H
+Bradford (Park Avenue),Banbury United,1,0,H
+Bradford (Park Avenue),Blyth Spartans,0,1,A
+Bradford (Park Avenue),Boston United,2,1,H
+Bradford (Park Avenue),Brackley Town,1,2,A
+Bradford (Park Avenue),Buxton,1,4,A
+Bradford (Park Avenue),Chester,1,2,A
+Bradford (Park Avenue),Chorley,0,0,D
+Bradford (Park Avenue),Curzon Ashton,2,1,H
+Bradford (Park Avenue),Darlington,1,3,A
+Bradford (Park Avenue),Farsley Celtic,1,1,D
+Bradford (Park Avenue),Gloucester City,2,1,H
+Bradford (Park Avenue),Hereford,1,0,H
+Bradford (Park Avenue),Kettering Town,1,1,D
+Bradford (Park Avenue),Kidderminster Harriers,0,1,A
+Bradford (Park Avenue),King's Lynn Town,0,1,A
+Bradford (Park Avenue),Leamington,3,1,H
+Bradford (Park Avenue),Peterborough Sports,1,2,A
+Bradford (Park Avenue),Scarborough Athletic,0,0,D
+Bradford (Park Avenue),Southport,2,0,H
+Bradford (Park Avenue),Spennymoor Town,0,1,A
+Buxton,AFC Fylde,2,2,D
+Buxton,AFC Telford United,0,2,A
+Buxton,Alfreton Town,0,0,D
+Buxton,Banbury United,0,4,A
+Buxton,Blyth Spartans,1,2,A
+Buxton,Boston United,1,0,H
+Buxton,Brackley Town,3,1,H
+Buxton,Bradford (Park Avenue),2,3,A
+Buxton,Chester,0,0,D
+Buxton,Chorley,2,2,D
+Buxton,Curzon Ashton,1,0,H
+Buxton,Darlington,2,1,H
+Buxton,Farsley Celtic,2,0,H
+Buxton,Gloucester City,2,1,H
+Buxton,Hereford,0,1,A
+Buxton,Kettering Town,2,2,D
+Buxton,Kidderminster Harriers,1,1,D
+Buxton,King's Lynn Town,1,0,H
+Buxton,Leamington,1,1,D
+Buxton,Peterborough Sports,3,0,H
+Buxton,Scarborough Athletic,0,1,A
+Buxton,Southport,1,0,H
+Buxton,Spennymoor Town,2,1,H
+Chester,AFC Fylde,0,1,A
+Chester,AFC Telford United,1,1,D
+Chester,Alfreton Town,1,1,D
+Chester,Banbury United,4,2,H
+Chester,Blyth Spartans,1,0,H
+Chester,Boston United,1,0,H
+Chester,Brackley Town,2,0,H
+Chester,Bradford (Park Avenue),1,0,H
+Chester,Buxton,4,0,H
+Chester,Chorley,0,0,D
+Chester,Curzon Ashton,2,2,D
+Chester,Darlington,0,1,A
+Chester,Farsley Celtic,2,2,D
+Chester,Gloucester City,1,1,D
+Chester,Hereford,0,1,A
+Chester,Kettering Town,4,0,H
+Chester,Kidderminster Harriers,2,0,H
+Chester,King's Lynn Town,3,3,D
+Chester,Leamington,1,1,D
+Chester,Peterborough Sports,0,1,A
+Chester,Scarborough Athletic,2,2,D
+Chester,Southport,1,0,H
+Chester,Spennymoor Town,1,2,A
+Chorley,AFC Fylde,0,1,A
+Chorley,AFC Telford United,1,0,H
+Chorley,Alfreton Town,0,0,D
+Chorley,Banbury United,1,0,H
+Chorley,Blyth Spartans,1,1,D
+Chorley,Boston United,2,3,A
+Chorley,Brackley Town,0,0,D
+Chorley,Bradford (Park Avenue),0,0,D
+Chorley,Buxton,2,2,D
+Chorley,Chester,2,2,D
+Chorley,Curzon Ashton,3,0,H
+Chorley,Darlington,1,1,D
+Chorley,Farsley Celtic,4,3,H
+Chorley,Gloucester City,3,0,H
+Chorley,Hereford,2,0,H
+Chorley,Kettering Town,2,0,H
+Chorley,Kidderminster Harriers,1,0,H
+Chorley,King's Lynn Town,0,1,A
+Chorley,Leamington,1,0,H
+Chorley,Peterborough Sports,1,0,H
+Chorley,Scarborough Athletic,2,3,A
+Chorley,Southport,1,2,A
+Chorley,Spennymoor Town,2,0,H
+Curzon Ashton,AFC Fylde,0,2,A
+Curzon Ashton,AFC Telford United,3,0,H
+Curzon Ashton,Alfreton Town,0,1,A
+Curzon Ashton,Banbury United,1,2,A
+Curzon Ashton,Blyth Spartans,0,2,A
+Curzon Ashton,Boston United,2,2,D
+Curzon Ashton,Brackley Town,3,1,H
+Curzon Ashton,Bradford (Park Avenue),0,0,D
+Curzon Ashton,Buxton,2,1,H
+Curzon Ashton,Chester,1,2,A
+Curzon Ashton,Chorley,2,1,H
+Curzon Ashton,Darlington,0,2,A
+Curzon Ashton,Farsley Celtic,5,2,H
+Curzon Ashton,Gloucester City,4,3,H
+Curzon Ashton,Hereford,1,3,A
+Curzon Ashton,Kettering Town,1,0,H
+Curzon Ashton,Kidderminster Harriers,0,1,A
+Curzon Ashton,King's Lynn Town,1,1,D
+Curzon Ashton,Leamington,0,0,D
+Curzon Ashton,Peterborough Sports,3,0,H
+Curzon Ashton,Scarborough Athletic,2,0,H
+Curzon Ashton,Southport,1,1,D
+Curzon Ashton,Spennymoor Town,1,0,H
+Darlington,AFC Fylde,1,2,A
+Darlington,AFC Telford United,3,1,H
+Darlington,Alfreton Town,3,1,H
+Darlington,Banbury United,1,2,A
+Darlington,Blyth Spartans,1,0,H
+Darlington,Boston United,3,2,H
+Darlington,Brackley Town,2,2,D
+Darlington,Bradford (Park Avenue),2,2,D
+Darlington,Buxton,1,1,D
+Darlington,Chester,1,2,A
+Darlington,Chorley,0,3,A
+Darlington,Curzon Ashton,0,2,A
+Darlington,Farsley Celtic,1,0,H
+Darlington,Gloucester City,3,1,H
+Darlington,Hereford,3,0,H
+Darlington,Kettering Town,2,2,D
+Darlington,Kidderminster Harriers,0,0,D
+Darlington,King's Lynn Town,1,3,A
+Darlington,Leamington,1,1,D
+Darlington,Peterborough Sports,2,0,H
+Darlington,Scarborough Athletic,2,3,A
+Darlington,Southport,0,0,D
+Darlington,Spennymoor Town,3,2,H
+Farsley Celtic,AFC Fylde,1,2,A
+Farsley Celtic,AFC Telford United,0,0,D
+Farsley Celtic,Alfreton Town,0,0,D
+Farsley Celtic,Banbury United,3,1,H
+Farsley Celtic,Blyth Spartans,0,2,A
+Farsley Celtic,Boston United,0,2,A
+Farsley Celtic,Brackley Town,2,1,H
+Farsley Celtic,Bradford (Park Avenue),2,2,D
+Farsley Celtic,Buxton,2,1,H
+Farsley Celtic,Chester,0,2,A
+Farsley Celtic,Chorley,0,0,D
+Farsley Celtic,Curzon Ashton,1,1,D
+Farsley Celtic,Darlington,3,1,H
+Farsley Celtic,Gloucester City,2,1,H
+Farsley Celtic,Hereford,1,0,H
+Farsley Celtic,Kettering Town,2,0,H
+Farsley Celtic,Kidderminster Harriers,0,1,A
+Farsley Celtic,King's Lynn Town,2,0,H
+Farsley Celtic,Leamington,1,1,D
+Farsley Celtic,Peterborough Sports,1,1,D
+Farsley Celtic,Scarborough Athletic,2,4,A
+Farsley Celtic,Southport,0,3,A
+Farsley Celtic,Spennymoor Town,2,2,D
+Gloucester City,AFC Fylde,1,2,A
+Gloucester City,AFC Telford United,3,0,H
+Gloucester City,Alfreton Town,1,1,D
+Gloucester City,Banbury United,1,1,D
+Gloucester City,Blyth Spartans,2,2,D
+Gloucester City,Boston United,2,0,H
+Gloucester City,Brackley Town,0,1,A
+Gloucester City,Bradford (Park Avenue),5,1,H
+Gloucester City,Buxton,0,1,A
+Gloucester City,Chester,1,1,D
+Gloucester City,Chorley,4,3,H
+Gloucester City,Curzon Ashton,0,3,A
+Gloucester City,Darlington,2,6,A
+Gloucester City,Farsley Celtic,5,1,H
+Gloucester City,Hereford,2,0,H
+Gloucester City,Kettering Town,2,0,H
+Gloucester City,Kidderminster Harriers,1,1,D
+Gloucester City,King's Lynn Town,2,1,H
+Gloucester City,Leamington,1,1,D
+Gloucester City,Peterborough Sports,3,1,H
+Gloucester City,Scarborough Athletic,2,3,A
+Gloucester City,Southport,3,2,H
+Gloucester City,Spennymoor Town,2,0,H
+Hereford,AFC Fylde,2,1,H
+Hereford,AFC Telford United,0,0,D
+Hereford,Alfreton Town,0,0,D
+Hereford,Banbury United,2,3,A
+Hereford,Blyth Spartans,3,0,H
+Hereford,Boston United,1,1,D
+Hereford,Brackley Town,2,2,D
+Hereford,Bradford (Park Avenue),0,0,D
+Hereford,Buxton,2,0,H
+Hereford,Chester,1,2,A
+Hereford,Chorley,1,1,D
+Hereford,Curzon Ashton,0,2,A
+Hereford,Darlington,1,2,A
+Hereford,Farsley Celtic,2,0,H
+Hereford,Gloucester City,1,3,A
+Hereford,Kettering Town,1,0,H
+Hereford,Kidderminster Harriers,0,1,A
+Hereford,King's Lynn Town,0,1,A
+Hereford,Leamington,0,0,D
+Hereford,Peterborough Sports,0,1,A
+Hereford,Scarborough Athletic,2,0,H
+Hereford,Southport,2,0,H
+Hereford,Spennymoor Town,3,3,D
+Kettering Town,AFC Fylde,0,0,D
+Kettering Town,AFC Telford United,2,0,H
+Kettering Town,Alfreton Town,1,3,A
+Kettering Town,Banbury United,0,0,D
+Kettering Town,Blyth Spartans,4,2,H
+Kettering Town,Boston United,3,2,H
+Kettering Town,Brackley Town,1,0,H
+Kettering Town,Bradford (Park Avenue),1,1,D
+Kettering Town,Buxton,0,0,D
+Kettering Town,Chester,0,1,A
+Kettering Town,Chorley,3,3,D
+Kettering Town,Curzon Ashton,1,0,H
+Kettering Town,Darlington,0,0,D
+Kettering Town,Farsley Celtic,0,0,D
+Kettering Town,Gloucester City,0,1,A
+Kettering Town,Hereford,2,0,H
+Kettering Town,Kidderminster Harriers,0,3,A
+Kettering Town,King's Lynn Town,1,0,H
+Kettering Town,Leamington,3,0,H
+Kettering Town,Peterborough Sports,0,0,D
+Kettering Town,Scarborough Athletic,1,1,D
+Kettering Town,Southport,0,0,D
+Kettering Town,Spennymoor Town,2,1,H
+Kidderminster Harriers,AFC Fylde,0,0,D
+Kidderminster Harriers,AFC Telford United,3,0,H
+Kidderminster Harriers,Alfreton Town,0,0,D
+Kidderminster Harriers,Banbury United,0,2,A
+Kidderminster Harriers,Blyth Spartans,3,1,H
+Kidderminster Harriers,Boston United,0,0,D
+Kidderminster Harriers,Brackley Town,1,2,A
+Kidderminster Harriers,Bradford (Park Avenue),1,1,D
+Kidderminster Harriers,Buxton,1,0,H
+Kidderminster Harriers,Chester,0,2,A
+Kidderminster Harriers,Chorley,1,0,H
+Kidderminster Harriers,Curzon Ashton,1,2,A
+Kidderminster Harriers,Darlington,1,2,A
+Kidderminster Harriers,Farsley Celtic,0,2,A
+Kidderminster Harriers,Gloucester City,0,1,A
+Kidderminster Harriers,Hereford,1,1,D
+Kidderminster Harriers,Kettering Town,3,0,H
+Kidderminster Harriers,King's Lynn Town,1,1,D
+Kidderminster Harriers,Leamington,0,0,D
+Kidderminster Harriers,Peterborough Sports,2,0,H
+Kidderminster Harriers,Scarborough Athletic,0,1,A
+Kidderminster Harriers,Southport,0,2,A
+Kidderminster Harriers,Spennymoor Town,4,1,H
+King's Lynn Town,AFC Fylde,0,1,A
+King's Lynn Town,AFC Telford United,3,0,H
+King's Lynn Town,Alfreton Town,3,2,H
+King's Lynn Town,Banbury United,3,1,H
+King's Lynn Town,Blyth Spartans,2,0,H
+King's Lynn Town,Boston United,2,1,H
+King's Lynn Town,Brackley Town,2,1,H
+King's Lynn Town,Bradford (Park Avenue),2,1,H
+King's Lynn Town,Buxton,1,1,D
+King's Lynn Town,Chester,0,1,A
+King's Lynn Town,Chorley,2,0,H
+King's Lynn Town,Curzon Ashton,2,0,H
+King's Lynn Town,Darlington,3,0,H
+King's Lynn Town,Farsley Celtic,1,2,A
+King's Lynn Town,Gloucester City,1,1,D
+King's Lynn Town,Hereford,2,1,H
+King's Lynn Town,Kettering Town,4,1,H
+King's Lynn Town,Kidderminster Harriers,3,0,H
+King's Lynn Town,Leamington,1,1,D
+King's Lynn Town,Peterborough Sports,2,1,H
+King's Lynn Town,Scarborough Athletic,3,2,H
+King's Lynn Town,Southport,3,2,H
+King's Lynn Town,Spennymoor Town,3,0,H
+Leamington,AFC Fylde,2,1,H
+Leamington,AFC Telford United,2,2,D
+Leamington,Alfreton Town,1,2,A
+Leamington,Banbury United,1,0,H
+Leamington,Blyth Spartans,0,1,A
+Leamington,Boston United,0,2,A
+Leamington,Brackley Town,0,0,D
+Leamington,Bradford (Park Avenue),1,0,H
+Leamington,Buxton,0,1,A
+Leamington,Chester,0,0,D
+Leamington,Chorley,1,2,A
+Leamington,Curzon Ashton,4,1,H
+Leamington,Darlington,2,1,H
+Leamington,Farsley Celtic,4,0,H
+Leamington,Gloucester City,1,1,D
+Leamington,Hereford,2,0,H
+Leamington,Kettering Town,1,0,H
+Leamington,Kidderminster Harriers,0,0,D
+Leamington,King's Lynn Town,0,3,A
+Leamington,Peterborough Sports,0,2,A
+Leamington,Scarborough Athletic,1,1,D
+Leamington,Southport,2,1,H
+Leamington,Spennymoor Town,0,1,A
+Peterborough Sports,AFC Fylde,0,2,A
+Peterborough Sports,AFC Telford United,3,2,H
+Peterborough Sports,Alfreton Town,1,2,A
+Peterborough Sports,Banbury United,3,2,H
+Peterborough Sports,Blyth Spartans,4,0,H
+Peterborough Sports,Boston United,1,1,D
+Peterborough Sports,Brackley Town,2,0,H
+Peterborough Sports,Bradford (Park Avenue),1,0,H
+Peterborough Sports,Buxton,1,1,D
+Peterborough Sports,Chester,3,2,H
+Peterborough Sports,Chorley,0,0,D
+Peterborough Sports,Curzon Ashton,0,0,D
+Peterborough Sports,Darlington,0,1,A
+Peterborough Sports,Farsley Celtic,1,0,H
+Peterborough Sports,Gloucester City,1,2,A
+Peterborough Sports,Hereford,0,2,A
+Peterborough Sports,Kettering Town,1,2,A
+Peterborough Sports,Kidderminster Harriers,1,2,A
+Peterborough Sports,King's Lynn Town,1,2,A
+Peterborough Sports,Leamington,3,0,H
+Peterborough Sports,Scarborough Athletic,0,1,A
+Peterborough Sports,Southport,2,1,H
+Peterborough Sports,Spennymoor Town,1,1,D
+Scarborough Athletic,AFC Fylde,1,2,A
+Scarborough Athletic,AFC Telford United,1,0,H
+Scarborough Athletic,Alfreton Town,2,0,H
+Scarborough Athletic,Banbury United,3,3,D
+Scarborough Athletic,Blyth Spartans,3,2,H
+Scarborough Athletic,Boston United,1,1,D
+Scarborough Athletic,Brackley Town,0,0,D
+Scarborough Athletic,Bradford (Park Avenue),2,2,D
+Scarborough Athletic,Buxton,0,1,A
+Scarborough Athletic,Chester,1,3,A
+Scarborough Athletic,Chorley,3,2,H
+Scarborough Athletic,Curzon Ashton,0,1,A
+Scarborough Athletic,Darlington,2,5,A
+Scarborough Athletic,Farsley Celtic,1,2,A
+Scarborough Athletic,Gloucester City,0,3,A
+Scarborough Athletic,Hereford,1,0,H
+Scarborough Athletic,Kettering Town,5,0,H
+Scarborough Athletic,Kidderminster Harriers,4,2,H
+Scarborough Athletic,King's Lynn Town,3,3,D
+Scarborough Athletic,Leamington,4,1,H
+Scarborough Athletic,Peterborough Sports,2,1,H
+Scarborough Athletic,Southport,0,1,A
+Scarborough Athletic,Spennymoor Town,2,2,D
+Southport,AFC Fylde,1,2,A
+Southport,AFC Telford United,0,0,D
+Southport,Alfreton Town,0,0,D
+Southport,Banbury United,1,2,A
+Southport,Blyth Spartans,2,1,H
+Southport,Boston United,1,1,D
+Southport,Brackley Town,2,2,D
+Southport,Bradford (Park Avenue),4,1,H
+Southport,Buxton,1,4,A
+Southport,Chester,1,2,A
+Southport,Chorley,2,1,H
+Southport,Curzon Ashton,2,1,H
+Southport,Darlington,1,0,H
+Southport,Farsley Celtic,4,0,H
+Southport,Gloucester City,0,1,A
+Southport,Hereford,0,1,A
+Southport,Kettering Town,0,0,D
+Southport,Kidderminster Harriers,1,3,A
+Southport,King's Lynn Town,1,1,D
+Southport,Leamington,1,0,H
+Southport,Peterborough Sports,0,3,A
+Southport,Scarborough Athletic,1,1,D
+Southport,Spennymoor Town,1,3,A
+Spennymoor Town,AFC Fylde,2,1,H
+Spennymoor Town,AFC Telford United,1,1,D
+Spennymoor Town,Alfreton Town,0,0,D
+Spennymoor Town,Banbury United,2,1,H
+Spennymoor Town,Blyth Spartans,2,1,H
+Spennymoor Town,Boston United,3,2,H
+Spennymoor Town,Brackley Town,1,1,D
+Spennymoor Town,Bradford (Park Avenue),3,2,H
+Spennymoor Town,Buxton,0,1,A
+Spennymoor Town,Chester,0,3,A
+Spennymoor Town,Chorley,2,1,H
+Spennymoor Town,Curzon Ashton,0,0,D
+Spennymoor Town,Darlington,1,1,D
+Spennymoor Town,Farsley Celtic,2,1,H
+Spennymoor Town,Gloucester City,3,0,H
+Spennymoor Town,Hereford,1,0,H
+Spennymoor Town,Kettering Town,4,2,H
+Spennymoor Town,Kidderminster Harriers,1,2,A
+Spennymoor Town,King's Lynn Town,2,2,D
+Spennymoor Town,Leamington,1,0,H
+Spennymoor Town,Peterborough Sports,3,3,D
+Spennymoor Town,Scarborough Athletic,2,2,D
+Spennymoor Town,Southport,0,1,A
