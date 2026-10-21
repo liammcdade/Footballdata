@@ -1,0 +1,2029 @@
+Date,Season,HomeTeam,AwayTeam,Score,hGoal,aGoal,Division,Tier,Result
+1971-08-14,1971/1972,Arsenal,Chelsea,3-0,3,0,Football League First Division,1,H
+1971-08-14,1971/1972,Coventry City,Stoke City,1-1,1,1,Football League First Division,1,D
+1971-08-14,1971/1972,Crystal Palace,Newcastle United,2-0,2,0,Football League First Division,1,H
+1971-08-14,1971/1972,Derby County,Manchester United,2-2,2,2,Football League First Division,1,D
+1971-08-14,1971/1972,Huddersfield Town,Leicester City,2-2,2,2,Football League First Division,1,D
+1971-08-14,1971/1972,Liverpool,Nottingham Forest,3-1,3,1,Football League First Division,1,H
+1971-08-14,1971/1972,Manchester City,Leeds United,0-1,0,1,Football League First Division,1,A
+1971-08-14,1971/1972,Sheffield United,Southampton,3-1,3,1,Football League First Division,1,H
+1971-08-14,1971/1972,West Ham United,West Bromwich Albion,0-1,0,1,Football League First Division,1,A
+1971-08-14,1971/1972,Ipswich Town,Everton,0-0,0,0,Football League First Division,1,D
+1971-08-14,1971/1972,Wolverhampton Wanderers,Tottenham Hotspur,2-2,2,2,Football League First Division,1,D
+1971-08-14,1971/1972,Southport,Exeter City,4-0,4,0,Football League Fourth Division,4,H
+1971-08-14,1971/1972,Chester,Cambridge United,1-1,1,1,Football League Fourth Division,4,D
+1971-08-14,1971/1972,Barrow,Northampton Town,0-1,0,1,Football League Fourth Division,4,A
+1971-08-14,1971/1972,Bury,Brentford,0-2,0,2,Football League Fourth Division,4,A
+1971-08-14,1971/1972,Crewe Alexandra,Stockport County,3-1,3,1,Football League Fourth Division,4,H
+1971-08-14,1971/1972,Doncaster Rovers,Newport County,4-2,4,2,Football League Fourth Division,4,H
+1971-08-14,1971/1972,Grimsby Town,Scunthorpe United,4-1,4,1,Football League Fourth Division,4,H
+1971-08-14,1971/1972,Hartlepool United,Reading,3-1,3,1,Football League Fourth Division,4,H
+1971-08-14,1971/1972,Lincoln City,Colchester United,2-0,2,0,Football League Fourth Division,4,H
+1971-08-14,1971/1972,Peterborough United,Southend United,2-0,2,0,Football League Fourth Division,4,H
+1971-08-14,1971/1972,Aldershot,Workington,2-2,2,2,Football League Fourth Division,4,D
+1971-08-14,1971/1972,Queens Park Rangers,Sheffield Wednesday,3-0,3,0,Football League Second Division,2,H
+1971-08-14,1971/1972,Sunderland,Birmingham City,1-1,1,1,Football League Second Division,2,D
+1971-08-14,1971/1972,Blackpool,Swindon Town,4-1,4,1,Football League Second Division,2,H
+1971-08-14,1971/1972,Oxford United,Leyton Orient,1-1,1,1,Football League Second Division,2,D
+1971-08-14,1971/1972,Luton Town,Norwich City,1-1,1,1,Football League Second Division,2,D
+1971-08-14,1971/1972,Fulham,Watford,3-0,3,0,Football League Second Division,2,H
+1971-08-14,1971/1972,Portsmouth,Middlesbrough,2-1,2,1,Football League Second Division,2,H
+1971-08-14,1971/1972,Carlisle United,Preston North End,0-0,0,0,Football League Second Division,2,D
+1971-08-14,1971/1972,Cardiff City,Burnley,2-2,2,2,Football League Second Division,2,D
+1971-08-14,1971/1972,Bristol City,Millwall,3-3,3,3,Football League Second Division,2,D
+1971-08-14,1971/1972,Charlton Athletic,Hull City,1-0,1,0,Football League Second Division,2,H
+1971-08-14,1971/1972,Torquay United,Chesterfield,3-2,3,2,Football League Third Division,3,H
+1971-08-14,1971/1972,Port Vale,Brighton & Hove Albion,1-1,1,1,Football League Third Division,3,D
+1971-08-14,1971/1972,Oldham Athletic,Bolton Wanderers,2-2,2,2,Football League Third Division,3,D
+1971-08-14,1971/1972,Blackburn Rovers,Rotherham United,2-1,2,1,Football League Third Division,3,H
+1971-08-14,1971/1972,Mansfield Town,Halifax Town,0-0,0,0,Football League Third Division,3,D
+1971-08-14,1971/1972,Bradford City,Swansea City,0-2,0,2,Football League Third Division,3,A
+1971-08-14,1971/1972,Tranmere Rovers,Wrexham,2-1,2,1,Football League Third Division,3,H
+1971-08-14,1971/1972,Notts County,Rochdale,4-0,4,0,Football League Third Division,3,H
+1971-08-14,1971/1972,York City,Bristol Rovers,0-0,0,0,Football League Third Division,3,D
+1971-08-14,1971/1972,Aston Villa,Plymouth Argyle,3-1,3,1,Football League Third Division,3,H
+1971-08-14,1971/1972,AFC Bournemouth,Shrewsbury Town,3-1,3,1,Football League Third Division,3,H
+1971-08-14,1971/1972,Barnsley,Walsall,4-2,4,2,Football League Third Division,3,H
+1971-08-16,1971/1972,Blackpool,Cardiff City,3-0,3,0,Football League Second Division,2,H
+1971-08-17,1971/1972,Huddersfield Town,Arsenal,0-1,0,1,Football League First Division,1,A
+1971-08-17,1971/1972,Ipswich Town,Coventry City,3-1,3,1,Football League First Division,1,H
+1971-08-17,1971/1972,Liverpool,Wolverhampton Wanderers,3-2,3,2,Football League First Division,1,H
+1971-08-17,1971/1972,Sheffield United,Leeds United,3-0,3,0,Football League First Division,1,H
+1971-08-17,1971/1972,Southampton,Stoke City,3-1,3,1,Football League First Division,1,H
+1971-08-18,1971/1972,Tottenham Hotspur,Newcastle United,0-0,0,0,Football League First Division,1,D
+1971-08-18,1971/1972,West Bromwich Albion,Everton,2-0,2,0,Football League First Division,1,H
+1971-08-18,1971/1972,Manchester City,Crystal Palace,4-0,4,0,Football League First Division,1,H
+1971-08-18,1971/1972,Derby County,West Ham United,2-0,2,0,Football League First Division,1,H
+1971-08-18,1971/1972,Chelsea,Manchester United,2-3,2,3,Football League First Division,1,A
+1971-08-18,1971/1972,Leicester City,Nottingham Forest,2-1,2,1,Football League First Division,1,H
+1971-08-20,1971/1972,Manchester United,Arsenal,3-1,3,1,Football League First Division,1,H
+1971-08-20,1971/1972,Colchester United,Hartlepool United,1-0,1,0,Football League Fourth Division,4,H
+1971-08-20,1971/1972,Southend United,Darlington,3-0,3,0,Football League Fourth Division,4,H
+1971-08-20,1971/1972,Stockport County,Bury,2-2,2,2,Football League Fourth Division,4,D
+1971-08-21,1971/1972,Tottenham Hotspur,Huddersfield Town,4-1,4,1,Football League First Division,1,H
+1971-08-21,1971/1972,Leeds United,Wolverhampton Wanderers,0-0,0,0,Football League First Division,1,D
+1971-08-21,1971/1972,Leicester City,Derby County,0-2,0,2,Football League First Division,1,A
+1971-08-21,1971/1972,Newcastle United,Liverpool,3-2,3,2,Football League First Division,1,H
+1971-08-21,1971/1972,Nottingham Forest,West Ham United,1-0,1,0,Football League First Division,1,H
+1971-08-21,1971/1972,Southampton,Ipswich Town,0-0,0,0,Football League First Division,1,D
+1971-08-21,1971/1972,Stoke City,Crystal Palace,3-1,3,1,Football League First Division,1,H
+1971-08-21,1971/1972,West Bromwich Albion,Coventry City,1-1,1,1,Football League First Division,1,D
+1971-08-21,1971/1972,Everton,Sheffield United,0-1,0,1,Football League First Division,1,A
+1971-08-21,1971/1972,Chelsea,Manchester City,2-2,2,2,Football League First Division,1,D
+1971-08-21,1971/1972,Brentford,Aldershot,1-1,1,1,Football League Fourth Division,4,D
+1971-08-21,1971/1972,Barrow,Crewe Alexandra,2-1,2,1,Football League Fourth Division,4,H
+1971-08-21,1971/1972,Cambridge United,Northampton Town,1-1,1,1,Football League Fourth Division,4,D
+1971-08-21,1971/1972,Exeter City,Grimsby Town,3-4,3,4,Football League Fourth Division,4,A
+1971-08-21,1971/1972,Gillingham,Southport,2-1,2,1,Football League Fourth Division,4,H
+1971-08-21,1971/1972,Newport County,Peterborough United,1-1,1,1,Football League Fourth Division,4,D
+1971-08-21,1971/1972,Reading,Chester,1-0,1,0,Football League Fourth Division,4,H
+1971-08-21,1971/1972,Scunthorpe United,Lincoln City,2-1,2,1,Football League Fourth Division,4,H
+1971-08-21,1971/1972,Workington,Doncaster Rovers,2-0,2,0,Football League Fourth Division,4,H
+1971-08-21,1971/1972,Swindon Town,Charlton Athletic,2-1,2,1,Football League Second Division,2,H
+1971-08-21,1971/1972,Watford,Sunderland,1-1,1,1,Football League Second Division,2,D
+1971-08-21,1971/1972,Birmingham City,Carlisle United,3-2,3,2,Football League Second Division,2,H
+1971-08-21,1971/1972,Burnley,Luton Town,2-1,2,1,Football League Second Division,2,H
+1971-08-21,1971/1972,Hull City,Oxford United,1-0,1,0,Football League Second Division,2,H
+1971-08-21,1971/1972,Leyton Orient,Cardiff City,4-1,4,1,Football League Second Division,2,H
+1971-08-21,1971/1972,Middlesbrough,Queens Park Rangers,3-2,3,2,Football League Second Division,2,H
+1971-08-21,1971/1972,Millwall,Blackpool,1-0,1,0,Football League Second Division,2,H
+1971-08-21,1971/1972,Norwich City,Portsmouth,3-1,3,1,Football League Second Division,2,H
+1971-08-21,1971/1972,Preston North End,Fulham,2-0,2,0,Football League Second Division,2,H
+1971-08-21,1971/1972,Sheffield Wednesday,Bristol City,1-5,1,5,Football League Second Division,2,A
+1971-08-21,1971/1972,Brighton & Hove Albion,Bradford City,3-1,3,1,Football League Third Division,3,H
+1971-08-21,1971/1972,Bristol Rovers,Tranmere Rovers,2-1,2,1,Football League Third Division,3,H
+1971-08-21,1971/1972,Chesterfield,Notts County,1-2,1,2,Football League Third Division,3,A
+1971-08-21,1971/1972,Halifax Town,York City,3-1,3,1,Football League Third Division,3,H
+1971-08-21,1971/1972,Plymouth Argyle,Blackburn Rovers,1-0,1,0,Football League Third Division,3,H
+1971-08-21,1971/1972,Rochdale,Mansfield Town,2-1,2,1,Football League Third Division,3,H
+1971-08-21,1971/1972,Rotherham United,Barnsley,3-0,3,0,Football League Third Division,3,H
+1971-08-21,1971/1972,Shrewsbury Town,Torquay United,2-0,2,0,Football League Third Division,3,H
+1971-08-21,1971/1972,Swansea City,Port Vale,0-1,0,1,Football League Third Division,3,A
+1971-08-21,1971/1972,Walsall,Aston Villa,1-1,1,1,Football League Third Division,3,D
+1971-08-21,1971/1972,Wrexham,Oldham Athletic,3-1,3,1,Football League Third Division,3,H
+1971-08-21,1971/1972,Bolton Wanderers,AFC Bournemouth,0-0,0,0,Football League Third Division,3,D
+1971-08-23,1971/1972,West Ham United,Ipswich Town,0-0,0,0,Football League First Division,1,D
+1971-08-23,1971/1972,Manchester United,West Bromwich Albion,3-1,3,1,Football League First Division,1,H
+1971-08-24,1971/1972,Nottingham Forest,Southampton,2-3,2,3,Football League First Division,1,A
+1971-08-24,1971/1972,Everton,Chelsea,2-0,2,0,Football League First Division,1,H
+1971-08-24,1971/1972,Wolverhampton Wanderers,Manchester City,2-1,2,1,Football League First Division,1,H
+1971-08-24,1971/1972,Coventry City,Derby County,2-2,2,2,Football League First Division,1,D
+1971-08-24,1971/1972,Arsenal,Sheffield United,0-1,0,1,Football League First Division,1,A
+1971-08-24,1971/1972,Crystal Palace,Liverpool,0-1,0,1,Football League First Division,1,A
+1971-08-25,1971/1972,Leeds United,Tottenham Hotspur,1-1,1,1,Football League First Division,1,D
+1971-08-25,1971/1972,Newcastle United,Huddersfield Town,0-0,0,0,Football League First Division,1,D
+1971-08-25,1971/1972,Stoke City,Leicester City,3-1,3,1,Football League First Division,1,H
+1971-08-27,1971/1972,Southport,Cambridge United,4-1,4,1,Football League Fourth Division,4,H
+1971-08-27,1971/1972,Tranmere Rovers,Swansea City,0-0,0,0,Football League Third Division,3,D
+1971-08-28,1971/1972,Manchester City,Tottenham Hotspur,4-0,4,0,Football League First Division,1,H
+1971-08-28,1971/1972,Arsenal,Stoke City,0-1,0,1,Football League First Division,1,A
+1971-08-28,1971/1972,Crystal Palace,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1971-08-28,1971/1972,Derby County,Southampton,2-2,2,2,Football League First Division,1,D
+1971-08-28,1971/1972,Huddersfield Town,Chelsea,1-2,1,2,Football League First Division,1,A
+1971-08-28,1971/1972,Ipswich Town,Leeds United,0-2,0,2,Football League First Division,1,A
+1971-08-28,1971/1972,Liverpool,Leicester City,3-2,3,2,Football League First Division,1,H
+1971-08-28,1971/1972,Sheffield United,West Bromwich Albion,0-0,0,0,Football League First Division,1,D
+1971-08-28,1971/1972,West Ham United,Everton,1-0,1,0,Football League First Division,1,H
+1971-08-28,1971/1972,Coventry City,Newcastle United,1-0,1,0,Football League First Division,1,H
+1971-08-28,1971/1972,Wolverhampton Wanderers,Manchester United,1-1,1,1,Football League First Division,1,D
+1971-08-28,1971/1972,Aldershot,Reading,1-2,1,2,Football League Fourth Division,4,A
+1971-08-28,1971/1972,Chester,Gillingham,5-1,5,1,Football League Fourth Division,4,H
+1971-08-28,1971/1972,Peterborough United,Stockport County,4-2,4,2,Football League Fourth Division,4,H
+1971-08-28,1971/1972,Crewe Alexandra,Scunthorpe United,0-2,0,2,Football League Fourth Division,4,A
+1971-08-28,1971/1972,Darlington,Brentford,0-0,0,0,Football League Fourth Division,4,D
+1971-08-28,1971/1972,Doncaster Rovers,Barrow,0-1,0,1,Football League Fourth Division,4,A
+1971-08-28,1971/1972,Grimsby Town,Workington,1-1,1,1,Football League Fourth Division,4,D
+1971-08-28,1971/1972,Hartlepool United,Southend United,2-2,2,2,Football League Fourth Division,4,D
+1971-08-28,1971/1972,Lincoln City,Newport County,3-1,3,1,Football League Fourth Division,4,H
+1971-08-28,1971/1972,Northampton Town,Exeter City,1-1,1,1,Football League Fourth Division,4,D
+1971-08-28,1971/1972,Bury,Colchester United,3-0,3,0,Football League Fourth Division,4,H
+1971-08-28,1971/1972,Queens Park Rangers,Millwall,1-1,1,1,Football League Second Division,2,D
+1971-08-28,1971/1972,Sunderland,Leyton Orient,2-0,2,0,Football League Second Division,2,H
+1971-08-28,1971/1972,Blackpool,Sheffield Wednesday,1-0,1,0,Football League Second Division,2,H
+1971-08-28,1971/1972,Bristol City,Middlesbrough,2-1,2,1,Football League Second Division,2,H
+1971-08-28,1971/1972,Cardiff City,Hull City,1-1,1,1,Football League Second Division,2,D
+1971-08-28,1971/1972,Carlisle United,Swindon Town,0-0,0,0,Football League Second Division,2,D
+1971-08-28,1971/1972,Charlton Athletic,Watford,2-0,2,0,Football League Second Division,2,H
+1971-08-28,1971/1972,Fulham,Norwich City,0-0,0,0,Football League Second Division,2,D
+1971-08-28,1971/1972,Luton Town,Preston North End,1-1,1,1,Football League Second Division,2,D
+1971-08-28,1971/1972,Portsmouth,Birmingham City,1-0,1,0,Football League Second Division,2,H
+1971-08-28,1971/1972,Oxford United,Burnley,2-1,2,1,Football League Second Division,2,H
+1971-08-28,1971/1972,Torquay United,Bristol Rovers,1-1,1,1,Football League Third Division,3,D
+1971-08-28,1971/1972,Port Vale,Chesterfield,0-2,0,2,Football League Third Division,3,A
+1971-08-28,1971/1972,Oldham Athletic,Walsall,1-3,1,3,Football League Third Division,3,A
+1971-08-28,1971/1972,Notts County,Bolton Wanderers,1-2,1,2,Football League Third Division,3,A
+1971-08-28,1971/1972,Barnsley,Shrewsbury Town,1-3,1,3,Football League Third Division,3,A
+1971-08-28,1971/1972,Bradford City,Halifax Town,2-1,2,1,Football League Third Division,3,H
+1971-08-28,1971/1972,Blackburn Rovers,Wrexham,2-1,2,1,Football League Third Division,3,H
+1971-08-28,1971/1972,York City,Plymouth Argyle,2-3,2,3,Football League Third Division,3,A
+1971-08-28,1971/1972,Mansfield Town,Brighton & Hove Albion,0-3,0,3,Football League Third Division,3,A
+1971-08-28,1971/1972,Aston Villa,Rochdale,2-0,2,0,Football League Third Division,3,H
+1971-08-28,1971/1972,AFC Bournemouth,Rotherham United,3-1,3,1,Football League Third Division,3,H
+1971-08-30,1971/1972,West Ham United,Coventry City,4-0,4,0,Football League First Division,1,H
+1971-08-30,1971/1972,Stockport County,Reading,0-1,0,1,Football League Fourth Division,4,A
+1971-08-30,1971/1972,Southport,Northampton Town,4-0,4,0,Football League Fourth Division,4,H
+1971-08-30,1971/1972,Southend United,Scunthorpe United,2-3,2,3,Football League Fourth Division,4,A
+1971-08-30,1971/1972,Peterborough United,Bury,2-0,2,0,Football League Fourth Division,4,H
+1971-08-30,1971/1972,Hartlepool United,Darlington,2-3,2,3,Football League Fourth Division,4,A
+1971-08-30,1971/1972,Brentford,Barrow,4-0,4,0,Football League Fourth Division,4,H
+1971-08-30,1971/1972,Preston North End,Burnley,1-3,1,3,Football League Second Division,2,A
+1971-08-30,1971/1972,Millwall,Charlton Athletic,2-1,2,1,Football League Second Division,2,H
+1971-08-30,1971/1972,Port Vale,Notts County,0-3,0,3,Football League Third Division,3,A
+1971-08-31,1971/1972,Everton,Manchester United,1-0,1,0,Football League First Division,1,H
+1971-08-31,1971/1972,Ipswich Town,Derby County,0-0,0,0,Football League First Division,1,D
+1971-08-31,1971/1972,Sheffield United,Huddersfield Town,3-1,3,1,Football League First Division,1,H
+1971-08-31,1971/1972,Wolverhampton Wanderers,Crystal Palace,1-0,1,0,Football League First Division,1,H
+1971-08-31,1971/1972,Nottingham Forest,Stoke City,0-0,0,0,Football League First Division,1,D
+1971-08-31,1971/1972,Newport County,Colchester United,2-1,2,1,Football League Fourth Division,4,H
+1971-08-31,1971/1972,Grimsby Town,Doncaster Rovers,3-1,3,1,Football League Fourth Division,4,H
+1971-08-31,1971/1972,Middlesbrough,Sheffield Wednesday,2-1,2,1,Football League Second Division,2,H
+1971-08-31,1971/1972,Bristol City,Cardiff City,2-0,2,0,Football League Second Division,2,H
+1971-08-31,1971/1972,Fulham,Queens Park Rangers,0-3,0,3,Football League Second Division,2,A
+1971-08-31,1971/1972,Swansea City,Bristol Rovers,2-0,2,0,Football League Third Division,3,H
+1971-08-31,1971/1972,AFC Bournemouth,Blackburn Rovers,1-0,1,0,Football League Third Division,3,H
+1971-08-31,1971/1972,Oldham Athletic,York City,1-0,1,0,Football League Third Division,3,H
+1971-08-31,1971/1972,Barnsley,Tranmere Rovers,0-0,0,0,Football League Third Division,3,D
+1971-08-31,1971/1972,Rotherham United,Brighton & Hove Albion,2-4,2,4,Football League Third Division,3,A
+1971-09-01,1971/1972,Manchester City,Liverpool,1-0,1,0,Football League First Division,1,H
+1971-09-01,1971/1972,Leicester City,Southampton,0-1,0,1,Football League First Division,1,A
+1971-09-01,1971/1972,Leeds United,Newcastle United,5-1,5,1,Football League First Division,1,H
+1971-09-01,1971/1972,Chelsea,West Bromwich Albion,1-0,1,0,Football League First Division,1,H
+1971-09-01,1971/1972,Gillingham,Cambridge United,2-0,2,0,Football League Fourth Division,4,H
+1971-09-01,1971/1972,Crewe Alexandra,Lincoln City,3-1,3,1,Football League Fourth Division,4,H
+1971-09-01,1971/1972,Aldershot,Chester,0-0,0,0,Football League Fourth Division,4,D
+1971-09-01,1971/1972,Workington,Exeter City,0-0,0,0,Football League Fourth Division,4,D
+1971-09-01,1971/1972,Watford,Swindon Town,0-0,0,0,Football League Second Division,2,D
+1971-09-01,1971/1972,Sunderland,Carlisle United,0-3,0,3,Football League Second Division,2,A
+1971-09-01,1971/1972,Oxford United,Luton Town,1-1,1,1,Football League Second Division,2,D
+1971-09-01,1971/1972,Norwich City,Leyton Orient,0-0,0,0,Football League Second Division,2,D
+1971-09-01,1971/1972,Portsmouth,Blackpool,1-3,1,3,Football League Second Division,2,A
+1971-09-01,1971/1972,Hull City,Birmingham City,1-0,1,0,Football League Second Division,2,H
+1971-09-01,1971/1972,Torquay United,Bradford City,2-1,2,1,Football League Third Division,3,H
+1971-09-01,1971/1972,Shrewsbury Town,Walsall,4-1,4,1,Football League Third Division,3,H
+1971-09-03,1971/1972,Stockport County,Lincoln City,4-2,4,2,Football League Fourth Division,4,H
+1971-09-03,1971/1972,Colchester United,Southport,1-0,1,0,Football League Fourth Division,4,H
+1971-09-03,1971/1972,Rochdale,Tranmere Rovers,2-1,2,1,Football League Third Division,3,H
+1971-09-04,1971/1972,Newcastle United,West Ham United,2-2,2,2,Football League First Division,1,D
+1971-09-04,1971/1972,Chelsea,Coventry City,3-3,3,3,Football League First Division,1,D
+1971-09-04,1971/1972,Everton,Derby County,0-2,0,2,Football League First Division,1,A
+1971-09-04,1971/1972,Leeds United,Crystal Palace,2-0,2,0,Football League First Division,1,H
+1971-09-04,1971/1972,Leicester City,Manchester City,0-0,0,0,Football League First Division,1,D
+1971-09-04,1971/1972,Manchester United,Ipswich Town,1-0,1,0,Football League First Division,1,H
+1971-09-04,1971/1972,Nottingham Forest,Sheffield United,2-3,2,3,Football League First Division,1,A
+1971-09-04,1971/1972,Southampton,Huddersfield Town,1-2,1,2,Football League First Division,1,A
+1971-09-04,1971/1972,Stoke City,Wolverhampton Wanderers,0-1,0,1,Football League First Division,1,A
+1971-09-04,1971/1972,Tottenham Hotspur,Liverpool,2-0,2,0,Football League First Division,1,H
+1971-09-04,1971/1972,West Bromwich Albion,Arsenal,0-1,0,1,Football League First Division,1,A
+1971-09-04,1971/1972,Barrow,Grimsby Town,0-0,0,0,Football League Fourth Division,4,D
+1971-09-04,1971/1972,Cambridge United,Crewe Alexandra,3-2,3,2,Football League Fourth Division,4,H
+1971-09-04,1971/1972,Exeter City,Peterborough United,3-2,3,2,Football League Fourth Division,4,H
+1971-09-04,1971/1972,Workington,Chester,0-0,0,0,Football League Fourth Division,4,D
+1971-09-04,1971/1972,Gillingham,Aldershot,0-1,0,1,Football League Fourth Division,4,A
+1971-09-04,1971/1972,Newport County,Northampton Town,1-1,1,1,Football League Fourth Division,4,D
+1971-09-04,1971/1972,Reading,Darlington,2-0,2,0,Football League Fourth Division,4,H
+1971-09-04,1971/1972,Scunthorpe United,Doncaster Rovers,0-0,0,0,Football League Fourth Division,4,D
+1971-09-04,1971/1972,Southend United,Bury,0-0,0,0,Football League Fourth Division,4,D
+1971-09-04,1971/1972,Brentford,Hartlepool United,6-0,6,0,Football League Fourth Division,4,H
+1971-09-04,1971/1972,Swindon Town,Queens Park Rangers,0-0,0,0,Football League Second Division,2,D
+1971-09-04,1971/1972,Birmingham City,Charlton Athletic,4-1,4,1,Football League Second Division,2,H
+1971-09-04,1971/1972,Burnley,Bristol City,1-1,1,1,Football League Second Division,2,D
+1971-09-04,1971/1972,Hull City,Blackpool,1-0,1,0,Football League Second Division,2,H
+1971-09-04,1971/1972,Leyton Orient,Luton Town,0-0,0,0,Football League Second Division,2,D
+1971-09-04,1971/1972,Middlesbrough,Fulham,2-0,2,0,Football League Second Division,2,H
+1971-09-04,1971/1972,Millwall,Sunderland,1-1,1,1,Football League Second Division,2,D
+1971-09-04,1971/1972,Norwich City,Carlisle United,1-0,1,0,Football League Second Division,2,H
+1971-09-04,1971/1972,Preston North End,Oxford United,1-0,1,0,Football League Second Division,2,H
+1971-09-04,1971/1972,Sheffield Wednesday,Portsmouth,1-1,1,1,Football League Second Division,2,D
+1971-09-04,1971/1972,Watford,Cardiff City,2-2,2,2,Football League Second Division,2,D
+1971-09-04,1971/1972,Brighton & Hove Albion,York City,0-2,0,2,Football League Third Division,3,A
+1971-09-04,1971/1972,Bristol Rovers,Bradford City,7-1,7,1,Football League Third Division,3,H
+1971-09-04,1971/1972,Chesterfield,Blackburn Rovers,2-0,2,0,Football League Third Division,3,H
+1971-09-04,1971/1972,Halifax Town,AFC Bournemouth,1-0,1,0,Football League Third Division,3,H
+1971-09-04,1971/1972,Plymouth Argyle,Mansfield Town,3-1,3,1,Football League Third Division,3,H
+1971-09-04,1971/1972,Rotherham United,Torquay United,2-2,2,2,Football League Third Division,3,D
+1971-09-04,1971/1972,Shrewsbury Town,Oldham Athletic,2-4,2,4,Football League Third Division,3,A
+1971-09-04,1971/1972,Swansea City,Barnsley,2-0,2,0,Football League Third Division,3,H
+1971-09-04,1971/1972,Walsall,Notts County,1-2,1,2,Football League Third Division,3,A
+1971-09-04,1971/1972,Wrexham,Port Vale,1-2,1,2,Football League Third Division,3,A
+1971-09-04,1971/1972,Bolton Wanderers,Aston Villa,2-0,2,0,Football League Third Division,3,H
+1971-09-10,1971/1972,Southport,Newport County,4-2,4,2,Football League Fourth Division,4,H
+1971-09-10,1971/1972,Northampton Town,Stockport County,2-0,2,0,Football League Fourth Division,4,H
+1971-09-10,1971/1972,Tranmere Rovers,Rotherham United,0-0,0,0,Football League Third Division,3,D
+1971-09-11,1971/1972,Derby County,Stoke City,4-0,4,0,Football League First Division,1,H
+1971-09-11,1971/1972,Arsenal,Leeds United,2-0,2,0,Football League First Division,1,H
+1971-09-11,1971/1972,Coventry City,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1971-09-11,1971/1972,Crystal Palace,Manchester United,1-3,1,3,Football League First Division,1,A
+1971-09-11,1971/1972,Huddersfield Town,West Bromwich Albion,1-0,1,0,Football League First Division,1,H
+1971-09-11,1971/1972,Ipswich Town,Leicester City,1-2,1,2,Football League First Division,1,A
+1971-09-11,1971/1972,Liverpool,Southampton,1-0,1,0,Football League First Division,1,H
+1971-09-11,1971/1972,Manchester City,Newcastle United,2-1,2,1,Football League First Division,1,H
+1971-09-11,1971/1972,West Ham United,Chelsea,2-1,2,1,Football League First Division,1,H
+1971-09-11,1971/1972,Sheffield United,Tottenham Hotspur,2-2,2,2,Football League First Division,1,D
+1971-09-11,1971/1972,Wolverhampton Wanderers,Everton,1-1,1,1,Football League First Division,1,D
+1971-09-11,1971/1972,Aldershot,Southend United,0-0,0,0,Football League Fourth Division,4,D
+1971-09-11,1971/1972,Bury,Cambridge United,0-1,0,1,Football League Fourth Division,4,A
+1971-09-11,1971/1972,Chester,Barrow,0-0,0,0,Football League Fourth Division,4,D
+1971-09-11,1971/1972,Crewe Alexandra,Gillingham,0-1,0,1,Football League Fourth Division,4,A
+1971-09-11,1971/1972,Darlington,Colchester United,2-0,2,0,Football League Fourth Division,4,H
+1971-09-11,1971/1972,Doncaster Rovers,Exeter City,2-1,2,1,Football League Fourth Division,4,H
+1971-09-11,1971/1972,Grimsby Town,Brentford,3-1,3,1,Football League Fourth Division,4,H
+1971-09-11,1971/1972,Hartlepool United,Workington,1-3,1,3,Football League Fourth Division,4,A
+1971-09-11,1971/1972,Lincoln City,Reading,0-0,0,0,Football League Fourth Division,4,D
+1971-09-11,1971/1972,Peterborough United,Scunthorpe United,0-1,0,1,Football League Fourth Division,4,A
+1971-09-11,1971/1972,Sunderland,Swindon Town,1-0,1,0,Football League Second Division,2,H
+1971-09-11,1971/1972,Queens Park Rangers,Preston North End,2-1,2,1,Football League Second Division,2,H
+1971-09-11,1971/1972,Blackpool,Norwich City,1-2,1,2,Football League Second Division,2,A
+1971-09-11,1971/1972,Bristol City,Hull City,4-0,4,0,Football League Second Division,2,H
+1971-09-11,1971/1972,Cardiff City,Sheffield Wednesday,3-2,3,2,Football League Second Division,2,H
+1971-09-11,1971/1972,Carlisle United,Watford,2-0,2,0,Football League Second Division,2,H
+1971-09-11,1971/1972,Charlton Athletic,Middlesbrough,0-2,0,2,Football League Second Division,2,A
+1971-09-11,1971/1972,Fulham,Burnley,0-2,0,2,Football League Second Division,2,A
+1971-09-11,1971/1972,Luton Town,Birmingham City,0-0,0,0,Football League Second Division,2,D
+1971-09-11,1971/1972,Oxford United,Millwall,1-2,1,2,Football League Second Division,2,A
+1971-09-11,1971/1972,Portsmouth,Leyton Orient,3-2,3,2,Football League Second Division,2,H
+1971-09-11,1971/1972,Barnsley,Halifax Town,1-2,1,2,Football League Third Division,3,A
+1971-09-11,1971/1972,Blackburn Rovers,Bolton Wanderers,0-3,0,3,Football League Third Division,3,A
+1971-09-11,1971/1972,Bradford City,Chesterfield,2-2,2,2,Football League Third Division,3,D
+1971-09-11,1971/1972,Mansfield Town,Swansea City,0-2,0,2,Football League Third Division,3,A
+1971-09-11,1971/1972,Notts County,Shrewsbury Town,1-0,1,0,Football League Third Division,3,H
+1971-09-11,1971/1972,Oldham Athletic,Bristol Rovers,3-2,3,2,Football League Third Division,3,H
+1971-09-11,1971/1972,Port Vale,Plymouth Argyle,0-0,0,0,Football League Third Division,3,D
+1971-09-11,1971/1972,Torquay United,Walsall,2-2,2,2,Football League Third Division,3,D
+1971-09-11,1971/1972,York City,Wrexham,1-1,1,1,Football League Third Division,3,D
+1971-09-11,1971/1972,Aston Villa,Brighton & Hove Albion,2-0,2,0,Football League Third Division,3,H
+1971-09-11,1971/1972,AFC Bournemouth,Rochdale,4-1,4,1,Football League Third Division,3,H
+1971-09-13,1971/1972,Plymouth Argyle,Walsall,3-2,3,2,Football League Third Division,3,H
+1971-09-13,1971/1972,Torquay United,Rochdale,1-1,1,1,Football League Third Division,3,D
+1971-09-17,1971/1972,Stockport County,Doncaster Rovers,1-2,1,2,Football League Fourth Division,4,A
+1971-09-17,1971/1972,Southend United,Grimsby Town,3-1,3,1,Football League Fourth Division,4,H
+1971-09-17,1971/1972,Colchester United,Crewe Alexandra,4-2,4,2,Football League Fourth Division,4,H
+1971-09-17,1971/1972,Scunthorpe United,Northampton Town,0-0,0,0,Football League Fourth Division,4,D
+1971-09-18,1971/1972,Chelsea,Derby County,1-1,1,1,Football League First Division,1,D
+1971-09-18,1971/1972,Everton,Arsenal,2-1,2,1,Football League First Division,1,H
+1971-09-18,1971/1972,Leeds United,Liverpool,1-0,1,0,Football League First Division,1,H
+1971-09-18,1971/1972,Leicester City,Sheffield United,0-1,0,1,Football League First Division,1,A
+1971-09-18,1971/1972,Manchester United,West Ham United,4-2,4,2,Football League First Division,1,H
+1971-09-18,1971/1972,Newcastle United,Wolverhampton Wanderers,2-0,2,0,Football League First Division,1,H
+1971-09-18,1971/1972,Nottingham Forest,Manchester City,2-2,2,2,Football League First Division,1,D
+1971-09-18,1971/1972,Southampton,Coventry City,3-1,3,1,Football League First Division,1,H
+1971-09-18,1971/1972,Stoke City,Huddersfield Town,1-0,1,0,Football League First Division,1,H
+1971-09-18,1971/1972,Tottenham Hotspur,Crystal Palace,3-0,3,0,Football League First Division,1,H
+1971-09-18,1971/1972,West Bromwich Albion,Ipswich Town,1-2,1,2,Football League First Division,1,A
+1971-09-18,1971/1972,Barrow,Southport,0-2,0,2,Football League Fourth Division,4,A
+1971-09-18,1971/1972,Brentford,Peterborough United,5-1,5,1,Football League Fourth Division,4,H
+1971-09-18,1971/1972,Cambridge United,Darlington,6-0,6,0,Football League Fourth Division,4,H
+1971-09-18,1971/1972,Exeter City,Chester,1-1,1,1,Football League Fourth Division,4,D
+1971-09-18,1971/1972,Gillingham,Hartlepool United,1-0,1,0,Football League Fourth Division,4,H
+1971-09-18,1971/1972,Newport County,Aldershot,2-3,2,3,Football League Fourth Division,4,A
+1971-09-18,1971/1972,Reading,Bury,0-2,0,2,Football League Fourth Division,4,A
+1971-09-18,1971/1972,Workington,Lincoln City,0-0,0,0,Football League Fourth Division,4,D
+1971-09-18,1971/1972,Watford,Blackpool,1-0,1,0,Football League Second Division,2,H
+1971-09-18,1971/1972,Swindon Town,Fulham,4-0,4,0,Football League Second Division,2,H
+1971-09-18,1971/1972,Sheffield Wednesday,Sunderland,3-0,3,0,Football League Second Division,2,H
+1971-09-18,1971/1972,Birmingham City,Bristol City,1-0,1,0,Football League Second Division,2,H
+1971-09-18,1971/1972,Burnley,Queens Park Rangers,1-0,1,0,Football League Second Division,2,H
+1971-09-18,1971/1972,Hull City,Portsmouth,1-3,1,3,Football League Second Division,2,A
+1971-09-18,1971/1972,Leyton Orient,Carlisle United,2-1,2,1,Football League Second Division,2,H
+1971-09-18,1971/1972,Middlesbrough,Cardiff City,1-0,1,0,Football League Second Division,2,H
+1971-09-18,1971/1972,Millwall,Luton Town,2-2,2,2,Football League Second Division,2,D
+1971-09-18,1971/1972,Norwich City,Oxford United,3-2,3,2,Football League Second Division,2,H
+1971-09-18,1971/1972,Preston North End,Charlton Athletic,2-1,2,1,Football League Second Division,2,H
+1971-09-18,1971/1972,Shrewsbury Town,Port Vale,0-0,0,0,Football League Third Division,3,D
+1971-09-18,1971/1972,Brighton & Hove Albion,Notts County,1-1,1,1,Football League Third Division,3,D
+1971-09-18,1971/1972,Bristol Rovers,Barnsley,3-0,3,0,Football League Third Division,3,H
+1971-09-18,1971/1972,Chesterfield,Mansfield Town,2-0,2,0,Football League Third Division,3,H
+1971-09-18,1971/1972,Halifax Town,Aston Villa,0-1,0,1,Football League Third Division,3,A
+1971-09-18,1971/1972,Plymouth Argyle,Tranmere Rovers,2-2,2,2,Football League Third Division,3,D
+1971-09-18,1971/1972,Rochdale,Oldham Athletic,1-1,1,1,Football League Third Division,3,D
+1971-09-18,1971/1972,Rotherham United,Bradford City,2-0,2,0,Football League Third Division,3,H
+1971-09-18,1971/1972,Swansea City,Torquay United,0-0,0,0,Football League Third Division,3,D
+1971-09-18,1971/1972,Bolton Wanderers,York City,0-1,0,1,Football League Third Division,3,A
+1971-09-18,1971/1972,Wrexham,AFC Bournemouth,1-3,1,3,Football League Third Division,3,A
+1971-09-18,1971/1972,Walsall,Blackburn Rovers,0-0,0,0,Football League Third Division,3,D
+1971-09-22,1971/1972,Aston Villa,Mansfield Town,0-1,0,1,Football League Third Division,3,A
+1971-09-24,1971/1972,Southport,Workington,2-2,2,2,Football League Fourth Division,4,D
+1971-09-24,1971/1972,Tranmere Rovers,Bolton Wanderers,0-0,0,0,Football League Third Division,3,D
+1971-09-25,1971/1972,Arsenal,Leicester City,3-0,3,0,Football League First Division,1,H
+1971-09-25,1971/1972,Coventry City,Tottenham Hotspur,1-0,1,0,Football League First Division,1,H
+1971-09-25,1971/1972,Crystal Palace,Everton,2-1,2,1,Football League First Division,1,H
+1971-09-25,1971/1972,Derby County,West Bromwich Albion,0-0,0,0,Football League First Division,1,D
+1971-09-25,1971/1972,Huddersfield Town,Leeds United,2-1,2,1,Football League First Division,1,H
+1971-09-25,1971/1972,Ipswich Town,Newcastle United,0-0,0,0,Football League First Division,1,D
+1971-09-25,1971/1972,Liverpool,Manchester United,2-2,2,2,Football League First Division,1,D
+1971-09-25,1971/1972,Manchester City,Southampton,3-0,3,0,Football League First Division,1,H
+1971-09-25,1971/1972,Sheffield United,Chelsea,1-0,1,0,Football League First Division,1,H
+1971-09-25,1971/1972,West Ham United,Stoke City,2-1,2,1,Football League First Division,1,H
+1971-09-25,1971/1972,Wolverhampton Wanderers,Nottingham Forest,4-2,4,2,Football League First Division,1,H
+1971-09-25,1971/1972,Peterborough United,Gillingham,2-1,2,1,Football League Fourth Division,4,H
+1971-09-25,1971/1972,Aldershot,Scunthorpe United,1-1,1,1,Football League Fourth Division,4,D
+1971-09-25,1971/1972,Chester,Brentford,0-0,0,0,Football League Fourth Division,4,D
+1971-09-25,1971/1972,Crewe Alexandra,Reading,2-0,2,0,Football League Fourth Division,4,H
+1971-09-25,1971/1972,Darlington,Newport County,0-0,0,0,Football League Fourth Division,4,D
+1971-09-25,1971/1972,Doncaster Rovers,Southend United,0-2,0,2,Football League Fourth Division,4,A
+1971-09-25,1971/1972,Grimsby Town,Stockport County,4-1,4,1,Football League Fourth Division,4,H
+1971-09-25,1971/1972,Hartlepool United,Barrow,4-3,4,3,Football League Fourth Division,4,H
+1971-09-25,1971/1972,Lincoln City,Cambridge United,3-1,3,1,Football League Fourth Division,4,H
+1971-09-25,1971/1972,Northampton Town,Colchester United,1-1,1,1,Football League Fourth Division,4,D
+1971-09-25,1971/1972,Bury,Exeter City,4-3,4,3,Football League Fourth Division,4,H
+1971-09-25,1971/1972,Queens Park Rangers,Watford,3-0,3,0,Football League Second Division,2,H
+1971-09-25,1971/1972,Sunderland,Preston North End,4-3,4,3,Football League Second Division,2,H
+1971-09-25,1971/1972,Blackpool,Birmingham City,1-1,1,1,Football League Second Division,2,D
+1971-09-25,1971/1972,Bristol City,Norwich City,0-1,0,1,Football League Second Division,2,A
+1971-09-25,1971/1972,Cardiff City,Swindon Town,0-1,0,1,Football League Second Division,2,A
+1971-09-25,1971/1972,Carlisle United,Hull City,2-1,2,1,Football League Second Division,2,H
+1971-09-25,1971/1972,Charlton Athletic,Burnley,2-0,2,0,Football League Second Division,2,H
+1971-09-25,1971/1972,Fulham,Leyton Orient,2-1,2,1,Football League Second Division,2,H
+1971-09-25,1971/1972,Luton Town,Middlesbrough,3-2,3,2,Football League Second Division,2,H
+1971-09-25,1971/1972,Oxford United,Sheffield Wednesday,1-0,1,0,Football League Second Division,2,H
+1971-09-25,1971/1972,Portsmouth,Millwall,1-1,1,1,Football League Second Division,2,D
+1971-09-25,1971/1972,Blackburn Rovers,Swansea City,1-2,1,2,Football League Third Division,3,A
+1971-09-25,1971/1972,Bradford City,Shrewsbury Town,2-1,2,1,Football League Third Division,3,H
+1971-09-25,1971/1972,Mansfield Town,Rotherham United,0-1,0,1,Football League Third Division,3,A
+1971-09-25,1971/1972,Notts County,Bristol Rovers,2-3,2,3,Football League Third Division,3,A
+1971-09-25,1971/1972,Oldham Athletic,Plymouth Argyle,0-1,0,1,Football League Third Division,3,A
+1971-09-25,1971/1972,Port Vale,Halifax Town,1-0,1,0,Football League Third Division,3,H
+1971-09-25,1971/1972,Torquay United,Brighton & Hove Albion,2-2,2,2,Football League Third Division,3,D
+1971-09-25,1971/1972,York City,Walsall,2-0,2,0,Football League Third Division,3,H
+1971-09-25,1971/1972,Barnsley,Rochdale,3-3,3,3,Football League Third Division,3,D
+1971-09-25,1971/1972,AFC Bournemouth,Chesterfield,1-0,1,0,Football League Third Division,3,H
+1971-09-25,1971/1972,Aston Villa,Wrexham,2-0,2,0,Football League Third Division,3,H
+1971-09-27,1971/1972,Darlington,Bury,0-0,0,0,Football League Fourth Division,4,D
+1971-09-27,1971/1972,Hartlepool United,Peterborough United,1-0,1,0,Football League Fourth Division,4,H
+1971-09-27,1971/1972,Southend United,Newport County,3-1,3,1,Football League Fourth Division,4,H
+1971-09-27,1971/1972,Brentford,Stockport County,2-0,2,0,Football League Fourth Division,4,H
+1971-09-27,1971/1972,Barrow,Reading,0-0,0,0,Football League Fourth Division,4,D
+1971-09-27,1971/1972,Millwall,Sheffield Wednesday,1-1,1,1,Football League Second Division,2,D
+1971-09-27,1971/1972,Port Vale,Blackburn Rovers,0-0,0,0,Football League Third Division,3,D
+1971-09-27,1971/1972,Tranmere Rovers,Mansfield Town,2-2,2,2,Football League Third Division,3,D
+1971-09-27,1971/1972,Rochdale,Plymouth Argyle,3-2,3,2,Football League Third Division,3,H
+1971-09-28,1971/1972,Scunthorpe United,Colchester United,2-0,2,0,Football League Fourth Division,4,H
+1971-09-28,1971/1972,Preston North End,Norwich City,0-2,0,2,Football League Second Division,2,A
+1971-09-28,1971/1972,Carlisle United,Charlton Athletic,5-2,5,2,Football League Second Division,2,H
+1971-09-28,1971/1972,Burnley,Leyton Orient,6-1,6,1,Football League Second Division,2,H
+1971-09-28,1971/1972,Bristol City,Blackpool,4-0,4,0,Football League Second Division,2,H
+1971-09-28,1971/1972,Birmingham City,Watford,4-1,4,1,Football League Second Division,2,H
+1971-09-28,1971/1972,Luton Town,Fulham,2-0,2,0,Football League Second Division,2,H
+1971-09-28,1971/1972,Walsall,Chesterfield,1-1,1,1,Football League Third Division,3,D
+1971-09-28,1971/1972,Rotherham United,Swansea City,4-0,4,0,Football League Third Division,3,H
+1971-09-28,1971/1972,Barnsley,Aston Villa,0-4,0,4,Football League Third Division,3,A
+1971-09-29,1971/1972,Gillingham,Workington,0-0,0,0,Football League Fourth Division,4,D
+1971-09-29,1971/1972,Crewe Alexandra,Doncaster Rovers,0-1,0,1,Football League Fourth Division,4,A
+1971-09-29,1971/1972,Chester,Northampton Town,3-2,3,2,Football League Fourth Division,4,H
+1971-09-29,1971/1972,Cambridge United,Exeter City,0-1,0,1,Football League Fourth Division,4,A
+1971-09-29,1971/1972,Aldershot,Southport,1-1,1,1,Football League Fourth Division,4,D
+1971-09-29,1971/1972,Lincoln City,Grimsby Town,3-0,3,0,Football League Fourth Division,4,H
+1971-09-29,1971/1972,Hull City,Swindon Town,2-0,2,0,Football League Second Division,2,H
+1971-09-29,1971/1972,Oxford United,Queens Park Rangers,3-1,3,1,Football League Second Division,2,H
+1971-09-29,1971/1972,Sunderland,Middlesbrough,4-1,4,1,Football League Second Division,2,H
+1971-09-29,1971/1972,Torquay United,Oldham Athletic,0-2,0,2,Football League Third Division,3,A
+1971-09-29,1971/1972,Shrewsbury Town,Wrexham,2-1,2,1,Football League Third Division,3,H
+1971-09-29,1971/1972,Brighton & Hove Albion,Bristol Rovers,3-1,3,1,Football League Third Division,3,H
+1971-09-29,1971/1972,Notts County,AFC Bournemouth,1-1,1,1,Football League Third Division,3,D
+1971-09-29,1971/1972,Bolton Wanderers,Halifax Town,1-1,1,1,Football League Third Division,3,D
+1971-09-29,1971/1972,Bradford City,York City,3-1,3,1,Football League Third Division,3,H
+1971-10-01,1971/1972,Colchester United,Chester,1-0,1,0,Football League Fourth Division,4,H
+1971-10-01,1971/1972,Southend United,Southport,2-1,2,1,Football League Fourth Division,4,H
+1971-10-01,1971/1972,Stockport County,Hartlepool United,2-1,2,1,Football League Fourth Division,4,H
+1971-10-02,1971/1972,Chelsea,Wolverhampton Wanderers,3-1,3,1,Football League First Division,1,H
+1971-10-02,1971/1972,Everton,Coventry City,1-2,1,2,Football League First Division,1,A
+1971-10-02,1971/1972,Leeds United,West Ham United,0-0,0,0,Football League First Division,1,D
+1971-10-02,1971/1972,Leicester City,Crystal Palace,0-0,0,0,Football League First Division,1,D
+1971-10-02,1971/1972,Manchester United,Sheffield United,2-0,2,0,Football League First Division,1,H
+1971-10-02,1971/1972,Newcastle United,Derby County,0-1,0,1,Football League First Division,1,A
+1971-10-02,1971/1972,Nottingham Forest,Huddersfield Town,1-2,1,2,Football League First Division,1,A
+1971-10-02,1971/1972,Southampton,Arsenal,0-1,0,1,Football League First Division,1,A
+1971-10-02,1971/1972,Stoke City,Liverpool,0-0,0,0,Football League First Division,1,D
+1971-10-02,1971/1972,West Bromwich Albion,Manchester City,0-2,0,2,Football League First Division,1,A
+1971-10-02,1971/1972,Tottenham Hotspur,Ipswich Town,2-1,2,1,Football League First Division,1,H
+1971-10-02,1971/1972,Barrow,Lincoln City,2-2,2,2,Football League Fourth Division,4,D
+1971-10-02,1971/1972,Brentford,Northampton Town,6-1,6,1,Football League Fourth Division,4,H
+1971-10-02,1971/1972,Cambridge United,Aldershot,1-1,1,1,Football League Fourth Division,4,D
+1971-10-02,1971/1972,Exeter City,Crewe Alexandra,3-1,3,1,Football League Fourth Division,4,H
+1971-10-02,1971/1972,Gillingham,Doncaster Rovers,2-0,2,0,Football League Fourth Division,4,H
+1971-10-02,1971/1972,Newport County,Bury,2-1,2,1,Football League Fourth Division,4,H
+1971-10-02,1971/1972,Scunthorpe United,Darlington,3-1,3,1,Football League Fourth Division,4,H
+1971-10-02,1971/1972,Workington,Peterborough United,4-1,4,1,Football League Fourth Division,4,H
+1971-10-02,1971/1972,Reading,Grimsby Town,1-3,1,3,Football League Fourth Division,4,A
+1971-10-02,1971/1972,Watford,Portsmouth,1-0,1,0,Football League Second Division,2,H
+1971-10-02,1971/1972,Sheffield Wednesday,Fulham,4-0,4,0,Football League Second Division,2,H
+1971-10-02,1971/1972,Swindon Town,Bristol City,0-1,0,1,Football League Second Division,2,A
+1971-10-02,1971/1972,Norwich City,Queens Park Rangers,0-0,0,0,Football League Second Division,2,D
+1971-10-02,1971/1972,Millwall,Carlisle United,2-1,2,1,Football League Second Division,2,H
+1971-10-02,1971/1972,Middlesbrough,Blackpool,1-0,1,0,Football League Second Division,2,H
+1971-10-02,1971/1972,Preston North End,Cardiff City,1-2,1,2,Football League Second Division,2,A
+1971-10-02,1971/1972,Hull City,Luton Town,0-0,0,0,Football League Second Division,2,D
+1971-10-02,1971/1972,Burnley,Sunderland,0-1,0,1,Football League Second Division,2,A
+1971-10-02,1971/1972,Birmingham City,Oxford United,0-0,0,0,Football League Second Division,2,D
+1971-10-02,1971/1972,Leyton Orient,Charlton Athletic,3-2,3,2,Football League Second Division,2,H
+1971-10-02,1971/1972,Brighton & Hove Albion,Barnsley,0-0,0,0,Football League Third Division,3,D
+1971-10-02,1971/1972,Bristol Rovers,Aston Villa,0-1,0,1,Football League Third Division,3,A
+1971-10-02,1971/1972,Chesterfield,Oldham Athletic,0-1,0,1,Football League Third Division,3,A
+1971-10-02,1971/1972,Halifax Town,Tranmere Rovers,3-2,3,2,Football League Third Division,3,H
+1971-10-02,1971/1972,Plymouth Argyle,AFC Bournemouth,1-1,1,1,Football League Third Division,3,D
+1971-10-02,1971/1972,Rochdale,Torquay United,5-0,5,0,Football League Third Division,3,H
+1971-10-02,1971/1972,Rotherham United,York City,1-1,1,1,Football League Third Division,3,D
+1971-10-02,1971/1972,Shrewsbury Town,Blackburn Rovers,7-1,7,1,Football League Third Division,3,H
+1971-10-02,1971/1972,Swansea City,Notts County,1-1,1,1,Football League Third Division,3,D
+1971-10-02,1971/1972,Wrexham,Bradford City,2-1,2,1,Football League Third Division,3,H
+1971-10-02,1971/1972,Bolton Wanderers,Mansfield Town,2-0,2,0,Football League Third Division,3,H
+1971-10-02,1971/1972,Walsall,Port Vale,2-0,2,0,Football League Third Division,3,H
+1971-10-06,1971/1972,Chesterfield,Wrexham,1-0,1,0,Football League Third Division,3,H
+1971-10-08,1971/1972,Southport,Brentford,0-0,0,0,Football League Fourth Division,4,D
+1971-10-08,1971/1972,Tranmere Rovers,Brighton & Hove Albion,2-0,2,0,Football League Third Division,3,H
+1971-10-09,1971/1972,Arsenal,Newcastle United,4-2,4,2,Football League First Division,1,H
+1971-10-09,1971/1972,Coventry City,Leeds United,3-1,3,1,Football League First Division,1,H
+1971-10-09,1971/1972,Crystal Palace,West Bromwich Albion,0-2,0,2,Football League First Division,1,A
+1971-10-09,1971/1972,Derby County,Tottenham Hotspur,2-2,2,2,Football League First Division,1,D
+1971-10-09,1971/1972,Huddersfield Town,Manchester United,0-3,0,3,Football League First Division,1,A
+1971-10-09,1971/1972,Ipswich Town,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1971-10-09,1971/1972,Liverpool,Chelsea,0-0,0,0,Football League First Division,1,D
+1971-10-09,1971/1972,Manchester City,Everton,1-0,1,0,Football League First Division,1,H
+1971-10-09,1971/1972,Wolverhampton Wanderers,Southampton,4-2,4,2,Football League First Division,1,H
+1971-10-09,1971/1972,Sheffield United,Stoke City,2-3,2,3,Football League First Division,1,A
+1971-10-09,1971/1972,West Ham United,Leicester City,1-1,1,1,Football League First Division,1,D
+1971-10-09,1971/1972,Darlington,Stockport County,1-2,1,2,Football League Fourth Division,4,A
+1971-10-09,1971/1972,Aldershot,Colchester United,0-2,0,2,Football League Fourth Division,4,A
+1971-10-09,1971/1972,Bury,Scunthorpe United,3-1,3,1,Football League Fourth Division,4,H
+1971-10-09,1971/1972,Chester,Southend United,1-1,1,1,Football League Fourth Division,4,D
+1971-10-09,1971/1972,Crewe Alexandra,Workington,0-0,0,0,Football League Fourth Division,4,D
+1971-10-09,1971/1972,Doncaster Rovers,Cambridge United,1-1,1,1,Football League Fourth Division,4,D
+1971-10-09,1971/1972,Grimsby Town,Gillingham,2-1,2,1,Football League Fourth Division,4,H
+1971-10-09,1971/1972,Hartlepool United,Newport County,0-1,0,1,Football League Fourth Division,4,A
+1971-10-09,1971/1972,Lincoln City,Exeter City,4-1,4,1,Football League Fourth Division,4,H
+1971-10-09,1971/1972,Northampton Town,Reading,5-0,5,0,Football League Fourth Division,4,H
+1971-10-09,1971/1972,Peterborough United,Barrow,7-0,7,0,Football League Fourth Division,4,H
+1971-10-09,1971/1972,Charlton Athletic,Sheffield Wednesday,2-2,2,2,Football League Second Division,2,D
+1971-10-09,1971/1972,Queens Park Rangers,Birmingham City,1-0,1,0,Football League Second Division,2,H
+1971-10-09,1971/1972,Sunderland,Norwich City,1-1,1,1,Football League Second Division,2,D
+1971-10-09,1971/1972,Blackpool,Leyton Orient,4-1,4,1,Football League Second Division,2,H
+1971-10-09,1971/1972,Bristol City,Watford,2-1,2,1,Football League Second Division,2,H
+1971-10-09,1971/1972,Cardiff City,Millwall,1-2,1,2,Football League Second Division,2,A
+1971-10-09,1971/1972,Carlisle United,Burnley,0-3,0,3,Football League Second Division,2,A
+1971-10-09,1971/1972,Fulham,Hull City,1-0,1,0,Football League Second Division,2,H
+1971-10-09,1971/1972,Luton Town,Swindon Town,0-0,0,0,Football League Second Division,2,D
+1971-10-09,1971/1972,Oxford United,Middlesbrough,0-0,0,0,Football League Second Division,2,D
+1971-10-09,1971/1972,Portsmouth,Preston North End,1-1,1,1,Football League Second Division,2,D
+1971-10-09,1971/1972,Barnsley,Chesterfield,1-4,1,4,Football League Third Division,3,A
+1971-10-09,1971/1972,Blackburn Rovers,Rochdale,3-0,3,0,Football League Third Division,3,H
+1971-10-09,1971/1972,Torquay United,Wrexham,2-3,2,3,Football League Third Division,3,A
+1971-10-09,1971/1972,Bradford City,Walsall,3-0,3,0,Football League Third Division,3,H
+1971-10-09,1971/1972,Mansfield Town,Bristol Rovers,0-0,0,0,Football League Third Division,3,D
+1971-10-09,1971/1972,Notts County,Plymouth Argyle,1-0,1,0,Football League Third Division,3,H
+1971-10-09,1971/1972,Oldham Athletic,Halifax Town,0-0,0,0,Football League Third Division,3,D
+1971-10-09,1971/1972,Port Vale,Bolton Wanderers,1-1,1,1,Football League Third Division,3,D
+1971-10-09,1971/1972,Aston Villa,Rotherham United,1-2,1,2,Football League Third Division,3,A
+1971-10-09,1971/1972,York City,Shrewsbury Town,1-1,1,1,Football League Third Division,3,D
+1971-10-09,1971/1972,AFC Bournemouth,Swansea City,2-1,2,1,Football League Third Division,3,H
+1971-10-12,1971/1972,Fulham,Oxford United,1-1,1,1,Football League Second Division,2,D
+1971-10-12,1971/1972,Plymouth Argyle,Bolton Wanderers,2-0,2,0,Football League Third Division,3,H
+1971-10-13,1971/1972,Norwich City,Burnley,3-0,3,0,Football League Second Division,2,H
+1971-10-15,1971/1972,Colchester United,Lincoln City,5-2,5,2,Football League Fourth Division,4,H
+1971-10-15,1971/1972,Northampton Town,Barrow,2-0,2,0,Football League Fourth Division,4,H
+1971-10-15,1971/1972,Southend United,Peterborough United,2-1,2,1,Football League Fourth Division,4,H
+1971-10-15,1971/1972,Stockport County,Crewe Alexandra,3-1,3,1,Football League Fourth Division,4,H
+1971-10-15,1971/1972,Shrewsbury Town,AFC Bournemouth,3-2,3,2,Football League Third Division,3,H
+1971-10-16,1971/1972,Stoke City,Coventry City,1-0,1,0,Football League First Division,1,H
+1971-10-16,1971/1972,Everton,Ipswich Town,1-1,1,1,Football League First Division,1,D
+1971-10-16,1971/1972,Leeds United,Manchester City,3-0,3,0,Football League First Division,1,H
+1971-10-16,1971/1972,Leicester City,Huddersfield Town,2-0,2,0,Football League First Division,1,H
+1971-10-16,1971/1972,Manchester United,Derby County,1-0,1,0,Football League First Division,1,H
+1971-10-16,1971/1972,Newcastle United,Crystal Palace,1-2,1,2,Football League First Division,1,A
+1971-10-16,1971/1972,Nottingham Forest,Liverpool,2-3,2,3,Football League First Division,1,A
+1971-10-16,1971/1972,Southampton,Sheffield United,3-2,3,2,Football League First Division,1,H
+1971-10-16,1971/1972,Chelsea,Arsenal,1-2,1,2,Football League First Division,1,A
+1971-10-16,1971/1972,Tottenham Hotspur,Wolverhampton Wanderers,4-1,4,1,Football League First Division,1,H
+1971-10-16,1971/1972,West Bromwich Albion,West Ham United,0-0,0,0,Football League First Division,1,D
+1971-10-16,1971/1972,Cambridge United,Chester,2-0,2,0,Football League Fourth Division,4,H
+1971-10-16,1971/1972,Brentford,Bury,2-0,2,0,Football League Fourth Division,4,H
+1971-10-16,1971/1972,Exeter City,Southport,1-3,1,3,Football League Fourth Division,4,A
+1971-10-16,1971/1972,Gillingham,Darlington,4-2,4,2,Football League Fourth Division,4,H
+1971-10-16,1971/1972,Newport County,Doncaster Rovers,1-3,1,3,Football League Fourth Division,4,A
+1971-10-16,1971/1972,Reading,Hartlepool United,3-0,3,0,Football League Fourth Division,4,H
+1971-10-16,1971/1972,Scunthorpe United,Grimsby Town,1-2,1,2,Football League Fourth Division,4,A
+1971-10-16,1971/1972,Workington,Aldershot,5-0,5,0,Football League Fourth Division,4,H
+1971-10-16,1971/1972,Watford,Fulham,1-2,1,2,Football League Second Division,2,A
+1971-10-16,1971/1972,Sheffield Wednesday,Queens Park Rangers,0-0,0,0,Football League Second Division,2,D
+1971-10-16,1971/1972,Swindon Town,Blackpool,1-0,1,0,Football League Second Division,2,H
+1971-10-16,1971/1972,Birmingham City,Sunderland,1-1,1,1,Football League Second Division,2,D
+1971-10-16,1971/1972,Burnley,Cardiff City,3-0,3,0,Football League Second Division,2,H
+1971-10-16,1971/1972,Hull City,Charlton Athletic,2-3,2,3,Football League Second Division,2,A
+1971-10-16,1971/1972,Leyton Orient,Oxford United,1-1,1,1,Football League Second Division,2,D
+1971-10-16,1971/1972,Middlesbrough,Portsmouth,2-1,2,1,Football League Second Division,2,H
+1971-10-16,1971/1972,Millwall,Bristol City,3-1,3,1,Football League Second Division,2,H
+1971-10-16,1971/1972,Norwich City,Luton Town,3-1,3,1,Football League Second Division,2,H
+1971-10-16,1971/1972,Preston North End,Carlisle United,3-0,3,0,Football League Second Division,2,H
+1971-10-16,1971/1972,Brighton & Hove Albion,Port Vale,1-1,1,1,Football League Third Division,3,D
+1971-10-16,1971/1972,Bristol Rovers,York City,5-4,5,4,Football League Third Division,3,H
+1971-10-16,1971/1972,Chesterfield,Torquay United,2-0,2,0,Football League Third Division,3,H
+1971-10-16,1971/1972,Halifax Town,Mansfield Town,1-1,1,1,Football League Third Division,3,D
+1971-10-16,1971/1972,Plymouth Argyle,Aston Villa,3-2,3,2,Football League Third Division,3,H
+1971-10-16,1971/1972,Rochdale,Notts County,1-1,1,1,Football League Third Division,3,D
+1971-10-16,1971/1972,Rotherham United,Blackburn Rovers,2-1,2,1,Football League Third Division,3,H
+1971-10-16,1971/1972,Swansea City,Bradford City,2-0,2,0,Football League Third Division,3,H
+1971-10-16,1971/1972,Walsall,Barnsley,1-1,1,1,Football League Third Division,3,D
+1971-10-16,1971/1972,Bolton Wanderers,Oldham Athletic,2-1,2,1,Football League Third Division,3,H
+1971-10-16,1971/1972,Wrexham,Tranmere Rovers,3-0,3,0,Football League Third Division,3,H
+1971-10-18,1971/1972,Southport,Chester,4-3,4,3,Football League Fourth Division,4,H
+1971-10-18,1971/1972,Peterborough United,Darlington,1-3,1,3,Football League Fourth Division,4,A
+1971-10-18,1971/1972,Stockport County,Barrow,1-3,1,3,Football League Fourth Division,4,A
+1971-10-18,1971/1972,Colchester United,Southend United,1-0,1,0,Football League Fourth Division,4,H
+1971-10-18,1971/1972,Leyton Orient,Preston North End,3-2,3,2,Football League Second Division,2,H
+1971-10-18,1971/1972,Wrexham,Walsall,3-1,3,1,Football League Third Division,3,H
+1971-10-18,1971/1972,Mansfield Town,Barnsley,0-0,0,0,Football League Third Division,3,D
+1971-10-18,1971/1972,York City,Torquay United,3-1,3,1,Football League Third Division,3,H
+1971-10-19,1971/1972,Bury,Hartlepool United,1-1,1,1,Football League Fourth Division,4,D
+1971-10-19,1971/1972,Doncaster Rovers,Lincoln City,2-0,2,0,Football League Fourth Division,4,H
+1971-10-19,1971/1972,Grimsby Town,Crewe Alexandra,2-3,2,3,Football League Fourth Division,4,A
+1971-10-19,1971/1972,Northampton Town,Aldershot,2-3,2,3,Football League Fourth Division,4,A
+1971-10-19,1971/1972,Charlton Athletic,Sunderland,2-2,2,2,Football League Second Division,2,D
+1971-10-19,1971/1972,Middlesbrough,Millwall,1-0,1,0,Football League Second Division,2,H
+1971-10-19,1971/1972,Queens Park Rangers,Luton Town,1-0,1,0,Football League Second Division,2,H
+1971-10-19,1971/1972,Swindon Town,Birmingham City,1-1,1,1,Football League Second Division,2,D
+1971-10-19,1971/1972,Oldham Athletic,Bradford City,0-2,0,2,Football League Third Division,3,A
+1971-10-19,1971/1972,AFC Bournemouth,Port Vale,3-2,3,2,Football League Third Division,3,H
+1971-10-19,1971/1972,Halifax Town,Rochdale,2-2,2,2,Football League Third Division,3,D
+1971-10-19,1971/1972,Swansea City,Brighton & Hove Albion,2-1,2,1,Football League Third Division,3,H
+1971-10-20,1971/1972,Reading,Brentford,2-1,2,1,Football League Fourth Division,4,H
+1971-10-20,1971/1972,Workington,Cambridge United,0-1,0,1,Football League Fourth Division,4,A
+1971-10-20,1971/1972,Exeter City,Gillingham,1-1,1,1,Football League Fourth Division,4,D
+1971-10-20,1971/1972,Watford,Hull City,1-2,1,2,Football League Second Division,2,A
+1971-10-20,1971/1972,Sheffield Wednesday,Carlisle United,2-1,2,1,Football League Second Division,2,H
+1971-10-20,1971/1972,Portsmouth,Bristol City,1-1,1,1,Football League Second Division,2,D
+1971-10-20,1971/1972,Chesterfield,Shrewsbury Town,0-0,0,0,Football League Third Division,3,D
+1971-10-20,1971/1972,Aston Villa,Tranmere Rovers,2-0,2,0,Football League Third Division,3,H
+1971-10-20,1971/1972,Blackburn Rovers,Notts County,0-2,0,2,Football League Third Division,3,A
+1971-10-22,1971/1972,Coventry City,Crystal Palace,1-1,1,1,Football League First Division,1,D
+1971-10-22,1971/1972,Doncaster Rovers,Northampton Town,1-1,1,1,Football League Fourth Division,4,D
+1971-10-22,1971/1972,Tranmere Rovers,Torquay United,2-0,2,0,Football League Third Division,3,H
+1971-10-23,1971/1972,Chelsea,Southampton,3-0,3,0,Football League First Division,1,H
+1971-10-23,1971/1972,Derby County,Arsenal,2-1,2,1,Football League First Division,1,H
+1971-10-23,1971/1972,Ipswich Town,Stoke City,2-1,2,1,Football League First Division,1,H
+1971-10-23,1971/1972,Leeds United,Everton,3-2,3,2,Football League First Division,1,H
+1971-10-23,1971/1972,Liverpool,Huddersfield Town,2-0,2,0,Football League First Division,1,H
+1971-10-23,1971/1972,Manchester City,Sheffield United,2-1,2,1,Football League First Division,1,H
+1971-10-23,1971/1972,Newcastle United,Manchester United,0-1,0,1,Football League First Division,1,A
+1971-10-23,1971/1972,Tottenham Hotspur,Nottingham Forest,6-1,6,1,Football League First Division,1,H
+1971-10-23,1971/1972,West Bromwich Albion,Leicester City,0-1,0,1,Football League First Division,1,A
+1971-10-23,1971/1972,West Ham United,Wolverhampton Wanderers,1-0,1,0,Football League First Division,1,H
+1971-10-23,1971/1972,Barrow,Scunthorpe United,0-1,0,1,Football League Fourth Division,4,A
+1971-10-23,1971/1972,Cambridge United,Colchester United,4-2,4,2,Football League Fourth Division,4,H
+1971-10-23,1971/1972,Chester,Hartlepool United,4-0,4,0,Football League Fourth Division,4,H
+1971-10-23,1971/1972,Crewe Alexandra,Bury,0-0,0,0,Football League Fourth Division,4,D
+1971-10-23,1971/1972,Exeter City,Stockport County,2-0,2,0,Football League Fourth Division,4,H
+1971-10-23,1971/1972,Gillingham,Newport County,1-2,1,2,Football League Fourth Division,4,A
+1971-10-23,1971/1972,Grimsby Town,Southport,0-1,0,1,Football League Fourth Division,4,A
+1971-10-23,1971/1972,Lincoln City,Peterborough United,3-2,3,2,Football League Fourth Division,4,H
+1971-10-23,1971/1972,Workington,Reading,5-0,5,0,Football League Fourth Division,4,H
+1971-10-23,1971/1972,Aldershot,Darlington,3-0,3,0,Football League Fourth Division,4,H
+1971-10-23,1971/1972,Brentford,Southend United,1-2,1,2,Football League Fourth Division,4,A
+1971-10-23,1971/1972,Portsmouth,Fulham,6-3,6,3,Football League Second Division,2,H
+1971-10-23,1971/1972,Sheffield Wednesday,Swindon Town,1-0,1,0,Football League Second Division,2,H
+1971-10-23,1971/1972,Birmingham City,Preston North End,2-2,2,2,Football League Second Division,2,D
+1971-10-23,1971/1972,Blackpool,Queens Park Rangers,1-1,1,1,Football League Second Division,2,D
+1971-10-23,1971/1972,Bristol City,Leyton Orient,5-3,5,3,Football League Second Division,2,H
+1971-10-23,1971/1972,Cardiff City,Charlton Athletic,6-1,6,1,Football League Second Division,2,H
+1971-10-23,1971/1972,Hull City,Burnley,1-2,1,2,Football League Second Division,2,A
+1971-10-23,1971/1972,Luton Town,Carlisle United,0-2,0,2,Football League Second Division,2,A
+1971-10-23,1971/1972,Middlesbrough,Watford,2-1,2,1,Football League Second Division,2,H
+1971-10-23,1971/1972,Millwall,Norwich City,2-1,2,1,Football League Second Division,2,H
+1971-10-23,1971/1972,Oxford United,Sunderland,2-0,2,0,Football League Second Division,2,H
+1971-10-23,1971/1972,Shrewsbury Town,Rotherham United,0-1,0,1,Football League Third Division,3,A
+1971-10-23,1971/1972,Blackburn Rovers,Mansfield Town,1-1,1,1,Football League Third Division,3,D
+1971-10-23,1971/1972,Bolton Wanderers,Swansea City,0-0,0,0,Football League Third Division,3,D
+1971-10-23,1971/1972,Halifax Town,Chesterfield,2-0,2,0,Football League Third Division,3,H
+1971-10-23,1971/1972,Notts County,Oldham Athletic,2-0,2,0,Football League Third Division,3,H
+1971-10-23,1971/1972,Plymouth Argyle,Wrexham,1-2,1,2,Football League Third Division,3,A
+1971-10-23,1971/1972,Port Vale,York City,4-3,4,3,Football League Third Division,3,H
+1971-10-23,1971/1972,Rochdale,Bristol Rovers,3-1,3,1,Football League Third Division,3,H
+1971-10-23,1971/1972,Walsall,Brighton & Hove Albion,0-1,0,1,Football League Third Division,3,A
+1971-10-23,1971/1972,Barnsley,Bradford City,0-2,0,2,Football League Third Division,3,A
+1971-10-23,1971/1972,AFC Bournemouth,Aston Villa,3-0,3,0,Football League Third Division,3,H
+1971-10-26,1971/1972,Huddersfield Town,Nottingham Forest,0-1,0,1,Football League First Division,1,A
+1971-10-29,1971/1972,Stockport County,Workington,1-1,1,1,Football League Fourth Division,4,D
+1971-10-29,1971/1972,Southend United,Barrow,1-0,1,0,Football League Fourth Division,4,H
+1971-10-29,1971/1972,Colchester United,Gillingham,2-2,2,2,Football League Fourth Division,4,D
+1971-10-29,1971/1972,Mansfield Town,AFC Bournemouth,0-5,0,5,Football League Third Division,3,A
+1971-10-30,1971/1972,Leicester City,Chelsea,1-1,1,1,Football League First Division,1,D
+1971-10-30,1971/1972,Everton,Newcastle United,1-0,1,0,Football League First Division,1,H
+1971-10-30,1971/1972,Huddersfield Town,Manchester City,1-1,1,1,Football League First Division,1,D
+1971-10-30,1971/1972,Manchester United,Leeds United,0-1,0,1,Football League First Division,1,A
+1971-10-30,1971/1972,Nottingham Forest,Derby County,0-2,0,2,Football League First Division,1,A
+1971-10-30,1971/1972,Sheffield United,Liverpool,1-1,1,1,Football League First Division,1,D
+1971-10-30,1971/1972,Southampton,West Bromwich Albion,1-1,1,1,Football League First Division,1,D
+1971-10-30,1971/1972,Stoke City,Tottenham Hotspur,2-0,2,0,Football League First Division,1,H
+1971-10-30,1971/1972,Wolverhampton Wanderers,Coventry City,1-1,1,1,Football League First Division,1,D
+1971-10-30,1971/1972,Crystal Palace,West Ham United,0-3,0,3,Football League First Division,1,A
+1971-10-30,1971/1972,Arsenal,Ipswich Town,2-1,2,1,Football League First Division,1,H
+1971-10-30,1971/1972,Bury,Lincoln City,0-1,0,1,Football League Fourth Division,4,A
+1971-10-30,1971/1972,Darlington,Chester,1-1,1,1,Football League Fourth Division,4,D
+1971-10-30,1971/1972,Hartlepool United,Aldershot,0-1,0,1,Football League Fourth Division,4,A
+1971-10-30,1971/1972,Newport County,Cambridge United,3-0,3,0,Football League Fourth Division,4,H
+1971-10-30,1971/1972,Northampton Town,Grimsby Town,3-0,3,0,Football League Fourth Division,4,H
+1971-10-30,1971/1972,Peterborough United,Crewe Alexandra,2-0,2,0,Football League Fourth Division,4,H
+1971-10-30,1971/1972,Reading,Exeter City,3-1,3,1,Football League Fourth Division,4,H
+1971-10-30,1971/1972,Scunthorpe United,Brentford,0-0,0,0,Football League Fourth Division,4,D
+1971-10-30,1971/1972,Southport,Doncaster Rovers,3-0,3,0,Football League Fourth Division,4,H
+1971-10-30,1971/1972,Watford,Sheffield Wednesday,1-1,1,1,Football League Second Division,2,D
+1971-10-30,1971/1972,Sunderland,Luton Town,2-2,2,2,Football League Second Division,2,D
+1971-10-30,1971/1972,Swindon Town,Middlesbrough,0-1,0,1,Football League Second Division,2,A
+1971-10-30,1971/1972,Burnley,Birmingham City,1-1,1,1,Football League Second Division,2,D
+1971-10-30,1971/1972,Carlisle United,Oxford United,2-1,2,1,Football League Second Division,2,H
+1971-10-30,1971/1972,Charlton Athletic,Bristol City,2-0,2,0,Football League Second Division,2,H
+1971-10-30,1971/1972,Fulham,Blackpool,2-1,2,1,Football League Second Division,2,H
+1971-10-30,1971/1972,Leyton Orient,Millwall,2-2,2,2,Football League Second Division,2,D
+1971-10-30,1971/1972,Norwich City,Cardiff City,2-1,2,1,Football League Second Division,2,H
+1971-10-30,1971/1972,Preston North End,Hull City,3-1,3,1,Football League Second Division,2,H
+1971-10-30,1971/1972,Queens Park Rangers,Portsmouth,1-1,1,1,Football League Second Division,2,D
+1971-10-30,1971/1972,Bradford City,Tranmere Rovers,1-1,1,1,Football League Third Division,3,D
+1971-10-30,1971/1972,Brighton & Hove Albion,Shrewsbury Town,2-0,2,0,Football League Third Division,3,H
+1971-10-30,1971/1972,Bristol Rovers,Bolton Wanderers,2-0,2,0,Football League Third Division,3,H
+1971-10-30,1971/1972,Chesterfield,Plymouth Argyle,2-1,2,1,Football League Third Division,3,H
+1971-10-30,1971/1972,Oldham Athletic,Port Vale,1-0,1,0,Football League Third Division,3,H
+1971-10-30,1971/1972,Rotherham United,Walsall,1-1,1,1,Football League Third Division,3,D
+1971-10-30,1971/1972,Swansea City,Rochdale,1-0,1,0,Football League Third Division,3,H
+1971-10-30,1971/1972,Torquay United,Barnsley,1-2,1,2,Football League Third Division,3,A
+1971-10-30,1971/1972,Wrexham,Halifax Town,2-0,2,0,Football League Third Division,3,H
+1971-10-30,1971/1972,York City,Notts County,0-2,0,2,Football League Third Division,3,A
+1971-10-30,1971/1972,Aston Villa,Blackburn Rovers,4-1,4,1,Football League Third Division,3,H
+1971-11-05,1971/1972,Tranmere Rovers,York City,2-0,2,0,Football League Third Division,3,H
+1971-11-05,1971/1972,Shrewsbury Town,Swansea City,3-0,3,0,Football League Third Division,3,H
+1971-11-06,1971/1972,Chelsea,Nottingham Forest,2-0,2,0,Football League First Division,1,H
+1971-11-06,1971/1972,Coventry City,Huddersfield Town,2-1,2,1,Football League First Division,1,H
+1971-11-06,1971/1972,Derby County,Crystal Palace,3-0,3,0,Football League First Division,1,H
+1971-11-06,1971/1972,Ipswich Town,Wolverhampton Wanderers,2-1,2,1,Football League First Division,1,H
+1971-11-06,1971/1972,Leeds United,Leicester City,2-1,2,1,Football League First Division,1,H
+1971-11-06,1971/1972,Liverpool,Arsenal,3-2,3,2,Football League First Division,1,H
+1971-11-06,1971/1972,Manchester City,Manchester United,3-3,3,3,Football League First Division,1,D
+1971-11-06,1971/1972,Newcastle United,Southampton,3-1,3,1,Football League First Division,1,H
+1971-11-06,1971/1972,West Bromwich Albion,Stoke City,0-1,0,1,Football League First Division,1,A
+1971-11-06,1971/1972,Tottenham Hotspur,Everton,3-0,3,0,Football League First Division,1,H
+1971-11-06,1971/1972,West Ham United,Sheffield United,1-2,1,2,Football League First Division,1,A
+1971-11-06,1971/1972,Aldershot,Peterborough United,1-1,1,1,Football League Fourth Division,4,D
+1971-11-06,1971/1972,Workington,Southend United,3-1,3,1,Football League Fourth Division,4,H
+1971-11-06,1971/1972,Cambridge United,Reading,4-1,4,1,Football League Fourth Division,4,H
+1971-11-06,1971/1972,Chester,Bury,2-0,2,0,Football League Fourth Division,4,H
+1971-11-06,1971/1972,Crewe Alexandra,Southport,2-1,2,1,Football League Fourth Division,4,H
+1971-11-06,1971/1972,Doncaster Rovers,Darlington,4-0,4,0,Football League Fourth Division,4,H
+1971-11-06,1971/1972,Exeter City,Scunthorpe United,1-0,1,0,Football League Fourth Division,4,H
+1971-11-06,1971/1972,Gillingham,Stockport County,3-2,3,2,Football League Fourth Division,4,H
+1971-11-06,1971/1972,Grimsby Town,Hartlepool United,3-2,3,2,Football League Fourth Division,4,H
+1971-11-06,1971/1972,Lincoln City,Northampton Town,2-0,2,0,Football League Fourth Division,4,H
+1971-11-06,1971/1972,Barrow,Colchester United,2-2,2,2,Football League Fourth Division,4,D
+1971-11-06,1971/1972,Brentford,Newport County,3-1,3,1,Football League Fourth Division,4,H
+1971-11-06,1971/1972,Portsmouth,Sunderland,2-2,2,2,Football League Second Division,2,D
+1971-11-06,1971/1972,Sheffield Wednesday,Burnley,2-1,2,1,Football League Second Division,2,H
+1971-11-06,1971/1972,Birmingham City,Leyton Orient,2-0,2,0,Football League Second Division,2,H
+1971-11-06,1971/1972,Blackpool,Carlisle United,2-0,2,0,Football League Second Division,2,H
+1971-11-06,1971/1972,Bristol City,Fulham,1-2,1,2,Football League Second Division,2,A
+1971-11-06,1971/1972,Cardiff City,Queens Park Rangers,0-0,0,0,Football League Second Division,2,D
+1971-11-06,1971/1972,Hull City,Norwich City,1-2,1,2,Football League Second Division,2,A
+1971-11-06,1971/1972,Luton Town,Charlton Athletic,1-2,1,2,Football League Second Division,2,A
+1971-11-06,1971/1972,Middlesbrough,Preston North End,0-1,0,1,Football League Second Division,2,A
+1971-11-06,1971/1972,Millwall,Watford,3-2,3,2,Football League Second Division,2,H
+1971-11-06,1971/1972,Oxford United,Swindon Town,1-1,1,1,Football League Second Division,2,D
+1971-11-06,1971/1972,Walsall,Bristol Rovers,2-0,2,0,Football League Third Division,3,H
+1971-11-06,1971/1972,Blackburn Rovers,Bradford City,1-0,1,0,Football League Third Division,3,H
+1971-11-06,1971/1972,Bolton Wanderers,Wrexham,0-2,0,2,Football League Third Division,3,A
+1971-11-06,1971/1972,Halifax Town,Rotherham United,1-1,1,1,Football League Third Division,3,D
+1971-11-06,1971/1972,Notts County,Mansfield Town,2-0,2,0,Football League Third Division,3,H
+1971-11-06,1971/1972,Plymouth Argyle,Brighton & Hove Albion,1-2,1,2,Football League Third Division,3,A
+1971-11-06,1971/1972,Port Vale,Aston Villa,4-4,4,4,Football League Third Division,3,D
+1971-11-06,1971/1972,Rochdale,Chesterfield,0-2,0,2,Football League Third Division,3,A
+1971-11-06,1971/1972,Barnsley,Oldham Athletic,2-1,2,1,Football League Third Division,3,H
+1971-11-06,1971/1972,AFC Bournemouth,Torquay United,1-0,1,0,Football League Third Division,3,H
+1971-11-09,1971/1972,Bristol Rovers,Rotherham United,1-2,1,2,Football League Third Division,3,A
+1971-11-12,1971/1972,Stockport County,Cambridge United,3-0,3,0,Football League Fourth Division,4,H
+1971-11-12,1971/1972,Southport,Lincoln City,1-1,1,1,Football League Fourth Division,4,D
+1971-11-12,1971/1972,Northampton Town,Crewe Alexandra,4-1,4,1,Football League Fourth Division,4,H
+1971-11-12,1971/1972,Southend United,Exeter City,3-0,3,0,Football League Fourth Division,4,H
+1971-11-13,1971/1972,Arsenal,Manchester City,1-2,1,2,Football League First Division,1,A
+1971-11-13,1971/1972,Crystal Palace,Ipswich Town,1-1,1,1,Football League First Division,1,D
+1971-11-13,1971/1972,Everton,Liverpool,1-0,1,0,Football League First Division,1,H
+1971-11-13,1971/1972,Leicester City,Newcastle United,3-0,3,0,Football League First Division,1,H
+1971-11-13,1971/1972,Manchester United,Tottenham Hotspur,3-1,3,1,Football League First Division,1,H
+1971-11-13,1971/1972,Nottingham Forest,West Bromwich Albion,4-1,4,1,Football League First Division,1,H
+1971-11-13,1971/1972,Sheffield United,Coventry City,2-0,2,0,Football League First Division,1,H
+1971-11-13,1971/1972,Southampton,Leeds United,2-1,2,1,Football League First Division,1,H
+1971-11-13,1971/1972,Huddersfield Town,West Ham United,1-0,1,0,Football League First Division,1,H
+1971-11-13,1971/1972,Wolverhampton Wanderers,Derby County,2-1,2,1,Football League First Division,1,H
+1971-11-13,1971/1972,Stoke City,Chelsea,0-1,0,1,Football League First Division,1,A
+1971-11-13,1971/1972,Scunthorpe United,Workington,2-0,2,0,Football League Fourth Division,4,H
+1971-11-13,1971/1972,Bury,Aldershot,3-1,3,1,Football League Fourth Division,4,H
+1971-11-13,1971/1972,Colchester United,Brentford,1-1,1,1,Football League Fourth Division,4,D
+1971-11-13,1971/1972,Darlington,Grimsby Town,3-2,3,2,Football League Fourth Division,4,H
+1971-11-13,1971/1972,Hartlepool United,Doncaster Rovers,0-0,0,0,Football League Fourth Division,4,D
+1971-11-13,1971/1972,Newport County,Barrow,2-1,2,1,Football League Fourth Division,4,H
+1971-11-13,1971/1972,Peterborough United,Chester,2-0,2,0,Football League Fourth Division,4,H
+1971-11-13,1971/1972,Reading,Gillingham,1-2,1,2,Football League Fourth Division,4,A
+1971-11-13,1971/1972,Watford,Luton Town,2-1,2,1,Football League Second Division,2,H
+1971-11-13,1971/1972,Sunderland,Blackpool,0-0,0,0,Football League Second Division,2,D
+1971-11-13,1971/1972,Swindon Town,Millwall,0-2,0,2,Football League Second Division,2,A
+1971-11-13,1971/1972,Burnley,Middlesbrough,5-2,5,2,Football League Second Division,2,H
+1971-11-13,1971/1972,Carlisle United,Portsmouth,1-0,1,0,Football League Second Division,2,H
+1971-11-13,1971/1972,Charlton Athletic,Oxford United,3-0,3,0,Football League Second Division,2,H
+1971-11-13,1971/1972,Fulham,Cardiff City,4-3,4,3,Football League Second Division,2,H
+1971-11-13,1971/1972,Leyton Orient,Hull City,1-0,1,0,Football League Second Division,2,H
+1971-11-13,1971/1972,Norwich City,Birmingham City,2-2,2,2,Football League Second Division,2,D
+1971-11-13,1971/1972,Preston North End,Sheffield Wednesday,1-0,1,0,Football League Second Division,2,H
+1971-11-13,1971/1972,Queens Park Rangers,Bristol City,3-0,3,0,Football League Second Division,2,H
+1971-11-13,1971/1972,Aston Villa,Notts County,1-0,1,0,Football League Third Division,3,H
+1971-11-13,1971/1972,Bradford City,AFC Bournemouth,2-2,2,2,Football League Third Division,3,D
+1971-11-13,1971/1972,Brighton & Hove Albion,Halifax Town,2-1,2,1,Football League Third Division,3,H
+1971-11-13,1971/1972,Bristol Rovers,Shrewsbury Town,3-1,3,1,Football League Third Division,3,H
+1971-11-13,1971/1972,Chesterfield,Bolton Wanderers,2-1,2,1,Football League Third Division,3,H
+1971-11-13,1971/1972,Mansfield Town,Port Vale,0-1,0,1,Football League Third Division,3,A
+1971-11-13,1971/1972,Oldham Athletic,Tranmere Rovers,3-1,3,1,Football League Third Division,3,H
+1971-11-13,1971/1972,Rotherham United,Plymouth Argyle,4-3,4,3,Football League Third Division,3,H
+1971-11-13,1971/1972,Swansea City,Walsall,2-0,2,0,Football League Third Division,3,H
+1971-11-13,1971/1972,York City,Barnsley,1-1,1,1,Football League Third Division,3,D
+1971-11-13,1971/1972,Wrexham,Rochdale,1-3,1,3,Football League Third Division,3,A
+1971-11-13,1971/1972,Torquay United,Blackburn Rovers,3-1,3,1,Football League Third Division,3,H
+1971-11-15,1971/1972,Halifax Town,Plymouth Argyle,0-1,0,1,Football League Third Division,3,A
+1971-11-19,1971/1972,Bristol City,Carlisle United,1-4,1,4,Football League Second Division,2,A
+1971-11-20,1971/1972,Wolverhampton Wanderers,Arsenal,5-1,5,1,Football League First Division,1,H
+1971-11-20,1971/1972,Tottenham Hotspur,West Bromwich Albion,3-2,3,2,Football League First Division,1,H
+1971-11-20,1971/1972,Newcastle United,Nottingham Forest,2-1,2,1,Football League First Division,1,H
+1971-11-20,1971/1972,Manchester United,Leicester City,3-2,3,2,Football League First Division,1,H
+1971-11-20,1971/1972,Leeds United,Stoke City,1-0,1,0,Football League First Division,1,H
+1971-11-20,1971/1972,Ipswich Town,Huddersfield Town,1-0,1,0,Football League First Division,1,H
+1971-11-20,1971/1972,Everton,Southampton,8-0,8,0,Football League First Division,1,H
+1971-11-20,1971/1972,Derby County,Sheffield United,3-0,3,0,Football League First Division,1,H
+1971-11-20,1971/1972,Crystal Palace,Chelsea,2-3,2,3,Football League First Division,1,A
+1971-11-20,1971/1972,Coventry City,Liverpool,0-2,0,2,Football League First Division,1,A
+1971-11-20,1971/1972,West Ham United,Manchester City,0-2,0,2,Football League First Division,1,A
+1971-11-20,1971/1972,Swindon Town,Preston North End,1-1,1,1,Football League Second Division,2,D
+1971-11-20,1971/1972,Sheffield Wednesday,Norwich City,1-1,1,1,Football League Second Division,2,D
+1971-11-20,1971/1972,Queens Park Rangers,Hull City,2-1,2,1,Football League Second Division,2,H
+1971-11-20,1971/1972,Portsmouth,Oxford United,2-0,2,0,Football League Second Division,2,H
+1971-11-20,1971/1972,Millwall,Birmingham City,3-0,3,0,Football League Second Division,2,H
+1971-11-20,1971/1972,Middlesbrough,Leyton Orient,1-0,1,0,Football League Second Division,2,H
+1971-11-20,1971/1972,Fulham,Charlton Athletic,1-0,1,0,Football League Second Division,2,H
+1971-11-20,1971/1972,Cardiff City,Sunderland,1-2,1,2,Football League Second Division,2,A
+1971-11-20,1971/1972,Watford,Burnley,2-1,2,1,Football League Second Division,2,H
+1971-11-20,1971/1972,Blackpool,Luton Town,0-1,0,1,Football League Second Division,2,A
+1971-11-24,1971/1972,Tottenham Hotspur,Arsenal,1-1,1,1,Football League First Division,1,D
+1971-11-26,1971/1972,Southend United,Stockport County,4-2,4,2,Football League Fourth Division,4,H
+1971-11-26,1971/1972,Colchester United,Exeter City,3-0,3,0,Football League Fourth Division,4,H
+1971-11-26,1971/1972,Tranmere Rovers,Blackburn Rovers,1-3,1,3,Football League Third Division,3,A
+1971-11-26,1971/1972,Shrewsbury Town,Bolton Wanderers,1-0,1,0,Football League Third Division,3,H
+1971-11-26,1971/1972,Walsall,Rochdale,3-0,3,0,Football League Third Division,3,H
+1971-11-27,1971/1972,Arsenal,Crystal Palace,2-1,2,1,Football League First Division,1,H
+1971-11-27,1971/1972,Chelsea,Tottenham Hotspur,1-0,1,0,Football League First Division,1,H
+1971-11-27,1971/1972,Huddersfield Town,Derby County,2-1,2,1,Football League First Division,1,H
+1971-11-27,1971/1972,Leicester City,Everton,0-0,0,0,Football League First Division,1,D
+1971-11-27,1971/1972,Liverpool,West Ham United,1-0,1,0,Football League First Division,1,H
+1971-11-27,1971/1972,Manchester City,Coventry City,4-0,4,0,Football League First Division,1,H
+1971-11-27,1971/1972,Nottingham Forest,Leeds United,0-2,0,2,Football League First Division,1,A
+1971-11-27,1971/1972,Sheffield United,Ipswich Town,7-0,7,0,Football League First Division,1,H
+1971-11-27,1971/1972,Southampton,Manchester United,2-5,2,5,Football League First Division,1,A
+1971-11-27,1971/1972,West Bromwich Albion,Wolverhampton Wanderers,2-3,2,3,Football League First Division,1,A
+1971-11-27,1971/1972,Stoke City,Newcastle United,3-3,3,3,Football League First Division,1,D
+1971-11-27,1971/1972,Newport County,Workington,0-1,0,1,Football League Fourth Division,4,A
+1971-11-27,1971/1972,Barrow,Cambridge United,1-1,1,1,Football League Fourth Division,4,D
+1971-11-27,1971/1972,Brentford,Gillingham,1-3,1,3,Football League Fourth Division,4,A
+1971-11-27,1971/1972,Bury,Northampton Town,4-2,4,2,Football League Fourth Division,4,H
+1971-11-27,1971/1972,Chester,Doncaster Rovers,1-1,1,1,Football League Fourth Division,4,D
+1971-11-27,1971/1972,Darlington,Lincoln City,3-3,3,3,Football League Fourth Division,4,D
+1971-11-27,1971/1972,Hartlepool United,Crewe Alexandra,1-0,1,0,Football League Fourth Division,4,H
+1971-11-27,1971/1972,Peterborough United,Southport,2-0,2,0,Football League Fourth Division,4,H
+1971-11-27,1971/1972,Scunthorpe United,Reading,1-1,1,1,Football League Fourth Division,4,D
+1971-11-27,1971/1972,Aldershot,Grimsby Town,1-1,1,1,Football League Fourth Division,4,D
+1971-11-27,1971/1972,Sunderland,Bristol City,1-1,1,1,Football League Second Division,2,D
+1971-11-27,1971/1972,Norwich City,Middlesbrough,2-0,2,0,Football League Second Division,2,H
+1971-11-27,1971/1972,Oxford United,Blackpool,3-1,3,1,Football League Second Division,2,H
+1971-11-27,1971/1972,Preston North End,Watford,2-0,2,0,Football League Second Division,2,H
+1971-11-27,1971/1972,Birmingham City,Fulham,3-1,3,1,Football League Second Division,2,H
+1971-11-27,1971/1972,Burnley,Swindon Town,1-2,1,2,Football League Second Division,2,A
+1971-11-27,1971/1972,Carlisle United,Cardiff City,2-1,2,1,Football League Second Division,2,H
+1971-11-27,1971/1972,Charlton Athletic,Queens Park Rangers,2-1,2,1,Football League Second Division,2,H
+1971-11-27,1971/1972,Hull City,Millwall,0-0,0,0,Football League Second Division,2,D
+1971-11-27,1971/1972,Leyton Orient,Sheffield Wednesday,0-3,0,3,Football League Second Division,2,A
+1971-11-27,1971/1972,Luton Town,Portsmouth,3-2,3,2,Football League Second Division,2,H
+1971-11-27,1971/1972,Torquay United,Port Vale,3-0,3,0,Football League Third Division,3,H
+1971-11-27,1971/1972,Bradford City,Notts County,2-3,2,3,Football League Third Division,3,A
+1971-11-27,1971/1972,Barnsley,AFC Bournemouth,0-0,0,0,Football League Third Division,3,D
+1971-11-27,1971/1972,Brighton & Hove Albion,Chesterfield,2-1,2,1,Football League Third Division,3,H
+1971-11-27,1971/1972,Bristol Rovers,Plymouth Argyle,2-2,2,2,Football League Third Division,3,D
+1971-11-27,1971/1972,Oldham Athletic,Aston Villa,0-6,0,6,Football League Third Division,3,A
+1971-11-27,1971/1972,Rotherham United,Wrexham,2-2,2,2,Football League Third Division,3,D
+1971-11-27,1971/1972,Swansea City,Halifax Town,3-0,3,0,Football League Third Division,3,H
+1971-11-27,1971/1972,York City,Mansfield Town,1-2,1,2,Football League Third Division,3,A
+1971-12-01,1971/1972,Cardiff City,Portsmouth,3-2,3,2,Football League Second Division,2,H
+1971-12-03,1971/1972,Stockport County,Colchester United,2-2,2,2,Football League Fourth Division,4,D
+1971-12-04,1971/1972,Coventry City,Leicester City,1-1,1,1,Football League First Division,1,D
+1971-12-04,1971/1972,Crystal Palace,Sheffield United,5-1,5,1,Football League First Division,1,H
+1971-12-04,1971/1972,Derby County,Manchester City,3-1,3,1,Football League First Division,1,H
+1971-12-04,1971/1972,Everton,Stoke City,0-0,0,0,Football League First Division,1,D
+1971-12-04,1971/1972,Ipswich Town,Liverpool,0-0,0,0,Football League First Division,1,D
+1971-12-04,1971/1972,Manchester United,Nottingham Forest,3-2,3,2,Football League First Division,1,H
+1971-12-04,1971/1972,Newcastle United,Chelsea,0-0,0,0,Football League First Division,1,D
+1971-12-04,1971/1972,Tottenham Hotspur,Southampton,1-0,1,0,Football League First Division,1,H
+1971-12-04,1971/1972,West Ham United,Arsenal,0-0,0,0,Football League First Division,1,D
+1971-12-04,1971/1972,Leeds United,West Bromwich Albion,3-0,3,0,Football League First Division,1,H
+1971-12-04,1971/1972,Wolverhampton Wanderers,Huddersfield Town,2-2,2,2,Football League First Division,1,D
+1971-12-04,1971/1972,Workington,Barrow,0-1,0,1,Football League Fourth Division,4,A
+1971-12-04,1971/1972,Crewe Alexandra,Chester,3-1,3,1,Football League Fourth Division,4,H
+1971-12-04,1971/1972,Exeter City,Brentford,0-1,0,1,Football League Fourth Division,4,A
+1971-12-04,1971/1972,Gillingham,Scunthorpe United,0-1,0,1,Football League Fourth Division,4,A
+1971-12-04,1971/1972,Grimsby Town,Bury,4-1,4,1,Football League Fourth Division,4,H
+1971-12-04,1971/1972,Lincoln City,Aldershot,2-2,2,2,Football League Fourth Division,4,D
+1971-12-04,1971/1972,Northampton Town,Hartlepool United,2-1,2,1,Football League Fourth Division,4,H
+1971-12-04,1971/1972,Reading,Newport County,4-2,4,2,Football League Fourth Division,4,H
+1971-12-04,1971/1972,Southport,Darlington,2-1,2,1,Football League Fourth Division,4,H
+1971-12-04,1971/1972,Cambridge United,Southend United,1-1,1,1,Football League Fourth Division,4,D
+1971-12-04,1971/1972,Doncaster Rovers,Peterborough United,3-2,3,2,Football League Fourth Division,4,H
+1971-12-04,1971/1972,Watford,Leyton Orient,0-1,0,1,Football League Second Division,2,A
+1971-12-04,1971/1972,Blackpool,Preston North End,1-1,1,1,Football League Second Division,2,D
+1971-12-04,1971/1972,Swindon Town,Norwich City,0-1,0,1,Football League Second Division,2,A
+1971-12-04,1971/1972,Sheffield Wednesday,Hull City,2-1,2,1,Football League Second Division,2,H
+1971-12-04,1971/1972,Queens Park Rangers,Sunderland,2-1,2,1,Football League Second Division,2,H
+1971-12-04,1971/1972,Portsmouth,Charlton Athletic,0-0,0,0,Football League Second Division,2,D
+1971-12-04,1971/1972,Middlesbrough,Birmingham City,0-0,0,0,Football League Second Division,2,D
+1971-12-04,1971/1972,Fulham,Carlisle United,0-1,0,1,Football League Second Division,2,A
+1971-12-04,1971/1972,Bristol City,Luton Town,0-0,0,0,Football League Second Division,2,D
+1971-12-04,1971/1972,Millwall,Burnley,1-1,1,1,Football League Second Division,2,D
+1971-12-04,1971/1972,Bolton Wanderers,Brighton & Hove Albion,1-1,1,1,Football League Third Division,3,D
+1971-12-04,1971/1972,Chesterfield,Swansea City,1-2,1,2,Football League Third Division,3,A
+1971-12-04,1971/1972,Halifax Town,Walsall,3-1,3,1,Football League Third Division,3,H
+1971-12-04,1971/1972,Mansfield Town,Torquay United,0-0,0,0,Football League Third Division,3,D
+1971-12-04,1971/1972,Notts County,Barnsley,3-0,3,0,Football League Third Division,3,H
+1971-12-04,1971/1972,Plymouth Argyle,Shrewsbury Town,1-2,1,2,Football League Third Division,3,A
+1971-12-04,1971/1972,Port Vale,Tranmere Rovers,2-1,2,1,Football League Third Division,3,H
+1971-12-04,1971/1972,Rochdale,Rotherham United,2-1,2,1,Football League Third Division,3,H
+1971-12-04,1971/1972,Blackburn Rovers,Oldham Athletic,0-1,0,1,Football League Third Division,3,A
+1971-12-04,1971/1972,Wrexham,Bristol Rovers,1-1,1,1,Football League Third Division,3,D
+1971-12-04,1971/1972,Aston Villa,Bradford City,3-0,3,0,Football League Third Division,3,H
+1971-12-04,1971/1972,AFC Bournemouth,York City,2-2,2,2,Football League Third Division,3,D
+1971-12-11,1971/1972,Arsenal,Coventry City,2-0,2,0,Football League First Division,1,H
+1971-12-11,1971/1972,Chelsea,Leeds United,0-0,0,0,Football League First Division,1,D
+1971-12-11,1971/1972,Leicester City,Tottenham Hotspur,0-1,0,1,Football League First Division,1,A
+1971-12-11,1971/1972,Liverpool,Derby County,3-2,3,2,Football League First Division,1,H
+1971-12-11,1971/1972,Manchester City,Ipswich Town,4-0,4,0,Football League First Division,1,H
+1971-12-11,1971/1972,Huddersfield Town,Crystal Palace,0-1,0,1,Football League First Division,1,A
+1971-12-11,1971/1972,Sheffield United,Wolverhampton Wanderers,2-2,2,2,Football League First Division,1,D
+1971-12-11,1971/1972,Southampton,West Ham United,3-3,3,3,Football League First Division,1,D
+1971-12-11,1971/1972,Stoke City,Manchester United,1-1,1,1,Football League First Division,1,D
+1971-12-11,1971/1972,West Bromwich Albion,Newcastle United,0-3,0,3,Football League First Division,1,A
+1971-12-11,1971/1972,Nottingham Forest,Everton,1-0,1,0,Football League First Division,1,H
+1971-12-11,1971/1972,Scunthorpe United,Chester,2-0,2,0,Football League Fourth Division,4,H
+1971-12-11,1971/1972,Brentford,Southport,1-0,1,0,Football League Fourth Division,4,H
+1971-12-11,1971/1972,Newport County,Lincoln City,2-0,2,0,Football League Fourth Division,4,H
+1971-12-11,1971/1972,Charlton Athletic,Blackpool,2-3,2,3,Football League Second Division,2,A
+1971-12-11,1971/1972,Sunderland,Fulham,2-1,2,1,Football League Second Division,2,H
+1971-12-11,1971/1972,Preston North End,Millwall,4-0,4,0,Football League Second Division,2,H
+1971-12-11,1971/1972,Oxford United,Bristol City,0-0,0,0,Football League Second Division,2,D
+1971-12-11,1971/1972,Norwich City,Watford,1-1,1,1,Football League Second Division,2,D
+1971-12-11,1971/1972,Luton Town,Cardiff City,2-2,2,2,Football League Second Division,2,D
+1971-12-11,1971/1972,Leyton Orient,Swindon Town,0-1,0,1,Football League Second Division,2,A
+1971-12-11,1971/1972,Hull City,Middlesbrough,4-3,4,3,Football League Second Division,2,H
+1971-12-11,1971/1972,Carlisle United,Queens Park Rangers,1-4,1,4,Football League Second Division,2,A
+1971-12-11,1971/1972,Birmingham City,Sheffield Wednesday,0-0,0,0,Football League Second Division,2,D
+1971-12-11,1971/1972,Burnley,Portsmouth,1-3,1,3,Football League Second Division,2,A
+1971-12-11,1971/1972,Oldham Athletic,Blackburn Rovers,1-1,1,1,Football League Third Division,3,D
+1971-12-17,1971/1972,Coventry City,Chelsea,1-1,1,1,Football League First Division,1,D
+1971-12-17,1971/1972,Tranmere Rovers,Rochdale,2-0,2,0,Football League Third Division,3,H
+1971-12-18,1971/1972,Wolverhampton Wanderers,Stoke City,2-0,2,0,Football League First Division,1,H
+1971-12-18,1971/1972,Arsenal,West Bromwich Albion,2-0,2,0,Football League First Division,1,H
+1971-12-18,1971/1972,Crystal Palace,Leeds United,1-1,1,1,Football League First Division,1,D
+1971-12-18,1971/1972,Derby County,Everton,2-0,2,0,Football League First Division,1,H
+1971-12-18,1971/1972,Huddersfield Town,Southampton,0-2,0,2,Football League First Division,1,A
+1971-12-18,1971/1972,Ipswich Town,Manchester United,0-0,0,0,Football League First Division,1,D
+1971-12-18,1971/1972,Liverpool,Tottenham Hotspur,0-0,0,0,Football League First Division,1,D
+1971-12-18,1971/1972,Manchester City,Leicester City,1-1,1,1,Football League First Division,1,D
+1971-12-18,1971/1972,Sheffield United,Nottingham Forest,2-1,2,1,Football League First Division,1,H
+1971-12-18,1971/1972,West Ham United,Newcastle United,0-1,0,1,Football League First Division,1,A
+1971-12-18,1971/1972,Aldershot,Gillingham,0-2,0,2,Football League Fourth Division,4,A
+1971-12-18,1971/1972,Bury,Southend United,2-0,2,0,Football League Fourth Division,4,H
+1971-12-18,1971/1972,Hartlepool United,Brentford,1-2,1,2,Football League Fourth Division,4,A
+1971-12-18,1971/1972,Chester,Workington,2-1,2,1,Football League Fourth Division,4,H
+1971-12-18,1971/1972,Crewe Alexandra,Cambridge United,1-1,1,1,Football League Fourth Division,4,D
+1971-12-18,1971/1972,Darlington,Reading,1-0,1,0,Football League Fourth Division,4,H
+1971-12-18,1971/1972,Doncaster Rovers,Scunthorpe United,0-2,0,2,Football League Fourth Division,4,A
+1971-12-18,1971/1972,Grimsby Town,Barrow,2-0,2,0,Football League Fourth Division,4,H
+1971-12-18,1971/1972,Lincoln City,Stockport County,2-1,2,1,Football League Fourth Division,4,H
+1971-12-18,1971/1972,Northampton Town,Newport County,1-1,1,1,Football League Fourth Division,4,D
+1971-12-18,1971/1972,Peterborough United,Exeter City,3-3,3,3,Football League Fourth Division,4,D
+1971-12-18,1971/1972,Southport,Colchester United,3-0,3,0,Football League Fourth Division,4,H
+1971-12-18,1971/1972,Sunderland,Millwall,3-3,3,3,Football League Second Division,2,D
+1971-12-18,1971/1972,Bristol City,Burnley,0-2,0,2,Football League Second Division,2,A
+1971-12-18,1971/1972,Cardiff City,Watford,2-0,2,0,Football League Second Division,2,H
+1971-12-18,1971/1972,Carlisle United,Norwich City,3-0,3,0,Football League Second Division,2,H
+1971-12-18,1971/1972,Charlton Athletic,Birmingham City,1-1,1,1,Football League Second Division,2,D
+1971-12-18,1971/1972,Fulham,Middlesbrough,2-2,2,2,Football League Second Division,2,D
+1971-12-18,1971/1972,Luton Town,Leyton Orient,2-0,2,0,Football League Second Division,2,H
+1971-12-18,1971/1972,Oxford United,Preston North End,2-0,2,0,Football League Second Division,2,H
+1971-12-18,1971/1972,Portsmouth,Sheffield Wednesday,1-2,1,2,Football League Second Division,2,A
+1971-12-18,1971/1972,Queens Park Rangers,Swindon Town,3-0,3,0,Football League Second Division,2,H
+1971-12-18,1971/1972,Blackpool,Hull City,1-1,1,1,Football League Second Division,2,D
+1971-12-18,1971/1972,Oldham Athletic,Shrewsbury Town,1-4,1,4,Football League Third Division,3,A
+1971-12-18,1971/1972,York City,Brighton & Hove Albion,1-2,1,2,Football League Third Division,3,A
+1971-12-18,1971/1972,Torquay United,Rotherham United,0-1,0,1,Football League Third Division,3,A
+1971-12-18,1971/1972,Port Vale,Wrexham,1-0,1,0,Football League Third Division,3,H
+1971-12-18,1971/1972,Blackburn Rovers,Chesterfield,1-0,1,0,Football League Third Division,3,H
+1971-12-18,1971/1972,Mansfield Town,Plymouth Argyle,2-3,2,3,Football League Third Division,3,A
+1971-12-18,1971/1972,Bradford City,Bristol Rovers,1-1,1,1,Football League Third Division,3,D
+1971-12-18,1971/1972,Notts County,Walsall,3-0,3,0,Football League Third Division,3,H
+1971-12-18,1971/1972,Barnsley,Swansea City,0-1,0,1,Football League Third Division,3,A
+1971-12-18,1971/1972,Aston Villa,Bolton Wanderers,3-2,3,2,Football League Third Division,3,H
+1971-12-18,1971/1972,AFC Bournemouth,Halifax Town,3-1,3,1,Football League Third Division,3,H
+1971-12-27,1971/1972,Chelsea,Ipswich Town,2-0,2,0,Football League First Division,1,H
+1971-12-27,1971/1972,Everton,Huddersfield Town,2-2,2,2,Football League First Division,1,D
+1971-12-27,1971/1972,Leeds United,Derby County,3-0,3,0,Football League First Division,1,H
+1971-12-27,1971/1972,Leicester City,Wolverhampton Wanderers,1-2,1,2,Football League First Division,1,A
+1971-12-27,1971/1972,Manchester United,Coventry City,2-2,2,2,Football League First Division,1,D
+1971-12-27,1971/1972,Nottingham Forest,Arsenal,1-1,1,1,Football League First Division,1,D
+1971-12-27,1971/1972,Southampton,Crystal Palace,1-0,1,0,Football League First Division,1,H
+1971-12-27,1971/1972,Stoke City,Manchester City,1-3,1,3,Football League First Division,1,A
+1971-12-27,1971/1972,Tottenham Hotspur,West Ham United,0-1,0,1,Football League First Division,1,A
+1971-12-27,1971/1972,Newcastle United,Sheffield United,1-2,1,2,Football League First Division,1,A
+1971-12-27,1971/1972,West Bromwich Albion,Liverpool,1-0,1,0,Football League First Division,1,H
+1971-12-27,1971/1972,Barrow,Bury,1-1,1,1,Football League Fourth Division,4,D
+1971-12-27,1971/1972,Gillingham,Northampton Town,4-1,4,1,Football League Fourth Division,4,H
+1971-12-27,1971/1972,Cambridge United,Grimsby Town,3-1,3,1,Football League Fourth Division,4,H
+1971-12-27,1971/1972,Colchester United,Peterborough United,1-1,1,1,Football League Fourth Division,4,D
+1971-12-27,1971/1972,Exeter City,Aldershot,1-0,1,0,Football League Fourth Division,4,H
+1971-12-27,1971/1972,Newport County,Chester,1-0,1,0,Football League Fourth Division,4,H
+1971-12-27,1971/1972,Reading,Doncaster Rovers,3-1,3,1,Football League Fourth Division,4,H
+1971-12-27,1971/1972,Scunthorpe United,Hartlepool United,2-2,2,2,Football League Fourth Division,4,D
+1971-12-27,1971/1972,Southend United,Lincoln City,2-1,2,1,Football League Fourth Division,4,H
+1971-12-27,1971/1972,Workington,Darlington,0-0,0,0,Football League Fourth Division,4,D
+1971-12-27,1971/1972,Brentford,Crewe Alexandra,1-0,1,0,Football League Fourth Division,4,H
+1971-12-27,1971/1972,Stockport County,Southport,1-1,1,1,Football League Fourth Division,4,D
+1971-12-27,1971/1972,Watford,Oxford United,0-1,0,1,Football League Second Division,2,A
+1971-12-27,1971/1972,Birmingham City,Cardiff City,3-0,3,0,Football League Second Division,2,H
+1971-12-27,1971/1972,Sheffield Wednesday,Luton Town,2-2,2,2,Football League Second Division,2,D
+1971-12-27,1971/1972,Preston North End,Bristol City,1-0,1,0,Football League Second Division,2,H
+1971-12-27,1971/1972,Norwich City,Charlton Athletic,3-0,3,0,Football League Second Division,2,H
+1971-12-27,1971/1972,Millwall,Fulham,4-1,4,1,Football League Second Division,2,H
+1971-12-27,1971/1972,Swindon Town,Portsmouth,3-1,3,1,Football League Second Division,2,H
+1971-12-27,1971/1972,Leyton Orient,Queens Park Rangers,2-0,2,0,Football League Second Division,2,H
+1971-12-27,1971/1972,Hull City,Sunderland,2-3,2,3,Football League Second Division,2,A
+1971-12-27,1971/1972,Burnley,Blackpool,2-1,2,1,Football League Second Division,2,H
+1971-12-27,1971/1972,Middlesbrough,Carlisle United,2-2,2,2,Football League Second Division,2,D
+1971-12-27,1971/1972,Walsall,Mansfield Town,2-1,2,1,Football League Third Division,3,H
+1971-12-27,1971/1972,Swansea City,Aston Villa,1-2,1,2,Football League Third Division,3,A
+1971-12-27,1971/1972,Shrewsbury Town,Tranmere Rovers,0-0,0,0,Football League Third Division,3,D
+1971-12-27,1971/1972,Chesterfield,York City,2-1,2,1,Football League Third Division,3,H
+1971-12-27,1971/1972,Rochdale,Bradford City,0-1,0,1,Football League Third Division,3,A
+1971-12-27,1971/1972,Plymouth Argyle,Torquay United,3-1,3,1,Football League Third Division,3,H
+1971-12-27,1971/1972,Halifax Town,Blackburn Rovers,0-1,0,1,Football League Third Division,3,A
+1971-12-27,1971/1972,Wrexham,Notts County,1-1,1,1,Football League Third Division,3,D
+1971-12-27,1971/1972,Rotherham United,Oldham Athletic,3-1,3,1,Football League Third Division,3,H
+1971-12-27,1971/1972,Bristol Rovers,Port Vale,2-1,2,1,Football League Third Division,3,H
+1971-12-27,1971/1972,Brighton & Hove Albion,AFC Bournemouth,2-0,2,0,Football League Third Division,3,H
+1971-12-27,1971/1972,Bolton Wanderers,Barnsley,0-0,0,0,Football League Third Division,3,D
+1972-01-01,1971/1972,Coventry City,Southampton,1-0,1,0,Football League First Division,1,H
+1972-01-01,1971/1972,Crystal Palace,Tottenham Hotspur,1-1,1,1,Football League First Division,1,D
+1972-01-01,1971/1972,Derby County,Chelsea,1-0,1,0,Football League First Division,1,H
+1972-01-01,1971/1972,Huddersfield Town,Stoke City,0-0,0,0,Football League First Division,1,D
+1972-01-01,1971/1972,Ipswich Town,West Bromwich Albion,2-3,2,3,Football League First Division,1,A
+1972-01-01,1971/1972,Liverpool,Leeds United,0-2,0,2,Football League First Division,1,A
+1972-01-01,1971/1972,Manchester City,Nottingham Forest,2-2,2,2,Football League First Division,1,D
+1972-01-01,1971/1972,Sheffield United,Leicester City,1-1,1,1,Football League First Division,1,D
+1972-01-01,1971/1972,West Ham United,Manchester United,3-0,3,0,Football League First Division,1,H
+1972-01-01,1971/1972,Arsenal,Everton,1-1,1,1,Football League First Division,1,D
+1972-01-01,1971/1972,Wolverhampton Wanderers,Newcastle United,2-0,2,0,Football League First Division,1,H
+1972-01-01,1971/1972,Aldershot,Newport County,3-0,3,0,Football League Fourth Division,4,H
+1972-01-01,1971/1972,Chester,Exeter City,1-2,1,2,Football League Fourth Division,4,A
+1972-01-01,1971/1972,Crewe Alexandra,Colchester United,2-4,2,4,Football League Fourth Division,4,A
+1972-01-01,1971/1972,Darlington,Cambridge United,2-1,2,1,Football League Fourth Division,4,H
+1972-01-01,1971/1972,Doncaster Rovers,Stockport County,2-2,2,2,Football League Fourth Division,4,D
+1972-01-01,1971/1972,Grimsby Town,Southend United,4-1,4,1,Football League Fourth Division,4,H
+1972-01-01,1971/1972,Hartlepool United,Gillingham,3-1,3,1,Football League Fourth Division,4,H
+1972-01-01,1971/1972,Lincoln City,Workington,1-0,1,0,Football League Fourth Division,4,H
+1972-01-01,1971/1972,Northampton Town,Scunthorpe United,0-2,0,2,Football League Fourth Division,4,A
+1972-01-01,1971/1972,Peterborough United,Brentford,2-2,2,2,Football League Fourth Division,4,D
+1972-01-01,1971/1972,Southport,Barrow,1-0,1,0,Football League Fourth Division,4,H
+1972-01-01,1971/1972,Bury,Reading,2-1,2,1,Football League Fourth Division,4,H
+1972-01-01,1971/1972,Oxford United,Norwich City,0-2,0,2,Football League Second Division,2,A
+1972-01-01,1971/1972,Sunderland,Sheffield Wednesday,2-0,2,0,Football League Second Division,2,H
+1972-01-01,1971/1972,Bristol City,Birmingham City,1-0,1,0,Football League Second Division,2,H
+1972-01-01,1971/1972,Cardiff City,Middlesbrough,1-0,1,0,Football League Second Division,2,H
+1972-01-01,1971/1972,Carlisle United,Leyton Orient,2-0,2,0,Football League Second Division,2,H
+1972-01-01,1971/1972,Charlton Athletic,Preston North End,2-1,2,1,Football League Second Division,2,H
+1972-01-01,1971/1972,Fulham,Swindon Town,2-4,2,4,Football League Second Division,2,A
+1972-01-01,1971/1972,Luton Town,Millwall,2-1,2,1,Football League Second Division,2,H
+1972-01-01,1971/1972,Portsmouth,Hull City,0-0,0,0,Football League Second Division,2,D
+1972-01-01,1971/1972,Queens Park Rangers,Burnley,3-1,3,1,Football League Second Division,2,H
+1972-01-01,1971/1972,Blackpool,Watford,5-0,5,0,Football League Second Division,2,H
+1972-01-01,1971/1972,York City,Bolton Wanderers,0-0,0,0,Football League Third Division,3,D
+1972-01-01,1971/1972,Blackburn Rovers,Walsall,1-1,1,1,Football League Third Division,3,D
+1972-01-01,1971/1972,Bradford City,Rotherham United,1-0,1,0,Football League Third Division,3,H
+1972-01-01,1971/1972,Mansfield Town,Chesterfield,2-1,2,1,Football League Third Division,3,H
+1972-01-01,1971/1972,Notts County,Brighton & Hove Albion,1-0,1,0,Football League Third Division,3,H
+1972-01-01,1971/1972,Oldham Athletic,Rochdale,3-2,3,2,Football League Third Division,3,H
+1972-01-01,1971/1972,Port Vale,Shrewsbury Town,2-1,2,1,Football League Third Division,3,H
+1972-01-01,1971/1972,Torquay United,Swansea City,1-4,1,4,Football League Third Division,3,A
+1972-01-01,1971/1972,Tranmere Rovers,Plymouth Argyle,3-2,3,2,Football League Third Division,3,H
+1972-01-01,1971/1972,Barnsley,Bristol Rovers,0-0,0,0,Football League Third Division,3,D
+1972-01-01,1971/1972,Aston Villa,Halifax Town,1-0,1,0,Football League Third Division,3,H
+1972-01-01,1971/1972,AFC Bournemouth,Wrexham,4-0,4,0,Football League Third Division,3,H
+1972-01-07,1971/1972,Stockport County,Peterborough United,0-0,0,0,Football League Fourth Division,4,D
+1972-01-07,1971/1972,Southend United,Hartlepool United,3-1,3,1,Football League Fourth Division,4,H
+1972-01-07,1971/1972,Shrewsbury Town,Barnsley,1-0,1,0,Football League Third Division,3,H
+1972-01-08,1971/1972,Chelsea,Huddersfield Town,2-2,2,2,Football League First Division,1,D
+1972-01-08,1971/1972,Everton,West Ham United,2-1,2,1,Football League First Division,1,H
+1972-01-08,1971/1972,Leeds United,Ipswich Town,2-2,2,2,Football League First Division,1,D
+1972-01-08,1971/1972,Leicester City,Liverpool,1-0,1,0,Football League First Division,1,H
+1972-01-08,1971/1972,Manchester United,Wolverhampton Wanderers,1-3,1,3,Football League First Division,1,A
+1972-01-08,1971/1972,Newcastle United,Coventry City,4-2,4,2,Football League First Division,1,H
+1972-01-08,1971/1972,Nottingham Forest,Crystal Palace,0-1,0,1,Football League First Division,1,A
+1972-01-08,1971/1972,Stoke City,Arsenal,0-0,0,0,Football League First Division,1,D
+1972-01-08,1971/1972,Tottenham Hotspur,Manchester City,1-1,1,1,Football League First Division,1,D
+1972-01-08,1971/1972,Southampton,Derby County,1-2,1,2,Football League First Division,1,A
+1972-01-08,1971/1972,West Bromwich Albion,Sheffield United,2-2,2,2,Football League First Division,1,D
+1972-01-08,1971/1972,Brentford,Darlington,6-2,6,2,Football League Fourth Division,4,H
+1972-01-08,1971/1972,Cambridge United,Southport,0-0,0,0,Football League Fourth Division,4,D
+1972-01-08,1971/1972,Colchester United,Bury,0-0,0,0,Football League Fourth Division,4,D
+1972-01-08,1971/1972,Exeter City,Northampton Town,1-3,1,3,Football League Fourth Division,4,A
+1972-01-08,1971/1972,Gillingham,Chester,1-0,1,0,Football League Fourth Division,4,H
+1972-01-08,1971/1972,Reading,Aldershot,2-0,2,0,Football League Fourth Division,4,H
+1972-01-08,1971/1972,Scunthorpe United,Crewe Alexandra,2-0,2,0,Football League Fourth Division,4,H
+1972-01-08,1971/1972,Workington,Grimsby Town,0-0,0,0,Football League Fourth Division,4,D
+1972-01-08,1971/1972,Barrow,Doncaster Rovers,1-2,1,2,Football League Fourth Division,4,A
+1972-01-08,1971/1972,Watford,Charlton Athletic,0-3,0,3,Football League Second Division,2,A
+1972-01-08,1971/1972,Sheffield Wednesday,Blackpool,1-2,1,2,Football League Second Division,2,A
+1972-01-08,1971/1972,Swindon Town,Carlisle United,0-0,0,0,Football League Second Division,2,D
+1972-01-08,1971/1972,Birmingham City,Portsmouth,6-3,6,3,Football League Second Division,2,H
+1972-01-08,1971/1972,Burnley,Oxford United,1-1,1,1,Football League Second Division,2,D
+1972-01-08,1971/1972,Hull City,Cardiff City,0-0,0,0,Football League Second Division,2,D
+1972-01-08,1971/1972,Leyton Orient,Sunderland,5-0,5,0,Football League Second Division,2,H
+1972-01-08,1971/1972,Middlesbrough,Bristol City,1-0,1,0,Football League Second Division,2,H
+1972-01-08,1971/1972,Millwall,Queens Park Rangers,0-0,0,0,Football League Second Division,2,D
+1972-01-08,1971/1972,Norwich City,Fulham,2-1,2,1,Football League Second Division,2,H
+1972-01-08,1971/1972,Preston North End,Luton Town,0-1,0,1,Football League Second Division,2,A
+1972-01-08,1971/1972,Bolton Wanderers,Notts County,1-2,1,2,Football League Third Division,3,A
+1972-01-08,1971/1972,Brighton & Hove Albion,Mansfield Town,1-0,1,0,Football League Third Division,3,H
+1972-01-08,1971/1972,Bristol Rovers,Torquay United,2-0,2,0,Football League Third Division,3,H
+1972-01-08,1971/1972,Chesterfield,Port Vale,2-1,2,1,Football League Third Division,3,H
+1972-01-08,1971/1972,Halifax Town,Bradford City,2-1,2,1,Football League Third Division,3,H
+1972-01-08,1971/1972,Rochdale,Aston Villa,1-0,1,0,Football League Third Division,3,H
+1972-01-08,1971/1972,Rotherham United,AFC Bournemouth,0-0,0,0,Football League Third Division,3,D
+1972-01-08,1971/1972,Swansea City,Tranmere Rovers,1-1,1,1,Football League Third Division,3,D
+1972-01-08,1971/1972,Walsall,Oldham Athletic,2-3,2,3,Football League Third Division,3,A
+1972-01-08,1971/1972,Wrexham,Blackburn Rovers,1-1,1,1,Football League Third Division,3,D
+1972-01-08,1971/1972,Plymouth Argyle,York City,4-0,4,0,Football League Third Division,3,H
+1972-01-15,1971/1972,Southport,Scunthorpe United,1-1,1,1,Football League Fourth Division,4,D
+1972-01-15,1971/1972,Northampton Town,Workington,1-2,1,2,Football League Fourth Division,4,A
+1972-01-15,1971/1972,Lincoln City,Brentford,4-1,4,1,Football League Fourth Division,4,H
+1972-01-15,1971/1972,Hartlepool United,Cambridge United,1-2,1,2,Football League Fourth Division,4,A
+1972-01-15,1971/1972,Grimsby Town,Newport County,4-2,4,2,Football League Fourth Division,4,H
+1972-01-15,1971/1972,Darlington,Exeter City,2-1,2,1,Football League Fourth Division,4,H
+1972-01-15,1971/1972,Doncaster Rovers,Colchester United,2-0,2,0,Football League Fourth Division,4,H
+1972-01-15,1971/1972,Chester,Stockport County,0-0,0,0,Football League Fourth Division,4,D
+1972-01-15,1971/1972,Aldershot,Barrow,1-1,1,1,Football League Fourth Division,4,D
+1972-01-15,1971/1972,Crewe Alexandra,Southend United,1-2,1,2,Football League Fourth Division,4,A
+1972-01-15,1971/1972,Oldham Athletic,Brighton & Hove Albion,2-4,2,4,Football League Third Division,3,A
+1972-01-15,1971/1972,Bradford City,Mansfield Town,2-2,2,2,Football League Third Division,3,D
+1972-01-15,1971/1972,Blackburn Rovers,York City,3-0,3,0,Football League Third Division,3,H
+1972-01-15,1971/1972,Barnsley,Plymouth Argyle,2-2,2,2,Football League Third Division,3,D
+1972-01-19,1971/1972,Aston Villa,Shrewsbury Town,3-0,3,0,Football League Third Division,3,H
+1972-01-21,1971/1972,Stockport County,Brentford,0-1,0,1,Football League Fourth Division,4,A
+1972-01-21,1971/1972,Doncaster Rovers,Crewe Alexandra,0-0,0,0,Football League Fourth Division,4,D
+1972-01-21,1971/1972,Colchester United,Scunthorpe United,1-1,1,1,Football League Fourth Division,4,D
+1972-01-21,1971/1972,York City,Bradford City,3-1,3,1,Football League Third Division,3,H
+1972-01-22,1971/1972,Leeds United,Sheffield United,1-0,1,0,Football League First Division,1,H
+1972-01-22,1971/1972,Arsenal,Huddersfield Town,1-0,1,0,Football League First Division,1,H
+1972-01-22,1971/1972,Coventry City,Ipswich Town,1-1,1,1,Football League First Division,1,D
+1972-01-22,1971/1972,Crystal Palace,Manchester City,1-2,1,2,Football League First Division,1,A
+1972-01-22,1971/1972,Everton,West Bromwich Albion,2-1,2,1,Football League First Division,1,H
+1972-01-22,1971/1972,Manchester United,Chelsea,0-1,0,1,Football League First Division,1,A
+1972-01-22,1971/1972,Newcastle United,Tottenham Hotspur,3-1,3,1,Football League First Division,1,H
+1972-01-22,1971/1972,Nottingham Forest,Leicester City,1-2,1,2,Football League First Division,1,A
+1972-01-22,1971/1972,Stoke City,Southampton,3-1,3,1,Football League First Division,1,H
+1972-01-22,1971/1972,West Ham United,Derby County,3-3,3,3,Football League First Division,1,D
+1972-01-22,1971/1972,Wolverhampton Wanderers,Liverpool,0-0,0,0,Football League First Division,1,D
+1972-01-22,1971/1972,Peterborough United,Hartlepool United,2-2,2,2,Football League Fourth Division,4,D
+1972-01-22,1971/1972,Exeter City,Cambridge United,3-4,3,4,Football League Fourth Division,4,A
+1972-01-22,1971/1972,Grimsby Town,Lincoln City,2-2,2,2,Football League Fourth Division,4,D
+1972-01-22,1971/1972,Newport County,Southend United,2-0,2,0,Football League Fourth Division,4,H
+1972-01-22,1971/1972,Northampton Town,Chester,4-2,4,2,Football League Fourth Division,4,H
+1972-01-22,1971/1972,Reading,Barrow,1-0,1,0,Football League Fourth Division,4,H
+1972-01-22,1971/1972,Southport,Aldershot,0-0,0,0,Football League Fourth Division,4,D
+1972-01-22,1971/1972,Workington,Gillingham,1-1,1,1,Football League Fourth Division,4,D
+1972-01-22,1971/1972,Bury,Darlington,3-2,3,2,Football League Fourth Division,4,H
+1972-01-22,1971/1972,Watford,Birmingham City,0-1,0,1,Football League Second Division,2,A
+1972-01-22,1971/1972,Swindon Town,Hull City,2-1,2,1,Football League Second Division,2,H
+1972-01-22,1971/1972,Blackpool,Bristol City,1-0,1,0,Football League Second Division,2,H
+1972-01-22,1971/1972,Charlton Athletic,Carlisle United,1-1,1,1,Football League Second Division,2,D
+1972-01-22,1971/1972,Fulham,Luton Town,3-1,3,1,Football League Second Division,2,H
+1972-01-22,1971/1972,Leyton Orient,Burnley,1-0,1,0,Football League Second Division,2,H
+1972-01-22,1971/1972,Middlesbrough,Sunderland,2-0,2,0,Football League Second Division,2,H
+1972-01-22,1971/1972,Norwich City,Preston North End,1-1,1,1,Football League Second Division,2,D
+1972-01-22,1971/1972,Portsmouth,Cardiff City,2-0,2,0,Football League Second Division,2,H
+1972-01-22,1971/1972,Queens Park Rangers,Oxford United,4-2,4,2,Football League Second Division,2,H
+1972-01-22,1971/1972,Sheffield Wednesday,Millwall,1-1,1,1,Football League Second Division,2,D
+1972-01-22,1971/1972,Swansea City,Rotherham United,0-2,0,2,Football League Third Division,3,A
+1972-01-22,1971/1972,Bristol Rovers,Brighton & Hove Albion,2-2,2,2,Football League Third Division,3,D
+1972-01-22,1971/1972,Chesterfield,Walsall,1-1,1,1,Football League Third Division,3,D
+1972-01-22,1971/1972,Halifax Town,Bolton Wanderers,0-1,0,1,Football League Third Division,3,A
+1972-01-22,1971/1972,Blackburn Rovers,Port Vale,3-1,3,1,Football League Third Division,3,H
+1972-01-22,1971/1972,Mansfield Town,Tranmere Rovers,1-1,1,1,Football League Third Division,3,D
+1972-01-22,1971/1972,Oldham Athletic,Torquay United,1-0,1,0,Football League Third Division,3,H
+1972-01-22,1971/1972,Plymouth Argyle,Rochdale,4-1,4,1,Football League Third Division,3,H
+1972-01-22,1971/1972,Wrexham,Shrewsbury Town,2-1,2,1,Football League Third Division,3,H
+1972-01-22,1971/1972,Aston Villa,Barnsley,2-0,2,0,Football League Third Division,3,H
+1972-01-22,1971/1972,AFC Bournemouth,Notts County,2-0,2,0,Football League Third Division,3,H
+1972-01-24,1971/1972,York City,Swansea City,1-1,1,1,Football League Third Division,3,D
+1972-01-28,1971/1972,Southend United,Colchester United,1-4,1,4,Football League Fourth Division,4,A
+1972-01-28,1971/1972,Barrow,Stockport County,3-2,3,2,Football League Fourth Division,4,H
+1972-01-28,1971/1972,Shrewsbury Town,Chesterfield,3-4,3,4,Football League Third Division,3,A
+1972-01-28,1971/1972,Tranmere Rovers,Aston Villa,0-1,0,1,Football League Third Division,3,A
+1972-01-29,1971/1972,Chelsea,Everton,4-0,4,0,Football League First Division,1,H
+1972-01-29,1971/1972,Derby County,Coventry City,1-0,1,0,Football League First Division,1,H
+1972-01-29,1971/1972,Huddersfield Town,Newcastle United,0-0,0,0,Football League First Division,1,D
+1972-01-29,1971/1972,Ipswich Town,West Ham United,1-0,1,0,Football League First Division,1,H
+1972-01-29,1971/1972,Leicester City,Stoke City,2-1,2,1,Football League First Division,1,H
+1972-01-29,1971/1972,Manchester City,Wolverhampton Wanderers,5-2,5,2,Football League First Division,1,H
+1972-01-29,1971/1972,Sheffield United,Arsenal,0-5,0,5,Football League First Division,1,A
+1972-01-29,1971/1972,Southampton,Nottingham Forest,4-1,4,1,Football League First Division,1,H
+1972-01-29,1971/1972,Liverpool,Crystal Palace,4-1,4,1,Football League First Division,1,H
+1972-01-29,1971/1972,West Bromwich Albion,Manchester United,2-1,2,1,Football League First Division,1,H
+1972-01-29,1971/1972,Tottenham Hotspur,Leeds United,1-0,1,0,Football League First Division,1,H
+1972-01-29,1971/1972,Brentford,Reading,1-2,1,2,Football League Fourth Division,4,A
+1972-01-29,1971/1972,Chester,Southport,1-1,1,1,Football League Fourth Division,4,D
+1972-01-29,1971/1972,Crewe Alexandra,Grimsby Town,0-1,0,1,Football League Fourth Division,4,A
+1972-01-29,1971/1972,Darlington,Peterborough United,1-1,1,1,Football League Fourth Division,4,D
+1972-01-29,1971/1972,Gillingham,Exeter City,0-2,0,2,Football League Fourth Division,4,A
+1972-01-29,1971/1972,Hartlepool United,Bury,3-1,3,1,Football League Fourth Division,4,H
+1972-01-29,1971/1972,Lincoln City,Doncaster Rovers,2-0,2,0,Football League Fourth Division,4,H
+1972-01-29,1971/1972,Scunthorpe United,Newport County,1-0,1,0,Football League Fourth Division,4,H
+1972-01-29,1971/1972,Aldershot,Northampton Town,0-2,0,2,Football League Fourth Division,4,A
+1972-01-29,1971/1972,Sunderland,Charlton Athletic,3-0,3,0,Football League Second Division,2,H
+1972-01-29,1971/1972,Preston North End,Leyton Orient,1-1,1,1,Football League Second Division,2,D
+1972-01-29,1971/1972,Millwall,Middlesbrough,1-0,1,0,Football League Second Division,2,H
+1972-01-29,1971/1972,Oxford United,Fulham,1-0,1,0,Football League Second Division,2,H
+1972-01-29,1971/1972,Birmingham City,Swindon Town,4-1,4,1,Football League Second Division,2,H
+1972-01-29,1971/1972,Bristol City,Portsmouth,1-1,1,1,Football League Second Division,2,D
+1972-01-29,1971/1972,Burnley,Norwich City,1-0,1,0,Football League Second Division,2,H
+1972-01-29,1971/1972,Cardiff City,Blackpool,3-4,3,4,Football League Second Division,2,A
+1972-01-29,1971/1972,Carlisle United,Sheffield Wednesday,2-2,2,2,Football League Second Division,2,D
+1972-01-29,1971/1972,Hull City,Watford,4-0,4,0,Football League Second Division,2,H
+1972-01-29,1971/1972,Luton Town,Queens Park Rangers,1-1,1,1,Football League Second Division,2,D
+1972-01-29,1971/1972,Bolton Wanderers,Plymouth Argyle,2-1,2,1,Football League Third Division,3,H
+1972-01-29,1971/1972,Bradford City,Oldham Athletic,2-2,2,2,Football League Third Division,3,D
+1972-01-29,1971/1972,Brighton & Hove Albion,Swansea City,1-0,1,0,Football League Third Division,3,H
+1972-01-29,1971/1972,Notts County,Blackburn Rovers,1-0,1,0,Football League Third Division,3,H
+1972-01-29,1971/1972,Port Vale,AFC Bournemouth,1-1,1,1,Football League Third Division,3,D
+1972-01-29,1971/1972,Torquay United,York City,0-1,0,1,Football League Third Division,3,A
+1972-01-29,1971/1972,Rotherham United,Bristol Rovers,0-0,0,0,Football League Third Division,3,D
+1972-01-29,1971/1972,Walsall,Wrexham,2-1,2,1,Football League Third Division,3,H
+1972-01-29,1971/1972,Rochdale,Halifax Town,3-2,3,2,Football League Third Division,3,H
+1972-01-29,1971/1972,Barnsley,Mansfield Town,1-1,1,1,Football League Third Division,3,D
+1972-02-05,1971/1972,Exeter City,Newport County,1-0,1,0,Football League Fourth Division,4,H
+1972-02-05,1971/1972,Gillingham,Barrow,1-1,1,1,Football League Fourth Division,4,D
+1972-02-05,1971/1972,Grimsby Town,Chester,1-0,1,0,Football League Fourth Division,4,H
+1972-02-05,1971/1972,Workington,Colchester United,1-0,1,0,Football League Fourth Division,4,H
+1972-02-05,1971/1972,Stockport County,Scunthorpe United,0-0,0,0,Football League Fourth Division,4,D
+1972-02-05,1971/1972,Northampton Town,Peterborough United,1-1,1,1,Football League Fourth Division,4,D
+1972-02-05,1971/1972,Southport,Bury,0-1,0,1,Football League Fourth Division,4,A
+1972-02-05,1971/1972,Doncaster Rovers,Aldershot,2-1,2,1,Football League Fourth Division,4,H
+1972-02-05,1971/1972,Lincoln City,Hartlepool United,2-1,2,1,Football League Fourth Division,4,H
+1972-02-05,1971/1972,Crewe Alexandra,Darlington,1-1,1,1,Football League Fourth Division,4,D
+1972-02-05,1971/1972,Cambridge United,Brentford,1-1,1,1,Football League Fourth Division,4,D
+1972-02-05,1971/1972,Luton Town,Oxford United,1-2,1,2,Football League Second Division,2,A
+1972-02-05,1971/1972,Halifax Town,Bristol Rovers,2-1,2,1,Football League Third Division,3,H
+1972-02-05,1971/1972,Wrexham,Brighton & Hove Albion,1-2,1,2,Football League Third Division,3,A
+1972-02-05,1971/1972,Rochdale,Shrewsbury Town,0-0,0,0,Football League Third Division,3,D
+1972-02-05,1971/1972,Port Vale,Bradford City,1-0,1,0,Football League Third Division,3,H
+1972-02-05,1971/1972,Mansfield Town,Oldham Athletic,2-1,2,1,Football League Third Division,3,H
+1972-02-05,1971/1972,Blackburn Rovers,Barnsley,4-0,4,0,Football League Third Division,3,H
+1972-02-05,1971/1972,Aston Villa,York City,1-0,1,0,Football League Third Division,3,H
+1972-02-05,1971/1972,AFC Bournemouth,Plymouth Argyle,1-0,1,0,Football League Third Division,3,H
+1972-02-12,1971/1972,Huddersfield Town,Liverpool,0-1,0,1,Football League First Division,1,A
+1972-02-12,1971/1972,Arsenal,Derby County,2-0,2,0,Football League First Division,1,H
+1972-02-12,1971/1972,Crystal Palace,Coventry City,2-2,2,2,Football League First Division,1,D
+1972-02-12,1971/1972,Everton,Leeds United,0-0,0,0,Football League First Division,1,D
+1972-02-12,1971/1972,Leicester City,West Bromwich Albion,0-1,0,1,Football League First Division,1,A
+1972-02-12,1971/1972,Manchester United,Newcastle United,0-2,0,2,Football League First Division,1,A
+1972-02-12,1971/1972,Sheffield United,Manchester City,3-3,3,3,Football League First Division,1,D
+1972-02-12,1971/1972,Stoke City,Ipswich Town,3-3,3,3,Football League First Division,1,D
+1972-02-12,1971/1972,Wolverhampton Wanderers,West Ham United,1-0,1,0,Football League First Division,1,H
+1972-02-12,1971/1972,Nottingham Forest,Tottenham Hotspur,0-1,0,1,Football League First Division,1,A
+1972-02-12,1971/1972,Bury,Crewe Alexandra,2-0,2,0,Football League Fourth Division,4,H
+1972-02-12,1971/1972,Colchester United,Cambridge United,1-1,1,1,Football League Fourth Division,4,D
+1972-02-12,1971/1972,Hartlepool United,Chester,2-1,2,1,Football League Fourth Division,4,H
+1972-02-12,1971/1972,Newport County,Gillingham,1-2,1,2,Football League Fourth Division,4,A
+1972-02-12,1971/1972,Northampton Town,Doncaster Rovers,1-1,1,1,Football League Fourth Division,4,D
+1972-02-12,1971/1972,Peterborough United,Lincoln City,4-4,4,4,Football League Fourth Division,4,D
+1972-02-12,1971/1972,Reading,Workington,0-0,0,0,Football League Fourth Division,4,D
+1972-02-12,1971/1972,Scunthorpe United,Barrow,2-1,2,1,Football League Fourth Division,4,H
+1972-02-12,1971/1972,Southend United,Brentford,3-1,3,1,Football League Fourth Division,4,H
+1972-02-12,1971/1972,Southport,Grimsby Town,1-0,1,0,Football League Fourth Division,4,H
+1972-02-12,1971/1972,Stockport County,Exeter City,0-4,0,4,Football League Fourth Division,4,A
+1972-02-12,1971/1972,Darlington,Aldershot,4-2,4,2,Football League Fourth Division,4,H
+1972-02-12,1971/1972,Burnley,Hull City,0-2,0,2,Football League Second Division,2,A
+1972-02-12,1971/1972,Charlton Athletic,Cardiff City,2-2,2,2,Football League Second Division,2,D
+1972-02-12,1971/1972,Carlisle United,Luton Town,0-0,0,0,Football League Second Division,2,D
+1972-02-12,1971/1972,Swindon Town,Sheffield Wednesday,1-0,1,0,Football League Second Division,2,H
+1972-02-12,1971/1972,Sunderland,Oxford United,3-0,3,0,Football League Second Division,2,H
+1972-02-12,1971/1972,Queens Park Rangers,Blackpool,0-1,0,1,Football League Second Division,2,A
+1972-02-12,1971/1972,Watford,Middlesbrough,0-1,0,1,Football League Second Division,2,A
+1972-02-12,1971/1972,Norwich City,Millwall,2-2,2,2,Football League Second Division,2,D
+1972-02-12,1971/1972,Leyton Orient,Bristol City,2-0,2,0,Football League Second Division,2,H
+1972-02-12,1971/1972,Fulham,Portsmouth,1-1,1,1,Football League Second Division,2,D
+1972-02-12,1971/1972,Preston North End,Birmingham City,0-0,0,0,Football League Second Division,2,D
+1972-02-12,1971/1972,York City,Port Vale,2-1,2,1,Football League Third Division,3,H
+1972-02-12,1971/1972,Wrexham,Plymouth Argyle,0-2,0,2,Football League Third Division,3,A
+1972-02-12,1971/1972,Torquay United,Tranmere Rovers,0-1,0,1,Football League Third Division,3,A
+1972-02-12,1971/1972,Swansea City,Bolton Wanderers,3-2,3,2,Football League Third Division,3,H
+1972-02-12,1971/1972,Chesterfield,Halifax Town,2-1,2,1,Football League Third Division,3,H
+1972-02-12,1971/1972,Oldham Athletic,Notts County,0-1,0,1,Football League Third Division,3,A
+1972-02-12,1971/1972,Mansfield Town,Blackburn Rovers,1-0,1,0,Football League Third Division,3,H
+1972-02-12,1971/1972,Rotherham United,Shrewsbury Town,2-1,2,1,Football League Third Division,3,H
+1972-02-12,1971/1972,Bristol Rovers,Rochdale,5-2,5,2,Football League Third Division,3,H
+1972-02-12,1971/1972,Brighton & Hove Albion,Walsall,1-2,1,2,Football League Third Division,3,A
+1972-02-12,1971/1972,Aston Villa,AFC Bournemouth,2-1,2,1,Football League Third Division,3,H
+1972-02-12,1971/1972,Bradford City,Barnsley,0-2,0,2,Football League Third Division,3,A
+1972-02-19,1971/1972,Chelsea,Leicester City,2-1,2,1,Football League First Division,1,H
+1972-02-19,1971/1972,Coventry City,Wolverhampton Wanderers,0-0,0,0,Football League First Division,1,D
+1972-02-19,1971/1972,Ipswich Town,Arsenal,0-1,0,1,Football League First Division,1,A
+1972-02-19,1971/1972,Leeds United,Manchester United,5-1,5,1,Football League First Division,1,H
+1972-02-19,1971/1972,Liverpool,Sheffield United,2-0,2,0,Football League First Division,1,H
+1972-02-19,1971/1972,Manchester City,Huddersfield Town,1-0,1,0,Football League First Division,1,H
+1972-02-19,1971/1972,Newcastle United,Everton,0-0,0,0,Football League First Division,1,D
+1972-02-19,1971/1972,Tottenham Hotspur,Stoke City,2-0,2,0,Football League First Division,1,H
+1972-02-19,1971/1972,West Bromwich Albion,Southampton,3-2,3,2,Football League First Division,1,H
+1972-02-19,1971/1972,Derby County,Nottingham Forest,4-0,4,0,Football League First Division,1,H
+1972-02-19,1971/1972,West Ham United,Crystal Palace,1-1,1,1,Football League First Division,1,D
+1972-02-19,1971/1972,Aldershot,Hartlepool United,2-0,2,0,Football League Fourth Division,4,H
+1972-02-19,1971/1972,Workington,Stockport County,1-1,1,1,Football League Fourth Division,4,D
+1972-02-19,1971/1972,Brentford,Scunthorpe United,0-3,0,3,Football League Fourth Division,4,A
+1972-02-19,1971/1972,Cambridge United,Newport County,0-1,0,1,Football League Fourth Division,4,A
+1972-02-19,1971/1972,Chester,Darlington,2-1,2,1,Football League Fourth Division,4,H
+1972-02-19,1971/1972,Crewe Alexandra,Peterborough United,2-0,2,0,Football League Fourth Division,4,H
+1972-02-19,1971/1972,Doncaster Rovers,Southport,2-1,2,1,Football League Fourth Division,4,H
+1972-02-19,1971/1972,Exeter City,Reading,0-0,0,0,Football League Fourth Division,4,D
+1972-02-19,1971/1972,Gillingham,Colchester United,0-2,0,2,Football League Fourth Division,4,A
+1972-02-19,1971/1972,Grimsby Town,Northampton Town,4-2,4,2,Football League Fourth Division,4,H
+1972-02-19,1971/1972,Lincoln City,Bury,2-0,2,0,Football League Fourth Division,4,H
+1972-02-19,1971/1972,Barrow,Southend United,2-1,2,1,Football League Fourth Division,4,H
+1972-02-19,1971/1972,Portsmouth,Queens Park Rangers,1-0,1,0,Football League Second Division,2,H
+1972-02-19,1971/1972,Sheffield Wednesday,Watford,2-1,2,1,Football League Second Division,2,H
+1972-02-19,1971/1972,Birmingham City,Burnley,2-0,2,0,Football League Second Division,2,H
+1972-02-19,1971/1972,Millwall,Leyton Orient,2-1,2,1,Football League Second Division,2,H
+1972-02-19,1971/1972,Middlesbrough,Swindon Town,2-0,2,0,Football League Second Division,2,H
+1972-02-19,1971/1972,Luton Town,Sunderland,1-2,1,2,Football League Second Division,2,A
+1972-02-19,1971/1972,Oxford United,Carlisle United,3-1,3,1,Football League Second Division,2,H
+1972-02-19,1971/1972,Cardiff City,Norwich City,0-0,0,0,Football League Second Division,2,D
+1972-02-19,1971/1972,Bristol City,Charlton Athletic,2-0,2,0,Football League Second Division,2,H
+1972-02-19,1971/1972,Blackpool,Fulham,2-1,2,1,Football League Second Division,2,H
+1972-02-19,1971/1972,Hull City,Preston North End,3-2,3,2,Football League Second Division,2,H
+1972-02-19,1971/1972,Walsall,Rotherham United,0-0,0,0,Football League Third Division,3,D
+1972-02-19,1971/1972,Bolton Wanderers,Bristol Rovers,0-0,0,0,Football League Third Division,3,D
+1972-02-19,1971/1972,Halifax Town,Wrexham,4-1,4,1,Football League Third Division,3,H
+1972-02-19,1971/1972,Notts County,York City,2-2,2,2,Football League Third Division,3,D
+1972-02-19,1971/1972,Plymouth Argyle,Chesterfield,1-0,1,0,Football League Third Division,3,H
+1972-02-19,1971/1972,Port Vale,Oldham Athletic,1-0,1,0,Football League Third Division,3,H
+1972-02-19,1971/1972,Rochdale,Swansea City,1-1,1,1,Football League Third Division,3,D
+1972-02-19,1971/1972,Shrewsbury Town,Brighton & Hove Albion,3-5,3,5,Football League Third Division,3,A
+1972-02-19,1971/1972,Tranmere Rovers,Bradford City,4-1,4,1,Football League Third Division,3,H
+1972-02-19,1971/1972,Blackburn Rovers,Aston Villa,1-1,1,1,Football League Third Division,3,D
+1972-02-19,1971/1972,Barnsley,Torquay United,0-0,0,0,Football League Third Division,3,D
+1972-02-19,1971/1972,AFC Bournemouth,Mansfield Town,1-1,1,1,Football League Third Division,3,D
+1972-02-23,1971/1972,AFC Bournemouth,Walsall,0-0,0,0,Football League Third Division,3,D
+1972-02-26,1971/1972,Southampton,Newcastle United,1-2,1,2,Football League First Division,1,A
+1972-02-26,1971/1972,Wolverhampton Wanderers,Ipswich Town,2-2,2,2,Football League First Division,1,D
+1972-02-26,1971/1972,Liverpool,Manchester City,3-0,3,0,Football League First Division,1,H
+1972-02-26,1971/1972,Darlington,Doncaster Rovers,4-1,4,1,Football League Fourth Division,4,H
+1972-02-26,1971/1972,Stockport County,Gillingham,2-1,2,1,Football League Fourth Division,4,H
+1972-02-26,1971/1972,Bury,Chester,3-1,3,1,Football League Fourth Division,4,H
+1972-02-26,1971/1972,Colchester United,Barrow,0-1,0,1,Football League Fourth Division,4,A
+1972-02-26,1971/1972,Hartlepool United,Grimsby Town,0-1,0,1,Football League Fourth Division,4,A
+1972-02-26,1971/1972,Scunthorpe United,Exeter City,3-0,3,0,Football League Fourth Division,4,H
+1972-02-26,1971/1972,Northampton Town,Lincoln City,2-3,2,3,Football League Fourth Division,4,A
+1972-02-26,1971/1972,Peterborough United,Aldershot,0-0,0,0,Football League Fourth Division,4,D
+1972-02-26,1971/1972,Reading,Cambridge United,1-0,1,0,Football League Fourth Division,4,H
+1972-02-26,1971/1972,Southend United,Workington,2-0,2,0,Football League Fourth Division,4,H
+1972-02-26,1971/1972,Southport,Crewe Alexandra,4-2,4,2,Football League Fourth Division,4,H
+1972-02-26,1971/1972,Newport County,Brentford,0-0,0,0,Football League Fourth Division,4,D
+1972-02-26,1971/1972,Burnley,Sheffield Wednesday,5-3,5,3,Football League Second Division,2,H
+1972-02-26,1971/1972,Carlisle United,Blackpool,2-0,2,0,Football League Second Division,2,H
+1972-02-26,1971/1972,Charlton Athletic,Luton Town,2-0,2,0,Football League Second Division,2,H
+1972-02-26,1971/1972,Fulham,Bristol City,2-0,2,0,Football League Second Division,2,H
+1972-02-26,1971/1972,Watford,Millwall,0-1,0,1,Football League Second Division,2,A
+1972-02-26,1971/1972,Swindon Town,Oxford United,4-0,4,0,Football League Second Division,2,H
+1972-02-26,1971/1972,Torquay United,AFC Bournemouth,0-2,0,2,Football League Third Division,3,A
+1972-02-26,1971/1972,Wrexham,Bolton Wanderers,1-2,1,2,Football League Third Division,3,A
+1972-02-26,1971/1972,Swansea City,Shrewsbury Town,1-0,1,0,Football League Third Division,3,H
+1972-02-26,1971/1972,Rotherham United,Halifax Town,3-2,3,2,Football League Third Division,3,H
+1972-02-26,1971/1972,York City,Tranmere Rovers,5-0,5,0,Football League Third Division,3,H
+1972-02-26,1971/1972,Mansfield Town,Notts County,1-1,1,1,Football League Third Division,3,D
+1972-02-26,1971/1972,Oldham Athletic,Barnsley,6-0,6,0,Football League Third Division,3,H
+1972-02-26,1971/1972,Aston Villa,Port Vale,2-0,2,0,Football League Third Division,3,H
+1972-02-26,1971/1972,Bradford City,Blackburn Rovers,1-2,1,2,Football League Third Division,3,A
+1972-02-26,1971/1972,Brighton & Hove Albion,Plymouth Argyle,3-0,3,0,Football League Third Division,3,H
+1972-02-26,1971/1972,Bristol Rovers,Walsall,2-1,2,1,Football League Third Division,3,H
+1972-02-26,1971/1972,Chesterfield,Rochdale,2-0,2,0,Football League Third Division,3,H
+1972-02-29,1971/1972,Sheffield United,West Ham United,3-0,3,0,Football League First Division,1,H
+1972-03-01,1971/1972,Manchester City,West Bromwich Albion,2-1,2,1,Football League First Division,1,H
+1972-03-01,1971/1972,Everton,Tottenham Hotspur,1-1,1,1,Football League First Division,1,D
+1972-03-01,1971/1972,Sunderland,Portsmouth,3-2,3,2,Football League Second Division,2,H
+1972-03-04,1971/1972,Derby County,Wolverhampton Wanderers,2-1,2,1,Football League First Division,1,H
+1972-03-04,1971/1972,Ipswich Town,Crystal Palace,0-2,0,2,Football League First Division,1,A
+1972-03-04,1971/1972,Leeds United,Southampton,7-0,7,0,Football League First Division,1,H
+1972-03-04,1971/1972,Liverpool,Everton,4-0,4,0,Football League First Division,1,H
+1972-03-04,1971/1972,Manchester City,Arsenal,2-0,2,0,Football League First Division,1,H
+1972-03-04,1971/1972,Newcastle United,Leicester City,2-0,2,0,Football League First Division,1,H
+1972-03-04,1971/1972,Tottenham Hotspur,Manchester United,2-0,2,0,Football League First Division,1,H
+1972-03-04,1971/1972,West Bromwich Albion,Nottingham Forest,1-0,1,0,Football League First Division,1,H
+1972-03-04,1971/1972,West Ham United,Huddersfield Town,3-0,3,0,Football League First Division,1,H
+1972-03-04,1971/1972,Aldershot,Bury,2-2,2,2,Football League Fourth Division,4,D
+1972-03-04,1971/1972,Barrow,Newport County,1-0,1,0,Football League Fourth Division,4,H
+1972-03-04,1971/1972,Lincoln City,Southport,2-1,2,1,Football League Fourth Division,4,H
+1972-03-04,1971/1972,Cambridge United,Stockport County,2-0,2,0,Football League Fourth Division,4,H
+1972-03-04,1971/1972,Chester,Peterborough United,1-1,1,1,Football League Fourth Division,4,D
+1972-03-04,1971/1972,Crewe Alexandra,Northampton Town,0-1,0,1,Football League Fourth Division,4,A
+1972-03-04,1971/1972,Doncaster Rovers,Hartlepool United,2-1,2,1,Football League Fourth Division,4,H
+1972-03-04,1971/1972,Exeter City,Southend United,0-0,0,0,Football League Fourth Division,4,D
+1972-03-04,1971/1972,Gillingham,Reading,4-2,4,2,Football League Fourth Division,4,H
+1972-03-04,1971/1972,Grimsby Town,Darlington,2-0,2,0,Football League Fourth Division,4,H
+1972-03-04,1971/1972,Workington,Scunthorpe United,2-1,2,1,Football League Fourth Division,4,H
+1972-03-04,1971/1972,Brentford,Colchester United,0-2,0,2,Football League Fourth Division,4,A
+1972-03-04,1971/1972,Birmingham City,Norwich City,4-0,4,0,Football League Second Division,2,H
+1972-03-04,1971/1972,Bristol City,Queens Park Rangers,2-0,2,0,Football League Second Division,2,H
+1972-03-04,1971/1972,Cardiff City,Fulham,1-0,1,0,Football League Second Division,2,H
+1972-03-04,1971/1972,Hull City,Leyton Orient,1-1,1,1,Football League Second Division,2,D
+1972-03-04,1971/1972,Luton Town,Watford,0-0,0,0,Football League Second Division,2,D
+1972-03-04,1971/1972,Middlesbrough,Burnley,1-0,1,0,Football League Second Division,2,H
+1972-03-04,1971/1972,Millwall,Swindon Town,2-2,2,2,Football League Second Division,2,D
+1972-03-04,1971/1972,Oxford United,Charlton Athletic,2-1,2,1,Football League Second Division,2,H
+1972-03-04,1971/1972,Portsmouth,Carlisle United,1-0,1,0,Football League Second Division,2,H
+1972-03-04,1971/1972,Sheffield Wednesday,Preston North End,1-0,1,0,Football League Second Division,2,H
+1972-03-04,1971/1972,Blackpool,Sunderland,1-1,1,1,Football League Second Division,2,D
+1972-03-04,1971/1972,Halifax Town,Brighton & Hove Albion,0-5,0,5,Football League Third Division,3,A
+1972-03-04,1971/1972,Notts County,Aston Villa,0-3,0,3,Football League Third Division,3,A
+1972-03-04,1971/1972,Port Vale,Mansfield Town,1-0,1,0,Football League Third Division,3,H
+1972-03-04,1971/1972,Rochdale,Wrexham,1-0,1,0,Football League Third Division,3,H
+1972-03-04,1971/1972,Shrewsbury Town,Bristol Rovers,2-2,2,2,Football League Third Division,3,D
+1972-03-04,1971/1972,Tranmere Rovers,Oldham Athletic,2-2,2,2,Football League Third Division,3,D
+1972-03-04,1971/1972,Walsall,Swansea City,4-0,4,0,Football League Third Division,3,H
+1972-03-04,1971/1972,Bolton Wanderers,Chesterfield,1-0,1,0,Football League Third Division,3,H
+1972-03-04,1971/1972,Blackburn Rovers,Torquay United,1-0,1,0,Football League Third Division,3,H
+1972-03-04,1971/1972,Plymouth Argyle,Rotherham United,2-1,2,1,Football League Third Division,3,H
+1972-03-04,1971/1972,AFC Bournemouth,Bradford City,3-0,3,0,Football League Third Division,3,H
+1972-03-04,1971/1972,Barnsley,York City,2-1,2,1,Football League Third Division,3,H
+1972-03-08,1971/1972,Manchester United,Everton,0-0,0,0,Football League First Division,1,D
+1972-03-08,1971/1972,Barnsley,Wrexham,2-1,2,1,Football League Third Division,3,H
+1972-03-08,1971/1972,AFC Bournemouth,Bristol Rovers,2-0,2,0,Football League Third Division,3,H
+1972-03-09,1971/1972,Peterborough United,Cambridge United,2-0,2,0,Football League Fourth Division,4,H
+1972-03-09,1971/1972,Bury,Workington,2-0,2,0,Football League Fourth Division,4,H
+1972-03-09,1971/1972,Lincoln City,Gillingham,1-1,1,1,Football League Fourth Division,4,D
+1972-03-10,1971/1972,Newport County,Hartlepool United,0-2,0,2,Football League Fourth Division,4,A
+1972-03-10,1971/1972,Southend United,Chester,4-2,4,2,Football League Fourth Division,4,H
+1972-03-10,1971/1972,Stockport County,Darlington,2-1,2,1,Football League Fourth Division,4,H
+1972-03-10,1971/1972,Shrewsbury Town,York City,2-1,2,1,Football League Third Division,3,H
+1972-03-11,1971/1972,Chelsea,Liverpool,0-0,0,0,Football League First Division,1,D
+1972-03-11,1971/1972,Everton,Manchester City,1-2,1,2,Football League First Division,1,A
+1972-03-11,1971/1972,Leicester City,West Ham United,2-0,2,0,Football League First Division,1,H
+1972-03-11,1971/1972,Manchester United,Huddersfield Town,2-0,2,0,Football League First Division,1,H
+1972-03-11,1971/1972,Newcastle United,Arsenal,2-0,2,0,Football League First Division,1,H
+1972-03-11,1971/1972,Nottingham Forest,Ipswich Town,0-2,0,2,Football League First Division,1,A
+1972-03-11,1971/1972,Southampton,Wolverhampton Wanderers,1-2,1,2,Football League First Division,1,A
+1972-03-11,1971/1972,Leeds United,Coventry City,1-0,1,0,Football League First Division,1,H
+1972-03-11,1971/1972,Tottenham Hotspur,Derby County,0-1,0,1,Football League First Division,1,A
+1972-03-11,1971/1972,West Bromwich Albion,Crystal Palace,1-1,1,1,Football League First Division,1,D
+1972-03-11,1971/1972,Stoke City,Sheffield United,2-2,2,2,Football League First Division,1,D
+1972-03-11,1971/1972,Workington,Crewe Alexandra,1-0,1,0,Football League Fourth Division,4,H
+1972-03-11,1971/1972,Barrow,Peterborough United,0-2,0,2,Football League Fourth Division,4,A
+1972-03-11,1971/1972,Cambridge United,Doncaster Rovers,1-1,1,1,Football League Fourth Division,4,D
+1972-03-11,1971/1972,Colchester United,Aldershot,1-0,1,0,Football League Fourth Division,4,H
+1972-03-11,1971/1972,Exeter City,Lincoln City,1-2,1,2,Football League Fourth Division,4,A
+1972-03-11,1971/1972,Gillingham,Grimsby Town,0-1,0,1,Football League Fourth Division,4,A
+1972-03-11,1971/1972,Reading,Northampton Town,2-1,2,1,Football League Fourth Division,4,H
+1972-03-11,1971/1972,Scunthorpe United,Bury,3-0,3,0,Football League Fourth Division,4,H
+1972-03-11,1971/1972,Watford,Bristol City,0-2,0,2,Football League Second Division,2,A
+1972-03-11,1971/1972,Norwich City,Sunderland,1-1,1,1,Football League Second Division,2,D
+1972-03-11,1971/1972,Preston North End,Portsmouth,4-0,4,0,Football League Second Division,2,H
+1972-03-11,1971/1972,Birmingham City,Queens Park Rangers,0-0,0,0,Football League Second Division,2,D
+1972-03-11,1971/1972,Burnley,Carlisle United,3-1,3,1,Football League Second Division,2,H
+1972-03-11,1971/1972,Hull City,Fulham,4-0,4,0,Football League Second Division,2,H
+1972-03-11,1971/1972,Leyton Orient,Blackpool,0-1,0,1,Football League Second Division,2,A
+1972-03-11,1971/1972,Middlesbrough,Oxford United,2-1,2,1,Football League Second Division,2,H
+1972-03-11,1971/1972,Millwall,Cardiff City,1-1,1,1,Football League Second Division,2,D
+1972-03-11,1971/1972,Bolton Wanderers,Port Vale,3-0,3,0,Football League Third Division,3,H
+1972-03-11,1971/1972,Brighton & Hove Albion,Tranmere Rovers,2-0,2,0,Football League Third Division,3,H
+1972-03-11,1971/1972,Bristol Rovers,Mansfield Town,2-1,2,1,Football League Third Division,3,H
+1972-03-11,1971/1972,Halifax Town,Oldham Athletic,0-0,0,0,Football League Third Division,3,D
+1972-03-11,1971/1972,Plymouth Argyle,Notts County,1-1,1,1,Football League Third Division,3,D
+1972-03-11,1971/1972,Rochdale,Blackburn Rovers,2-1,2,1,Football League Third Division,3,H
+1972-03-11,1971/1972,Rotherham United,Aston Villa,0-2,0,2,Football League Third Division,3,A
+1972-03-11,1971/1972,Swansea City,AFC Bournemouth,1-2,1,2,Football League Third Division,3,A
+1972-03-11,1971/1972,Wrexham,Torquay United,1-2,1,2,Football League Third Division,3,A
+1972-03-11,1971/1972,Walsall,Bradford City,3-0,3,0,Football League Third Division,3,H
+1972-03-11,1971/1972,Chesterfield,Barnsley,0-0,0,0,Football League Third Division,3,D
+1972-03-13,1971/1972,Stockport County,Chester,0-0,0,0,Football League Fourth Division,4,D
+1972-03-13,1971/1972,Southend United,Crewe Alexandra,4-1,4,1,Football League Fourth Division,4,H
+1972-03-13,1971/1972,Newport County,Grimsby Town,2-1,2,1,Football League Fourth Division,4,H
+1972-03-13,1971/1972,Colchester United,Doncaster Rovers,1-2,1,2,Football League Fourth Division,4,A
+1972-03-13,1971/1972,Barrow,Aldershot,1-1,1,1,Football League Fourth Division,4,D
+1972-03-13,1971/1972,Brentford,Lincoln City,2-0,2,0,Football League Fourth Division,4,H
+1972-03-13,1971/1972,Wrexham,Mansfield Town,1-1,1,1,Football League Third Division,3,D
+1972-03-13,1971/1972,Rochdale,Port Vale,3-2,3,2,Football League Third Division,3,H
+1972-03-14,1971/1972,Nottingham Forest,Chelsea,2-1,2,1,Football League First Division,1,H
+1972-03-14,1971/1972,Scunthorpe United,Southport,1-0,1,0,Football League Fourth Division,4,H
+1972-03-14,1971/1972,Carlisle United,Middlesbrough,3-0,3,0,Football League Second Division,2,H
+1972-03-14,1971/1972,Swansea City,York City,2-1,2,1,Football League Third Division,3,H
+1972-03-14,1971/1972,Walsall,AFC Bournemouth,1-1,1,1,Football League Third Division,3,D
+1972-03-14,1971/1972,Plymouth Argyle,Barnsley,2-1,2,1,Football League Third Division,3,H
+1972-03-14,1971/1972,Rotherham United,Notts County,2-2,2,2,Football League Third Division,3,D
+1972-03-14,1971/1972,Bristol Rovers,Blackburn Rovers,3-0,3,0,Football League Third Division,3,H
+1972-03-14,1971/1972,Halifax Town,Torquay United,0-0,0,0,Football League Third Division,3,D
+1972-03-15,1971/1972,Gillingham,Bury,2-0,2,0,Football League Fourth Division,4,H
+1972-03-15,1971/1972,Workington,Northampton Town,2-0,2,0,Football League Fourth Division,4,H
+1972-03-15,1971/1972,Reading,Peterborough United,2-1,2,1,Football League Fourth Division,4,H
+1972-03-15,1971/1972,Exeter City,Darlington,3-0,3,0,Football League Fourth Division,4,H
+1972-03-15,1971/1972,Cambridge United,Hartlepool United,2-1,2,1,Football League Fourth Division,4,H
+1972-03-15,1971/1972,Norwich City,Hull City,2-0,2,0,Football League Second Division,2,H
+1972-03-15,1971/1972,Chesterfield,Tranmere Rovers,2-2,2,2,Football League Third Division,3,D
+1972-03-15,1971/1972,Brighton & Hove Albion,Oldham Athletic,0-1,0,1,Football League Third Division,3,A
+1972-03-15,1971/1972,Bolton Wanderers,Bradford City,0-0,0,0,Football League Third Division,3,D
+1972-03-15,1971/1972,Shrewsbury Town,Aston Villa,1-1,1,1,Football League Third Division,3,D
+1972-03-17,1971/1972,Coventry City,West Bromwich Albion,0-2,0,2,Football League First Division,1,A
+1972-03-17,1971/1972,Tranmere Rovers,Bristol Rovers,0-1,0,1,Football League Third Division,3,A
+1972-03-18,1971/1972,Manchester City,Chelsea,1-0,1,0,Football League First Division,1,H
+1972-03-18,1971/1972,Crystal Palace,Wolverhampton Wanderers,0-2,0,2,Football League First Division,1,A
+1972-03-18,1971/1972,Derby County,Leicester City,3-0,3,0,Football League First Division,1,H
+1972-03-18,1971/1972,Ipswich Town,Southampton,1-1,1,1,Football League First Division,1,D
+1972-03-18,1971/1972,Liverpool,Newcastle United,5-0,5,0,Football League First Division,1,H
+1972-03-18,1971/1972,Sheffield United,Everton,1-1,1,1,Football League First Division,1,D
+1972-03-18,1971/1972,West Ham United,Nottingham Forest,4-2,4,2,Football League First Division,1,H
+1972-03-18,1971/1972,Aldershot,Brentford,1-2,1,2,Football League Fourth Division,4,A
+1972-03-18,1971/1972,Bury,Stockport County,4-0,4,0,Football League Fourth Division,4,H
+1972-03-18,1971/1972,Southport,Gillingham,1-0,1,0,Football League Fourth Division,4,H
+1972-03-18,1971/1972,Crewe Alexandra,Barrow,1-0,1,0,Football League Fourth Division,4,H
+1972-03-18,1971/1972,Darlington,Southend United,2-3,2,3,Football League Fourth Division,4,A
+1972-03-18,1971/1972,Doncaster Rovers,Workington,0-0,0,0,Football League Fourth Division,4,D
+1972-03-18,1971/1972,Hartlepool United,Colchester United,3-2,3,2,Football League Fourth Division,4,H
+1972-03-18,1971/1972,Lincoln City,Scunthorpe United,1-0,1,0,Football League Fourth Division,4,H
+1972-03-18,1971/1972,Northampton Town,Cambridge United,1-2,1,2,Football League Fourth Division,4,A
+1972-03-18,1971/1972,Peterborough United,Newport County,3-1,3,1,Football League Fourth Division,4,H
+1972-03-18,1971/1972,Chester,Reading,2-0,2,0,Football League Fourth Division,4,H
+1972-03-18,1971/1972,Bristol City,Sheffield Wednesday,1-0,1,0,Football League Second Division,2,H
+1972-03-18,1971/1972,Blackpool,Millwall,0-0,0,0,Football League Second Division,2,D
+1972-03-18,1971/1972,Fulham,Preston North End,0-0,0,0,Football League Second Division,2,D
+1972-03-18,1971/1972,Luton Town,Burnley,1-0,1,0,Football League Second Division,2,H
+1972-03-18,1971/1972,Oxford United,Hull City,2-2,2,2,Football League Second Division,2,D
+1972-03-18,1971/1972,Portsmouth,Norwich City,2-1,2,1,Football League Second Division,2,H
+1972-03-18,1971/1972,Queens Park Rangers,Middlesbrough,1-0,1,0,Football League Second Division,2,H
+1972-03-18,1971/1972,Charlton Athletic,Swindon Town,3-1,3,1,Football League Second Division,2,H
+1972-03-18,1971/1972,Torquay United,Shrewsbury Town,2-0,2,0,Football League Third Division,3,H
+1972-03-18,1971/1972,York City,Halifax Town,1-1,1,1,Football League Third Division,3,D
+1972-03-18,1971/1972,Port Vale,Swansea City,3-0,3,0,Football League Third Division,3,H
+1972-03-18,1971/1972,Mansfield Town,Rochdale,3-1,3,1,Football League Third Division,3,H
+1972-03-18,1971/1972,Notts County,Chesterfield,1-4,1,4,Football League Third Division,3,A
+1972-03-18,1971/1972,Oldham Athletic,Wrexham,0-2,0,2,Football League Third Division,3,A
+1972-03-18,1971/1972,Bradford City,Brighton & Hove Albion,2-1,2,1,Football League Third Division,3,H
+1972-03-18,1971/1972,Barnsley,Rotherham United,1-1,1,1,Football League Third Division,3,D
+1972-03-18,1971/1972,Blackburn Rovers,Plymouth Argyle,3-2,3,2,Football League Third Division,3,H
+1972-03-18,1971/1972,AFC Bournemouth,Bolton Wanderers,1-2,1,2,Football League Third Division,3,A
+1972-03-18,1971/1972,Aston Villa,Walsall,0-0,0,0,Football League Third Division,3,D
+1972-03-20,1971/1972,Cambridge United,Workington,0-0,0,0,Football League Fourth Division,4,D
+1972-03-20,1971/1972,Darlington,Northampton Town,5-2,5,2,Football League Fourth Division,4,H
+1972-03-20,1971/1972,Barrow,Exeter City,0-0,0,0,Football League Fourth Division,4,D
+1972-03-20,1971/1972,Bradford City,Plymouth Argyle,0-1,0,1,Football League Third Division,3,A
+1972-03-20,1971/1972,Wrexham,Chesterfield,2-0,2,0,Football League Third Division,3,H
+1972-03-20,1971/1972,Mansfield Town,Shrewsbury Town,2-2,2,2,Football League Third Division,3,D
+1972-03-20,1971/1972,York City,Rochdale,2-0,2,0,Football League Third Division,3,H
+1972-03-21,1971/1972,Coventry City,West Ham United,1-1,1,1,Football League First Division,1,D
+1972-03-21,1971/1972,Everton,Crystal Palace,0-0,0,0,Football League First Division,1,D
+1972-03-21,1971/1972,Huddersfield Town,Sheffield United,0-0,0,0,Football League First Division,1,D
+1972-03-21,1971/1972,Bury,Gillingham,5-0,5,0,Football League Fourth Division,4,H
+1972-03-21,1971/1972,Chester,Lincoln City,2-1,2,1,Football League Fourth Division,4,H
+1972-03-21,1971/1972,Doncaster Rovers,Brentford,0-3,0,3,Football League Fourth Division,4,A
+1972-03-21,1971/1972,Grimsby Town,Colchester United,3-0,3,0,Football League Fourth Division,4,H
+1972-03-21,1971/1972,Cardiff City,Oxford United,1-1,1,1,Football League Second Division,2,D
+1972-03-21,1971/1972,Carlisle United,Birmingham City,2-2,2,2,Football League Second Division,2,D
+1972-03-21,1971/1972,Barnsley,Port Vale,0-0,0,0,Football League Third Division,3,D
+1972-03-21,1971/1972,Oldham Athletic,AFC Bournemouth,3-1,3,1,Football League Third Division,3,H
+1972-03-22,1971/1972,Leicester City,Leeds United,0-0,0,0,Football League First Division,1,D
+1972-03-22,1971/1972,Derby County,Ipswich Town,1-0,1,0,Football League First Division,1,H
+1972-03-22,1971/1972,Reading,Southend United,1-4,1,4,Football League Fourth Division,4,A
+1972-03-22,1971/1972,Notts County,Rotherham United,1-1,1,1,Football League Third Division,3,D
+1972-03-22,1971/1972,Torquay United,Halifax Town,2-0,2,0,Football League Third Division,3,H
+1972-03-22,1971/1972,Bolton Wanderers,Walsall,0-1,0,1,Football League Third Division,3,A
+1972-03-24,1971/1972,Southend United,Aldershot,1-0,1,0,Football League Fourth Division,4,H
+1972-03-24,1971/1972,Newport County,Southport,2-2,2,2,Football League Fourth Division,4,D
+1972-03-24,1971/1972,Stockport County,Northampton Town,3-1,3,1,Football League Fourth Division,4,H
+1972-03-24,1971/1972,Colchester United,Darlington,4-3,4,3,Football League Fourth Division,4,H
+1972-03-24,1971/1972,Leyton Orient,Portsmouth,2-1,2,1,Football League Second Division,2,H
+1972-03-24,1971/1972,Swansea City,Mansfield Town,1-1,1,1,Football League Third Division,3,D
+1972-03-25,1971/1972,Chelsea,West Ham United,3-1,3,1,Football League First Division,1,H
+1972-03-25,1971/1972,Everton,Wolverhampton Wanderers,2-2,2,2,Football League First Division,1,D
+1972-03-25,1971/1972,Leeds United,Arsenal,3-0,3,0,Football League First Division,1,H
+1972-03-25,1971/1972,Leicester City,Ipswich Town,1-0,1,0,Football League First Division,1,H
+1972-03-25,1971/1972,Manchester United,Crystal Palace,4-0,4,0,Football League First Division,1,H
+1972-03-25,1971/1972,Newcastle United,Manchester City,0-0,0,0,Football League First Division,1,D
+1972-03-25,1971/1972,Nottingham Forest,Coventry City,4-0,4,0,Football League First Division,1,H
+1972-03-25,1971/1972,Southampton,Liverpool,0-1,0,1,Football League First Division,1,A
+1972-03-25,1971/1972,Tottenham Hotspur,Sheffield United,2-0,2,0,Football League First Division,1,H
+1972-03-25,1971/1972,West Bromwich Albion,Huddersfield Town,1-1,1,1,Football League First Division,1,D
+1972-03-25,1971/1972,Stoke City,Derby County,1-1,1,1,Football League First Division,1,D
+1972-03-25,1971/1972,Brentford,Grimsby Town,2-0,2,0,Football League Fourth Division,4,H
+1972-03-25,1971/1972,Barrow,Chester,2-0,2,0,Football League Fourth Division,4,H
+1972-03-25,1971/1972,Cambridge United,Bury,0-2,0,2,Football League Fourth Division,4,A
+1972-03-25,1971/1972,Exeter City,Doncaster Rovers,1-0,1,0,Football League Fourth Division,4,H
+1972-03-25,1971/1972,Gillingham,Crewe Alexandra,2-1,2,1,Football League Fourth Division,4,H
+1972-03-25,1971/1972,Reading,Lincoln City,0-1,0,1,Football League Fourth Division,4,A
+1972-03-25,1971/1972,Scunthorpe United,Peterborough United,0-0,0,0,Football League Fourth Division,4,D
+1972-03-25,1971/1972,Workington,Hartlepool United,0-0,0,0,Football League Fourth Division,4,D
+1972-03-25,1971/1972,Watford,Carlisle United,1-2,1,2,Football League Second Division,2,A
+1972-03-25,1971/1972,Norwich City,Blackpool,5-1,5,1,Football League Second Division,2,H
+1972-03-25,1971/1972,Sheffield Wednesday,Cardiff City,2-2,2,2,Football League Second Division,2,D
+1972-03-25,1971/1972,Swindon Town,Sunderland,1-1,1,1,Football League Second Division,2,D
+1972-03-25,1971/1972,Birmingham City,Luton Town,1-0,1,0,Football League Second Division,2,H
+1972-03-25,1971/1972,Burnley,Fulham,1-1,1,1,Football League Second Division,2,D
+1972-03-25,1971/1972,Hull City,Bristol City,1-1,1,1,Football League Second Division,2,D
+1972-03-25,1971/1972,Middlesbrough,Charlton Athletic,2-2,2,2,Football League Second Division,2,D
+1972-03-25,1971/1972,Millwall,Oxford United,2-0,2,0,Football League Second Division,2,H
+1972-03-25,1971/1972,Preston North End,Queens Park Rangers,1-1,1,1,Football League Second Division,2,D
+1972-03-25,1971/1972,Rotherham United,Tranmere Rovers,0-0,0,0,Football League Third Division,3,D
+1972-03-25,1971/1972,Brighton & Hove Albion,Aston Villa,2-1,2,1,Football League Third Division,3,H
+1972-03-25,1971/1972,Bristol Rovers,Oldham Athletic,1-0,1,0,Football League Third Division,3,H
+1972-03-25,1971/1972,Chesterfield,Bradford City,0-1,0,1,Football League Third Division,3,A
+1972-03-25,1971/1972,Halifax Town,Barnsley,2-0,2,0,Football League Third Division,3,H
+1972-03-25,1971/1972,Plymouth Argyle,Port Vale,0-0,0,0,Football League Third Division,3,D
+1972-03-25,1971/1972,Rochdale,AFC Bournemouth,1-1,1,1,Football League Third Division,3,D
+1972-03-25,1971/1972,Shrewsbury Town,Notts County,1-1,1,1,Football League Third Division,3,D
+1972-03-25,1971/1972,Wrexham,York City,2-0,2,0,Football League Third Division,3,H
+1972-03-25,1971/1972,Bolton Wanderers,Blackburn Rovers,1-0,1,0,Football League Third Division,3,H
+1972-03-25,1971/1972,Walsall,Torquay United,1-0,1,0,Football League Third Division,3,H
+1972-03-27,1971/1972,Leeds United,Nottingham Forest,6-1,6,1,Football League First Division,1,H
+1972-03-27,1971/1972,Peterborough United,Grimsby Town,0-2,0,2,Football League Fourth Division,4,A
+1972-03-27,1971/1972,Hartlepool United,Exeter City,1-0,1,0,Football League Fourth Division,4,H
+1972-03-27,1971/1972,Brentford,Workington,2-0,2,0,Football League Fourth Division,4,H
+1972-03-27,1971/1972,Darlington,Barrow,0-1,0,1,Football League Fourth Division,4,A
+1972-03-27,1971/1972,Mansfield Town,Bolton Wanderers,1-0,1,0,Football League Third Division,3,H
+1972-03-27,1971/1972,Blackburn Rovers,Bristol Rovers,1-2,1,2,Football League Third Division,3,A
+1972-03-27,1971/1972,Tranmere Rovers,Walsall,3-3,3,3,Football League Third Division,3,D
+1972-03-28,1971/1972,Arsenal,Southampton,1-0,1,0,Football League First Division,1,H
+1972-03-28,1971/1972,Crystal Palace,Derby County,0-1,0,1,Football League First Division,1,A
+1972-03-28,1971/1972,Huddersfield Town,Tottenham Hotspur,1-1,1,1,Football League First Division,1,D
+1972-03-28,1971/1972,Liverpool,Stoke City,2-1,2,1,Football League First Division,1,H
+1972-03-28,1971/1972,Fulham,Sheffield Wednesday,4-0,4,0,Football League Second Division,2,H
+1972-03-28,1971/1972,Oldham Athletic,Swansea City,1-0,1,0,Football League Third Division,3,H
+1972-03-29,1971/1972,Chelsea,Sheffield United,2-0,2,0,Football League First Division,1,H
+1972-03-29,1971/1972,Cardiff City,Preston North End,5-2,5,2,Football League Second Division,2,H
+1972-03-31,1971/1972,West Ham United,Leeds United,2-2,2,2,Football League First Division,1,D
+1972-03-31,1971/1972,Tottenham Hotspur,Coventry City,1-0,1,0,Football League First Division,1,H
+1972-03-31,1971/1972,Southend United,Doncaster Rovers,2-1,2,1,Football League Fourth Division,4,H
+1972-03-31,1971/1972,Hartlepool United,Stockport County,5-0,5,0,Football League Fourth Division,4,H
+1972-03-31,1971/1972,Grimsby Town,Reading,2-0,2,0,Football League Fourth Division,4,H
+1972-03-31,1971/1972,Darlington,Scunthorpe United,0-1,0,1,Football League Fourth Division,4,A
+1972-03-31,1971/1972,Crewe Alexandra,Exeter City,0-1,0,1,Football League Fourth Division,4,A
+1972-03-31,1971/1972,Colchester United,Northampton Town,2-0,2,0,Football League Fourth Division,4,H
+1972-03-31,1971/1972,Workington,Southport,0-0,0,0,Football League Fourth Division,4,D
+1972-03-31,1971/1972,Brentford,Chester,1-1,1,1,Football League Fourth Division,4,D
+1972-03-31,1971/1972,Aldershot,Cambridge United,1-1,1,1,Football League Fourth Division,4,D
+1972-03-31,1971/1972,Bury,Newport County,3-0,3,0,Football League Fourth Division,4,H
+1972-03-31,1971/1972,Bristol City,Swindon Town,1-0,1,0,Football League Second Division,2,H
+1972-03-31,1971/1972,Charlton Athletic,Leyton Orient,1-2,1,2,Football League Second Division,2,A
+1972-03-31,1971/1972,Middlesbrough,Luton Town,0-0,0,0,Football League Second Division,2,D
+1972-03-31,1971/1972,Oxford United,Birmingham City,0-1,0,1,Football League Second Division,2,A
+1972-03-31,1971/1972,Watford,Queens Park Rangers,0-2,0,2,Football League Second Division,2,A
+1972-03-31,1971/1972,Millwall,Portsmouth,1-0,1,0,Football League Second Division,2,H
+1972-03-31,1971/1972,York City,Rotherham United,2-0,2,0,Football League Third Division,3,H
+1972-03-31,1971/1972,Wrexham,Aston Villa,0-2,0,2,Football League Third Division,3,A
+1972-03-31,1971/1972,Oldham Athletic,Chesterfield,1-1,1,1,Football League Third Division,3,D
+1972-03-31,1971/1972,Tranmere Rovers,Halifax Town,2-3,2,3,Football League Third Division,3,A
+1972-03-31,1971/1972,Blackburn Rovers,Shrewsbury Town,1-0,1,0,Football League Third Division,3,H
+1972-03-31,1971/1972,Brighton & Hove Albion,Torquay United,3-1,3,1,Football League Third Division,3,H
+1972-04-01,1971/1972,Liverpool,West Bromwich Albion,2-0,2,0,Football League First Division,1,H
+1972-04-01,1971/1972,Arsenal,Nottingham Forest,3-0,3,0,Football League First Division,1,H
+1972-04-01,1971/1972,Coventry City,Manchester United,2-3,2,3,Football League First Division,1,A
+1972-04-01,1971/1972,Derby County,Leeds United,2-0,2,0,Football League First Division,1,H
+1972-04-01,1971/1972,Huddersfield Town,Everton,0-0,0,0,Football League First Division,1,D
+1972-04-01,1971/1972,Ipswich Town,Chelsea,1-2,1,2,Football League First Division,1,A
+1972-04-01,1971/1972,Manchester City,Stoke City,1-2,1,2,Football League First Division,1,A
+1972-04-01,1971/1972,Sheffield United,Newcastle United,1-0,1,0,Football League First Division,1,H
+1972-04-01,1971/1972,West Ham United,Tottenham Hotspur,2-0,2,0,Football League First Division,1,H
+1972-04-01,1971/1972,Crystal Palace,Southampton,2-3,2,3,Football League First Division,1,A
+1972-04-01,1971/1972,Wolverhampton Wanderers,Leicester City,0-1,0,1,Football League First Division,1,A
+1972-04-01,1971/1972,Aldershot,Exeter City,0-0,0,0,Football League Fourth Division,4,D
+1972-04-01,1971/1972,Bury,Barrow,4-0,4,0,Football League Fourth Division,4,H
+1972-04-01,1971/1972,Grimsby Town,Cambridge United,2-1,2,1,Football League Fourth Division,4,H
+1972-04-01,1971/1972,Crewe Alexandra,Brentford,2-1,2,1,Football League Fourth Division,4,H
+1972-04-01,1971/1972,Darlington,Workington,4-0,4,0,Football League Fourth Division,4,H
+1972-04-01,1971/1972,Southport,Stockport County,1-0,1,0,Football League Fourth Division,4,H
+1972-04-01,1971/1972,Doncaster Rovers,Reading,1-1,1,1,Football League Fourth Division,4,D
+1972-04-01,1971/1972,Hartlepool United,Scunthorpe United,1-0,1,0,Football League Fourth Division,4,H
+1972-04-01,1971/1972,Lincoln City,Southend United,0-0,0,0,Football League Fourth Division,4,D
+1972-04-01,1971/1972,Northampton Town,Gillingham,6-1,6,1,Football League Fourth Division,4,H
+1972-04-01,1971/1972,Peterborough United,Colchester United,4-0,4,0,Football League Fourth Division,4,H
+1972-04-01,1971/1972,Chester,Newport County,3-0,3,0,Football League Fourth Division,4,H
+1972-04-01,1971/1972,Queens Park Rangers,Leyton Orient,1-0,1,0,Football League Second Division,2,H
+1972-04-01,1971/1972,Sunderland,Hull City,0-1,0,1,Football League Second Division,2,A
+1972-04-01,1971/1972,Blackpool,Burnley,4-2,4,2,Football League Second Division,2,H
+1972-04-01,1971/1972,Bristol City,Preston North End,4-1,4,1,Football League Second Division,2,H
+1972-04-01,1971/1972,Cardiff City,Birmingham City,0-0,0,0,Football League Second Division,2,D
+1972-04-01,1971/1972,Charlton Athletic,Norwich City,0-2,0,2,Football League Second Division,2,A
+1972-04-01,1971/1972,Fulham,Millwall,1-0,1,0,Football League Second Division,2,H
+1972-04-01,1971/1972,Luton Town,Sheffield Wednesday,3-1,3,1,Football League Second Division,2,H
+1972-04-01,1971/1972,Oxford United,Watford,0-0,0,0,Football League Second Division,2,D
+1972-04-01,1971/1972,Portsmouth,Swindon Town,1-2,1,2,Football League Second Division,2,A
+1972-04-01,1971/1972,Barnsley,Bolton Wanderers,1-0,1,0,Football League Third Division,3,H
+1972-04-01,1971/1972,Bradford City,Rochdale,1-1,1,1,Football League Third Division,3,D
+1972-04-01,1971/1972,Mansfield Town,Walsall,1-1,1,1,Football League Third Division,3,D
+1972-04-01,1971/1972,Notts County,Wrexham,1-0,1,0,Football League Third Division,3,H
+1972-04-01,1971/1972,Port Vale,Bristol Rovers,0-0,0,0,Football League Third Division,3,D
+1972-04-01,1971/1972,Torquay United,Plymouth Argyle,2-1,2,1,Football League Third Division,3,H
+1972-04-01,1971/1972,York City,Chesterfield,4-1,4,1,Football League Third Division,3,H
+1972-04-01,1971/1972,Aston Villa,Swansea City,2-0,2,0,Football League Third Division,3,H
+1972-04-01,1971/1972,AFC Bournemouth,Brighton & Hove Albion,1-1,1,1,Football League Third Division,3,D
+1972-04-03,1971/1972,Crystal Palace,Leicester City,1-1,1,1,Football League First Division,1,D
+1972-04-03,1971/1972,Ipswich Town,Tottenham Hotspur,2-1,2,1,Football League First Division,1,H
+1972-04-03,1971/1972,Manchester United,Liverpool,0-3,0,3,Football League First Division,1,A
+1972-04-03,1971/1972,Derby County,Newcastle United,0-1,0,1,Football League First Division,1,A
+1972-04-03,1971/1972,Barrow,Hartlepool United,2-0,2,0,Football League Fourth Division,4,H
+1972-04-03,1971/1972,Cambridge United,Lincoln City,0-0,0,0,Football League Fourth Division,4,D
+1972-04-03,1971/1972,Chester,Colchester United,2-1,2,1,Football League Fourth Division,4,H
+1972-04-03,1971/1972,Reading,Crewe Alexandra,1-0,1,0,Football League Fourth Division,4,H
+1972-04-03,1971/1972,Gillingham,Peterborough United,1-1,1,1,Football League Fourth Division,4,D
+1972-04-03,1971/1972,Northampton Town,Brentford,0-0,0,0,Football League Fourth Division,4,D
+1972-04-03,1971/1972,Southport,Southend United,0-1,0,1,Football League Fourth Division,4,A
+1972-04-03,1971/1972,Stockport County,Grimsby Town,0-2,0,2,Football League Fourth Division,4,A
+1972-04-03,1971/1972,Exeter City,Bury,3-2,3,2,Football League Fourth Division,4,H
+1972-04-03,1971/1972,Sheffield Wednesday,Oxford United,0-0,0,0,Football League Second Division,2,D
+1972-04-03,1971/1972,Blackpool,Middlesbrough,3-1,3,1,Football League Second Division,2,H
+1972-04-03,1971/1972,Hull City,Carlisle United,2-0,2,0,Football League Second Division,2,H
+1972-04-03,1971/1972,Portsmouth,Watford,2-2,2,2,Football League Second Division,2,D
+1972-04-03,1971/1972,Queens Park Rangers,Norwich City,0-0,0,0,Football League Second Division,2,D
+1972-04-03,1971/1972,Sunderland,Burnley,4-3,4,3,Football League Second Division,2,H
+1972-04-03,1971/1972,Leyton Orient,Fulham,1-0,1,0,Football League Second Division,2,H
+1972-04-03,1971/1972,Port Vale,Walsall,1-1,1,1,Football League Third Division,3,D
+1972-04-03,1971/1972,Rochdale,Barnsley,0-2,0,2,Football League Third Division,3,A
+1972-04-03,1971/1972,Rotherham United,Mansfield Town,3-1,3,1,Football League Third Division,3,H
+1972-04-03,1971/1972,Plymouth Argyle,Oldham Athletic,0-0,0,0,Football League Third Division,3,D
+1972-04-03,1971/1972,Notts County,Swansea City,5-0,5,0,Football League Third Division,3,H
+1972-04-03,1971/1972,Bolton Wanderers,Tranmere Rovers,1-0,1,0,Football League Third Division,3,H
+1972-04-03,1971/1972,Bradford City,Wrexham,0-2,0,2,Football League Third Division,3,A
+1972-04-03,1971/1972,Aston Villa,Bristol Rovers,2-1,2,1,Football League Third Division,3,H
+1972-04-04,1971/1972,Coventry City,Everton,4-1,4,1,Football League First Division,1,H
+1972-04-04,1971/1972,Stoke City,West Ham United,0-0,0,0,Football League First Division,1,D
+1972-04-04,1971/1972,Southampton,Manchester City,2-0,2,0,Football League First Division,1,H
+1972-04-04,1971/1972,Sheffield United,Manchester United,1-1,1,1,Football League First Division,1,D
+1972-04-04,1971/1972,Leicester City,Arsenal,0-0,0,0,Football League First Division,1,D
+1972-04-04,1971/1972,Scunthorpe United,Aldershot,1-0,1,0,Football League Fourth Division,4,H
+1972-04-04,1971/1972,Peterborough United,Workington,1-1,1,1,Football League Fourth Division,4,D
+1972-04-04,1971/1972,Newport County,Darlington,4-0,4,0,Football League Fourth Division,4,H
+1972-04-04,1971/1972,Doncaster Rovers,Gillingham,1-1,1,1,Football League Fourth Division,4,D
+1972-04-04,1971/1972,Swindon Town,Cardiff City,3-1,3,1,Football League Second Division,2,H
+1972-04-04,1971/1972,Norwich City,Bristol City,2-2,2,2,Football League Second Division,2,D
+1972-04-04,1971/1972,Luton Town,Hull City,0-1,0,1,Football League Second Division,2,A
+1972-04-04,1971/1972,Carlisle United,Millwall,3-3,3,3,Football League Second Division,2,D
+1972-04-04,1971/1972,Burnley,Charlton Athletic,3-1,3,1,Football League Second Division,2,H
+1972-04-04,1971/1972,Birmingham City,Blackpool,2-1,2,1,Football League Second Division,2,H
+1972-04-04,1971/1972,Preston North End,Sunderland,1-3,1,3,Football League Second Division,2,A
+1972-04-04,1971/1972,Barnsley,Brighton & Hove Albion,0-1,0,1,Football League Third Division,3,A
+1972-04-04,1971/1972,Walsall,York City,2-1,2,1,Football League Third Division,3,H
+1972-04-04,1971/1972,Swansea City,Blackburn Rovers,0-1,0,1,Football League Third Division,3,A
+1972-04-04,1971/1972,Shrewsbury Town,Bradford City,3-0,3,0,Football League Third Division,3,H
+1972-04-04,1971/1972,Halifax Town,Port Vale,2-0,2,0,Football League Third Division,3,H
+1972-04-04,1971/1972,Bristol Rovers,Notts County,0-2,0,2,Football League Third Division,3,A
+1972-04-05,1971/1972,West Bromwich Albion,Derby County,0-0,0,0,Football League First Division,1,D
+1972-04-05,1971/1972,Leeds United,Huddersfield Town,3-1,3,1,Football League First Division,1,H
+1972-04-05,1971/1972,Newcastle United,Ipswich Town,0-1,0,1,Football League First Division,1,A
+1972-04-05,1971/1972,Chesterfield,AFC Bournemouth,0-0,0,0,Football League Third Division,3,D
+1972-04-07,1971/1972,Colchester United,Workington,1-0,1,0,Football League Fourth Division,4,H
+1972-04-07,1971/1972,Southend United,Reading,4-1,4,1,Football League Fourth Division,4,H
+1972-04-07,1971/1972,Tranmere Rovers,AFC Bournemouth,1-2,1,2,Football League Third Division,3,A
+1972-04-08,1971/1972,Chelsea,Crystal Palace,2-1,2,1,Football League First Division,1,H
+1972-04-08,1971/1972,Huddersfield Town,Ipswich Town,1-3,1,3,Football League First Division,1,A
+1972-04-08,1971/1972,Leicester City,Manchester United,2-0,2,0,Football League First Division,1,H
+1972-04-08,1971/1972,Liverpool,Coventry City,3-1,3,1,Football League First Division,1,H
+1972-04-08,1971/1972,Manchester City,West Ham United,3-1,3,1,Football League First Division,1,H
+1972-04-08,1971/1972,Nottingham Forest,Newcastle United,1-0,1,0,Football League First Division,1,H
+1972-04-08,1971/1972,Sheffield United,Derby County,0-4,0,4,Football League First Division,1,A
+1972-04-08,1971/1972,Southampton,Everton,0-1,0,1,Football League First Division,1,A
+1972-04-08,1971/1972,Arsenal,Wolverhampton Wanderers,2-1,2,1,Football League First Division,1,H
+1972-04-08,1971/1972,West Bromwich Albion,Tottenham Hotspur,1-1,1,1,Football League First Division,1,D
+1972-04-08,1971/1972,Stoke City,Leeds United,0-3,0,3,Football League First Division,1,A
+1972-04-08,1971/1972,Scunthorpe United,Stockport County,0-2,0,2,Football League Fourth Division,4,A
+1972-04-08,1971/1972,Newport County,Exeter City,0-0,0,0,Football League Fourth Division,4,D
+1972-04-08,1971/1972,Aldershot,Doncaster Rovers,3-0,3,0,Football League Fourth Division,4,H
+1972-04-08,1971/1972,Barrow,Gillingham,1-0,1,0,Football League Fourth Division,4,H
+1972-04-08,1971/1972,Brentford,Cambridge United,2-1,2,1,Football League Fourth Division,4,H
+1972-04-08,1971/1972,Bury,Southport,2-1,2,1,Football League Fourth Division,4,H
+1972-04-08,1971/1972,Chester,Grimsby Town,1-2,1,2,Football League Fourth Division,4,A
+1972-04-08,1971/1972,Darlington,Crewe Alexandra,1-1,1,1,Football League Fourth Division,4,D
+1972-04-08,1971/1972,Hartlepool United,Lincoln City,2-1,2,1,Football League Fourth Division,4,H
+1972-04-08,1971/1972,Peterborough United,Northampton Town,1-0,1,0,Football League Fourth Division,4,H
+1972-04-08,1971/1972,Leyton Orient,Middlesbrough,1-1,1,1,Football League Second Division,2,D
+1972-04-08,1971/1972,Oxford United,Portsmouth,2-2,2,2,Football League Second Division,2,D
+1972-04-08,1971/1972,Sunderland,Cardiff City,1-1,1,1,Football League Second Division,2,D
+1972-04-08,1971/1972,Birmingham City,Millwall,1-0,1,0,Football League Second Division,2,H
+1972-04-08,1971/1972,Burnley,Watford,3-0,3,0,Football League Second Division,2,H
+1972-04-08,1971/1972,Carlisle United,Bristol City,2-0,2,0,Football League Second Division,2,H
+1972-04-08,1971/1972,Charlton Athletic,Fulham,2-2,2,2,Football League Second Division,2,D
+1972-04-08,1971/1972,Hull City,Queens Park Rangers,1-1,1,1,Football League Second Division,2,D
+1972-04-08,1971/1972,Luton Town,Blackpool,1-4,1,4,Football League Second Division,2,A
+1972-04-08,1971/1972,Norwich City,Sheffield Wednesday,1-0,1,0,Football League Second Division,2,H
+1972-04-08,1971/1972,Torquay United,Notts County,1-1,1,1,Football League Third Division,3,D
+1972-04-08,1971/1972,Bristol Rovers,Halifax Town,1-0,1,0,Football League Third Division,3,H
+1972-04-08,1971/1972,Brighton & Hove Albion,Wrexham,3-2,3,2,Football League Third Division,3,H
+1972-04-08,1971/1972,Oldham Athletic,Mansfield Town,2-1,2,1,Football League Third Division,3,H
+1972-04-08,1971/1972,Rotherham United,Chesterfield,0-1,0,1,Football League Third Division,3,A
+1972-04-08,1971/1972,Shrewsbury Town,Rochdale,2-1,2,1,Football League Third Division,3,H
+1972-04-08,1971/1972,Swansea City,Plymouth Argyle,1-1,1,1,Football League Third Division,3,D
+1972-04-08,1971/1972,Walsall,Bolton Wanderers,1-1,1,1,Football League Third Division,3,D
+1972-04-08,1971/1972,Bradford City,Port Vale,0-0,0,0,Football League Third Division,3,D
+1972-04-08,1971/1972,York City,Aston Villa,0-1,0,1,Football League Third Division,3,A
+1972-04-08,1971/1972,Barnsley,Blackburn Rovers,0-0,0,0,Football League Third Division,3,D
+1972-04-10,1971/1972,Stoke City,Nottingham Forest,0-2,0,2,Football League First Division,1,A
+1972-04-10,1971/1972,Colchester United,Reading,2-1,2,1,Football League Fourth Division,4,H
+1972-04-10,1971/1972,Hartlepool United,Southport,1-0,1,0,Football League Fourth Division,4,H
+1972-04-10,1971/1972,Sheffield Wednesday,Charlton Athletic,2-1,2,1,Football League Second Division,2,H
+1972-04-10,1971/1972,Aston Villa,Oldham Athletic,1-0,1,0,Football League Third Division,3,H
+1972-04-11,1971/1972,Crystal Palace,Arsenal,2-2,2,2,Football League First Division,1,D
+1972-04-11,1971/1972,Huddersfield Town,Coventry City,0-1,0,1,Football League First Division,1,A
+1972-04-11,1971/1972,Southampton,Leicester City,1-0,1,0,Football League First Division,1,H
+1972-04-11,1971/1972,Bury,Doncaster Rovers,3-3,3,3,Football League Fourth Division,4,D
+1972-04-11,1971/1972,Newport County,Stockport County,1-0,1,0,Football League Fourth Division,4,H
+1972-04-11,1971/1972,Northampton Town,Southend United,1-1,1,1,Football League Fourth Division,4,D
+1972-04-11,1971/1972,Scunthorpe United,Cambridge United,2-1,2,1,Football League Fourth Division,4,H
+1972-04-11,1971/1972,Swansea City,Wrexham,0-2,0,2,Football League Third Division,3,A
+1972-04-11,1971/1972,Walsall,Plymouth Argyle,1-0,1,0,Football League Third Division,3,H
+1972-04-12,1971/1972,Manchester United,Manchester City,1-3,1,3,Football League First Division,1,A
+1972-04-12,1971/1972,Wolverhampton Wanderers,Chelsea,0-2,0,2,Football League First Division,1,A
+1972-04-12,1971/1972,Aldershot,Crewe Alexandra,0-0,0,0,Football League Fourth Division,4,D
+1972-04-12,1971/1972,Lincoln City,Barrow,3-2,3,2,Football League Fourth Division,4,H
+1972-04-12,1971/1972,Cardiff City,Leyton Orient,1-0,1,0,Football League Second Division,2,H
+1972-04-12,1971/1972,Notts County,Halifax Town,3-1,3,1,Football League Third Division,3,H
+1972-04-12,1971/1972,Torquay United,Aston Villa,2-1,2,1,Football League Third Division,3,H
+1972-04-12,1971/1972,Chesterfield,Rotherham United,0-1,0,1,Football League Third Division,3,A
+1972-04-12,1971/1972,Blackburn Rovers,Brighton & Hove Albion,2-2,2,2,Football League Third Division,3,D
+1972-04-12,1971/1972,Bolton Wanderers,Rochdale,2-1,2,1,Football League Third Division,3,H
+1972-04-14,1971/1972,Stockport County,Southend United,2-2,2,2,Football League Fourth Division,4,D
+1972-04-15,1971/1972,Coventry City,Manchester City,1-1,1,1,Football League First Division,1,D
+1972-04-15,1971/1972,Derby County,Huddersfield Town,3-0,3,0,Football League First Division,1,H
+1972-04-15,1971/1972,Everton,Leicester City,0-0,0,0,Football League First Division,1,D
+1972-04-15,1971/1972,Ipswich Town,Sheffield United,0-0,0,0,Football League First Division,1,D
+1972-04-15,1971/1972,Manchester United,Southampton,3-2,3,2,Football League First Division,1,H
+1972-04-15,1971/1972,Tottenham Hotspur,Chelsea,3-0,3,0,Football League First Division,1,H
+1972-04-15,1971/1972,Wolverhampton Wanderers,West Bromwich Albion,0-1,0,1,Football League First Division,1,A
+1972-04-15,1971/1972,West Ham United,Liverpool,0-2,0,2,Football League First Division,1,A
+1972-04-15,1971/1972,Cambridge United,Barrow,1-0,1,0,Football League Fourth Division,4,H
+1972-04-15,1971/1972,Doncaster Rovers,Chester,0-0,0,0,Football League Fourth Division,4,D
+1972-04-15,1971/1972,Gillingham,Brentford,0-1,0,1,Football League Fourth Division,4,A
+1972-04-15,1971/1972,Grimsby Town,Aldershot,3-3,3,3,Football League Fourth Division,4,D
+1972-04-15,1971/1972,Lincoln City,Darlington,0-1,0,1,Football League Fourth Division,4,A
+1972-04-15,1971/1972,Northampton Town,Bury,2-2,2,2,Football League Fourth Division,4,D
+1972-04-15,1971/1972,Reading,Scunthorpe United,2-0,2,0,Football League Fourth Division,4,H
+1972-04-15,1971/1972,Southport,Peterborough United,2-4,2,4,Football League Fourth Division,4,A
+1972-04-15,1971/1972,Workington,Newport County,3-0,3,0,Football League Fourth Division,4,H
+1972-04-15,1971/1972,Crewe Alexandra,Hartlepool United,1-2,1,2,Football League Fourth Division,4,A
+1972-04-15,1971/1972,Exeter City,Colchester United,3-3,3,3,Football League Fourth Division,4,D
+1972-04-15,1971/1972,Bristol City,Sunderland,3-1,3,1,Football League Second Division,2,H
+1972-04-15,1971/1972,Cardiff City,Carlisle United,3-1,3,1,Football League Second Division,2,H
+1972-04-15,1971/1972,Middlesbrough,Norwich City,1-0,1,0,Football League Second Division,2,H
+1972-04-15,1971/1972,Millwall,Hull City,2-1,2,1,Football League Second Division,2,H
+1972-04-15,1971/1972,Portsmouth,Luton Town,0-3,0,3,Football League Second Division,2,A
+1972-04-15,1971/1972,Queens Park Rangers,Charlton Athletic,2-0,2,0,Football League Second Division,2,H
+1972-04-15,1971/1972,Swindon Town,Burnley,0-1,0,1,Football League Second Division,2,A
+1972-04-15,1971/1972,Watford,Preston North End,1-0,1,0,Football League Second Division,2,H
+1972-04-15,1971/1972,Blackpool,Oxford United,2-0,2,0,Football League Second Division,2,H
+1972-04-15,1971/1972,Halifax Town,Swansea City,0-1,0,1,Football League Third Division,3,A
+1972-04-15,1971/1972,Mansfield Town,York City,0-0,0,0,Football League Third Division,3,D
+1972-04-15,1971/1972,Notts County,Bradford City,2-0,2,0,Football League Third Division,3,H
+1972-04-15,1971/1972,Plymouth Argyle,Bristol Rovers,2-1,2,1,Football League Third Division,3,H
+1972-04-15,1971/1972,Port Vale,Torquay United,0-0,0,0,Football League Third Division,3,D
+1972-04-15,1971/1972,Rochdale,Walsall,0-0,0,0,Football League Third Division,3,D
+1972-04-15,1971/1972,Wrexham,Rotherham United,0-0,0,0,Football League Third Division,3,D
+1972-04-15,1971/1972,Chesterfield,Brighton & Hove Albion,0-1,0,1,Football League Third Division,3,A
+1972-04-15,1971/1972,Blackburn Rovers,Tranmere Rovers,4-1,4,1,Football League Third Division,3,H
+1972-04-15,1971/1972,AFC Bournemouth,Barnsley,0-0,0,0,Football League Third Division,3,D
+1972-04-15,1971/1972,Bolton Wanderers,Shrewsbury Town,2-0,2,0,Football League Third Division,3,H
+1972-04-17,1971/1972,Brentford,Doncaster Rovers,2-1,2,1,Football League Fourth Division,4,H
+1972-04-17,1971/1972,Southend United,Northampton Town,4-1,4,1,Football League Fourth Division,4,H
+1972-04-17,1971/1972,Colchester United,Grimsby Town,0-1,0,1,Football League Fourth Division,4,A
+1972-04-17,1971/1972,Barrow,Darlington,0-4,0,4,Football League Fourth Division,4,A
+1972-04-17,1971/1972,Stockport County,Aldershot,0-0,0,0,Football League Fourth Division,4,D
+1972-04-17,1971/1972,Sunderland,Watford,5-0,5,0,Football League Second Division,2,H
+1972-04-17,1971/1972,Sheffield Wednesday,Leyton Orient,3-1,3,1,Football League Second Division,2,H
+1972-04-17,1971/1972,Preston North End,Middlesbrough,1-0,1,0,Football League Second Division,2,H
+1972-04-17,1971/1972,Rochdale,York City,1-2,1,2,Football League Third Division,3,A
+1972-04-17,1971/1972,Wrexham,Barnsley,2-0,2,0,Football League Third Division,3,H
+1972-04-18,1971/1972,Southampton,Chelsea,2-2,2,2,Football League First Division,1,D
+1972-04-18,1971/1972,Ipswich Town,Manchester City,2-1,2,1,Football League First Division,1,H
+1972-04-18,1971/1972,Coventry City,Sheffield United,3-2,3,2,Football League First Division,1,H
+1972-04-18,1971/1972,Newport County,Crewe Alexandra,2-0,2,0,Football League Fourth Division,4,H
+1972-04-18,1971/1972,Swindon Town,Luton Town,2-1,2,1,Football League Second Division,2,H
+1972-04-18,1971/1972,Fulham,Birmingham City,0-0,0,0,Football League Second Division,2,D
+1972-04-18,1971/1972,Walsall,Tranmere Rovers,4-1,4,1,Football League Third Division,3,H
+1972-04-18,1971/1972,Swansea City,Oldham Athletic,0-0,0,0,Football League Third Division,3,D
+1972-04-18,1971/1972,Rotherham United,Port Vale,3-0,3,0,Football League Third Division,3,H
+1972-04-18,1971/1972,Plymouth Argyle,Bradford City,1-4,1,4,Football League Third Division,3,A
+1972-04-18,1971/1972,Halifax Town,Notts County,3-1,3,1,Football League Third Division,3,H
+1972-04-18,1971/1972,Bristol Rovers,AFC Bournemouth,1-2,1,2,Football League Third Division,3,A
+1972-04-19,1971/1972,Newcastle United,Leeds United,1-0,1,0,Football League First Division,1,H
+1972-04-19,1971/1972,Workington,Bury,1-0,1,0,Football League Fourth Division,4,H
+1972-04-19,1971/1972,Reading,Southport,1-1,1,1,Football League Fourth Division,4,D
+1972-04-19,1971/1972,Exeter City,Hartlepool United,1-0,1,0,Football League Fourth Division,4,H
+1972-04-19,1971/1972,Chester,Scunthorpe United,0-0,0,0,Football League Fourth Division,4,D
+1972-04-19,1971/1972,Cambridge United,Peterborough United,2-5,2,5,Football League Fourth Division,4,A
+1972-04-19,1971/1972,Gillingham,Lincoln City,3-3,3,3,Football League Fourth Division,4,D
+1972-04-19,1971/1972,Chesterfield,Aston Villa,0-4,0,4,Football League Third Division,3,A
+1972-04-19,1971/1972,Brighton & Hove Albion,Blackburn Rovers,3-0,3,0,Football League Third Division,3,H
+1972-04-19,1971/1972,Shrewsbury Town,Mansfield Town,4-2,4,2,Football League Third Division,3,H
+1972-04-19,1971/1972,Bolton Wanderers,Torquay United,2-0,2,0,Football League Third Division,3,H
+1972-04-21,1971/1972,Colchester United,Stockport County,3-2,3,2,Football League Fourth Division,4,H
+1972-04-21,1971/1972,Southend United,Cambridge United,1-2,1,2,Football League Fourth Division,4,A
+1972-04-21,1971/1972,Tranmere Rovers,Port Vale,3-2,3,2,Football League Third Division,3,H
+1972-04-21,1971/1972,Walsall,Halifax Town,0-0,0,0,Football League Third Division,3,D
+1972-04-22,1971/1972,Sheffield United,Crystal Palace,1-0,1,0,Football League First Division,1,H
+1972-04-22,1971/1972,Arsenal,West Ham United,2-1,2,1,Football League First Division,1,H
+1972-04-22,1971/1972,Chelsea,Newcastle United,3-3,3,3,Football League First Division,1,D
+1972-04-22,1971/1972,Huddersfield Town,Wolverhampton Wanderers,0-1,0,1,Football League First Division,1,A
+1972-04-22,1971/1972,Leicester City,Coventry City,1-0,1,0,Football League First Division,1,H
+1972-04-22,1971/1972,Liverpool,Ipswich Town,2-0,2,0,Football League First Division,1,H
+1972-04-22,1971/1972,Manchester City,Derby County,2-0,2,0,Football League First Division,1,H
+1972-04-22,1971/1972,Nottingham Forest,Manchester United,0-0,0,0,Football League First Division,1,D
+1972-04-22,1971/1972,Southampton,Tottenham Hotspur,0-0,0,0,Football League First Division,1,D
+1972-04-22,1971/1972,Stoke City,Everton,1-1,1,1,Football League First Division,1,D
+1972-04-22,1971/1972,West Bromwich Albion,Leeds United,0-1,0,1,Football League First Division,1,A
+1972-04-22,1971/1972,Aldershot,Lincoln City,0-0,0,0,Football League Fourth Division,4,D
+1972-04-22,1971/1972,Chester,Crewe Alexandra,0-0,0,0,Football League Fourth Division,4,D
+1972-04-22,1971/1972,Brentford,Exeter City,1-0,1,0,Football League Fourth Division,4,H
+1972-04-22,1971/1972,Bury,Grimsby Town,1-1,1,1,Football League Fourth Division,4,D
+1972-04-22,1971/1972,Darlington,Southport,0-0,0,0,Football League Fourth Division,4,D
+1972-04-22,1971/1972,Hartlepool United,Northampton Town,2-0,2,0,Football League Fourth Division,4,H
+1972-04-22,1971/1972,Newport County,Reading,2-1,2,1,Football League Fourth Division,4,H
+1972-04-22,1971/1972,Peterborough United,Doncaster Rovers,2-0,2,0,Football League Fourth Division,4,H
+1972-04-22,1971/1972,Scunthorpe United,Gillingham,3-3,3,3,Football League Fourth Division,4,D
+1972-04-22,1971/1972,Barrow,Workington,2-0,2,0,Football League Fourth Division,4,H
+1972-04-22,1971/1972,Sunderland,Queens Park Rangers,0-1,0,1,Football League Second Division,2,A
+1972-04-22,1971/1972,Oxford United,Cardiff City,1-0,1,0,Football League Second Division,2,H
+1972-04-22,1971/1972,Preston North End,Blackpool,1-4,1,4,Football League Second Division,2,A
+1972-04-22,1971/1972,Birmingham City,Middlesbrough,1-1,1,1,Football League Second Division,2,D
+1972-04-22,1971/1972,Burnley,Millwall,2-0,2,0,Football League Second Division,2,H
+1972-04-22,1971/1972,Carlisle United,Fulham,3-1,3,1,Football League Second Division,2,H
+1972-04-22,1971/1972,Charlton Athletic,Portsmouth,1-1,1,1,Football League Second Division,2,D
+1972-04-22,1971/1972,Hull City,Sheffield Wednesday,1-0,1,0,Football League Second Division,2,H
+1972-04-22,1971/1972,Leyton Orient,Watford,1-0,1,0,Football League Second Division,2,H
+1972-04-22,1971/1972,Luton Town,Bristol City,0-0,0,0,Football League Second Division,2,D
+1972-04-22,1971/1972,Norwich City,Swindon Town,1-0,1,0,Football League Second Division,2,H
+1972-04-22,1971/1972,York City,AFC Bournemouth,0-2,0,2,Football League Third Division,3,A
+1972-04-22,1971/1972,Brighton & Hove Albion,Bolton Wanderers,1-1,1,1,Football League Third Division,3,D
+1972-04-22,1971/1972,Bristol Rovers,Wrexham,3-1,3,1,Football League Third Division,3,H
+1972-04-22,1971/1972,Rotherham United,Rochdale,5-1,5,1,Football League Third Division,3,H
+1972-04-22,1971/1972,Shrewsbury Town,Plymouth Argyle,1-2,1,2,Football League Third Division,3,A
+1972-04-22,1971/1972,Swansea City,Chesterfield,1-3,1,3,Football League Third Division,3,A
+1972-04-22,1971/1972,Bradford City,Aston Villa,0-1,0,1,Football League Third Division,3,A
+1972-04-22,1971/1972,Torquay United,Mansfield Town,0-1,0,1,Football League Third Division,3,A
+1972-04-22,1971/1972,Barnsley,Notts County,2-1,2,1,Football League Third Division,3,H
+1972-04-24,1971/1972,Chelsea,Stoke City,2-0,2,0,Football League First Division,1,H
+1972-04-24,1971/1972,Darlington,Hartlepool United,1-2,1,2,Football League Fourth Division,4,A
+1972-04-24,1971/1972,Colchester United,Newport County,2-3,2,3,Football League Fourth Division,4,A
+1972-04-24,1971/1972,Barrow,Brentford,0-3,0,3,Football League Fourth Division,4,A
+1972-04-24,1971/1972,Leyton Orient,Norwich City,1-2,1,2,Football League Second Division,2,A
+1972-04-24,1971/1972,Blackpool,Portsmouth,1-2,1,2,Football League Second Division,2,A
+1972-04-24,1971/1972,York City,Oldham Athletic,0-0,0,0,Football League Third Division,3,D
+1972-04-24,1971/1972,Rochdale,Bolton Wanderers,2-2,2,2,Football League Third Division,3,D
+1972-04-24,1971/1972,Mansfield Town,Aston Villa,1-1,1,1,Football League Third Division,3,D
+1972-04-24,1971/1972,Tranmere Rovers,Barnsley,0-0,0,0,Football League Third Division,3,D
+1972-04-25,1971/1972,Nottingham Forest,Wolverhampton Wanderers,1-3,1,3,Football League First Division,1,A
+1972-04-25,1971/1972,Arsenal,Manchester United,3-0,3,0,Football League First Division,1,H
+1972-04-25,1971/1972,Northampton Town,Southport,0-0,0,0,Football League Fourth Division,4,D
+1972-04-25,1971/1972,Doncaster Rovers,Grimsby Town,2-1,2,1,Football League Fourth Division,4,H
+1972-04-25,1971/1972,Bury,Peterborough United,1-1,1,1,Football League Fourth Division,4,D
+1972-04-25,1971/1972,Scunthorpe United,Southend United,1-1,1,1,Football League Fourth Division,4,D
+1972-04-25,1971/1972,Swindon Town,Watford,2-0,2,0,Football League Second Division,2,H
+1972-04-25,1971/1972,Charlton Athletic,Millwall,0-2,0,2,Football League Second Division,2,A
+1972-04-25,1971/1972,Carlisle United,Sunderland,1-2,1,2,Football League Second Division,2,A
+1972-04-25,1971/1972,Burnley,Preston North End,1-0,1,0,Football League Second Division,2,H
+1972-04-25,1971/1972,Birmingham City,Hull City,2-0,2,0,Football League Second Division,2,H
+1972-04-25,1971/1972,Queens Park Rangers,Fulham,0-0,0,0,Football League Second Division,2,D
+1972-04-25,1971/1972,Walsall,Shrewsbury Town,4-1,4,1,Football League Third Division,3,H
+1972-04-25,1971/1972,Plymouth Argyle,Halifax Town,1-1,1,1,Football League Third Division,3,D
+1972-04-25,1971/1972,Bristol Rovers,Swansea City,2-1,2,1,Football League Third Division,3,H
+1972-04-26,1971/1972,Crystal Palace,Stoke City,2-0,2,0,Football League First Division,1,H
+1972-04-26,1971/1972,Exeter City,Workington,0-2,0,2,Football League Fourth Division,4,A
+1972-04-26,1971/1972,Chester,Aldershot,0-0,0,0,Football League Fourth Division,4,D
+1972-04-26,1971/1972,Reading,Stockport County,2-2,2,2,Football League Fourth Division,4,D
+1972-04-26,1971/1972,Lincoln City,Crewe Alexandra,0-0,0,0,Football League Fourth Division,4,D
+1972-04-26,1971/1972,Cambridge United,Gillingham,2-1,2,1,Football League Fourth Division,4,H
+1972-04-26,1971/1972,Sheffield Wednesday,Middlesbrough,1-0,1,0,Football League Second Division,2,H
+1972-04-26,1971/1972,Cardiff City,Bristol City,2-3,2,3,Football League Second Division,2,A
+1972-04-26,1971/1972,Notts County,Port Vale,2-1,2,1,Football League Third Division,3,H
+1972-04-26,1971/1972,Bradford City,Torquay United,0-1,0,1,Football League Third Division,3,A
+1972-04-26,1971/1972,Brighton & Hove Albion,Rotherham United,2-1,2,1,Football League Third Division,3,H
+1972-04-26,1971/1972,Blackburn Rovers,AFC Bournemouth,2-1,2,1,Football League Third Division,3,H
+1972-04-27,1971/1972,West Bromwich Albion,Chelsea,4-0,4,0,Football League First Division,1,H
+1972-04-28,1971/1972,Wolverhampton Wanderers,Sheffield United,1-2,1,2,Football League First Division,1,A
+1972-04-28,1971/1972,Stockport County,Newport County,4-4,4,4,Football League Fourth Division,4,D
+1972-04-28,1971/1972,Southport,Hartlepool United,1-0,1,0,Football League Fourth Division,4,H
+1972-04-29,1971/1972,Crystal Palace,Huddersfield Town,0-0,0,0,Football League First Division,1,D
+1972-04-29,1971/1972,Manchester United,Stoke City,3-0,3,0,Football League First Division,1,H
+1972-04-29,1971/1972,Tottenham Hotspur,Leicester City,4-3,4,3,Football League First Division,1,H
+1972-04-29,1971/1972,Cambridge United,Scunthorpe United,2-0,2,0,Football League Fourth Division,4,H
+1972-04-29,1971/1972,Crewe Alexandra,Aldershot,2-1,2,1,Football League Fourth Division,4,H
+1972-04-29,1971/1972,Lincoln City,Chester,4-0,4,0,Football League Fourth Division,4,H
+1972-04-29,1971/1972,Exeter City,Barrow,7-1,7,1,Football League Fourth Division,4,H
+1972-04-29,1971/1972,Gillingham,Southend United,0-0,0,0,Football League Fourth Division,4,D
+1972-04-29,1971/1972,Grimsby Town,Peterborough United,3-2,3,2,Football League Fourth Division,4,H
+1972-04-29,1971/1972,Northampton Town,Darlington,1-2,1,2,Football League Fourth Division,4,A
+1972-04-29,1971/1972,Reading,Colchester United,2-4,2,4,Football League Fourth Division,4,A
+1972-04-29,1971/1972,Workington,Brentford,3-0,3,0,Football League Fourth Division,4,H
+1972-04-29,1971/1972,Doncaster Rovers,Bury,4-1,4,1,Football League Fourth Division,4,H
+1972-04-29,1971/1972,Blackpool,Charlton Athletic,5-0,5,0,Football League Second Division,2,H
+1972-04-29,1971/1972,Bristol City,Oxford United,4-2,4,2,Football League Second Division,2,H
+1972-04-29,1971/1972,Cardiff City,Luton Town,1-1,1,1,Football League Second Division,2,D
+1972-04-29,1971/1972,Middlesbrough,Hull City,3-0,3,0,Football League Second Division,2,H
+1972-04-29,1971/1972,Fulham,Sunderland,0-0,0,0,Football League Second Division,2,D
+1972-04-29,1971/1972,Portsmouth,Burnley,1-2,1,2,Football League Second Division,2,A
+1972-04-29,1971/1972,Queens Park Rangers,Carlisle United,3-0,3,0,Football League Second Division,2,H
+1972-04-29,1971/1972,Sheffield Wednesday,Birmingham City,1-2,1,2,Football League Second Division,2,A
+1972-04-29,1971/1972,Swindon Town,Leyton Orient,2-2,2,2,Football League Second Division,2,D
+1972-04-29,1971/1972,Watford,Norwich City,1-1,1,1,Football League Second Division,2,D
+1972-04-29,1971/1972,Millwall,Preston North End,2-0,2,0,Football League Second Division,2,H
+1972-04-29,1971/1972,Notts County,Tranmere Rovers,1-0,1,0,Football League Third Division,3,H
+1972-04-29,1971/1972,Port Vale,Barnsley,1-0,1,0,Football League Third Division,3,H
+1972-04-29,1971/1972,Rochdale,Brighton & Hove Albion,1-2,1,2,Football League Third Division,3,A
+1972-04-29,1971/1972,Wrexham,Swansea City,2-0,2,0,Football League Third Division,3,H
+1972-04-29,1971/1972,York City,Blackburn Rovers,0-1,0,1,Football League Third Division,3,A
+1972-04-29,1971/1972,Mansfield Town,Bradford City,1-1,1,1,Football League Third Division,3,D
+1972-04-29,1971/1972,Halifax Town,Shrewsbury Town,0-0,0,0,Football League Third Division,3,D
+1972-04-29,1971/1972,AFC Bournemouth,Oldham Athletic,2-0,2,0,Football League Third Division,3,H
+1972-04-29,1971/1972,Bolton Wanderers,Rotherham United,2-2,2,2,Football League Third Division,3,D
+1972-04-29,1971/1972,Chesterfield,Bristol Rovers,1-3,1,3,Football League Third Division,3,A
+1972-04-29,1971/1972,Aston Villa,Torquay United,5-1,5,1,Football League Third Division,3,H
+1972-05-01,1971/1972,Leeds United,Chelsea,2-0,2,0,Football League First Division,1,H
+1972-05-01,1971/1972,Derby County,Liverpool,1-0,1,0,Football League First Division,1,H
+1972-05-01,1971/1972,Coventry City,Arsenal,0-1,0,1,Football League First Division,1,A
+1972-05-01,1971/1972,West Ham United,Southampton,1-0,1,0,Football League First Division,1,H
+1972-05-01,1971/1972,Newport County,Scunthorpe United,1-0,1,0,Football League Fourth Division,4,H
+1972-05-01,1971/1972,Darlington,Gillingham,0-0,0,0,Football League Fourth Division,4,D
+1972-05-01,1971/1972,Peterborough United,Reading,3-2,3,2,Football League Fourth Division,4,H
+1972-05-01,1971/1972,Preston North End,Swindon Town,2-2,2,2,Football League Second Division,2,D
+1972-05-01,1971/1972,Mansfield Town,Wrexham,1-1,1,1,Football League Third Division,3,D
+1972-05-02,1971/1972,Everton,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1972-05-02,1971/1972,Grimsby Town,Exeter City,3-0,3,0,Football League Fourth Division,4,H
+1972-05-02,1971/1972,Leyton Orient,Birmingham City,0-1,0,1,Football League Second Division,2,A
+1972-05-02,1971/1972,Queens Park Rangers,Cardiff City,3-0,3,0,Football League Second Division,2,H
+1972-05-02,1971/1972,Bristol Rovers,Chesterfield,3-1,3,1,Football League Third Division,3,H
+1972-05-02,1971/1972,Plymouth Argyle,Swansea City,4-1,4,1,Football League Third Division,3,H
+1972-05-02,1971/1972,Rotherham United,Bolton Wanderers,2-0,2,0,Football League Third Division,3,H
+1972-05-03,1971/1972,Newcastle United,West Bromwich Albion,4-2,4,2,Football League First Division,1,H
+1972-05-03,1971/1972,Southend United,Gillingham,2-2,2,2,Football League Fourth Division,4,D
+1972-05-03,1971/1972,Crewe Alexandra,Newport County,1-2,1,2,Football League Fourth Division,4,A
+1972-05-03,1971/1972,Aldershot,Stockport County,4-0,4,0,Football League Fourth Division,4,H
+1972-05-03,1971/1972,Shrewsbury Town,Halifax Town,3-0,3,0,Football League Third Division,3,H
+1972-05-03,1971/1972,AFC Bournemouth,Tranmere Rovers,0-0,0,0,Football League Third Division,3,D
+1972-05-03,1971/1972,Brighton & Hove Albion,Rochdale,1-1,1,1,Football League Third Division,3,D
+1972-05-03,1971/1972,Notts County,Torquay United,2-1,2,1,Football League Third Division,3,H
+1972-05-04,1971/1972,Southport,Reading,5-2,5,2,Football League Fourth Division,4,H
+1972-05-05,1971/1972,Stoke City,West Bromwich Albion,1-1,1,1,Football League First Division,1,D
+1972-05-05,1971/1972,Aston Villa,Chesterfield,1-0,1,0,Football League Third Division,3,H
+1972-05-05,1971/1972,Oldham Athletic,Rotherham United,5-1,5,1,Football League Third Division,3,H
+1972-05-05,1971/1972,Torquay United,Bolton Wanderers,1-1,1,1,Football League Third Division,3,D
+1972-05-08,1971/1972,Newcastle United,Stoke City,0-0,0,0,Football League First Division,1,D
+1972-05-08,1971/1972,Arsenal,Liverpool,0-0,0,0,Football League First Division,1,D
+1972-05-08,1971/1972,Wolverhampton Wanderers,Leeds United,2-1,2,1,Football League First Division,1,H
+1972-05-08,1971/1972,Tranmere Rovers,Notts County,2-1,2,1,Football League Third Division,3,H
+1972-05-08,1971/1972,Blackburn Rovers,Halifax Town,2-0,2,0,Football League Third Division,3,H
+1972-05-08,1971/1972,Port Vale,Rotherham United,1-2,1,2,Football League Third Division,3,A
+1972-05-10,1971/1972,Bradford City,Bolton Wanderers,0-3,0,3,Football League Third Division,3,A
+1972-05-10,1971/1972,Tranmere Rovers,Shrewsbury Town,0-4,0,4,Football League Third Division,3,A
+1972-05-11,1971/1972,Arsenal,Tottenham Hotspur,0-2,0,2,Football League First Division,1,A
+1972-05-12,1971/1972,Port Vale,Rochdale,1-1,1,1,Football League Third Division,3,D
+1972-05-15,1971/1972,Tranmere Rovers,Chesterfield,1-2,1,2,Football League Third Division,3,A

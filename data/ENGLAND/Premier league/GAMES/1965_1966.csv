@@ -1,0 +1,2029 @@
+Date,Season,HomeTeam,AwayTeam,Score,hGoal,aGoal,Division,Tier,Result
+1965-08-21,1965/1966,Arsenal,Stoke City,2-1,2,1,Football League First Division,1,H
+1965-08-21,1965/1966,Blackpool,Fulham,2-2,2,2,Football League First Division,1,D
+1965-08-21,1965/1966,Chelsea,Burnley,1-1,1,1,Football League First Division,1,D
+1965-08-21,1965/1966,Everton,Northampton Town,5-2,5,2,Football League First Division,1,H
+1965-08-21,1965/1966,Leeds United,Sunderland,1-0,1,0,Football League First Division,1,H
+1965-08-21,1965/1966,Leicester City,Liverpool,1-3,1,3,Football League First Division,1,A
+1965-08-21,1965/1966,Manchester United,Sheffield Wednesday,1-0,1,0,Football League First Division,1,H
+1965-08-21,1965/1966,Newcastle United,Nottingham Forest,2-2,2,2,Football League First Division,1,D
+1965-08-21,1965/1966,West Bromwich Albion,West Ham United,3-0,3,0,Football League First Division,1,H
+1965-08-21,1965/1966,Sheffield United,Aston Villa,1-0,1,0,Football League First Division,1,H
+1965-08-21,1965/1966,Barrow,Wrexham,4-2,4,2,Football League Fourth Division,4,H
+1965-08-21,1965/1966,Bradford City,Torquay United,4-1,4,1,Football League Fourth Division,4,H
+1965-08-21,1965/1966,Notts County,Darlington,0-0,0,0,Football League Fourth Division,4,D
+1965-08-21,1965/1966,Chesterfield,Newport County,1-2,1,2,Football League Fourth Division,4,A
+1965-08-21,1965/1966,Crewe Alexandra,Barnsley,0-1,0,1,Football League Fourth Division,4,A
+1965-08-21,1965/1966,Doncaster Rovers,Lincoln City,4-0,4,0,Football League Fourth Division,4,H
+1965-08-21,1965/1966,Halifax Town,Tranmere Rovers,2-2,2,2,Football League Fourth Division,4,D
+1965-08-21,1965/1966,Hartlepool United,Southport,3-1,3,1,Football League Fourth Division,4,H
+1965-08-21,1965/1966,Luton Town,Bradford Park Avenue,3-1,3,1,Football League Fourth Division,4,H
+1965-08-21,1965/1966,Port Vale,Colchester United,1-0,1,0,Football League Fourth Division,4,H
+1965-08-21,1965/1966,Rochdale,Aldershot,1-0,1,0,Football League Fourth Division,4,H
+1965-08-21,1965/1966,Chester,Stockport County,1-0,1,0,Football League Fourth Division,4,H
+1965-08-21,1965/1966,Portsmouth,Plymouth Argyle,4-1,4,1,Football League Second Division,2,H
+1965-08-21,1965/1966,Birmingham City,Crystal Palace,2-1,2,1,Football League Second Division,2,H
+1965-08-21,1965/1966,Bristol City,Rotherham United,2-1,2,1,Football League Second Division,2,H
+1965-08-21,1965/1966,Cardiff City,Bury,1-0,1,0,Football League Second Division,2,H
+1965-08-21,1965/1966,Carlisle United,Norwich City,4-1,4,1,Football League Second Division,2,H
+1965-08-21,1965/1966,Coventry City,Wolverhampton Wanderers,2-1,2,1,Football League Second Division,2,H
+1965-08-21,1965/1966,Derby County,Southampton,0-3,0,3,Football League Second Division,2,A
+1965-08-21,1965/1966,Ipswich Town,Preston North End,1-0,1,0,Football League Second Division,2,H
+1965-08-21,1965/1966,Leyton Orient,Huddersfield Town,0-2,0,2,Football League Second Division,2,A
+1965-08-21,1965/1966,Middlesbrough,Manchester City,1-1,1,1,Football League Second Division,2,D
+1965-08-21,1965/1966,Bolton Wanderers,Charlton Athletic,4-2,4,2,Football League Second Division,2,H
+1965-08-21,1965/1966,Swindon Town,Oxford United,0-0,0,0,Football League Third Division,3,D
+1965-08-21,1965/1966,Reading,Watford,1-2,1,2,Football League Third Division,3,A
+1965-08-21,1965/1966,Peterborough United,Gillingham,1-0,1,0,Football League Third Division,3,H
+1965-08-21,1965/1966,Southend United,Swansea City,2-0,2,0,Football League Third Division,3,H
+1965-08-21,1965/1966,Mansfield Town,Brighton & Hove Albion,3-1,3,1,Football League Third Division,3,H
+1965-08-21,1965/1966,Hull City,Scunthorpe United,3-2,3,2,Football League Third Division,3,H
+1965-08-21,1965/1966,Grimsby Town,Bristol Rovers,1-1,1,1,Football League Third Division,3,D
+1965-08-21,1965/1966,Millwall,Workington,2-0,2,0,Football League Third Division,3,H
+1965-08-21,1965/1966,Exeter City,Oldham Athletic,4-0,4,0,Football League Third Division,3,H
+1965-08-21,1965/1966,Brentford,Queens Park Rangers,6-1,6,1,Football League Third Division,3,H
+1965-08-21,1965/1966,Shrewsbury Town,York City,4-1,4,1,Football League Third Division,3,H
+1965-08-21,1965/1966,AFC Bournemouth,Walsall,0-1,0,1,Football League Third Division,3,A
+1965-08-23,1965/1966,West Ham United,Sunderland,1-1,1,1,Football League First Division,1,D
+1965-08-23,1965/1966,Aston Villa,Leeds United,0-2,0,2,Football League First Division,1,A
+1965-08-23,1965/1966,Colchester United,Halifax Town,1-0,1,0,Football League Fourth Division,4,H
+1965-08-23,1965/1966,Wrexham,Luton Town,2-0,2,0,Football League Fourth Division,4,H
+1965-08-23,1965/1966,Tranmere Rovers,Chester,1-0,1,0,Football League Fourth Division,4,H
+1965-08-23,1965/1966,Stockport County,Notts County,1-3,1,3,Football League Fourth Division,4,A
+1965-08-23,1965/1966,Southport,Barrow,1-1,1,1,Football League Fourth Division,4,D
+1965-08-23,1965/1966,Darlington,Lincoln City,0-2,0,2,Football League Fourth Division,4,A
+1965-08-23,1965/1966,Chesterfield,Aldershot,1-1,1,1,Football League Fourth Division,4,D
+1965-08-23,1965/1966,Preston North End,Portsmouth,4-1,4,1,Football League Second Division,2,H
+1965-08-23,1965/1966,Queens Park Rangers,Brighton & Hove Albion,4-1,4,1,Football League Third Division,3,H
+1965-08-23,1965/1966,Peterborough United,Millwall,0-2,0,2,Football League Third Division,3,A
+1965-08-23,1965/1966,York City,Swindon Town,0-2,0,2,Football League Third Division,3,A
+1965-08-24,1965/1966,Nottingham Forest,Manchester United,4-2,4,2,Football League First Division,1,H
+1965-08-24,1965/1966,Burnley,Blackpool,3-1,3,1,Football League First Division,1,H
+1965-08-24,1965/1966,Doncaster Rovers,Hartlepool United,4-0,4,0,Football League Fourth Division,4,H
+1965-08-24,1965/1966,Bradford Park Avenue,Rochdale,1-2,1,2,Football League Fourth Division,4,A
+1965-08-24,1965/1966,Barnsley,Port Vale,1-0,1,0,Football League Fourth Division,4,H
+1965-08-24,1965/1966,Rotherham United,Leyton Orient,2-1,2,1,Football League Second Division,2,H
+1965-08-24,1965/1966,Huddersfield Town,Ipswich Town,1-0,1,0,Football League Second Division,2,H
+1965-08-24,1965/1966,Bury,Coventry City,1-1,1,1,Football League Second Division,2,D
+1965-08-24,1965/1966,Watford,Hull City,1-1,1,1,Football League Third Division,3,D
+1965-08-24,1965/1966,Walsall,Workington,1-1,1,1,Football League Third Division,3,D
+1965-08-24,1965/1966,Bristol Rovers,Shrewsbury Town,3-2,3,2,Football League Third Division,3,H
+1965-08-24,1965/1966,Grimsby Town,Brentford,3-2,3,2,Football League Third Division,3,H
+1965-08-24,1965/1966,AFC Bournemouth,Swansea City,2-1,2,1,Football League Third Division,3,H
+1965-08-25,1965/1966,Tottenham Hotspur,Leicester City,4-2,4,2,Football League First Division,1,H
+1965-08-25,1965/1966,Stoke City,Chelsea,2-2,2,2,Football League First Division,1,D
+1965-08-25,1965/1966,Sheffield Wednesday,Everton,3-1,3,1,Football League First Division,1,H
+1965-08-25,1965/1966,Northampton Town,Arsenal,1-1,1,1,Football League First Division,1,D
+1965-08-25,1965/1966,Newcastle United,West Bromwich Albion,0-1,0,1,Football League First Division,1,A
+1965-08-25,1965/1966,Liverpool,Sheffield United,0-1,0,1,Football League First Division,1,A
+1965-08-25,1965/1966,Fulham,Blackburn Rovers,5-2,5,2,Football League First Division,1,H
+1965-08-25,1965/1966,Bradford City,Crewe Alexandra,0-1,0,1,Football League Fourth Division,4,A
+1965-08-25,1965/1966,Torquay United,Newport County,1-0,1,0,Football League Fourth Division,4,H
+1965-08-25,1965/1966,Norwich City,Bristol City,0-0,0,0,Football League Second Division,2,D
+1965-08-25,1965/1966,Southampton,Carlisle United,1-0,1,0,Football League Second Division,2,H
+1965-08-25,1965/1966,Plymouth Argyle,Charlton Athletic,3-0,3,0,Football League Second Division,2,H
+1965-08-25,1965/1966,Manchester City,Wolverhampton Wanderers,2-1,2,1,Football League Second Division,2,H
+1965-08-25,1965/1966,Cardiff City,Derby County,2-1,2,1,Football League Second Division,2,H
+1965-08-25,1965/1966,Birmingham City,Middlesbrough,1-1,1,1,Football League Second Division,2,D
+1965-08-25,1965/1966,Crystal Palace,Bolton Wanderers,1-1,1,1,Football League Second Division,2,D
+1965-08-25,1965/1966,Scunthorpe United,Mansfield Town,0-1,0,1,Football League Third Division,3,A
+1965-08-25,1965/1966,Oxford United,Southend United,3-2,3,2,Football League Third Division,3,H
+1965-08-25,1965/1966,Oldham Athletic,Reading,2-2,2,2,Football League Third Division,3,D
+1965-08-25,1965/1966,Gillingham,Exeter City,1-1,1,1,Football League Third Division,3,D
+1965-08-27,1965/1966,Tottenham Hotspur,Blackpool,4-0,4,0,Football League First Division,1,H
+1965-08-27,1965/1966,Tranmere Rovers,Port Vale,1-0,1,0,Football League Fourth Division,4,H
+1965-08-27,1965/1966,Stockport County,Halifax Town,3-0,3,0,Football League Fourth Division,4,H
+1965-08-27,1965/1966,York City,Grimsby Town,1-1,1,1,Football League Third Division,3,D
+1965-08-28,1965/1966,Aston Villa,Leicester City,2-2,2,2,Football League First Division,1,D
+1965-08-28,1965/1966,Fulham,Chelsea,0-3,0,3,Football League First Division,1,A
+1965-08-28,1965/1966,Northampton Town,Manchester United,1-1,1,1,Football League First Division,1,D
+1965-08-28,1965/1966,Nottingham Forest,West Bromwich Albion,3-2,3,2,Football League First Division,1,H
+1965-08-28,1965/1966,Sheffield Wednesday,Newcastle United,1-0,1,0,Football League First Division,1,H
+1965-08-28,1965/1966,Stoke City,Everton,1-1,1,1,Football League First Division,1,D
+1965-08-28,1965/1966,Sunderland,Sheffield United,4-1,4,1,Football League First Division,1,H
+1965-08-28,1965/1966,West Ham United,Leeds United,2-1,2,1,Football League First Division,1,H
+1965-08-28,1965/1966,Burnley,Arsenal,2-2,2,2,Football League First Division,1,D
+1965-08-28,1965/1966,Newport County,Rochdale,1-1,1,1,Football League Fourth Division,4,D
+1965-08-28,1965/1966,Barnsley,Bradford City,4-2,4,2,Football League Fourth Division,4,H
+1965-08-28,1965/1966,Bradford Park Avenue,Barrow,2-3,2,3,Football League Fourth Division,4,A
+1965-08-28,1965/1966,Colchester United,Crewe Alexandra,1-1,1,1,Football League Fourth Division,4,D
+1965-08-28,1965/1966,Darlington,Chester,0-1,0,1,Football League Fourth Division,4,A
+1965-08-28,1965/1966,Southport,Doncaster Rovers,2-1,2,1,Football League Fourth Division,4,H
+1965-08-28,1965/1966,Torquay United,Chesterfield,2-0,2,0,Football League Fourth Division,4,H
+1965-08-28,1965/1966,Wrexham,Hartlepool United,1-1,1,1,Football League Fourth Division,4,D
+1965-08-28,1965/1966,Aldershot,Luton Town,3-1,3,1,Football League Fourth Division,4,H
+1965-08-28,1965/1966,Lincoln City,Notts County,1-2,1,2,Football League Fourth Division,4,A
+1965-08-28,1965/1966,Southampton,Portsmouth,2-2,2,2,Football League Second Division,2,D
+1965-08-28,1965/1966,Wolverhampton Wanderers,Carlisle United,3-0,3,0,Football League Second Division,2,H
+1965-08-28,1965/1966,Charlton Athletic,Ipswich Town,2-0,2,0,Football League Second Division,2,H
+1965-08-28,1965/1966,Crystal Palace,Leyton Orient,2-1,2,1,Football League Second Division,2,H
+1965-08-28,1965/1966,Huddersfield Town,Middlesbrough,6-0,6,0,Football League Second Division,2,H
+1965-08-28,1965/1966,Manchester City,Bristol City,2-2,2,2,Football League Second Division,2,D
+1965-08-28,1965/1966,Norwich City,Cardiff City,3-2,3,2,Football League Second Division,2,H
+1965-08-28,1965/1966,Plymouth Argyle,Bolton Wanderers,1-3,1,3,Football League Second Division,2,A
+1965-08-28,1965/1966,Rotherham United,Coventry City,1-1,1,1,Football League Second Division,2,D
+1965-08-28,1965/1966,Preston North End,Birmingham City,3-3,3,3,Football League Second Division,2,D
+1965-08-28,1965/1966,Bury,Derby County,4-1,4,1,Football League Second Division,2,H
+1965-08-28,1965/1966,Oldham Athletic,Peterborough United,2-4,2,4,Football League Third Division,3,A
+1965-08-28,1965/1966,Oxford United,Shrewsbury Town,0-1,0,1,Football League Third Division,3,A
+1965-08-28,1965/1966,Queens Park Rangers,Mansfield Town,1-2,1,2,Football League Third Division,3,A
+1965-08-28,1965/1966,Gillingham,Millwall,1-0,1,0,Football League Third Division,3,H
+1965-08-28,1965/1966,Scunthorpe United,Reading,2-0,2,0,Football League Third Division,3,H
+1965-08-28,1965/1966,Swansea City,Swindon Town,1-1,1,1,Football League Third Division,3,D
+1965-08-28,1965/1966,Walsall,Southend United,3-0,3,0,Football League Third Division,3,H
+1965-08-28,1965/1966,Watford,Exeter City,3-0,3,0,Football League Third Division,3,H
+1965-08-28,1965/1966,Workington,AFC Bournemouth,2-2,2,2,Football League Third Division,3,D
+1965-08-28,1965/1966,Bristol Rovers,Brentford,1-1,1,1,Football League Third Division,3,D
+1965-08-28,1965/1966,Brighton & Hove Albion,Hull City,1-2,1,2,Football League Third Division,3,A
+1965-08-30,1965/1966,Blackpool,Burnley,1-3,1,3,Football League First Division,1,A
+1965-08-30,1965/1966,Leyton Orient,Rotherham United,1-4,1,4,Football League Second Division,2,A
+1965-08-30,1965/1966,Wolverhampton Wanderers,Manchester City,2-4,2,4,Football League Second Division,2,A
+1965-08-31,1965/1966,Everton,Sheffield Wednesday,5-1,5,1,Football League First Division,1,H
+1965-08-31,1965/1966,Middlesbrough,Birmingham City,1-1,1,1,Football League Second Division,2,D
+1965-08-31,1965/1966,Ipswich Town,Huddersfield Town,2-2,2,2,Football League Second Division,2,D
+1965-08-31,1965/1966,Coventry City,Bury,1-0,1,0,Football League Second Division,2,H
+1965-08-31,1965/1966,Carlisle United,Southampton,1-0,1,0,Football League Second Division,2,H
+1965-08-31,1965/1966,Bristol City,Norwich City,0-0,0,0,Football League Second Division,2,D
+1965-08-31,1965/1966,Charlton Athletic,Plymouth Argyle,1-1,1,1,Football League Second Division,2,D
+1965-09-01,1965/1966,West Bromwich Albion,Newcastle United,1-2,1,2,Football League First Division,1,A
+1965-09-01,1965/1966,Sunderland,West Ham United,2-1,2,1,Football League First Division,1,H
+1965-09-01,1965/1966,Leeds United,Aston Villa,2-0,2,0,Football League First Division,1,H
+1965-09-01,1965/1966,Manchester United,Nottingham Forest,0-0,0,0,Football League First Division,1,D
+1965-09-01,1965/1966,Leicester City,Tottenham Hotspur,2-2,2,2,Football League First Division,1,D
+1965-09-01,1965/1966,Chelsea,Stoke City,1-2,1,2,Football League First Division,1,A
+1965-09-01,1965/1966,Blackburn Rovers,Fulham,3-2,3,2,Football League First Division,1,H
+1965-09-01,1965/1966,Sheffield United,Liverpool,0-0,0,0,Football League First Division,1,D
+1965-09-01,1965/1966,Portsmouth,Preston North End,4-1,4,1,Football League Second Division,2,H
+1965-09-01,1965/1966,Derby County,Cardiff City,1-5,1,5,Football League Second Division,2,A
+1965-09-01,1965/1966,Bolton Wanderers,Crystal Palace,3-0,3,0,Football League Second Division,2,H
+1965-09-01,1965/1966,Hull City,Swindon Town,1-0,1,0,Football League Third Division,3,H
+1965-09-03,1965/1966,Halifax Town,Darlington,2-2,2,2,Football League Fourth Division,4,D
+1965-09-03,1965/1966,Barnsley,Chesterfield,0-0,0,0,Football League Fourth Division,4,D
+1965-09-03,1965/1966,Carlisle United,Rotherham United,1-0,1,0,Football League Second Division,2,H
+1965-09-03,1965/1966,Shrewsbury Town,Swansea City,5-0,5,0,Football League Third Division,3,H
+1965-09-03,1965/1966,Reading,Brighton & Hove Albion,0-0,0,0,Football League Third Division,3,D
+1965-09-04,1965/1966,Arsenal,Chelsea,1-3,1,3,Football League First Division,1,A
+1965-09-04,1965/1966,Blackburn Rovers,Aston Villa,0-2,0,2,Football League First Division,1,A
+1965-09-04,1965/1966,Blackpool,Liverpool,2-3,2,3,Football League First Division,1,A
+1965-09-04,1965/1966,Everton,Burnley,1-0,1,0,Football League First Division,1,H
+1965-09-04,1965/1966,Leeds United,Nottingham Forest,2-1,2,1,Football League First Division,1,H
+1965-09-04,1965/1966,Leicester City,Sunderland,4-1,4,1,Football League First Division,1,H
+1965-09-04,1965/1966,Manchester United,Stoke City,1-1,1,1,Football League First Division,1,D
+1965-09-04,1965/1966,Newcastle United,Northampton Town,2-0,2,0,Football League First Division,1,H
+1965-09-04,1965/1966,Fulham,Tottenham Hotspur,0-2,0,2,Football League First Division,1,A
+1965-09-04,1965/1966,West Bromwich Albion,Sheffield Wednesday,4-2,4,2,Football League First Division,1,H
+1965-09-04,1965/1966,Sheffield United,West Ham United,5-3,5,3,Football League First Division,1,H
+1965-09-04,1965/1966,Doncaster Rovers,Wrexham,2-0,2,0,Football League Fourth Division,4,H
+1965-09-04,1965/1966,Bradford City,Colchester United,1-2,1,2,Football League Fourth Division,4,A
+1965-09-04,1965/1966,Chester,Lincoln City,4-2,4,2,Football League Fourth Division,4,H
+1965-09-04,1965/1966,Crewe Alexandra,Tranmere Rovers,1-2,1,2,Football League Fourth Division,4,A
+1965-09-04,1965/1966,Hartlepool United,Bradford Park Avenue,2-3,2,3,Football League Fourth Division,4,A
+1965-09-04,1965/1966,Luton Town,Newport County,2-1,2,1,Football League Fourth Division,4,H
+1965-09-04,1965/1966,Notts County,Southport,1-2,1,2,Football League Fourth Division,4,A
+1965-09-04,1965/1966,Rochdale,Torquay United,2-3,2,3,Football League Fourth Division,4,A
+1965-09-04,1965/1966,Barrow,Aldershot,2-2,2,2,Football League Fourth Division,4,D
+1965-09-04,1965/1966,Port Vale,Stockport County,2-0,2,0,Football League Fourth Division,4,H
+1965-09-04,1965/1966,Southampton,Bury,6-2,6,2,Football League Second Division,2,H
+1965-09-04,1965/1966,Leyton Orient,Preston North End,2-2,2,2,Football League Second Division,2,D
+1965-09-04,1965/1966,Middlesbrough,Crystal Palace,2-2,2,2,Football League Second Division,2,D
+1965-09-04,1965/1966,Derby County,Norwich City,3-1,3,1,Football League Second Division,2,H
+1965-09-04,1965/1966,Coventry City,Manchester City,3-3,3,3,Football League Second Division,2,D
+1965-09-04,1965/1966,Cardiff City,Wolverhampton Wanderers,1-4,1,4,Football League Second Division,2,A
+1965-09-04,1965/1966,Ipswich Town,Plymouth Argyle,4-1,4,1,Football League Second Division,2,H
+1965-09-04,1965/1966,Bolton Wanderers,Portsmouth,2-0,2,0,Football League Second Division,2,H
+1965-09-04,1965/1966,Birmingham City,Charlton Athletic,2-2,2,2,Football League Second Division,2,D
+1965-09-04,1965/1966,Bristol City,Huddersfield Town,2-1,2,1,Football League Second Division,2,H
+1965-09-04,1965/1966,Peterborough United,Watford,2-2,2,2,Football League Third Division,3,D
+1965-09-04,1965/1966,Gillingham,AFC Bournemouth,2-0,2,0,Football League Third Division,3,H
+1965-09-04,1965/1966,Grimsby Town,Oxford United,1-1,1,1,Football League Third Division,3,D
+1965-09-04,1965/1966,Hull City,Queens Park Rangers,1-3,1,3,Football League Third Division,3,A
+1965-09-04,1965/1966,Mansfield Town,Bristol Rovers,2-0,2,0,Football League Third Division,3,H
+1965-09-04,1965/1966,Exeter City,Scunthorpe United,4-0,4,0,Football League Third Division,3,H
+1965-09-04,1965/1966,Millwall,Oldham Athletic,1-0,1,0,Football League Third Division,3,H
+1965-09-04,1965/1966,Swindon Town,Walsall,0-0,0,0,Football League Third Division,3,D
+1965-09-04,1965/1966,Brentford,York City,0-1,0,1,Football League Third Division,3,A
+1965-09-06,1965/1966,Aston Villa,Sunderland,3-1,3,1,Football League First Division,1,H
+1965-09-06,1965/1966,Blackpool,Leicester City,4-0,4,0,Football League First Division,1,H
+1965-09-06,1965/1966,West Ham United,Liverpool,1-5,1,5,Football League First Division,1,A
+1965-09-06,1965/1966,Chesterfield,Wrexham,1-1,1,1,Football League Fourth Division,4,D
+1965-09-06,1965/1966,Stockport County,Tranmere Rovers,1-2,1,2,Football League Fourth Division,4,A
+1965-09-07,1965/1966,Nottingham Forest,Arsenal,0-1,0,1,Football League First Division,1,A
+1965-09-07,1965/1966,Everton,West Bromwich Albion,2-3,2,3,Football League First Division,1,A
+1965-09-07,1965/1966,Burnley,Northampton Town,4-1,4,1,Football League First Division,1,H
+1965-09-07,1965/1966,Huddersfield Town,Bolton Wanderers,1-0,1,0,Football League Second Division,2,H
+1965-09-07,1965/1966,Ipswich Town,Middlesbrough,2-1,2,1,Football League Second Division,2,H
+1965-09-07,1965/1966,Carlisle United,Derby County,2-1,2,1,Football League Second Division,2,H
+1965-09-07,1965/1966,Rotherham United,Wolverhampton Wanderers,4-3,4,3,Football League Second Division,2,H
+1965-09-07,1965/1966,Bury,Bristol City,1-2,1,2,Football League Second Division,2,A
+1965-09-07,1965/1966,Bristol Rovers,Swindon Town,0-1,0,1,Football League Third Division,3,A
+1965-09-08,1965/1966,Fulham,Sheffield United,0-0,0,0,Football League First Division,1,D
+1965-09-08,1965/1966,Newcastle United,Manchester United,1-2,1,2,Football League First Division,1,A
+1965-09-08,1965/1966,Stoke City,Blackburn Rovers,3-2,3,2,Football League First Division,1,H
+1965-09-08,1965/1966,Tottenham Hotspur,Leeds United,3-2,3,2,Football League First Division,1,H
+1965-09-08,1965/1966,Birmingham City,Leyton Orient,2-2,2,2,Football League Second Division,2,D
+1965-09-08,1965/1966,Crystal Palace,Portsmouth,4-1,4,1,Football League Second Division,2,H
+1965-09-08,1965/1966,Plymouth Argyle,Preston North End,0-1,0,1,Football League Second Division,2,A
+1965-09-08,1965/1966,Southampton,Coventry City,1-0,1,0,Football League Second Division,2,H
+1965-09-10,1965/1966,Northampton Town,West Bromwich Albion,3-4,3,4,Football League First Division,1,A
+1965-09-10,1965/1966,Tranmere Rovers,Bradford City,2-2,2,2,Football League Fourth Division,4,D
+1965-09-10,1965/1966,Stockport County,Crewe Alexandra,2-0,2,0,Football League Fourth Division,4,H
+1965-09-10,1965/1966,York City,Bristol Rovers,1-5,1,5,Football League Third Division,3,A
+1965-09-11,1965/1966,Liverpool,Fulham,2-1,2,1,Football League First Division,1,H
+1965-09-11,1965/1966,Aston Villa,Blackpool,3-0,3,0,Football League First Division,1,H
+1965-09-11,1965/1966,Burnley,Manchester United,3-0,3,0,Football League First Division,1,H
+1965-09-11,1965/1966,Leeds United,Sheffield United,2-2,2,2,Football League First Division,1,D
+1965-09-11,1965/1966,Sheffield Wednesday,Nottingham Forest,3-1,3,1,Football League First Division,1,H
+1965-09-11,1965/1966,Stoke City,Newcastle United,4-0,4,0,Football League First Division,1,H
+1965-09-11,1965/1966,Sunderland,Blackburn Rovers,1-0,1,0,Football League First Division,1,H
+1965-09-11,1965/1966,Tottenham Hotspur,Arsenal,2-2,2,2,Football League First Division,1,D
+1965-09-11,1965/1966,West Ham United,Leicester City,2-5,2,5,Football League First Division,1,A
+1965-09-11,1965/1966,Chelsea,Everton,3-1,3,1,Football League First Division,1,H
+1965-09-11,1965/1966,Aldershot,Hartlepool United,5-0,5,0,Football League Fourth Division,4,H
+1965-09-11,1965/1966,Torquay United,Luton Town,2-0,2,0,Football League Fourth Division,4,H
+1965-09-11,1965/1966,Chesterfield,Rochdale,4-1,4,1,Football League Fourth Division,4,H
+1965-09-11,1965/1966,Colchester United,Barnsley,4-0,4,0,Football League Fourth Division,4,H
+1965-09-11,1965/1966,Darlington,Port Vale,2-1,2,1,Football League Fourth Division,4,H
+1965-09-11,1965/1966,Lincoln City,Halifax Town,3-3,3,3,Football League Fourth Division,4,D
+1965-09-11,1965/1966,Newport County,Barrow,3-2,3,2,Football League Fourth Division,4,H
+1965-09-11,1965/1966,Notts County,Chester,3-3,3,3,Football League Fourth Division,4,D
+1965-09-11,1965/1966,Wrexham,Southport,3-1,3,1,Football League Fourth Division,4,H
+1965-09-11,1965/1966,Bradford Park Avenue,Doncaster Rovers,0-1,0,1,Football League Fourth Division,4,A
+1965-09-11,1965/1966,Wolverhampton Wanderers,Derby County,4-0,4,0,Football League Second Division,2,H
+1965-09-11,1965/1966,Charlton Athletic,Leyton Orient,3-0,3,0,Football League Second Division,2,H
+1965-09-11,1965/1966,Crystal Palace,Huddersfield Town,2-1,2,1,Football League Second Division,2,H
+1965-09-11,1965/1966,Manchester City,Carlisle United,2-1,2,1,Football League Second Division,2,H
+1965-09-11,1965/1966,Norwich City,Southampton,3-4,3,4,Football League Second Division,2,A
+1965-09-11,1965/1966,Plymouth Argyle,Birmingham City,6-1,6,1,Football League Second Division,2,H
+1965-09-11,1965/1966,Portsmouth,Ipswich Town,1-0,1,0,Football League Second Division,2,H
+1965-09-11,1965/1966,Preston North End,Middlesbrough,1-1,1,1,Football League Second Division,2,D
+1965-09-11,1965/1966,Rotherham United,Cardiff City,6-4,6,4,Football League Second Division,2,H
+1965-09-11,1965/1966,Bristol City,Coventry City,1-1,1,1,Football League Second Division,2,D
+1965-09-11,1965/1966,Workington,Swindon Town,0-3,0,3,Football League Third Division,3,A
+1965-09-11,1965/1966,Oxford United,Brentford,2-0,2,0,Football League Third Division,3,H
+1965-09-11,1965/1966,Oldham Athletic,Gillingham,5-3,5,3,Football League Third Division,3,H
+1965-09-11,1965/1966,Queens Park Rangers,Reading,0-2,0,2,Football League Third Division,3,A
+1965-09-11,1965/1966,Scunthorpe United,Peterborough United,1-1,1,1,Football League Third Division,3,D
+1965-09-11,1965/1966,Swansea City,Grimsby Town,1-0,1,0,Football League Third Division,3,H
+1965-09-11,1965/1966,Walsall,Shrewsbury Town,3-0,3,0,Football League Third Division,3,H
+1965-09-11,1965/1966,Watford,Millwall,0-1,0,1,Football League Third Division,3,A
+1965-09-11,1965/1966,Mansfield Town,Hull City,1-2,1,2,Football League Third Division,3,A
+1965-09-11,1965/1966,Brighton & Hove Albion,Exeter City,2-1,2,1,Football League Third Division,3,H
+1965-09-11,1965/1966,AFC Bournemouth,Southend United,0-0,0,0,Football League Third Division,3,D
+1965-09-13,1965/1966,Port Vale,Barnsley,1-1,1,1,Football League Fourth Division,4,D
+1965-09-13,1965/1966,Newport County,Torquay United,3-2,3,2,Football League Fourth Division,4,H
+1965-09-13,1965/1966,Hartlepool United,Doncaster Rovers,2-0,2,0,Football League Fourth Division,4,H
+1965-09-13,1965/1966,Barrow,Southport,3-3,3,3,Football League Fourth Division,4,D
+1965-09-13,1965/1966,Wolverhampton Wanderers,Rotherham United,4-1,4,1,Football League Second Division,2,H
+1965-09-13,1965/1966,Preston North End,Plymouth Argyle,2-0,2,0,Football League Second Division,2,H
+1965-09-13,1965/1966,Leyton Orient,Birmingham City,2-1,2,1,Football League Second Division,2,H
+1965-09-13,1965/1966,Millwall,Exeter City,3-0,3,0,Football League Third Division,3,H
+1965-09-13,1965/1966,Southend United,York City,2-3,2,3,Football League Third Division,3,A
+1965-09-14,1965/1966,Leicester City,Blackpool,0-3,0,3,Football League First Division,1,A
+1965-09-14,1965/1966,Arsenal,Nottingham Forest,1-0,1,0,Football League First Division,1,H
+1965-09-14,1965/1966,Rochdale,Bradford Park Avenue,2-3,2,3,Football League Fourth Division,4,A
+1965-09-14,1965/1966,Halifax Town,Colchester United,1-1,1,1,Football League Fourth Division,4,D
+1965-09-14,1965/1966,Middlesbrough,Ipswich Town,3-2,3,2,Football League Second Division,2,H
+1965-09-14,1965/1966,Coventry City,Southampton,5-1,5,1,Football League Second Division,2,H
+1965-09-14,1965/1966,Charlton Athletic,Cardiff City,5-2,5,2,Football League Second Division,2,H
+1965-09-14,1965/1966,Swansea City,Workington,1-6,1,6,Football League Third Division,3,A
+1965-09-14,1965/1966,Watford,Mansfield Town,2-1,2,1,Football League Third Division,3,H
+1965-09-14,1965/1966,Walsall,Peterborough United,2-0,2,0,Football League Third Division,3,H
+1965-09-14,1965/1966,Scunthorpe United,Queens Park Rangers,1-2,1,2,Football League Third Division,3,A
+1965-09-14,1965/1966,AFC Bournemouth,Oxford United,1-1,1,1,Football League Third Division,3,D
+1965-09-14,1965/1966,Brentford,Shrewsbury Town,4-0,4,0,Football League Third Division,3,H
+1965-09-15,1965/1966,Sheffield United,Fulham,2-0,2,0,Football League First Division,1,H
+1965-09-15,1965/1966,Sunderland,Aston Villa,2-0,2,0,Football League First Division,1,H
+1965-09-15,1965/1966,Northampton Town,Burnley,1-2,1,2,Football League First Division,1,A
+1965-09-15,1965/1966,Manchester United,Newcastle United,1-1,1,1,Football League First Division,1,D
+1965-09-15,1965/1966,Liverpool,West Ham United,1-1,1,1,Football League First Division,1,D
+1965-09-15,1965/1966,Leeds United,Tottenham Hotspur,2-0,2,0,Football League First Division,1,H
+1965-09-15,1965/1966,Chelsea,Sheffield Wednesday,1-1,1,1,Football League First Division,1,D
+1965-09-15,1965/1966,Blackburn Rovers,Stoke City,0-1,0,1,Football League First Division,1,A
+1965-09-15,1965/1966,West Bromwich Albion,Everton,1-1,1,1,Football League First Division,1,D
+1965-09-15,1965/1966,Chester,Tranmere Rovers,3-1,3,1,Football League Fourth Division,4,H
+1965-09-15,1965/1966,Aldershot,Chesterfield,1-3,1,3,Football League Fourth Division,4,A
+1965-09-15,1965/1966,Crewe Alexandra,Bradford City,7-1,7,1,Football League Fourth Division,4,H
+1965-09-15,1965/1966,Lincoln City,Darlington,4-1,4,1,Football League Fourth Division,4,H
+1965-09-15,1965/1966,Portsmouth,Crystal Palace,1-1,1,1,Football League Second Division,2,D
+1965-09-15,1965/1966,Norwich City,Manchester City,3-3,3,3,Football League Second Division,2,D
+1965-09-15,1965/1966,Derby County,Carlisle United,3-1,3,1,Football League Second Division,2,H
+1965-09-15,1965/1966,Bolton Wanderers,Huddersfield Town,1-1,1,1,Football League Second Division,2,D
+1965-09-15,1965/1966,Reading,Gillingham,2-2,2,2,Football League Third Division,3,D
+1965-09-15,1965/1966,Grimsby Town,Brighton & Hove Albion,3-1,3,1,Football League Third Division,3,H
+1965-09-16,1965/1966,Notts County,Stockport County,1-1,1,1,Football League Fourth Division,4,D
+1965-09-16,1965/1966,Luton Town,Wrexham,1-0,1,0,Football League Fourth Division,4,H
+1965-09-17,1965/1966,Southport,Bradford Park Avenue,2-1,2,1,Football League Fourth Division,4,H
+1965-09-17,1965/1966,Barnsley,Tranmere Rovers,4-0,4,0,Football League Fourth Division,4,H
+1965-09-17,1965/1966,Crewe Alexandra,Darlington,0-1,0,1,Football League Fourth Division,4,A
+1965-09-17,1965/1966,Doncaster Rovers,Aldershot,3-2,3,2,Football League Fourth Division,4,H
+1965-09-17,1965/1966,Carlisle United,Bristol City,5-0,5,0,Football League Second Division,2,H
+1965-09-17,1965/1966,Oldham Athletic,Southend United,1-0,1,0,Football League Third Division,3,H
+1965-09-17,1965/1966,Reading,Mansfield Town,2-1,2,1,Football League Third Division,3,H
+1965-09-17,1965/1966,Shrewsbury Town,Workington,1-1,1,1,Football League Third Division,3,D
+1965-09-18,1965/1966,Blackburn Rovers,West Ham United,1-2,1,2,Football League First Division,1,A
+1965-09-18,1965/1966,Blackpool,Sunderland,1-2,1,2,Football League First Division,1,A
+1965-09-18,1965/1966,Everton,Arsenal,3-1,3,1,Football League First Division,1,H
+1965-09-18,1965/1966,Fulham,Aston Villa,3-6,3,6,Football League First Division,1,A
+1965-09-18,1965/1966,Leicester City,Leeds United,3-3,3,3,Football League First Division,1,D
+1965-09-18,1965/1966,Manchester United,Chelsea,4-1,4,1,Football League First Division,1,H
+1965-09-18,1965/1966,Nottingham Forest,Northampton Town,1-1,1,1,Football League First Division,1,D
+1965-09-18,1965/1966,Newcastle United,Burnley,3-2,3,2,Football League First Division,1,H
+1965-09-18,1965/1966,Tottenham Hotspur,Liverpool,2-1,2,1,Football League First Division,1,H
+1965-09-18,1965/1966,West Bromwich Albion,Stoke City,6-2,6,2,Football League First Division,1,H
+1965-09-18,1965/1966,Sheffield United,Sheffield Wednesday,1-0,1,0,Football League First Division,1,H
+1965-09-18,1965/1966,Port Vale,Lincoln City,3-0,3,0,Football League Fourth Division,4,H
+1965-09-18,1965/1966,Chester,Wrexham,4-2,4,2,Football League Fourth Division,4,H
+1965-09-18,1965/1966,Barrow,Torquay United,2-0,2,0,Football League Fourth Division,4,H
+1965-09-18,1965/1966,Bradford City,Stockport County,1-7,1,7,Football League Fourth Division,4,A
+1965-09-18,1965/1966,Colchester United,Rochdale,2-0,2,0,Football League Fourth Division,4,H
+1965-09-18,1965/1966,Halifax Town,Notts County,0-1,0,1,Football League Fourth Division,4,A
+1965-09-18,1965/1966,Hartlepool United,Newport County,5-2,5,2,Football League Fourth Division,4,H
+1965-09-18,1965/1966,Luton Town,Chesterfield,1-2,1,2,Football League Fourth Division,4,A
+1965-09-18,1965/1966,Southampton,Wolverhampton Wanderers,9-3,9,3,Football League Second Division,2,H
+1965-09-18,1965/1966,Middlesbrough,Charlton Athletic,2-2,2,2,Football League Second Division,2,D
+1965-09-18,1965/1966,Coventry City,Crystal Palace,0-1,0,1,Football League Second Division,2,A
+1965-09-18,1965/1966,Ipswich Town,Bolton Wanderers,2-0,2,0,Football League Second Division,2,H
+1965-09-18,1965/1966,Birmingham City,Portsmouth,1-3,1,3,Football League Second Division,2,A
+1965-09-18,1965/1966,Bury,Norwich City,2-5,2,5,Football League Second Division,2,A
+1965-09-18,1965/1966,Cardiff City,Manchester City,4-3,4,3,Football League Second Division,2,H
+1965-09-18,1965/1966,Derby County,Rotherham United,1-3,1,3,Football League Second Division,2,A
+1965-09-18,1965/1966,Huddersfield Town,Preston North End,2-1,2,1,Football League Second Division,2,H
+1965-09-18,1965/1966,Leyton Orient,Plymouth Argyle,0-1,0,1,Football League Second Division,2,A
+1965-09-18,1965/1966,Grimsby Town,Walsall,3-1,3,1,Football League Third Division,3,H
+1965-09-18,1965/1966,Gillingham,Watford,2-2,2,2,Football League Third Division,3,D
+1965-09-18,1965/1966,Exeter City,Queens Park Rangers,0-0,0,0,Football League Third Division,3,D
+1965-09-18,1965/1966,Bristol Rovers,Oxford United,3-1,3,1,Football League Third Division,3,H
+1965-09-18,1965/1966,Brentford,Swansea City,2-0,2,0,Football League Third Division,3,H
+1965-09-18,1965/1966,Hull City,York City,1-4,1,4,Football League Third Division,3,A
+1965-09-18,1965/1966,Millwall,Scunthorpe United,2-2,2,2,Football League Third Division,3,D
+1965-09-18,1965/1966,Swindon Town,AFC Bournemouth,0-0,0,0,Football League Third Division,3,D
+1965-09-18,1965/1966,Peterborough United,Brighton & Hove Albion,2-2,2,2,Football League Third Division,3,D
+1965-09-22,1965/1966,Torquay United,Southport,1-1,1,1,Football League Fourth Division,4,D
+1965-09-24,1965/1966,Stockport County,Barnsley,1-0,1,0,Football League Fourth Division,4,H
+1965-09-24,1965/1966,Tranmere Rovers,Colchester United,2-0,2,0,Football League Fourth Division,4,H
+1965-09-24,1965/1966,Rochdale,Luton Town,1-2,1,2,Football League Fourth Division,4,A
+1965-09-24,1965/1966,Lincoln City,Crewe Alexandra,1-1,1,1,Football League Fourth Division,4,D
+1965-09-24,1965/1966,Southend United,Swindon Town,4-2,4,2,Football League Third Division,3,H
+1965-09-25,1965/1966,Aston Villa,Tottenham Hotspur,3-2,3,2,Football League First Division,1,H
+1965-09-25,1965/1966,Burnley,West Bromwich Albion,2-0,2,0,Football League First Division,1,H
+1965-09-25,1965/1966,Chelsea,Newcastle United,1-1,1,1,Football League First Division,1,D
+1965-09-25,1965/1966,Leeds United,Blackburn Rovers,3-0,3,0,Football League First Division,1,H
+1965-09-25,1965/1966,Liverpool,Everton,5-0,5,0,Football League First Division,1,H
+1965-09-25,1965/1966,Northampton Town,Sheffield Wednesday,0-0,0,0,Football League First Division,1,D
+1965-09-25,1965/1966,Sheffield United,Leicester City,2-2,2,2,Football League First Division,1,D
+1965-09-25,1965/1966,Stoke City,Nottingham Forest,1-0,1,0,Football League First Division,1,H
+1965-09-25,1965/1966,Arsenal,Manchester United,4-2,4,2,Football League First Division,1,H
+1965-09-25,1965/1966,Sunderland,Fulham,2-2,2,2,Football League First Division,1,D
+1965-09-25,1965/1966,West Ham United,Blackpool,1-1,1,1,Football League First Division,1,D
+1965-09-25,1965/1966,Bradford Park Avenue,Wrexham,4-2,4,2,Football League Fourth Division,4,H
+1965-09-25,1965/1966,Chester,Halifax Town,1-0,1,0,Football League Fourth Division,4,H
+1965-09-25,1965/1966,Chesterfield,Barrow,2-2,2,2,Football League Fourth Division,4,D
+1965-09-25,1965/1966,Darlington,Bradford City,3-0,3,0,Football League Fourth Division,4,H
+1965-09-25,1965/1966,Newport County,Doncaster Rovers,4-0,4,0,Football League Fourth Division,4,H
+1965-09-25,1965/1966,Notts County,Port Vale,3-1,3,1,Football League Fourth Division,4,H
+1965-09-25,1965/1966,Torquay United,Hartlepool United,2-0,2,0,Football League Fourth Division,4,H
+1965-09-25,1965/1966,Aldershot,Southport,3-0,3,0,Football League Fourth Division,4,H
+1965-09-25,1965/1966,Wolverhampton Wanderers,Bury,3-0,3,0,Football League Second Division,2,H
+1965-09-25,1965/1966,Rotherham United,Southampton,1-0,1,0,Football League Second Division,2,H
+1965-09-25,1965/1966,Preston North End,Crystal Palace,2-0,2,0,Football League Second Division,2,H
+1965-09-25,1965/1966,Bolton Wanderers,Birmingham City,1-2,1,2,Football League Second Division,2,A
+1965-09-25,1965/1966,Bristol City,Cardiff City,1-1,1,1,Football League Second Division,2,D
+1965-09-25,1965/1966,Charlton Athletic,Huddersfield Town,0-2,0,2,Football League Second Division,2,A
+1965-09-25,1965/1966,Coventry City,Carlisle United,3-2,3,2,Football League Second Division,2,H
+1965-09-25,1965/1966,Manchester City,Derby County,1-0,1,0,Football League Second Division,2,H
+1965-09-25,1965/1966,Norwich City,Ipswich Town,1-0,1,0,Football League Second Division,2,H
+1965-09-25,1965/1966,Plymouth Argyle,Middlesbrough,2-2,2,2,Football League Second Division,2,D
+1965-09-25,1965/1966,Portsmouth,Leyton Orient,4-1,4,1,Football League Second Division,2,H
+1965-09-25,1965/1966,Brighton & Hove Albion,Millwall,2-2,2,2,Football League Third Division,3,D
+1965-09-25,1965/1966,Hull City,Reading,3-3,3,3,Football League Third Division,3,D
+1965-09-25,1965/1966,Mansfield Town,Exeter City,0-0,0,0,Football League Third Division,3,D
+1965-09-25,1965/1966,Oxford United,York City,4-1,4,1,Football League Third Division,3,H
+1965-09-25,1965/1966,Queens Park Rangers,Peterborough United,2-1,2,1,Football League Third Division,3,H
+1965-09-25,1965/1966,Scunthorpe United,Gillingham,0-1,0,1,Football League Third Division,3,A
+1965-09-25,1965/1966,Swansea City,Bristol Rovers,3-0,3,0,Football League Third Division,3,H
+1965-09-25,1965/1966,Walsall,Brentford,1-1,1,1,Football League Third Division,3,D
+1965-09-25,1965/1966,Watford,Oldham Athletic,4-0,4,0,Football League Third Division,3,H
+1965-09-25,1965/1966,Workington,Grimsby Town,1-0,1,0,Football League Third Division,3,H
+1965-09-25,1965/1966,AFC Bournemouth,Shrewsbury Town,2-0,2,0,Football League Third Division,3,H
+1965-09-28,1965/1966,Arsenal,Northampton Town,1-1,1,1,Football League First Division,1,D
+1965-09-29,1965/1966,Wrexham,Tranmere Rovers,1-5,1,5,Football League Fourth Division,4,A
+1965-10-01,1965/1966,Barnsley,Darlington,3-1,3,1,Football League Fourth Division,4,H
+1965-10-01,1965/1966,Crewe Alexandra,Notts County,1-0,1,0,Football League Fourth Division,4,H
+1965-10-01,1965/1966,Halifax Town,Bradford Park Avenue,1-0,1,0,Football League Fourth Division,4,H
+1965-10-01,1965/1966,Reading,Oxford United,0-1,0,1,Football League Third Division,3,A
+1965-10-01,1965/1966,Shrewsbury Town,Southend United,3-0,3,0,Football League Third Division,3,H
+1965-10-01,1965/1966,York City,Swansea City,5-1,5,1,Football League Third Division,3,H
+1965-10-02,1965/1966,West Bromwich Albion,Chelsea,1-2,1,2,Football League First Division,1,A
+1965-10-02,1965/1966,Newcastle United,Arsenal,0-1,0,1,Football League First Division,1,A
+1965-10-02,1965/1966,Liverpool,Aston Villa,3-1,3,1,Football League First Division,1,H
+1965-10-02,1965/1966,Leicester City,Northampton Town,1-1,1,1,Football League First Division,1,D
+1965-10-02,1965/1966,Fulham,West Ham United,3-0,3,0,Football League First Division,1,H
+1965-10-02,1965/1966,Blackburn Rovers,Sheffield United,0-0,0,0,Football League First Division,1,D
+1965-10-02,1965/1966,Doncaster Rovers,Torquay United,0-1,0,1,Football League Fourth Division,4,A
+1965-10-02,1965/1966,Bradford City,Lincoln City,2-0,2,0,Football League Fourth Division,4,H
+1965-10-02,1965/1966,Hartlepool United,Chesterfield,1-2,1,2,Football League Fourth Division,4,A
+1965-10-02,1965/1966,Port Vale,Chester,5-2,5,2,Football League Fourth Division,4,H
+1965-10-02,1965/1966,Southport,Newport County,2-0,2,0,Football League Fourth Division,4,H
+1965-10-02,1965/1966,Wrexham,Aldershot,4-0,4,0,Football League Fourth Division,4,H
+1965-10-02,1965/1966,Barrow,Rochdale,0-2,0,2,Football League Fourth Division,4,A
+1965-10-02,1965/1966,Colchester United,Stockport County,3-2,3,2,Football League Fourth Division,4,H
+1965-10-02,1965/1966,Southampton,Manchester City,0-1,0,1,Football League Second Division,2,A
+1965-10-02,1965/1966,Norwich City,Wolverhampton Wanderers,0-3,0,3,Football League Second Division,2,A
+1965-10-02,1965/1966,Leyton Orient,Bolton Wanderers,1-0,1,0,Football League Second Division,2,H
+1965-10-02,1965/1966,Huddersfield Town,Plymouth Argyle,2-1,2,1,Football League Second Division,2,H
+1965-10-02,1965/1966,Derby County,Bristol City,2-1,2,1,Football League Second Division,2,H
+1965-10-02,1965/1966,Crystal Palace,Charlton Athletic,2-0,2,0,Football League Second Division,2,H
+1965-10-02,1965/1966,Carlisle United,Preston North End,0-2,0,2,Football League Second Division,2,A
+1965-10-02,1965/1966,Bury,Rotherham United,6-1,6,1,Football League Second Division,2,H
+1965-10-02,1965/1966,Gillingham,Brighton & Hove Albion,3-1,3,1,Football League Third Division,3,H
+1965-10-02,1965/1966,Grimsby Town,AFC Bournemouth,2-0,2,0,Football League Third Division,3,H
+1965-10-02,1965/1966,Millwall,Queens Park Rangers,2-1,2,1,Football League Third Division,3,H
+1965-10-02,1965/1966,Oldham Athletic,Scunthorpe United,1-3,1,3,Football League Third Division,3,A
+1965-10-02,1965/1966,Peterborough United,Mansfield Town,3-2,3,2,Football League Third Division,3,H
+1965-10-02,1965/1966,Watford,Swindon Town,2-0,2,0,Football League Third Division,3,H
+1965-10-02,1965/1966,Exeter City,Hull City,1-4,1,4,Football League Third Division,3,A
+1965-10-02,1965/1966,Bristol Rovers,Walsall,3-0,3,0,Football League Third Division,3,H
+1965-10-02,1965/1966,Brentford,Workington,0-1,0,1,Football League Third Division,3,A
+1965-10-04,1965/1966,Port Vale,Crewe Alexandra,2-0,2,0,Football League Fourth Division,4,H
+1965-10-04,1965/1966,Bradford Park Avenue,Torquay United,1-1,1,1,Football League Fourth Division,4,D
+1965-10-04,1965/1966,Darlington,Stockport County,3-0,3,0,Football League Fourth Division,4,H
+1965-10-04,1965/1966,Barrow,Hartlepool United,2-0,2,0,Football League Fourth Division,4,H
+1965-10-04,1965/1966,Peterborough United,Walsall,3-1,3,1,Football League Third Division,3,H
+1965-10-04,1965/1966,Workington,Swansea City,7-0,7,0,Football League Third Division,3,H
+1965-10-04,1965/1966,Queens Park Rangers,Scunthorpe United,1-0,1,0,Football League Third Division,3,H
+1965-10-04,1965/1966,Mansfield Town,Watford,2-2,2,2,Football League Third Division,3,D
+1965-10-04,1965/1966,York City,Southend United,0-3,0,3,Football League Third Division,3,A
+1965-10-05,1965/1966,Everton,Blackburn Rovers,2-2,2,2,Football League First Division,1,D
+1965-10-05,1965/1966,Halifax Town,Bradford City,3-2,3,2,Football League Fourth Division,4,H
+1965-10-05,1965/1966,Rochdale,Southport,3-0,3,0,Football League Fourth Division,4,H
+1965-10-05,1965/1966,Brighton & Hove Albion,Grimsby Town,1-2,1,2,Football League Third Division,3,A
+1965-10-05,1965/1966,Swindon Town,Bristol Rovers,4-3,4,3,Football League Third Division,3,H
+1965-10-06,1965/1966,Tottenham Hotspur,Sunderland,3-0,3,0,Football League First Division,1,H
+1965-10-06,1965/1966,Lincoln City,Tranmere Rovers,1-0,1,0,Football League Fourth Division,4,H
+1965-10-06,1965/1966,Chester,Barnsley,3-3,3,3,Football League Fourth Division,4,D
+1965-10-06,1965/1966,Aldershot,Newport County,2-1,2,1,Football League Fourth Division,4,H
+1965-10-06,1965/1966,Cardiff City,Coventry City,1-2,1,2,Football League Second Division,2,A
+1965-10-06,1965/1966,Shrewsbury Town,Brentford,0-0,0,0,Football League Third Division,3,D
+1965-10-06,1965/1966,Exeter City,Millwall,1-2,1,2,Football League Third Division,3,A
+1965-10-06,1965/1966,Hull City,Oldham Athletic,5-1,5,1,Football League Third Division,3,H
+1965-10-07,1965/1966,Luton Town,Doncaster Rovers,4-3,4,3,Football League Fourth Division,4,H
+1965-10-07,1965/1966,Notts County,Colchester United,1-0,1,0,Football League Fourth Division,4,H
+1965-10-08,1965/1966,Rochdale,Bradford City,5-1,5,1,Football League Fourth Division,4,H
+1965-10-08,1965/1966,Southport,Darlington,1-1,1,1,Football League Fourth Division,4,D
+1965-10-08,1965/1966,Southend United,Millwall,0-2,0,2,Football League Third Division,3,A
+1965-10-09,1965/1966,Arsenal,Fulham,2-1,2,1,Football League First Division,1,H
+1965-10-09,1965/1966,Burnley,Blackburn Rovers,1-4,1,4,Football League First Division,1,A
+1965-10-09,1965/1966,Chelsea,Blackpool,0-1,0,1,Football League First Division,1,A
+1965-10-09,1965/1966,Everton,Tottenham Hotspur,3-1,3,1,Football League First Division,1,H
+1965-10-09,1965/1966,Manchester United,Liverpool,2-0,2,0,Football League First Division,1,H
+1965-10-09,1965/1966,Newcastle United,Aston Villa,1-0,1,0,Football League First Division,1,H
+1965-10-09,1965/1966,Northampton Town,Sheffield United,0-1,0,1,Football League First Division,1,A
+1965-10-09,1965/1966,Nottingham Forest,West Ham United,5-0,5,0,Football League First Division,1,H
+1965-10-09,1965/1966,Sheffield Wednesday,Leeds United,0-0,0,0,Football League First Division,1,D
+1965-10-09,1965/1966,Stoke City,Leicester City,1-0,1,0,Football League First Division,1,H
+1965-10-09,1965/1966,West Bromwich Albion,Sunderland,4-1,4,1,Football League First Division,1,H
+1965-10-09,1965/1966,Chesterfield,Crewe Alexandra,3-1,3,1,Football League Fourth Division,4,H
+1965-10-09,1965/1966,Barrow,Colchester United,3-0,3,0,Football League Fourth Division,4,H
+1965-10-09,1965/1966,Bradford Park Avenue,Notts County,4-0,4,0,Football League Fourth Division,4,H
+1965-10-09,1965/1966,Doncaster Rovers,Stockport County,1-0,1,0,Football League Fourth Division,4,H
+1965-10-09,1965/1966,Hartlepool United,Tranmere Rovers,0-0,0,0,Football League Fourth Division,4,D
+1965-10-09,1965/1966,Luton Town,Barnsley,5-4,5,4,Football League Fourth Division,4,H
+1965-10-09,1965/1966,Newport County,Halifax Town,3-1,3,1,Football League Fourth Division,4,H
+1965-10-09,1965/1966,Torquay United,Port Vale,1-0,1,0,Football League Fourth Division,4,H
+1965-10-09,1965/1966,Wrexham,Lincoln City,0-1,0,1,Football League Fourth Division,4,A
+1965-10-09,1965/1966,Aldershot,Chester,2-2,2,2,Football League Fourth Division,4,D
+1965-10-09,1965/1966,Huddersfield Town,Manchester City,0-0,0,0,Football League Second Division,2,D
+1965-10-09,1965/1966,Portsmouth,Derby County,1-1,1,1,Football League Second Division,2,D
+1965-10-09,1965/1966,Preston North End,Coventry City,0-0,0,0,Football League Second Division,2,D
+1965-10-09,1965/1966,Birmingham City,Norwich City,1-0,1,0,Football League Second Division,2,H
+1965-10-09,1965/1966,Bolton Wanderers,Southampton,2-3,2,3,Football League Second Division,2,A
+1965-10-09,1965/1966,Charlton Athletic,Carlisle United,3-2,3,2,Football League Second Division,2,H
+1965-10-09,1965/1966,Crystal Palace,Bristol City,2-1,2,1,Football League Second Division,2,H
+1965-10-09,1965/1966,Ipswich Town,Bury,3-4,3,4,Football League Second Division,2,A
+1965-10-09,1965/1966,Leyton Orient,Wolverhampton Wanderers,0-3,0,3,Football League Second Division,2,A
+1965-10-09,1965/1966,Middlesbrough,Rotherham United,4-0,4,0,Football League Second Division,2,H
+1965-10-09,1965/1966,Plymouth Argyle,Cardiff City,2-2,2,2,Football League Second Division,2,D
+1965-10-09,1965/1966,Walsall,Reading,3-0,3,0,Football League Third Division,3,H
+1965-10-09,1965/1966,Swindon Town,Gillingham,0-1,0,1,Football League Third Division,3,A
+1965-10-09,1965/1966,Swansea City,Hull City,4-2,4,2,Football League Third Division,3,H
+1965-10-09,1965/1966,Grimsby Town,Watford,2-1,2,1,Football League Third Division,3,H
+1965-10-09,1965/1966,Oxford United,Mansfield Town,4-1,4,1,Football League Third Division,3,H
+1965-10-09,1965/1966,Workington,Exeter City,6-1,6,1,Football League Third Division,3,H
+1965-10-09,1965/1966,Bristol Rovers,Brighton & Hove Albion,0-0,0,0,Football League Third Division,3,D
+1965-10-09,1965/1966,Shrewsbury Town,Oldham Athletic,3-1,3,1,Football League Third Division,3,H
+1965-10-09,1965/1966,York City,Queens Park Rangers,2-2,2,2,Football League Third Division,3,D
+1965-10-09,1965/1966,Brentford,Scunthorpe United,0-1,0,1,Football League Third Division,3,A
+1965-10-09,1965/1966,AFC Bournemouth,Peterborough United,2-3,2,3,Football League Third Division,3,A
+1965-10-13,1965/1966,Oldham Athletic,Hull City,2-2,2,2,Football League Third Division,3,D
+1965-10-15,1965/1966,Tranmere Rovers,Doncaster Rovers,1-0,1,0,Football League Fourth Division,4,H
+1965-10-15,1965/1966,Stockport County,Southport,2-2,2,2,Football League Fourth Division,4,D
+1965-10-15,1965/1966,Lincoln City,Bradford Park Avenue,1-1,1,1,Football League Fourth Division,4,D
+1965-10-15,1965/1966,Barnsley,Barrow,3-0,3,0,Football League Fourth Division,4,H
+1965-10-15,1965/1966,Reading,Workington,1-1,1,1,Football League Third Division,3,D
+1965-10-15,1965/1966,Brighton & Hove Albion,York City,3-1,3,1,Football League Third Division,3,H
+1965-10-16,1965/1966,Aston Villa,West Bromwich Albion,1-1,1,1,Football League First Division,1,D
+1965-10-16,1965/1966,Blackburn Rovers,Chelsea,0-1,0,1,Football League First Division,1,A
+1965-10-16,1965/1966,Blackpool,Arsenal,5-3,5,3,Football League First Division,1,H
+1965-10-16,1965/1966,Fulham,Everton,3-2,3,2,Football League First Division,1,H
+1965-10-16,1965/1966,Leeds United,Northampton Town,6-1,6,1,Football League First Division,1,H
+1965-10-16,1965/1966,Leicester City,Burnley,0-1,0,1,Football League First Division,1,A
+1965-10-16,1965/1966,Liverpool,Newcastle United,2-0,2,0,Football League First Division,1,H
+1965-10-16,1965/1966,Sheffield United,Stoke City,3-2,3,2,Football League First Division,1,H
+1965-10-16,1965/1966,Tottenham Hotspur,Manchester United,5-1,5,1,Football League First Division,1,H
+1965-10-16,1965/1966,West Ham United,Sheffield Wednesday,4-2,4,2,Football League First Division,1,H
+1965-10-16,1965/1966,Sunderland,Nottingham Forest,3-2,3,2,Football League First Division,1,H
+1965-10-16,1965/1966,Bradford City,Luton Town,2-2,2,2,Football League Fourth Division,4,D
+1965-10-16,1965/1966,Chester,Newport County,6-1,6,1,Football League Fourth Division,4,H
+1965-10-16,1965/1966,Colchester United,Hartlepool United,2-0,2,0,Football League Fourth Division,4,H
+1965-10-16,1965/1966,Crewe Alexandra,Rochdale,3-1,3,1,Football League Fourth Division,4,H
+1965-10-16,1965/1966,Darlington,Wrexham,2-0,2,0,Football League Fourth Division,4,H
+1965-10-16,1965/1966,Port Vale,Chesterfield,1-1,1,1,Football League Fourth Division,4,D
+1965-10-16,1965/1966,Notts County,Aldershot,2-0,2,0,Football League Fourth Division,4,H
+1965-10-16,1965/1966,Halifax Town,Torquay United,0-2,0,2,Football League Fourth Division,4,A
+1965-10-16,1965/1966,Southampton,Ipswich Town,1-2,1,2,Football League Second Division,2,A
+1965-10-16,1965/1966,Wolverhampton Wanderers,Middlesbrough,3-0,3,0,Football League Second Division,2,H
+1965-10-16,1965/1966,Rotherham United,Huddersfield Town,0-0,0,0,Football League Second Division,2,D
+1965-10-16,1965/1966,Manchester City,Crystal Palace,3-1,3,1,Football League Second Division,2,H
+1965-10-16,1965/1966,Norwich City,Leyton Orient,2-1,2,1,Football League Second Division,2,H
+1965-10-16,1965/1966,Bristol City,Preston North End,1-0,1,0,Football League Second Division,2,H
+1965-10-16,1965/1966,Bury,Birmingham City,5-1,5,1,Football League Second Division,2,H
+1965-10-16,1965/1966,Cardiff City,Portsmouth,1-2,1,2,Football League Second Division,2,A
+1965-10-16,1965/1966,Carlisle United,Plymouth Argyle,1-3,1,3,Football League Second Division,2,A
+1965-10-16,1965/1966,Coventry City,Charlton Athletic,3-1,3,1,Football League Second Division,2,H
+1965-10-16,1965/1966,Derby County,Bolton Wanderers,2-0,2,0,Football League Second Division,2,H
+1965-10-16,1965/1966,Exeter City,AFC Bournemouth,1-0,1,0,Football League Third Division,3,H
+1965-10-16,1965/1966,Gillingham,Shrewsbury Town,0-1,0,1,Football League Third Division,3,A
+1965-10-16,1965/1966,Hull City,Walsall,3-2,3,2,Football League Third Division,3,H
+1965-10-16,1965/1966,Mansfield Town,Swansea City,3-0,3,0,Football League Third Division,3,H
+1965-10-16,1965/1966,Millwall,Swindon Town,1-0,1,0,Football League Third Division,3,H
+1965-10-16,1965/1966,Oldham Athletic,Grimsby Town,1-4,1,4,Football League Third Division,3,A
+1965-10-16,1965/1966,Peterborough United,Southend United,4-0,4,0,Football League Third Division,3,H
+1965-10-16,1965/1966,Scunthorpe United,Bristol Rovers,3-0,3,0,Football League Third Division,3,H
+1965-10-16,1965/1966,Watford,Brentford,1-1,1,1,Football League Third Division,3,D
+1965-10-16,1965/1966,Queens Park Rangers,Oxford United,2-3,2,3,Football League Third Division,3,A
+1965-10-18,1965/1966,Tranmere Rovers,Aldershot,5-2,5,2,Football League Fourth Division,4,H
+1965-10-19,1965/1966,Bristol Rovers,Oldham Athletic,4-0,4,0,Football League Third Division,3,H
+1965-10-19,1965/1966,Swindon Town,York City,6-0,6,0,Football League Third Division,3,H
+1965-10-20,1965/1966,Torquay United,Barnsley,3-0,3,0,Football League Fourth Division,4,H
+1965-10-22,1965/1966,Rochdale,Port Vale,1-0,1,0,Football League Fourth Division,4,H
+1965-10-22,1965/1966,Middlesbrough,Norwich City,0-1,0,1,Football League Second Division,2,A
+1965-10-22,1965/1966,Shrewsbury Town,Millwall,2-0,2,0,Football League Third Division,3,H
+1965-10-22,1965/1966,Workington,Hull City,3-0,3,0,Football League Third Division,3,H
+1965-10-23,1965/1966,Arsenal,Blackburn Rovers,2-2,2,2,Football League First Division,1,D
+1965-10-23,1965/1966,Burnley,Sheffield United,2-0,2,0,Football League First Division,1,H
+1965-10-23,1965/1966,Chelsea,Leicester City,0-2,0,2,Football League First Division,1,A
+1965-10-23,1965/1966,Everton,Blackpool,0-0,0,0,Football League First Division,1,D
+1965-10-23,1965/1966,Manchester United,Fulham,4-1,4,1,Football League First Division,1,H
+1965-10-23,1965/1966,Newcastle United,Tottenham Hotspur,0-0,0,0,Football League First Division,1,D
+1965-10-23,1965/1966,Nottingham Forest,Aston Villa,1-2,1,2,Football League First Division,1,A
+1965-10-23,1965/1966,Northampton Town,West Ham United,2-1,2,1,Football League First Division,1,H
+1965-10-23,1965/1966,Stoke City,Leeds United,1-2,1,2,Football League First Division,1,A
+1965-10-23,1965/1966,West Bromwich Albion,Liverpool,3-0,3,0,Football League First Division,1,H
+1965-10-23,1965/1966,Sheffield Wednesday,Sunderland,3-1,3,1,Football League First Division,1,H
+1965-10-23,1965/1966,Wrexham,Stockport County,1-4,1,4,Football League Fourth Division,4,A
+1965-10-23,1965/1966,Aldershot,Lincoln City,2-0,2,0,Football League Fourth Division,4,H
+1965-10-23,1965/1966,Barrow,Bradford City,2-0,2,0,Football League Fourth Division,4,H
+1965-10-23,1965/1966,Bradford Park Avenue,Darlington,0-2,0,2,Football League Fourth Division,4,A
+1965-10-23,1965/1966,Chesterfield,Halifax Town,3-2,3,2,Football League Fourth Division,4,H
+1965-10-23,1965/1966,Hartlepool United,Barnsley,1-2,1,2,Football League Fourth Division,4,A
+1965-10-23,1965/1966,Luton Town,Crewe Alexandra,4-0,4,0,Football League Fourth Division,4,H
+1965-10-23,1965/1966,Southport,Tranmere Rovers,1-1,1,1,Football League Fourth Division,4,D
+1965-10-23,1965/1966,Torquay United,Chester,1-0,1,0,Football League Fourth Division,4,H
+1965-10-23,1965/1966,Preston North End,Manchester City,0-3,0,3,Football League Second Division,2,A
+1965-10-23,1965/1966,Portsmouth,Carlisle United,4-1,4,1,Football League Second Division,2,H
+1965-10-23,1965/1966,Leyton Orient,Bury,2-2,2,2,Football League Second Division,2,D
+1965-10-23,1965/1966,Plymouth Argyle,Coventry City,1-2,1,2,Football League Second Division,2,A
+1965-10-23,1965/1966,Birmingham City,Southampton,0-1,0,1,Football League Second Division,2,A
+1965-10-23,1965/1966,Bolton Wanderers,Cardiff City,2-1,2,1,Football League Second Division,2,H
+1965-10-23,1965/1966,Charlton Athletic,Bristol City,1-4,1,4,Football League Second Division,2,A
+1965-10-23,1965/1966,Crystal Palace,Rotherham United,2-2,2,2,Football League Second Division,2,D
+1965-10-23,1965/1966,Huddersfield Town,Wolverhampton Wanderers,1-1,1,1,Football League Second Division,2,D
+1965-10-23,1965/1966,Ipswich Town,Derby County,2-2,2,2,Football League Second Division,2,D
+1965-10-23,1965/1966,AFC Bournemouth,Reading,3-2,3,2,Football League Third Division,3,H
+1965-10-23,1965/1966,Brentford,Oldham Athletic,0-0,0,0,Football League Third Division,3,D
+1965-10-23,1965/1966,Bristol Rovers,Watford,1-1,1,1,Football League Third Division,3,D
+1965-10-23,1965/1966,Oxford United,Brighton & Hove Albion,0-0,0,0,Football League Third Division,3,D
+1965-10-23,1965/1966,Southend United,Exeter City,4-2,4,2,Football League Third Division,3,H
+1965-10-23,1965/1966,Swansea City,Queens Park Rangers,4-2,4,2,Football League Third Division,3,H
+1965-10-23,1965/1966,Swindon Town,Peterborough United,3-0,3,0,Football League Third Division,3,H
+1965-10-23,1965/1966,Walsall,Mansfield Town,2-1,2,1,Football League Third Division,3,H
+1965-10-23,1965/1966,Grimsby Town,Gillingham,3-1,3,1,Football League Third Division,3,H
+1965-10-25,1965/1966,Wrexham,Chesterfield,2-1,2,1,Football League Fourth Division,4,H
+1965-10-25,1965/1966,Newport County,Notts County,1-2,1,2,Football League Fourth Division,4,A
+1965-10-25,1965/1966,Millwall,Bristol Rovers,3-3,3,3,Football League Third Division,3,D
+1965-10-25,1965/1966,Southend United,Workington,3-1,3,1,Football League Third Division,3,H
+1965-10-26,1965/1966,Middlesbrough,Portsmouth,5-2,5,2,Football League Second Division,2,H
+1965-10-27,1965/1966,Chester,Crewe Alexandra,3-0,3,0,Football League Fourth Division,4,H
+1965-10-27,1965/1966,Manchester City,Norwich City,0-0,0,0,Football League Second Division,2,D
+1965-10-29,1965/1966,Barnsley,Doncaster Rovers,1-5,1,5,Football League Fourth Division,4,A
+1965-10-29,1965/1966,Crewe Alexandra,Barrow,2-1,2,1,Football League Fourth Division,4,H
+1965-10-29,1965/1966,Halifax Town,Rochdale,4-1,4,1,Football League Fourth Division,4,H
+1965-10-29,1965/1966,Stockport County,Bradford Park Avenue,2-3,2,3,Football League Fourth Division,4,A
+1965-10-29,1965/1966,Tranmere Rovers,Wrexham,6-3,6,3,Football League Fourth Division,4,H
+1965-10-29,1965/1966,Reading,Southend United,1-0,1,0,Football League Third Division,3,H
+1965-10-30,1965/1966,Aston Villa,Sheffield Wednesday,2-0,2,0,Football League First Division,1,H
+1965-10-30,1965/1966,Blackburn Rovers,Everton,1-2,1,2,Football League First Division,1,A
+1965-10-30,1965/1966,Blackpool,Manchester United,1-2,1,2,Football League First Division,1,A
+1965-10-30,1965/1966,Fulham,Newcastle United,2-0,2,0,Football League First Division,1,H
+1965-10-30,1965/1966,Leeds United,Burnley,1-1,1,1,Football League First Division,1,D
+1965-10-30,1965/1966,Leicester City,Arsenal,3-1,3,1,Football League First Division,1,H
+1965-10-30,1965/1966,Liverpool,Nottingham Forest,4-0,4,0,Football League First Division,1,H
+1965-10-30,1965/1966,Sheffield United,Chelsea,1-2,1,2,Football League First Division,1,A
+1965-10-30,1965/1966,Sunderland,Northampton Town,3-0,3,0,Football League First Division,1,H
+1965-10-30,1965/1966,West Ham United,Stoke City,0-0,0,0,Football League First Division,1,D
+1965-10-30,1965/1966,Tottenham Hotspur,West Bromwich Albion,2-1,2,1,Football League First Division,1,H
+1965-10-30,1965/1966,Bradford City,Hartlepool United,1-3,1,3,Football League Fourth Division,4,A
+1965-10-30,1965/1966,Chester,Chesterfield,3-0,3,0,Football League Fourth Division,4,H
+1965-10-30,1965/1966,Colchester United,Southport,0-0,0,0,Football League Fourth Division,4,D
+1965-10-30,1965/1966,Darlington,Aldershot,4-3,4,3,Football League Fourth Division,4,H
+1965-10-30,1965/1966,Lincoln City,Newport County,1-1,1,1,Football League Fourth Division,4,D
+1965-10-30,1965/1966,Notts County,Torquay United,1-1,1,1,Football League Fourth Division,4,D
+1965-10-30,1965/1966,Port Vale,Luton Town,1-2,1,2,Football League Fourth Division,4,A
+1965-10-30,1965/1966,Wolverhampton Wanderers,Crystal Palace,1-0,1,0,Football League Second Division,2,H
+1965-10-30,1965/1966,Southampton,Leyton Orient,1-0,1,0,Football League Second Division,2,H
+1965-10-30,1965/1966,Manchester City,Charlton Athletic,0-0,0,0,Football League Second Division,2,D
+1965-10-30,1965/1966,Norwich City,Huddersfield Town,1-1,1,1,Football League Second Division,2,D
+1965-10-30,1965/1966,Bristol City,Plymouth Argyle,0-0,0,0,Football League Second Division,2,D
+1965-10-30,1965/1966,Bury,Middlesbrough,2-0,2,0,Football League Second Division,2,H
+1965-10-30,1965/1966,Cardiff City,Ipswich Town,1-0,1,0,Football League Second Division,2,H
+1965-10-30,1965/1966,Carlisle United,Bolton Wanderers,1-1,1,1,Football League Second Division,2,D
+1965-10-30,1965/1966,Coventry City,Portsmouth,3-2,3,2,Football League Second Division,2,H
+1965-10-30,1965/1966,Derby County,Birmingham City,5-3,5,3,Football League Second Division,2,H
+1965-10-30,1965/1966,Rotherham United,Preston North End,6-3,6,3,Football League Second Division,2,H
+1965-10-30,1965/1966,Brighton & Hove Albion,Swansea City,1-1,1,1,Football League Third Division,3,D
+1965-10-30,1965/1966,Exeter City,Swindon Town,1-1,1,1,Football League Third Division,3,D
+1965-10-30,1965/1966,Gillingham,Brentford,1-0,1,0,Football League Third Division,3,H
+1965-10-30,1965/1966,Hull City,AFC Bournemouth,3-0,3,0,Football League Third Division,3,H
+1965-10-30,1965/1966,Mansfield Town,Workington,0-1,0,1,Football League Third Division,3,A
+1965-10-30,1965/1966,Millwall,Grimsby Town,2-1,2,1,Football League Third Division,3,H
+1965-10-30,1965/1966,Oldham Athletic,Bristol Rovers,2-0,2,0,Football League Third Division,3,H
+1965-10-30,1965/1966,Peterborough United,Shrewsbury Town,4-1,4,1,Football League Third Division,3,H
+1965-10-30,1965/1966,Scunthorpe United,Oxford United,1-2,1,2,Football League Third Division,3,A
+1965-10-30,1965/1966,Watford,York City,3-2,3,2,Football League Third Division,3,H
+1965-10-30,1965/1966,Queens Park Rangers,Walsall,2-1,2,1,Football League Third Division,3,H
+1965-11-01,1965/1966,Bradford Park Avenue,Aldershot,5-1,5,1,Football League Fourth Division,4,H
+1965-11-01,1965/1966,Shrewsbury Town,Bristol Rovers,1-0,1,0,Football League Third Division,3,H
+1965-11-03,1965/1966,Tranmere Rovers,Luton Town,2-0,2,0,Football League Fourth Division,4,H
+1965-11-03,1965/1966,Oxford United,AFC Bournemouth,2-1,2,1,Football League Third Division,3,H
+1965-11-05,1965/1966,Rochdale,Chester,3-0,3,0,Football League Fourth Division,4,H
+1965-11-05,1965/1966,Workington,Queens Park Rangers,1-1,1,1,Football League Third Division,3,D
+1965-11-05,1965/1966,York City,Oldham Athletic,2-2,2,2,Football League Third Division,3,D
+1965-11-06,1965/1966,Arsenal,Sheffield United,6-2,6,2,Football League First Division,1,H
+1965-11-06,1965/1966,Burnley,West Ham United,3-1,3,1,Football League First Division,1,H
+1965-11-06,1965/1966,Chelsea,Leeds United,1-0,1,0,Football League First Division,1,H
+1965-11-06,1965/1966,Manchester United,Blackburn Rovers,2-2,2,2,Football League First Division,1,D
+1965-11-06,1965/1966,Newcastle United,Blackpool,2-0,2,0,Football League First Division,1,H
+1965-11-06,1965/1966,Northampton Town,Aston Villa,2-1,2,1,Football League First Division,1,H
+1965-11-06,1965/1966,Nottingham Forest,Tottenham Hotspur,1-0,1,0,Football League First Division,1,H
+1965-11-06,1965/1966,Sheffield Wednesday,Liverpool,0-2,0,2,Football League First Division,1,A
+1965-11-06,1965/1966,Everton,Leicester City,1-2,1,2,Football League First Division,1,A
+1965-11-06,1965/1966,West Bromwich Albion,Fulham,6-2,6,2,Football League First Division,1,H
+1965-11-06,1965/1966,Stoke City,Sunderland,1-1,1,1,Football League First Division,1,D
+1965-11-06,1965/1966,Barrow,Port Vale,2-2,2,2,Football League Fourth Division,4,D
+1965-11-06,1965/1966,Bradford Park Avenue,Tranmere Rovers,1-1,1,1,Football League Fourth Division,4,D
+1965-11-06,1965/1966,Chesterfield,Notts County,0-0,0,0,Football League Fourth Division,4,D
+1965-11-06,1965/1966,Doncaster Rovers,Bradford City,1-1,1,1,Football League Fourth Division,4,D
+1965-11-06,1965/1966,Hartlepool United,Crewe Alexandra,4-1,4,1,Football League Fourth Division,4,H
+1965-11-06,1965/1966,Luton Town,Halifax Town,4-1,4,1,Football League Fourth Division,4,H
+1965-11-06,1965/1966,Torquay United,Lincoln City,4-1,4,1,Football League Fourth Division,4,H
+1965-11-06,1965/1966,Wrexham,Colchester United,2-3,2,3,Football League Fourth Division,4,A
+1965-11-06,1965/1966,Aldershot,Stockport County,1-0,1,0,Football League Fourth Division,4,H
+1965-11-06,1965/1966,Preston North End,Wolverhampton Wanderers,2-2,2,2,Football League Second Division,2,D
+1965-11-06,1965/1966,Portsmouth,Bristol City,2-4,2,4,Football League Second Division,2,A
+1965-11-06,1965/1966,Middlesbrough,Southampton,0-0,0,0,Football League Second Division,2,D
+1965-11-06,1965/1966,Plymouth Argyle,Manchester City,1-0,1,0,Football League Second Division,2,H
+1965-11-06,1965/1966,Birmingham City,Cardiff City,4-2,4,2,Football League Second Division,2,H
+1965-11-06,1965/1966,Bolton Wanderers,Coventry City,4-2,4,2,Football League Second Division,2,H
+1965-11-06,1965/1966,Charlton Athletic,Rotherham United,2-2,2,2,Football League Second Division,2,D
+1965-11-06,1965/1966,Crystal Palace,Norwich City,0-0,0,0,Football League Second Division,2,D
+1965-11-06,1965/1966,Huddersfield Town,Bury,2-0,2,0,Football League Second Division,2,H
+1965-11-06,1965/1966,Ipswich Town,Carlisle United,1-0,1,0,Football League Second Division,2,H
+1965-11-06,1965/1966,Leyton Orient,Derby County,0-0,0,0,Football League Second Division,2,D
+1965-11-06,1965/1966,AFC Bournemouth,Mansfield Town,2-2,2,2,Football League Third Division,3,D
+1965-11-06,1965/1966,Brentford,Millwall,1-2,1,2,Football League Third Division,3,A
+1965-11-06,1965/1966,Bristol Rovers,Gillingham,0-0,0,0,Football League Third Division,3,D
+1965-11-06,1965/1966,Grimsby Town,Peterborough United,3-0,3,0,Football League Third Division,3,H
+1965-11-06,1965/1966,Oxford United,Watford,1-2,1,2,Football League Third Division,3,A
+1965-11-06,1965/1966,Shrewsbury Town,Exeter City,4-0,4,0,Football League Third Division,3,H
+1965-11-06,1965/1966,Southend United,Hull City,0-2,0,2,Football League Third Division,3,A
+1965-11-06,1965/1966,Swansea City,Scunthorpe United,3-4,3,4,Football League Third Division,3,A
+1965-11-06,1965/1966,Walsall,Brighton & Hove Albion,2-1,2,1,Football League Third Division,3,H
+1965-11-06,1965/1966,Swindon Town,Reading,5-0,5,0,Football League Third Division,3,H
+1965-11-08,1965/1966,Newport County,Darlington,3-0,3,0,Football League Fourth Division,4,H
+1965-11-09,1965/1966,Bristol Rovers,Workington,2-2,2,2,Football League Third Division,3,D
+1965-11-10,1965/1966,Cardiff City,Charlton Athletic,3-1,3,1,Football League Second Division,2,H
+1965-11-13,1965/1966,Tottenham Hotspur,Sheffield Wednesday,2-3,2,3,Football League First Division,1,A
+1965-11-13,1965/1966,West Ham United,Chelsea,2-1,2,1,Football League First Division,1,H
+1965-11-13,1965/1966,Sunderland,Burnley,0-4,0,4,Football League First Division,1,A
+1965-11-13,1965/1966,Sheffield United,Everton,2-0,2,0,Football League First Division,1,H
+1965-11-13,1965/1966,Liverpool,Northampton Town,5-0,5,0,Football League First Division,1,H
+1965-11-13,1965/1966,Leicester City,Manchester United,0-5,0,5,Football League First Division,1,A
+1965-11-13,1965/1966,Leeds United,Arsenal,2-0,2,0,Football League First Division,1,H
+1965-11-13,1965/1966,Fulham,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1965-11-13,1965/1966,Blackpool,West Bromwich Albion,1-1,1,1,Football League First Division,1,D
+1965-11-13,1965/1966,Blackburn Rovers,Newcastle United,4-2,4,2,Football League First Division,1,H
+1965-11-13,1965/1966,Aston Villa,Stoke City,0-1,0,1,Football League First Division,1,A
+1965-11-13,1965/1966,Wolverhampton Wanderers,Charlton Athletic,2-2,2,2,Football League Second Division,2,D
+1965-11-13,1965/1966,Southampton,Huddersfield Town,0-1,0,1,Football League Second Division,2,A
+1965-11-13,1965/1966,Rotherham United,Plymouth Argyle,2-0,2,0,Football League Second Division,2,H
+1965-11-13,1965/1966,Norwich City,Preston North End,1-1,1,1,Football League Second Division,2,D
+1965-11-13,1965/1966,Manchester City,Portsmouth,3-1,3,1,Football League Second Division,2,H
+1965-11-13,1965/1966,Derby County,Middlesbrough,5-0,5,0,Football League Second Division,2,H
+1965-11-13,1965/1966,Coventry City,Ipswich Town,3-1,3,1,Football League Second Division,2,H
+1965-11-13,1965/1966,Carlisle United,Birmingham City,1-0,1,0,Football League Second Division,2,H
+1965-11-13,1965/1966,Cardiff City,Leyton Orient,3-1,3,1,Football League Second Division,2,H
+1965-11-13,1965/1966,Bristol City,Bolton Wanderers,2-2,2,2,Football League Second Division,2,D
+1965-11-13,1965/1966,Bury,Crystal Palace,2-2,2,2,Football League Second Division,2,D
+1965-11-16,1965/1966,Bury,Bolton Wanderers,1-1,1,1,Football League Second Division,2,D
+1965-11-17,1965/1966,Liverpool,Blackburn Rovers,5-2,5,2,Football League First Division,1,H
+1965-11-19,1965/1966,Doncaster Rovers,Port Vale,1-0,1,0,Football League Fourth Division,4,H
+1965-11-19,1965/1966,Newport County,Tranmere Rovers,0-0,0,0,Football League Fourth Division,4,D
+1965-11-19,1965/1966,Workington,Scunthorpe United,1-2,1,2,Football League Third Division,3,A
+1965-11-19,1965/1966,York City,Millwall,2-1,2,1,Football League Third Division,3,H
+1965-11-20,1965/1966,Arsenal,West Ham United,3-2,3,2,Football League First Division,1,H
+1965-11-20,1965/1966,Burnley,Aston Villa,3-1,3,1,Football League First Division,1,H
+1965-11-20,1965/1966,Everton,Leeds United,0-0,0,0,Football League First Division,1,D
+1965-11-20,1965/1966,Manchester United,Sheffield United,3-1,3,1,Football League First Division,1,H
+1965-11-20,1965/1966,Newcastle United,Leicester City,1-5,1,5,Football League First Division,1,A
+1965-11-20,1965/1966,Northampton Town,Tottenham Hotspur,0-2,0,2,Football League First Division,1,A
+1965-11-20,1965/1966,Nottingham Forest,Blackpool,2-1,2,1,Football League First Division,1,H
+1965-11-20,1965/1966,Sheffield Wednesday,Fulham,1-0,1,0,Football League First Division,1,H
+1965-11-20,1965/1966,West Bromwich Albion,Blackburn Rovers,2-1,2,1,Football League First Division,1,H
+1965-11-20,1965/1966,Stoke City,Liverpool,0-0,0,0,Football League First Division,1,D
+1965-11-20,1965/1966,Wrexham,Bradford City,1-1,1,1,Football League Fourth Division,4,D
+1965-11-20,1965/1966,Southport,Crewe Alexandra,1-1,1,1,Football League Fourth Division,4,D
+1965-11-20,1965/1966,Barrow,Chester,4-1,4,1,Football League Fourth Division,4,H
+1965-11-20,1965/1966,Bradford Park Avenue,Barnsley,7-2,7,2,Football League Fourth Division,4,H
+1965-11-20,1965/1966,Chesterfield,Darlington,1-2,1,2,Football League Fourth Division,4,A
+1965-11-20,1965/1966,Hartlepool United,Halifax Town,1-2,1,2,Football League Fourth Division,4,A
+1965-11-20,1965/1966,Luton Town,Notts County,5-1,5,1,Football League Fourth Division,4,H
+1965-11-20,1965/1966,Rochdale,Lincoln City,0-1,0,1,Football League Fourth Division,4,A
+1965-11-20,1965/1966,Torquay United,Stockport County,1-4,1,4,Football League Fourth Division,4,A
+1965-11-20,1965/1966,Aldershot,Colchester United,1-3,1,3,Football League Fourth Division,4,A
+1965-11-20,1965/1966,Birmingham City,Coventry City,0-1,0,1,Football League Second Division,2,A
+1965-11-20,1965/1966,Portsmouth,Rotherham United,1-1,1,1,Football League Second Division,2,D
+1965-11-20,1965/1966,Preston North End,Bury,2-1,2,1,Football League Second Division,2,H
+1965-11-20,1965/1966,Bolton Wanderers,Manchester City,1-0,1,0,Football League Second Division,2,H
+1965-11-20,1965/1966,Crystal Palace,Southampton,1-0,1,0,Football League Second Division,2,H
+1965-11-20,1965/1966,Huddersfield Town,Derby County,1-3,1,3,Football League Second Division,2,A
+1965-11-20,1965/1966,Ipswich Town,Bristol City,0-0,0,0,Football League Second Division,2,D
+1965-11-20,1965/1966,Leyton Orient,Carlisle United,2-1,2,1,Football League Second Division,2,H
+1965-11-20,1965/1966,Middlesbrough,Cardiff City,3-4,3,4,Football League Second Division,2,A
+1965-11-20,1965/1966,Plymouth Argyle,Wolverhampton Wanderers,2-2,2,2,Football League Second Division,2,D
+1965-11-20,1965/1966,Grimsby Town,Reading,3-3,3,3,Football League Third Division,3,D
+1965-11-20,1965/1966,Bristol Rovers,Peterborough United,1-1,1,1,Football League Third Division,3,D
+1965-11-20,1965/1966,Oxford United,Gillingham,0-4,0,4,Football League Third Division,3,A
+1965-11-20,1965/1966,Shrewsbury Town,Hull City,2-2,2,2,Football League Third Division,3,D
+1965-11-20,1965/1966,Southend United,Queens Park Rangers,1-3,1,3,Football League Third Division,3,A
+1965-11-20,1965/1966,Swansea City,Oldham Athletic,4-1,4,1,Football League Third Division,3,H
+1965-11-20,1965/1966,Swindon Town,Mansfield Town,6-2,6,2,Football League Third Division,3,H
+1965-11-20,1965/1966,Walsall,Watford,3-0,3,0,Football League Third Division,3,H
+1965-11-20,1965/1966,Brentford,Exeter City,1-2,1,2,Football League Third Division,3,A
+1965-11-20,1965/1966,AFC Bournemouth,Brighton & Hove Albion,0-1,0,1,Football League Third Division,3,A
+1965-11-22,1965/1966,Southport,Rochdale,4-0,4,0,Football League Fourth Division,4,H
+1965-11-22,1965/1966,Stockport County,Darlington,1-1,1,1,Football League Fourth Division,4,D
+1965-11-22,1965/1966,Newport County,Aldershot,3-1,3,1,Football League Fourth Division,4,H
+1965-11-22,1965/1966,Tranmere Rovers,Lincoln City,3-2,3,2,Football League Fourth Division,4,H
+1965-11-22,1965/1966,Colchester United,Notts County,4-1,4,1,Football League Fourth Division,4,H
+1965-11-22,1965/1966,Southend United,Oxford United,2-1,2,1,Football League Third Division,3,H
+1965-11-22,1965/1966,Millwall,Peterborough United,4-1,4,1,Football League Third Division,3,H
+1965-11-23,1965/1966,Barnsley,Chester,0-2,0,2,Football League Fourth Division,4,A
+1965-11-23,1965/1966,Doncaster Rovers,Luton Town,1-1,1,1,Football League Fourth Division,4,D
+1965-11-23,1965/1966,Torquay United,Bradford Park Avenue,2-1,2,1,Football League Fourth Division,4,H
+1965-11-23,1965/1966,Brentford,Grimsby Town,3-2,3,2,Football League Third Division,3,H
+1965-11-23,1965/1966,Brighton & Hove Albion,Queens Park Rangers,0-2,0,2,Football League Third Division,3,A
+1965-11-23,1965/1966,Swansea City,AFC Bournemouth,5-0,5,0,Football League Third Division,3,H
+1965-11-24,1965/1966,Hull City,Watford,3-1,3,1,Football League Third Division,3,H
+1965-11-26,1965/1966,Stockport County,Chesterfield,2-1,2,1,Football League Fourth Division,4,H
+1965-11-26,1965/1966,Tranmere Rovers,Torquay United,0-1,0,1,Football League Fourth Division,4,A
+1965-11-27,1965/1966,Aston Villa,Chelsea,2-4,2,4,Football League First Division,1,A
+1965-11-27,1965/1966,Blackburn Rovers,Nottingham Forest,5-0,5,0,Football League First Division,1,H
+1965-11-27,1965/1966,Fulham,Northampton Town,1-4,1,4,Football League First Division,1,A
+1965-11-27,1965/1966,Leicester City,West Bromwich Albion,2-1,2,1,Football League First Division,1,H
+1965-11-27,1965/1966,Liverpool,Burnley,2-1,2,1,Football League First Division,1,H
+1965-11-27,1965/1966,Sheffield United,Newcastle United,3-2,3,2,Football League First Division,1,H
+1965-11-27,1965/1966,Tottenham Hotspur,Stoke City,2-2,2,2,Football League First Division,1,D
+1965-11-27,1965/1966,Blackpool,Sheffield Wednesday,2-1,2,1,Football League First Division,1,H
+1965-11-27,1965/1966,West Ham United,Everton,3-0,3,0,Football League First Division,1,H
+1965-11-27,1965/1966,Lincoln City,Luton Town,2-2,2,2,Football League Fourth Division,4,D
+1965-11-27,1965/1966,Chester,Hartlepool United,2-0,2,0,Football League Fourth Division,4,H
+1965-11-27,1965/1966,Colchester United,Newport County,3-2,3,2,Football League Fourth Division,4,H
+1965-11-27,1965/1966,Crewe Alexandra,Wrexham,0-1,0,1,Football League Fourth Division,4,A
+1965-11-27,1965/1966,Notts County,Barrow,0-2,0,2,Football League Fourth Division,4,A
+1965-11-27,1965/1966,Port Vale,Southport,4-1,4,1,Football League Fourth Division,4,H
+1965-11-27,1965/1966,Wolverhampton Wanderers,Portsmouth,8-2,8,2,Football League Second Division,2,H
+1965-11-27,1965/1966,Rotherham United,Bolton Wanderers,2-1,2,1,Football League Second Division,2,H
+1965-11-27,1965/1966,Southampton,Preston North End,5-2,5,2,Football League Second Division,2,H
+1965-11-27,1965/1966,Bristol City,Birmingham City,2-0,2,0,Football League Second Division,2,H
+1965-11-27,1965/1966,Cardiff City,Huddersfield Town,0-1,0,1,Football League Second Division,2,A
+1965-11-27,1965/1966,Coventry City,Leyton Orient,1-1,1,1,Football League Second Division,2,D
+1965-11-27,1965/1966,Derby County,Crystal Palace,4-0,4,0,Football League Second Division,2,H
+1965-11-27,1965/1966,Manchester City,Ipswich Town,2-1,2,1,Football League Second Division,2,H
+1965-11-27,1965/1966,Norwich City,Plymouth Argyle,0-0,0,0,Football League Second Division,2,D
+1965-11-27,1965/1966,Gillingham,Swansea City,2-0,2,0,Football League Third Division,3,H
+1965-11-27,1965/1966,Hull City,Grimsby Town,1-1,1,1,Football League Third Division,3,D
+1965-11-27,1965/1966,Exeter City,Bristol Rovers,1-0,1,0,Football League Third Division,3,H
+1965-11-27,1965/1966,Millwall,Oxford United,2-0,2,0,Football League Third Division,3,H
+1965-11-27,1965/1966,Peterborough United,York City,1-0,1,0,Football League Third Division,3,H
+1965-11-27,1965/1966,Queens Park Rangers,Swindon Town,3-2,3,2,Football League Third Division,3,H
+1965-11-27,1965/1966,Reading,Brentford,2-0,2,0,Football League Third Division,3,H
+1965-11-27,1965/1966,Watford,Workington,1-2,1,2,Football League Third Division,3,A
+1965-11-27,1965/1966,Brighton & Hove Albion,Southend United,9-1,9,1,Football League Third Division,3,H
+1965-11-27,1965/1966,Scunthorpe United,AFC Bournemouth,3-0,3,0,Football League Third Division,3,H
+1965-12-04,1965/1966,Burnley,Tottenham Hotspur,1-1,1,1,Football League First Division,1,D
+1965-12-04,1965/1966,Chelsea,Liverpool,0-1,0,1,Football League First Division,1,A
+1965-12-04,1965/1966,Everton,Sunderland,2-0,2,0,Football League First Division,1,H
+1965-12-04,1965/1966,Manchester United,West Ham United,0-0,0,0,Football League First Division,1,D
+1965-12-04,1965/1966,Arsenal,Aston Villa,3-3,3,3,Football League First Division,1,D
+1965-12-04,1965/1966,Nottingham Forest,Leicester City,2-0,2,0,Football League First Division,1,H
+1965-12-04,1965/1966,Sheffield Wednesday,Blackburn Rovers,2-1,2,1,Football League First Division,1,H
+1965-12-04,1965/1966,Stoke City,Fulham,3-2,3,2,Football League First Division,1,H
+1965-12-04,1965/1966,Northampton Town,Blackpool,2-1,2,1,Football League First Division,1,H
+1965-12-04,1965/1966,West Bromwich Albion,Sheffield United,1-1,1,1,Football League First Division,1,D
+1965-12-04,1965/1966,Doncaster Rovers,Colchester United,2-0,2,0,Football League Fourth Division,4,H
+1965-12-04,1965/1966,Huddersfield Town,Carlisle United,2-0,2,0,Football League Second Division,2,H
+1965-12-04,1965/1966,Leyton Orient,Bristol City,0-4,0,4,Football League Second Division,2,A
+1965-12-04,1965/1966,Middlesbrough,Coventry City,1-1,1,1,Football League Second Division,2,D
+1965-12-04,1965/1966,Plymouth Argyle,Bury,2-2,2,2,Football League Second Division,2,D
+1965-12-04,1965/1966,Preston North End,Derby County,2-0,2,0,Football League Second Division,2,H
+1965-12-04,1965/1966,Crystal Palace,Cardiff City,0-0,0,0,Football League Second Division,2,D
+1965-12-04,1965/1966,Portsmouth,Norwich City,0-3,0,3,Football League Second Division,2,A
+1965-12-04,1965/1966,Charlton Athletic,Southampton,2-2,2,2,Football League Second Division,2,D
+1965-12-04,1965/1966,Ipswich Town,Rotherham United,0-0,0,0,Football League Second Division,2,D
+1965-12-04,1965/1966,Birmingham City,Manchester City,3-1,3,1,Football League Second Division,2,H
+1965-12-04,1965/1966,Bolton Wanderers,Wolverhampton Wanderers,2-1,2,1,Football League Second Division,2,H
+1965-12-04,1965/1966,York City,Scunthorpe United,1-3,1,3,Football League Third Division,3,A
+1965-12-04,1965/1966,Exeter City,Gillingham,3-1,3,1,Football League Third Division,3,H
+1965-12-10,1965/1966,Halifax Town,Wrexham,4-0,4,0,Football League Fourth Division,4,H
+1965-12-10,1965/1966,Stockport County,Luton Town,4-1,4,1,Football League Fourth Division,4,H
+1965-12-10,1965/1966,Tranmere Rovers,Rochdale,6-2,6,2,Football League Fourth Division,4,H
+1965-12-11,1965/1966,Sunderland,Manchester United,2-3,2,3,Football League First Division,1,A
+1965-12-11,1965/1966,Aston Villa,Everton,3-2,3,2,Football League First Division,1,H
+1965-12-11,1965/1966,Blackburn Rovers,Northampton Town,6-1,6,1,Football League First Division,1,H
+1965-12-11,1965/1966,Fulham,Burnley,2-5,2,5,Football League First Division,1,A
+1965-12-11,1965/1966,Leeds United,West Bromwich Albion,4-0,4,0,Football League First Division,1,H
+1965-12-11,1965/1966,Leicester City,Sheffield Wednesday,4-1,4,1,Football League First Division,1,H
+1965-12-11,1965/1966,Liverpool,Arsenal,4-2,4,2,Football League First Division,1,H
+1965-12-11,1965/1966,Sheffield United,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1965-12-11,1965/1966,Tottenham Hotspur,Chelsea,4-2,4,2,Football League First Division,1,H
+1965-12-11,1965/1966,Blackpool,Stoke City,1-1,1,1,Football League First Division,1,D
+1965-12-11,1965/1966,West Ham United,Newcastle United,4-3,4,3,Football League First Division,1,H
+1965-12-11,1965/1966,Lincoln City,Hartlepool United,2-1,2,1,Football League Fourth Division,4,H
+1965-12-11,1965/1966,Barnsley,Torquay United,1-0,1,0,Football League Fourth Division,4,H
+1965-12-11,1965/1966,Bradford City,Newport County,3-2,3,2,Football League Fourth Division,4,H
+1965-12-11,1965/1966,Chester,Southport,1-0,1,0,Football League Fourth Division,4,H
+1965-12-11,1965/1966,Colchester United,Chesterfield,3-0,3,0,Football League Fourth Division,4,H
+1965-12-11,1965/1966,Crewe Alexandra,Aldershot,2-0,2,0,Football League Fourth Division,4,H
+1965-12-11,1965/1966,Darlington,Barrow,1-0,1,0,Football League Fourth Division,4,H
+1965-12-11,1965/1966,Notts County,Doncaster Rovers,1-2,1,2,Football League Fourth Division,4,A
+1965-12-11,1965/1966,Port Vale,Bradford Park Avenue,3-3,3,3,Football League Fourth Division,4,D
+1965-12-11,1965/1966,Southampton,Plymouth Argyle,4-1,4,1,Football League Second Division,2,H
+1965-12-11,1965/1966,Wolverhampton Wanderers,Ipswich Town,4-1,4,1,Football League Second Division,2,H
+1965-12-11,1965/1966,Bristol City,Middlesbrough,2-2,2,2,Football League Second Division,2,D
+1965-12-11,1965/1966,Bury,Portsmouth,1-0,1,0,Football League Second Division,2,H
+1965-12-11,1965/1966,Cardiff City,Preston North End,1-3,1,3,Football League Second Division,2,A
+1965-12-11,1965/1966,Carlisle United,Crystal Palace,3-1,3,1,Football League Second Division,2,H
+1965-12-11,1965/1966,Coventry City,Huddersfield Town,0-3,0,3,Football League Second Division,2,A
+1965-12-11,1965/1966,Derby County,Charlton Athletic,2-0,2,0,Football League Second Division,2,H
+1965-12-11,1965/1966,Manchester City,Leyton Orient,5-0,5,0,Football League Second Division,2,H
+1965-12-11,1965/1966,Norwich City,Bolton Wanderers,3-0,3,0,Football League Second Division,2,H
+1965-12-11,1965/1966,Rotherham United,Birmingham City,3-4,3,4,Football League Second Division,2,A
+1965-12-11,1965/1966,Queens Park Rangers,Grimsby Town,3-0,3,0,Football League Third Division,3,H
+1965-12-11,1965/1966,Peterborough United,Swansea City,5-2,5,2,Football League Third Division,3,H
+1965-12-11,1965/1966,Oldham Athletic,AFC Bournemouth,2-2,2,2,Football League Third Division,3,D
+1965-12-11,1965/1966,Hull City,Bristol Rovers,6-1,6,1,Football League Third Division,3,H
+1965-12-11,1965/1966,Mansfield Town,Brentford,2-0,2,0,Football League Third Division,3,H
+1965-12-11,1965/1966,Reading,York City,3-0,3,0,Football League Third Division,3,H
+1965-12-11,1965/1966,Gillingham,Workington,1-0,1,0,Football League Third Division,3,H
+1965-12-11,1965/1966,Millwall,Walsall,1-1,1,1,Football League Third Division,3,D
+1965-12-11,1965/1966,Scunthorpe United,Swindon Town,2-1,2,1,Football League Third Division,3,H
+1965-12-11,1965/1966,Exeter City,Oxford United,1-2,1,2,Football League Third Division,3,A
+1965-12-11,1965/1966,Watford,Southend United,4-1,4,1,Football League Third Division,3,H
+1965-12-11,1965/1966,Brighton & Hove Albion,Shrewsbury Town,1-1,1,1,Football League Third Division,3,D
+1965-12-15,1965/1966,Manchester United,Everton,3-0,3,0,Football League First Division,1,H
+1965-12-17,1965/1966,Southport,Stockport County,2-0,2,0,Football League Fourth Division,4,H
+1965-12-17,1965/1966,York City,Brighton & Hove Albion,0-1,0,1,Football League Third Division,3,A
+1965-12-17,1965/1966,AFC Bournemouth,Exeter City,0-1,0,1,Football League Third Division,3,A
+1965-12-17,1965/1966,Walsall,Hull City,2-4,2,4,Football League Third Division,3,A
+1965-12-18,1965/1966,Nottingham Forest,Sunderland,0-0,0,0,Football League First Division,1,D
+1965-12-18,1965/1966,Burnley,Leicester City,4-2,4,2,Football League First Division,1,H
+1965-12-18,1965/1966,Everton,Fulham,2-0,2,0,Football League First Division,1,H
+1965-12-18,1965/1966,Manchester United,Tottenham Hotspur,5-1,5,1,Football League First Division,1,H
+1965-12-18,1965/1966,Newcastle United,Liverpool,0-0,0,0,Football League First Division,1,D
+1965-12-18,1965/1966,Sheffield Wednesday,West Ham United,0-0,0,0,Football League First Division,1,D
+1965-12-18,1965/1966,Rochdale,Crewe Alexandra,2-1,2,1,Football League Fourth Division,4,H
+1965-12-18,1965/1966,Luton Town,Bradford City,2-3,2,3,Football League Fourth Division,4,A
+1965-12-18,1965/1966,Hartlepool United,Colchester United,0-1,0,1,Football League Fourth Division,4,A
+1965-12-18,1965/1966,Doncaster Rovers,Tranmere Rovers,3-1,3,1,Football League Fourth Division,4,H
+1965-12-18,1965/1966,Wrexham,Darlington,1-2,1,2,Football League Fourth Division,4,A
+1965-12-18,1965/1966,Chesterfield,Port Vale,3-1,3,1,Football League Fourth Division,4,H
+1965-12-18,1965/1966,Bradford Park Avenue,Lincoln City,4-2,4,2,Football League Fourth Division,4,H
+1965-12-18,1965/1966,Barrow,Barnsley,1-5,1,5,Football League Fourth Division,4,A
+1965-12-18,1965/1966,Preston North End,Bristol City,1-1,1,1,Football League Second Division,2,D
+1965-12-18,1965/1966,Middlesbrough,Wolverhampton Wanderers,3-1,3,1,Football League Second Division,2,H
+1965-12-18,1965/1966,Portsmouth,Cardiff City,3-1,3,1,Football League Second Division,2,H
+1965-12-18,1965/1966,Bolton Wanderers,Derby County,0-1,0,1,Football League Second Division,2,A
+1965-12-18,1965/1966,Crystal Palace,Manchester City,0-2,0,2,Football League Second Division,2,A
+1965-12-18,1965/1966,Huddersfield Town,Rotherham United,4-0,4,0,Football League Second Division,2,H
+1965-12-18,1965/1966,Ipswich Town,Southampton,3-0,3,0,Football League Second Division,2,H
+1965-12-18,1965/1966,Birmingham City,Bury,4-0,4,0,Football League Second Division,2,H
+1965-12-18,1965/1966,Grimsby Town,Oldham Athletic,3-1,3,1,Football League Third Division,3,H
+1965-12-18,1965/1966,Southend United,Peterborough United,2-0,2,0,Football League Third Division,3,H
+1965-12-18,1965/1966,Oxford United,Queens Park Rangers,1-3,1,3,Football League Third Division,3,A
+1965-12-25,1965/1966,Blackpool,Blackburn Rovers,4-2,4,2,Football League First Division,1,H
+1965-12-27,1965/1966,Liverpool,Leeds United,0-1,0,1,Football League First Division,1,A
+1965-12-27,1965/1966,Manchester United,West Bromwich Albion,1-1,1,1,Football League First Division,1,D
+1965-12-27,1965/1966,Northampton Town,Chelsea,2-3,2,3,Football League First Division,1,A
+1965-12-27,1965/1966,Sheffield Wednesday,Arsenal,4-0,4,0,Football League First Division,1,H
+1965-12-27,1965/1966,Stoke City,Burnley,3-1,3,1,Football League First Division,1,H
+1965-12-27,1965/1966,Tottenham Hotspur,Sheffield United,1-0,1,0,Football League First Division,1,H
+1965-12-27,1965/1966,Nottingham Forest,Everton,1-0,1,0,Football League First Division,1,H
+1965-12-27,1965/1966,Barnsley,Halifax Town,1-2,1,2,Football League Fourth Division,4,A
+1965-12-27,1965/1966,Colchester United,Chester,1-1,1,1,Football League Fourth Division,4,D
+1965-12-27,1965/1966,Chesterfield,Bradford Park Avenue,0-3,0,3,Football League Fourth Division,4,A
+1965-12-27,1965/1966,Hartlepool United,Darlington,1-1,1,1,Football League Fourth Division,4,D
+1965-12-27,1965/1966,Rochdale,Wrexham,6-0,6,0,Football League Fourth Division,4,H
+1965-12-27,1965/1966,Torquay United,Aldershot,5-1,5,1,Football League Fourth Division,4,H
+1965-12-27,1965/1966,Tranmere Rovers,Notts County,0-3,0,3,Football League Fourth Division,4,A
+1965-12-27,1965/1966,Barrow,Doncaster Rovers,2-1,2,1,Football League Fourth Division,4,H
+1965-12-27,1965/1966,Southport,Luton Town,3-2,3,2,Football League Fourth Division,4,H
+1965-12-27,1965/1966,Wolverhampton Wanderers,Bristol City,1-1,1,1,Football League Second Division,2,D
+1965-12-27,1965/1966,Carlisle United,Bury,4-1,4,1,Football League Second Division,2,H
+1965-12-27,1965/1966,Charlton Athletic,Portsmouth,2-2,2,2,Football League Second Division,2,D
+1965-12-27,1965/1966,Crystal Palace,Ipswich Town,3-1,3,1,Football League Second Division,2,H
+1965-12-27,1965/1966,Middlesbrough,Leyton Orient,2-1,2,1,Football League Second Division,2,H
+1965-12-27,1965/1966,Norwich City,Coventry City,1-1,1,1,Football League Second Division,2,D
+1965-12-27,1965/1966,Plymouth Argyle,Derby County,0-0,0,0,Football League Second Division,2,D
+1965-12-27,1965/1966,Cardiff City,Southampton,3-5,3,5,Football League Second Division,2,A
+1965-12-27,1965/1966,Grimsby Town,Swindon Town,2-2,2,2,Football League Third Division,3,D
+1965-12-27,1965/1966,Hull City,Millwall,1-0,1,0,Football League Third Division,3,H
+1965-12-27,1965/1966,Oxford United,Walsall,7-1,7,1,Football League Third Division,3,H
+1965-12-27,1965/1966,Reading,Peterborough United,2-1,2,1,Football League Third Division,3,H
+1965-12-27,1965/1966,Shrewsbury Town,Scunthorpe United,1-4,1,4,Football League Third Division,3,A
+1965-12-27,1965/1966,York City,Workington,3-3,3,3,Football League Third Division,3,D
+1965-12-27,1965/1966,Exeter City,Swansea City,1-1,1,1,Football League Third Division,3,D
+1965-12-27,1965/1966,Bristol Rovers,AFC Bournemouth,0-0,0,0,Football League Third Division,3,D
+1965-12-27,1965/1966,Brighton & Hove Albion,Watford,2-0,2,0,Football League Third Division,3,H
+1965-12-28,1965/1966,Sheffield United,Tottenham Hotspur,1-3,1,3,Football League First Division,1,A
+1965-12-28,1965/1966,Leicester City,Fulham,5-0,5,0,Football League First Division,1,H
+1965-12-28,1965/1966,Leeds United,Liverpool,0-1,0,1,Football League First Division,1,A
+1965-12-28,1965/1966,Chelsea,Northampton Town,1-0,1,0,Football League First Division,1,H
+1965-12-28,1965/1966,Burnley,Stoke City,4-1,4,1,Football League First Division,1,H
+1965-12-28,1965/1966,Arsenal,Sheffield Wednesday,5-2,5,2,Football League First Division,1,H
+1965-12-28,1965/1966,Luton Town,Southport,2-0,2,0,Football League Fourth Division,4,H
+1965-12-28,1965/1966,Halifax Town,Barnsley,2-2,2,2,Football League Fourth Division,4,D
+1965-12-28,1965/1966,Doncaster Rovers,Barrow,1-1,1,1,Football League Fourth Division,4,D
+1965-12-28,1965/1966,Darlington,Hartlepool United,1-1,1,1,Football League Fourth Division,4,D
+1965-12-28,1965/1966,Chester,Colchester United,2-1,2,1,Football League Fourth Division,4,H
+1965-12-28,1965/1966,Portsmouth,Charlton Athletic,3-1,3,1,Football League Second Division,2,H
+1965-12-28,1965/1966,Bristol City,Wolverhampton Wanderers,0-1,0,1,Football League Second Division,2,A
+1965-12-28,1965/1966,Birmingham City,Huddersfield Town,2-1,2,1,Football League Second Division,2,H
+1965-12-28,1965/1966,Coventry City,Norwich City,2-0,2,0,Football League Second Division,2,H
+1965-12-28,1965/1966,AFC Bournemouth,Bristol Rovers,1-0,1,0,Football League Third Division,3,H
+1965-12-28,1965/1966,Millwall,Hull City,3-0,3,0,Football League Third Division,3,H
+1965-12-28,1965/1966,Scunthorpe United,Shrewsbury Town,1-4,1,4,Football League Third Division,3,A
+1965-12-31,1965/1966,Halifax Town,Newport County,4-4,4,4,Football League Fourth Division,4,D
+1966-01-01,1965/1966,Aston Villa,Newcastle United,4-2,4,2,Football League First Division,1,H
+1966-01-01,1965/1966,Blackburn Rovers,Burnley,0-2,0,2,Football League First Division,1,A
+1966-01-01,1965/1966,Blackpool,Chelsea,1-2,1,2,Football League First Division,1,A
+1966-01-01,1965/1966,Fulham,Arsenal,1-0,1,0,Football League First Division,1,H
+1966-01-01,1965/1966,Leeds United,Sheffield Wednesday,3-0,3,0,Football League First Division,1,H
+1966-01-01,1965/1966,Leicester City,Stoke City,1-0,1,0,Football League First Division,1,H
+1966-01-01,1965/1966,Liverpool,Manchester United,2-1,2,1,Football League First Division,1,H
+1966-01-01,1965/1966,Sheffield United,Northampton Town,2-2,2,2,Football League First Division,1,D
+1966-01-01,1965/1966,Sunderland,West Bromwich Albion,1-5,1,5,Football League First Division,1,A
+1966-01-01,1965/1966,West Ham United,Nottingham Forest,0-3,0,3,Football League First Division,1,A
+1966-01-01,1965/1966,Tottenham Hotspur,Everton,2-2,2,2,Football League First Division,1,D
+1966-01-01,1965/1966,Tranmere Rovers,Hartlepool United,6-1,6,1,Football League Fourth Division,4,H
+1966-01-01,1965/1966,Crewe Alexandra,Chesterfield,1-0,1,0,Football League Fourth Division,4,H
+1966-01-01,1965/1966,Bradford City,Rochdale,2-1,2,1,Football League Fourth Division,4,H
+1966-01-01,1965/1966,Chester,Aldershot,3-2,3,2,Football League Fourth Division,4,H
+1966-01-01,1965/1966,Colchester United,Barrow,2-2,2,2,Football League Fourth Division,4,D
+1966-01-01,1965/1966,Darlington,Southport,2-0,2,0,Football League Fourth Division,4,H
+1966-01-01,1965/1966,Lincoln City,Wrexham,0-2,0,2,Football League Fourth Division,4,A
+1966-01-01,1965/1966,Notts County,Bradford Park Avenue,2-0,2,0,Football League Fourth Division,4,H
+1966-01-01,1965/1966,Port Vale,Torquay United,0-0,0,0,Football League Fourth Division,4,D
+1966-01-01,1965/1966,Stockport County,Doncaster Rovers,1-1,1,1,Football League Fourth Division,4,D
+1966-01-01,1965/1966,Barnsley,Luton Town,3-0,3,0,Football League Fourth Division,4,H
+1966-01-01,1965/1966,Southampton,Bolton Wanderers,5-1,5,1,Football League Second Division,2,H
+1966-01-01,1965/1966,Wolverhampton Wanderers,Leyton Orient,2-1,2,1,Football League Second Division,2,H
+1966-01-01,1965/1966,Rotherham United,Middlesbrough,4-1,4,1,Football League Second Division,2,H
+1966-01-01,1965/1966,Bristol City,Crystal Palace,1-1,1,1,Football League Second Division,2,D
+1966-01-01,1965/1966,Bury,Ipswich Town,1-1,1,1,Football League Second Division,2,D
+1966-01-01,1965/1966,Cardiff City,Plymouth Argyle,5-1,5,1,Football League Second Division,2,H
+1966-01-01,1965/1966,Carlisle United,Charlton Athletic,3-1,3,1,Football League Second Division,2,H
+1966-01-01,1965/1966,Coventry City,Preston North End,5-1,5,1,Football League Second Division,2,H
+1966-01-01,1965/1966,Derby County,Portsmouth,3-1,3,1,Football League Second Division,2,H
+1966-01-01,1965/1966,Manchester City,Huddersfield Town,2-0,2,0,Football League Second Division,2,H
+1966-01-01,1965/1966,Norwich City,Birmingham City,2-2,2,2,Football League Second Division,2,D
+1966-01-01,1965/1966,Hull City,Swansea City,4-1,4,1,Football League Third Division,3,H
+1966-01-01,1965/1966,Mansfield Town,Oxford United,1-4,1,4,Football League Third Division,3,A
+1966-01-01,1965/1966,Millwall,Southend United,2-0,2,0,Football League Third Division,3,H
+1966-01-01,1965/1966,Oldham Athletic,Shrewsbury Town,0-1,0,1,Football League Third Division,3,A
+1966-01-01,1965/1966,Gillingham,Swindon Town,1-0,1,0,Football League Third Division,3,H
+1966-01-01,1965/1966,Queens Park Rangers,York City,7-2,7,2,Football League Third Division,3,H
+1966-01-01,1965/1966,Reading,Walsall,3-0,3,0,Football League Third Division,3,H
+1966-01-01,1965/1966,Scunthorpe United,Brentford,3-2,3,2,Football League Third Division,3,H
+1966-01-01,1965/1966,Watford,Grimsby Town,1-1,1,1,Football League Third Division,3,D
+1966-01-01,1965/1966,Exeter City,Workington,2-1,2,1,Football League Third Division,3,H
+1966-01-01,1965/1966,Brighton & Hove Albion,Bristol Rovers,4-3,4,3,Football League Third Division,3,H
+1966-01-01,1965/1966,Peterborough United,AFC Bournemouth,1-0,1,0,Football League Third Division,3,H
+1966-01-03,1965/1966,Sunderland,Newcastle United,2-0,2,0,Football League First Division,1,H
+1966-01-04,1965/1966,Bradford Park Avenue,Chesterfield,3-1,3,1,Football League Fourth Division,4,H
+1966-01-07,1965/1966,Workington,Brighton & Hove Albion,1-0,1,0,Football League Third Division,3,H
+1966-01-08,1965/1966,Burnley,Fulham,1-0,1,0,Football League First Division,1,H
+1966-01-08,1965/1966,Chelsea,Tottenham Hotspur,2-1,2,1,Football League First Division,1,H
+1966-01-08,1965/1966,Everton,Aston Villa,2-0,2,0,Football League First Division,1,H
+1966-01-08,1965/1966,Manchester United,Sunderland,1-1,1,1,Football League First Division,1,D
+1966-01-08,1965/1966,Newcastle United,West Ham United,2-1,2,1,Football League First Division,1,H
+1966-01-08,1965/1966,Northampton Town,Blackburn Rovers,2-1,2,1,Football League First Division,1,H
+1966-01-08,1965/1966,Nottingham Forest,Sheffield United,1-0,1,0,Football League First Division,1,H
+1966-01-08,1965/1966,Sheffield Wednesday,Leicester City,1-2,1,2,Football League First Division,1,A
+1966-01-08,1965/1966,Stoke City,Blackpool,4-1,4,1,Football League First Division,1,H
+1966-01-08,1965/1966,Arsenal,Liverpool,0-1,0,1,Football League First Division,1,A
+1966-01-08,1965/1966,West Bromwich Albion,Leeds United,1-2,1,2,Football League First Division,1,A
+1966-01-08,1965/1966,Aldershot,Tranmere Rovers,1-3,1,3,Football League Fourth Division,4,A
+1966-01-08,1965/1966,Newport County,Stockport County,1-0,1,0,Football League Fourth Division,4,H
+1966-01-08,1965/1966,Bradford Park Avenue,Colchester United,1-0,1,0,Football League Fourth Division,4,H
+1966-01-08,1965/1966,Chesterfield,Lincoln City,1-0,1,0,Football League Fourth Division,4,H
+1966-01-08,1965/1966,Doncaster Rovers,Crewe Alexandra,4-1,4,1,Football League Fourth Division,4,H
+1966-01-08,1965/1966,Luton Town,Chester,5-2,5,2,Football League Fourth Division,4,H
+1966-01-08,1965/1966,Rochdale,Notts County,0-2,0,2,Football League Fourth Division,4,A
+1966-01-08,1965/1966,Southport,Bradford City,4-0,4,0,Football League Fourth Division,4,H
+1966-01-08,1965/1966,Torquay United,Darlington,0-4,0,4,Football League Fourth Division,4,A
+1966-01-08,1965/1966,Wrexham,Barnsley,6-3,6,3,Football League Fourth Division,4,H
+1966-01-08,1965/1966,Barrow,Halifax Town,3-0,3,0,Football League Fourth Division,4,H
+1966-01-08,1965/1966,Hartlepool United,Port Vale,2-0,2,0,Football League Fourth Division,4,H
+1966-01-08,1965/1966,Portsmouth,Manchester City,2-2,2,2,Football League Second Division,2,D
+1966-01-08,1965/1966,Preston North End,Norwich City,0-0,0,0,Football League Second Division,2,D
+1966-01-08,1965/1966,Birmingham City,Carlisle United,2-1,2,1,Football League Second Division,2,H
+1966-01-08,1965/1966,Bolton Wanderers,Bristol City,1-2,1,2,Football League Second Division,2,A
+1966-01-08,1965/1966,Charlton Athletic,Wolverhampton Wanderers,1-1,1,1,Football League Second Division,2,D
+1966-01-08,1965/1966,Plymouth Argyle,Rotherham United,5-2,5,2,Football League Second Division,2,H
+1966-01-08,1965/1966,Crystal Palace,Bury,1-0,1,0,Football League Second Division,2,H
+1966-01-08,1965/1966,Huddersfield Town,Southampton,2-0,2,0,Football League Second Division,2,H
+1966-01-08,1965/1966,Ipswich Town,Coventry City,1-0,1,0,Football League Second Division,2,H
+1966-01-08,1965/1966,Leyton Orient,Cardiff City,1-1,1,1,Football League Second Division,2,D
+1966-01-08,1965/1966,Middlesbrough,Derby County,0-0,0,0,Football League Second Division,2,D
+1966-01-08,1965/1966,Bristol Rovers,Millwall,1-1,1,1,Football League Third Division,3,D
+1966-01-08,1965/1966,Grimsby Town,Exeter City,1-1,1,1,Football League Third Division,3,D
+1966-01-08,1965/1966,Oxford United,Oldham Athletic,3-3,3,3,Football League Third Division,3,D
+1966-01-08,1965/1966,Shrewsbury Town,Reading,3-3,3,3,Football League Third Division,3,D
+1966-01-08,1965/1966,Southend United,Mansfield Town,1-0,1,0,Football League Third Division,3,H
+1966-01-08,1965/1966,Swansea City,Watford,4-2,4,2,Football League Third Division,3,H
+1966-01-08,1965/1966,Swindon Town,Hull City,3-1,3,1,Football League Third Division,3,H
+1966-01-08,1965/1966,Walsall,Scunthorpe United,3-0,3,0,Football League Third Division,3,H
+1966-01-08,1965/1966,York City,Gillingham,1-2,1,2,Football League Third Division,3,A
+1966-01-08,1965/1966,Brentford,Peterborough United,1-0,1,0,Football League Third Division,3,H
+1966-01-08,1965/1966,AFC Bournemouth,Queens Park Rangers,1-1,1,1,Football League Third Division,3,D
+1966-01-11,1965/1966,Everton,West Ham United,2-2,2,2,Football League First Division,1,D
+1966-01-12,1965/1966,Leeds United,Manchester United,1-1,1,1,Football League First Division,1,D
+1966-01-12,1965/1966,Bradford City,Port Vale,2-0,2,0,Football League Fourth Division,4,H
+1966-01-12,1965/1966,Manchester City,Rotherham United,3-1,3,1,Football League Second Division,2,H
+1966-01-14,1965/1966,Tranmere Rovers,Southport,0-2,0,2,Football League Fourth Division,4,A
+1966-01-14,1965/1966,Stockport County,Wrexham,2-4,2,4,Football League Fourth Division,4,A
+1966-01-15,1965/1966,Liverpool,West Bromwich Albion,2-2,2,2,Football League First Division,1,D
+1966-01-15,1965/1966,Aston Villa,Nottingham Forest,3-0,3,0,Football League First Division,1,H
+1966-01-15,1965/1966,Blackburn Rovers,Arsenal,2-1,2,1,Football League First Division,1,H
+1966-01-15,1965/1966,Blackpool,Everton,2-0,2,0,Football League First Division,1,H
+1966-01-15,1965/1966,Fulham,Manchester United,0-1,0,1,Football League First Division,1,A
+1966-01-15,1965/1966,Sheffield United,Burnley,2-1,2,1,Football League First Division,1,H
+1966-01-15,1965/1966,Tottenham Hotspur,Newcastle United,2-2,2,2,Football League First Division,1,D
+1966-01-15,1965/1966,Leeds United,Stoke City,2-2,2,2,Football League First Division,1,D
+1966-01-15,1965/1966,West Ham United,Northampton Town,1-1,1,1,Football League First Division,1,D
+1966-01-15,1965/1966,Barnsley,Hartlepool United,2-2,2,2,Football League Fourth Division,4,D
+1966-01-15,1965/1966,Port Vale,Rochdale,2-1,2,1,Football League Fourth Division,4,H
+1966-01-15,1965/1966,Chester,Torquay United,1-1,1,1,Football League Fourth Division,4,D
+1966-01-15,1965/1966,Colchester United,Doncaster Rovers,2-1,2,1,Football League Fourth Division,4,H
+1966-01-15,1965/1966,Crewe Alexandra,Luton Town,2-0,2,0,Football League Fourth Division,4,H
+1966-01-15,1965/1966,Lincoln City,Aldershot,2-1,2,1,Football League Fourth Division,4,H
+1966-01-15,1965/1966,Notts County,Newport County,1-1,1,1,Football League Fourth Division,4,D
+1966-01-15,1965/1966,Bradford City,Barrow,0-0,0,0,Football League Fourth Division,4,D
+1966-01-15,1965/1966,Wolverhampton Wanderers,Huddersfield Town,2-1,2,1,Football League Second Division,2,H
+1966-01-15,1965/1966,Bury,Leyton Orient,3-0,3,0,Football League Second Division,2,H
+1966-01-15,1965/1966,Carlisle United,Portsmouth,2-1,2,1,Football League Second Division,2,H
+1966-01-15,1965/1966,Coventry City,Plymouth Argyle,5-1,5,1,Football League Second Division,2,H
+1966-01-15,1965/1966,Derby County,Ipswich Town,2-2,2,2,Football League Second Division,2,D
+1966-01-15,1965/1966,Manchester City,Preston North End,0-0,0,0,Football League Second Division,2,D
+1966-01-15,1965/1966,Rotherham United,Crystal Palace,3-0,3,0,Football League Second Division,2,H
+1966-01-15,1965/1966,Mansfield Town,Walsall,0-3,0,3,Football League Third Division,3,A
+1966-01-15,1965/1966,Millwall,Shrewsbury Town,4-2,4,2,Football League Third Division,3,H
+1966-01-15,1965/1966,Oldham Athletic,Brentford,1-1,1,1,Football League Third Division,3,D
+1966-01-15,1965/1966,Peterborough United,Swindon Town,2-3,2,3,Football League Third Division,3,A
+1966-01-15,1965/1966,Queens Park Rangers,Swansea City,6-2,6,2,Football League Third Division,3,H
+1966-01-15,1965/1966,Scunthorpe United,York City,4-1,4,1,Football League Third Division,3,H
+1966-01-15,1965/1966,Watford,Bristol Rovers,2-0,2,0,Football League Third Division,3,H
+1966-01-15,1965/1966,Hull City,Workington,6-0,6,0,Football League Third Division,3,H
+1966-01-15,1965/1966,Exeter City,Southend United,1-1,1,1,Football League Third Division,3,D
+1966-01-21,1965/1966,York City,Watford,1-0,1,0,Football League Third Division,3,H
+1966-01-22,1965/1966,Halifax Town,Barrow,2-1,2,1,Football League Fourth Division,4,H
+1966-01-22,1965/1966,Swansea City,Exeter City,1-0,1,0,Football League Third Division,3,H
+1966-01-26,1965/1966,Sunderland,Sheffield Wednesday,0-2,0,2,Football League First Division,1,A
+1966-01-28,1965/1966,Tranmere Rovers,Halifax Town,5-2,5,2,Football League Fourth Division,4,H
+1966-01-28,1965/1966,Stockport County,Chester,0-1,0,1,Football League Fourth Division,4,A
+1966-01-28,1965/1966,Lincoln City,Doncaster Rovers,0-3,0,3,Football League Fourth Division,4,A
+1966-01-28,1965/1966,Workington,Millwall,0-0,0,0,Football League Third Division,3,D
+1966-01-29,1965/1966,Aston Villa,Sheffield United,0-2,0,2,Football League First Division,1,A
+1966-01-29,1965/1966,Burnley,Chelsea,1-2,1,2,Football League First Division,1,A
+1966-01-29,1965/1966,Fulham,Blackpool,0-0,0,0,Football League First Division,1,D
+1966-01-29,1965/1966,Liverpool,Leicester City,1-0,1,0,Football League First Division,1,H
+1966-01-29,1965/1966,Nottingham Forest,Newcastle United,1-2,1,2,Football League First Division,1,A
+1966-01-29,1965/1966,Sheffield Wednesday,Manchester United,0-0,0,0,Football League First Division,1,D
+1966-01-29,1965/1966,Stoke City,Arsenal,1-3,1,3,Football League First Division,1,A
+1966-01-29,1965/1966,Sunderland,Leeds United,2-0,2,0,Football League First Division,1,H
+1966-01-29,1965/1966,Northampton Town,Everton,0-2,0,2,Football League First Division,1,A
+1966-01-29,1965/1966,Tottenham Hotspur,Blackburn Rovers,4-0,4,0,Football League First Division,1,H
+1966-01-29,1965/1966,West Ham United,West Bromwich Albion,4-0,4,0,Football League First Division,1,H
+1966-01-29,1965/1966,Aldershot,Rochdale,2-3,2,3,Football League Fourth Division,4,A
+1966-01-29,1965/1966,Barnsley,Crewe Alexandra,0-1,0,1,Football League Fourth Division,4,A
+1966-01-29,1965/1966,Bradford Park Avenue,Luton Town,1-3,1,3,Football League Fourth Division,4,A
+1966-01-29,1965/1966,Colchester United,Port Vale,3-0,3,0,Football League Fourth Division,4,H
+1966-01-29,1965/1966,Darlington,Notts County,1-0,1,0,Football League Fourth Division,4,H
+1966-01-29,1965/1966,Southport,Hartlepool United,4-1,4,1,Football League Fourth Division,4,H
+1966-01-29,1965/1966,Torquay United,Bradford City,4-3,4,3,Football League Fourth Division,4,H
+1966-01-29,1965/1966,Wrexham,Barrow,3-1,3,1,Football League Fourth Division,4,H
+1966-01-29,1965/1966,Wolverhampton Wanderers,Coventry City,0-1,0,1,Football League Second Division,2,A
+1966-01-29,1965/1966,Southampton,Derby County,3-1,3,1,Football League Second Division,2,H
+1966-01-29,1965/1966,Preston North End,Ipswich Town,0-1,0,1,Football League Second Division,2,A
+1966-01-29,1965/1966,Rotherham United,Bristol City,1-2,1,2,Football League Second Division,2,A
+1966-01-29,1965/1966,Bury,Cardiff City,1-1,1,1,Football League Second Division,2,D
+1966-01-29,1965/1966,Charlton Athletic,Bolton Wanderers,0-1,0,1,Football League Second Division,2,A
+1966-01-29,1965/1966,Plymouth Argyle,Portsmouth,3-1,3,1,Football League Second Division,2,H
+1966-01-29,1965/1966,Crystal Palace,Birmingham City,1-0,1,0,Football League Second Division,2,H
+1966-01-29,1965/1966,Huddersfield Town,Leyton Orient,1-1,1,1,Football League Second Division,2,D
+1966-01-29,1965/1966,Manchester City,Middlesbrough,3-1,3,1,Football League Second Division,2,H
+1966-01-29,1965/1966,Norwich City,Carlisle United,2-0,2,0,Football League Second Division,2,H
+1966-01-29,1965/1966,Brighton & Hove Albion,Mansfield Town,6-4,6,4,Football League Third Division,3,H
+1966-01-29,1965/1966,Bristol Rovers,Grimsby Town,2-1,2,1,Football League Third Division,3,H
+1966-01-29,1965/1966,Gillingham,Peterborough United,1-1,1,1,Football League Third Division,3,D
+1966-01-29,1965/1966,Oldham Athletic,Exeter City,3-1,3,1,Football League Third Division,3,H
+1966-01-29,1965/1966,Oxford United,Swindon Town,0-3,0,3,Football League Third Division,3,A
+1966-01-29,1965/1966,Queens Park Rangers,Brentford,1-0,1,0,Football League Third Division,3,H
+1966-01-29,1965/1966,Scunthorpe United,Hull City,2-4,2,4,Football League Third Division,3,A
+1966-01-29,1965/1966,Swansea City,Southend United,5-0,5,0,Football League Third Division,3,H
+1966-01-29,1965/1966,Walsall,AFC Bournemouth,2-1,2,1,Football League Third Division,3,H
+1966-01-29,1965/1966,York City,Shrewsbury Town,2-2,2,2,Football League Third Division,3,D
+1966-01-29,1965/1966,Watford,Reading,1-2,1,2,Football League Third Division,3,A
+1966-01-31,1965/1966,Newport County,Chesterfield,3-4,3,4,Football League Fourth Division,4,A
+1966-02-05,1965/1966,Manchester United,Northampton Town,6-2,6,2,Football League First Division,1,H
+1966-02-05,1965/1966,Arsenal,Burnley,1-1,1,1,Football League First Division,1,D
+1966-02-05,1965/1966,Blackburn Rovers,Liverpool,1-4,1,4,Football League First Division,1,A
+1966-02-05,1965/1966,Blackpool,Tottenham Hotspur,0-0,0,0,Football League First Division,1,D
+1966-02-05,1965/1966,Chelsea,Fulham,2-1,2,1,Football League First Division,1,H
+1966-02-05,1965/1966,Leeds United,West Ham United,5-0,5,0,Football League First Division,1,H
+1966-02-05,1965/1966,Leicester City,Aston Villa,2-1,2,1,Football League First Division,1,H
+1966-02-05,1965/1966,Newcastle United,Sheffield Wednesday,2-0,2,0,Football League First Division,1,H
+1966-02-05,1965/1966,Sheffield United,Sunderland,2-2,2,2,Football League First Division,1,D
+1966-02-05,1965/1966,West Bromwich Albion,Nottingham Forest,5-3,5,3,Football League First Division,1,H
+1966-02-05,1965/1966,Everton,Stoke City,2-1,2,1,Football League First Division,1,H
+1966-02-05,1965/1966,Barrow,Bradford Park Avenue,5-2,5,2,Football League Fourth Division,4,H
+1966-02-05,1965/1966,Bradford City,Barnsley,1-0,1,0,Football League Fourth Division,4,H
+1966-02-05,1965/1966,Rochdale,Newport County,2-1,2,1,Football League Fourth Division,4,H
+1966-02-05,1965/1966,Chesterfield,Torquay United,1-1,1,1,Football League Fourth Division,4,D
+1966-02-05,1965/1966,Crewe Alexandra,Colchester United,0-2,0,2,Football League Fourth Division,4,A
+1966-02-05,1965/1966,Doncaster Rovers,Southport,1-1,1,1,Football League Fourth Division,4,D
+1966-02-05,1965/1966,Halifax Town,Stockport County,0-1,0,1,Football League Fourth Division,4,A
+1966-02-05,1965/1966,Hartlepool United,Wrexham,4-2,4,2,Football League Fourth Division,4,H
+1966-02-05,1965/1966,Luton Town,Aldershot,3-1,3,1,Football League Fourth Division,4,H
+1966-02-05,1965/1966,Notts County,Lincoln City,2-1,2,1,Football League Fourth Division,4,H
+1966-02-05,1965/1966,Port Vale,Tranmere Rovers,2-3,2,3,Football League Fourth Division,4,A
+1966-02-05,1965/1966,Chester,Darlington,3-2,3,2,Football League Fourth Division,4,H
+1966-02-05,1965/1966,Bolton Wanderers,Plymouth Argyle,0-1,0,1,Football League Second Division,2,A
+1966-02-05,1965/1966,Bristol City,Manchester City,1-1,1,1,Football League Second Division,2,D
+1966-02-05,1965/1966,Carlisle United,Wolverhampton Wanderers,2-1,2,1,Football League Second Division,2,H
+1966-02-05,1965/1966,Coventry City,Rotherham United,2-2,2,2,Football League Second Division,2,D
+1966-02-05,1965/1966,Derby County,Bury,4-1,4,1,Football League Second Division,2,H
+1966-02-05,1965/1966,Ipswich Town,Charlton Athletic,1-4,1,4,Football League Second Division,2,A
+1966-02-05,1965/1966,Leyton Orient,Crystal Palace,0-2,0,2,Football League Second Division,2,A
+1966-02-05,1965/1966,Middlesbrough,Huddersfield Town,1-3,1,3,Football League Second Division,2,A
+1966-02-05,1965/1966,Portsmouth,Southampton,2-5,2,5,Football League Second Division,2,A
+1966-02-05,1965/1966,Birmingham City,Preston North End,1-1,1,1,Football League Second Division,2,D
+1966-02-05,1965/1966,Mansfield Town,Queens Park Rangers,2-1,2,1,Football League Third Division,3,H
+1966-02-05,1965/1966,Millwall,Gillingham,2-0,2,0,Football League Third Division,3,H
+1966-02-05,1965/1966,Peterborough United,Oldham Athletic,0-1,0,1,Football League Third Division,3,A
+1966-02-05,1965/1966,Reading,Scunthorpe United,2-0,2,0,Football League Third Division,3,H
+1966-02-05,1965/1966,Shrewsbury Town,Oxford United,4-0,4,0,Football League Third Division,3,H
+1966-02-05,1965/1966,Southend United,Walsall,5-3,5,3,Football League Third Division,3,H
+1966-02-05,1965/1966,Swindon Town,Swansea City,2-2,2,2,Football League Third Division,3,D
+1966-02-05,1965/1966,Hull City,Brighton & Hove Albion,1-0,1,0,Football League Third Division,3,H
+1966-02-05,1965/1966,Grimsby Town,York City,3-1,3,1,Football League Third Division,3,H
+1966-02-05,1965/1966,Exeter City,Watford,1-2,1,2,Football League Third Division,3,A
+1966-02-05,1965/1966,AFC Bournemouth,Workington,1-1,1,1,Football League Third Division,3,D
+1966-02-05,1965/1966,Brentford,Bristol Rovers,0-5,0,5,Football League Third Division,3,A
+1966-02-07,1965/1966,Aston Villa,West Ham United,1-2,1,2,Football League First Division,1,A
+1966-02-11,1965/1966,West Bromwich Albion,Aston Villa,2-2,2,2,Football League First Division,1,D
+1966-02-11,1965/1966,Stockport County,Barrow,5-2,5,2,Football League Fourth Division,4,H
+1966-02-11,1965/1966,Bristol City,Bury,2-1,2,1,Football League Second Division,2,H
+1966-02-11,1965/1966,Ipswich Town,Crystal Palace,2-2,2,2,Football League Second Division,2,D
+1966-02-11,1965/1966,Workington,Oxford United,2-1,2,1,Football League Third Division,3,H
+1966-02-12,1965/1966,Liverpool,Sunderland,4-0,4,0,Football League First Division,1,H
+1966-02-12,1965/1966,Stoke City,Northampton Town,6-2,6,2,Football League First Division,1,H
+1966-02-12,1965/1966,Bradford Park Avenue,Newport County,6-1,6,1,Football League Fourth Division,4,H
+1966-02-12,1965/1966,Torquay United,Wrexham,3-1,3,1,Football League Fourth Division,4,H
+1966-02-12,1965/1966,Rochdale,Doncaster Rovers,0-1,0,1,Football League Fourth Division,4,A
+1966-02-12,1965/1966,Luton Town,Hartlepool United,2-1,2,1,Football League Fourth Division,4,H
+1966-02-12,1965/1966,Lincoln City,Colchester United,0-2,0,2,Football League Fourth Division,4,A
+1966-02-12,1965/1966,Halifax Town,Chesterfield,4-1,4,1,Football League Fourth Division,4,H
+1966-02-12,1965/1966,Chester,Bradford City,4-0,4,0,Football League Fourth Division,4,H
+1966-02-12,1965/1966,Barnsley,Notts County,1-1,1,1,Football League Fourth Division,4,D
+1966-02-12,1965/1966,Aldershot,Port Vale,3-0,3,0,Football League Fourth Division,4,H
+1966-02-12,1965/1966,York City,AFC Bournemouth,0-2,0,2,Football League Third Division,3,A
+1966-02-12,1965/1966,Swindon Town,Brentford,2-1,2,1,Football League Third Division,3,H
+1966-02-12,1965/1966,Southend United,Bristol Rovers,2-0,2,0,Football League Third Division,3,H
+1966-02-12,1965/1966,Reading,Millwall,1-1,1,1,Football League Third Division,3,D
+1966-02-12,1965/1966,Brighton & Hove Albion,Scunthorpe United,0-1,0,1,Football League Third Division,3,A
+1966-02-15,1965/1966,Doncaster Rovers,Chesterfield,1-0,1,0,Football League Fourth Division,4,H
+1966-02-15,1965/1966,Queens Park Rangers,Watford,1-1,1,1,Football League Third Division,3,D
+1966-02-16,1965/1966,Bradford City,Bradford Park Avenue,3-0,3,0,Football League Fourth Division,4,H
+1966-02-16,1965/1966,Aldershot,Torquay United,3-2,3,2,Football League Fourth Division,4,H
+1966-02-18,1965/1966,Stockport County,Port Vale,3-0,3,0,Football League Fourth Division,4,H
+1966-02-18,1965/1966,Tranmere Rovers,Crewe Alexandra,3-1,3,1,Football League Fourth Division,4,H
+1966-02-19,1965/1966,Chelsea,Arsenal,0-0,0,0,Football League First Division,1,D
+1966-02-19,1965/1966,Liverpool,Blackpool,4-1,4,1,Football League First Division,1,H
+1966-02-19,1965/1966,Northampton Town,Newcastle United,3-1,3,1,Football League First Division,1,H
+1966-02-19,1965/1966,Nottingham Forest,Leeds United,0-4,0,4,Football League First Division,1,A
+1966-02-19,1965/1966,Sheffield Wednesday,West Bromwich Albion,1-2,1,2,Football League First Division,1,A
+1966-02-19,1965/1966,Stoke City,Manchester United,2-2,2,2,Football League First Division,1,D
+1966-02-19,1965/1966,Burnley,Everton,1-1,1,1,Football League First Division,1,D
+1966-02-19,1965/1966,Sunderland,Leicester City,0-3,0,3,Football League First Division,1,A
+1966-02-19,1965/1966,West Ham United,Sheffield United,4-0,4,0,Football League First Division,1,H
+1966-02-19,1965/1966,Tottenham Hotspur,Fulham,4-3,4,3,Football League First Division,1,H
+1966-02-19,1965/1966,Aston Villa,Blackburn Rovers,3-1,3,1,Football League First Division,1,H
+1966-02-19,1965/1966,Southport,Notts County,1-0,1,0,Football League Fourth Division,4,H
+1966-02-19,1965/1966,Aldershot,Barrow,3-1,3,1,Football League Fourth Division,4,H
+1966-02-19,1965/1966,Chesterfield,Barnsley,3-1,3,1,Football League Fourth Division,4,H
+1966-02-19,1965/1966,Lincoln City,Chester,2-2,2,2,Football League Fourth Division,4,D
+1966-02-19,1965/1966,Torquay United,Rochdale,4-0,4,0,Football League Fourth Division,4,H
+1966-02-19,1965/1966,Wrexham,Doncaster Rovers,4-3,4,3,Football League Fourth Division,4,H
+1966-02-19,1965/1966,Colchester United,Bradford City,0-1,0,1,Football League Fourth Division,4,A
+1966-02-19,1965/1966,Wolverhampton Wanderers,Cardiff City,2-1,2,1,Football League Second Division,2,H
+1966-02-19,1965/1966,Preston North End,Leyton Orient,1-2,1,2,Football League Second Division,2,A
+1966-02-19,1965/1966,Plymouth Argyle,Ipswich Town,3-0,3,0,Football League Second Division,2,H
+1966-02-19,1965/1966,Portsmouth,Bolton Wanderers,1-0,1,0,Football League Second Division,2,H
+1966-02-19,1965/1966,Bury,Southampton,1-3,1,3,Football League Second Division,2,A
+1966-02-19,1965/1966,Charlton Athletic,Birmingham City,2-1,2,1,Football League Second Division,2,H
+1966-02-19,1965/1966,Crystal Palace,Middlesbrough,1-1,1,1,Football League Second Division,2,D
+1966-02-19,1965/1966,Huddersfield Town,Bristol City,3-0,3,0,Football League Second Division,2,H
+1966-02-19,1965/1966,Manchester City,Coventry City,1-0,1,0,Football League Second Division,2,H
+1966-02-19,1965/1966,Norwich City,Derby County,0-1,0,1,Football League Second Division,2,A
+1966-02-19,1965/1966,Swansea City,Shrewsbury Town,4-0,4,0,Football League Third Division,3,H
+1966-02-19,1965/1966,AFC Bournemouth,Gillingham,1-1,1,1,Football League Third Division,3,D
+1966-02-19,1965/1966,Brighton & Hove Albion,Reading,1-1,1,1,Football League Third Division,3,D
+1966-02-19,1965/1966,Bristol Rovers,Mansfield Town,6-0,6,0,Football League Third Division,3,H
+1966-02-19,1965/1966,Oxford United,Grimsby Town,2-0,2,0,Football League Third Division,3,H
+1966-02-19,1965/1966,Queens Park Rangers,Hull City,3-3,3,3,Football League Third Division,3,D
+1966-02-19,1965/1966,Scunthorpe United,Exeter City,2-1,2,1,Football League Third Division,3,H
+1966-02-19,1965/1966,Walsall,Swindon Town,5-0,5,0,Football League Third Division,3,H
+1966-02-19,1965/1966,Workington,Southend United,3-1,3,1,Football League Third Division,3,H
+1966-02-19,1965/1966,Watford,Peterborough United,1-0,1,0,Football League Third Division,3,H
+1966-02-21,1965/1966,Stockport County,Lincoln City,2-1,2,1,Football League Fourth Division,4,H
+1966-02-21,1965/1966,Mansfield Town,Oldham Athletic,1-0,1,0,Football League Third Division,3,H
+1966-02-22,1965/1966,Chelsea,Sunderland,3-2,3,2,Football League First Division,1,H
+1966-02-23,1965/1966,Crewe Alexandra,Halifax Town,3-0,3,0,Football League Fourth Division,4,H
+1966-02-23,1965/1966,Gillingham,Hull City,0-3,0,3,Football League Third Division,3,A
+1966-02-25,1965/1966,Doncaster Rovers,Bradford Park Avenue,6-2,6,2,Football League Fourth Division,4,H
+1966-02-26,1965/1966,Newcastle United,Stoke City,3-1,3,1,Football League First Division,1,H
+1966-02-26,1965/1966,Blackburn Rovers,Sunderland,2-0,2,0,Football League First Division,1,H
+1966-02-26,1965/1966,Blackpool,Aston Villa,0-1,0,1,Football League First Division,1,A
+1966-02-26,1965/1966,Everton,Chelsea,2-1,2,1,Football League First Division,1,H
+1966-02-26,1965/1966,Fulham,Liverpool,2-0,2,0,Football League First Division,1,H
+1966-02-26,1965/1966,Manchester United,Burnley,4-2,4,2,Football League First Division,1,H
+1966-02-26,1965/1966,Sheffield United,Leeds United,1-1,1,1,Football League First Division,1,D
+1966-02-26,1965/1966,West Bromwich Albion,Northampton Town,1-1,1,1,Football League First Division,1,D
+1966-02-26,1965/1966,Port Vale,Darlington,3-1,3,1,Football League Fourth Division,4,H
+1966-02-26,1965/1966,Barrow,Newport County,2-2,2,2,Football League Fourth Division,4,D
+1966-02-26,1965/1966,Bradford City,Tranmere Rovers,2-4,2,4,Football League Fourth Division,4,A
+1966-02-26,1965/1966,Chester,Notts County,1-1,1,1,Football League Fourth Division,4,D
+1966-02-26,1965/1966,Halifax Town,Lincoln City,2-2,2,2,Football League Fourth Division,4,D
+1966-02-26,1965/1966,Hartlepool United,Aldershot,3-0,3,0,Football League Fourth Division,4,H
+1966-02-26,1965/1966,Luton Town,Torquay United,3-2,3,2,Football League Fourth Division,4,H
+1966-02-26,1965/1966,Barnsley,Colchester United,1-1,1,1,Football League Fourth Division,4,D
+1966-02-26,1965/1966,Rochdale,Chesterfield,1-1,1,1,Football League Fourth Division,4,D
+1966-02-26,1965/1966,Southport,Wrexham,2-2,2,2,Football League Fourth Division,4,D
+1966-02-26,1965/1966,Southampton,Norwich City,2-2,2,2,Football League Second Division,2,D
+1966-02-26,1965/1966,Middlesbrough,Preston North End,2-1,2,1,Football League Second Division,2,H
+1966-02-26,1965/1966,Ipswich Town,Portsmouth,1-0,1,0,Football League Second Division,2,H
+1966-02-26,1965/1966,Birmingham City,Plymouth Argyle,1-0,1,0,Football League Second Division,2,H
+1966-02-26,1965/1966,Bolton Wanderers,Bury,2-1,2,1,Football League Second Division,2,H
+1966-02-26,1965/1966,Cardiff City,Rotherham United,0-0,0,0,Football League Second Division,2,D
+1966-02-26,1965/1966,Carlisle United,Manchester City,1-2,1,2,Football League Second Division,2,A
+1966-02-26,1965/1966,Coventry City,Bristol City,2-2,2,2,Football League Second Division,2,D
+1966-02-26,1965/1966,Derby County,Wolverhampton Wanderers,2-2,2,2,Football League Second Division,2,D
+1966-02-26,1965/1966,Huddersfield Town,Crystal Palace,1-1,1,1,Football League Second Division,2,D
+1966-02-26,1965/1966,Leyton Orient,Charlton Athletic,1-2,1,2,Football League Second Division,2,A
+1966-02-26,1965/1966,Brentford,Oxford United,5-1,5,1,Football League Third Division,3,H
+1966-02-26,1965/1966,Bristol Rovers,York City,0-0,0,0,Football League Third Division,3,D
+1966-02-26,1965/1966,Grimsby Town,Swansea City,2-2,2,2,Football League Third Division,3,D
+1966-02-26,1965/1966,Hull City,Mansfield Town,4-0,4,0,Football League Third Division,3,H
+1966-02-26,1965/1966,Millwall,Watford,0-0,0,0,Football League Third Division,3,D
+1966-02-26,1965/1966,Peterborough United,Scunthorpe United,3-1,3,1,Football League Third Division,3,H
+1966-02-26,1965/1966,Southend United,AFC Bournemouth,1-2,1,2,Football League Third Division,3,A
+1966-02-28,1965/1966,Darlington,Rochdale,3-1,3,1,Football League Fourth Division,4,H
+1966-02-28,1965/1966,Colchester United,Bradford Park Avenue,6-3,6,3,Football League Fourth Division,4,H
+1966-03-01,1965/1966,Brentford,Southend United,2-0,2,0,Football League Third Division,3,H
+1966-03-01,1965/1966,Oldham Athletic,Millwall,0-2,0,2,Football League Third Division,3,A
+1966-03-01,1965/1966,Swansea City,Mansfield Town,1-2,1,2,Football League Third Division,3,A
+1966-03-02,1965/1966,Crewe Alexandra,Newport County,2-2,2,2,Football League Fourth Division,4,D
+1966-03-04,1965/1966,Doncaster Rovers,Rochdale,2-0,2,0,Football League Fourth Division,4,H
+1966-03-04,1965/1966,Tranmere Rovers,Darlington,1-2,1,2,Football League Fourth Division,4,A
+1966-03-05,1965/1966,Newcastle United,Sunderland,2-0,2,0,Football League First Division,1,H
+1966-03-05,1965/1966,Northampton Town,Leeds United,2-1,2,1,Football League First Division,1,H
+1966-03-05,1965/1966,West Ham United,Aston Villa,4-2,4,2,Football League First Division,1,H
+1966-03-05,1965/1966,Arsenal,Blackpool,0-0,0,0,Football League First Division,1,D
+1966-03-05,1965/1966,Barrow,Stockport County,1-0,1,0,Football League Fourth Division,4,H
+1966-03-05,1965/1966,Bradford City,Chester,1-2,1,2,Football League Fourth Division,4,A
+1966-03-05,1965/1966,Notts County,Barnsley,0-1,0,1,Football League Fourth Division,4,A
+1966-03-05,1965/1966,Halifax Town,Crewe Alexandra,1-0,1,0,Football League Fourth Division,4,H
+1966-03-05,1965/1966,Hartlepool United,Luton Town,2-0,2,0,Football League Fourth Division,4,H
+1966-03-05,1965/1966,Port Vale,Aldershot,2-1,2,1,Football League Fourth Division,4,H
+1966-03-05,1965/1966,Wrexham,Torquay United,0-2,0,2,Football League Fourth Division,4,A
+1966-03-05,1965/1966,Colchester United,Lincoln City,3-0,3,0,Football League Fourth Division,4,H
+1966-03-05,1965/1966,Bury,Charlton Athletic,3-0,3,0,Football League Second Division,2,H
+1966-03-05,1965/1966,Cardiff City,Bolton Wanderers,1-1,1,1,Football League Second Division,2,D
+1966-03-05,1965/1966,Middlesbrough,Bristol City,4-2,4,2,Football League Second Division,2,H
+1966-03-05,1965/1966,Southampton,Birmingham City,0-1,0,1,Football League Second Division,2,A
+1966-03-05,1965/1966,Derby County,Plymouth Argyle,1-2,1,2,Football League Second Division,2,A
+1966-03-05,1965/1966,Scunthorpe United,Brighton & Hove Albion,2-2,2,2,Football League Third Division,3,D
+1966-03-05,1965/1966,Walsall,Swansea City,1-1,1,1,Football League Third Division,3,D
+1966-03-05,1965/1966,Watford,Queens Park Rangers,1-2,1,2,Football League Third Division,3,A
+1966-03-05,1965/1966,Oldham Athletic,Mansfield Town,1-1,1,1,Football League Third Division,3,D
+1966-03-05,1965/1966,Millwall,Reading,3-0,3,0,Football League Third Division,3,H
+1966-03-05,1965/1966,Oxford United,Workington,0-2,0,2,Football League Third Division,3,A
+1966-03-05,1965/1966,Exeter City,Peterborough United,2-5,2,5,Football League Third Division,3,A
+1966-03-05,1965/1966,Gillingham,Grimsby Town,3-2,3,2,Football League Third Division,3,H
+1966-03-05,1965/1966,AFC Bournemouth,York City,1-0,1,0,Football League Third Division,3,H
+1966-03-05,1965/1966,Brentford,Swindon Town,0-1,0,1,Football League Third Division,3,A
+1966-03-05,1965/1966,Bristol Rovers,Southend United,3-1,3,1,Football League Third Division,3,H
+1966-03-07,1965/1966,Newport County,Bradford Park Avenue,3-1,3,1,Football League Fourth Division,4,H
+1966-03-07,1965/1966,Darlington,Tranmere Rovers,0-1,0,1,Football League Fourth Division,4,A
+1966-03-07,1965/1966,Southend United,Brentford,1-0,1,0,Football League Third Division,3,H
+1966-03-07,1965/1966,Mansfield Town,Scunthorpe United,2-2,2,2,Football League Third Division,3,D
+1966-03-07,1965/1966,Reading,AFC Bournemouth,1-0,1,0,Football League Third Division,3,H
+1966-03-08,1965/1966,Arsenal,Tottenham Hotspur,1-1,1,1,Football League First Division,1,D
+1966-03-08,1965/1966,Nottingham Forest,Burnley,1-0,1,0,Football League First Division,1,H
+1966-03-08,1965/1966,Barnsley,Rochdale,5-0,5,0,Football League Fourth Division,4,H
+1966-03-08,1965/1966,Halifax Town,Doncaster Rovers,2-3,2,3,Football League Fourth Division,4,A
+1966-03-08,1965/1966,Carlisle United,Middlesbrough,2-1,2,1,Football League Second Division,2,H
+1966-03-08,1965/1966,Brighton & Hove Albion,Oxford United,2-0,2,0,Football League Third Division,3,H
+1966-03-09,1965/1966,Crewe Alexandra,Port Vale,0-0,0,0,Football League Fourth Division,4,D
+1966-03-09,1965/1966,Lincoln City,Chesterfield,0-2,0,2,Football League Fourth Division,4,A
+1966-03-09,1965/1966,Aldershot,Notts County,0-0,0,0,Football League Fourth Division,4,D
+1966-03-09,1965/1966,Hull City,Gillingham,1-0,1,0,Football League Third Division,3,H
+1966-03-11,1965/1966,Rochdale,Colchester United,0-1,0,1,Football League Fourth Division,4,A
+1966-03-11,1965/1966,Tranmere Rovers,Barnsley,1-0,1,0,Football League Fourth Division,4,H
+1966-03-11,1965/1966,Southend United,Oldham Athletic,0-2,0,2,Football League Third Division,3,A
+1966-03-11,1965/1966,Workington,Shrewsbury Town,1-3,1,3,Football League Third Division,3,A
+1966-03-12,1965/1966,Arsenal,Everton,0-1,0,1,Football League First Division,1,A
+1966-03-12,1965/1966,Aston Villa,Fulham,2-5,2,5,Football League First Division,1,A
+1966-03-12,1965/1966,Burnley,Newcastle United,1-0,1,0,Football League First Division,1,H
+1966-03-12,1965/1966,Chelsea,Manchester United,2-0,2,0,Football League First Division,1,H
+1966-03-12,1965/1966,Leeds United,Leicester City,3-2,3,2,Football League First Division,1,H
+1966-03-12,1965/1966,Liverpool,Tottenham Hotspur,1-0,1,0,Football League First Division,1,H
+1966-03-12,1965/1966,Northampton Town,Nottingham Forest,3-3,3,3,Football League First Division,1,D
+1966-03-12,1965/1966,Sheffield Wednesday,Sheffield United,2-2,2,2,Football League First Division,1,D
+1966-03-12,1965/1966,Stoke City,West Bromwich Albion,1-1,1,1,Football League First Division,1,D
+1966-03-12,1965/1966,West Ham United,Blackburn Rovers,4-1,4,1,Football League First Division,1,H
+1966-03-12,1965/1966,Sunderland,Blackpool,2-1,2,1,Football League First Division,1,H
+1966-03-12,1965/1966,Aldershot,Doncaster Rovers,1-1,1,1,Football League Fourth Division,4,D
+1966-03-12,1965/1966,Bradford Park Avenue,Southport,2-1,2,1,Football League Fourth Division,4,H
+1966-03-12,1965/1966,Chesterfield,Luton Town,1-3,1,3,Football League Fourth Division,4,A
+1966-03-12,1965/1966,Darlington,Crewe Alexandra,1-1,1,1,Football League Fourth Division,4,D
+1966-03-12,1965/1966,Lincoln City,Port Vale,0-1,0,1,Football League Fourth Division,4,A
+1966-03-12,1965/1966,Newport County,Hartlepool United,3-0,3,0,Football League Fourth Division,4,H
+1966-03-12,1965/1966,Notts County,Halifax Town,1-1,1,1,Football League Fourth Division,4,D
+1966-03-12,1965/1966,Torquay United,Barrow,0-1,0,1,Football League Fourth Division,4,A
+1966-03-12,1965/1966,Wrexham,Chester,2-1,2,1,Football League Fourth Division,4,H
+1966-03-12,1965/1966,Wolverhampton Wanderers,Southampton,1-1,1,1,Football League Second Division,2,D
+1966-03-12,1965/1966,Rotherham United,Derby County,3-0,3,0,Football League Second Division,2,H
+1966-03-12,1965/1966,Portsmouth,Birmingham City,0-1,0,1,Football League Second Division,2,A
+1966-03-12,1965/1966,Preston North End,Huddersfield Town,1-1,1,1,Football League Second Division,2,D
+1966-03-12,1965/1966,Bolton Wanderers,Ipswich Town,3-1,3,1,Football League Second Division,2,H
+1966-03-12,1965/1966,Bristol City,Carlisle United,2-0,2,0,Football League Second Division,2,H
+1966-03-12,1965/1966,Charlton Athletic,Middlesbrough,1-0,1,0,Football League Second Division,2,H
+1966-03-12,1965/1966,Crystal Palace,Coventry City,0-1,0,1,Football League Second Division,2,A
+1966-03-12,1965/1966,Manchester City,Cardiff City,2-2,2,2,Football League Second Division,2,D
+1966-03-12,1965/1966,Norwich City,Bury,4-0,4,0,Football League Second Division,2,H
+1966-03-12,1965/1966,Plymouth Argyle,Leyton Orient,1-1,1,1,Football League Second Division,2,D
+1966-03-12,1965/1966,AFC Bournemouth,Swindon Town,1-0,1,0,Football League Third Division,3,H
+1966-03-12,1965/1966,Brighton & Hove Albion,Peterborough United,1-0,1,0,Football League Third Division,3,H
+1966-03-12,1965/1966,Mansfield Town,Reading,0-2,0,2,Football League Third Division,3,A
+1966-03-12,1965/1966,Oxford United,Bristol Rovers,1-0,1,0,Football League Third Division,3,H
+1966-03-12,1965/1966,Queens Park Rangers,Exeter City,1-0,1,0,Football League Third Division,3,H
+1966-03-12,1965/1966,Scunthorpe United,Millwall,4-4,4,4,Football League Third Division,3,D
+1966-03-12,1965/1966,Swansea City,Brentford,1-1,1,1,Football League Third Division,3,D
+1966-03-12,1965/1966,Walsall,Grimsby Town,1-0,1,0,Football League Third Division,3,H
+1966-03-12,1965/1966,York City,Hull City,1-2,1,2,Football League Third Division,3,A
+1966-03-12,1965/1966,Watford,Gillingham,1-0,1,0,Football League Third Division,3,H
+1966-03-14,1965/1966,Darlington,Bradford Park Avenue,4-1,4,1,Football League Fourth Division,4,H
+1966-03-14,1965/1966,Plymouth Argyle,Carlisle United,0-0,0,0,Football League Second Division,2,D
+1966-03-14,1965/1966,Southend United,Shrewsbury Town,2-0,2,0,Football League Third Division,3,H
+1966-03-14,1965/1966,Mansfield Town,Gillingham,0-0,0,0,Football League Third Division,3,D
+1966-03-15,1965/1966,Everton,Nottingham Forest,3-0,3,0,Football League First Division,1,H
+1966-03-15,1965/1966,Barnsley,Aldershot,2-1,2,1,Football League Fourth Division,4,H
+1966-03-15,1965/1966,Lincoln City,Stockport County,1-2,1,2,Football League Fourth Division,4,A
+1966-03-15,1965/1966,Huddersfield Town,Birmingham City,2-0,2,0,Football League Second Division,2,H
+1966-03-15,1965/1966,Oldham Athletic,Walsall,1-2,1,2,Football League Third Division,3,A
+1966-03-15,1965/1966,Swindon Town,Millwall,1-0,1,0,Football League Third Division,3,H
+1966-03-15,1965/1966,Workington,York City,2-1,2,1,Football League Third Division,3,H
+1966-03-16,1965/1966,Bradford City,Halifax Town,0-1,0,1,Football League Fourth Division,4,A
+1966-03-16,1965/1966,Bolton Wanderers,Preston North End,1-3,1,3,Football League Second Division,2,A
+1966-03-18,1965/1966,Southport,Aldershot,0-2,0,2,Football League Fourth Division,4,A
+1966-03-18,1965/1966,Crewe Alexandra,Lincoln City,7-0,7,0,Football League Fourth Division,4,H
+1966-03-18,1965/1966,Barnsley,Stockport County,1-2,1,2,Football League Fourth Division,4,A
+1966-03-18,1965/1966,Halifax Town,Chester,2-0,2,0,Football League Fourth Division,4,H
+1966-03-18,1965/1966,Carlisle United,Coventry City,2-2,2,2,Football League Second Division,2,D
+1966-03-18,1965/1966,Cardiff City,Bristol City,2-1,2,1,Football League Second Division,2,H
+1966-03-18,1965/1966,York City,Oxford United,1-4,1,4,Football League Third Division,3,A
+1966-03-18,1965/1966,Oldham Athletic,Watford,0-1,0,1,Football League Third Division,3,A
+1966-03-18,1965/1966,Reading,Hull City,0-1,0,1,Football League Third Division,3,A
+1966-03-19,1965/1966,Blackburn Rovers,Leeds United,2-3,2,3,Football League First Division,1,A
+1966-03-19,1965/1966,Blackpool,West Ham United,2-1,2,1,Football League First Division,1,H
+1966-03-19,1965/1966,Everton,Liverpool,0-0,0,0,Football League First Division,1,D
+1966-03-19,1965/1966,Fulham,Sunderland,3-0,3,0,Football League First Division,1,H
+1966-03-19,1965/1966,Manchester United,Arsenal,2-1,2,1,Football League First Division,1,H
+1966-03-19,1965/1966,Newcastle United,Chelsea,0-1,0,1,Football League First Division,1,A
+1966-03-19,1965/1966,Nottingham Forest,Stoke City,4-3,4,3,Football League First Division,1,H
+1966-03-19,1965/1966,Sheffield Wednesday,Northampton Town,3-1,3,1,Football League First Division,1,H
+1966-03-19,1965/1966,Leicester City,Sheffield United,1-0,1,0,Football League First Division,1,H
+1966-03-19,1965/1966,West Bromwich Albion,Burnley,1-2,1,2,Football League First Division,1,A
+1966-03-19,1965/1966,Tottenham Hotspur,Aston Villa,5-5,5,5,Football League First Division,1,D
+1966-03-19,1965/1966,Bradford City,Darlington,2-0,2,0,Football League Fourth Division,4,H
+1966-03-19,1965/1966,Colchester United,Tranmere Rovers,2-1,2,1,Football League Fourth Division,4,H
+1966-03-19,1965/1966,Doncaster Rovers,Newport County,1-0,1,0,Football League Fourth Division,4,H
+1966-03-19,1965/1966,Hartlepool United,Torquay United,0-2,0,2,Football League Fourth Division,4,A
+1966-03-19,1965/1966,Luton Town,Rochdale,4-1,4,1,Football League Fourth Division,4,H
+1966-03-19,1965/1966,Port Vale,Notts County,0-1,0,1,Football League Fourth Division,4,A
+1966-03-19,1965/1966,Wrexham,Bradford Park Avenue,3-2,3,2,Football League Fourth Division,4,H
+1966-03-19,1965/1966,Barrow,Chesterfield,3-2,3,2,Football League Fourth Division,4,H
+1966-03-19,1965/1966,Southampton,Rotherham United,1-1,1,1,Football League Second Division,2,D
+1966-03-19,1965/1966,Middlesbrough,Plymouth Argyle,0-1,0,1,Football League Second Division,2,A
+1966-03-19,1965/1966,Ipswich Town,Norwich City,2-0,2,0,Football League Second Division,2,H
+1966-03-19,1965/1966,Huddersfield Town,Charlton Athletic,1-1,1,1,Football League Second Division,2,D
+1966-03-19,1965/1966,Derby County,Manchester City,1-2,1,2,Football League Second Division,2,A
+1966-03-19,1965/1966,Crystal Palace,Preston North End,1-1,1,1,Football League Second Division,2,D
+1966-03-19,1965/1966,Leyton Orient,Portsmouth,0-0,0,0,Football League Second Division,2,D
+1966-03-19,1965/1966,Birmingham City,Bolton Wanderers,0-1,0,1,Football League Second Division,2,A
+1966-03-19,1965/1966,Bury,Wolverhampton Wanderers,1-0,1,0,Football League Second Division,2,H
+1966-03-19,1965/1966,Brentford,Walsall,2-2,2,2,Football League Third Division,3,D
+1966-03-19,1965/1966,Bristol Rovers,Swansea City,2-1,2,1,Football League Third Division,3,H
+1966-03-19,1965/1966,Exeter City,Mansfield Town,2-2,2,2,Football League Third Division,3,D
+1966-03-19,1965/1966,Gillingham,Scunthorpe United,0-1,0,1,Football League Third Division,3,A
+1966-03-19,1965/1966,Grimsby Town,Workington,1-0,1,0,Football League Third Division,3,H
+1966-03-19,1965/1966,Peterborough United,Queens Park Rangers,1-1,1,1,Football League Third Division,3,D
+1966-03-19,1965/1966,Shrewsbury Town,AFC Bournemouth,0-2,0,2,Football League Third Division,3,A
+1966-03-19,1965/1966,Swindon Town,Southend United,4-0,4,0,Football League Third Division,3,H
+1966-03-19,1965/1966,Millwall,Brighton & Hove Albion,3-2,3,2,Football League Third Division,3,H
+1966-03-21,1965/1966,Leicester City,Chelsea,1-1,1,1,Football League First Division,1,D
+1966-03-21,1965/1966,Newport County,Crewe Alexandra,1-0,1,0,Football League Fourth Division,4,H
+1966-03-21,1965/1966,Port Vale,Hartlepool United,0-0,0,0,Football League Fourth Division,4,D
+1966-03-21,1965/1966,Southport,Chesterfield,1-0,1,0,Football League Fourth Division,4,H
+1966-03-21,1965/1966,Stockport County,Bradford City,1-1,1,1,Football League Fourth Division,4,D
+1966-03-21,1965/1966,Mansfield Town,Shrewsbury Town,0-3,0,3,Football League Third Division,3,A
+1966-03-22,1965/1966,Lincoln City,Barnsley,4-1,4,1,Football League Fourth Division,4,H
+1966-03-22,1965/1966,Watford,Brighton & Hove Albion,0-1,0,1,Football League Third Division,3,A
+1966-03-23,1965/1966,Aldershot,Darlington,0-1,0,1,Football League Fourth Division,4,A
+1966-03-23,1965/1966,Gillingham,Reading,2-4,2,4,Football League Third Division,3,A
+1966-03-24,1965/1966,Shrewsbury Town,Walsall,1-2,1,2,Football League Third Division,3,A
+1966-03-25,1965/1966,Stoke City,Sheffield United,2-0,2,0,Football League First Division,1,H
+1966-03-25,1965/1966,Stockport County,Colchester United,1-0,1,0,Football League Fourth Division,4,H
+1966-03-25,1965/1966,Rochdale,Barrow,4-0,4,0,Football League Fourth Division,4,H
+1966-03-25,1965/1966,Newport County,Southport,1-1,1,1,Football League Fourth Division,4,D
+1966-03-25,1965/1966,Chesterfield,Hartlepool United,1-3,1,3,Football League Fourth Division,4,A
+1966-03-25,1965/1966,Lincoln City,Bradford City,1-0,1,0,Football League Fourth Division,4,H
+1966-03-25,1965/1966,Portsmouth,Middlesbrough,4-1,4,1,Football League Second Division,2,H
+1966-03-25,1965/1966,Plymouth Argyle,Huddersfield Town,0-0,0,0,Football League Second Division,2,D
+1966-03-25,1965/1966,Bristol City,Derby County,1-1,1,1,Football League Second Division,2,D
+1966-03-25,1965/1966,Rotherham United,Bury,2-1,2,1,Football League Second Division,2,H
+1966-03-25,1965/1966,Swansea City,York City,7-2,7,2,Football League Third Division,3,H
+1966-03-26,1965/1966,Arsenal,Newcastle United,1-3,1,3,Football League First Division,1,A
+1966-03-26,1965/1966,Aston Villa,Liverpool,0-3,0,3,Football League First Division,1,A
+1966-03-26,1965/1966,Burnley,Nottingham Forest,4-1,4,1,Football League First Division,1,H
+1966-03-26,1965/1966,Northampton Town,Leicester City,2-2,2,2,Football League First Division,1,D
+1966-03-26,1965/1966,Sunderland,Tottenham Hotspur,2-0,2,0,Football League First Division,1,H
+1966-03-26,1965/1966,Leeds United,Blackpool,1-2,1,2,Football League First Division,1,A
+1966-03-26,1965/1966,West Ham United,Fulham,1-3,1,3,Football League First Division,1,A
+1966-03-26,1965/1966,Torquay United,Doncaster Rovers,0-0,0,0,Football League Fourth Division,4,D
+1966-03-26,1965/1966,Chester,Port Vale,2-0,2,0,Football League Fourth Division,4,H
+1966-03-26,1965/1966,Darlington,Barnsley,2-1,2,1,Football League Fourth Division,4,H
+1966-03-26,1965/1966,Luton Town,Tranmere Rovers,2-1,2,1,Football League Fourth Division,4,H
+1966-03-26,1965/1966,Notts County,Crewe Alexandra,0-1,0,1,Football League Fourth Division,4,A
+1966-03-26,1965/1966,Aldershot,Wrexham,2-2,2,2,Football League Fourth Division,4,D
+1966-03-26,1965/1966,Bradford Park Avenue,Halifax Town,2-1,2,1,Football League Fourth Division,4,H
+1966-03-26,1965/1966,Bolton Wanderers,Leyton Orient,2-0,2,0,Football League Second Division,2,H
+1966-03-26,1965/1966,Charlton Athletic,Crystal Palace,1-0,1,0,Football League Second Division,2,H
+1966-03-26,1965/1966,Coventry City,Cardiff City,3-1,3,1,Football League Second Division,2,H
+1966-03-26,1965/1966,Ipswich Town,Birmingham City,0-1,0,1,Football League Second Division,2,A
+1966-03-26,1965/1966,Wolverhampton Wanderers,Norwich City,2-1,2,1,Football League Second Division,2,H
+1966-03-26,1965/1966,Walsall,Bristol Rovers,1-1,1,1,Football League Third Division,3,D
+1966-03-26,1965/1966,Queens Park Rangers,Millwall,6-1,6,1,Football League Third Division,3,H
+1966-03-26,1965/1966,Scunthorpe United,Oldham Athletic,1-1,1,1,Football League Third Division,3,D
+1966-03-26,1965/1966,Swindon Town,Watford,0-1,0,1,Football League Third Division,3,A
+1966-03-26,1965/1966,Workington,Brentford,1-1,1,1,Football League Third Division,3,D
+1966-03-26,1965/1966,Oxford United,Reading,2-0,2,0,Football League Third Division,3,H
+1966-03-26,1965/1966,Mansfield Town,Peterborough United,1-7,1,7,Football League Third Division,3,A
+1966-03-26,1965/1966,AFC Bournemouth,Grimsby Town,1-0,1,0,Football League Third Division,3,H
+1966-03-26,1965/1966,Brighton & Hove Albion,Gillingham,0-1,0,1,Football League Third Division,3,A
+1966-03-28,1965/1966,Blackpool,Leeds United,1-0,1,0,Football League First Division,1,H
+1966-03-28,1965/1966,Darlington,Halifax Town,2-0,2,0,Football League Fourth Division,4,H
+1966-03-28,1965/1966,Chesterfield,Chester,2-2,2,2,Football League Fourth Division,4,D
+1966-03-28,1965/1966,Leyton Orient,Norwich City,0-0,0,0,Football League Second Division,2,D
+1966-03-28,1965/1966,Peterborough United,Reading,0-0,0,0,Football League Third Division,3,D
+1966-03-28,1965/1966,York City,Brentford,1-1,1,1,Football League Third Division,3,D
+1966-03-29,1965/1966,Sheffield United,Blackburn Rovers,2-0,2,0,Football League First Division,1,H
+1966-03-29,1965/1966,Bristol Rovers,Scunthorpe United,2-0,2,0,Football League Third Division,3,H
+1966-03-30,1965/1966,Sheffield Wednesday,Stoke City,4-1,4,1,Football League First Division,1,H
+1966-03-30,1965/1966,Wrexham,Rochdale,2-2,2,2,Football League Fourth Division,4,D
+1966-03-30,1965/1966,Reading,Oldham Athletic,3-2,3,2,Football League Third Division,3,H
+1966-03-30,1965/1966,Shrewsbury Town,Gillingham,2-1,2,1,Football League Third Division,3,H
+1966-03-30,1965/1966,Workington,Walsall,1-0,1,0,Football League Third Division,3,H
+1966-04-01,1965/1966,Crewe Alexandra,Hartlepool United,3-1,3,1,Football League Fourth Division,4,H
+1966-04-01,1965/1966,Tranmere Rovers,Bradford Park Avenue,1-2,1,2,Football League Fourth Division,4,A
+1966-04-01,1965/1966,Reading,Swindon Town,0-2,0,2,Football League Third Division,3,A
+1966-04-02,1965/1966,Aston Villa,Northampton Town,1-2,1,2,Football League First Division,1,A
+1966-04-02,1965/1966,Fulham,West Bromwich Albion,2-1,2,1,Football League First Division,1,H
+1966-04-02,1965/1966,Sunderland,Stoke City,2-0,2,0,Football League First Division,1,H
+1966-04-02,1965/1966,West Ham United,Burnley,1-1,1,1,Football League First Division,1,D
+1966-04-02,1965/1966,Tottenham Hotspur,Nottingham Forest,2-3,2,3,Football League First Division,1,A
+1966-04-02,1965/1966,Colchester United,Wrexham,1-1,1,1,Football League Fourth Division,4,D
+1966-04-02,1965/1966,Chester,Rochdale,1-2,1,2,Football League Fourth Division,4,A
+1966-04-02,1965/1966,Lincoln City,Torquay United,1-1,1,1,Football League Fourth Division,4,D
+1966-04-02,1965/1966,Notts County,Chesterfield,2-0,2,0,Football League Fourth Division,4,H
+1966-04-02,1965/1966,Wolverhampton Wanderers,Preston North End,3-0,3,0,Football League Second Division,2,H
+1966-04-02,1965/1966,Norwich City,Crystal Palace,2-1,2,1,Football League Second Division,2,H
+1966-04-02,1965/1966,Southampton,Middlesbrough,3-1,3,1,Football League Second Division,2,H
+1966-04-02,1965/1966,Cardiff City,Birmingham City,1-3,1,3,Football League Second Division,2,A
+1966-04-02,1965/1966,Carlisle United,Ipswich Town,3-1,3,1,Football League Second Division,2,H
+1966-04-02,1965/1966,Coventry City,Bolton Wanderers,2-2,2,2,Football League Second Division,2,D
+1966-04-02,1965/1966,Derby County,Leyton Orient,1-3,1,3,Football League Second Division,2,A
+1966-04-02,1965/1966,Manchester City,Plymouth Argyle,1-1,1,1,Football League Second Division,2,D
+1966-04-02,1965/1966,Bristol City,Portsmouth,1-0,1,0,Football League Second Division,2,H
+1966-04-02,1965/1966,Exeter City,Shrewsbury Town,0-0,0,0,Football League Third Division,3,D
+1966-04-02,1965/1966,Gillingham,Bristol Rovers,2-0,2,0,Football League Third Division,3,H
+1966-04-02,1965/1966,Millwall,Brentford,1-0,1,0,Football League Third Division,3,H
+1966-04-02,1965/1966,Peterborough United,Grimsby Town,1-1,1,1,Football League Third Division,3,D
+1966-04-02,1965/1966,Queens Park Rangers,Workington,4-1,4,1,Football League Third Division,3,H
+1966-04-02,1965/1966,Watford,Oxford United,1-1,1,1,Football League Third Division,3,D
+1966-04-02,1965/1966,Brighton & Hove Albion,Walsall,2-1,2,1,Football League Third Division,3,H
+1966-04-02,1965/1966,Scunthorpe United,Swansea City,1-1,1,1,Football League Third Division,3,D
+1966-04-04,1965/1966,Leeds United,Chelsea,2-0,2,0,Football League First Division,1,H
+1966-04-04,1965/1966,Sheffield Wednesday,Blackpool,3-0,3,0,Football League First Division,1,H
+1966-04-04,1965/1966,Port Vale,Bradford City,0-0,0,0,Football League Fourth Division,4,D
+1966-04-04,1965/1966,Southport,Barnsley,3-1,3,1,Football League Fourth Division,4,H
+1966-04-05,1965/1966,Arsenal,West Bromwich Albion,1-1,1,1,Football League First Division,1,D
+1966-04-06,1965/1966,Aston Villa,Manchester United,1-1,1,1,Football League First Division,1,D
+1966-04-06,1965/1966,Liverpool,Sheffield Wednesday,1-0,1,0,Football League First Division,1,H
+1966-04-06,1965/1966,Portsmouth,Huddersfield Town,2-1,2,1,Football League Second Division,2,H
+1966-04-08,1965/1966,Blackburn Rovers,Leicester City,0-2,0,2,Football League First Division,1,A
+1966-04-08,1965/1966,Fulham,Leeds United,1-3,1,3,Football League First Division,1,A
+1966-04-08,1965/1966,Newcastle United,Everton,0-0,0,0,Football League First Division,1,D
+1966-04-08,1965/1966,Tottenham Hotspur,West Ham United,1-4,1,4,Football League First Division,1,A
+1966-04-08,1965/1966,Blackpool,Sheffield United,2-1,2,1,Football League First Division,1,H
+1966-04-08,1965/1966,Aldershot,Halifax Town,0-0,0,0,Football League Fourth Division,4,D
+1966-04-08,1965/1966,Chester,Bradford Park Avenue,2-4,2,4,Football League Fourth Division,4,A
+1966-04-08,1965/1966,Chesterfield,Bradford City,1-1,1,1,Football League Fourth Division,4,D
+1966-04-08,1965/1966,Colchester United,Luton Town,2-2,2,2,Football League Fourth Division,4,D
+1966-04-08,1965/1966,Crewe Alexandra,Torquay United,2-1,2,1,Football League Fourth Division,4,H
+1966-04-08,1965/1966,Hartlepool United,Stockport County,2-1,2,1,Football League Fourth Division,4,H
+1966-04-08,1965/1966,Lincoln City,Southport,4-0,4,0,Football League Fourth Division,4,H
+1966-04-08,1965/1966,Tranmere Rovers,Barrow,1-2,1,2,Football League Fourth Division,4,A
+1966-04-08,1965/1966,Wrexham,Notts County,1-3,1,3,Football League Fourth Division,4,A
+1966-04-08,1965/1966,Cardiff City,Carlisle United,1-1,1,1,Football League Second Division,2,D
+1966-04-08,1965/1966,Charlton Athletic,Preston North End,5-2,5,2,Football League Second Division,2,H
+1966-04-08,1965/1966,Crystal Palace,Plymouth Argyle,3-1,3,1,Football League Second Division,2,H
+1966-04-08,1965/1966,Leyton Orient,Ipswich Town,1-4,1,4,Football League Second Division,2,A
+1966-04-08,1965/1966,Manchester City,Bury,1-0,1,0,Football League Second Division,2,H
+1966-04-08,1965/1966,Bristol City,Southampton,0-1,0,1,Football League Second Division,2,A
+1966-04-08,1965/1966,Queens Park Rangers,Bristol Rovers,4-1,4,1,Football League Third Division,3,H
+1966-04-08,1965/1966,Southend United,Gillingham,5-2,5,2,Football League Third Division,3,H
+1966-04-08,1965/1966,Watford,Shrewsbury Town,1-0,1,0,Football League Third Division,3,H
+1966-04-08,1965/1966,York City,Mansfield Town,2-1,2,1,Football League Third Division,3,H
+1966-04-08,1965/1966,Oxford United,Hull City,0-2,0,2,Football League Third Division,3,A
+1966-04-08,1965/1966,Brighton & Hove Albion,Brentford,2-0,2,0,Football League Third Division,3,H
+1966-04-08,1965/1966,AFC Bournemouth,Millwall,0-0,0,0,Football League Third Division,3,D
+1966-04-08,1965/1966,Grimsby Town,Scunthorpe United,1-3,1,3,Football League Third Division,3,A
+1966-04-09,1965/1966,Chelsea,West Ham United,6-2,6,2,Football League First Division,1,H
+1966-04-09,1965/1966,Everton,Sheffield United,1-3,1,3,Football League First Division,1,A
+1966-04-09,1965/1966,Manchester United,Leicester City,1-2,1,2,Football League First Division,1,A
+1966-04-09,1965/1966,Newcastle United,Blackburn Rovers,2-1,2,1,Football League First Division,1,H
+1966-04-09,1965/1966,Northampton Town,Liverpool,0-0,0,0,Football League First Division,1,D
+1966-04-09,1965/1966,Sheffield Wednesday,Tottenham Hotspur,1-1,1,1,Football League First Division,1,D
+1966-04-09,1965/1966,Stoke City,Aston Villa,2-0,2,0,Football League First Division,1,H
+1966-04-09,1965/1966,Burnley,Sunderland,1-0,1,0,Football League First Division,1,H
+1966-04-09,1965/1966,West Bromwich Albion,Blackpool,2-1,2,1,Football League First Division,1,H
+1966-04-09,1965/1966,Torquay United,Colchester United,0-1,0,1,Football League Fourth Division,4,A
+1966-04-09,1965/1966,Newport County,Barnsley,1-0,1,0,Football League Fourth Division,4,H
+1966-04-09,1965/1966,Bradford Park Avenue,Crewe Alexandra,2-1,2,1,Football League Fourth Division,4,H
+1966-04-09,1965/1966,Chesterfield,Tranmere Rovers,0-0,0,0,Football League Fourth Division,4,D
+1966-04-09,1965/1966,Doncaster Rovers,Chester,1-1,1,1,Football League Fourth Division,4,D
+1966-04-09,1965/1966,Hartlepool United,Notts County,2-0,2,0,Football League Fourth Division,4,H
+1966-04-09,1965/1966,Luton Town,Darlington,2-0,2,0,Football League Fourth Division,4,H
+1966-04-09,1965/1966,Rochdale,Stockport County,4-0,4,0,Football League Fourth Division,4,H
+1966-04-09,1965/1966,Southport,Halifax Town,1-0,1,0,Football League Fourth Division,4,H
+1966-04-09,1965/1966,Aldershot,Bradford City,5-2,5,2,Football League Fourth Division,4,H
+1966-04-09,1965/1966,Portsmouth,Coventry City,2-0,2,0,Football League Second Division,2,H
+1966-04-09,1965/1966,Birmingham City,Derby County,5-5,5,5,Football League Second Division,2,D
+1966-04-09,1965/1966,Crystal Palace,Wolverhampton Wanderers,0-1,0,1,Football League Second Division,2,A
+1966-04-09,1965/1966,Huddersfield Town,Norwich City,0-0,0,0,Football League Second Division,2,D
+1966-04-09,1965/1966,Ipswich Town,Cardiff City,2-1,2,1,Football League Second Division,2,H
+1966-04-09,1965/1966,Middlesbrough,Bury,1-0,1,0,Football League Second Division,2,H
+1966-04-09,1965/1966,Plymouth Argyle,Bristol City,0-2,0,2,Football League Second Division,2,A
+1966-04-09,1965/1966,Preston North End,Rotherham United,1-1,1,1,Football League Second Division,2,D
+1966-04-09,1965/1966,Workington,Oldham Athletic,0-1,0,1,Football League Third Division,3,A
+1966-04-09,1965/1966,Oxford United,Peterborough United,1-0,1,0,Football League Third Division,3,H
+1966-04-09,1965/1966,Shrewsbury Town,Queens Park Rangers,0-0,0,0,Football League Third Division,3,D
+1966-04-09,1965/1966,Swansea City,Millwall,0-2,0,2,Football League Third Division,3,A
+1966-04-09,1965/1966,Swindon Town,Brighton & Hove Albion,3-2,3,2,Football League Third Division,3,H
+1966-04-09,1965/1966,Walsall,Gillingham,6-1,6,1,Football League Third Division,3,H
+1966-04-09,1965/1966,York City,Exeter City,2-0,2,0,Football League Third Division,3,H
+1966-04-09,1965/1966,Grimsby Town,Mansfield Town,0-1,0,1,Football League Third Division,3,A
+1966-04-09,1965/1966,Bristol Rovers,Reading,0-0,0,0,Football League Third Division,3,D
+1966-04-09,1965/1966,AFC Bournemouth,Watford,2-0,2,0,Football League Third Division,3,H
+1966-04-09,1965/1966,Brentford,Hull City,2-4,2,4,Football League Third Division,3,A
+1966-04-11,1965/1966,Burnley,Sheffield Wednesday,2-1,2,1,Football League First Division,1,H
+1966-04-11,1965/1966,Chelsea,Nottingham Forest,1-0,1,0,Football League First Division,1,H
+1966-04-11,1965/1966,Everton,Newcastle United,1-0,1,0,Football League First Division,1,H
+1966-04-11,1965/1966,Sheffield United,Blackpool,0-1,0,1,Football League First Division,1,A
+1966-04-11,1965/1966,Sunderland,Liverpool,2-2,2,2,Football League First Division,1,D
+1966-04-11,1965/1966,West Bromwich Albion,Arsenal,4-4,4,4,Football League First Division,1,D
+1966-04-11,1965/1966,Barrow,Tranmere Rovers,1-1,1,1,Football League Fourth Division,4,D
+1966-04-11,1965/1966,Bradford City,Chesterfield,1-1,1,1,Football League Fourth Division,4,D
+1966-04-11,1965/1966,Rochdale,Barnsley,2-1,2,1,Football League Fourth Division,4,H
+1966-04-11,1965/1966,Luton Town,Colchester United,1-1,1,1,Football League Fourth Division,4,D
+1966-04-11,1965/1966,Newport County,Port Vale,0-1,0,1,Football League Fourth Division,4,A
+1966-04-11,1965/1966,Southport,Lincoln City,5-1,5,1,Football League Fourth Division,4,H
+1966-04-11,1965/1966,Stockport County,Hartlepool United,1-2,1,2,Football League Fourth Division,4,A
+1966-04-11,1965/1966,Torquay United,Crewe Alexandra,2-1,2,1,Football League Fourth Division,4,H
+1966-04-11,1965/1966,Darlington,Doncaster Rovers,3-2,3,2,Football League Fourth Division,4,H
+1966-04-11,1965/1966,Notts County,Wrexham,3-1,3,1,Football League Fourth Division,4,H
+1966-04-11,1965/1966,Birmingham City,Wolverhampton Wanderers,2-2,2,2,Football League Second Division,2,D
+1966-04-11,1965/1966,Derby County,Coventry City,1-0,1,0,Football League Second Division,2,H
+1966-04-11,1965/1966,Huddersfield Town,Portsmouth,2-0,2,0,Football League Second Division,2,H
+1966-04-11,1965/1966,Ipswich Town,Leyton Orient,3-2,3,2,Football League Second Division,2,H
+1966-04-11,1965/1966,Norwich City,Rotherham United,1-2,1,2,Football League Second Division,2,A
+1966-04-11,1965/1966,Plymouth Argyle,Crystal Palace,1-2,1,2,Football League Second Division,2,A
+1966-04-11,1965/1966,Preston North End,Charlton Athletic,3-3,3,3,Football League Second Division,2,D
+1966-04-11,1965/1966,Southampton,Bristol City,2-2,2,2,Football League Second Division,2,D
+1966-04-11,1965/1966,Bolton Wanderers,Middlesbrough,6-0,6,0,Football League Second Division,2,H
+1966-04-11,1965/1966,Peterborough United,Workington,1-1,1,1,Football League Third Division,3,D
+1966-04-11,1965/1966,Shrewsbury Town,Watford,0-0,0,0,Football League Third Division,3,D
+1966-04-11,1965/1966,Swansea City,Reading,5-4,5,4,Football League Third Division,3,H
+1966-04-11,1965/1966,Swindon Town,Oldham Athletic,0-1,0,1,Football League Third Division,3,A
+1966-04-11,1965/1966,Walsall,Exeter City,1-1,1,1,Football League Third Division,3,D
+1966-04-11,1965/1966,Mansfield Town,York City,4-1,4,1,Football League Third Division,3,H
+1966-04-11,1965/1966,Hull City,Oxford United,2-1,2,1,Football League Third Division,3,H
+1966-04-11,1965/1966,Brentford,Brighton & Hove Albion,2-0,2,0,Football League Third Division,3,H
+1966-04-11,1965/1966,Gillingham,Southend United,1-0,1,0,Football League Third Division,3,H
+1966-04-12,1965/1966,Nottingham Forest,Chelsea,1-2,1,2,Football League First Division,1,A
+1966-04-12,1965/1966,Northampton Town,Stoke City,1-0,1,0,Football League First Division,1,H
+1966-04-12,1965/1966,Leicester City,Blackburn Rovers,2-0,2,0,Football League First Division,1,H
+1966-04-12,1965/1966,Leeds United,Fulham,0-1,0,1,Football League First Division,1,A
+1966-04-12,1965/1966,Port Vale,Newport County,3-0,3,0,Football League Fourth Division,4,H
+1966-04-12,1965/1966,Doncaster Rovers,Darlington,6-3,6,3,Football League Fourth Division,4,H
+1966-04-12,1965/1966,Halifax Town,Aldershot,3-4,3,4,Football League Fourth Division,4,A
+1966-04-12,1965/1966,Bradford Park Avenue,Chester,0-1,0,1,Football League Fourth Division,4,A
+1966-04-12,1965/1966,Wolverhampton Wanderers,Birmingham City,2-0,2,0,Football League Second Division,2,H
+1966-04-12,1965/1966,Middlesbrough,Bolton Wanderers,1-1,1,1,Football League Second Division,2,D
+1966-04-12,1965/1966,Coventry City,Derby County,3-2,3,2,Football League Second Division,2,H
+1966-04-12,1965/1966,Carlisle United,Cardiff City,2-0,2,0,Football League Second Division,2,H
+1966-04-12,1965/1966,Bury,Manchester City,2-1,2,1,Football League Second Division,2,H
+1966-04-12,1965/1966,Rotherham United,Norwich City,2-1,2,1,Football League Second Division,2,H
+1966-04-12,1965/1966,Millwall,AFC Bournemouth,1-0,1,0,Football League Third Division,3,H
+1966-04-12,1965/1966,Scunthorpe United,Grimsby Town,2-2,2,2,Football League Third Division,3,D
+1966-04-12,1965/1966,Bristol Rovers,Queens Park Rangers,1-0,1,0,Football League Third Division,3,H
+1966-04-12,1965/1966,Oldham Athletic,Swindon Town,1-1,1,1,Football League Third Division,3,D
+1966-04-13,1965/1966,Exeter City,Walsall,0-2,0,2,Football League Third Division,3,A
+1966-04-13,1965/1966,Reading,Swansea City,2-1,2,1,Football League Third Division,3,H
+1966-04-15,1965/1966,Stockport County,Torquay United,1-0,1,0,Football League Fourth Division,4,H
+1966-04-15,1965/1966,Halifax Town,Hartlepool United,1-0,1,0,Football League Fourth Division,4,H
+1966-04-15,1965/1966,Tranmere Rovers,Newport County,0-1,0,1,Football League Fourth Division,4,A
+1966-04-15,1965/1966,Barnsley,Bradford Park Avenue,1-1,1,1,Football League Fourth Division,4,D
+1966-04-15,1965/1966,Crewe Alexandra,Southport,2-1,2,1,Football League Fourth Division,4,H
+1966-04-15,1965/1966,Carlisle United,Leyton Orient,1-0,1,0,Football League Second Division,2,H
+1966-04-16,1965/1966,Aston Villa,Burnley,2-1,2,1,Football League First Division,1,H
+1966-04-16,1965/1966,Blackburn Rovers,West Bromwich Albion,0-1,0,1,Football League First Division,1,A
+1966-04-16,1965/1966,Blackpool,Nottingham Forest,0-3,0,3,Football League First Division,1,A
+1966-04-16,1965/1966,Leeds United,Everton,4-1,4,1,Football League First Division,1,H
+1966-04-16,1965/1966,Leicester City,Newcastle United,1-2,1,2,Football League First Division,1,A
+1966-04-16,1965/1966,Liverpool,Stoke City,2-0,2,0,Football League First Division,1,H
+1966-04-16,1965/1966,Sheffield United,Manchester United,3-1,3,1,Football League First Division,1,H
+1966-04-16,1965/1966,Fulham,Sheffield Wednesday,4-2,4,2,Football League First Division,1,H
+1966-04-16,1965/1966,Tottenham Hotspur,Northampton Town,1-1,1,1,Football League First Division,1,D
+1966-04-16,1965/1966,West Ham United,Arsenal,2-1,2,1,Football League First Division,1,H
+1966-04-16,1965/1966,Sunderland,Chelsea,2-0,2,0,Football League First Division,1,H
+1966-04-16,1965/1966,Port Vale,Doncaster Rovers,0-1,0,1,Football League Fourth Division,4,A
+1966-04-16,1965/1966,Chester,Barrow,0-0,0,0,Football League Fourth Division,4,D
+1966-04-16,1965/1966,Colchester United,Aldershot,0-0,0,0,Football League Fourth Division,4,D
+1966-04-16,1965/1966,Darlington,Chesterfield,4-1,4,1,Football League Fourth Division,4,H
+1966-04-16,1965/1966,Lincoln City,Rochdale,2-0,2,0,Football League Fourth Division,4,H
+1966-04-16,1965/1966,Notts County,Luton Town,1-1,1,1,Football League Fourth Division,4,D
+1966-04-16,1965/1966,Wolverhampton Wanderers,Plymouth Argyle,0-0,0,0,Football League Second Division,2,D
+1966-04-16,1965/1966,Rotherham United,Portsmouth,3-3,3,3,Football League Second Division,2,D
+1966-04-16,1965/1966,Southampton,Crystal Palace,1-0,1,0,Football League Second Division,2,H
+1966-04-16,1965/1966,Bury,Preston North End,5-0,5,0,Football League Second Division,2,H
+1966-04-16,1965/1966,Coventry City,Birmingham City,4-3,4,3,Football League Second Division,2,H
+1966-04-16,1965/1966,Derby County,Huddersfield Town,4-1,4,1,Football League Second Division,2,H
+1966-04-16,1965/1966,Manchester City,Bolton Wanderers,4-1,4,1,Football League Second Division,2,H
+1966-04-16,1965/1966,Norwich City,Charlton Athletic,2-0,2,0,Football League Second Division,2,H
+1966-04-16,1965/1966,Gillingham,Oxford United,1-2,1,2,Football League Third Division,3,A
+1966-04-16,1965/1966,Hull City,Shrewsbury Town,2-1,2,1,Football League Third Division,3,H
+1966-04-16,1965/1966,Mansfield Town,Swindon Town,1-5,1,5,Football League Third Division,3,A
+1966-04-16,1965/1966,Millwall,York City,2-0,2,0,Football League Third Division,3,H
+1966-04-16,1965/1966,Oldham Athletic,Swansea City,1-0,1,0,Football League Third Division,3,H
+1966-04-16,1965/1966,Peterborough United,Bristol Rovers,5-2,5,2,Football League Third Division,3,H
+1966-04-16,1965/1966,Scunthorpe United,Workington,4-1,4,1,Football League Third Division,3,H
+1966-04-16,1965/1966,Watford,Walsall,0-1,0,1,Football League Third Division,3,A
+1966-04-16,1965/1966,Brighton & Hove Albion,AFC Bournemouth,1-2,1,2,Football League Third Division,3,A
+1966-04-16,1965/1966,Queens Park Rangers,Southend United,2-1,2,1,Football League Third Division,3,H
+1966-04-16,1965/1966,Exeter City,Brentford,5-0,5,0,Football League Third Division,3,H
+1966-04-18,1965/1966,Fulham,Leicester City,0-4,0,4,Football League First Division,1,A
+1966-04-18,1965/1966,Barrow,Crewe Alexandra,1-1,1,1,Football League Fourth Division,4,D
+1966-04-18,1965/1966,Leyton Orient,Middlesbrough,2-3,2,3,Football League Second Division,2,A
+1966-04-19,1965/1966,Bradford Park Avenue,Hartlepool United,4-1,4,1,Football League Fourth Division,4,H
+1966-04-19,1965/1966,Rochdale,Halifax Town,0-1,0,1,Football League Fourth Division,4,A
+1966-04-19,1965/1966,Bury,Huddersfield Town,0-4,0,4,Football League Second Division,2,A
+1966-04-19,1965/1966,Preston North End,Bolton Wanderers,0-1,0,1,Football League Second Division,2,A
+1966-04-20,1965/1966,Sunderland,Arsenal,0-2,0,2,Football League First Division,1,A
+1966-04-20,1965/1966,Blackpool,Newcastle United,1-1,1,1,Football League First Division,1,D
+1966-04-20,1965/1966,Bradford City,Southport,3-0,3,0,Football League Fourth Division,4,H
+1966-04-20,1965/1966,Southampton,Cardiff City,3-2,3,2,Football League Second Division,2,H
+1966-04-20,1965/1966,Hull City,Exeter City,6-1,6,1,Football League Third Division,3,H
+1966-04-21,1965/1966,Workington,Peterborough United,1-1,1,1,Football League Third Division,3,D
+1966-04-22,1965/1966,West Bromwich Albion,Leicester City,5-1,5,1,Football League First Division,1,H
+1966-04-22,1965/1966,Rochdale,Darlington,1-2,1,2,Football League Fourth Division,4,A
+1966-04-22,1965/1966,Doncaster Rovers,Halifax Town,2-2,2,2,Football League Fourth Division,4,D
+1966-04-22,1965/1966,Birmingham City,Bristol City,1-3,1,3,Football League Second Division,2,A
+1966-04-22,1965/1966,Shrewsbury Town,Mansfield Town,2-1,2,1,Football League Third Division,3,H
+1966-04-22,1965/1966,Southend United,Brighton & Hove Albion,0-0,0,0,Football League Third Division,3,D
+1966-04-23,1965/1966,Arsenal,Sunderland,1-1,1,1,Football League First Division,1,D
+1966-04-23,1965/1966,Burnley,Liverpool,2-0,2,0,Football League First Division,1,H
+1966-04-23,1965/1966,Northampton Town,Fulham,2-4,2,4,Football League First Division,1,A
+1966-04-23,1965/1966,Nottingham Forest,Blackburn Rovers,0-3,0,3,Football League First Division,1,A
+1966-04-23,1965/1966,Stoke City,Tottenham Hotspur,0-1,0,1,Football League First Division,1,A
+1966-04-23,1965/1966,Newcastle United,Sheffield United,0-2,0,2,Football League First Division,1,A
+1966-04-23,1965/1966,Wrexham,Crewe Alexandra,1-4,1,4,Football League Fourth Division,4,A
+1966-04-23,1965/1966,Hartlepool United,Chester,2-0,2,0,Football League Fourth Division,4,H
+1966-04-23,1965/1966,Barrow,Notts County,2-1,2,1,Football League Fourth Division,4,H
+1966-04-23,1965/1966,Bradford Park Avenue,Bradford City,5-1,5,1,Football League Fourth Division,4,H
+1966-04-23,1965/1966,Chesterfield,Stockport County,2-1,2,1,Football League Fourth Division,4,H
+1966-04-23,1965/1966,Luton Town,Lincoln City,0-0,0,0,Football League Fourth Division,4,D
+1966-04-23,1965/1966,Southport,Port Vale,2-1,2,1,Football League Fourth Division,4,H
+1966-04-23,1965/1966,Torquay United,Tranmere Rovers,2-1,2,1,Football League Fourth Division,4,H
+1966-04-23,1965/1966,Aldershot,Barnsley,1-1,1,1,Football League Fourth Division,4,D
+1966-04-23,1965/1966,Portsmouth,Wolverhampton Wanderers,2-0,2,0,Football League Second Division,2,H
+1966-04-23,1965/1966,Charlton Athletic,Bury,0-1,0,1,Football League Second Division,2,A
+1966-04-23,1965/1966,Huddersfield Town,Cardiff City,1-1,1,1,Football League Second Division,2,D
+1966-04-23,1965/1966,Ipswich Town,Manchester City,1-1,1,1,Football League Second Division,2,D
+1966-04-23,1965/1966,Leyton Orient,Coventry City,1-1,1,1,Football League Second Division,2,D
+1966-04-23,1965/1966,Middlesbrough,Carlisle United,0-2,0,2,Football League Second Division,2,A
+1966-04-23,1965/1966,Plymouth Argyle,Norwich City,2-0,2,0,Football League Second Division,2,H
+1966-04-23,1965/1966,Preston North End,Southampton,1-1,1,1,Football League Second Division,2,D
+1966-04-23,1965/1966,Crystal Palace,Derby County,1-1,1,1,Football League Second Division,2,D
+1966-04-23,1965/1966,Walsall,Oldham Athletic,2-2,2,2,Football League Third Division,3,D
+1966-04-23,1965/1966,Swindon Town,Queens Park Rangers,2-1,2,1,Football League Third Division,3,H
+1966-04-23,1965/1966,Grimsby Town,Hull City,1-0,1,0,Football League Third Division,3,H
+1966-04-23,1965/1966,Oxford United,Millwall,3-1,3,1,Football League Third Division,3,H
+1966-04-23,1965/1966,Workington,Watford,1-0,1,0,Football League Third Division,3,H
+1966-04-23,1965/1966,Swansea City,Gillingham,0-3,0,3,Football League Third Division,3,A
+1966-04-23,1965/1966,York City,Peterborough United,1-1,1,1,Football League Third Division,3,D
+1966-04-23,1965/1966,Bristol Rovers,Exeter City,2-0,2,0,Football League Third Division,3,H
+1966-04-23,1965/1966,AFC Bournemouth,Scunthorpe United,1-2,1,2,Football League Third Division,3,A
+1966-04-23,1965/1966,Brentford,Reading,1-1,1,1,Football League Third Division,3,D
+1966-04-25,1965/1966,West Ham United,Tottenham Hotspur,2-0,2,0,Football League First Division,1,H
+1966-04-25,1965/1966,Sheffield United,Arsenal,3-0,3,0,Football League First Division,1,H
+1966-04-25,1965/1966,Northampton Town,Sunderland,2-1,2,1,Football League First Division,1,H
+1966-04-25,1965/1966,Everton,Manchester United,0-0,0,0,Football League First Division,1,D
+1966-04-25,1965/1966,Chelsea,West Bromwich Albion,2-3,2,3,Football League First Division,1,A
+1966-04-25,1965/1966,Wrexham,Newport County,0-1,0,1,Football League Fourth Division,4,A
+1966-04-25,1965/1966,Tranmere Rovers,Stockport County,6-2,6,2,Football League Fourth Division,4,H
+1966-04-25,1965/1966,Southport,Torquay United,3-3,3,3,Football League Fourth Division,4,D
+1966-04-25,1965/1966,Colchester United,Darlington,0-1,0,1,Football League Fourth Division,4,A
+1966-04-25,1965/1966,Chesterfield,Doncaster Rovers,1-1,1,1,Football League Fourth Division,4,D
+1966-04-25,1965/1966,Barrow,Luton Town,0-1,0,1,Football League Fourth Division,4,A
+1966-04-25,1965/1966,Preston North End,Carlisle United,2-1,2,1,Football League Second Division,2,H
+1966-04-25,1965/1966,Bolton Wanderers,Rotherham United,1-3,1,3,Football League Second Division,2,A
+1966-04-25,1965/1966,Southend United,Grimsby Town,3-1,3,1,Football League Third Division,3,H
+1966-04-25,1965/1966,York City,Walsall,0-3,0,3,Football League Third Division,3,A
+1966-04-25,1965/1966,Queens Park Rangers,Gillingham,1-3,1,3,Football League Third Division,3,A
+1966-04-25,1965/1966,Mansfield Town,Millwall,1-1,1,1,Football League Third Division,3,D
+1966-04-25,1965/1966,Peterborough United,Hull City,4-1,4,1,Football League Third Division,3,H
+1966-04-26,1965/1966,Nottingham Forest,Fulham,1-2,1,2,Football League First Division,1,A
+1966-04-26,1965/1966,Rochdale,Hartlepool United,3-1,3,1,Football League Fourth Division,4,H
+1966-04-26,1965/1966,Barnsley,Lincoln City,0-1,0,1,Football League Fourth Division,4,A
+1966-04-26,1965/1966,Charlton Athletic,Coventry City,2-0,2,0,Football League Second Division,2,H
+1966-04-26,1965/1966,Workington,Bristol Rovers,0-0,0,0,Football League Third Division,3,D
+1966-04-26,1965/1966,Watford,Scunthorpe United,2-1,2,1,Football League Third Division,3,H
+1966-04-26,1965/1966,AFC Bournemouth,Brentford,0-1,0,1,Football League Third Division,3,A
+1966-04-26,1965/1966,Swindon Town,Shrewsbury Town,0-0,0,0,Football League Third Division,3,D
+1966-04-27,1965/1966,Sheffield Wednesday,Aston Villa,2-0,2,0,Football League First Division,1,H
+1966-04-27,1965/1966,Manchester United,Blackpool,2-1,2,1,Football League First Division,1,H
+1966-04-27,1965/1966,Aldershot,Bradford Park Avenue,5-1,5,1,Football League Fourth Division,4,H
+1966-04-27,1965/1966,Port Vale,Halifax Town,2-0,2,0,Football League Fourth Division,4,H
+1966-04-27,1965/1966,Bradford City,Notts County,0-4,0,4,Football League Fourth Division,4,A
+1966-04-27,1965/1966,Norwich City,Middlesbrough,1-2,1,2,Football League Second Division,2,A
+1966-04-27,1965/1966,Oxford United,Swansea City,2-2,2,2,Football League Third Division,3,D
+1966-04-27,1965/1966,Exeter City,Reading,1-2,1,2,Football League Third Division,3,A
+1966-04-27,1965/1966,Gillingham,Oldham Athletic,3-0,3,0,Football League Third Division,3,H
+1966-04-29,1965/1966,Stockport County,Rochdale,3-1,3,1,Football League Fourth Division,4,H
+1966-04-29,1965/1966,Tranmere Rovers,Chesterfield,3-2,3,2,Football League Fourth Division,4,H
+1966-04-29,1965/1966,Barnsley,Newport County,2-2,2,2,Football League Fourth Division,4,D
+1966-04-29,1965/1966,Halifax Town,Southport,1-2,1,2,Football League Fourth Division,4,A
+1966-04-29,1965/1966,Reading,Bristol Rovers,0-1,0,1,Football League Third Division,3,A
+1966-04-30,1965/1966,Aston Villa,Arsenal,3-0,3,0,Football League First Division,1,H
+1966-04-30,1965/1966,Blackburn Rovers,Sheffield Wednesday,1-2,1,2,Football League First Division,1,A
+1966-04-30,1965/1966,Blackpool,Northampton Town,3-0,3,0,Football League First Division,1,H
+1966-04-30,1965/1966,Leeds United,Newcastle United,3-0,3,0,Football League First Division,1,H
+1966-04-30,1965/1966,Leicester City,Nottingham Forest,2-1,2,1,Football League First Division,1,H
+1966-04-30,1965/1966,Liverpool,Chelsea,2-1,2,1,Football League First Division,1,H
+1966-04-30,1965/1966,Sheffield United,West Bromwich Albion,0-2,0,2,Football League First Division,1,A
+1966-04-30,1965/1966,Sunderland,Everton,2-0,2,0,Football League First Division,1,H
+1966-04-30,1965/1966,Fulham,Stoke City,1-1,1,1,Football League First Division,1,D
+1966-04-30,1965/1966,West Ham United,Manchester United,3-2,3,2,Football League First Division,1,H
+1966-04-30,1965/1966,Tottenham Hotspur,Burnley,0-1,0,1,Football League First Division,1,A
+1966-04-30,1965/1966,Chester,Doncaster Rovers,1-4,1,4,Football League Fourth Division,4,A
+1966-04-30,1965/1966,Bradford City,Aldershot,1-1,1,1,Football League Fourth Division,4,D
+1966-04-30,1965/1966,Colchester United,Torquay United,0-2,0,2,Football League Fourth Division,4,A
+1966-04-30,1965/1966,Crewe Alexandra,Bradford Park Avenue,2-5,2,5,Football League Fourth Division,4,A
+1966-04-30,1965/1966,Darlington,Luton Town,1-0,1,0,Football League Fourth Division,4,H
+1966-04-30,1965/1966,Lincoln City,Barrow,4-0,4,0,Football League Fourth Division,4,H
+1966-04-30,1965/1966,Notts County,Hartlepool United,1-0,1,0,Football League Fourth Division,4,H
+1966-04-30,1965/1966,Port Vale,Wrexham,1-0,1,0,Football League Fourth Division,4,H
+1966-04-30,1965/1966,Wolverhampton Wanderers,Bolton Wanderers,3-1,3,1,Football League Second Division,2,H
+1966-04-30,1965/1966,Southampton,Charlton Athletic,1-0,1,0,Football League Second Division,2,H
+1966-04-30,1965/1966,Norwich City,Portsmouth,1-3,1,3,Football League Second Division,2,A
+1966-04-30,1965/1966,Rotherham United,Ipswich Town,0-0,0,0,Football League Second Division,2,D
+1966-04-30,1965/1966,Bristol City,Leyton Orient,2-0,2,0,Football League Second Division,2,H
+1966-04-30,1965/1966,Bury,Plymouth Argyle,1-0,1,0,Football League Second Division,2,H
+1966-04-30,1965/1966,Cardiff City,Crystal Palace,1-0,1,0,Football League Second Division,2,H
+1966-04-30,1965/1966,Carlisle United,Huddersfield Town,2-0,2,0,Football League Second Division,2,H
+1966-04-30,1965/1966,Coventry City,Middlesbrough,2-1,2,1,Football League Second Division,2,H
+1966-04-30,1965/1966,Derby County,Preston North End,1-0,1,0,Football League Second Division,2,H
+1966-04-30,1965/1966,Manchester City,Birmingham City,3-1,3,1,Football League Second Division,2,H
+1966-04-30,1965/1966,Peterborough United,Oxford United,2-3,2,3,Football League Third Division,3,A
+1966-04-30,1965/1966,Brighton & Hove Albion,Swindon Town,1-0,1,0,Football League Third Division,3,H
+1966-04-30,1965/1966,Exeter City,York City,0-2,0,2,Football League Third Division,3,A
+1966-04-30,1965/1966,Gillingham,Walsall,1-0,1,0,Football League Third Division,3,H
+1966-04-30,1965/1966,Hull City,Brentford,4-1,4,1,Football League Third Division,3,H
+1966-04-30,1965/1966,Mansfield Town,Grimsby Town,2-1,2,1,Football League Third Division,3,H
+1966-04-30,1965/1966,Millwall,Swansea City,1-0,1,0,Football League Third Division,3,H
+1966-04-30,1965/1966,Oldham Athletic,Workington,1-1,1,1,Football League Third Division,3,D
+1966-04-30,1965/1966,Queens Park Rangers,Shrewsbury Town,2-1,2,1,Football League Third Division,3,H
+1966-04-30,1965/1966,Watford,AFC Bournemouth,1-0,1,0,Football League Third Division,3,H
+1966-04-30,1965/1966,Scunthorpe United,Southend United,0-0,0,0,Football League Third Division,3,D
+1966-05-02,1965/1966,Blackburn Rovers,Blackpool,1-3,1,3,Football League First Division,1,A
+1966-05-02,1965/1966,Sheffield Wednesday,Chelsea,1-1,1,1,Football League First Division,1,D
+1966-05-02,1965/1966,Torquay United,Halifax Town,1-0,1,0,Football League Fourth Division,4,H
+1966-05-02,1965/1966,Port Vale,Barrow,0-0,0,0,Football League Fourth Division,4,D
+1966-05-02,1965/1966,Newport County,Lincoln City,0-0,0,0,Football League Fourth Division,4,D
+1966-05-02,1965/1966,Chesterfield,Southport,3-2,3,2,Football League Fourth Division,4,H
+1966-05-02,1965/1966,Queens Park Rangers,Oldham Athletic,1-1,1,1,Football League Third Division,3,D
+1966-05-02,1965/1966,Shrewsbury Town,Grimsby Town,3-1,3,1,Football League Third Division,3,H
+1966-05-03,1965/1966,Doncaster Rovers,Barnsley,2-1,2,1,Football League Fourth Division,4,H
+1966-05-03,1965/1966,Bristol City,Charlton Athletic,0-0,0,0,Football League Second Division,2,D
+1966-05-03,1965/1966,Birmingham City,Ipswich Town,4-1,4,1,Football League Second Division,2,H
+1966-05-03,1965/1966,Cardiff City,Middlesbrough,5-3,5,3,Football League Second Division,2,H
+1966-05-03,1965/1966,Gillingham,Mansfield Town,2-0,2,0,Football League Third Division,3,H
+1966-05-03,1965/1966,Swindon Town,Workington,0-1,0,1,Football League Third Division,3,A
+1966-05-03,1965/1966,Exeter City,Brighton & Hove Albion,2-0,2,0,Football League Third Division,3,H
+1966-05-04,1965/1966,Chelsea,Blackburn Rovers,1-0,1,0,Football League First Division,1,H
+1966-05-04,1965/1966,Leicester City,Everton,3-0,3,0,Football League First Division,1,H
+1966-05-04,1965/1966,Stoke City,Sheffield Wednesday,3-1,3,1,Football League First Division,1,H
+1966-05-04,1965/1966,West Bromwich Albion,Manchester United,3-3,3,3,Football League First Division,1,D
+1966-05-04,1965/1966,Crewe Alexandra,Stockport County,1-1,1,1,Football League Fourth Division,4,D
+1966-05-04,1965/1966,Wrexham,Port Vale,1-0,1,0,Football League Fourth Division,4,H
+1966-05-04,1965/1966,Bolton Wanderers,Carlisle United,4-0,4,0,Football League Second Division,2,H
+1966-05-04,1965/1966,Rotherham United,Manchester City,0-1,0,1,Football League Second Division,2,A
+1966-05-04,1965/1966,Grimsby Town,Shrewsbury Town,2-1,2,1,Football League Third Division,3,H
+1966-05-04,1965/1966,Walsall,Oxford United,1-1,1,1,Football League Third Division,3,D
+1966-05-05,1965/1966,Arsenal,Leeds United,0-3,0,3,Football League First Division,1,A
+1966-05-06,1965/1966,Rochdale,Tranmere Rovers,3-5,3,5,Football League Fourth Division,4,A
+1966-05-06,1965/1966,Doncaster Rovers,Notts County,0-3,0,3,Football League Fourth Division,4,A
+1966-05-06,1965/1966,York City,Reading,1-2,1,2,Football League Third Division,3,A
+1966-05-06,1965/1966,Shrewsbury Town,Brighton & Hove Albion,3-1,3,1,Football League Third Division,3,H
+1966-05-06,1965/1966,Bristol Rovers,Hull City,1-2,1,2,Football League Third Division,3,A
+1966-05-06,1965/1966,Southend United,Watford,1-0,1,0,Football League Third Division,3,H
+1966-05-07,1965/1966,Arsenal,Leicester City,1-0,1,0,Football League First Division,1,H
+1966-05-07,1965/1966,Blackburn Rovers,Manchester United,1-4,1,4,Football League First Division,1,A
+1966-05-07,1965/1966,Burnley,Leeds United,0-1,0,1,Football League First Division,1,A
+1966-05-07,1965/1966,Chelsea,Sheffield United,2-0,2,0,Football League First Division,1,H
+1966-05-07,1965/1966,Newcastle United,Fulham,1-1,1,1,Football League First Division,1,D
+1966-05-07,1965/1966,Nottingham Forest,Sheffield Wednesday,1-0,1,0,Football League First Division,1,H
+1966-05-07,1965/1966,West Bromwich Albion,Tottenham Hotspur,2-1,2,1,Football League First Division,1,H
+1966-05-07,1965/1966,Stoke City,West Ham United,1-0,1,0,Football League First Division,1,H
+1966-05-07,1965/1966,Aldershot,Crewe Alexandra,1-0,1,0,Football League Fourth Division,4,H
+1966-05-07,1965/1966,Bradford Park Avenue,Port Vale,1-2,1,2,Football League Fourth Division,4,A
+1966-05-07,1965/1966,Chesterfield,Colchester United,2-4,2,4,Football League Fourth Division,4,A
+1966-05-07,1965/1966,Hartlepool United,Lincoln City,3-1,3,1,Football League Fourth Division,4,H
+1966-05-07,1965/1966,Luton Town,Stockport County,2-0,2,0,Football League Fourth Division,4,H
+1966-05-07,1965/1966,Newport County,Bradford City,2-2,2,2,Football League Fourth Division,4,D
+1966-05-07,1965/1966,Southport,Chester,2-0,2,0,Football League Fourth Division,4,H
+1966-05-07,1965/1966,Wrexham,Halifax Town,2-2,2,2,Football League Fourth Division,4,D
+1966-05-07,1965/1966,Barrow,Darlington,1-1,1,1,Football League Fourth Division,4,D
+1966-05-07,1965/1966,Preston North End,Cardiff City,9-0,9,0,Football League Second Division,2,H
+1966-05-07,1965/1966,Plymouth Argyle,Southampton,2-3,2,3,Football League Second Division,2,A
+1966-05-07,1965/1966,Bolton Wanderers,Norwich City,1-1,1,1,Football League Second Division,2,D
+1966-05-07,1965/1966,Charlton Athletic,Derby County,2-2,2,2,Football League Second Division,2,D
+1966-05-07,1965/1966,Crystal Palace,Carlisle United,2-0,2,0,Football League Second Division,2,H
+1966-05-07,1965/1966,Huddersfield Town,Coventry City,0-2,0,2,Football League Second Division,2,A
+1966-05-07,1965/1966,Ipswich Town,Wolverhampton Wanderers,5-2,5,2,Football League Second Division,2,H
+1966-05-07,1965/1966,Leyton Orient,Manchester City,2-2,2,2,Football League Second Division,2,D
+1966-05-07,1965/1966,Portsmouth,Bury,4-0,4,0,Football League Second Division,2,H
+1966-05-07,1965/1966,Birmingham City,Rotherham United,3-0,3,0,Football League Second Division,2,H
+1966-05-07,1965/1966,Grimsby Town,Queens Park Rangers,4-2,4,2,Football League Third Division,3,H
+1966-05-07,1965/1966,Oxford United,Exeter City,0-1,0,1,Football League Third Division,3,A
+1966-05-07,1965/1966,Swansea City,Peterborough United,1-1,1,1,Football League Third Division,3,D
+1966-05-07,1965/1966,Swindon Town,Scunthorpe United,0-0,0,0,Football League Third Division,3,D
+1966-05-07,1965/1966,Walsall,Millwall,1-4,1,4,Football League Third Division,3,A
+1966-05-07,1965/1966,Workington,Gillingham,1-0,1,0,Football League Third Division,3,H
+1966-05-07,1965/1966,AFC Bournemouth,Oldham Athletic,1-0,1,0,Football League Third Division,3,H
+1966-05-07,1965/1966,Brentford,Mansfield Town,0-3,0,3,Football League Third Division,3,A
+1966-05-09,1965/1966,Sheffield Wednesday,Burnley,0-2,0,2,Football League First Division,1,A
+1966-05-09,1965/1966,Manchester United,Aston Villa,6-1,6,1,Football League First Division,1,H
+1966-05-09,1965/1966,Leicester City,West Ham United,2-1,2,1,Football League First Division,1,H
+1966-05-09,1965/1966,Blackburn Rovers,Tottenham Hotspur,0-1,0,1,Football League First Division,1,A
+1966-05-09,1965/1966,Torquay United,Notts County,2-0,2,0,Football League Fourth Division,4,H
+1966-05-09,1965/1966,Hartlepool United,Barrow,3-0,3,0,Football League Fourth Division,4,H
+1966-05-09,1965/1966,Darlington,Newport County,0-1,0,1,Football League Fourth Division,4,A
+1966-05-09,1965/1966,Leyton Orient,Southampton,1-1,1,1,Football League Second Division,2,D
+1966-05-09,1965/1966,Rotherham United,Charlton Athletic,0-0,0,0,Football League Second Division,2,D
+1966-05-09,1965/1966,Workington,Reading,1-0,1,0,Football League Third Division,3,H
+1966-05-09,1965/1966,Peterborough United,Exeter City,2-0,2,0,Football League Third Division,3,H
+1966-05-09,1965/1966,Mansfield Town,Southend United,2-0,2,0,Football League Third Division,3,H
+1966-05-10,1965/1966,Nottingham Forest,Liverpool,1-1,1,1,Football League First Division,1,D
+1966-05-10,1965/1966,Southport,Colchester United,0-1,0,1,Football League Fourth Division,4,A
+1966-05-10,1965/1966,Halifax Town,Port Vale,2-0,2,0,Football League Fourth Division,4,H
+1966-05-10,1965/1966,Barnsley,Wrexham,3-0,3,0,Football League Fourth Division,4,H
+1966-05-10,1965/1966,Cardiff City,Norwich City,0-2,0,2,Football League Second Division,2,A
+1966-05-10,1965/1966,Bury,Carlisle United,2-1,2,1,Football League Second Division,2,H
+1966-05-10,1965/1966,Bristol City,Ipswich Town,4-1,4,1,Football League Second Division,2,H
+1966-05-10,1965/1966,Oldham Athletic,York City,3-0,3,0,Football League Third Division,3,H
+1966-05-10,1965/1966,Swindon Town,Grimsby Town,0-0,0,0,Football League Third Division,3,D
+1966-05-10,1965/1966,AFC Bournemouth,Hull City,1-1,1,1,Football League Third Division,3,D
+1966-05-10,1965/1966,Brentford,Watford,1-1,1,1,Football League Third Division,3,D
+1966-05-11,1965/1966,Crewe Alexandra,Doncaster Rovers,0-1,0,1,Football League Fourth Division,4,A
+1966-05-12,1965/1966,Barrow,Lincoln City,2-2,2,2,Football League Fourth Division,4,D
+1966-05-12,1965/1966,Bradford City,Wrexham,4-1,4,1,Football League Fourth Division,4,H
+1966-05-12,1965/1966,Rotherham United,Carlisle United,3-3,3,3,Football League Second Division,2,D
+1966-05-12,1965/1966,Shrewsbury Town,Peterborough United,3-1,3,1,Football League Third Division,3,H
+1966-05-13,1965/1966,Barnsley,Southport,4-0,4,0,Football League Fourth Division,4,H
+1966-05-13,1965/1966,Notts County,Tranmere Rovers,1-2,1,2,Football League Fourth Division,4,A
+1966-05-13,1965/1966,Charlton Athletic,Manchester City,2-3,2,3,Football League Second Division,2,A
+1966-05-13,1965/1966,Watford,Swansea City,0-1,0,1,Football League Third Division,3,A
+1966-05-13,1965/1966,Southend United,Scunthorpe United,0-1,0,1,Football League Third Division,3,A
+1966-05-13,1965/1966,Brighton & Hove Albion,Oldham Athletic,3-1,3,1,Football League Third Division,3,H
+1966-05-13,1965/1966,Reading,Queens Park Rangers,2-1,2,1,Football League Third Division,3,H
+1966-05-14,1965/1966,Luton Town,Port Vale,5-0,5,0,Football League Fourth Division,4,H
+1966-05-16,1965/1966,Chelsea,Aston Villa,0-2,0,2,Football League First Division,1,A
+1966-05-16,1965/1966,Newcastle United,Leeds United,2-0,2,0,Football League First Division,1,H
+1966-05-16,1965/1966,Bradford City,Doncaster Rovers,1-1,1,1,Football League Fourth Division,4,D
+1966-05-16,1965/1966,Darlington,Colchester United,2-0,2,0,Football League Fourth Division,4,H
+1966-05-16,1965/1966,Halifax Town,Luton Town,3-0,3,0,Football League Fourth Division,4,H
+1966-05-16,1965/1966,Hartlepool United,Rochdale,0-0,0,0,Football League Fourth Division,4,D
+1966-05-16,1965/1966,Newport County,Wrexham,2-2,2,2,Football League Fourth Division,4,D
+1966-05-16,1965/1966,Stockport County,Aldershot,1-2,1,2,Football League Fourth Division,4,A
+1966-05-16,1965/1966,Millwall,Mansfield Town,2-0,2,0,Football League Third Division,3,H
+1966-05-17,1965/1966,Grimsby Town,Southend United,1-0,1,0,Football League Third Division,3,H
+1966-05-17,1965/1966,Walsall,York City,2-0,2,0,Football League Third Division,3,H
+1966-05-17,1965/1966,Swansea City,Oxford United,3-2,3,2,Football League Third Division,3,H
+1966-05-17,1965/1966,Brentford,AFC Bournemouth,1-0,1,0,Football League Third Division,3,H
+1966-05-17,1965/1966,Hull City,Peterborough United,2-1,2,1,Football League Third Division,3,H
+1966-05-17,1965/1966,Scunthorpe United,Watford,1-1,1,1,Football League Third Division,3,D
+1966-05-18,1965/1966,Notts County,Bradford City,2-1,2,1,Football League Fourth Division,4,H
+1966-05-18,1965/1966,Crewe Alexandra,Chester,1-1,1,1,Football League Fourth Division,4,D
+1966-05-18,1965/1966,Charlton Athletic,Norwich City,2-1,2,1,Football League Second Division,2,H
+1966-05-18,1965/1966,Manchester City,Southampton,0-0,0,0,Football League Second Division,2,D
+1966-05-18,1965/1966,Gillingham,Queens Park Rangers,3-1,3,1,Football League Third Division,3,H
+1966-05-18,1965/1966,Oldham Athletic,Brighton & Hove Albion,1-0,1,0,Football League Third Division,3,H
+1966-05-18,1965/1966,Reading,Exeter City,4-1,4,1,Football League Third Division,3,H
+1966-05-18,1965/1966,Shrewsbury Town,Swindon Town,1-1,1,1,Football League Third Division,3,D
+1966-05-19,1965/1966,Manchester United,Leeds United,1-1,1,1,Football League First Division,1,D
+1966-05-19,1965/1966,Luton Town,Barrow,3-2,3,2,Football League Fourth Division,4,H
+1966-05-20,1965/1966,Stockport County,Newport County,2-1,2,1,Football League Fourth Division,4,H
+1966-05-20,1965/1966,Brighton & Hove Albion,Workington,3-1,3,1,Football League Third Division,3,H
+1966-05-20,1965/1966,Hull City,Southend United,1-0,1,0,Football League Third Division,3,H
+1966-05-20,1965/1966,Reading,Shrewsbury Town,4-1,4,1,Football League Third Division,3,H
+1966-05-21,1965/1966,Hartlepool United,Bradford City,1-1,1,1,Football League Fourth Division,4,D
+1966-05-21,1965/1966,Darlington,Torquay United,0-0,0,0,Football League Fourth Division,4,D
+1966-05-21,1965/1966,Notts County,Rochdale,3-3,3,3,Football League Fourth Division,4,D
+1966-05-21,1965/1966,Scunthorpe United,Walsall,4-2,4,2,Football League Third Division,3,H
+1966-05-21,1965/1966,Queens Park Rangers,AFC Bournemouth,5-0,5,0,Football League Third Division,3,H
+1966-05-21,1965/1966,Oldham Athletic,Oxford United,3-0,3,0,Football League Third Division,3,H
+1966-05-21,1965/1966,Gillingham,York City,0-0,0,0,Football League Third Division,3,D
+1966-05-21,1965/1966,Exeter City,Grimsby Town,2-0,2,0,Football League Third Division,3,H
+1966-05-21,1965/1966,Peterborough United,Brentford,3-0,3,0,Football League Third Division,3,H
+1966-05-23,1965/1966,Newport County,Chester,3-2,3,2,Football League Fourth Division,4,H
+1966-05-23,1965/1966,Mansfield Town,AFC Bournemouth,1-0,1,0,Football League Third Division,3,H
+1966-05-23,1965/1966,Reading,Grimsby Town,0-0,0,0,Football League Third Division,3,D
+1966-05-24,1965/1966,Bradford Park Avenue,Stockport County,3-1,3,1,Football League Fourth Division,4,H
+1966-05-24,1965/1966,Swansea City,Walsall,1-0,1,0,Football League Third Division,3,H
+1966-05-25,1965/1966,Newport County,Luton Town,3-1,3,1,Football League Fourth Division,4,H
+1966-05-25,1965/1966,Oldham Athletic,Queens Park Rangers,0-2,0,2,Football League Third Division,3,A
+1966-05-27,1965/1966,Southend United,Reading,2-1,2,1,Football League Third Division,3,H
+1966-05-27,1965/1966,Workington,Mansfield Town,2-0,2,0,Football League Third Division,3,H
+1966-05-28,1965/1966,Newport County,Colchester United,2-1,2,1,Football League Fourth Division,4,H
+1966-05-28,1965/1966,Chester,Luton Town,1-1,1,1,Football League Fourth Division,4,D
+1966-05-28,1965/1966,Walsall,Queens Park Rangers,0-1,0,1,Football League Third Division,3,A
+1966-05-28,1965/1966,Swindon Town,Exeter City,2-2,2,2,Football League Third Division,3,D
+1966-05-28,1965/1966,Swansea City,Brighton & Hove Albion,2-2,2,2,Football League Third Division,3,D
+1966-05-28,1965/1966,Oxford United,Scunthorpe United,0-3,0,3,Football League Third Division,3,A
+1966-05-28,1965/1966,Grimsby Town,Millwall,2-0,2,0,Football League Third Division,3,H
+1966-05-28,1965/1966,Brentford,Gillingham,0-2,0,2,Football League Third Division,3,A

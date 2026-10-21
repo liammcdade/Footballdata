@@ -1,0 +1,2029 @@
+Date,Season,HomeTeam,AwayTeam,Score,hGoal,aGoal,Division,Tier,Result
+1967-08-19,1967/1968,Newcastle United,Southampton,3-0,3,0,Football League First Division,1,H
+1967-08-19,1967/1968,Arsenal,Stoke City,2-0,2,0,Football League First Division,1,H
+1967-08-19,1967/1968,Burnley,Coventry City,2-1,2,1,Football League First Division,1,H
+1967-08-19,1967/1968,Everton,Manchester United,3-1,3,1,Football League First Division,1,H
+1967-08-19,1967/1968,Fulham,Wolverhampton Wanderers,1-2,1,2,Football League First Division,1,A
+1967-08-19,1967/1968,Leicester City,Tottenham Hotspur,2-3,2,3,Football League First Division,1,A
+1967-08-19,1967/1968,Manchester City,Liverpool,0-0,0,0,Football League First Division,1,D
+1967-08-19,1967/1968,Sheffield United,Nottingham Forest,1-3,1,3,Football League First Division,1,A
+1967-08-19,1967/1968,West Bromwich Albion,Chelsea,0-1,0,1,Football League First Division,1,A
+1967-08-19,1967/1968,West Ham United,Sheffield Wednesday,2-3,2,3,Football League First Division,1,A
+1967-08-19,1967/1968,Leeds United,Sunderland,1-1,1,1,Football League First Division,1,D
+1967-08-19,1967/1968,Barnsley,Doncaster Rovers,1-0,1,0,Football League Fourth Division,4,H
+1967-08-19,1967/1968,Bradford City,Exeter City,2-1,2,1,Football League Fourth Division,4,H
+1967-08-19,1967/1968,Crewe Alexandra,Chesterfield,1-1,1,1,Football League Fourth Division,4,D
+1967-08-19,1967/1968,Halifax Town,Darlington,2-0,2,0,Football League Fourth Division,4,H
+1967-08-19,1967/1968,York City,Workington,1-1,1,1,Football League Fourth Division,4,D
+1967-08-19,1967/1968,Hartlepool United,Brentford,2-0,2,0,Football League Fourth Division,4,H
+1967-08-19,1967/1968,Lincoln City,Aldershot,1-1,1,1,Football League Fourth Division,4,D
+1967-08-19,1967/1968,Newport County,Rochdale,1-1,1,1,Football League Fourth Division,4,D
+1967-08-19,1967/1968,Notts County,Chester,1-2,1,2,Football League Fourth Division,4,A
+1967-08-19,1967/1968,Port Vale,Southend United,1-2,1,2,Football League Fourth Division,4,A
+1967-08-19,1967/1968,Swansea City,Bradford Park Avenue,1-1,1,1,Football League Fourth Division,4,D
+1967-08-19,1967/1968,Wrexham,Luton Town,1-1,1,1,Football League Fourth Division,4,D
+1967-08-19,1967/1968,Rotherham United,Crystal Palace,0-3,0,3,Football League Second Division,2,A
+1967-08-19,1967/1968,Bristol City,Huddersfield Town,2-3,2,3,Football League Second Division,2,A
+1967-08-19,1967/1968,Cardiff City,Plymouth Argyle,1-1,1,1,Football League Second Division,2,D
+1967-08-19,1967/1968,Derby County,Charlton Athletic,3-2,3,2,Football League Second Division,2,H
+1967-08-19,1967/1968,Hull City,Carlisle United,1-0,1,0,Football League Second Division,2,H
+1967-08-19,1967/1968,Middlesbrough,Ipswich Town,0-2,0,2,Football League Second Division,2,A
+1967-08-19,1967/1968,Millwall,Blackburn Rovers,1-2,1,2,Football League Second Division,2,A
+1967-08-19,1967/1968,Norwich City,Aston Villa,1-0,1,0,Football League Second Division,2,H
+1967-08-19,1967/1968,Portsmouth,Queens Park Rangers,1-1,1,1,Football League Second Division,2,D
+1967-08-19,1967/1968,Preston North End,Blackpool,0-2,0,2,Football League Second Division,2,A
+1967-08-19,1967/1968,Birmingham City,Bolton Wanderers,4-0,4,0,Football League Second Division,2,H
+1967-08-19,1967/1968,Gillingham,Northampton Town,2-0,2,0,Football League Third Division,3,H
+1967-08-19,1967/1968,Grimsby Town,Leyton Orient,0-0,0,0,Football League Third Division,3,D
+1967-08-19,1967/1968,Mansfield Town,Southport,4-2,4,2,Football League Third Division,3,H
+1967-08-19,1967/1968,Peterborough United,Scunthorpe United,1-1,1,1,Football League Third Division,3,D
+1967-08-19,1967/1968,Reading,Stockport County,3-0,3,0,Football League Third Division,3,H
+1967-08-19,1967/1968,Shrewsbury Town,Oxford United,2-0,2,0,Football League Third Division,3,H
+1967-08-19,1967/1968,Swindon Town,Brighton & Hove Albion,2-1,2,1,Football League Third Division,3,H
+1967-08-19,1967/1968,Torquay United,Tranmere Rovers,1-0,1,0,Football League Third Division,3,H
+1967-08-19,1967/1968,Watford,Walsall,1-2,1,2,Football League Third Division,3,A
+1967-08-19,1967/1968,Colchester United,Oldham Athletic,0-0,0,0,Football League Third Division,3,D
+1967-08-19,1967/1968,Bury,Barrow,1-2,1,2,Football League Third Division,3,A
+1967-08-19,1967/1968,AFC Bournemouth,Bristol Rovers,3-1,3,1,Football League Third Division,3,H
+1967-08-21,1967/1968,West Ham United,Burnley,4-2,4,2,Football League First Division,1,H
+1967-08-21,1967/1968,Blackpool,Ipswich Town,0-0,0,0,Football League Second Division,2,D
+1967-08-22,1967/1968,Liverpool,Arsenal,2-0,2,0,Football League First Division,1,H
+1967-08-22,1967/1968,Nottingham Forest,Coventry City,3-3,3,3,Football League First Division,1,D
+1967-08-22,1967/1968,Bristol City,Queens Park Rangers,0-2,0,2,Football League Second Division,2,A
+1967-08-22,1967/1968,Huddersfield Town,Millwall,1-0,1,0,Football League Second Division,2,H
+1967-08-23,1967/1968,Wolverhampton Wanderers,West Bromwich Albion,3-3,3,3,Football League First Division,1,D
+1967-08-23,1967/1968,Tottenham Hotspur,Everton,1-1,1,1,Football League First Division,1,D
+1967-08-23,1967/1968,Stoke City,Sheffield United,1-1,1,1,Football League First Division,1,D
+1967-08-23,1967/1968,Southampton,Manchester City,3-2,3,2,Football League First Division,1,H
+1967-08-23,1967/1968,Sheffield Wednesday,Leicester City,2-1,2,1,Football League First Division,1,H
+1967-08-23,1967/1968,Manchester United,Leeds United,1-0,1,0,Football League First Division,1,H
+1967-08-23,1967/1968,Chelsea,Newcastle United,1-1,1,1,Football League First Division,1,D
+1967-08-23,1967/1968,Sunderland,Fulham,3-0,3,0,Football League First Division,1,H
+1967-08-23,1967/1968,Plymouth Argyle,Aston Villa,2-1,2,1,Football League Second Division,2,H
+1967-08-23,1967/1968,Norwich City,Preston North End,1-3,1,3,Football League Second Division,2,A
+1967-08-23,1967/1968,Bolton Wanderers,Hull City,6-1,6,1,Football League Second Division,2,H
+1967-08-23,1967/1968,Blackburn Rovers,Carlisle United,1-0,1,0,Football League Second Division,2,H
+1967-08-25,1967/1968,Southend United,Wrexham,3-1,3,1,Football League Fourth Division,4,H
+1967-08-25,1967/1968,Scunthorpe United,Mansfield Town,3-3,3,3,Football League Third Division,3,D
+1967-08-25,1967/1968,Stockport County,Swindon Town,2-0,2,0,Football League Third Division,3,H
+1967-08-25,1967/1968,Tranmere Rovers,Reading,1-2,1,2,Football League Third Division,3,A
+1967-08-26,1967/1968,Manchester United,Leicester City,1-1,1,1,Football League First Division,1,D
+1967-08-26,1967/1968,Chelsea,Fulham,1-1,1,1,Football League First Division,1,D
+1967-08-26,1967/1968,Coventry City,Sheffield United,2-2,2,2,Football League First Division,1,D
+1967-08-26,1967/1968,Liverpool,Newcastle United,6-0,6,0,Football League First Division,1,H
+1967-08-26,1967/1968,Nottingham Forest,Arsenal,2-0,2,0,Football League First Division,1,H
+1967-08-26,1967/1968,Southampton,West Bromwich Albion,4-0,4,0,Football League First Division,1,H
+1967-08-26,1967/1968,Stoke City,Manchester City,3-0,3,0,Football League First Division,1,H
+1967-08-26,1967/1968,Sunderland,Everton,1-0,1,0,Football League First Division,1,H
+1967-08-26,1967/1968,Tottenham Hotspur,West Ham United,5-1,5,1,Football League First Division,1,H
+1967-08-26,1967/1968,Sheffield Wednesday,Burnley,2-1,2,1,Football League First Division,1,H
+1967-08-26,1967/1968,Wolverhampton Wanderers,Leeds United,2-0,2,0,Football League First Division,1,H
+1967-08-26,1967/1968,Aldershot,Halifax Town,1-1,1,1,Football League Fourth Division,4,D
+1967-08-26,1967/1968,Darlington,Bradford City,2-2,2,2,Football League Fourth Division,4,D
+1967-08-26,1967/1968,Brentford,Newport County,3-1,3,1,Football League Fourth Division,4,H
+1967-08-26,1967/1968,Chester,Port Vale,1-1,1,1,Football League Fourth Division,4,D
+1967-08-26,1967/1968,Chesterfield,Notts County,4-0,4,0,Football League Fourth Division,4,H
+1967-08-26,1967/1968,Doncaster Rovers,Swansea City,1-2,1,2,Football League Fourth Division,4,A
+1967-08-26,1967/1968,Workington,Lincoln City,2-4,2,4,Football League Fourth Division,4,A
+1967-08-26,1967/1968,Exeter City,Crewe Alexandra,1-4,1,4,Football League Fourth Division,4,A
+1967-08-26,1967/1968,Luton Town,Barnsley,2-0,2,0,Football League Fourth Division,4,H
+1967-08-26,1967/1968,Rochdale,York City,3-2,3,2,Football League Fourth Division,4,H
+1967-08-26,1967/1968,Bradford Park Avenue,Hartlepool United,0-1,0,1,Football League Fourth Division,4,A
+1967-08-26,1967/1968,Queens Park Rangers,Norwich City,2-0,2,0,Football League Second Division,2,H
+1967-08-26,1967/1968,Ipswich Town,Bristol City,5-0,5,0,Football League Second Division,2,H
+1967-08-26,1967/1968,Plymouth Argyle,Portsmouth,1-2,1,2,Football League Second Division,2,A
+1967-08-26,1967/1968,Aston Villa,Rotherham United,3-1,3,1,Football League Second Division,2,H
+1967-08-26,1967/1968,Blackburn Rovers,Hull City,2-0,2,0,Football League Second Division,2,H
+1967-08-26,1967/1968,Blackpool,Millwall,1-4,1,4,Football League Second Division,2,A
+1967-08-26,1967/1968,Bolton Wanderers,Cardiff City,1-1,1,1,Football League Second Division,2,D
+1967-08-26,1967/1968,Carlisle United,Middlesbrough,2-2,2,2,Football League Second Division,2,D
+1967-08-26,1967/1968,Charlton Athletic,Preston North End,0-0,0,0,Football League Second Division,2,D
+1967-08-26,1967/1968,Crystal Palace,Derby County,1-0,1,0,Football League Second Division,2,H
+1967-08-26,1967/1968,Huddersfield Town,Birmingham City,2-3,2,3,Football League Second Division,2,A
+1967-08-26,1967/1968,Barrow,AFC Bournemouth,1-1,1,1,Football League Third Division,3,D
+1967-08-26,1967/1968,Southport,Watford,2-0,2,0,Football League Third Division,3,H
+1967-08-26,1967/1968,Oxford United,Bury,5-4,5,4,Football League Third Division,3,H
+1967-08-26,1967/1968,Oldham Athletic,Peterborough United,0-2,0,2,Football League Third Division,3,A
+1967-08-26,1967/1968,Brighton & Hove Albion,Shrewsbury Town,3-0,3,0,Football League Third Division,3,H
+1967-08-26,1967/1968,Leyton Orient,Torquay United,0-2,0,2,Football League Third Division,3,A
+1967-08-26,1967/1968,Bristol Rovers,Colchester United,1-1,1,1,Football League Third Division,3,D
+1967-08-26,1967/1968,Walsall,Gillingham,3-0,3,0,Football League Third Division,3,H
+1967-08-26,1967/1968,Northampton Town,Grimsby Town,3-0,3,0,Football League Third Division,3,H
+1967-08-28,1967/1968,Arsenal,Liverpool,2-0,2,0,Football League First Division,1,H
+1967-08-28,1967/1968,Fulham,Sunderland,3-2,3,2,Football League First Division,1,H
+1967-08-28,1967/1968,Aston Villa,Plymouth Argyle,0-1,0,1,Football League Second Division,2,A
+1967-08-28,1967/1968,Preston North End,Norwich City,1-0,1,0,Football League Second Division,2,H
+1967-08-28,1967/1968,Rotherham United,Derby County,1-3,1,3,Football League Second Division,2,A
+1967-08-29,1967/1968,Everton,Tottenham Hotspur,0-1,0,1,Football League First Division,1,A
+1967-08-29,1967/1968,Sheffield United,Stoke City,1-0,1,0,Football League First Division,1,H
+1967-08-29,1967/1968,Burnley,West Ham United,3-3,3,3,Football League First Division,1,D
+1967-08-29,1967/1968,Coventry City,Nottingham Forest,1-3,1,3,Football League First Division,1,A
+1967-08-29,1967/1968,Middlesbrough,Birmingham City,1-1,1,1,Football League Second Division,2,D
+1967-08-29,1967/1968,Queens Park Rangers,Bristol City,3-1,3,1,Football League Second Division,2,H
+1967-08-29,1967/1968,Millwall,Huddersfield Town,1-1,1,1,Football League Second Division,2,D
+1967-08-29,1967/1968,Ipswich Town,Blackpool,1-1,1,1,Football League Second Division,2,D
+1967-08-29,1967/1968,Carlisle United,Blackburn Rovers,1-0,1,0,Football League Second Division,2,H
+1967-08-30,1967/1968,Leicester City,Sheffield Wednesday,3-0,3,0,Football League First Division,1,H
+1967-08-30,1967/1968,Manchester City,Southampton,4-2,4,2,Football League First Division,1,H
+1967-08-30,1967/1968,Newcastle United,Chelsea,5-1,5,1,Football League First Division,1,H
+1967-08-30,1967/1968,West Bromwich Albion,Wolverhampton Wanderers,4-1,4,1,Football League First Division,1,H
+1967-08-30,1967/1968,Cardiff City,Crystal Palace,4-2,4,2,Football League Second Division,2,H
+1967-08-30,1967/1968,Hull City,Bolton Wanderers,1-2,1,2,Football League Second Division,2,A
+1967-09-01,1967/1968,Hartlepool United,Doncaster Rovers,0-0,0,0,Football League Fourth Division,4,D
+1967-09-02,1967/1968,Arsenal,Coventry City,1-1,1,1,Football League First Division,1,D
+1967-09-02,1967/1968,Burnley,Tottenham Hotspur,5-1,5,1,Football League First Division,1,H
+1967-09-02,1967/1968,Chelsea,Southampton,2-6,2,6,Football League First Division,1,A
+1967-09-02,1967/1968,Everton,Wolverhampton Wanderers,4-2,4,2,Football League First Division,1,H
+1967-09-02,1967/1968,Leeds United,Fulham,2-0,2,0,Football League First Division,1,H
+1967-09-02,1967/1968,Leicester City,Sunderland,0-2,0,2,Football League First Division,1,A
+1967-09-02,1967/1968,Manchester City,Nottingham Forest,2-0,2,0,Football League First Division,1,H
+1967-09-02,1967/1968,Sheffield United,Sheffield Wednesday,0-1,0,1,Football League First Division,1,A
+1967-09-02,1967/1968,West Bromwich Albion,Liverpool,0-2,0,2,Football League First Division,1,A
+1967-09-02,1967/1968,Newcastle United,Stoke City,1-1,1,1,Football League First Division,1,D
+1967-09-02,1967/1968,West Ham United,Manchester United,1-3,1,3,Football League First Division,1,A
+1967-09-02,1967/1968,Newport County,Bradford Park Avenue,4-0,4,0,Football League Fourth Division,4,H
+1967-09-02,1967/1968,Crewe Alexandra,Darlington,1-1,1,1,Football League Fourth Division,4,D
+1967-09-02,1967/1968,Halifax Town,Workington,2-1,2,1,Football League Fourth Division,4,H
+1967-09-02,1967/1968,Notts County,Exeter City,1-0,1,0,Football League Fourth Division,4,H
+1967-09-02,1967/1968,Port Vale,Chesterfield,0-1,0,1,Football League Fourth Division,4,A
+1967-09-02,1967/1968,Rochdale,Lincoln City,1-2,1,2,Football League Fourth Division,4,A
+1967-09-02,1967/1968,Swansea City,Luton Town,2-2,2,2,Football League Fourth Division,4,D
+1967-09-02,1967/1968,Wrexham,Chester,2-0,2,0,Football League Fourth Division,4,H
+1967-09-02,1967/1968,York City,Brentford,0-1,0,1,Football League Fourth Division,4,A
+1967-09-02,1967/1968,Bradford City,Aldershot,1-3,1,3,Football League Fourth Division,4,A
+1967-09-02,1967/1968,Barnsley,Southend United,1-1,1,1,Football League Fourth Division,4,D
+1967-09-02,1967/1968,Preston North End,Crystal Palace,0-0,0,0,Football League Second Division,2,D
+1967-09-02,1967/1968,Birmingham City,Ipswich Town,0-0,0,0,Football League Second Division,2,D
+1967-09-02,1967/1968,Bolton Wanderers,Huddersfield Town,3-1,3,1,Football League Second Division,2,H
+1967-09-02,1967/1968,Bristol City,Carlisle United,1-0,1,0,Football League Second Division,2,H
+1967-09-02,1967/1968,Derby County,Aston Villa,3-1,3,1,Football League Second Division,2,H
+1967-09-02,1967/1968,Hull City,Blackpool,0-1,0,1,Football League Second Division,2,A
+1967-09-02,1967/1968,Middlesbrough,Blackburn Rovers,0-0,0,0,Football League Second Division,2,D
+1967-09-02,1967/1968,Millwall,Charlton Athletic,0-0,0,0,Football League Second Division,2,D
+1967-09-02,1967/1968,Norwich City,Plymouth Argyle,2-0,2,0,Football League Second Division,2,H
+1967-09-02,1967/1968,Portsmouth,Cardiff City,3-1,3,1,Football League Second Division,2,H
+1967-09-02,1967/1968,Rotherham United,Queens Park Rangers,1-3,1,3,Football League Second Division,2,A
+1967-09-02,1967/1968,Torquay United,Northampton Town,0-0,0,0,Football League Third Division,3,D
+1967-09-02,1967/1968,Swindon Town,Tranmere Rovers,3-1,3,1,Football League Third Division,3,H
+1967-09-02,1967/1968,Shrewsbury Town,Stockport County,0-0,0,0,Football League Third Division,3,D
+1967-09-02,1967/1968,Reading,Leyton Orient,4-2,4,2,Football League Third Division,3,H
+1967-09-02,1967/1968,Colchester United,Barrow,3-2,3,2,Football League Third Division,3,H
+1967-09-02,1967/1968,Mansfield Town,Oldham Athletic,1-1,1,1,Football League Third Division,3,D
+1967-09-02,1967/1968,Grimsby Town,Walsall,3-0,3,0,Football League Third Division,3,H
+1967-09-02,1967/1968,Watford,Scunthorpe United,4-0,4,0,Football League Third Division,3,H
+1967-09-02,1967/1968,Peterborough United,Bristol Rovers,4-1,4,1,Football League Third Division,3,H
+1967-09-02,1967/1968,Gillingham,Southport,1-4,1,4,Football League Third Division,3,A
+1967-09-02,1967/1968,Brighton & Hove Albion,Bury,1-0,1,0,Football League Third Division,3,H
+1967-09-02,1967/1968,AFC Bournemouth,Oxford United,2-1,2,1,Football League Third Division,3,H
+1967-09-04,1967/1968,Bradford Park Avenue,Barnsley,1-1,1,1,Football League Fourth Division,4,D
+1967-09-04,1967/1968,Southend United,Luton Town,3-0,3,0,Football League Fourth Division,4,H
+1967-09-04,1967/1968,Hartlepool United,Rochdale,1-1,1,1,Football League Fourth Division,4,D
+1967-09-04,1967/1968,Halifax Town,Exeter City,1-1,1,1,Football League Fourth Division,4,D
+1967-09-04,1967/1968,Chesterfield,Bradford City,2-1,2,1,Football League Fourth Division,4,H
+1967-09-04,1967/1968,Blackpool,Huddersfield Town,2-0,2,0,Football League Second Division,2,H
+1967-09-04,1967/1968,Birmingham City,Hull City,6-2,6,2,Football League Second Division,2,H
+1967-09-04,1967/1968,Tranmere Rovers,Gillingham,2-1,2,1,Football League Third Division,3,H
+1967-09-04,1967/1968,Peterborough United,Watford,5-1,5,1,Football League Third Division,3,H
+1967-09-04,1967/1968,Barrow,Swindon Town,1-1,1,1,Football League Third Division,3,D
+1967-09-04,1967/1968,AFC Bournemouth,Scunthorpe United,1-0,1,0,Football League Third Division,3,H
+1967-09-04,1967/1968,Southport,Colchester United,2-3,2,3,Football League Third Division,3,A
+1967-09-05,1967/1968,Nottingham Forest,Liverpool,0-1,0,1,Football League First Division,1,A
+1967-09-05,1967/1968,Everton,West Ham United,2-0,2,0,Football League First Division,1,H
+1967-09-05,1967/1968,Coventry City,Southampton,2-1,2,1,Football League First Division,1,H
+1967-09-05,1967/1968,Swansea City,Brentford,2-1,2,1,Football League Fourth Division,4,H
+1967-09-05,1967/1968,Newport County,York City,2-1,2,1,Football League Fourth Division,4,H
+1967-09-05,1967/1968,Doncaster Rovers,Wrexham,2-2,2,2,Football League Fourth Division,4,D
+1967-09-05,1967/1968,Queens Park Rangers,Aston Villa,3-0,3,0,Football League Second Division,2,H
+1967-09-05,1967/1968,Carlisle United,Rotherham United,4-1,4,1,Football League Second Division,2,H
+1967-09-05,1967/1968,Bristol City,Middlesbrough,0-0,0,0,Football League Second Division,2,D
+1967-09-05,1967/1968,Charlton Athletic,Cardiff City,1-1,1,1,Football League Second Division,2,D
+1967-09-05,1967/1968,Walsall,Leyton Orient,5-0,5,0,Football League Third Division,3,H
+1967-09-05,1967/1968,Bury,Oldham Athletic,3-1,3,1,Football League Third Division,3,H
+1967-09-05,1967/1968,Northampton Town,Mansfield Town,1-1,1,1,Football League Third Division,3,D
+1967-09-06,1967/1968,Chelsea,Sheffield United,4-2,4,2,Football League First Division,1,H
+1967-09-06,1967/1968,West Bromwich Albion,Arsenal,1-3,1,3,Football League First Division,1,A
+1967-09-06,1967/1968,Tottenham Hotspur,Wolverhampton Wanderers,2-1,2,1,Football League First Division,1,H
+1967-09-06,1967/1968,Sunderland,Manchester United,1-1,1,1,Football League First Division,1,D
+1967-09-06,1967/1968,Stoke City,Leicester City,3-2,3,2,Football League First Division,1,H
+1967-09-06,1967/1968,Sheffield Wednesday,Fulham,4-2,4,2,Football League First Division,1,H
+1967-09-06,1967/1968,Manchester City,Newcastle United,2-0,2,0,Football League First Division,1,H
+1967-09-06,1967/1968,Notts County,Port Vale,0-0,0,0,Football League Fourth Division,4,D
+1967-09-06,1967/1968,Lincoln City,Darlington,1-2,1,2,Football League Fourth Division,4,A
+1967-09-06,1967/1968,Chester,Crewe Alexandra,0-4,0,4,Football League Fourth Division,4,A
+1967-09-06,1967/1968,Aldershot,Workington,5-0,5,0,Football League Fourth Division,4,H
+1967-09-06,1967/1968,Portsmouth,Preston North End,2-1,2,1,Football League Second Division,2,H
+1967-09-06,1967/1968,Norwich City,Derby County,3-2,3,2,Football League Second Division,2,H
+1967-09-06,1967/1968,Bolton Wanderers,Millwall,1-1,1,1,Football League Second Division,2,D
+1967-09-06,1967/1968,Blackburn Rovers,Ipswich Town,2-1,2,1,Football League Second Division,2,H
+1967-09-06,1967/1968,Crystal Palace,Plymouth Argyle,5-0,5,0,Football League Second Division,2,H
+1967-09-06,1967/1968,Torquay United,Brighton & Hove Albion,1-1,1,1,Football League Third Division,3,D
+1967-09-06,1967/1968,Shrewsbury Town,Reading,2-1,2,1,Football League Third Division,3,H
+1967-09-06,1967/1968,Oxford United,Bristol Rovers,0-2,0,2,Football League Third Division,3,A
+1967-09-06,1967/1968,Grimsby Town,Stockport County,3-1,3,1,Football League Third Division,3,H
+1967-09-08,1967/1968,Southend United,Swansea City,1-0,1,0,Football League Fourth Division,4,H
+1967-09-08,1967/1968,Tranmere Rovers,Shrewsbury Town,4-1,4,1,Football League Third Division,3,H
+1967-09-08,1967/1968,Stockport County,Brighton & Hove Albion,2-0,2,0,Football League Third Division,3,H
+1967-09-09,1967/1968,Fulham,Everton,2-1,2,1,Football League First Division,1,H
+1967-09-09,1967/1968,Liverpool,Chelsea,3-1,3,1,Football League First Division,1,H
+1967-09-09,1967/1968,Manchester United,Burnley,2-2,2,2,Football League First Division,1,D
+1967-09-09,1967/1968,Nottingham Forest,Newcastle United,4-0,4,0,Football League First Division,1,H
+1967-09-09,1967/1968,Sheffield United,Arsenal,2-4,2,4,Football League First Division,1,A
+1967-09-09,1967/1968,Southampton,Leeds United,1-1,1,1,Football League First Division,1,D
+1967-09-09,1967/1968,Stoke City,West Bromwich Albion,0-0,0,0,Football League First Division,1,D
+1967-09-09,1967/1968,Sunderland,West Ham United,1-5,1,5,Football League First Division,1,A
+1967-09-09,1967/1968,Tottenham Hotspur,Sheffield Wednesday,2-1,2,1,Football League First Division,1,H
+1967-09-09,1967/1968,Wolverhampton Wanderers,Leicester City,1-3,1,3,Football League First Division,1,A
+1967-09-09,1967/1968,Coventry City,Manchester City,0-3,0,3,Football League First Division,1,A
+1967-09-09,1967/1968,Aldershot,Crewe Alexandra,2-0,2,0,Football League Fourth Division,4,H
+1967-09-09,1967/1968,Exeter City,Port Vale,3-1,3,1,Football League Fourth Division,4,H
+1967-09-09,1967/1968,Brentford,Rochdale,4-0,4,0,Football League Fourth Division,4,H
+1967-09-09,1967/1968,Chesterfield,Chester,3-1,3,1,Football League Fourth Division,4,H
+1967-09-09,1967/1968,Darlington,Notts County,2-2,2,2,Football League Fourth Division,4,D
+1967-09-09,1967/1968,Doncaster Rovers,Newport County,1-1,1,1,Football League Fourth Division,4,D
+1967-09-09,1967/1968,Lincoln City,Halifax Town,1-0,1,0,Football League Fourth Division,4,H
+1967-09-09,1967/1968,Luton Town,Hartlepool United,1-0,1,0,Football League Fourth Division,4,H
+1967-09-09,1967/1968,Workington,Bradford City,0-1,0,1,Football League Fourth Division,4,A
+1967-09-09,1967/1968,Wrexham,Barnsley,2-0,2,0,Football League Fourth Division,4,H
+1967-09-09,1967/1968,Bradford Park Avenue,York City,1-1,1,1,Football League Fourth Division,4,D
+1967-09-09,1967/1968,Queens Park Rangers,Derby County,0-1,0,1,Football League Second Division,2,A
+1967-09-09,1967/1968,Millwall,Hull City,1-1,1,1,Football League Second Division,2,D
+1967-09-09,1967/1968,Aston Villa,Preston North End,1-0,1,0,Football League Second Division,2,H
+1967-09-09,1967/1968,Blackburn Rovers,Bristol City,2-0,2,0,Football League Second Division,2,H
+1967-09-09,1967/1968,Blackpool,Middlesbrough,3-0,3,0,Football League Second Division,2,H
+1967-09-09,1967/1968,Cardiff City,Norwich City,3-1,3,1,Football League Second Division,2,H
+1967-09-09,1967/1968,Carlisle United,Birmingham City,1-1,1,1,Football League Second Division,2,D
+1967-09-09,1967/1968,Crystal Palace,Charlton Athletic,3-0,3,0,Football League Second Division,2,H
+1967-09-09,1967/1968,Huddersfield Town,Portsmouth,2-2,2,2,Football League Second Division,2,D
+1967-09-09,1967/1968,Ipswich Town,Bolton Wanderers,1-1,1,1,Football League Second Division,2,D
+1967-09-09,1967/1968,Plymouth Argyle,Rotherham United,0-1,0,1,Football League Second Division,2,A
+1967-09-09,1967/1968,Bristol Rovers,Mansfield Town,2-0,2,0,Football League Third Division,3,H
+1967-09-09,1967/1968,Bury,AFC Bournemouth,4-0,4,0,Football League Third Division,3,H
+1967-09-09,1967/1968,Gillingham,Grimsby Town,1-0,1,0,Football League Third Division,3,H
+1967-09-09,1967/1968,Leyton Orient,Swindon Town,0-0,0,0,Football League Third Division,3,D
+1967-09-09,1967/1968,Oldham Athletic,Watford,2-0,2,0,Football League Third Division,3,H
+1967-09-09,1967/1968,Oxford United,Colchester United,3-1,3,1,Football League Third Division,3,H
+1967-09-09,1967/1968,Scunthorpe United,Southport,1-0,1,0,Football League Third Division,3,H
+1967-09-09,1967/1968,Walsall,Torquay United,1-1,1,1,Football League Third Division,3,D
+1967-09-09,1967/1968,Barrow,Peterborough United,1-2,1,2,Football League Third Division,3,A
+1967-09-09,1967/1968,Northampton Town,Reading,1-2,1,2,Football League Third Division,3,A
+1967-09-15,1967/1968,Barnsley,Chesterfield,0-0,0,0,Football League Fourth Division,4,D
+1967-09-15,1967/1968,Stockport County,AFC Bournemouth,3-1,3,1,Football League Third Division,3,H
+1967-09-15,1967/1968,Southport,Oldham Athletic,1-0,1,0,Football League Third Division,3,H
+1967-09-16,1967/1968,Arsenal,Tottenham Hotspur,4-0,4,0,Football League First Division,1,H
+1967-09-16,1967/1968,Burnley,Sunderland,3-0,3,0,Football League First Division,1,H
+1967-09-16,1967/1968,Chelsea,Stoke City,2-2,2,2,Football League First Division,1,D
+1967-09-16,1967/1968,Everton,Leeds United,0-1,0,1,Football League First Division,1,A
+1967-09-16,1967/1968,Leicester City,Fulham,1-2,1,2,Football League First Division,1,A
+1967-09-16,1967/1968,Manchester City,Sheffield United,5-2,5,2,Football League First Division,1,H
+1967-09-16,1967/1968,Newcastle United,Coventry City,3-2,3,2,Football League First Division,1,H
+1967-09-16,1967/1968,Sheffield Wednesday,Manchester United,1-1,1,1,Football League First Division,1,D
+1967-09-16,1967/1968,Southampton,Liverpool,1-0,1,0,Football League First Division,1,H
+1967-09-16,1967/1968,West Ham United,Wolverhampton Wanderers,1-2,1,2,Football League First Division,1,A
+1967-09-16,1967/1968,West Bromwich Albion,Nottingham Forest,2-1,2,1,Football League First Division,1,H
+1967-09-16,1967/1968,Bradford City,Lincoln City,2-1,2,1,Football League Fourth Division,4,H
+1967-09-16,1967/1968,Chester,Exeter City,3-1,3,1,Football League Fourth Division,4,H
+1967-09-16,1967/1968,Crewe Alexandra,Workington,3-2,3,2,Football League Fourth Division,4,H
+1967-09-16,1967/1968,Hartlepool United,Southend United,0-1,0,1,Football League Fourth Division,4,A
+1967-09-16,1967/1968,Newport County,Luton Town,1-1,1,1,Football League Fourth Division,4,D
+1967-09-16,1967/1968,Notts County,Aldershot,0-1,0,1,Football League Fourth Division,4,A
+1967-09-16,1967/1968,Port Vale,Darlington,0-1,0,1,Football League Fourth Division,4,A
+1967-09-16,1967/1968,Rochdale,Bradford Park Avenue,1-1,1,1,Football League Fourth Division,4,D
+1967-09-16,1967/1968,York City,Doncaster Rovers,1-2,1,2,Football League Fourth Division,4,A
+1967-09-16,1967/1968,Brentford,Halifax Town,0-0,0,0,Football League Fourth Division,4,D
+1967-09-16,1967/1968,Swansea City,Wrexham,2-0,2,0,Football League Fourth Division,4,H
+1967-09-16,1967/1968,Rotherham United,Cardiff City,3-2,3,2,Football League Second Division,2,H
+1967-09-16,1967/1968,Norwich City,Portsmouth,1-3,1,3,Football League Second Division,2,A
+1967-09-16,1967/1968,Preston North End,Queens Park Rangers,0-2,0,2,Football League Second Division,2,A
+1967-09-16,1967/1968,Birmingham City,Blackburn Rovers,1-1,1,1,Football League Second Division,2,D
+1967-09-16,1967/1968,Bolton Wanderers,Carlisle United,2-3,2,3,Football League Second Division,2,A
+1967-09-16,1967/1968,Bristol City,Blackpool,2-4,2,4,Football League Second Division,2,A
+1967-09-16,1967/1968,Charlton Athletic,Aston Villa,3-0,3,0,Football League Second Division,2,H
+1967-09-16,1967/1968,Derby County,Plymouth Argyle,1-0,1,0,Football League Second Division,2,H
+1967-09-16,1967/1968,Huddersfield Town,Ipswich Town,1-4,1,4,Football League Second Division,2,A
+1967-09-16,1967/1968,Hull City,Crystal Palace,1-1,1,1,Football League Second Division,2,D
+1967-09-16,1967/1968,Middlesbrough,Millwall,0-1,0,1,Football League Second Division,2,A
+1967-09-16,1967/1968,Brighton & Hove Albion,Tranmere Rovers,2-0,2,0,Football League Third Division,3,H
+1967-09-16,1967/1968,Colchester United,Bury,0-0,0,0,Football League Third Division,3,D
+1967-09-16,1967/1968,Grimsby Town,Scunthorpe United,2-1,2,1,Football League Third Division,3,H
+1967-09-16,1967/1968,Mansfield Town,Barrow,1-2,1,2,Football League Third Division,3,A
+1967-09-16,1967/1968,Peterborough United,Oxford United,1-1,1,1,Football League Third Division,3,D
+1967-09-16,1967/1968,Reading,Walsall,2-2,2,2,Football League Third Division,3,D
+1967-09-16,1967/1968,Shrewsbury Town,Leyton Orient,2-2,2,2,Football League Third Division,3,D
+1967-09-16,1967/1968,Swindon Town,Northampton Town,4-0,4,0,Football League Third Division,3,H
+1967-09-16,1967/1968,Torquay United,Gillingham,2-1,2,1,Football League Third Division,3,H
+1967-09-16,1967/1968,Watford,Bristol Rovers,4-0,4,0,Football League Third Division,3,H
+1967-09-20,1967/1968,Leeds United,Burnley,2-1,2,1,Football League First Division,1,H
+1967-09-22,1967/1968,Southend United,Newport County,2-2,2,2,Football League Fourth Division,4,D
+1967-09-22,1967/1968,Tranmere Rovers,Stockport County,2-1,2,1,Football League Third Division,3,H
+1967-09-23,1967/1968,Arsenal,Manchester City,1-0,1,0,Football League First Division,1,H
+1967-09-23,1967/1968,Coventry City,West Bromwich Albion,4-2,4,2,Football League First Division,1,H
+1967-09-23,1967/1968,Fulham,West Ham United,0-3,0,3,Football League First Division,1,A
+1967-09-23,1967/1968,Liverpool,Everton,1-0,1,0,Football League First Division,1,H
+1967-09-23,1967/1968,Manchester United,Tottenham Hotspur,3-1,3,1,Football League First Division,1,H
+1967-09-23,1967/1968,Nottingham Forest,Chelsea,3-0,3,0,Football League First Division,1,H
+1967-09-23,1967/1968,Sheffield United,Newcastle United,2-1,2,1,Football League First Division,1,H
+1967-09-23,1967/1968,Stoke City,Southampton,3-2,3,2,Football League First Division,1,H
+1967-09-23,1967/1968,Sunderland,Sheffield Wednesday,0-2,0,2,Football League First Division,1,A
+1967-09-23,1967/1968,Leeds United,Leicester City,3-2,3,2,Football League First Division,1,H
+1967-09-23,1967/1968,Wolverhampton Wanderers,Burnley,3-2,3,2,Football League First Division,1,H
+1967-09-23,1967/1968,Workington,Notts County,5-1,5,1,Football League Fourth Division,4,H
+1967-09-23,1967/1968,Barnsley,Swansea City,3-0,3,0,Football League Fourth Division,4,H
+1967-09-23,1967/1968,Wrexham,Hartlepool United,6-0,6,0,Football League Fourth Division,4,H
+1967-09-23,1967/1968,Darlington,Chester,0-2,0,2,Football League Fourth Division,4,A
+1967-09-23,1967/1968,Doncaster Rovers,Rochdale,2-0,2,0,Football League Fourth Division,4,H
+1967-09-23,1967/1968,Exeter City,Chesterfield,1-1,1,1,Football League Fourth Division,4,D
+1967-09-23,1967/1968,Halifax Town,Bradford City,1-0,1,0,Football League Fourth Division,4,H
+1967-09-23,1967/1968,Lincoln City,Crewe Alexandra,2-4,2,4,Football League Fourth Division,4,A
+1967-09-23,1967/1968,Luton Town,York City,3-1,3,1,Football League Fourth Division,4,H
+1967-09-23,1967/1968,Aldershot,Port Vale,2-0,2,0,Football League Fourth Division,4,H
+1967-09-23,1967/1968,Bradford Park Avenue,Brentford,1-0,1,0,Football League Fourth Division,4,H
+1967-09-23,1967/1968,Portsmouth,Rotherham United,1-1,1,1,Football League Second Division,2,D
+1967-09-23,1967/1968,Aston Villa,Crystal Palace,0-1,0,1,Football League Second Division,2,A
+1967-09-23,1967/1968,Plymouth Argyle,Preston North End,1-2,1,2,Football League Second Division,2,A
+1967-09-23,1967/1968,Millwall,Bristol City,1-1,1,1,Football League Second Division,2,D
+1967-09-23,1967/1968,Ipswich Town,Norwich City,0-0,0,0,Football League Second Division,2,D
+1967-09-23,1967/1968,Queens Park Rangers,Charlton Athletic,2-1,2,1,Football League Second Division,2,H
+1967-09-23,1967/1968,Carlisle United,Huddersfield Town,2-1,2,1,Football League Second Division,2,H
+1967-09-23,1967/1968,Cardiff City,Derby County,1-5,1,5,Football League Second Division,2,A
+1967-09-23,1967/1968,Blackpool,Birmingham City,1-0,1,0,Football League Second Division,2,H
+1967-09-23,1967/1968,Blackburn Rovers,Bolton Wanderers,2-1,2,1,Football League Second Division,2,H
+1967-09-23,1967/1968,Hull City,Middlesbrough,0-2,0,2,Football League Second Division,2,A
+1967-09-23,1967/1968,Bristol Rovers,Southport,1-3,1,3,Football League Third Division,3,A
+1967-09-23,1967/1968,Bury,Peterborough United,4-0,4,0,Football League Third Division,3,H
+1967-09-23,1967/1968,Gillingham,Reading,3-0,3,0,Football League Third Division,3,H
+1967-09-23,1967/1968,Grimsby Town,Torquay United,1-1,1,1,Football League Third Division,3,D
+1967-09-23,1967/1968,Leyton Orient,Brighton & Hove Albion,1-2,1,2,Football League Third Division,3,A
+1967-09-23,1967/1968,Northampton Town,Shrewsbury Town,2-2,2,2,Football League Third Division,3,D
+1967-09-23,1967/1968,Oldham Athletic,Scunthorpe United,3-4,3,4,Football League Third Division,3,A
+1967-09-23,1967/1968,Oxford United,Mansfield Town,2-0,2,0,Football League Third Division,3,H
+1967-09-23,1967/1968,Barrow,Watford,0-0,0,0,Football League Third Division,3,D
+1967-09-23,1967/1968,Walsall,Swindon Town,3-2,3,2,Football League Third Division,3,H
+1967-09-23,1967/1968,AFC Bournemouth,Colchester United,1-2,1,2,Football League Third Division,3,A
+1967-09-25,1967/1968,York City,Newport County,0-1,0,1,Football League Fourth Division,4,A
+1967-09-25,1967/1968,Wrexham,Doncaster Rovers,0-0,0,0,Football League Fourth Division,4,D
+1967-09-25,1967/1968,Rochdale,Hartlepool United,1-1,1,1,Football League Fourth Division,4,D
+1967-09-25,1967/1968,Port Vale,Notts County,4-1,4,1,Football League Fourth Division,4,H
+1967-09-25,1967/1968,Darlington,Lincoln City,1-1,1,1,Football League Fourth Division,4,D
+1967-09-25,1967/1968,Mansfield Town,Northampton Town,3-2,3,2,Football League Third Division,3,H
+1967-09-25,1967/1968,Brighton & Hove Albion,Torquay United,0-1,0,1,Football League Third Division,3,A
+1967-09-25,1967/1968,Stockport County,Grimsby Town,1-1,1,1,Football League Third Division,3,D
+1967-09-25,1967/1968,Leyton Orient,Walsall,2-0,2,0,Football League Third Division,3,H
+1967-09-25,1967/1968,Colchester United,Southport,1-1,1,1,Football League Third Division,3,D
+1967-09-26,1967/1968,Brentford,Swansea City,2-1,2,1,Football League Fourth Division,4,H
+1967-09-26,1967/1968,Barnsley,Bradford Park Avenue,2-0,2,0,Football League Fourth Division,4,H
+1967-09-26,1967/1968,Birmingham City,Middlesbrough,6-1,6,1,Football League Second Division,2,H
+1967-09-26,1967/1968,Watford,Peterborough United,4-1,4,1,Football League Third Division,3,H
+1967-09-26,1967/1968,Swindon Town,Barrow,0-1,0,1,Football League Third Division,3,A
+1967-09-26,1967/1968,Oldham Athletic,Bury,1-2,1,2,Football League Third Division,3,A
+1967-09-26,1967/1968,Bristol Rovers,Oxford United,1-1,1,1,Football League Third Division,3,D
+1967-09-26,1967/1968,Scunthorpe United,AFC Bournemouth,1-1,1,1,Football League Third Division,3,D
+1967-09-27,1967/1968,Bradford City,Chesterfield,3-1,3,1,Football League Fourth Division,4,H
+1967-09-27,1967/1968,Crewe Alexandra,Chester,2-0,2,0,Football League Fourth Division,4,H
+1967-09-27,1967/1968,Exeter City,Halifax Town,0-0,0,0,Football League Fourth Division,4,D
+1967-09-27,1967/1968,Luton Town,Southend United,3-1,3,1,Football League Fourth Division,4,H
+1967-09-27,1967/1968,Crystal Palace,Cardiff City,2-1,2,1,Football League Second Division,2,H
+1967-09-27,1967/1968,Derby County,Rotherham United,4-1,4,1,Football League Second Division,2,H
+1967-09-27,1967/1968,Portsmouth,Charlton Athletic,4-0,4,0,Football League Second Division,2,H
+1967-09-27,1967/1968,Gillingham,Tranmere Rovers,1-1,1,1,Football League Third Division,3,D
+1967-09-27,1967/1968,Reading,Shrewsbury Town,0-0,0,0,Football League Third Division,3,D
+1967-09-28,1967/1968,Workington,Aldershot,3-2,3,2,Football League Fourth Division,4,H
+1967-09-29,1967/1968,Hartlepool United,Barnsley,2-1,2,1,Football League Fourth Division,4,H
+1967-09-29,1967/1968,Southport,Barrow,1-0,1,0,Football League Third Division,3,H
+1967-09-29,1967/1968,Stockport County,Leyton Orient,2-0,2,0,Football League Third Division,3,H
+1967-09-29,1967/1968,Tranmere Rovers,Colchester United,4-2,4,2,Football League Third Division,3,H
+1967-09-30,1967/1968,Burnley,Fulham,2-0,2,0,Football League First Division,1,H
+1967-09-30,1967/1968,Chelsea,Coventry City,1-1,1,1,Football League First Division,1,D
+1967-09-30,1967/1968,Leicester City,Everton,0-2,0,2,Football League First Division,1,A
+1967-09-30,1967/1968,Liverpool,Stoke City,2-1,2,1,Football League First Division,1,H
+1967-09-30,1967/1968,Manchester City,Manchester United,1-2,1,2,Football League First Division,1,A
+1967-09-30,1967/1968,Newcastle United,Arsenal,2-1,2,1,Football League First Division,1,H
+1967-09-30,1967/1968,Southampton,Nottingham Forest,2-1,2,1,Football League First Division,1,H
+1967-09-30,1967/1968,Tottenham Hotspur,Sunderland,3-0,3,0,Football League First Division,1,H
+1967-09-30,1967/1968,West Bromwich Albion,Sheffield United,4-1,4,1,Football League First Division,1,H
+1967-09-30,1967/1968,Sheffield Wednesday,Wolverhampton Wanderers,2-2,2,2,Football League First Division,1,D
+1967-09-30,1967/1968,West Ham United,Leeds United,0-0,0,0,Football League First Division,1,D
+1967-09-30,1967/1968,Bradford Park Avenue,Bradford City,1-2,1,2,Football League Fourth Division,4,A
+1967-09-30,1967/1968,Brentford,Doncaster Rovers,4-2,4,2,Football League Fourth Division,4,H
+1967-09-30,1967/1968,York City,Southend United,2-2,2,2,Football League Fourth Division,4,D
+1967-09-30,1967/1968,Chesterfield,Darlington,3-1,3,1,Football League Fourth Division,4,H
+1967-09-30,1967/1968,Crewe Alexandra,Halifax Town,5-1,5,1,Football League Fourth Division,4,H
+1967-09-30,1967/1968,Newport County,Wrexham,3-2,3,2,Football League Fourth Division,4,H
+1967-09-30,1967/1968,Notts County,Lincoln City,0-0,0,0,Football League Fourth Division,4,D
+1967-09-30,1967/1968,Port Vale,Workington,4-2,4,2,Football League Fourth Division,4,H
+1967-09-30,1967/1968,Rochdale,Luton Town,2-2,2,2,Football League Fourth Division,4,D
+1967-09-30,1967/1968,Swansea City,Exeter City,1-1,1,1,Football League Fourth Division,4,D
+1967-09-30,1967/1968,Chester,Aldershot,2-5,2,5,Football League Fourth Division,4,A
+1967-09-30,1967/1968,Rotherham United,Norwich City,1-3,1,3,Football League Second Division,2,A
+1967-09-30,1967/1968,Middlesbrough,Aston Villa,1-1,1,1,Football League Second Division,2,D
+1967-09-30,1967/1968,Birmingham City,Millwall,2-3,2,3,Football League Second Division,2,A
+1967-09-30,1967/1968,Ipswich Town,Carlisle United,3-1,3,1,Football League Second Division,2,H
+1967-09-30,1967/1968,Derby County,Portsmouth,0-1,0,1,Football League Second Division,2,A
+1967-09-30,1967/1968,Preston North End,Cardiff City,3-0,3,0,Football League Second Division,2,H
+1967-09-30,1967/1968,Huddersfield Town,Blackburn Rovers,2-1,2,1,Football League Second Division,2,H
+1967-09-30,1967/1968,Charlton Athletic,Plymouth Argyle,1-0,1,0,Football League Second Division,2,H
+1967-09-30,1967/1968,Bristol City,Hull City,3-3,3,3,Football League Second Division,2,D
+1967-09-30,1967/1968,Bolton Wanderers,Blackpool,1-2,1,2,Football League Second Division,2,A
+1967-09-30,1967/1968,Crystal Palace,Queens Park Rangers,1-0,1,0,Football League Second Division,2,H
+1967-09-30,1967/1968,Mansfield Town,Bury,1-1,1,1,Football League Third Division,3,D
+1967-09-30,1967/1968,Peterborough United,AFC Bournemouth,2-0,2,0,Football League Third Division,3,H
+1967-09-30,1967/1968,Scunthorpe United,Bristol Rovers,1-1,1,1,Football League Third Division,3,D
+1967-09-30,1967/1968,Shrewsbury Town,Walsall,0-1,0,1,Football League Third Division,3,A
+1967-09-30,1967/1968,Swindon Town,Gillingham,2-2,2,2,Football League Third Division,3,D
+1967-09-30,1967/1968,Torquay United,Oldham Athletic,2-1,2,1,Football League Third Division,3,H
+1967-09-30,1967/1968,Watford,Oxford United,2-0,2,0,Football League Third Division,3,H
+1967-09-30,1967/1968,Brighton & Hove Albion,Northampton Town,0-2,0,2,Football League Third Division,3,A
+1967-09-30,1967/1968,Reading,Grimsby Town,3-0,3,0,Football League Third Division,3,H
+1967-10-02,1967/1968,Southend United,Bradford Park Avenue,2-1,2,1,Football League Fourth Division,4,H
+1967-10-02,1967/1968,Wrexham,Brentford,1-2,1,2,Football League Fourth Division,4,A
+1967-10-02,1967/1968,Barrow,Bristol Rovers,1-0,1,0,Football League Third Division,3,H
+1967-10-02,1967/1968,Colchester United,Watford,2-1,2,1,Football League Third Division,3,H
+1967-10-02,1967/1968,Peterborough United,Mansfield Town,2-0,2,0,Football League Third Division,3,H
+1967-10-03,1967/1968,Doncaster Rovers,Luton Town,2-0,2,0,Football League Fourth Division,4,H
+1967-10-03,1967/1968,Newport County,Hartlepool United,2-0,2,0,Football League Fourth Division,4,H
+1967-10-03,1967/1968,Barnsley,Rochdale,1-1,1,1,Football League Fourth Division,4,D
+1967-10-03,1967/1968,Swansea City,York City,1-1,1,1,Football League Fourth Division,4,D
+1967-10-03,1967/1968,Charlton Athletic,Portsmouth,4-1,4,1,Football League Second Division,2,H
+1967-10-03,1967/1968,Northampton Town,Leyton Orient,2-1,2,1,Football League Third Division,3,H
+1967-10-03,1967/1968,Bury,Scunthorpe United,4-3,4,3,Football League Third Division,3,H
+1967-10-03,1967/1968,Walsall,Tranmere Rovers,5-1,5,1,Football League Third Division,3,H
+1967-10-04,1967/1968,Workington,Exeter City,1-0,1,0,Football League Fourth Division,4,H
+1967-10-04,1967/1968,Notts County,Crewe Alexandra,1-0,1,0,Football League Fourth Division,4,H
+1967-10-04,1967/1968,Bradford City,Port Vale,2-1,2,1,Football League Fourth Division,4,H
+1967-10-04,1967/1968,Aldershot,Darlington,0-0,0,0,Football League Fourth Division,4,D
+1967-10-04,1967/1968,Lincoln City,Chesterfield,2-2,2,2,Football League Fourth Division,4,D
+1967-10-04,1967/1968,Torquay United,Shrewsbury Town,3-0,3,0,Football League Third Division,3,H
+1967-10-04,1967/1968,Oxford United,Oldham Athletic,3-1,3,1,Football League Third Division,3,H
+1967-10-04,1967/1968,Grimsby Town,Brighton & Hove Albion,4-2,4,2,Football League Third Division,3,H
+1967-10-04,1967/1968,Gillingham,Stockport County,3-1,3,1,Football League Third Division,3,H
+1967-10-04,1967/1968,AFC Bournemouth,Southport,4-1,4,1,Football League Third Division,3,H
+1967-10-04,1967/1968,Reading,Swindon Town,2-1,2,1,Football League Third Division,3,H
+1967-10-07,1967/1968,Everton,Southampton,4-2,4,2,Football League First Division,1,H
+1967-10-07,1967/1968,Fulham,West Bromwich Albion,1-2,1,2,Football League First Division,1,A
+1967-10-07,1967/1968,Leeds United,Chelsea,7-0,7,0,Football League First Division,1,H
+1967-10-07,1967/1968,Leicester City,Liverpool,2-1,2,1,Football League First Division,1,H
+1967-10-07,1967/1968,Manchester United,Arsenal,1-0,1,0,Football League First Division,1,H
+1967-10-07,1967/1968,Sheffield Wednesday,Coventry City,4-0,4,0,Football League First Division,1,H
+1967-10-07,1967/1968,Sunderland,Manchester City,1-0,1,0,Football League First Division,1,H
+1967-10-07,1967/1968,Tottenham Hotspur,Sheffield United,1-1,1,1,Football League First Division,1,D
+1967-10-07,1967/1968,West Ham United,Stoke City,3-4,3,4,Football League First Division,1,A
+1967-10-07,1967/1968,Burnley,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1967-10-07,1967/1968,Wolverhampton Wanderers,Newcastle United,2-2,2,2,Football League First Division,1,D
+1967-10-07,1967/1968,Aldershot,Swansea City,1-1,1,1,Football League Fourth Division,4,D
+1967-10-07,1967/1968,Lincoln City,Newport County,2-1,2,1,Football League Fourth Division,4,H
+1967-10-07,1967/1968,Chester,Luton Town,1-3,1,3,Football League Fourth Division,4,A
+1967-10-07,1967/1968,Chesterfield,Southend United,3-1,3,1,Football League Fourth Division,4,H
+1967-10-07,1967/1968,Crewe Alexandra,Brentford,2-0,2,0,Football League Fourth Division,4,H
+1967-10-07,1967/1968,Darlington,Barnsley,0-2,0,2,Football League Fourth Division,4,A
+1967-10-07,1967/1968,Exeter City,Wrexham,2-2,2,2,Football League Fourth Division,4,D
+1967-10-07,1967/1968,Halifax Town,York City,2-1,2,1,Football League Fourth Division,4,H
+1967-10-07,1967/1968,Notts County,Bradford Park Avenue,0-0,0,0,Football League Fourth Division,4,D
+1967-10-07,1967/1968,Port Vale,Doncaster Rovers,4-2,4,2,Football League Fourth Division,4,H
+1967-10-07,1967/1968,Workington,Hartlepool United,2-1,2,1,Football League Fourth Division,4,H
+1967-10-07,1967/1968,Bradford City,Rochdale,0-0,0,0,Football League Fourth Division,4,D
+1967-10-07,1967/1968,Cardiff City,Ipswich Town,1-1,1,1,Football League Second Division,2,D
+1967-10-07,1967/1968,Rotherham United,Blackpool,1-2,1,2,Football League Second Division,2,A
+1967-10-07,1967/1968,Charlton Athletic,Middlesbrough,2-2,2,2,Football League Second Division,2,D
+1967-10-07,1967/1968,Crystal Palace,Bristol City,2-0,2,0,Football League Second Division,2,H
+1967-10-07,1967/1968,Derby County,Millwall,3-3,3,3,Football League Second Division,2,D
+1967-10-07,1967/1968,Norwich City,Blackburn Rovers,1-0,1,0,Football League Second Division,2,H
+1967-10-07,1967/1968,Plymouth Argyle,Huddersfield Town,1-1,1,1,Football League Second Division,2,D
+1967-10-07,1967/1968,Portsmouth,Carlisle United,2-1,2,1,Football League Second Division,2,H
+1967-10-07,1967/1968,Preston North End,Hull City,3-2,3,2,Football League Second Division,2,H
+1967-10-07,1967/1968,Queens Park Rangers,Bolton Wanderers,1-0,1,0,Football League Second Division,2,H
+1967-10-07,1967/1968,Aston Villa,Birmingham City,2-4,2,4,Football League Second Division,2,A
+1967-10-07,1967/1968,Watford,Leyton Orient,1-1,1,1,Football League Third Division,3,D
+1967-10-07,1967/1968,Colchester United,Brighton & Hove Albion,0-0,0,0,Football League Third Division,3,D
+1967-10-07,1967/1968,Mansfield Town,Tranmere Rovers,0-3,0,3,Football League Third Division,3,A
+1967-10-07,1967/1968,Oldham Athletic,Gillingham,0-1,0,1,Football League Third Division,3,A
+1967-10-07,1967/1968,Bury,Swindon Town,1-1,1,1,Football League Third Division,3,D
+1967-10-07,1967/1968,Oxford United,Reading,2-0,2,0,Football League Third Division,3,H
+1967-10-07,1967/1968,Peterborough United,Stockport County,2-0,2,0,Football League Third Division,3,H
+1967-10-07,1967/1968,Scunthorpe United,Walsall,2-5,2,5,Football League Third Division,3,A
+1967-10-07,1967/1968,Southport,Northampton Town,1-3,1,3,Football League Third Division,3,A
+1967-10-07,1967/1968,Bristol Rovers,Grimsby Town,3-0,3,0,Football League Third Division,3,H
+1967-10-07,1967/1968,Barrow,Torquay United,3-0,3,0,Football League Third Division,3,H
+1967-10-07,1967/1968,AFC Bournemouth,Shrewsbury Town,1-1,1,1,Football League Third Division,3,D
+1967-10-13,1967/1968,Hartlepool United,Lincoln City,1-1,1,1,Football League Fourth Division,4,D
+1967-10-13,1967/1968,Stockport County,Mansfield Town,1-0,1,0,Football League Third Division,3,H
+1967-10-13,1967/1968,Tranmere Rovers,Watford,1-2,1,2,Football League Third Division,3,A
+1967-10-14,1967/1968,West Bromwich Albion,Leeds United,2-0,2,0,Football League First Division,1,H
+1967-10-14,1967/1968,Arsenal,Sunderland,2-1,2,1,Football League First Division,1,H
+1967-10-14,1967/1968,Chelsea,Everton,1-1,1,1,Football League First Division,1,D
+1967-10-14,1967/1968,Coventry City,Tottenham Hotspur,2-3,2,3,Football League First Division,1,A
+1967-10-14,1967/1968,Liverpool,West Ham United,3-1,3,1,Football League First Division,1,H
+1967-10-14,1967/1968,Newcastle United,Fulham,2-1,2,1,Football League First Division,1,H
+1967-10-14,1967/1968,Nottingham Forest,Sheffield Wednesday,0-0,0,0,Football League First Division,1,D
+1967-10-14,1967/1968,Sheffield United,Manchester United,0-3,0,3,Football League First Division,1,A
+1967-10-14,1967/1968,Southampton,Leicester City,1-5,1,5,Football League First Division,1,A
+1967-10-14,1967/1968,Manchester City,Wolverhampton Wanderers,2-0,2,0,Football League First Division,1,H
+1967-10-14,1967/1968,Stoke City,Burnley,0-2,0,2,Football League First Division,1,A
+1967-10-14,1967/1968,York City,Bradford City,0-1,0,1,Football League Fourth Division,4,A
+1967-10-14,1967/1968,Barnsley,Aldershot,1-0,1,0,Football League Fourth Division,4,H
+1967-10-14,1967/1968,Brentford,Notts County,2-1,2,1,Football League Fourth Division,4,H
+1967-10-14,1967/1968,Doncaster Rovers,Chester,0-0,0,0,Football League Fourth Division,4,D
+1967-10-14,1967/1968,Luton Town,Chesterfield,1-0,1,0,Football League Fourth Division,4,H
+1967-10-14,1967/1968,Newport County,Halifax Town,0-1,0,1,Football League Fourth Division,4,A
+1967-10-14,1967/1968,Rochdale,Crewe Alexandra,1-1,1,1,Football League Fourth Division,4,D
+1967-10-14,1967/1968,Southend United,Exeter City,1-0,1,0,Football League Fourth Division,4,H
+1967-10-14,1967/1968,Swansea City,Workington,5-2,5,2,Football League Fourth Division,4,H
+1967-10-14,1967/1968,Wrexham,Darlington,3-1,3,1,Football League Fourth Division,4,H
+1967-10-14,1967/1968,Bradford Park Avenue,Port Vale,2-2,2,2,Football League Fourth Division,4,D
+1967-10-14,1967/1968,Middlesbrough,Plymouth Argyle,5-0,5,0,Football League Second Division,2,H
+1967-10-14,1967/1968,Millwall,Aston Villa,1-2,1,2,Football League Second Division,2,A
+1967-10-14,1967/1968,Birmingham City,Portsmouth,2-2,2,2,Football League Second Division,2,D
+1967-10-14,1967/1968,Blackpool,Crystal Palace,2-0,2,0,Football League Second Division,2,H
+1967-10-14,1967/1968,Bolton Wanderers,Norwich City,2-0,2,0,Football League Second Division,2,H
+1967-10-14,1967/1968,Bristol City,Cardiff City,1-1,1,1,Football League Second Division,2,D
+1967-10-14,1967/1968,Carlisle United,Preston North End,4-1,4,1,Football League Second Division,2,H
+1967-10-14,1967/1968,Huddersfield Town,Rotherham United,2-0,2,0,Football League Second Division,2,H
+1967-10-14,1967/1968,Hull City,Queens Park Rangers,2-0,2,0,Football League Second Division,2,H
+1967-10-14,1967/1968,Ipswich Town,Derby County,4-0,4,0,Football League Second Division,2,H
+1967-10-14,1967/1968,Gillingham,Bristol Rovers,0-0,0,0,Football League Third Division,3,D
+1967-10-14,1967/1968,Grimsby Town,Barrow,0-1,0,1,Football League Third Division,3,A
+1967-10-14,1967/1968,Leyton Orient,Southport,3-0,3,0,Football League Third Division,3,H
+1967-10-14,1967/1968,Northampton Town,Scunthorpe United,1-0,1,0,Football League Third Division,3,H
+1967-10-14,1967/1968,Reading,Bury,3-4,3,4,Football League Third Division,3,A
+1967-10-14,1967/1968,Shrewsbury Town,Colchester United,4-0,4,0,Football League Third Division,3,H
+1967-10-14,1967/1968,Swindon Town,AFC Bournemouth,4-0,4,0,Football League Third Division,3,H
+1967-10-14,1967/1968,Torquay United,Oxford United,1-1,1,1,Football League Third Division,3,D
+1967-10-14,1967/1968,Walsall,Oldham Athletic,3-1,3,1,Football League Third Division,3,H
+1967-10-14,1967/1968,Brighton & Hove Albion,Peterborough United,1-1,1,1,Football League Third Division,3,D
+1967-10-16,1967/1968,Wrexham,Southend United,4-1,4,1,Football League Fourth Division,4,H
+1967-10-18,1967/1968,Bradford City,Crewe Alexandra,2-1,2,1,Football League Fourth Division,4,H
+1967-10-20,1967/1968,Southport,Tranmere Rovers,2-0,2,0,Football League Third Division,3,H
+1967-10-21,1967/1968,Fulham,Manchester City,2-4,2,4,Football League First Division,1,A
+1967-10-21,1967/1968,Bradford City,Newport County,3-0,3,0,Football League Fourth Division,4,H
+1967-10-21,1967/1968,Aldershot,Wrexham,3-1,3,1,Football League Fourth Division,4,H
+1967-10-21,1967/1968,Chesterfield,Doncaster Rovers,2-0,2,0,Football League Fourth Division,4,H
+1967-10-21,1967/1968,Workington,Barnsley,0-1,0,1,Football League Fourth Division,4,A
+1967-10-21,1967/1968,Darlington,Southend United,1-1,1,1,Football League Fourth Division,4,D
+1967-10-21,1967/1968,Exeter City,Luton Town,0-5,0,5,Football League Fourth Division,4,A
+1967-10-21,1967/1968,Halifax Town,Hartlepool United,3-0,3,0,Football League Fourth Division,4,H
+1967-10-21,1967/1968,Lincoln City,Swansea City,3-0,3,0,Football League Fourth Division,4,H
+1967-10-21,1967/1968,Notts County,Rochdale,2-0,2,0,Football League Fourth Division,4,H
+1967-10-21,1967/1968,Port Vale,Brentford,4-1,4,1,Football League Fourth Division,4,H
+1967-10-21,1967/1968,Crewe Alexandra,York City,0-0,0,0,Football League Fourth Division,4,D
+1967-10-21,1967/1968,Chester,Bradford Park Avenue,0-0,0,0,Football League Fourth Division,4,D
+1967-10-21,1967/1968,Aston Villa,Blackpool,3-2,3,2,Football League Second Division,2,H
+1967-10-21,1967/1968,Charlton Athletic,Carlisle United,2-2,2,2,Football League Second Division,2,D
+1967-10-21,1967/1968,Norwich City,Birmingham City,4-2,4,2,Football League Second Division,2,H
+1967-10-21,1967/1968,Plymouth Argyle,Hull City,2-5,2,5,Football League Second Division,2,A
+1967-10-21,1967/1968,Portsmouth,Bristol City,2-0,2,0,Football League Second Division,2,H
+1967-10-21,1967/1968,Derby County,Huddersfield Town,1-0,1,0,Football League Second Division,2,H
+1967-10-21,1967/1968,Queens Park Rangers,Millwall,3-1,3,1,Football League Second Division,2,H
+1967-10-21,1967/1968,Rotherham United,Bolton Wanderers,2-2,2,2,Football League Second Division,2,D
+1967-10-21,1967/1968,Preston North End,Ipswich Town,1-1,1,1,Football League Second Division,2,D
+1967-10-21,1967/1968,Peterborough United,Shrewsbury Town,0-1,0,1,Football League Third Division,3,A
+1967-10-21,1967/1968,Scunthorpe United,Leyton Orient,1-1,1,1,Football League Third Division,3,D
+1967-10-21,1967/1968,Watford,Stockport County,5-0,5,0,Football League Third Division,3,H
+1967-10-21,1967/1968,Oxford United,Grimsby Town,2-1,2,1,Football League Third Division,3,H
+1967-10-21,1967/1968,Oldham Athletic,Northampton Town,2-0,2,0,Football League Third Division,3,H
+1967-10-21,1967/1968,Colchester United,Swindon Town,2-1,2,1,Football League Third Division,3,H
+1967-10-21,1967/1968,Mansfield Town,Brighton & Hove Albion,1-3,1,3,Football League Third Division,3,A
+1967-10-21,1967/1968,AFC Bournemouth,Reading,2-0,2,0,Football League Third Division,3,H
+1967-10-21,1967/1968,Barrow,Gillingham,0-1,0,1,Football League Third Division,3,A
+1967-10-21,1967/1968,Bristol Rovers,Walsall,2-3,2,3,Football League Third Division,3,A
+1967-10-21,1967/1968,Bury,Torquay United,5-1,5,1,Football League Third Division,3,H
+1967-10-23,1967/1968,Wolverhampton Wanderers,Arsenal,3-2,3,2,Football League First Division,1,H
+1967-10-23,1967/1968,West Ham United,Southampton,0-1,0,1,Football League First Division,1,A
+1967-10-23,1967/1968,Sheffield Wednesday,Stoke City,1-1,1,1,Football League First Division,1,D
+1967-10-23,1967/1968,Bradford Park Avenue,Southend United,0-1,0,1,Football League Fourth Division,4,A
+1967-10-23,1967/1968,York City,Swansea City,2-1,2,1,Football League Fourth Division,4,H
+1967-10-23,1967/1968,Rochdale,Barnsley,1-0,1,0,Football League Fourth Division,4,H
+1967-10-23,1967/1968,Port Vale,Bradford City,1-2,1,2,Football League Fourth Division,4,A
+1967-10-23,1967/1968,Hartlepool United,Newport County,2-0,2,0,Football League Fourth Division,4,H
+1967-10-23,1967/1968,Darlington,Aldershot,6-2,6,2,Football League Fourth Division,4,H
+1967-10-23,1967/1968,Chesterfield,Lincoln City,2-0,2,0,Football League Fourth Division,4,H
+1967-10-23,1967/1968,Crystal Palace,Blackburn Rovers,1-0,1,0,Football League Second Division,2,H
+1967-10-23,1967/1968,Tranmere Rovers,Walsall,2-0,2,0,Football League Third Division,3,H
+1967-10-23,1967/1968,Southport,AFC Bournemouth,1-1,1,1,Football League Third Division,3,D
+1967-10-23,1967/1968,Mansfield Town,Peterborough United,2-3,2,3,Football League Third Division,3,A
+1967-10-23,1967/1968,Brighton & Hove Albion,Grimsby Town,3-1,3,1,Football League Third Division,3,H
+1967-10-23,1967/1968,Stockport County,Gillingham,1-1,1,1,Football League Third Division,3,D
+1967-10-24,1967/1968,Everton,West Bromwich Albion,2-1,2,1,Football League First Division,1,H
+1967-10-24,1967/1968,Burnley,Liverpool,1-1,1,1,Football League First Division,1,D
+1967-10-24,1967/1968,Brentford,Wrexham,0-0,0,0,Football League Fourth Division,4,D
+1967-10-24,1967/1968,Millwall,Blackpool,1-1,1,1,Football League Second Division,2,D
+1967-10-24,1967/1968,Cardiff City,Middlesbrough,3-0,3,0,Football League Second Division,2,H
+1967-10-24,1967/1968,Watford,Colchester United,1-1,1,1,Football League Third Division,3,D
+1967-10-24,1967/1968,Swindon Town,Reading,5-1,5,1,Football League Third Division,3,H
+1967-10-24,1967/1968,Scunthorpe United,Bury,3-1,3,1,Football League Third Division,3,H
+1967-10-24,1967/1968,Leyton Orient,Northampton Town,1-3,1,3,Football League Third Division,3,A
+1967-10-24,1967/1968,Oldham Athletic,Oxford United,3-1,3,1,Football League Third Division,3,H
+1967-10-24,1967/1968,Bristol Rovers,Barrow,1-0,1,0,Football League Third Division,3,H
+1967-10-25,1967/1968,Leeds United,Newcastle United,2-0,2,0,Football League First Division,1,H
+1967-10-25,1967/1968,Leicester City,Chelsea,2-2,2,2,Football League First Division,1,D
+1967-10-25,1967/1968,Manchester United,Coventry City,4-0,4,0,Football League First Division,1,H
+1967-10-25,1967/1968,Sunderland,Sheffield United,2-1,2,1,Football League First Division,1,H
+1967-10-25,1967/1968,Tottenham Hotspur,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1967-10-25,1967/1968,Luton Town,Doncaster Rovers,5-3,5,3,Football League Fourth Division,4,H
+1967-10-25,1967/1968,Chester,Halifax Town,3-2,3,2,Football League Fourth Division,4,H
+1967-10-25,1967/1968,Crewe Alexandra,Notts County,4-0,4,0,Football League Fourth Division,4,H
+1967-10-25,1967/1968,Exeter City,Workington,1-0,1,0,Football League Fourth Division,4,H
+1967-10-25,1967/1968,Shrewsbury Town,Torquay United,5-0,5,0,Football League Third Division,3,H
+1967-10-27,1967/1968,Hartlepool United,Bradford City,1-0,1,0,Football League Fourth Division,4,H
+1967-10-27,1967/1968,Southend United,Aldershot,1-1,1,1,Football League Fourth Division,4,D
+1967-10-27,1967/1968,Hull City,Cardiff City,1-2,1,2,Football League Second Division,2,A
+1967-10-27,1967/1968,Tranmere Rovers,Scunthorpe United,2-0,2,0,Football League Third Division,3,H
+1967-10-28,1967/1968,Arsenal,Fulham,5-3,5,3,Football League First Division,1,H
+1967-10-28,1967/1968,Chelsea,West Ham United,1-3,1,3,Football League First Division,1,A
+1967-10-28,1967/1968,Coventry City,Sunderland,2-2,2,2,Football League First Division,1,D
+1967-10-28,1967/1968,Liverpool,Sheffield Wednesday,1-0,1,0,Football League First Division,1,H
+1967-10-28,1967/1968,Manchester City,Leeds United,1-0,1,0,Football League First Division,1,H
+1967-10-28,1967/1968,Newcastle United,Everton,1-0,1,0,Football League First Division,1,H
+1967-10-28,1967/1968,Nottingham Forest,Manchester United,3-1,3,1,Football League First Division,1,H
+1967-10-28,1967/1968,Sheffield United,Wolverhampton Wanderers,1-1,1,1,Football League First Division,1,D
+1967-10-28,1967/1968,Southampton,Burnley,2-2,2,2,Football League First Division,1,D
+1967-10-28,1967/1968,Stoke City,Tottenham Hotspur,2-1,2,1,Football League First Division,1,H
+1967-10-28,1967/1968,West Bromwich Albion,Leicester City,0-0,0,0,Football League First Division,1,D
+1967-10-28,1967/1968,Barnsley,Lincoln City,2-1,2,1,Football League Fourth Division,4,H
+1967-10-28,1967/1968,Bradford Park Avenue,Chesterfield,2-1,2,1,Football League Fourth Division,4,H
+1967-10-28,1967/1968,Brentford,Chester,3-1,3,1,Football League Fourth Division,4,H
+1967-10-28,1967/1968,Doncaster Rovers,Exeter City,3-1,3,1,Football League Fourth Division,4,H
+1967-10-28,1967/1968,Rochdale,Port Vale,3-1,3,1,Football League Fourth Division,4,H
+1967-10-28,1967/1968,Swansea City,Halifax Town,2-1,2,1,Football League Fourth Division,4,H
+1967-10-28,1967/1968,Wrexham,Workington,5-0,5,0,Football League Fourth Division,4,H
+1967-10-28,1967/1968,York City,Notts County,4-2,4,2,Football League Fourth Division,4,H
+1967-10-28,1967/1968,Millwall,Plymouth Argyle,3-0,3,0,Football League Second Division,2,H
+1967-10-28,1967/1968,Ipswich Town,Charlton Athletic,3-2,3,2,Football League Second Division,2,H
+1967-10-28,1967/1968,Birmingham City,Rotherham United,4-1,4,1,Football League Second Division,2,H
+1967-10-28,1967/1968,Blackpool,Queens Park Rangers,0-1,0,1,Football League Second Division,2,A
+1967-10-28,1967/1968,Bolton Wanderers,Derby County,5-3,5,3,Football League Second Division,2,H
+1967-10-28,1967/1968,Carlisle United,Crystal Palace,3-0,3,0,Football League Second Division,2,H
+1967-10-28,1967/1968,Huddersfield Town,Preston North End,1-1,1,1,Football League Second Division,2,D
+1967-10-28,1967/1968,Middlesbrough,Portsmouth,1-0,1,0,Football League Second Division,2,H
+1967-10-28,1967/1968,Gillingham,Oxford United,2-1,2,1,Football League Third Division,3,H
+1967-10-28,1967/1968,Grimsby Town,Bury,3-1,3,1,Football League Third Division,3,H
+1967-10-28,1967/1968,Leyton Orient,Oldham Athletic,0-2,0,2,Football League Third Division,3,A
+1967-10-28,1967/1968,Northampton Town,Bristol Rovers,4-5,4,5,Football League Third Division,3,A
+1967-10-28,1967/1968,Reading,Colchester United,1-0,1,0,Football League Third Division,3,H
+1967-10-28,1967/1968,Shrewsbury Town,Mansfield Town,2-1,2,1,Football League Third Division,3,H
+1967-10-28,1967/1968,Swindon Town,Peterborough United,0-0,0,0,Football League Third Division,3,D
+1967-10-28,1967/1968,Walsall,Barrow,4-0,4,0,Football League Third Division,3,H
+1967-10-28,1967/1968,Brighton & Hove Albion,Watford,1-0,1,0,Football League Third Division,3,H
+1967-10-28,1967/1968,Torquay United,AFC Bournemouth,2-1,2,1,Football League Third Division,3,H
+1967-10-30,1967/1968,Stockport County,Southport,4-3,4,3,Football League Third Division,3,H
+1967-10-31,1967/1968,Newport County,Crewe Alexandra,0-0,0,0,Football League Fourth Division,4,D
+1967-10-31,1967/1968,Halifax Town,Chester,2-2,2,2,Football League Fourth Division,4,D
+1967-11-03,1967/1968,Scunthorpe United,Stockport County,0-2,0,2,Football League Third Division,3,A
+1967-11-04,1967/1968,Tottenham Hotspur,Liverpool,1-1,1,1,Football League First Division,1,D
+1967-11-04,1967/1968,Burnley,Chelsea,1-1,1,1,Football League First Division,1,D
+1967-11-04,1967/1968,Everton,Manchester City,1-1,1,1,Football League First Division,1,D
+1967-11-04,1967/1968,Leeds United,Arsenal,3-1,3,1,Football League First Division,1,H
+1967-11-04,1967/1968,Leicester City,Newcastle United,2-2,2,2,Football League First Division,1,D
+1967-11-04,1967/1968,Manchester United,Stoke City,1-0,1,0,Football League First Division,1,H
+1967-11-04,1967/1968,Sheffield Wednesday,Southampton,2-0,2,0,Football League First Division,1,H
+1967-11-04,1967/1968,Sunderland,Nottingham Forest,1-0,1,0,Football League First Division,1,H
+1967-11-04,1967/1968,Wolverhampton Wanderers,Coventry City,2-0,2,0,Football League First Division,1,H
+1967-11-04,1967/1968,Bradford City,Swansea City,4-1,4,1,Football League Fourth Division,4,H
+1967-11-04,1967/1968,Chester,Rochdale,0-1,0,1,Football League Fourth Division,4,A
+1967-11-04,1967/1968,Chesterfield,Brentford,2-1,2,1,Football League Fourth Division,4,H
+1967-11-04,1967/1968,Crewe Alexandra,Hartlepool United,2-1,2,1,Football League Fourth Division,4,H
+1967-11-04,1967/1968,Darlington,Doncaster Rovers,1-1,1,1,Football League Fourth Division,4,D
+1967-11-04,1967/1968,Halifax Town,Barnsley,1-1,1,1,Football League Fourth Division,4,D
+1967-11-04,1967/1968,Lincoln City,Wrexham,0-2,0,2,Football League Fourth Division,4,A
+1967-11-04,1967/1968,Notts County,Newport County,3-1,3,1,Football League Fourth Division,4,H
+1967-11-04,1967/1968,Port Vale,York City,1-0,1,0,Football League Fourth Division,4,H
+1967-11-04,1967/1968,Workington,Southend United,2-2,2,2,Football League Fourth Division,4,D
+1967-11-04,1967/1968,Aston Villa,Carlisle United,1-0,1,0,Football League Second Division,2,H
+1967-11-04,1967/1968,Derby County,Birmingham City,2-2,2,2,Football League Second Division,2,D
+1967-11-04,1967/1968,Norwich City,Middlesbrough,2-1,2,1,Football League Second Division,2,H
+1967-11-04,1967/1968,Portsmouth,Hull City,3-0,3,0,Football League Second Division,2,H
+1967-11-04,1967/1968,Preston North End,Bolton Wanderers,1-1,1,1,Football League Second Division,2,D
+1967-11-04,1967/1968,Rotherham United,Bristol City,1-0,1,0,Football League Second Division,2,H
+1967-11-04,1967/1968,Oldham Athletic,Tranmere Rovers,2-1,2,1,Football League Third Division,3,H
+1967-11-04,1967/1968,Oxford United,Walsall,4-0,4,0,Football League Third Division,3,H
+1967-11-04,1967/1968,Peterborough United,Reading,2-3,2,3,Football League Third Division,3,A
+1967-11-04,1967/1968,Southport,Brighton & Hove Albion,1-0,1,0,Football League Third Division,3,H
+1967-11-04,1967/1968,Watford,Shrewsbury Town,2-0,2,0,Football League Third Division,3,H
+1967-11-04,1967/1968,Mansfield Town,Swindon Town,2-2,2,2,Football League Third Division,3,D
+1967-11-04,1967/1968,Colchester United,Torquay United,3-5,3,5,Football League Third Division,3,A
+1967-11-04,1967/1968,Barrow,Northampton Town,4-0,4,0,Football League Third Division,3,H
+1967-11-04,1967/1968,Bury,Gillingham,3-2,3,2,Football League Third Division,3,H
+1967-11-04,1967/1968,AFC Bournemouth,Grimsby Town,1-0,1,0,Football League Third Division,3,H
+1967-11-08,1967/1968,Leeds United,Manchester United,1-0,1,0,Football League First Division,1,H
+1967-11-10,1967/1968,Hartlepool United,Notts County,3-1,3,1,Football League Fourth Division,4,H
+1967-11-10,1967/1968,Bristol City,Derby County,1-0,1,0,Football League Second Division,2,H
+1967-11-10,1967/1968,Tranmere Rovers,Bristol Rovers,3-3,3,3,Football League Third Division,3,D
+1967-11-10,1967/1968,Stockport County,Oldham Athletic,0-2,0,2,Football League Third Division,3,A
+1967-11-11,1967/1968,Arsenal,Everton,2-2,2,2,Football League First Division,1,D
+1967-11-11,1967/1968,Chelsea,Sheffield Wednesday,3-0,3,0,Football League First Division,1,H
+1967-11-11,1967/1968,Coventry City,Fulham,0-3,0,3,Football League First Division,1,A
+1967-11-11,1967/1968,Liverpool,Manchester United,1-2,1,2,Football League First Division,1,A
+1967-11-11,1967/1968,Newcastle United,West Ham United,1-0,1,0,Football League First Division,1,H
+1967-11-11,1967/1968,Nottingham Forest,Wolverhampton Wanderers,3-1,3,1,Football League First Division,1,H
+1967-11-11,1967/1968,Sheffield United,Leeds United,1-0,1,0,Football League First Division,1,H
+1967-11-11,1967/1968,Southampton,Tottenham Hotspur,1-2,1,2,Football League First Division,1,A
+1967-11-11,1967/1968,Manchester City,Leicester City,6-0,6,0,Football League First Division,1,H
+1967-11-11,1967/1968,West Bromwich Albion,Burnley,8-1,8,1,Football League First Division,1,H
+1967-11-11,1967/1968,Stoke City,Sunderland,2-1,2,1,Football League First Division,1,H
+1967-11-11,1967/1968,Barnsley,Bradford City,1-0,1,0,Football League Fourth Division,4,H
+1967-11-11,1967/1968,Bradford Park Avenue,Darlington,1-2,1,2,Football League Fourth Division,4,A
+1967-11-11,1967/1968,Doncaster Rovers,Aldershot,3-0,3,0,Football League Fourth Division,4,H
+1967-11-11,1967/1968,Luton Town,Workington,4-0,4,0,Football League Fourth Division,4,H
+1967-11-11,1967/1968,Rochdale,Chesterfield,1-4,1,4,Football League Fourth Division,4,A
+1967-11-11,1967/1968,Southend United,Lincoln City,2-1,2,1,Football League Fourth Division,4,H
+1967-11-11,1967/1968,Swansea City,Crewe Alexandra,1-2,1,2,Football League Fourth Division,4,A
+1967-11-11,1967/1968,Wrexham,Halifax Town,2-0,2,0,Football League Fourth Division,4,H
+1967-11-11,1967/1968,York City,Chester,4-1,4,1,Football League Fourth Division,4,H
+1967-11-11,1967/1968,Brentford,Exeter City,5-1,5,1,Football League Fourth Division,4,H
+1967-11-11,1967/1968,Middlesbrough,Rotherham United,1-1,1,1,Football League Second Division,2,D
+1967-11-11,1967/1968,Birmingham City,Preston North End,3-0,3,0,Football League Second Division,2,H
+1967-11-11,1967/1968,Blackpool,Cardiff City,3-1,3,1,Football League Second Division,2,H
+1967-11-11,1967/1968,Carlisle United,Queens Park Rangers,3-1,3,1,Football League Second Division,2,H
+1967-11-11,1967/1968,Millwall,Portsmouth,3-2,3,2,Football League Second Division,2,H
+1967-11-11,1967/1968,Huddersfield Town,Crystal Palace,1-1,1,1,Football League Second Division,2,D
+1967-11-11,1967/1968,Hull City,Norwich City,0-2,0,2,Football League Second Division,2,A
+1967-11-11,1967/1968,Ipswich Town,Aston Villa,2-1,2,1,Football League Second Division,2,H
+1967-11-11,1967/1968,Grimsby Town,Colchester United,1-2,1,2,Football League Third Division,3,A
+1967-11-11,1967/1968,Leyton Orient,Barrow,4-2,4,2,Football League Third Division,3,H
+1967-11-11,1967/1968,Northampton Town,Oxford United,1-1,1,1,Football League Third Division,3,D
+1967-11-11,1967/1968,Shrewsbury Town,Southport,3-2,3,2,Football League Third Division,3,H
+1967-11-11,1967/1968,Swindon Town,Watford,2-0,2,0,Football League Third Division,3,H
+1967-11-11,1967/1968,Torquay United,Peterborough United,3-1,3,1,Football League Third Division,3,H
+1967-11-11,1967/1968,Walsall,Bury,2-1,2,1,Football League Third Division,3,H
+1967-11-11,1967/1968,Gillingham,AFC Bournemouth,0-0,0,0,Football League Third Division,3,D
+1967-11-11,1967/1968,Brighton & Hove Albion,Scunthorpe United,3-1,3,1,Football League Third Division,3,H
+1967-11-11,1967/1968,Reading,Mansfield Town,2-1,2,1,Football League Third Division,3,H
+1967-11-13,1967/1968,Southend United,Barnsley,4-1,4,1,Football League Fourth Division,4,H
+1967-11-13,1967/1968,Chesterfield,Port Vale,3-0,3,0,Football League Fourth Division,4,H
+1967-11-13,1967/1968,Bradford Park Avenue,Newport County,0-2,0,2,Football League Fourth Division,4,A
+1967-11-13,1967/1968,Tranmere Rovers,Swindon Town,3-2,3,2,Football League Third Division,3,H
+1967-11-13,1967/1968,Barrow,Colchester United,5-0,5,0,Football League Third Division,3,H
+1967-11-13,1967/1968,Southport,Gillingham,4-1,4,1,Football League Third Division,3,H
+1967-11-13,1967/1968,Leyton Orient,Reading,1-0,1,0,Football League Third Division,3,H
+1967-11-13,1967/1968,Stockport County,Shrewsbury Town,4-2,4,2,Football League Third Division,3,H
+1967-11-14,1967/1968,Brentford,York City,3-1,3,1,Football League Fourth Division,4,H
+1967-11-14,1967/1968,Doncaster Rovers,Hartlepool United,0-1,0,1,Football League Fourth Division,4,A
+1967-11-14,1967/1968,Scunthorpe United,Watford,1-1,1,1,Football League Third Division,3,D
+1967-11-14,1967/1968,Walsall,Grimsby Town,2-0,2,0,Football League Third Division,3,H
+1967-11-14,1967/1968,Northampton Town,Torquay United,1-0,1,0,Football League Third Division,3,H
+1967-11-14,1967/1968,Bristol Rovers,Peterborough United,2-1,2,1,Football League Third Division,3,H
+1967-11-14,1967/1968,Oldham Athletic,Mansfield Town,1-0,1,0,Football League Third Division,3,H
+1967-11-15,1967/1968,Aldershot,Bradford City,3-3,3,3,Football League Fourth Division,4,D
+1967-11-15,1967/1968,Chester,Wrexham,1-1,1,1,Football League Fourth Division,4,D
+1967-11-15,1967/1968,Exeter City,Notts County,3-3,3,3,Football League Fourth Division,4,D
+1967-11-15,1967/1968,Luton Town,Swansea City,4-0,4,0,Football League Fourth Division,4,H
+1967-11-15,1967/1968,Workington,Halifax Town,1-1,1,1,Football League Fourth Division,4,D
+1967-11-15,1967/1968,Oxford United,AFC Bournemouth,3-2,3,2,Football League Third Division,3,H
+1967-11-17,1967/1968,Workington,Doncaster Rovers,2-2,2,2,Football League Fourth Division,4,D
+1967-11-17,1967/1968,Scunthorpe United,Shrewsbury Town,0-0,0,0,Football League Third Division,3,D
+1967-11-18,1967/1968,Burnley,Newcastle United,2-0,2,0,Football League First Division,1,H
+1967-11-18,1967/1968,Everton,Sheffield United,1-0,1,0,Football League First Division,1,H
+1967-11-18,1967/1968,Fulham,Nottingham Forest,2-0,2,0,Football League First Division,1,H
+1967-11-18,1967/1968,Leeds United,Coventry City,1-1,1,1,Football League First Division,1,D
+1967-11-18,1967/1968,Leicester City,Arsenal,2-2,2,2,Football League First Division,1,D
+1967-11-18,1967/1968,Manchester United,Southampton,3-2,3,2,Football League First Division,1,H
+1967-11-18,1967/1968,Sheffield Wednesday,West Bromwich Albion,2-2,2,2,Football League First Division,1,D
+1967-11-18,1967/1968,Sunderland,Liverpool,1-1,1,1,Football League First Division,1,D
+1967-11-18,1967/1968,West Ham United,Manchester City,2-3,2,3,Football League First Division,1,A
+1967-11-18,1967/1968,Tottenham Hotspur,Chelsea,2-0,2,0,Football League First Division,1,H
+1967-11-18,1967/1968,Wolverhampton Wanderers,Stoke City,3-4,3,4,Football League First Division,1,A
+1967-11-18,1967/1968,Port Vale,Hartlepool United,2-3,2,3,Football League Fourth Division,4,A
+1967-11-18,1967/1968,Crewe Alexandra,Barnsley,3-3,3,3,Football League Fourth Division,4,D
+1967-11-18,1967/1968,Aldershot,Bradford Park Avenue,1-1,1,1,Football League Fourth Division,4,D
+1967-11-18,1967/1968,Bradford City,Wrexham,3-1,3,1,Football League Fourth Division,4,H
+1967-11-18,1967/1968,Chester,Newport County,2-1,2,1,Football League Fourth Division,4,H
+1967-11-18,1967/1968,Chesterfield,York City,3-1,3,1,Football League Fourth Division,4,H
+1967-11-18,1967/1968,Darlington,Brentford,2-3,2,3,Football League Fourth Division,4,A
+1967-11-18,1967/1968,Exeter City,Rochdale,3-1,3,1,Football League Fourth Division,4,H
+1967-11-18,1967/1968,Halifax Town,Southend United,1-2,1,2,Football League Fourth Division,4,A
+1967-11-18,1967/1968,Lincoln City,Luton Town,2-3,2,3,Football League Fourth Division,4,A
+1967-11-18,1967/1968,Notts County,Swansea City,3-2,3,2,Football League Fourth Division,4,H
+1967-11-18,1967/1968,Charlton Athletic,Blackpool,0-2,0,2,Football League Second Division,2,A
+1967-11-18,1967/1968,Queens Park Rangers,Middlesbrough,1-1,1,1,Football League Second Division,2,D
+1967-11-18,1967/1968,Aston Villa,Hull City,2-3,2,3,Football League Second Division,2,A
+1967-11-18,1967/1968,Cardiff City,Birmingham City,1-3,1,3,Football League Second Division,2,A
+1967-11-18,1967/1968,Crystal Palace,Millwall,2-2,2,2,Football League Second Division,2,D
+1967-11-18,1967/1968,Derby County,Carlisle United,0-1,0,1,Football League Second Division,2,A
+1967-11-18,1967/1968,Norwich City,Huddersfield Town,0-1,0,1,Football League Second Division,2,A
+1967-11-18,1967/1968,Plymouth Argyle,Bristol City,0-1,0,1,Football League Second Division,2,A
+1967-11-18,1967/1968,Portsmouth,Bolton Wanderers,3-0,3,0,Football League Second Division,2,H
+1967-11-18,1967/1968,Preston North End,Blackburn Rovers,3-5,3,5,Football League Second Division,2,A
+1967-11-18,1967/1968,Rotherham United,Ipswich Town,1-3,1,3,Football League Second Division,2,A
+1967-11-18,1967/1968,Oxford United,Leyton Orient,2-0,2,0,Football League Third Division,3,H
+1967-11-18,1967/1968,Oldham Athletic,Brighton & Hove Albion,3-0,3,0,Football League Third Division,3,H
+1967-11-18,1967/1968,Barrow,Tranmere Rovers,2-1,2,1,Football League Third Division,3,H
+1967-11-18,1967/1968,Colchester United,Gillingham,2-2,2,2,Football League Third Division,3,D
+1967-11-18,1967/1968,Bury,Northampton Town,3-1,3,1,Football League Third Division,3,H
+1967-11-18,1967/1968,Bristol Rovers,Stockport County,0-2,0,2,Football League Third Division,3,A
+1967-11-18,1967/1968,Peterborough United,Grimsby Town,3-2,3,2,Football League Third Division,3,H
+1967-11-18,1967/1968,Mansfield Town,Torquay United,2-0,2,0,Football League Third Division,3,H
+1967-11-18,1967/1968,Southport,Swindon Town,1-1,1,1,Football League Third Division,3,D
+1967-11-18,1967/1968,Watford,Reading,3-0,3,0,Football League Third Division,3,H
+1967-11-18,1967/1968,AFC Bournemouth,Walsall,1-1,1,1,Football League Third Division,3,D
+1967-11-21,1967/1968,Newport County,Port Vale,1-1,1,1,Football League Fourth Division,4,D
+1967-11-22,1967/1968,Bolton Wanderers,Charlton Athletic,2-0,2,0,Football League Second Division,2,H
+1967-11-24,1967/1968,Hartlepool United,Chester,0-0,0,0,Football League Fourth Division,4,D
+1967-11-24,1967/1968,Stockport County,Barrow,1-0,1,0,Football League Third Division,3,H
+1967-11-24,1967/1968,Tranmere Rovers,Oxford United,1-1,1,1,Football League Third Division,3,D
+1967-11-25,1967/1968,Chelsea,Manchester United,1-1,1,1,Football League First Division,1,D
+1967-11-25,1967/1968,Coventry City,Everton,0-2,0,2,Football League First Division,1,A
+1967-11-25,1967/1968,Liverpool,Wolverhampton Wanderers,2-1,2,1,Football League First Division,1,H
+1967-11-25,1967/1968,Manchester City,Burnley,4-2,4,2,Football League First Division,1,H
+1967-11-25,1967/1968,Newcastle United,Sheffield Wednesday,4-0,4,0,Football League First Division,1,H
+1967-11-25,1967/1968,Nottingham Forest,Leeds United,0-2,0,2,Football League First Division,1,A
+1967-11-25,1967/1968,Sheffield United,Leicester City,0-0,0,0,Football League First Division,1,D
+1967-11-25,1967/1968,Southampton,Sunderland,3-2,3,2,Football League First Division,1,H
+1967-11-25,1967/1968,Arsenal,West Ham United,0-0,0,0,Football League First Division,1,D
+1967-11-25,1967/1968,Stoke City,Fulham,0-1,0,1,Football League First Division,1,A
+1967-11-25,1967/1968,West Bromwich Albion,Tottenham Hotspur,2-0,2,0,Football League First Division,1,H
+1967-11-25,1967/1968,York City,Exeter City,4-0,4,0,Football League Fourth Division,4,H
+1967-11-25,1967/1968,Barnsley,Notts County,3-1,3,1,Football League Fourth Division,4,H
+1967-11-25,1967/1968,Brentford,Aldershot,1-1,1,1,Football League Fourth Division,4,D
+1967-11-25,1967/1968,Doncaster Rovers,Lincoln City,0-0,0,0,Football League Fourth Division,4,D
+1967-11-25,1967/1968,Luton Town,Halifax Town,2-0,2,0,Football League Fourth Division,4,H
+1967-11-25,1967/1968,Newport County,Chesterfield,0-3,0,3,Football League Fourth Division,4,A
+1967-11-25,1967/1968,Rochdale,Darlington,1-0,1,0,Football League Fourth Division,4,H
+1967-11-25,1967/1968,Southend United,Bradford City,1-1,1,1,Football League Fourth Division,4,D
+1967-11-25,1967/1968,Swansea City,Port Vale,4-2,4,2,Football League Fourth Division,4,H
+1967-11-25,1967/1968,Wrexham,Crewe Alexandra,1-0,1,0,Football League Fourth Division,4,H
+1967-11-25,1967/1968,Bradford Park Avenue,Workington,1-1,1,1,Football League Fourth Division,4,D
+1967-11-25,1967/1968,Blackpool,Norwich City,0-2,0,2,Football League Second Division,2,A
+1967-11-25,1967/1968,Middlesbrough,Preston North End,5-0,5,0,Football League Second Division,2,H
+1967-11-25,1967/1968,Birmingham City,Crystal Palace,1-0,1,0,Football League Second Division,2,H
+1967-11-25,1967/1968,Blackburn Rovers,Portsmouth,2-2,2,2,Football League Second Division,2,D
+1967-11-25,1967/1968,Bolton Wanderers,Aston Villa,2-3,2,3,Football League Second Division,2,A
+1967-11-25,1967/1968,Bristol City,Charlton Athletic,0-2,0,2,Football League Second Division,2,A
+1967-11-25,1967/1968,Carlisle United,Cardiff City,1-3,1,3,Football League Second Division,2,A
+1967-11-25,1967/1968,Huddersfield Town,Queens Park Rangers,1-0,1,0,Football League Second Division,2,H
+1967-11-25,1967/1968,Hull City,Derby County,3-0,3,0,Football League Second Division,2,H
+1967-11-25,1967/1968,Ipswich Town,Plymouth Argyle,1-1,1,1,Football League Second Division,2,D
+1967-11-25,1967/1968,Millwall,Rotherham United,0-0,0,0,Football League Second Division,2,D
+1967-11-25,1967/1968,Gillingham,Peterborough United,3-2,3,2,Football League Third Division,3,H
+1967-11-25,1967/1968,Grimsby Town,Mansfield Town,0-0,0,0,Football League Third Division,3,D
+1967-11-25,1967/1968,Leyton Orient,Bury,1-0,1,0,Football League Third Division,3,H
+1967-11-25,1967/1968,Northampton Town,AFC Bournemouth,1-0,1,0,Football League Third Division,3,H
+1967-11-25,1967/1968,Reading,Southport,1-1,1,1,Football League Third Division,3,D
+1967-11-25,1967/1968,Shrewsbury Town,Oldham Athletic,4-2,4,2,Football League Third Division,3,H
+1967-11-25,1967/1968,Swindon Town,Scunthorpe United,2-0,2,0,Football League Third Division,3,H
+1967-11-25,1967/1968,Torquay United,Watford,1-0,1,0,Football League Third Division,3,H
+1967-11-25,1967/1968,Walsall,Colchester United,1-1,1,1,Football League Third Division,3,D
+1967-11-25,1967/1968,Brighton & Hove Albion,Bristol Rovers,1-1,1,1,Football League Third Division,3,D
+1967-12-01,1967/1968,Scunthorpe United,Reading,1-2,1,2,Football League Third Division,3,A
+1967-12-02,1967/1968,Burnley,Arsenal,1-0,1,0,Football League First Division,1,H
+1967-12-02,1967/1968,Everton,Nottingham Forest,1-0,1,0,Football League First Division,1,H
+1967-12-02,1967/1968,Fulham,Liverpool,1-1,1,1,Football League First Division,1,D
+1967-12-02,1967/1968,Leeds United,Stoke City,2-0,2,0,Football League First Division,1,H
+1967-12-02,1967/1968,Leicester City,Coventry City,0-0,0,0,Football League First Division,1,D
+1967-12-02,1967/1968,Manchester United,West Bromwich Albion,2-1,2,1,Football League First Division,1,H
+1967-12-02,1967/1968,Sunderland,Chelsea,2-3,2,3,Football League First Division,1,A
+1967-12-02,1967/1968,Tottenham Hotspur,Newcastle United,1-1,1,1,Football League First Division,1,D
+1967-12-02,1967/1968,West Ham United,Sheffield United,3-0,3,0,Football League First Division,1,H
+1967-12-02,1967/1968,Sheffield Wednesday,Manchester City,1-1,1,1,Football League First Division,1,D
+1967-12-02,1967/1968,Wolverhampton Wanderers,Southampton,2-0,2,0,Football League First Division,1,H
+1967-12-02,1967/1968,Workington,Brentford,2-0,2,0,Football League Fourth Division,4,H
+1967-12-02,1967/1968,Bradford City,Luton Town,2-0,2,0,Football League Fourth Division,4,H
+1967-12-02,1967/1968,Chester,Swansea City,2-3,2,3,Football League Fourth Division,4,A
+1967-12-02,1967/1968,Chesterfield,Hartlepool United,3-1,3,1,Football League Fourth Division,4,H
+1967-12-02,1967/1968,Crewe Alexandra,Southend United,1-0,1,0,Football League Fourth Division,4,H
+1967-12-02,1967/1968,Darlington,York City,3-1,3,1,Football League Fourth Division,4,H
+1967-12-02,1967/1968,Exeter City,Newport County,2-1,2,1,Football League Fourth Division,4,H
+1967-12-02,1967/1968,Halifax Town,Doncaster Rovers,2-3,2,3,Football League Fourth Division,4,A
+1967-12-02,1967/1968,Lincoln City,Bradford Park Avenue,5-1,5,1,Football League Fourth Division,4,H
+1967-12-02,1967/1968,Notts County,Wrexham,1-1,1,1,Football League Fourth Division,4,D
+1967-12-02,1967/1968,Port Vale,Barnsley,2-0,2,0,Football League Fourth Division,4,H
+1967-12-02,1967/1968,Aldershot,Rochdale,2-1,2,1,Football League Fourth Division,4,H
+1967-12-02,1967/1968,Queens Park Rangers,Ipswich Town,1-0,1,0,Football League Second Division,2,H
+1967-12-02,1967/1968,Rotherham United,Hull City,1-3,1,3,Football League Second Division,2,A
+1967-12-02,1967/1968,Preston North End,Bristol City,0-1,0,1,Football League Second Division,2,A
+1967-12-02,1967/1968,Aston Villa,Huddersfield Town,0-0,0,0,Football League Second Division,2,D
+1967-12-02,1967/1968,Cardiff City,Blackburn Rovers,3-2,3,2,Football League Second Division,2,H
+1967-12-02,1967/1968,Charlton Athletic,Birmingham City,3-1,3,1,Football League Second Division,2,H
+1967-12-02,1967/1968,Crystal Palace,Bolton Wanderers,0-3,0,3,Football League Second Division,2,A
+1967-12-02,1967/1968,Derby County,Middlesbrough,2-4,2,4,Football League Second Division,2,A
+1967-12-02,1967/1968,Norwich City,Millwall,5-2,5,2,Football League Second Division,2,H
+1967-12-02,1967/1968,Plymouth Argyle,Carlisle United,3-1,3,1,Football League Second Division,2,H
+1967-12-02,1967/1968,Portsmouth,Blackpool,3-1,3,1,Football League Second Division,2,H
+1967-12-02,1967/1968,Bristol Rovers,Shrewsbury Town,4-1,4,1,Football League Third Division,3,H
+1967-12-02,1967/1968,Bury,Tranmere Rovers,3-3,3,3,Football League Third Division,3,D
+1967-12-02,1967/1968,Colchester United,Northampton Town,2-1,2,1,Football League Third Division,3,H
+1967-12-02,1967/1968,Mansfield Town,Gillingham,0-1,0,1,Football League Third Division,3,A
+1967-12-02,1967/1968,Oldham Athletic,Swindon Town,0-2,0,2,Football League Third Division,3,A
+1967-12-02,1967/1968,Oxford United,Stockport County,2-2,2,2,Football League Third Division,3,D
+1967-12-02,1967/1968,Peterborough United,Walsall,2-1,2,1,Football League Third Division,3,H
+1967-12-02,1967/1968,Southport,Torquay United,0-2,0,2,Football League Third Division,3,A
+1967-12-02,1967/1968,Watford,Grimsby Town,7-1,7,1,Football League Third Division,3,H
+1967-12-02,1967/1968,Barrow,Brighton & Hove Albion,1-1,1,1,Football League Third Division,3,D
+1967-12-02,1967/1968,AFC Bournemouth,Leyton Orient,0-0,0,0,Football League Third Division,3,D
+1967-12-05,1967/1968,Bristol City,Norwich City,0-2,0,2,Football League Second Division,2,A
+1967-12-05,1967/1968,Cardiff City,Millwall,2-2,2,2,Football League Second Division,2,D
+1967-12-08,1967/1968,Coventry City,West Ham United,1-1,1,1,Football League First Division,1,D
+1967-12-09,1967/1968,Stoke City,Everton,1-0,1,0,Football League First Division,1,H
+1967-12-09,1967/1968,Sheffield United,Burnley,1-0,1,0,Football League First Division,1,H
+1967-12-09,1967/1968,Newcastle United,Manchester United,2-2,2,2,Football League First Division,1,D
+1967-12-09,1967/1968,Manchester City,Tottenham Hotspur,4-1,4,1,Football League First Division,1,H
+1967-12-09,1967/1968,Liverpool,Leeds United,2-0,2,0,Football League First Division,1,H
+1967-12-09,1967/1968,Carlisle United,Norwich City,2-2,2,2,Football League Second Division,2,D
+1967-12-09,1967/1968,Huddersfield Town,Cardiff City,1-0,1,0,Football League Second Division,2,H
+1967-12-09,1967/1968,Millwall,Preston North End,2-0,2,0,Football League Second Division,2,H
+1967-12-09,1967/1968,Ipswich Town,Portsmouth,1-2,1,2,Football League Second Division,2,A
+1967-12-09,1967/1968,Middlesbrough,Crystal Palace,3-0,3,0,Football League Second Division,2,H
+1967-12-09,1967/1968,Hull City,Charlton Athletic,1-1,1,1,Football League Second Division,2,D
+1967-12-09,1967/1968,Blackpool,Derby County,1-1,1,1,Football League Second Division,2,D
+1967-12-09,1967/1968,Bolton Wanderers,Plymouth Argyle,1-2,1,2,Football League Second Division,2,A
+1967-12-09,1967/1968,Birmingham City,Queens Park Rangers,2-0,2,0,Football League Second Division,2,H
+1967-12-09,1967/1968,Blackburn Rovers,Rotherham United,3-1,3,1,Football League Second Division,2,H
+1967-12-11,1967/1968,West Ham United,West Bromwich Albion,2-3,2,3,Football League First Division,1,A
+1967-12-12,1967/1968,Queens Park Rangers,Blackburn Rovers,3-1,3,1,Football League Second Division,2,H
+1967-12-15,1967/1968,Southend United,Port Vale,1-1,1,1,Football League Fourth Division,4,D
+1967-12-15,1967/1968,Doncaster Rovers,Barnsley,1-2,1,2,Football League Fourth Division,4,A
+1967-12-15,1967/1968,Tranmere Rovers,Torquay United,2-3,2,3,Football League Third Division,3,A
+1967-12-15,1967/1968,Stockport County,Reading,3-0,3,0,Football League Third Division,3,H
+1967-12-15,1967/1968,Scunthorpe United,Peterborough United,2-1,2,1,Football League Third Division,3,H
+1967-12-16,1967/1968,Stoke City,Arsenal,0-1,0,1,Football League First Division,1,A
+1967-12-16,1967/1968,Chelsea,West Bromwich Albion,0-3,0,3,Football League First Division,1,A
+1967-12-16,1967/1968,Coventry City,Burnley,5-1,5,1,Football League First Division,1,H
+1967-12-16,1967/1968,Liverpool,Manchester City,1-1,1,1,Football League First Division,1,D
+1967-12-16,1967/1968,Manchester United,Everton,3-1,3,1,Football League First Division,1,H
+1967-12-16,1967/1968,Nottingham Forest,Sheffield United,1-0,1,0,Football League First Division,1,H
+1967-12-16,1967/1968,Sheffield Wednesday,West Ham United,4-1,4,1,Football League First Division,1,H
+1967-12-16,1967/1968,Southampton,Newcastle United,0-0,0,0,Football League First Division,1,D
+1967-12-16,1967/1968,Sunderland,Leeds United,2-2,2,2,Football League First Division,1,D
+1967-12-16,1967/1968,Tottenham Hotspur,Leicester City,0-1,0,1,Football League First Division,1,A
+1967-12-16,1967/1968,Wolverhampton Wanderers,Fulham,3-2,3,2,Football League First Division,1,H
+1967-12-16,1967/1968,Aldershot,Lincoln City,3-2,3,2,Football League Fourth Division,4,H
+1967-12-16,1967/1968,Exeter City,Bradford City,4-1,4,1,Football League Fourth Division,4,H
+1967-12-16,1967/1968,Workington,York City,1-1,1,1,Football League Fourth Division,4,D
+1967-12-16,1967/1968,Brentford,Hartlepool United,0-1,0,1,Football League Fourth Division,4,A
+1967-12-16,1967/1968,Chester,Notts County,1-3,1,3,Football League Fourth Division,4,A
+1967-12-16,1967/1968,Chesterfield,Crewe Alexandra,4-1,4,1,Football League Fourth Division,4,H
+1967-12-16,1967/1968,Darlington,Halifax Town,0-0,0,0,Football League Fourth Division,4,D
+1967-12-16,1967/1968,Luton Town,Wrexham,2-1,2,1,Football League Fourth Division,4,H
+1967-12-16,1967/1968,Rochdale,Newport County,4-3,4,3,Football League Fourth Division,4,H
+1967-12-16,1967/1968,Bradford Park Avenue,Swansea City,1-2,1,2,Football League Fourth Division,4,A
+1967-12-16,1967/1968,Queens Park Rangers,Portsmouth,2-0,2,0,Football League Second Division,2,H
+1967-12-16,1967/1968,Ipswich Town,Middlesbrough,1-2,1,2,Football League Second Division,2,A
+1967-12-16,1967/1968,Plymouth Argyle,Cardiff City,0-0,0,0,Football League Second Division,2,D
+1967-12-16,1967/1968,Aston Villa,Norwich City,4-2,4,2,Football League Second Division,2,H
+1967-12-16,1967/1968,Blackburn Rovers,Millwall,2-0,2,0,Football League Second Division,2,H
+1967-12-16,1967/1968,Blackpool,Preston North End,4-1,4,1,Football League Second Division,2,H
+1967-12-16,1967/1968,Bolton Wanderers,Birmingham City,1-1,1,1,Football League Second Division,2,D
+1967-12-16,1967/1968,Carlisle United,Hull City,1-1,1,1,Football League Second Division,2,D
+1967-12-16,1967/1968,Charlton Athletic,Derby County,1-2,1,2,Football League Second Division,2,A
+1967-12-16,1967/1968,Crystal Palace,Rotherham United,1-0,1,0,Football League Second Division,2,H
+1967-12-16,1967/1968,Huddersfield Town,Bristol City,0-3,0,3,Football League Second Division,2,A
+1967-12-16,1967/1968,Bristol Rovers,AFC Bournemouth,2-0,2,0,Football League Third Division,3,H
+1967-12-16,1967/1968,Leyton Orient,Grimsby Town,1-0,1,0,Football League Third Division,3,H
+1967-12-16,1967/1968,Brighton & Hove Albion,Swindon Town,0-0,0,0,Football League Third Division,3,D
+1967-12-16,1967/1968,Northampton Town,Gillingham,1-1,1,1,Football League Third Division,3,D
+1967-12-16,1967/1968,Oldham Athletic,Colchester United,2-1,2,1,Football League Third Division,3,H
+1967-12-16,1967/1968,Oxford United,Shrewsbury Town,2-2,2,2,Football League Third Division,3,D
+1967-12-16,1967/1968,Southport,Mansfield Town,3-1,3,1,Football League Third Division,3,H
+1967-12-16,1967/1968,Walsall,Watford,1-1,1,1,Football League Third Division,3,D
+1967-12-16,1967/1968,Barrow,Bury,1-1,1,1,Football League Third Division,3,D
+1967-12-19,1967/1968,Swindon Town,Stockport County,2-0,2,0,Football League Third Division,3,H
+1967-12-22,1967/1968,Hartlepool United,Bradford Park Avenue,2-0,2,0,Football League Fourth Division,4,H
+1967-12-22,1967/1968,Bristol City,Ipswich Town,1-1,1,1,Football League Second Division,2,D
+1967-12-22,1967/1968,Hull City,Blackburn Rovers,1-1,1,1,Football League Second Division,2,D
+1967-12-23,1967/1968,Arsenal,Nottingham Forest,3-0,3,0,Football League First Division,1,H
+1967-12-23,1967/1968,Burnley,Sheffield Wednesday,2-1,2,1,Football League First Division,1,H
+1967-12-23,1967/1968,Everton,Sunderland,3-0,3,0,Football League First Division,1,H
+1967-12-23,1967/1968,Leeds United,Wolverhampton Wanderers,2-1,2,1,Football League First Division,1,H
+1967-12-23,1967/1968,Leicester City,Manchester United,2-2,2,2,Football League First Division,1,D
+1967-12-23,1967/1968,Manchester City,Stoke City,4-2,4,2,Football League First Division,1,H
+1967-12-23,1967/1968,Newcastle United,Liverpool,1-1,1,1,Football League First Division,1,D
+1967-12-23,1967/1968,Fulham,Chelsea,2-2,2,2,Football League First Division,1,D
+1967-12-23,1967/1968,West Bromwich Albion,Southampton,0-0,0,0,Football League First Division,1,D
+1967-12-23,1967/1968,West Ham United,Tottenham Hotspur,2-1,2,1,Football League First Division,1,H
+1967-12-23,1967/1968,Sheffield United,Coventry City,2-0,2,0,Football League First Division,1,H
+1967-12-23,1967/1968,Barnsley,Luton Town,2-2,2,2,Football League Fourth Division,4,D
+1967-12-23,1967/1968,Crewe Alexandra,Exeter City,2-0,2,0,Football League Fourth Division,4,H
+1967-12-23,1967/1968,Halifax Town,Aldershot,2-2,2,2,Football League Fourth Division,4,D
+1967-12-23,1967/1968,Lincoln City,Workington,3-0,3,0,Football League Fourth Division,4,H
+1967-12-23,1967/1968,Newport County,Brentford,2-2,2,2,Football League Fourth Division,4,D
+1967-12-23,1967/1968,York City,Rochdale,4-1,4,1,Football League Fourth Division,4,H
+1967-12-23,1967/1968,Port Vale,Chester,4-4,4,4,Football League Fourth Division,4,D
+1967-12-23,1967/1968,Swansea City,Doncaster Rovers,3-1,3,1,Football League Fourth Division,4,H
+1967-12-23,1967/1968,Bradford City,Darlington,1-0,1,0,Football League Fourth Division,4,H
+1967-12-23,1967/1968,Notts County,Chesterfield,1-0,1,0,Football League Fourth Division,4,H
+1967-12-23,1967/1968,Rotherham United,Aston Villa,0-2,0,2,Football League Second Division,2,A
+1967-12-23,1967/1968,Preston North End,Charlton Athletic,4-1,4,1,Football League Second Division,2,H
+1967-12-23,1967/1968,Birmingham City,Huddersfield Town,6-1,6,1,Football League Second Division,2,H
+1967-12-23,1967/1968,Cardiff City,Bolton Wanderers,1-3,1,3,Football League Second Division,2,A
+1967-12-23,1967/1968,Derby County,Crystal Palace,1-1,1,1,Football League Second Division,2,D
+1967-12-23,1967/1968,Middlesbrough,Carlisle United,4-0,4,0,Football League Second Division,2,H
+1967-12-23,1967/1968,Norwich City,Queens Park Rangers,0-0,0,0,Football League Second Division,2,D
+1967-12-23,1967/1968,Portsmouth,Plymouth Argyle,0-0,0,0,Football League Second Division,2,D
+1967-12-23,1967/1968,Bury,Oxford United,1-1,1,1,Football League Third Division,3,D
+1967-12-23,1967/1968,Colchester United,Bristol Rovers,2-0,2,0,Football League Third Division,3,H
+1967-12-23,1967/1968,Gillingham,Walsall,0-1,0,1,Football League Third Division,3,A
+1967-12-23,1967/1968,Grimsby Town,Northampton Town,0-0,0,0,Football League Third Division,3,D
+1967-12-23,1967/1968,Mansfield Town,Scunthorpe United,3-0,3,0,Football League Third Division,3,H
+1967-12-23,1967/1968,Peterborough United,Oldham Athletic,2-1,2,1,Football League Third Division,3,H
+1967-12-23,1967/1968,Reading,Tranmere Rovers,3-0,3,0,Football League Third Division,3,H
+1967-12-23,1967/1968,Shrewsbury Town,Brighton & Hove Albion,0-0,0,0,Football League Third Division,3,D
+1967-12-23,1967/1968,Watford,Southport,0-1,0,1,Football League Third Division,3,A
+1967-12-23,1967/1968,AFC Bournemouth,Barrow,3-0,3,0,Football League Third Division,3,H
+1967-12-26,1967/1968,Manchester United,Wolverhampton Wanderers,4-0,4,0,Football League First Division,1,H
+1967-12-26,1967/1968,Coventry City,Liverpool,1-1,1,1,Football League First Division,1,D
+1967-12-26,1967/1968,Everton,Burnley,2-0,2,0,Football League First Division,1,H
+1967-12-26,1967/1968,Newcastle United,Sunderland,2-1,2,1,Football League First Division,1,H
+1967-12-26,1967/1968,Nottingham Forest,Stoke City,3-0,3,0,Football League First Division,1,H
+1967-12-26,1967/1968,Sheffield Wednesday,Leeds United,0-1,0,1,Football League First Division,1,A
+1967-12-26,1967/1968,Southampton,Sheffield United,3-3,3,3,Football League First Division,1,D
+1967-12-26,1967/1968,Tottenham Hotspur,Fulham,2-2,2,2,Football League First Division,1,D
+1967-12-26,1967/1968,West Bromwich Albion,Manchester City,3-2,3,2,Football League First Division,1,H
+1967-12-26,1967/1968,West Ham United,Leicester City,4-2,4,2,Football League First Division,1,H
+1967-12-26,1967/1968,Chelsea,Arsenal,2-1,2,1,Football League First Division,1,H
+1967-12-26,1967/1968,Aldershot,Exeter City,0-0,0,0,Football League Fourth Division,4,D
+1967-12-26,1967/1968,Swansea City,Newport County,4-2,4,2,Football League Fourth Division,4,H
+1967-12-26,1967/1968,Brentford,Southend United,1-2,1,2,Football League Fourth Division,4,A
+1967-12-26,1967/1968,Chesterfield,Workington,0-0,0,0,Football League Fourth Division,4,D
+1967-12-26,1967/1968,Doncaster Rovers,Crewe Alexandra,2-2,2,2,Football League Fourth Division,4,D
+1967-12-26,1967/1968,Hartlepool United,Darlington,1-0,1,0,Football League Fourth Division,4,H
+1967-12-26,1967/1968,Lincoln City,Chester,3-0,3,0,Football League Fourth Division,4,H
+1967-12-26,1967/1968,Luton Town,Bradford Park Avenue,2-0,2,0,Football League Fourth Division,4,H
+1967-12-26,1967/1968,York City,Barnsley,1-1,1,1,Football League Fourth Division,4,D
+1967-12-26,1967/1968,Port Vale,Halifax Town,2-1,2,1,Football League Fourth Division,4,H
+1967-12-26,1967/1968,Wrexham,Rochdale,2-0,2,0,Football League Fourth Division,4,H
+1967-12-26,1967/1968,Bradford City,Notts County,5-1,5,1,Football League Fourth Division,4,H
+1967-12-26,1967/1968,Preston North End,Rotherham United,2-2,2,2,Football League Second Division,2,D
+1967-12-26,1967/1968,Birmingham City,Bristol City,4-1,4,1,Football League Second Division,2,H
+1967-12-26,1967/1968,Blackburn Rovers,Derby County,3-0,3,0,Football League Second Division,2,H
+1967-12-26,1967/1968,Blackpool,Carlisle United,1-1,1,1,Football League Second Division,2,D
+1967-12-26,1967/1968,Bolton Wanderers,Middlesbrough,2-0,2,0,Football League Second Division,2,H
+1967-12-26,1967/1968,Cardiff City,Aston Villa,3-0,3,0,Football League Second Division,2,H
+1967-12-26,1967/1968,Charlton Athletic,Norwich City,3-3,3,3,Football League Second Division,2,D
+1967-12-26,1967/1968,Crystal Palace,Portsmouth,2-2,2,2,Football League Second Division,2,D
+1967-12-26,1967/1968,Huddersfield Town,Hull City,2-0,2,0,Football League Second Division,2,H
+1967-12-26,1967/1968,Ipswich Town,Millwall,2-1,2,1,Football League Second Division,2,H
+1967-12-26,1967/1968,Plymouth Argyle,Queens Park Rangers,0-1,0,1,Football League Second Division,2,A
+1967-12-26,1967/1968,Torquay United,Swindon Town,1-1,1,1,Football League Third Division,3,D
+1967-12-26,1967/1968,Southport,Bury,2-2,2,2,Football League Third Division,3,D
+1967-12-26,1967/1968,Shrewsbury Town,Grimsby Town,3-2,3,2,Football League Third Division,3,H
+1967-12-26,1967/1968,Scunthorpe United,Oxford United,1-1,1,1,Football League Third Division,3,D
+1967-12-26,1967/1968,Northampton Town,Tranmere Rovers,0-1,0,1,Football League Third Division,3,A
+1967-12-26,1967/1968,Oldham Athletic,Barrow,3-1,3,1,Football League Third Division,3,H
+1967-12-26,1967/1968,Mansfield Town,Colchester United,2-1,2,1,Football League Third Division,3,H
+1967-12-26,1967/1968,Walsall,Stockport County,0-1,0,1,Football League Third Division,3,A
+1967-12-26,1967/1968,Peterborough United,Leyton Orient,3-2,3,2,Football League Third Division,3,H
+1967-12-26,1967/1968,Bristol Rovers,Reading,1-0,1,0,Football League Third Division,3,H
+1967-12-26,1967/1968,Brighton & Hove Albion,Gillingham,3-0,3,0,Football League Third Division,3,H
+1967-12-26,1967/1968,AFC Bournemouth,Watford,0-1,0,1,Football League Third Division,3,A
+1967-12-29,1967/1968,Stockport County,Walsall,0-0,0,0,Football League Third Division,3,D
+1967-12-30,1967/1968,Arsenal,Chelsea,1-1,1,1,Football League First Division,1,D
+1967-12-30,1967/1968,Burnley,Everton,2-1,2,1,Football League First Division,1,H
+1967-12-30,1967/1968,Fulham,Tottenham Hotspur,1-2,1,2,Football League First Division,1,A
+1967-12-30,1967/1968,Leeds United,Sheffield Wednesday,3-2,3,2,Football League First Division,1,H
+1967-12-30,1967/1968,Leicester City,West Ham United,2-4,2,4,Football League First Division,1,A
+1967-12-30,1967/1968,Liverpool,Coventry City,1-0,1,0,Football League First Division,1,H
+1967-12-30,1967/1968,Sheffield United,Southampton,4-1,4,1,Football League First Division,1,H
+1967-12-30,1967/1968,Stoke City,Nottingham Forest,1-3,1,3,Football League First Division,1,A
+1967-12-30,1967/1968,Sunderland,Newcastle United,3-3,3,3,Football League First Division,1,D
+1967-12-30,1967/1968,Manchester City,West Bromwich Albion,0-2,0,2,Football League First Division,1,A
+1967-12-30,1967/1968,Wolverhampton Wanderers,Manchester United,2-3,2,3,Football League First Division,1,A
+1967-12-30,1967/1968,Workington,Chesterfield,3-1,3,1,Football League Fourth Division,4,H
+1967-12-30,1967/1968,Barnsley,York City,1-0,1,0,Football League Fourth Division,4,H
+1967-12-30,1967/1968,Bradford Park Avenue,Luton Town,2-1,2,1,Football League Fourth Division,4,H
+1967-12-30,1967/1968,Chester,Lincoln City,6-0,6,0,Football League Fourth Division,4,H
+1967-12-30,1967/1968,Crewe Alexandra,Doncaster Rovers,2-2,2,2,Football League Fourth Division,4,D
+1967-12-30,1967/1968,Darlington,Hartlepool United,2-3,2,3,Football League Fourth Division,4,A
+1967-12-30,1967/1968,Exeter City,Aldershot,3-0,3,0,Football League Fourth Division,4,H
+1967-12-30,1967/1968,Halifax Town,Port Vale,0-1,0,1,Football League Fourth Division,4,A
+1967-12-30,1967/1968,Newport County,Swansea City,3-0,3,0,Football League Fourth Division,4,H
+1967-12-30,1967/1968,Notts County,Bradford City,1-0,1,0,Football League Fourth Division,4,H
+1967-12-30,1967/1968,Rochdale,Wrexham,3-0,3,0,Football League Fourth Division,4,H
+1967-12-30,1967/1968,Southend United,Brentford,1-0,1,0,Football League Fourth Division,4,H
+1967-12-30,1967/1968,Queens Park Rangers,Plymouth Argyle,4-1,4,1,Football League Second Division,2,H
+1967-12-30,1967/1968,Rotherham United,Preston North End,1-0,1,0,Football League Second Division,2,H
+1967-12-30,1967/1968,Aston Villa,Cardiff City,2-1,2,1,Football League Second Division,2,H
+1967-12-30,1967/1968,Bristol City,Birmingham City,3-1,3,1,Football League Second Division,2,H
+1967-12-30,1967/1968,Carlisle United,Blackpool,1-3,1,3,Football League Second Division,2,A
+1967-12-30,1967/1968,Derby County,Blackburn Rovers,2-2,2,2,Football League Second Division,2,D
+1967-12-30,1967/1968,Hull City,Huddersfield Town,1-1,1,1,Football League Second Division,2,D
+1967-12-30,1967/1968,Middlesbrough,Bolton Wanderers,1-2,1,2,Football League Second Division,2,A
+1967-12-30,1967/1968,Millwall,Ipswich Town,1-1,1,1,Football League Second Division,2,D
+1967-12-30,1967/1968,Norwich City,Charlton Athletic,1-1,1,1,Football League Second Division,2,D
+1967-12-30,1967/1968,Portsmouth,Crystal Palace,2-2,2,2,Football League Second Division,2,D
+1967-12-30,1967/1968,Colchester United,Mansfield Town,1-2,1,2,Football League Third Division,3,A
+1967-12-30,1967/1968,Grimsby Town,Shrewsbury Town,0-1,0,1,Football League Third Division,3,A
+1967-12-30,1967/1968,Leyton Orient,Peterborough United,3-0,3,0,Football League Third Division,3,H
+1967-12-30,1967/1968,Oxford United,Scunthorpe United,2-3,2,3,Football League Third Division,3,A
+1967-12-30,1967/1968,Reading,Bristol Rovers,2-1,2,1,Football League Third Division,3,H
+1967-12-30,1967/1968,Swindon Town,Torquay United,1-0,1,0,Football League Third Division,3,H
+1967-12-30,1967/1968,Tranmere Rovers,Northampton Town,2-2,2,2,Football League Third Division,3,D
+1967-12-30,1967/1968,Watford,AFC Bournemouth,0-2,0,2,Football League Third Division,3,A
+1967-12-30,1967/1968,Bury,Southport,3-2,3,2,Football League Third Division,3,H
+1967-12-30,1967/1968,Barrow,Oldham Athletic,4-1,4,1,Football League Third Division,3,H
+1967-12-30,1967/1968,Gillingham,Brighton & Hove Albion,1-1,1,1,Football League Third Division,3,D
+1968-01-06,1967/1968,Manchester United,West Ham United,3-1,3,1,Football League First Division,1,H
+1968-01-06,1967/1968,Wolverhampton Wanderers,Everton,1-3,1,3,Football League First Division,1,A
+1968-01-06,1967/1968,Fulham,Leeds United,0-5,0,5,Football League First Division,1,A
+1968-01-06,1967/1968,Liverpool,West Bromwich Albion,4-1,4,1,Football League First Division,1,H
+1968-01-06,1967/1968,Nottingham Forest,Manchester City,0-3,0,3,Football League First Division,1,A
+1968-01-06,1967/1968,Coventry City,Arsenal,1-1,1,1,Football League First Division,1,D
+1968-01-06,1967/1968,Southampton,Chelsea,3-5,3,5,Football League First Division,1,A
+1968-01-06,1967/1968,Stoke City,Newcastle United,2-1,2,1,Football League First Division,1,H
+1968-01-06,1967/1968,Sunderland,Leicester City,0-2,0,2,Football League First Division,1,A
+1968-01-06,1967/1968,Sheffield Wednesday,Sheffield United,1-1,1,1,Football League First Division,1,D
+1968-01-06,1967/1968,Lincoln City,Rochdale,3-2,3,2,Football League Fourth Division,4,H
+1968-01-06,1967/1968,Brentford,Barnsley,0-1,0,1,Football League Fourth Division,4,A
+1968-01-06,1967/1968,Cardiff City,Portsmouth,3-0,3,0,Football League Second Division,2,H
+1968-01-06,1967/1968,Carlisle United,Bristol City,0-0,0,0,Football League Second Division,2,D
+1968-01-06,1967/1968,Charlton Athletic,Millwall,1-0,1,0,Football League Second Division,2,H
+1968-01-06,1967/1968,Huddersfield Town,Bolton Wanderers,1-1,1,1,Football League Second Division,2,D
+1968-01-06,1967/1968,Queens Park Rangers,Rotherham United,6-0,6,0,Football League Second Division,2,H
+1968-01-06,1967/1968,Blackpool,Hull City,3-1,3,1,Football League Second Division,2,H
+1968-01-06,1967/1968,Ipswich Town,Birmingham City,2-1,2,1,Football League Second Division,2,H
+1968-01-06,1967/1968,Blackburn Rovers,Middlesbrough,3-0,3,0,Football League Second Division,2,H
+1968-01-06,1967/1968,Aston Villa,Derby County,2-1,2,1,Football League Second Division,2,H
+1968-01-10,1967/1968,Plymouth Argyle,Norwich City,2-2,2,2,Football League Second Division,2,D
+1968-01-13,1967/1968,Newcastle United,Nottingham Forest,0-0,0,0,Football League First Division,1,D
+1968-01-13,1967/1968,Leicester City,Wolverhampton Wanderers,3-1,3,1,Football League First Division,1,H
+1968-01-13,1967/1968,Leeds United,Southampton,5-0,5,0,Football League First Division,1,H
+1968-01-13,1967/1968,Arsenal,Sheffield United,1-1,1,1,Football League First Division,1,D
+1968-01-13,1967/1968,Notts County,Darlington,0-0,0,0,Football League Fourth Division,4,D
+1968-01-13,1967/1968,Hartlepool United,Luton Town,2-1,2,1,Football League Fourth Division,4,H
+1968-01-13,1967/1968,Halifax Town,Lincoln City,1-0,1,0,Football League Fourth Division,4,H
+1968-01-13,1967/1968,Portsmouth,Huddersfield Town,3-1,3,1,Football League Second Division,2,H
+1968-01-13,1967/1968,Hull City,Millwall,1-1,1,1,Football League Second Division,2,D
+1968-01-13,1967/1968,Bristol City,Blackburn Rovers,0-0,0,0,Football League Second Division,2,D
+1968-01-13,1967/1968,Birmingham City,Carlisle United,1-3,1,3,Football League Second Division,2,A
+1968-01-13,1967/1968,Middlesbrough,Blackpool,0-0,0,0,Football League Second Division,2,D
+1968-01-13,1967/1968,AFC Bournemouth,Bury,1-0,1,0,Football League Third Division,3,H
+1968-01-13,1967/1968,Torquay United,Walsall,4-1,4,1,Football League Third Division,3,H
+1968-01-13,1967/1968,Peterborough United,Barrow,0-1,0,1,Football League Third Division,3,A
+1968-01-16,1967/1968,Watford,Oldham Athletic,1-2,1,2,Football League Third Division,3,A
+1968-01-17,1967/1968,Sheffield Wednesday,Tottenham Hotspur,1-2,1,2,Football League First Division,1,A
+1968-01-17,1967/1968,Bury,Brighton & Hove Albion,4-0,4,0,Football League Third Division,3,H
+1968-01-19,1967/1968,Doncaster Rovers,York City,2-0,2,0,Football League Fourth Division,4,H
+1968-01-19,1967/1968,Tranmere Rovers,Brighton & Hove Albion,2-2,2,2,Football League Third Division,3,D
+1968-01-20,1967/1968,Coventry City,Newcastle United,1-4,1,4,Football League First Division,1,A
+1968-01-20,1967/1968,Fulham,Leicester City,0-1,0,1,Football League First Division,1,A
+1968-01-20,1967/1968,Leeds United,Everton,2-0,2,0,Football League First Division,1,H
+1968-01-20,1967/1968,Liverpool,Southampton,2-0,2,0,Football League First Division,1,H
+1968-01-20,1967/1968,Manchester United,Sheffield Wednesday,4-2,4,2,Football League First Division,1,H
+1968-01-20,1967/1968,Nottingham Forest,West Bromwich Albion,3-2,3,2,Football League First Division,1,H
+1968-01-20,1967/1968,Stoke City,Chelsea,0-1,0,1,Football League First Division,1,A
+1968-01-20,1967/1968,Sunderland,Burnley,2-2,2,2,Football League First Division,1,D
+1968-01-20,1967/1968,Tottenham Hotspur,Arsenal,1-0,1,0,Football League First Division,1,H
+1968-01-20,1967/1968,Sheffield United,Manchester City,0-3,0,3,Football League First Division,1,A
+1968-01-20,1967/1968,Wolverhampton Wanderers,West Ham United,1-2,1,2,Football League First Division,1,A
+1968-01-20,1967/1968,Aldershot,Notts County,0-0,0,0,Football League Fourth Division,4,D
+1968-01-20,1967/1968,Halifax Town,Brentford,3-0,3,0,Football League Fourth Division,4,H
+1968-01-20,1967/1968,Chesterfield,Barnsley,2-3,2,3,Football League Fourth Division,4,A
+1968-01-20,1967/1968,Darlington,Port Vale,2-2,2,2,Football League Fourth Division,4,D
+1968-01-20,1967/1968,Exeter City,Chester,1-0,1,0,Football League Fourth Division,4,H
+1968-01-20,1967/1968,Lincoln City,Bradford City,2-0,2,0,Football League Fourth Division,4,H
+1968-01-20,1967/1968,Luton Town,Newport County,1-1,1,1,Football League Fourth Division,4,D
+1968-01-20,1967/1968,Southend United,Hartlepool United,2-1,2,1,Football League Fourth Division,4,H
+1968-01-20,1967/1968,Workington,Crewe Alexandra,2-2,2,2,Football League Fourth Division,4,D
+1968-01-20,1967/1968,Wrexham,Swansea City,2-1,2,1,Football League Fourth Division,4,H
+1968-01-20,1967/1968,Bradford Park Avenue,Rochdale,0-0,0,0,Football League Fourth Division,4,D
+1968-01-20,1967/1968,Portsmouth,Norwich City,3-0,3,0,Football League Second Division,2,H
+1968-01-20,1967/1968,Queens Park Rangers,Preston North End,2-0,2,0,Football League Second Division,2,H
+1968-01-20,1967/1968,Aston Villa,Charlton Athletic,4-1,4,1,Football League Second Division,2,H
+1968-01-20,1967/1968,Plymouth Argyle,Derby County,3-4,3,4,Football League Second Division,2,A
+1968-01-20,1967/1968,Ipswich Town,Huddersfield Town,2-0,2,0,Football League Second Division,2,H
+1968-01-20,1967/1968,Crystal Palace,Hull City,0-1,0,1,Football League Second Division,2,A
+1968-01-20,1967/1968,Millwall,Middlesbrough,4-0,4,0,Football League Second Division,2,H
+1968-01-20,1967/1968,Cardiff City,Rotherham United,2-2,2,2,Football League Second Division,2,D
+1968-01-20,1967/1968,Blackpool,Bristol City,1-1,1,1,Football League Second Division,2,D
+1968-01-20,1967/1968,Blackburn Rovers,Birmingham City,1-2,1,2,Football League Second Division,2,A
+1968-01-20,1967/1968,Carlisle United,Bolton Wanderers,3-0,3,0,Football League Second Division,2,H
+1968-01-20,1967/1968,Bury,Colchester United,2-0,2,0,Football League Third Division,3,H
+1968-01-20,1967/1968,Gillingham,Torquay United,1-1,1,1,Football League Third Division,3,D
+1968-01-20,1967/1968,Leyton Orient,Shrewsbury Town,1-1,1,1,Football League Third Division,3,D
+1968-01-20,1967/1968,Northampton Town,Swindon Town,2-0,2,0,Football League Third Division,3,H
+1968-01-20,1967/1968,Oldham Athletic,Southport,2-0,2,0,Football League Third Division,3,H
+1968-01-20,1967/1968,Oxford United,Peterborough United,3-1,3,1,Football League Third Division,3,H
+1968-01-20,1967/1968,Scunthorpe United,Grimsby Town,0-3,0,3,Football League Third Division,3,A
+1968-01-20,1967/1968,Bristol Rovers,Watford,0-2,0,2,Football League Third Division,3,A
+1968-01-20,1967/1968,Barrow,Mansfield Town,0-1,0,1,Football League Third Division,3,A
+1968-01-20,1967/1968,AFC Bournemouth,Stockport County,1-0,1,0,Football League Third Division,3,H
+1968-01-20,1967/1968,Walsall,Reading,2-2,2,2,Football League Third Division,3,D
+1968-01-24,1967/1968,Bradford City,Workington,1-0,1,0,Football League Fourth Division,4,H
+1968-01-26,1967/1968,Port Vale,Luton Town,0-0,0,0,Football League Fourth Division,4,D
+1968-01-26,1967/1968,Scunthorpe United,Gillingham,2-1,2,1,Football League Third Division,3,H
+1968-01-26,1967/1968,Stockport County,Torquay United,0-0,0,0,Football League Third Division,3,D
+1968-01-27,1967/1968,Chester,Southend United,0-0,0,0,Football League Fourth Division,4,D
+1968-01-27,1967/1968,Rochdale,Workington,1-3,1,3,Football League Fourth Division,4,A
+1968-01-27,1967/1968,Lincoln City,York City,1-3,1,3,Football League Fourth Division,4,A
+1968-01-27,1967/1968,Brentford,Bradford City,0-1,0,1,Football League Fourth Division,4,A
+1968-01-27,1967/1968,Aldershot,Hartlepool United,2-0,2,0,Football League Fourth Division,4,H
+1968-01-27,1967/1968,Barnsley,Exeter City,2-1,2,1,Football League Fourth Division,4,H
+1968-01-27,1967/1968,Bradford Park Avenue,Crewe Alexandra,1-2,1,2,Football League Fourth Division,4,A
+1968-01-27,1967/1968,Brighton & Hove Albion,Oxford United,0-0,0,0,Football League Third Division,3,D
+1968-02-02,1967/1968,Stockport County,Tranmere Rovers,5-2,5,2,Football League Third Division,3,H
+1968-02-03,1967/1968,Burnley,Wolverhampton Wanderers,1-1,1,1,Football League First Division,1,D
+1968-02-03,1967/1968,Everton,Liverpool,1-0,1,0,Football League First Division,1,H
+1968-02-03,1967/1968,Leicester City,Leeds United,2-2,2,2,Football League First Division,1,D
+1968-02-03,1967/1968,Manchester City,Arsenal,1-1,1,1,Football League First Division,1,D
+1968-02-03,1967/1968,Newcastle United,Sheffield United,1-0,1,0,Football League First Division,1,H
+1968-02-03,1967/1968,Sheffield Wednesday,Sunderland,0-1,0,1,Football League First Division,1,A
+1968-02-03,1967/1968,Southampton,Stoke City,1-2,1,2,Football League First Division,1,A
+1968-02-03,1967/1968,Tottenham Hotspur,Manchester United,1-2,1,2,Football League First Division,1,A
+1968-02-03,1967/1968,West Bromwich Albion,Coventry City,0-1,0,1,Football League First Division,1,A
+1968-02-03,1967/1968,West Ham United,Fulham,7-2,7,2,Football League First Division,1,H
+1968-02-03,1967/1968,Chelsea,Nottingham Forest,1-0,1,0,Football League First Division,1,H
+1968-02-03,1967/1968,Bradford City,Halifax Town,0-1,0,1,Football League Fourth Division,4,A
+1968-02-03,1967/1968,Chester,Darlington,0-1,0,1,Football League Fourth Division,4,A
+1968-02-03,1967/1968,Chesterfield,Exeter City,1-1,1,1,Football League Fourth Division,4,D
+1968-02-03,1967/1968,Crewe Alexandra,Lincoln City,2-1,2,1,Football League Fourth Division,4,H
+1968-02-03,1967/1968,Hartlepool United,Wrexham,3-0,3,0,Football League Fourth Division,4,H
+1968-02-03,1967/1968,Notts County,Workington,2-1,2,1,Football League Fourth Division,4,H
+1968-02-03,1967/1968,Port Vale,Aldershot,0-3,0,3,Football League Fourth Division,4,A
+1968-02-03,1967/1968,Rochdale,Doncaster Rovers,2-0,2,0,Football League Fourth Division,4,H
+1968-02-03,1967/1968,Swansea City,Barnsley,1-1,1,1,Football League Fourth Division,4,D
+1968-02-03,1967/1968,York City,Luton Town,1-1,1,1,Football League Fourth Division,4,D
+1968-02-03,1967/1968,Brentford,Bradford Park Avenue,2-1,2,1,Football League Fourth Division,4,H
+1968-02-03,1967/1968,Preston North End,Plymouth Argyle,2-0,2,0,Football League Second Division,2,H
+1968-02-03,1967/1968,Rotherham United,Portsmouth,1-1,1,1,Football League Second Division,2,D
+1968-02-03,1967/1968,Birmingham City,Blackpool,1-2,1,2,Football League Second Division,2,A
+1968-02-03,1967/1968,Middlesbrough,Hull City,2-1,2,1,Football League Second Division,2,H
+1968-02-03,1967/1968,Huddersfield Town,Carlisle United,1-1,1,1,Football League Second Division,2,D
+1968-02-03,1967/1968,Derby County,Cardiff City,3-4,3,4,Football League Second Division,2,A
+1968-02-03,1967/1968,Norwich City,Ipswich Town,3-4,3,4,Football League Second Division,2,A
+1968-02-03,1967/1968,Charlton Athletic,Queens Park Rangers,3-3,3,3,Football League Second Division,2,D
+1968-02-03,1967/1968,Bristol City,Millwall,0-2,0,2,Football League Second Division,2,A
+1968-02-03,1967/1968,Bolton Wanderers,Blackburn Rovers,2-1,2,1,Football League Second Division,2,H
+1968-02-03,1967/1968,Crystal Palace,Aston Villa,0-1,0,1,Football League Second Division,2,A
+1968-02-03,1967/1968,Mansfield Town,Oxford United,1-0,1,0,Football League Third Division,3,H
+1968-02-03,1967/1968,Peterborough United,Bury,0-2,0,2,Football League Third Division,3,A
+1968-02-03,1967/1968,Reading,Gillingham,3-1,3,1,Football League Third Division,3,H
+1968-02-03,1967/1968,Scunthorpe United,Oldham Athletic,2-0,2,0,Football League Third Division,3,H
+1968-02-03,1967/1968,Shrewsbury Town,Northampton Town,2-0,2,0,Football League Third Division,3,H
+1968-02-03,1967/1968,Southport,Bristol Rovers,2-1,2,1,Football League Third Division,3,H
+1968-02-03,1967/1968,Swindon Town,Walsall,3-0,3,0,Football League Third Division,3,H
+1968-02-03,1967/1968,Watford,Barrow,3-2,3,2,Football League Third Division,3,H
+1968-02-03,1967/1968,Colchester United,AFC Bournemouth,0-1,0,1,Football League Third Division,3,A
+1968-02-03,1967/1968,Brighton & Hove Albion,Leyton Orient,1-1,1,1,Football League Third Division,3,D
+1968-02-03,1967/1968,Torquay United,Grimsby Town,1-0,1,0,Football League Third Division,3,H
+1968-02-06,1967/1968,Newport County,Southend United,2-0,2,0,Football League Fourth Division,4,H
+1968-02-10,1967/1968,Arsenal,Newcastle United,0-0,0,0,Football League First Division,1,D
+1968-02-10,1967/1968,Fulham,Burnley,4-3,4,3,Football League First Division,1,H
+1968-02-10,1967/1968,Leeds United,West Ham United,2-1,2,1,Football League First Division,1,H
+1968-02-10,1967/1968,Nottingham Forest,Southampton,2-2,2,2,Football League First Division,1,D
+1968-02-10,1967/1968,Sheffield United,West Bromwich Albion,1-1,1,1,Football League First Division,1,D
+1968-02-10,1967/1968,Sunderland,Tottenham Hotspur,0-1,0,1,Football League First Division,1,A
+1968-02-10,1967/1968,Coventry City,Chelsea,2-1,2,1,Football League First Division,1,H
+1968-02-10,1967/1968,Aldershot,Chester,2-1,2,1,Football League Fourth Division,4,H
+1968-02-10,1967/1968,Luton Town,Rochdale,4-1,4,1,Football League Fourth Division,4,H
+1968-02-10,1967/1968,Bradford City,Bradford Park Avenue,1-2,1,2,Football League Fourth Division,4,A
+1968-02-10,1967/1968,Darlington,Chesterfield,1-1,1,1,Football League Fourth Division,4,D
+1968-02-10,1967/1968,Exeter City,Swansea City,1-3,1,3,Football League Fourth Division,4,A
+1968-02-10,1967/1968,Lincoln City,Notts County,1-3,1,3,Football League Fourth Division,4,A
+1968-02-10,1967/1968,Southend United,York City,0-1,0,1,Football League Fourth Division,4,A
+1968-02-10,1967/1968,Workington,Port Vale,1-1,1,1,Football League Fourth Division,4,D
+1968-02-10,1967/1968,Wrexham,Newport County,0-1,0,1,Football League Fourth Division,4,A
+1968-02-10,1967/1968,Barnsley,Hartlepool United,4-0,4,0,Football League Fourth Division,4,H
+1968-02-10,1967/1968,Doncaster Rovers,Brentford,2-0,2,0,Football League Fourth Division,4,H
+1968-02-10,1967/1968,Aston Villa,Middlesbrough,0-1,0,1,Football League Second Division,2,A
+1968-02-10,1967/1968,Blackpool,Bolton Wanderers,1-1,1,1,Football League Second Division,2,D
+1968-02-10,1967/1968,Carlisle United,Ipswich Town,4-1,4,1,Football League Second Division,2,H
+1968-02-10,1967/1968,Hull City,Bristol City,4-2,4,2,Football League Second Division,2,H
+1968-02-10,1967/1968,Millwall,Birmingham City,1-1,1,1,Football League Second Division,2,D
+1968-02-10,1967/1968,Norwich City,Rotherham United,2-2,2,2,Football League Second Division,2,D
+1968-02-10,1967/1968,Plymouth Argyle,Charlton Athletic,1-4,1,4,Football League Second Division,2,A
+1968-02-10,1967/1968,Portsmouth,Derby County,3-2,3,2,Football League Second Division,2,H
+1968-02-10,1967/1968,Queens Park Rangers,Crystal Palace,2-1,2,1,Football League Second Division,2,H
+1968-02-10,1967/1968,Cardiff City,Preston North End,2-0,2,0,Football League Second Division,2,H
+1968-02-10,1967/1968,Gillingham,Swindon Town,3-1,3,1,Football League Third Division,3,H
+1968-02-10,1967/1968,Walsall,Shrewsbury Town,1-2,1,2,Football League Third Division,3,A
+1968-02-10,1967/1968,Grimsby Town,Reading,1-1,1,1,Football League Third Division,3,D
+1968-02-10,1967/1968,Leyton Orient,Stockport County,2-2,2,2,Football League Third Division,3,D
+1968-02-10,1967/1968,Northampton Town,Brighton & Hove Albion,2-2,2,2,Football League Third Division,3,D
+1968-02-10,1967/1968,Oldham Athletic,Torquay United,0-1,0,1,Football League Third Division,3,A
+1968-02-10,1967/1968,Oxford United,Watford,1-0,1,0,Football League Third Division,3,H
+1968-02-10,1967/1968,Colchester United,Tranmere Rovers,1-2,1,2,Football League Third Division,3,A
+1968-02-10,1967/1968,Bury,Mansfield Town,3-1,3,1,Football League Third Division,3,H
+1968-02-10,1967/1968,Barrow,Southport,3-1,3,1,Football League Third Division,3,H
+1968-02-10,1967/1968,Bristol Rovers,Scunthorpe United,4-0,4,0,Football League Third Division,3,H
+1968-02-10,1967/1968,AFC Bournemouth,Peterborough United,3-3,3,3,Football League Third Division,3,D
+1968-02-12,1967/1968,Chelsea,Liverpool,3-1,3,1,Football League First Division,1,H
+1968-02-14,1967/1968,Blackburn Rovers,Huddersfield Town,0-0,0,0,Football League Second Division,2,D
+1968-02-14,1967/1968,Reading,Northampton Town,0-0,0,0,Football League Third Division,3,D
+1968-02-16,1967/1968,Port Vale,Lincoln City,1-1,1,1,Football League Fourth Division,4,D
+1968-02-16,1967/1968,Millwall,Bolton Wanderers,3-0,3,0,Football League Second Division,2,H
+1968-02-16,1967/1968,Southport,Oxford United,1-0,1,0,Football League Third Division,3,H
+1968-02-17,1967/1968,Burnley,Manchester United,2-1,2,1,Football League First Division,1,H
+1968-02-17,1967/1968,Bradford Park Avenue,Doncaster Rovers,1-1,1,1,Football League Fourth Division,4,D
+1968-02-17,1967/1968,Rochdale,Southend United,0-1,0,1,Football League Fourth Division,4,A
+1968-02-17,1967/1968,Notts County,Halifax Town,1-3,1,3,Football League Fourth Division,4,A
+1968-02-17,1967/1968,Newport County,Barnsley,3-0,3,0,Football League Fourth Division,4,H
+1968-02-17,1967/1968,Darlington,Exeter City,0-1,0,1,Football League Fourth Division,4,A
+1968-02-17,1967/1968,Crewe Alexandra,Bradford City,1-1,1,1,Football League Fourth Division,4,D
+1968-02-17,1967/1968,Chesterfield,Aldershot,1-2,1,2,Football League Fourth Division,4,A
+1968-02-17,1967/1968,Chester,Workington,1-2,1,2,Football League Fourth Division,4,A
+1968-02-17,1967/1968,Brentford,Luton Town,0-2,0,2,Football League Fourth Division,4,A
+1968-02-17,1967/1968,York City,Wrexham,3-1,3,1,Football League Fourth Division,4,H
+1968-02-17,1967/1968,Plymouth Argyle,Blackburn Rovers,2-1,2,1,Football League Second Division,2,H
+1968-02-17,1967/1968,Derby County,Queens Park Rangers,4-0,4,0,Football League Second Division,2,H
+1968-02-17,1967/1968,Charlton Athletic,Huddersfield Town,4-2,4,2,Football League Second Division,2,H
+1968-02-17,1967/1968,Watford,Bury,1-1,1,1,Football League Third Division,3,D
+1968-02-17,1967/1968,Shrewsbury Town,Gillingham,1-2,1,2,Football League Third Division,3,A
+1968-02-17,1967/1968,Stockport County,Northampton Town,4-0,4,0,Football League Third Division,3,H
+1968-02-17,1967/1968,Scunthorpe United,Barrow,2-4,2,4,Football League Third Division,3,A
+1968-02-17,1967/1968,Peterborough United,Colchester United,3-1,3,1,Football League Third Division,3,H
+1968-02-17,1967/1968,Mansfield Town,AFC Bournemouth,1-1,1,1,Football League Third Division,3,D
+1968-02-17,1967/1968,Bristol Rovers,Oldham Athletic,4-3,4,3,Football League Third Division,3,H
+1968-02-17,1967/1968,Torquay United,Reading,2-1,2,1,Football League Third Division,3,H
+1968-02-23,1967/1968,Carlisle United,Portsmouth,1-1,1,1,Football League Second Division,2,D
+1968-02-23,1967/1968,Tranmere Rovers,Mansfield Town,1-1,1,1,Football League Third Division,3,D
+1968-02-23,1967/1968,Stockport County,Peterborough United,2-2,2,2,Football League Third Division,3,D
+1968-02-24,1967/1968,Arsenal,Manchester United,0-2,0,2,Football League First Division,1,A
+1968-02-24,1967/1968,Coventry City,Sheffield Wednesday,3-0,3,0,Football League First Division,1,H
+1968-02-24,1967/1968,Liverpool,Leicester City,3-1,3,1,Football League First Division,1,H
+1968-02-24,1967/1968,Manchester City,Sunderland,1-0,1,0,Football League First Division,1,H
+1968-02-24,1967/1968,Newcastle United,Wolverhampton Wanderers,2-0,2,0,Football League First Division,1,H
+1968-02-24,1967/1968,West Bromwich Albion,Fulham,2-1,2,1,Football League First Division,1,H
+1968-02-24,1967/1968,Nottingham Forest,Burnley,1-0,1,0,Football League First Division,1,H
+1968-02-24,1967/1968,Bradford Park Avenue,Aldershot,1-1,1,1,Football League Fourth Division,4,D
+1968-02-24,1967/1968,Barnsley,Crewe Alexandra,3-1,3,1,Football League Fourth Division,4,H
+1968-02-24,1967/1968,York City,Chesterfield,0-2,0,2,Football League Fourth Division,4,A
+1968-02-24,1967/1968,Southend United,Halifax Town,2-2,2,2,Football League Fourth Division,4,D
+1968-02-24,1967/1968,Doncaster Rovers,Workington,3-0,3,0,Football League Fourth Division,4,H
+1968-02-24,1967/1968,Hartlepool United,Port Vale,2-2,2,2,Football League Fourth Division,4,D
+1968-02-24,1967/1968,Luton Town,Lincoln City,4-2,4,2,Football League Fourth Division,4,H
+1968-02-24,1967/1968,Newport County,Chester,1-1,1,1,Football League Fourth Division,4,D
+1968-02-24,1967/1968,Rochdale,Exeter City,2-2,2,2,Football League Fourth Division,4,D
+1968-02-24,1967/1968,Swansea City,Notts County,2-0,2,0,Football League Fourth Division,4,H
+1968-02-24,1967/1968,Wrexham,Bradford City,0-2,0,2,Football League Fourth Division,4,A
+1968-02-24,1967/1968,Brentford,Darlington,2-0,2,0,Football League Fourth Division,4,H
+1968-02-24,1967/1968,Blackpool,Rotherham United,1-1,1,1,Football League Second Division,2,D
+1968-02-24,1967/1968,Birmingham City,Aston Villa,2-1,2,1,Football League Second Division,2,H
+1968-02-24,1967/1968,Bolton Wanderers,Queens Park Rangers,1-1,1,1,Football League Second Division,2,D
+1968-02-24,1967/1968,Bristol City,Crystal Palace,2-1,2,1,Football League Second Division,2,H
+1968-02-24,1967/1968,Huddersfield Town,Plymouth Argyle,0-1,0,1,Football League Second Division,2,A
+1968-02-24,1967/1968,Hull City,Preston North End,1-1,1,1,Football League Second Division,2,D
+1968-02-24,1967/1968,Ipswich Town,Cardiff City,4-2,4,2,Football League Second Division,2,H
+1968-02-24,1967/1968,Middlesbrough,Charlton Athletic,1-1,1,1,Football League Second Division,2,D
+1968-02-24,1967/1968,Millwall,Derby County,1-1,1,1,Football League Second Division,2,D
+1968-02-24,1967/1968,Blackburn Rovers,Norwich City,0-0,0,0,Football League Second Division,2,D
+1968-02-24,1967/1968,Shrewsbury Town,AFC Bournemouth,1-0,1,0,Football League Third Division,3,H
+1968-02-24,1967/1968,Swindon Town,Bury,2-3,2,3,Football League Third Division,3,A
+1968-02-24,1967/1968,Reading,Oxford United,1-1,1,1,Football League Third Division,3,D
+1968-02-24,1967/1968,Torquay United,Barrow,0-2,0,2,Football League Third Division,3,A
+1968-02-24,1967/1968,Walsall,Scunthorpe United,0-0,0,0,Football League Third Division,3,D
+1968-02-24,1967/1968,Northampton Town,Southport,1-1,1,1,Football League Third Division,3,D
+1968-02-24,1967/1968,Leyton Orient,Watford,0-1,0,1,Football League Third Division,3,A
+1968-02-24,1967/1968,Gillingham,Oldham Athletic,1-0,1,0,Football League Third Division,3,H
+1968-02-24,1967/1968,Grimsby Town,Bristol Rovers,3-2,3,2,Football League Third Division,3,H
+1968-02-24,1967/1968,Brighton & Hove Albion,Colchester United,0-0,0,0,Football League Third Division,3,D
+1968-02-26,1967/1968,Sheffield United,Tottenham Hotspur,3-2,3,2,Football League First Division,1,H
+1968-02-26,1967/1968,Southampton,Everton,3-2,3,2,Football League First Division,1,H
+1968-02-26,1967/1968,Stoke City,West Ham United,2-0,2,0,Football League First Division,1,H
+1968-02-26,1967/1968,Luton Town,Darlington,3-1,3,1,Football League Fourth Division,4,H
+1968-02-26,1967/1968,Colchester United,Scunthorpe United,1-0,1,0,Football League Third Division,3,H
+1968-02-27,1967/1968,Newport County,Doncaster Rovers,2-1,2,1,Football League Fourth Division,4,H
+1968-02-27,1967/1968,Bristol City,Aston Villa,0-0,0,0,Football League Second Division,2,D
+1968-02-27,1967/1968,Swindon Town,Grimsby Town,5-0,5,0,Football League Third Division,3,H
+1968-02-27,1967/1968,Bury,Bristol Rovers,4-2,4,2,Football League Third Division,3,H
+1968-02-28,1967/1968,Fulham,Sheffield Wednesday,2-0,2,0,Football League First Division,1,H
+1968-02-28,1967/1968,Brighton & Hove Albion,Walsall,1-0,1,0,Football League Third Division,3,H
+1968-03-01,1967/1968,Tottenham Hotspur,West Bromwich Albion,0-0,0,0,Football League First Division,1,D
+1968-03-01,1967/1968,Charlton Athletic,Blackburn Rovers,3-0,3,0,Football League Second Division,2,H
+1968-03-01,1967/1968,Southport,Leyton Orient,0-0,0,0,Football League Third Division,3,D
+1968-03-01,1967/1968,Watford,Tranmere Rovers,3-2,3,2,Football League Third Division,3,H
+1968-03-02,1967/1968,Burnley,Manchester City,0-1,0,1,Football League First Division,1,A
+1968-03-02,1967/1968,Everton,Coventry City,3-1,3,1,Football League First Division,1,H
+1968-03-02,1967/1968,Leicester City,Sheffield United,3-1,3,1,Football League First Division,1,H
+1968-03-02,1967/1968,Manchester United,Chelsea,1-3,1,3,Football League First Division,1,A
+1968-03-02,1967/1968,Sheffield Wednesday,Newcastle United,1-1,1,1,Football League First Division,1,D
+1968-03-02,1967/1968,Sunderland,Southampton,0-3,0,3,Football League First Division,1,A
+1968-03-02,1967/1968,Wolverhampton Wanderers,Liverpool,1-1,1,1,Football League First Division,1,D
+1968-03-02,1967/1968,Workington,Swansea City,3-1,3,1,Football League Fourth Division,4,H
+1968-03-02,1967/1968,Aldershot,Barnsley,1-1,1,1,Football League Fourth Division,4,D
+1968-03-02,1967/1968,Bradford City,York City,0-0,0,0,Football League Fourth Division,4,D
+1968-03-02,1967/1968,Darlington,Wrexham,1-1,1,1,Football League Fourth Division,4,D
+1968-03-02,1967/1968,Chesterfield,Luton Town,0-0,0,0,Football League Fourth Division,4,D
+1968-03-02,1967/1968,Crewe Alexandra,Rochdale,2-1,2,1,Football League Fourth Division,4,H
+1968-03-02,1967/1968,Exeter City,Southend United,0-2,0,2,Football League Fourth Division,4,A
+1968-03-02,1967/1968,Halifax Town,Newport County,4-1,4,1,Football League Fourth Division,4,H
+1968-03-02,1967/1968,Lincoln City,Hartlepool United,1-2,1,2,Football League Fourth Division,4,A
+1968-03-02,1967/1968,Notts County,Brentford,2-1,2,1,Football League Fourth Division,4,H
+1968-03-02,1967/1968,Port Vale,Bradford Park Avenue,4-0,4,0,Football League Fourth Division,4,H
+1968-03-02,1967/1968,Chester,Doncaster Rovers,2-3,2,3,Football League Fourth Division,4,A
+1968-03-02,1967/1968,Plymouth Argyle,Middlesbrough,0-1,0,1,Football League Second Division,2,A
+1968-03-02,1967/1968,Aston Villa,Millwall,3-1,3,1,Football League Second Division,2,H
+1968-03-02,1967/1968,Crystal Palace,Blackpool,3-1,3,1,Football League Second Division,2,H
+1968-03-02,1967/1968,Derby County,Ipswich Town,2-3,2,3,Football League Second Division,2,A
+1968-03-02,1967/1968,Norwich City,Bolton Wanderers,3-1,3,1,Football League Second Division,2,H
+1968-03-02,1967/1968,Portsmouth,Birmingham City,1-2,1,2,Football League Second Division,2,A
+1968-03-02,1967/1968,Preston North End,Carlisle United,0-2,0,2,Football League Second Division,2,A
+1968-03-02,1967/1968,Rotherham United,Huddersfield Town,1-0,1,0,Football League Second Division,2,H
+1968-03-02,1967/1968,Cardiff City,Bristol City,0-1,0,1,Football League Second Division,2,A
+1968-03-02,1967/1968,Colchester United,Shrewsbury Town,0-3,0,3,Football League Third Division,3,A
+1968-03-02,1967/1968,Scunthorpe United,Northampton Town,1-1,1,1,Football League Third Division,3,D
+1968-03-02,1967/1968,Mansfield Town,Stockport County,1-0,1,0,Football League Third Division,3,H
+1968-03-02,1967/1968,Oxford United,Torquay United,2-0,2,0,Football League Third Division,3,H
+1968-03-02,1967/1968,Oldham Athletic,Walsall,0-3,0,3,Football League Third Division,3,A
+1968-03-02,1967/1968,Peterborough United,Brighton & Hove Albion,2-3,2,3,Football League Third Division,3,A
+1968-03-02,1967/1968,Bury,Reading,2-0,2,0,Football League Third Division,3,H
+1968-03-02,1967/1968,Barrow,Grimsby Town,2-0,2,0,Football League Third Division,3,H
+1968-03-02,1967/1968,Bristol Rovers,Gillingham,1-1,1,1,Football League Third Division,3,D
+1968-03-02,1967/1968,AFC Bournemouth,Swindon Town,2-1,2,1,Football League Third Division,3,H
+1968-03-04,1967/1968,Darlington,Swansea City,2-0,2,0,Football League Fourth Division,4,H
+1968-03-05,1967/1968,Halifax Town,Crewe Alexandra,0-1,0,1,Football League Fourth Division,4,A
+1968-03-05,1967/1968,Barnsley,Wrexham,2-2,2,2,Football League Fourth Division,4,D
+1968-03-05,1967/1968,Charlton Athletic,Crystal Palace,0-1,0,1,Football League Second Division,2,A
+1968-03-05,1967/1968,Shrewsbury Town,Tranmere Rovers,1-1,1,1,Football League Third Division,3,D
+1968-03-08,1967/1968,Southampton,Fulham,2-1,2,1,Football League First Division,1,H
+1968-03-08,1967/1968,Doncaster Rovers,Notts County,3-1,3,1,Football League Fourth Division,4,H
+1968-03-08,1967/1968,Southend United,Chester,5-1,5,1,Football League Fourth Division,4,H
+1968-03-09,1967/1968,Wolverhampton Wanderers,Sunderland,2-1,2,1,Football League First Division,1,H
+1968-03-09,1967/1968,Manchester City,Coventry City,3-1,3,1,Football League First Division,1,H
+1968-03-09,1967/1968,York City,Lincoln City,1-0,1,0,Football League Fourth Division,4,H
+1968-03-09,1967/1968,Bradford City,Brentford,2-3,2,3,Football League Fourth Division,4,A
+1968-03-09,1967/1968,Chesterfield,Wrexham,3-1,3,1,Football League Fourth Division,4,H
+1968-03-09,1967/1968,Halifax Town,Rochdale,2-0,2,0,Football League Fourth Division,4,H
+1968-03-09,1967/1968,Exeter City,Barnsley,2-0,2,0,Football League Fourth Division,4,H
+1968-03-09,1967/1968,Hartlepool United,Aldershot,1-0,1,0,Football League Fourth Division,4,H
+1968-03-09,1967/1968,Luton Town,Port Vale,2-0,2,0,Football League Fourth Division,4,H
+1968-03-09,1967/1968,Swansea City,Darlington,0-1,0,1,Football League Fourth Division,4,A
+1968-03-09,1967/1968,Workington,Newport County,1-1,1,1,Football League Fourth Division,4,D
+1968-03-09,1967/1968,Crewe Alexandra,Bradford Park Avenue,4-0,4,0,Football League Fourth Division,4,H
+1968-03-09,1967/1968,Blackburn Rovers,Charlton Athletic,3-2,3,2,Football League Second Division,2,H
+1968-03-09,1967/1968,Bolton Wanderers,Ipswich Town,1-2,1,2,Football League Second Division,2,A
+1968-03-09,1967/1968,Derby County,Norwich City,1-1,1,1,Football League Second Division,2,D
+1968-03-09,1967/1968,Middlesbrough,Cardiff City,2-3,2,3,Football League Second Division,2,A
+1968-03-09,1967/1968,Queens Park Rangers,Hull City,1-1,1,1,Football League Second Division,2,D
+1968-03-09,1967/1968,Plymouth Argyle,Blackpool,2-2,2,2,Football League Second Division,2,D
+1968-03-09,1967/1968,Scunthorpe United,Colchester United,5-1,5,1,Football League Third Division,3,H
+1968-03-09,1967/1968,Shrewsbury Town,Swindon Town,0-1,0,1,Football League Third Division,3,A
+1968-03-09,1967/1968,Torquay United,Stockport County,3-0,3,0,Football League Third Division,3,H
+1968-03-09,1967/1968,Reading,Brighton & Hove Albion,1-0,1,0,Football League Third Division,3,H
+1968-03-09,1967/1968,Bristol Rovers,Bury,3-1,3,1,Football League Third Division,3,H
+1968-03-09,1967/1968,Northampton Town,Walsall,3-0,3,0,Football League Third Division,3,H
+1968-03-09,1967/1968,Peterborough United,Southport,1-0,1,0,Football League Third Division,3,H
+1968-03-09,1967/1968,AFC Bournemouth,Oldham Athletic,0-0,0,0,Football League Third Division,3,D
+1968-03-09,1967/1968,Barrow,Oxford United,3-0,3,0,Football League Third Division,3,H
+1968-03-09,1967/1968,Gillingham,Leyton Orient,2-3,2,3,Football League Third Division,3,A
+1968-03-09,1967/1968,Mansfield Town,Watford,1-2,1,2,Football League Third Division,3,A
+1968-03-11,1967/1968,Mansfield Town,Bristol Rovers,3-0,3,0,Football League Third Division,3,H
+1968-03-12,1967/1968,Swindon Town,Leyton Orient,4-0,4,0,Football League Third Division,3,H
+1968-03-12,1967/1968,Oldham Athletic,AFC Bournemouth,1-1,1,1,Football League Third Division,3,D
+1968-03-13,1967/1968,Fulham,Sheffield United,0-1,0,1,Football League First Division,1,A
+1968-03-13,1967/1968,Leeds United,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1968-03-13,1967/1968,West Bromwich Albion,Stoke City,3-0,3,0,Football League First Division,1,H
+1968-03-13,1967/1968,Aldershot,Chesterfield,3-0,3,0,Football League Fourth Division,4,H
+1968-03-13,1967/1968,Blackburn Rovers,Aston Villa,2-1,2,1,Football League Second Division,2,H
+1968-03-13,1967/1968,Grimsby Town,Gillingham,1-1,1,1,Football League Third Division,3,D
+1968-03-15,1967/1968,Southend United,Darlington,2-2,2,2,Football League Fourth Division,4,D
+1968-03-15,1967/1968,Hartlepool United,Halifax Town,0-0,0,0,Football League Fourth Division,4,D
+1968-03-15,1967/1968,Doncaster Rovers,Chesterfield,1-0,1,0,Football League Fourth Division,4,H
+1968-03-15,1967/1968,Stockport County,Watford,2-0,2,0,Football League Third Division,3,H
+1968-03-15,1967/1968,Tranmere Rovers,Southport,0-2,0,2,Football League Third Division,3,A
+1968-03-16,1967/1968,Arsenal,Wolverhampton Wanderers,0-2,0,2,Football League First Division,1,A
+1968-03-16,1967/1968,Chelsea,Leicester City,4-1,4,1,Football League First Division,1,H
+1968-03-16,1967/1968,Coventry City,Manchester United,2-0,2,0,Football League First Division,1,H
+1968-03-16,1967/1968,Liverpool,Burnley,3-2,3,2,Football League First Division,1,H
+1968-03-16,1967/1968,Manchester City,Fulham,5-1,5,1,Football League First Division,1,H
+1968-03-16,1967/1968,Newcastle United,Leeds United,1-1,1,1,Football League First Division,1,D
+1968-03-16,1967/1968,Nottingham Forest,Tottenham Hotspur,0-0,0,0,Football League First Division,1,D
+1968-03-16,1967/1968,Southampton,West Ham United,0-0,0,0,Football League First Division,1,D
+1968-03-16,1967/1968,Sheffield United,Sunderland,1-2,1,2,Football League First Division,1,A
+1968-03-16,1967/1968,West Bromwich Albion,Everton,2-6,2,6,Football League First Division,1,A
+1968-03-16,1967/1968,Stoke City,Sheffield Wednesday,0-1,0,1,Football League First Division,1,A
+1968-03-16,1967/1968,Barnsley,Workington,2-1,2,1,Football League Fourth Division,4,H
+1968-03-16,1967/1968,Brentford,Port Vale,3-1,3,1,Football League Fourth Division,4,H
+1968-03-16,1967/1968,Luton Town,Exeter City,0-0,0,0,Football League Fourth Division,4,D
+1968-03-16,1967/1968,Newport County,Bradford City,0-3,0,3,Football League Fourth Division,4,A
+1968-03-16,1967/1968,Rochdale,Notts County,0-0,0,0,Football League Fourth Division,4,D
+1968-03-16,1967/1968,Swansea City,Lincoln City,2-2,2,2,Football League Fourth Division,4,D
+1968-03-16,1967/1968,Wrexham,Aldershot,2-1,2,1,Football League Fourth Division,4,H
+1968-03-16,1967/1968,York City,Crewe Alexandra,1-1,1,1,Football League Fourth Division,4,D
+1968-03-16,1967/1968,Bradford Park Avenue,Chester,0-2,0,2,Football League Fourth Division,4,A
+1968-03-16,1967/1968,Millwall,Queens Park Rangers,1-1,1,1,Football League Second Division,2,D
+1968-03-16,1967/1968,Hull City,Plymouth Argyle,0-2,0,2,Football League Second Division,2,A
+1968-03-16,1967/1968,Ipswich Town,Preston North End,4-0,4,0,Football League Second Division,2,H
+1968-03-16,1967/1968,Birmingham City,Norwich City,0-0,0,0,Football League Second Division,2,D
+1968-03-16,1967/1968,Blackburn Rovers,Crystal Palace,2-1,2,1,Football League Second Division,2,H
+1968-03-16,1967/1968,Blackpool,Aston Villa,1-0,1,0,Football League Second Division,2,H
+1968-03-16,1967/1968,Bolton Wanderers,Rotherham United,0-2,0,2,Football League Second Division,2,A
+1968-03-16,1967/1968,Bristol City,Portsmouth,3-0,3,0,Football League Second Division,2,H
+1968-03-16,1967/1968,Carlisle United,Charlton Athletic,0-0,0,0,Football League Second Division,2,D
+1968-03-16,1967/1968,Huddersfield Town,Derby County,3-1,3,1,Football League Second Division,2,H
+1968-03-16,1967/1968,Gillingham,Barrow,3-0,3,0,Football League Third Division,3,H
+1968-03-16,1967/1968,Grimsby Town,Oxford United,0-1,0,1,Football League Third Division,3,A
+1968-03-16,1967/1968,Northampton Town,Oldham Athletic,1-2,1,2,Football League Third Division,3,A
+1968-03-16,1967/1968,Reading,AFC Bournemouth,1-0,1,0,Football League Third Division,3,H
+1968-03-16,1967/1968,Shrewsbury Town,Peterborough United,1-1,1,1,Football League Third Division,3,D
+1968-03-16,1967/1968,Swindon Town,Colchester United,1-1,1,1,Football League Third Division,3,D
+1968-03-16,1967/1968,Torquay United,Bury,3-0,3,0,Football League Third Division,3,H
+1968-03-16,1967/1968,Walsall,Bristol Rovers,2-1,2,1,Football League Third Division,3,H
+1968-03-16,1967/1968,Brighton & Hove Albion,Mansfield Town,3-0,3,0,Football League Third Division,3,H
+1968-03-16,1967/1968,Leyton Orient,Scunthorpe United,2-1,2,1,Football League Third Division,3,H
+1968-03-18,1967/1968,Rochdale,Brentford,1-1,1,1,Football League Fourth Division,4,D
+1968-03-18,1967/1968,Wrexham,Chesterfield,3-0,3,0,Football League Fourth Division,4,H
+1968-03-18,1967/1968,Preston North End,Aston Villa,2-1,2,1,Football League Second Division,2,H
+1968-03-19,1967/1968,Wolverhampton Wanderers,Sheffield Wednesday,2-3,2,3,Football League First Division,1,A
+1968-03-19,1967/1968,Nottingham Forest,Leicester City,2-1,2,1,Football League First Division,1,H
+1968-03-19,1967/1968,Swansea City,Southend United,2-2,2,2,Football League Fourth Division,4,D
+1968-03-19,1967/1968,Rotherham United,Plymouth Argyle,1-0,1,0,Football League Second Division,2,H
+1968-03-19,1967/1968,Swindon Town,Shrewsbury Town,0-0,0,0,Football League Third Division,3,D
+1968-03-19,1967/1968,Northampton Town,Stockport County,4-1,4,1,Football League Third Division,3,H
+1968-03-19,1967/1968,Watford,Mansfield Town,1-2,1,2,Football League Third Division,3,A
+1968-03-20,1967/1968,Chelsea,Leeds United,0-0,0,0,Football League First Division,1,D
+1968-03-20,1967/1968,Aldershot,Luton Town,0-1,0,1,Football League Fourth Division,4,A
+1968-03-20,1967/1968,Brighton & Hove Albion,Reading,1-1,1,1,Football League Third Division,3,D
+1968-03-20,1967/1968,Grimsby Town,Tranmere Rovers,3-0,3,0,Football League Third Division,3,H
+1968-03-22,1967/1968,Cardiff City,Hull City,2-3,2,3,Football League Second Division,2,A
+1968-03-22,1967/1968,Scunthorpe United,Tranmere Rovers,1-1,1,1,Football League Third Division,3,D
+1968-03-22,1967/1968,Southport,Stockport County,4-3,4,3,Football League Third Division,3,H
+1968-03-23,1967/1968,Burnley,Southampton,2-0,2,0,Football League First Division,1,H
+1968-03-23,1967/1968,Everton,Newcastle United,1-0,1,0,Football League First Division,1,H
+1968-03-23,1967/1968,Fulham,Arsenal,1-3,1,3,Football League First Division,1,A
+1968-03-23,1967/1968,Leeds United,Manchester City,2-0,2,0,Football League First Division,1,H
+1968-03-23,1967/1968,Leicester City,West Bromwich Albion,2-3,2,3,Football League First Division,1,A
+1968-03-23,1967/1968,Manchester United,Nottingham Forest,3-0,3,0,Football League First Division,1,H
+1968-03-23,1967/1968,Sheffield Wednesday,Liverpool,1-2,1,2,Football League First Division,1,A
+1968-03-23,1967/1968,Tottenham Hotspur,Stoke City,3-0,3,0,Football League First Division,1,H
+1968-03-23,1967/1968,West Ham United,Chelsea,0-1,0,1,Football League First Division,1,A
+1968-03-23,1967/1968,Sunderland,Coventry City,1-1,1,1,Football League First Division,1,D
+1968-03-23,1967/1968,Wolverhampton Wanderers,Sheffield United,1-3,1,3,Football League First Division,1,A
+1968-03-23,1967/1968,Aldershot,Southend United,1-3,1,3,Football League Fourth Division,4,A
+1968-03-23,1967/1968,Darlington,Luton Town,1-2,1,2,Football League Fourth Division,4,A
+1968-03-23,1967/1968,Chester,Brentford,3-0,3,0,Football League Fourth Division,4,H
+1968-03-23,1967/1968,Chesterfield,Bradford Park Avenue,2-0,2,0,Football League Fourth Division,4,H
+1968-03-23,1967/1968,Crewe Alexandra,Newport County,1-1,1,1,Football League Fourth Division,4,D
+1968-03-23,1967/1968,Exeter City,Doncaster Rovers,0-1,0,1,Football League Fourth Division,4,A
+1968-03-23,1967/1968,Lincoln City,Barnsley,0-1,0,1,Football League Fourth Division,4,A
+1968-03-23,1967/1968,Notts County,York City,1-1,1,1,Football League Fourth Division,4,D
+1968-03-23,1967/1968,Port Vale,Rochdale,1-1,1,1,Football League Fourth Division,4,D
+1968-03-23,1967/1968,Workington,Wrexham,1-2,1,2,Football League Fourth Division,4,A
+1968-03-23,1967/1968,Bradford City,Hartlepool United,1-1,1,1,Football League Fourth Division,4,D
+1968-03-23,1967/1968,Queens Park Rangers,Blackpool,2-0,2,0,Football League Second Division,2,H
+1968-03-23,1967/1968,Rotherham United,Birmingham City,1-1,1,1,Football League Second Division,2,D
+1968-03-23,1967/1968,Aston Villa,Blackburn Rovers,1-2,1,2,Football League Second Division,2,A
+1968-03-23,1967/1968,Charlton Athletic,Ipswich Town,0-1,0,1,Football League Second Division,2,A
+1968-03-23,1967/1968,Crystal Palace,Carlisle United,1-1,1,1,Football League Second Division,2,D
+1968-03-23,1967/1968,Derby County,Bolton Wanderers,2-1,2,1,Football League Second Division,2,H
+1968-03-23,1967/1968,Norwich City,Bristol City,3-2,3,2,Football League Second Division,2,H
+1968-03-23,1967/1968,Plymouth Argyle,Millwall,2-1,2,1,Football League Second Division,2,H
+1968-03-23,1967/1968,Portsmouth,Middlesbrough,2-0,2,0,Football League Second Division,2,H
+1968-03-23,1967/1968,Preston North End,Huddersfield Town,3-1,3,1,Football League Second Division,2,H
+1968-03-23,1967/1968,Watford,Brighton & Hove Albion,4-0,4,0,Football League Third Division,3,H
+1968-03-23,1967/1968,Bury,Grimsby Town,2-0,2,0,Football League Third Division,3,H
+1968-03-23,1967/1968,Colchester United,Reading,2-5,2,5,Football League Third Division,3,A
+1968-03-23,1967/1968,Mansfield Town,Shrewsbury Town,0-1,0,1,Football League Third Division,3,A
+1968-03-23,1967/1968,Oldham Athletic,Leyton Orient,2-2,2,2,Football League Third Division,3,D
+1968-03-23,1967/1968,Oxford United,Gillingham,3-0,3,0,Football League Third Division,3,H
+1968-03-23,1967/1968,Bristol Rovers,Northampton Town,2-0,2,0,Football League Third Division,3,H
+1968-03-23,1967/1968,Peterborough United,Swindon Town,1-1,1,1,Football League Third Division,3,D
+1968-03-23,1967/1968,Barrow,Walsall,1-1,1,1,Football League Third Division,3,D
+1968-03-23,1967/1968,AFC Bournemouth,Torquay United,1-1,1,1,Football League Third Division,3,D
+1968-03-25,1967/1968,York City,Bradford Park Avenue,6-2,6,2,Football League Fourth Division,4,H
+1968-03-25,1967/1968,Port Vale,Exeter City,1-0,1,0,Football League Fourth Division,4,H
+1968-03-25,1967/1968,Colchester United,Oxford United,1-2,1,2,Football League Third Division,3,A
+1968-03-25,1967/1968,Tranmere Rovers,Leyton Orient,3-0,3,0,Football League Third Division,3,H
+1968-03-27,1967/1968,Manchester United,Manchester City,1-3,1,3,Football League First Division,1,A
+1968-03-27,1967/1968,Crewe Alexandra,Aldershot,1-1,1,1,Football League Fourth Division,4,D
+1968-03-29,1967/1968,West Ham United,Arsenal,1-1,1,1,Football League First Division,1,D
+1968-03-29,1967/1968,Doncaster Rovers,Darlington,2-1,2,1,Football League Fourth Division,4,H
+1968-03-29,1967/1968,Southend United,Workington,7-0,7,0,Football League Fourth Division,4,H
+1968-03-29,1967/1968,Bristol City,Rotherham United,0-1,0,1,Football League Second Division,2,A
+1968-03-29,1967/1968,Stockport County,Scunthorpe United,4-1,4,1,Football League Third Division,3,H
+1968-03-29,1967/1968,Tranmere Rovers,Oldham Athletic,1-0,1,0,Football League Third Division,3,H
+1968-03-29,1967/1968,Walsall,Oxford United,0-1,0,1,Football League Third Division,3,A
+1968-03-30,1967/1968,Nottingham Forest,Sunderland,0-3,0,3,Football League First Division,1,A
+1968-03-30,1967/1968,Southampton,Sheffield Wednesday,2-0,2,0,Football League First Division,1,H
+1968-03-30,1967/1968,Stoke City,Manchester United,2-4,2,4,Football League First Division,1,A
+1968-03-30,1967/1968,Tottenham Hotspur,Burnley,5-0,5,0,Football League First Division,1,H
+1968-03-30,1967/1968,Coventry City,Wolverhampton Wanderers,1-0,1,0,Football League First Division,1,H
+1968-03-30,1967/1968,Barnsley,Halifax Town,0-0,0,0,Football League Fourth Division,4,D
+1968-03-30,1967/1968,Bradford Park Avenue,Exeter City,0-1,0,1,Football League Fourth Division,4,A
+1968-03-30,1967/1968,Brentford,Chesterfield,1-1,1,1,Football League Fourth Division,4,D
+1968-03-30,1967/1968,Newport County,Notts County,1-0,1,0,Football League Fourth Division,4,H
+1968-03-30,1967/1968,Luton Town,Aldershot,3-1,3,1,Football League Fourth Division,4,H
+1968-03-30,1967/1968,Rochdale,Chester,1-1,1,1,Football League Fourth Division,4,D
+1968-03-30,1967/1968,Swansea City,Bradford City,0-0,0,0,Football League Fourth Division,4,D
+1968-03-30,1967/1968,Wrexham,Lincoln City,2-1,2,1,Football League Fourth Division,4,H
+1968-03-30,1967/1968,York City,Port Vale,5-1,5,1,Football League Fourth Division,4,H
+1968-03-30,1967/1968,Hartlepool United,Crewe Alexandra,1-1,1,1,Football League Fourth Division,4,D
+1968-03-30,1967/1968,Ipswich Town,Crystal Palace,2-2,2,2,Football League Second Division,2,D
+1968-03-30,1967/1968,Blackburn Rovers,Queens Park Rangers,0-1,0,1,Football League Second Division,2,A
+1968-03-30,1967/1968,Blackpool,Plymouth Argyle,2-0,2,0,Football League Second Division,2,H
+1968-03-30,1967/1968,Bolton Wanderers,Preston North End,0-0,0,0,Football League Second Division,2,D
+1968-03-30,1967/1968,Huddersfield Town,Charlton Athletic,4-1,4,1,Football League Second Division,2,H
+1968-03-30,1967/1968,Hull City,Portsmouth,1-1,1,1,Football League Second Division,2,D
+1968-03-30,1967/1968,Middlesbrough,Norwich City,2-0,2,0,Football League Second Division,2,H
+1968-03-30,1967/1968,Millwall,Cardiff City,3-1,3,1,Football League Second Division,2,H
+1968-03-30,1967/1968,Carlisle United,Aston Villa,1-2,1,2,Football League Second Division,2,A
+1968-03-30,1967/1968,Reading,Peterborough United,0-1,0,1,Football League Third Division,3,A
+1968-03-30,1967/1968,Shrewsbury Town,Watford,3-1,3,1,Football League Third Division,3,H
+1968-03-30,1967/1968,Swindon Town,Mansfield Town,1-1,1,1,Football League Third Division,3,D
+1968-03-30,1967/1968,Torquay United,Colchester United,3-0,3,0,Football League Third Division,3,H
+1968-03-30,1967/1968,Northampton Town,Barrow,3-0,3,0,Football League Third Division,3,H
+1968-03-30,1967/1968,Leyton Orient,Bristol Rovers,2-2,2,2,Football League Third Division,3,D
+1968-03-30,1967/1968,Gillingham,Bury,2-0,2,0,Football League Third Division,3,H
+1968-03-30,1967/1968,Grimsby Town,AFC Bournemouth,2-1,2,1,Football League Third Division,3,H
+1968-03-30,1967/1968,Brighton & Hove Albion,Southport,1-0,1,0,Football League Third Division,3,H
+1968-04-01,1967/1968,Darlington,Crewe Alexandra,0-0,0,0,Football League Fourth Division,4,D
+1968-04-01,1967/1968,Hartlepool United,Exeter City,3-1,3,1,Football League Fourth Division,4,H
+1968-04-01,1967/1968,Southport,Peterborough United,2-1,2,1,Football League Third Division,3,H
+1968-04-01,1967/1968,Torquay United,Leyton Orient,1-1,1,1,Football League Third Division,3,D
+1968-04-02,1967/1968,West Bromwich Albion,Sunderland,0-0,0,0,Football League First Division,1,D
+1968-04-02,1967/1968,Halifax Town,Swansea City,2-2,2,2,Football League Fourth Division,4,D
+1968-04-02,1967/1968,Birmingham City,Derby County,3-1,3,1,Football League Second Division,2,H
+1968-04-02,1967/1968,Bristol City,Bolton Wanderers,1-1,1,1,Football League Second Division,2,D
+1968-04-02,1967/1968,Walsall,Northampton Town,4-0,4,0,Football League Third Division,3,H
+1968-04-03,1967/1968,Newcastle United,Leicester City,0-0,0,0,Football League First Division,1,D
+1968-04-03,1967/1968,Chester,Chesterfield,3-0,3,0,Football League Fourth Division,4,H
+1968-04-03,1967/1968,Blackburn Rovers,Blackpool,2-1,2,1,Football League Second Division,2,H
+1968-04-03,1967/1968,Oxford United,Barrow,3-1,3,1,Football League Third Division,3,H
+1968-04-05,1967/1968,Southport,Shrewsbury Town,0-0,0,0,Football League Third Division,3,D
+1968-04-06,1967/1968,Sunderland,Stoke City,3-1,3,1,Football League First Division,1,H
+1968-04-06,1967/1968,Burnley,West Bromwich Albion,0-0,0,0,Football League First Division,1,D
+1968-04-06,1967/1968,Everton,Arsenal,2-0,2,0,Football League First Division,1,H
+1968-04-06,1967/1968,Leeds United,Sheffield United,3-0,3,0,Football League First Division,1,H
+1968-04-06,1967/1968,Leicester City,Manchester City,1-0,1,0,Football League First Division,1,H
+1968-04-06,1967/1968,Manchester United,Liverpool,1-2,1,2,Football League First Division,1,A
+1968-04-06,1967/1968,Sheffield Wednesday,Chelsea,2-2,2,2,Football League First Division,1,D
+1968-04-06,1967/1968,Tottenham Hotspur,Southampton,6-1,6,1,Football League First Division,1,H
+1968-04-06,1967/1968,West Ham United,Newcastle United,5-0,5,0,Football League First Division,1,H
+1968-04-06,1967/1968,Fulham,Coventry City,1-1,1,1,Football League First Division,1,D
+1968-04-06,1967/1968,Wolverhampton Wanderers,Nottingham Forest,6-1,6,1,Football League First Division,1,H
+1968-04-06,1967/1968,Aldershot,Doncaster Rovers,2-1,2,1,Football League Fourth Division,4,H
+1968-04-06,1967/1968,Bradford City,Barnsley,1-0,1,0,Football League Fourth Division,4,H
+1968-04-06,1967/1968,Chesterfield,Rochdale,0-2,0,2,Football League Fourth Division,4,A
+1968-04-06,1967/1968,Workington,Luton Town,0-1,0,1,Football League Fourth Division,4,A
+1968-04-06,1967/1968,Crewe Alexandra,Swansea City,2-0,2,0,Football League Fourth Division,4,H
+1968-04-06,1967/1968,Darlington,Bradford Park Avenue,0-0,0,0,Football League Fourth Division,4,D
+1968-04-06,1967/1968,Exeter City,Brentford,0-3,0,3,Football League Fourth Division,4,A
+1968-04-06,1967/1968,Halifax Town,Wrexham,2-2,2,2,Football League Fourth Division,4,D
+1968-04-06,1967/1968,Lincoln City,Southend United,4-2,4,2,Football League Fourth Division,4,H
+1968-04-06,1967/1968,Notts County,Hartlepool United,0-3,0,3,Football League Fourth Division,4,A
+1968-04-06,1967/1968,Port Vale,Newport County,0-1,0,1,Football League Fourth Division,4,A
+1968-04-06,1967/1968,Chester,York City,1-1,1,1,Football League Fourth Division,4,D
+1968-04-06,1967/1968,Rotherham United,Middlesbrough,0-1,0,1,Football League Second Division,2,A
+1968-04-06,1967/1968,Aston Villa,Ipswich Town,2-2,2,2,Football League Second Division,2,D
+1968-04-06,1967/1968,Cardiff City,Blackpool,1-3,1,3,Football League Second Division,2,A
+1968-04-06,1967/1968,Charlton Athletic,Bolton Wanderers,2-0,2,0,Football League Second Division,2,H
+1968-04-06,1967/1968,Crystal Palace,Huddersfield Town,0-1,0,1,Football League Second Division,2,A
+1968-04-06,1967/1968,Derby County,Bristol City,3-1,3,1,Football League Second Division,2,H
+1968-04-06,1967/1968,Norwich City,Hull City,2-2,2,2,Football League Second Division,2,D
+1968-04-06,1967/1968,Portsmouth,Millwall,0-0,0,0,Football League Second Division,2,D
+1968-04-06,1967/1968,Preston North End,Birmingham City,0-0,0,0,Football League Second Division,2,D
+1968-04-06,1967/1968,Queens Park Rangers,Carlisle United,1-0,1,0,Football League Second Division,2,H
+1968-04-06,1967/1968,Bury,Walsall,2-1,2,1,Football League Third Division,3,H
+1968-04-06,1967/1968,Colchester United,Grimsby Town,1-3,1,3,Football League Third Division,3,A
+1968-04-06,1967/1968,Mansfield Town,Reading,2-2,2,2,Football League Third Division,3,D
+1968-04-06,1967/1968,Oldham Athletic,Stockport County,4-1,4,1,Football League Third Division,3,H
+1968-04-06,1967/1968,Oxford United,Northampton Town,1-0,1,0,Football League Third Division,3,H
+1968-04-06,1967/1968,Peterborough United,Torquay United,2-0,2,0,Football League Third Division,3,H
+1968-04-06,1967/1968,Scunthorpe United,Brighton & Hove Albion,1-3,1,3,Football League Third Division,3,A
+1968-04-06,1967/1968,Watford,Swindon Town,2-0,2,0,Football League Third Division,3,H
+1968-04-06,1967/1968,Bristol Rovers,Tranmere Rovers,3-1,3,1,Football League Third Division,3,H
+1968-04-06,1967/1968,Barrow,Leyton Orient,1-0,1,0,Football League Third Division,3,H
+1968-04-06,1967/1968,AFC Bournemouth,Gillingham,4-0,4,0,Football League Third Division,3,H
+1968-04-08,1967/1968,Southend United,Doncaster Rovers,1-2,1,2,Football League Fourth Division,4,A
+1968-04-09,1967/1968,Everton,Leicester City,2-1,2,1,Football League First Division,1,H
+1968-04-10,1967/1968,Southampton,Arsenal,2-0,2,0,Football League First Division,1,H
+1968-04-12,1967/1968,Fulham,Manchester United,0-4,0,4,Football League First Division,1,A
+1968-04-12,1967/1968,West Ham United,Nottingham Forest,3-0,3,0,Football League First Division,1,H
+1968-04-12,1967/1968,Tottenham Hotspur,Leeds United,2-1,2,1,Football League First Division,1,H
+1968-04-12,1967/1968,Newcastle United,West Bromwich Albion,2-2,2,2,Football League First Division,1,D
+1968-04-12,1967/1968,Manchester City,Chelsea,1-0,1,0,Football League First Division,1,H
+1968-04-12,1967/1968,Liverpool,Sheffield United,1-2,1,2,Football League First Division,1,A
+1968-04-12,1967/1968,Wrexham,Bradford Park Avenue,3-0,3,0,Football League Fourth Division,4,H
+1968-04-12,1967/1968,Luton Town,Notts County,2-0,2,0,Football League Fourth Division,4,H
+1968-04-12,1967/1968,Hartlepool United,York City,1-0,1,0,Football League Fourth Division,4,H
+1968-04-12,1967/1968,Exeter City,Lincoln City,0-1,0,1,Football League Fourth Division,4,A
+1968-04-12,1967/1968,Darlington,Workington,1-0,1,0,Football League Fourth Division,4,H
+1968-04-12,1967/1968,Crewe Alexandra,Port Vale,1-1,1,1,Football League Fourth Division,4,D
+1968-04-12,1967/1968,Aldershot,Newport County,0-0,0,0,Football League Fourth Division,4,D
+1968-04-12,1967/1968,Queens Park Rangers,Cardiff City,1-0,1,0,Football League Second Division,2,H
+1968-04-12,1967/1968,Charlton Athletic,Rotherham United,4-1,4,1,Football League Second Division,2,H
+1968-04-12,1967/1968,Watford,Northampton Town,5-1,5,1,Football League Third Division,3,H
+1968-04-12,1967/1968,Tranmere Rovers,Peterborough United,0-1,0,1,Football League Third Division,3,A
+1968-04-12,1967/1968,Reading,Barrow,3-0,3,0,Football League Third Division,3,H
+1968-04-12,1967/1968,Oxford United,Swindon Town,0-0,0,0,Football League Third Division,3,D
+1968-04-12,1967/1968,Grimsby Town,Oldham Athletic,0-1,0,1,Football League Third Division,3,A
+1968-04-12,1967/1968,Bury,Shrewsbury Town,2-0,2,0,Football League Third Division,3,H
+1968-04-12,1967/1968,Bristol Rovers,Torquay United,1-0,1,0,Football League Third Division,3,H
+1968-04-12,1967/1968,AFC Bournemouth,Brighton & Hove Albion,2-2,2,2,Football League Third Division,3,D
+1968-04-12,1967/1968,Colchester United,Stockport County,1-1,1,1,Football League Third Division,3,D
+1968-04-13,1967/1968,Arsenal,Leicester City,2-1,2,1,Football League First Division,1,H
+1968-04-13,1967/1968,Chelsea,Tottenham Hotspur,2-0,2,0,Football League First Division,1,H
+1968-04-13,1967/1968,Liverpool,Sunderland,2-1,2,1,Football League First Division,1,H
+1968-04-13,1967/1968,Manchester City,West Ham United,3-0,3,0,Football League First Division,1,H
+1968-04-13,1967/1968,Newcastle United,Burnley,1-0,1,0,Football League First Division,1,H
+1968-04-13,1967/1968,Nottingham Forest,Fulham,2-2,2,2,Football League First Division,1,D
+1968-04-13,1967/1968,Sheffield United,Everton,0-1,0,1,Football League First Division,1,A
+1968-04-13,1967/1968,Southampton,Manchester United,2-2,2,2,Football League First Division,1,D
+1968-04-13,1967/1968,Stoke City,Wolverhampton Wanderers,0-2,0,2,Football League First Division,1,A
+1968-04-13,1967/1968,Coventry City,Leeds United,0-1,0,1,Football League First Division,1,A
+1968-04-13,1967/1968,West Bromwich Albion,Sheffield Wednesday,1-1,1,1,Football League First Division,1,D
+1968-04-13,1967/1968,Luton Town,Chester,0-0,0,0,Football League Fourth Division,4,D
+1968-04-13,1967/1968,Bradford Park Avenue,Notts County,1-4,1,4,Football League Fourth Division,4,A
+1968-04-13,1967/1968,Brentford,Crewe Alexandra,2-1,2,1,Football League Fourth Division,4,H
+1968-04-13,1967/1968,Doncaster Rovers,Port Vale,0-0,0,0,Football League Fourth Division,4,D
+1968-04-13,1967/1968,Hartlepool United,Workington,2-1,2,1,Football League Fourth Division,4,H
+1968-04-13,1967/1968,Newport County,Lincoln City,0-1,0,1,Football League Fourth Division,4,A
+1968-04-13,1967/1968,York City,Halifax Town,1-2,1,2,Football League Fourth Division,4,A
+1968-04-13,1967/1968,Southend United,Chesterfield,1-1,1,1,Football League Fourth Division,4,D
+1968-04-13,1967/1968,Swansea City,Aldershot,1-0,1,0,Football League Fourth Division,4,H
+1968-04-13,1967/1968,Wrexham,Exeter City,0-0,0,0,Football League Fourth Division,4,D
+1968-04-13,1967/1968,Barnsley,Darlington,1-0,1,0,Football League Fourth Division,4,H
+1968-04-13,1967/1968,Rochdale,Bradford City,3-2,3,2,Football League Fourth Division,4,H
+1968-04-13,1967/1968,Millwall,Crystal Palace,5-1,5,1,Football League Second Division,2,H
+1968-04-13,1967/1968,Birmingham City,Cardiff City,0-0,0,0,Football League Second Division,2,D
+1968-04-13,1967/1968,Middlesbrough,Queens Park Rangers,3-1,3,1,Football League Second Division,2,H
+1968-04-13,1967/1968,Ipswich Town,Rotherham United,2-0,2,0,Football League Second Division,2,H
+1968-04-13,1967/1968,Huddersfield Town,Norwich City,2-0,2,0,Football League Second Division,2,H
+1968-04-13,1967/1968,Hull City,Aston Villa,3-0,3,0,Football League Second Division,2,H
+1968-04-13,1967/1968,Bristol City,Plymouth Argyle,2-0,2,0,Football League Second Division,2,H
+1968-04-13,1967/1968,Bolton Wanderers,Portsmouth,1-2,1,2,Football League Second Division,2,A
+1968-04-13,1967/1968,Blackpool,Charlton Athletic,2-0,2,0,Football League Second Division,2,H
+1968-04-13,1967/1968,Blackburn Rovers,Preston North End,0-1,0,1,Football League Second Division,2,A
+1968-04-13,1967/1968,Carlisle United,Derby County,1-1,1,1,Football League Second Division,2,D
+1968-04-13,1967/1968,Torquay United,Mansfield Town,0-2,0,2,Football League Third Division,3,A
+1968-04-13,1967/1968,Swindon Town,Southport,3-3,3,3,Football League Third Division,3,D
+1968-04-13,1967/1968,Stockport County,Bristol Rovers,3-1,3,1,Football League Third Division,3,H
+1968-04-13,1967/1968,Grimsby Town,Peterborough United,1-1,1,1,Football League Third Division,3,D
+1968-04-13,1967/1968,Reading,Watford,2-0,2,0,Football League Third Division,3,H
+1968-04-13,1967/1968,Northampton Town,Bury,0-1,0,1,Football League Third Division,3,A
+1968-04-13,1967/1968,Leyton Orient,Oxford United,1-0,1,0,Football League Third Division,3,H
+1968-04-13,1967/1968,Tranmere Rovers,Barrow,0-0,0,0,Football League Third Division,3,D
+1968-04-13,1967/1968,Shrewsbury Town,Scunthorpe United,4-0,4,0,Football League Third Division,3,H
+1968-04-13,1967/1968,Walsall,AFC Bournemouth,1-1,1,1,Football League Third Division,3,D
+1968-04-13,1967/1968,Gillingham,Colchester United,1-0,1,0,Football League Third Division,3,H
+1968-04-13,1967/1968,Brighton & Hove Albion,Oldham Athletic,0-1,0,1,Football League Third Division,3,A
+1968-04-15,1967/1968,Arsenal,Southampton,0-3,0,3,Football League First Division,1,A
+1968-04-15,1967/1968,Burnley,Leicester City,1-1,1,1,Football League First Division,1,D
+1968-04-15,1967/1968,Everton,Sheffield Wednesday,1-0,1,0,Football League First Division,1,H
+1968-04-15,1967/1968,Manchester United,Fulham,3-0,3,0,Football League First Division,1,H
+1968-04-15,1967/1968,Sheffield United,Liverpool,1-1,1,1,Football League First Division,1,D
+1968-04-15,1967/1968,Sunderland,Wolverhampton Wanderers,2-0,2,0,Football League First Division,1,H
+1968-04-15,1967/1968,Coventry City,Stoke City,2-0,2,0,Football League First Division,1,H
+1968-04-15,1967/1968,West Bromwich Albion,Newcastle United,2-0,2,0,Football League First Division,1,H
+1968-04-15,1967/1968,Barnsley,Brentford,3-0,3,0,Football League Fourth Division,4,H
+1968-04-15,1967/1968,Port Vale,Crewe Alexandra,0-2,0,2,Football League Fourth Division,4,A
+1968-04-15,1967/1968,Halifax Town,Chesterfield,0-2,0,2,Football League Fourth Division,4,A
+1968-04-15,1967/1968,Lincoln City,Exeter City,1-1,1,1,Football League Fourth Division,4,D
+1968-04-15,1967/1968,Newport County,Aldershot,0-2,0,2,Football League Fourth Division,4,A
+1968-04-15,1967/1968,Rochdale,Swansea City,1-2,1,2,Football League Fourth Division,4,A
+1968-04-15,1967/1968,Workington,Darlington,0-1,0,1,Football League Fourth Division,4,A
+1968-04-15,1967/1968,York City,Hartlepool United,0-2,0,2,Football League Fourth Division,4,A
+1968-04-15,1967/1968,Bradford City,Chester,2-2,2,2,Football League Fourth Division,4,D
+1968-04-15,1967/1968,Notts County,Luton Town,2-2,2,2,Football League Fourth Division,4,D
+1968-04-15,1967/1968,Portsmouth,Aston Villa,2-2,2,2,Football League Second Division,2,D
+1968-04-15,1967/1968,Blackpool,Blackburn Rovers,2-1,2,1,Football League Second Division,2,H
+1968-04-15,1967/1968,Derby County,Preston North End,1-2,1,2,Football League Second Division,2,A
+1968-04-15,1967/1968,Hull City,Ipswich Town,1-1,1,1,Football League Second Division,2,D
+1968-04-15,1967/1968,Middlesbrough,Huddersfield Town,3-2,3,2,Football League Second Division,2,H
+1968-04-15,1967/1968,Millwall,Carlisle United,1-0,1,0,Football League Second Division,2,H
+1968-04-15,1967/1968,Norwich City,Crystal Palace,2-1,2,1,Football League Second Division,2,H
+1968-04-15,1967/1968,Plymouth Argyle,Birmingham City,1-2,1,2,Football League Second Division,2,A
+1968-04-15,1967/1968,Leyton Orient,Mansfield Town,0-0,0,0,Football League Third Division,3,D
+1968-04-15,1967/1968,Torquay United,Bristol Rovers,2-0,2,0,Football League Third Division,3,H
+1968-04-15,1967/1968,Peterborough United,Tranmere Rovers,1-1,1,1,Football League Third Division,3,D
+1968-04-15,1967/1968,Shrewsbury Town,Bury,1-0,1,0,Football League Third Division,3,H
+1968-04-15,1967/1968,Southport,Walsall,2-0,2,0,Football League Third Division,3,H
+1968-04-15,1967/1968,Stockport County,Colchester United,1-0,1,0,Football League Third Division,3,H
+1968-04-15,1967/1968,Gillingham,Scunthorpe United,3-1,3,1,Football League Third Division,3,H
+1968-04-15,1967/1968,Brighton & Hove Albion,AFC Bournemouth,2-3,2,3,Football League Third Division,3,A
+1968-04-15,1967/1968,Barrow,Reading,1-0,1,0,Football League Third Division,3,H
+1968-04-16,1967/1968,Stoke City,Coventry City,3-3,3,3,Football League First Division,1,D
+1968-04-16,1967/1968,Sheffield Wednesday,Everton,0-0,0,0,Football League First Division,1,D
+1968-04-16,1967/1968,Nottingham Forest,West Ham United,1-1,1,1,Football League First Division,1,D
+1968-04-16,1967/1968,Leicester City,Burnley,0-2,0,2,Football League First Division,1,A
+1968-04-16,1967/1968,Chelsea,Manchester City,1-0,1,0,Football League First Division,1,H
+1968-04-16,1967/1968,Chesterfield,Halifax Town,0-0,0,0,Football League Fourth Division,4,D
+1968-04-16,1967/1968,Chester,Bradford City,2-3,2,3,Football League Fourth Division,4,A
+1968-04-16,1967/1968,Doncaster Rovers,Southend United,2-1,2,1,Football League Fourth Division,4,H
+1968-04-16,1967/1968,Swansea City,Rochdale,1-0,1,0,Football League Fourth Division,4,H
+1968-04-16,1967/1968,Bradford Park Avenue,Wrexham,0-1,0,1,Football League Fourth Division,4,A
+1968-04-16,1967/1968,Rotherham United,Charlton Athletic,1-1,1,1,Football League Second Division,2,D
+1968-04-16,1967/1968,Preston North End,Derby County,1-1,1,1,Football League Second Division,2,D
+1968-04-16,1967/1968,Huddersfield Town,Middlesbrough,1-0,1,0,Football League Second Division,2,H
+1968-04-16,1967/1968,Crystal Palace,Norwich City,6-0,6,0,Football League Second Division,2,H
+1968-04-16,1967/1968,Carlisle United,Millwall,1-1,1,1,Football League Second Division,2,D
+1968-04-16,1967/1968,Cardiff City,Queens Park Rangers,1-0,1,0,Football League Second Division,2,H
+1968-04-16,1967/1968,Birmingham City,Plymouth Argyle,2-2,2,2,Football League Second Division,2,D
+1968-04-16,1967/1968,Aston Villa,Portsmouth,1-0,1,0,Football League Second Division,2,H
+1968-04-16,1967/1968,Ipswich Town,Hull City,2-0,2,0,Football League Second Division,2,H
+1968-04-16,1967/1968,Mansfield Town,Leyton Orient,0-0,0,0,Football League Third Division,3,D
+1968-04-16,1967/1968,Northampton Town,Watford,1-1,1,1,Football League Third Division,3,D
+1968-04-16,1967/1968,Swindon Town,Oxford United,1-1,1,1,Football League Third Division,3,D
+1968-04-16,1967/1968,Walsall,Southport,1-1,1,1,Football League Third Division,3,D
+1968-04-16,1967/1968,Oldham Athletic,Grimsby Town,2-1,2,1,Football League Third Division,3,H
+1968-04-17,1967/1968,Leeds United,Tottenham Hotspur,1-0,1,0,Football League First Division,1,H
+1968-04-17,1967/1968,Bolton Wanderers,Bristol City,1-0,1,0,Football League Second Division,2,H
+1968-04-19,1967/1968,Bury,Leyton Orient,1-0,1,0,Football League Third Division,3,H
+1968-04-19,1967/1968,Scunthorpe United,Swindon Town,3-1,3,1,Football League Third Division,3,H
+1968-04-19,1967/1968,Southport,Reading,2-1,2,1,Football League Third Division,3,H
+1968-04-20,1967/1968,Burnley,Stoke City,4-0,4,0,Football League First Division,1,H
+1968-04-20,1967/1968,Everton,Chelsea,2-1,2,1,Football League First Division,1,H
+1968-04-20,1967/1968,Fulham,Newcastle United,2-0,2,0,Football League First Division,1,H
+1968-04-20,1967/1968,Leeds United,West Bromwich Albion,3-1,3,1,Football League First Division,1,H
+1968-04-20,1967/1968,Manchester United,Sheffield United,1-0,1,0,Football League First Division,1,H
+1968-04-20,1967/1968,Sheffield Wednesday,Nottingham Forest,0-0,0,0,Football League First Division,1,D
+1968-04-20,1967/1968,Sunderland,Arsenal,2-0,2,0,Football League First Division,1,H
+1968-04-20,1967/1968,Tottenham Hotspur,Coventry City,4-2,4,2,Football League First Division,1,H
+1968-04-20,1967/1968,West Ham United,Liverpool,1-0,1,0,Football League First Division,1,H
+1968-04-20,1967/1968,Leicester City,Southampton,4-1,4,1,Football League First Division,1,H
+1968-04-20,1967/1968,Wolverhampton Wanderers,Manchester City,0-0,0,0,Football League First Division,1,D
+1968-04-20,1967/1968,Aldershot,Brentford,0-0,0,0,Football League Fourth Division,4,D
+1968-04-20,1967/1968,Bradford City,Southend United,2-1,2,1,Football League Fourth Division,4,H
+1968-04-20,1967/1968,Port Vale,Swansea City,4-2,4,2,Football League Fourth Division,4,H
+1968-04-20,1967/1968,Chesterfield,Newport County,1-2,1,2,Football League Fourth Division,4,A
+1968-04-20,1967/1968,Crewe Alexandra,Wrexham,0-0,0,0,Football League Fourth Division,4,D
+1968-04-20,1967/1968,Darlington,Rochdale,2-0,2,0,Football League Fourth Division,4,H
+1968-04-20,1967/1968,Exeter City,York City,3-1,3,1,Football League Fourth Division,4,H
+1968-04-20,1967/1968,Halifax Town,Luton Town,0-1,0,1,Football League Fourth Division,4,A
+1968-04-20,1967/1968,Lincoln City,Doncaster Rovers,2-0,2,0,Football League Fourth Division,4,H
+1968-04-20,1967/1968,Notts County,Barnsley,1-4,1,4,Football League Fourth Division,4,A
+1968-04-20,1967/1968,Workington,Bradford Park Avenue,2-2,2,2,Football League Fourth Division,4,D
+1968-04-20,1967/1968,Chester,Hartlepool United,0-2,0,2,Football League Fourth Division,4,A
+1968-04-20,1967/1968,Norwich City,Blackpool,1-2,1,2,Football League Second Division,2,A
+1968-04-20,1967/1968,Queens Park Rangers,Huddersfield Town,3-0,3,0,Football League Second Division,2,H
+1968-04-20,1967/1968,Aston Villa,Bolton Wanderers,1-1,1,1,Football League Second Division,2,D
+1968-04-20,1967/1968,Cardiff City,Carlisle United,1-0,1,0,Football League Second Division,2,H
+1968-04-20,1967/1968,Charlton Athletic,Bristol City,1-2,1,2,Football League Second Division,2,A
+1968-04-20,1967/1968,Crystal Palace,Birmingham City,0-0,0,0,Football League Second Division,2,D
+1968-04-20,1967/1968,Derby County,Hull City,1-2,1,2,Football League Second Division,2,A
+1968-04-20,1967/1968,Rotherham United,Millwall,2-0,2,0,Football League Second Division,2,H
+1968-04-20,1967/1968,Plymouth Argyle,Ipswich Town,0-1,0,1,Football League Second Division,2,A
+1968-04-20,1967/1968,Portsmouth,Blackburn Rovers,2-1,2,1,Football League Second Division,2,H
+1968-04-20,1967/1968,Preston North End,Middlesbrough,0-0,0,0,Football League Second Division,2,D
+1968-04-20,1967/1968,Colchester United,Walsall,2-2,2,2,Football League Third Division,3,D
+1968-04-20,1967/1968,Bristol Rovers,Brighton & Hove Albion,3-1,3,1,Football League Third Division,3,H
+1968-04-20,1967/1968,Mansfield Town,Grimsby Town,1-1,1,1,Football League Third Division,3,D
+1968-04-20,1967/1968,Oldham Athletic,Shrewsbury Town,0-0,0,0,Football League Third Division,3,D
+1968-04-20,1967/1968,Oxford United,Tranmere Rovers,1-0,1,0,Football League Third Division,3,H
+1968-04-20,1967/1968,Peterborough United,Gillingham,3-0,3,0,Football League Third Division,3,H
+1968-04-20,1967/1968,Watford,Torquay United,2-1,2,1,Football League Third Division,3,H
+1968-04-20,1967/1968,Barrow,Stockport County,3-0,3,0,Football League Third Division,3,H
+1968-04-20,1967/1968,AFC Bournemouth,Northampton Town,0-2,0,2,Football League Third Division,3,A
+1968-04-22,1967/1968,Nottingham Forest,Everton,1-0,1,0,Football League First Division,1,H
+1968-04-22,1967/1968,Chelsea,Burnley,2-1,2,1,Football League First Division,1,H
+1968-04-22,1967/1968,York City,Aldershot,2-3,2,3,Football League Fourth Division,4,A
+1968-04-22,1967/1968,Wrexham,Port Vale,1-0,1,0,Football League Fourth Division,4,H
+1968-04-22,1967/1968,Southend United,Notts County,0-1,0,1,Football League Fourth Division,4,A
+1968-04-22,1967/1968,Bradford Park Avenue,Halifax Town,0-1,0,1,Football League Fourth Division,4,A
+1968-04-22,1967/1968,Stockport County,Bury,4-2,4,2,Football League Third Division,3,H
+1968-04-22,1967/1968,Leyton Orient,Colchester United,1-1,1,1,Football League Third Division,3,D
+1968-04-22,1967/1968,Tranmere Rovers,AFC Bournemouth,0-0,0,0,Football League Third Division,3,D
+1968-04-23,1967/1968,Sheffield United,Fulham,2-3,2,3,Football League First Division,1,A
+1968-04-23,1967/1968,Stoke City,Leeds United,3-2,3,2,Football League First Division,1,H
+1968-04-23,1967/1968,Doncaster Rovers,Bradford City,2-2,2,2,Football League Fourth Division,4,D
+1968-04-23,1967/1968,Swansea City,Chesterfield,0-1,0,1,Football League Fourth Division,4,A
+1968-04-23,1967/1968,Newport County,Darlington,1-0,1,0,Football League Fourth Division,4,H
+1968-04-23,1967/1968,Barnsley,Chester,2-1,2,1,Football League Fourth Division,4,H
+1968-04-23,1967/1968,Brentford,Lincoln City,1-3,1,3,Football League Fourth Division,4,A
+1968-04-23,1967/1968,Swindon Town,Bristol Rovers,4-1,4,1,Football League Third Division,3,H
+1968-04-23,1967/1968,Walsall,Mansfield Town,2-1,2,1,Football League Third Division,3,H
+1968-04-23,1967/1968,Northampton Town,Peterborough United,3-1,3,1,Football League Third Division,3,H
+1968-04-24,1967/1968,West Ham United,Sunderland,1-1,1,1,Football League First Division,1,D
+1968-04-24,1967/1968,Luton Town,Crewe Alexandra,4-0,4,0,Football League Fourth Division,4,H
+1968-04-24,1967/1968,Blackburn Rovers,Plymouth Argyle,1-1,1,1,Football League Second Division,2,D
+1968-04-24,1967/1968,Gillingham,Watford,0-0,0,0,Football League Third Division,3,D
+1968-04-24,1967/1968,Reading,Oldham Athletic,0-1,0,1,Football League Third Division,3,A
+1968-04-24,1967/1968,Shrewsbury Town,Barrow,1-0,1,0,Football League Third Division,3,H
+1968-04-24,1967/1968,Grimsby Town,Southport,2-0,2,0,Football League Third Division,3,H
+1968-04-25,1967/1968,Manchester City,Sheffield Wednesday,1-0,1,0,Football League First Division,1,H
+1968-04-25,1967/1968,Hull City,Rotherham United,2-1,2,1,Football League Second Division,2,H
+1968-04-25,1967/1968,Torquay United,Scunthorpe United,2-1,2,1,Football League Third Division,3,H
+1968-04-26,1967/1968,Southend United,Crewe Alexandra,0-0,0,0,Football League Fourth Division,4,D
+1968-04-26,1967/1968,Hartlepool United,Chesterfield,2-1,2,1,Football League Fourth Division,4,H
+1968-04-26,1967/1968,Doncaster Rovers,Halifax Town,0-0,0,0,Football League Fourth Division,4,D
+1968-04-26,1967/1968,Barnsley,Port Vale,2-0,2,0,Football League Fourth Division,4,H
+1968-04-26,1967/1968,Tranmere Rovers,Bury,2-0,2,0,Football League Third Division,3,H
+1968-04-26,1967/1968,Stockport County,Oxford United,0-4,0,4,Football League Third Division,3,A
+1968-04-27,1967/1968,Arsenal,Burnley,2-0,2,0,Football League First Division,1,H
+1968-04-27,1967/1968,Chelsea,Sunderland,1-0,1,0,Football League First Division,1,H
+1968-04-27,1967/1968,Liverpool,Fulham,4-1,4,1,Football League First Division,1,H
+1968-04-27,1967/1968,Newcastle United,Tottenham Hotspur,1-3,1,3,Football League First Division,1,A
+1968-04-27,1967/1968,Sheffield United,West Ham United,1-2,1,2,Football League First Division,1,A
+1968-04-27,1967/1968,Southampton,Wolverhampton Wanderers,1-1,1,1,Football League First Division,1,D
+1968-04-27,1967/1968,Coventry City,Leicester City,0-1,0,1,Football League First Division,1,A
+1968-04-27,1967/1968,Brentford,Workington,2-1,2,1,Football League Fourth Division,4,H
+1968-04-27,1967/1968,Luton Town,Bradford City,1-3,1,3,Football League Fourth Division,4,A
+1968-04-27,1967/1968,Newport County,Exeter City,1-1,1,1,Football League Fourth Division,4,D
+1968-04-27,1967/1968,Rochdale,Aldershot,0-2,0,2,Football League Fourth Division,4,A
+1968-04-27,1967/1968,Swansea City,Chester,1-0,1,0,Football League Fourth Division,4,H
+1968-04-27,1967/1968,Wrexham,Notts County,2-0,2,0,Football League Fourth Division,4,H
+1968-04-27,1967/1968,York City,Darlington,1-1,1,1,Football League Fourth Division,4,D
+1968-04-27,1967/1968,Bradford Park Avenue,Lincoln City,1-5,1,5,Football League Fourth Division,4,A
+1968-04-27,1967/1968,Blackpool,Portsmouth,2-0,2,0,Football League Second Division,2,H
+1968-04-27,1967/1968,Millwall,Norwich City,1-0,1,0,Football League Second Division,2,H
+1968-04-27,1967/1968,Blackburn Rovers,Cardiff City,1-1,1,1,Football League Second Division,2,D
+1968-04-27,1967/1968,Bolton Wanderers,Crystal Palace,2-2,2,2,Football League Second Division,2,D
+1968-04-27,1967/1968,Middlesbrough,Derby County,2-2,2,2,Football League Second Division,2,D
+1968-04-27,1967/1968,Ipswich Town,Queens Park Rangers,2-2,2,2,Football League Second Division,2,D
+1968-04-27,1967/1968,Carlisle United,Plymouth Argyle,2-0,2,0,Football League Second Division,2,H
+1968-04-27,1967/1968,Bristol City,Preston North End,4-1,4,1,Football League Second Division,2,H
+1968-04-27,1967/1968,Huddersfield Town,Aston Villa,0-0,0,0,Football League Second Division,2,D
+1968-04-27,1967/1968,Leyton Orient,AFC Bournemouth,1-0,1,0,Football League Third Division,3,H
+1968-04-27,1967/1968,Northampton Town,Colchester United,2-2,2,2,Football League Third Division,3,D
+1968-04-27,1967/1968,Reading,Scunthorpe United,2-1,2,1,Football League Third Division,3,H
+1968-04-27,1967/1968,Shrewsbury Town,Bristol Rovers,0-0,0,0,Football League Third Division,3,D
+1968-04-27,1967/1968,Swindon Town,Oldham Athletic,0-0,0,0,Football League Third Division,3,D
+1968-04-27,1967/1968,Torquay United,Southport,2-2,2,2,Football League Third Division,3,D
+1968-04-27,1967/1968,Walsall,Peterborough United,3-2,3,2,Football League Third Division,3,H
+1968-04-27,1967/1968,Grimsby Town,Watford,0-1,0,1,Football League Third Division,3,A
+1968-04-27,1967/1968,Gillingham,Mansfield Town,2-1,2,1,Football League Third Division,3,H
+1968-04-27,1967/1968,Brighton & Hove Albion,Barrow,1-1,1,1,Football League Third Division,3,D
+1968-04-29,1967/1968,Chelsea,Wolverhampton Wanderers,1-0,1,0,Football League First Division,1,H
+1968-04-29,1967/1968,Liverpool,Tottenham Hotspur,1-1,1,1,Football League First Division,1,D
+1968-04-29,1967/1968,West Bromwich Albion,Manchester United,6-3,6,3,Football League First Division,1,H
+1968-04-29,1967/1968,Manchester City,Everton,2-0,2,0,Football League First Division,1,H
+1968-04-29,1967/1968,Newport County,Workington,2-1,2,1,Football League Fourth Division,4,H
+1968-04-29,1967/1968,Rochdale,Halifax Town,2-1,2,1,Football League Fourth Division,4,H
+1968-04-29,1967/1968,Tranmere Rovers,Grimsby Town,1-2,1,2,Football League Third Division,3,A
+1968-04-30,1967/1968,Arsenal,Sheffield Wednesday,3-2,3,2,Football League First Division,1,H
+1968-04-30,1967/1968,Bristol Rovers,Leyton Orient,0-2,0,2,Football League Third Division,3,A
+1968-05-01,1967/1968,Fulham,Stoke City,0-2,0,2,Football League First Division,1,A
+1968-05-01,1967/1968,West Bromwich Albion,West Ham United,3-1,3,1,Football League First Division,1,H
+1968-05-01,1967/1968,Notts County,Doncaster Rovers,0-2,0,2,Football League Fourth Division,4,A
+1968-05-01,1967/1968,Exeter City,Bradford Park Avenue,0-0,0,0,Football League Fourth Division,4,D
+1968-05-01,1967/1968,Crystal Palace,Ipswich Town,1-3,1,3,Football League Second Division,2,A
+1968-05-01,1967/1968,Brighton & Hove Albion,Stockport County,3-0,3,0,Football League Third Division,3,H
+1968-05-03,1967/1968,Scunthorpe United,Torquay United,2-0,2,0,Football League Third Division,3,H
+1968-05-03,1967/1968,Southport,Grimsby Town,0-1,0,1,Football League Third Division,3,A
+1968-05-04,1967/1968,Leeds United,Liverpool,1-2,1,2,Football League First Division,1,A
+1968-05-04,1967/1968,Burnley,Sheffield United,0-2,0,2,Football League First Division,1,A
+1968-05-04,1967/1968,Everton,Stoke City,3-0,3,0,Football League First Division,1,H
+1968-05-04,1967/1968,Fulham,Southampton,2-2,2,2,Football League First Division,1,D
+1968-05-04,1967/1968,Leicester City,Nottingham Forest,4-2,4,2,Football League First Division,1,H
+1968-05-04,1967/1968,Manchester United,Newcastle United,6-0,6,0,Football League First Division,1,H
+1968-05-04,1967/1968,Sheffield Wednesday,Arsenal,1-2,1,2,Football League First Division,1,A
+1968-05-04,1967/1968,Sunderland,West Bromwich Albion,0-0,0,0,Football League First Division,1,D
+1968-05-04,1967/1968,Tottenham Hotspur,Manchester City,1-3,1,3,Football League First Division,1,A
+1968-05-04,1967/1968,West Ham United,Coventry City,0-0,0,0,Football League First Division,1,D
+1968-05-04,1967/1968,Wolverhampton Wanderers,Chelsea,3-0,3,0,Football League First Division,1,H
+1968-05-04,1967/1968,Aldershot,York City,2-2,2,2,Football League Fourth Division,4,D
+1968-05-04,1967/1968,Bradford City,Doncaster Rovers,1-1,1,1,Football League Fourth Division,4,D
+1968-05-04,1967/1968,Chesterfield,Swansea City,3-1,3,1,Football League Fourth Division,4,H
+1968-05-04,1967/1968,Crewe Alexandra,Luton Town,2-1,2,1,Football League Fourth Division,4,H
+1968-05-04,1967/1968,Darlington,Newport County,1-0,1,0,Football League Fourth Division,4,H
+1968-05-04,1967/1968,Exeter City,Hartlepool United,0-0,0,0,Football League Fourth Division,4,D
+1968-05-04,1967/1968,Halifax Town,Bradford Park Avenue,1-0,1,0,Football League Fourth Division,4,H
+1968-05-04,1967/1968,Lincoln City,Brentford,1-0,1,0,Football League Fourth Division,4,H
+1968-05-04,1967/1968,Notts County,Southend United,4-3,4,3,Football League Fourth Division,4,H
+1968-05-04,1967/1968,Port Vale,Wrexham,1-1,1,1,Football League Fourth Division,4,D
+1968-05-04,1967/1968,Workington,Rochdale,0-1,0,1,Football League Fourth Division,4,A
+1968-05-04,1967/1968,Chester,Barnsley,1-1,1,1,Football League Fourth Division,4,D
+1968-05-04,1967/1968,Queens Park Rangers,Birmingham City,2-0,2,0,Football League Second Division,2,H
+1968-05-04,1967/1968,Rotherham United,Blackburn Rovers,1-0,1,0,Football League Second Division,2,H
+1968-05-04,1967/1968,Aston Villa,Bristol City,2-4,2,4,Football League Second Division,2,A
+1968-05-04,1967/1968,Cardiff City,Huddersfield Town,0-0,0,0,Football League Second Division,2,D
+1968-05-04,1967/1968,Charlton Athletic,Hull City,5-1,5,1,Football League Second Division,2,H
+1968-05-04,1967/1968,Crystal Palace,Middlesbrough,1-3,1,3,Football League Second Division,2,A
+1968-05-04,1967/1968,Derby County,Blackpool,1-3,1,3,Football League Second Division,2,A
+1968-05-04,1967/1968,Norwich City,Carlisle United,2-1,2,1,Football League Second Division,2,H
+1968-05-04,1967/1968,Plymouth Argyle,Bolton Wanderers,1-2,1,2,Football League Second Division,2,A
+1968-05-04,1967/1968,Portsmouth,Ipswich Town,1-2,1,2,Football League Second Division,2,A
+1968-05-04,1967/1968,Preston North End,Millwall,0-1,0,1,Football League Second Division,2,A
+1968-05-04,1967/1968,Bristol Rovers,Swindon Town,1-2,1,2,Football League Third Division,3,A
+1968-05-04,1967/1968,Bury,Stockport County,5-3,5,3,Football League Third Division,3,H
+1968-05-04,1967/1968,Colchester United,Leyton Orient,1-1,1,1,Football League Third Division,3,D
+1968-05-04,1967/1968,Mansfield Town,Walsall,0-3,0,3,Football League Third Division,3,A
+1968-05-04,1967/1968,Oldham Athletic,Reading,1-3,1,3,Football League Third Division,3,A
+1968-05-04,1967/1968,Oxford United,Brighton & Hove Albion,2-0,2,0,Football League Third Division,3,H
+1968-05-04,1967/1968,Peterborough United,Northampton Town,4-0,4,0,Football League Third Division,3,H
+1968-05-04,1967/1968,Watford,Gillingham,3-0,3,0,Football League Third Division,3,H
+1968-05-04,1967/1968,Barrow,Shrewsbury Town,3-0,3,0,Football League Third Division,3,H
+1968-05-04,1967/1968,AFC Bournemouth,Tranmere Rovers,3-0,3,0,Football League Third Division,3,H
+1968-05-06,1967/1968,Swansea City,Hartlepool United,0-2,0,2,Football League Fourth Division,4,A
+1968-05-06,1967/1968,Southport,Scunthorpe United,1-1,1,1,Football League Third Division,3,D
+1968-05-07,1967/1968,Arsenal,Leeds United,4-3,4,3,Football League First Division,1,H
+1968-05-07,1967/1968,Birmingham City,Charlton Athletic,4-0,4,0,Football League Second Division,2,H
+1968-05-07,1967/1968,Leyton Orient,Gillingham,0-4,0,4,Football League Third Division,3,A
+1968-05-08,1967/1968,Norwich City,Cardiff City,1-0,1,0,Football League Second Division,2,H
+1968-05-10,1967/1968,Doncaster Rovers,Bradford Park Avenue,2-0,2,0,Football League Fourth Division,4,H
+1968-05-10,1967/1968,Halifax Town,Notts County,0-1,0,1,Football League Fourth Division,4,A
+1968-05-10,1967/1968,Southend United,Rochdale,3-1,3,1,Football League Fourth Division,4,H
+1968-05-11,1967/1968,Arsenal,West Bromwich Albion,2-1,2,1,Football League First Division,1,H
+1968-05-11,1967/1968,Leicester City,Stoke City,0-0,0,0,Football League First Division,1,D
+1968-05-11,1967/1968,Liverpool,Nottingham Forest,6-1,6,1,Football League First Division,1,H
+1968-05-11,1967/1968,Manchester United,Sunderland,1-2,1,2,Football League First Division,1,A
+1968-05-11,1967/1968,Newcastle United,Manchester City,3-4,3,4,Football League First Division,1,A
+1968-05-11,1967/1968,Sheffield United,Chelsea,1-2,1,2,Football League First Division,1,A
+1968-05-11,1967/1968,Southampton,Coventry City,0-0,0,0,Football League First Division,1,D
+1968-05-11,1967/1968,Burnley,Leeds United,3-0,3,0,Football League First Division,1,H
+1968-05-11,1967/1968,Wolverhampton Wanderers,Tottenham Hotspur,2-1,2,1,Football League First Division,1,H
+1968-05-11,1967/1968,West Ham United,Everton,1-1,1,1,Football League First Division,1,D
+1968-05-11,1967/1968,Wrexham,York City,3-1,3,1,Football League Fourth Division,4,H
+1968-05-11,1967/1968,Barnsley,Newport County,4-2,4,2,Football League Fourth Division,4,H
+1968-05-11,1967/1968,Exeter City,Darlington,0-0,0,0,Football League Fourth Division,4,D
+1968-05-11,1967/1968,Hartlepool United,Swansea City,2-0,2,0,Football League Fourth Division,4,H
+1968-05-11,1967/1968,Lincoln City,Port Vale,0-1,0,1,Football League Fourth Division,4,A
+1968-05-11,1967/1968,Luton Town,Brentford,2-1,2,1,Football League Fourth Division,4,H
+1968-05-11,1967/1968,Workington,Chester,1-0,1,0,Football League Fourth Division,4,H
+1968-05-11,1967/1968,Middlesbrough,Bristol City,2-1,2,1,Football League Second Division,2,H
+1968-05-11,1967/1968,Preston North End,Portsmouth,3-1,3,1,Football League Second Division,2,H
+1968-05-11,1967/1968,Rotherham United,Carlisle United,1-2,1,2,Football League Second Division,2,A
+1968-05-11,1967/1968,Aston Villa,Queens Park Rangers,1-2,1,2,Football League Second Division,2,A
+1968-05-11,1967/1968,Cardiff City,Charlton Athletic,0-0,0,0,Football League Second Division,2,D
+1968-05-11,1967/1968,Huddersfield Town,Blackpool,1-3,1,3,Football League Second Division,2,A
+1968-05-11,1967/1968,Hull City,Birmingham City,0-1,0,1,Football League Second Division,2,A
+1968-05-11,1967/1968,Plymouth Argyle,Crystal Palace,2-1,2,1,Football League Second Division,2,H
+1968-05-11,1967/1968,Ipswich Town,Blackburn Rovers,1-1,1,1,Football League Second Division,2,D
+1968-05-11,1967/1968,Barrow,Scunthorpe United,2-1,2,1,Football League Third Division,3,H
+1968-05-11,1967/1968,Bury,Watford,2-0,2,0,Football League Third Division,3,H
+1968-05-11,1967/1968,Colchester United,Peterborough United,1-5,1,5,Football League Third Division,3,A
+1968-05-11,1967/1968,Gillingham,Shrewsbury Town,0-1,0,1,Football League Third Division,3,A
+1968-05-11,1967/1968,Grimsby Town,Swindon Town,3-2,3,2,Football League Third Division,3,H
+1968-05-11,1967/1968,Leyton Orient,Tranmere Rovers,0-1,0,1,Football League Third Division,3,A
+1968-05-11,1967/1968,Oldham Athletic,Bristol Rovers,3-5,3,5,Football League Third Division,3,A
+1968-05-11,1967/1968,Walsall,Brighton & Hove Albion,1-2,1,2,Football League Third Division,3,A
+1968-05-11,1967/1968,Reading,Torquay United,4-0,4,0,Football League Third Division,3,H
+1968-05-11,1967/1968,Oxford United,Southport,1-0,1,0,Football League Third Division,3,H
+1968-05-11,1967/1968,AFC Bournemouth,Mansfield Town,3-0,3,0,Football League Third Division,3,H
+1968-05-15,1967/1968,Stoke City,Liverpool,2-1,2,1,Football League First Division,1,H
+1968-05-15,1967/1968,Crystal Palace,Preston North End,2-0,2,0,Football League Second Division,2,H
+1968-05-21,1967/1968,Everton,Fulham,5-1,5,1,Football League First Division,1,H

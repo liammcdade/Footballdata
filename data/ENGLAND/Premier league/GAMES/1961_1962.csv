@@ -1,0 +1,2016 @@
+Date,Season,HomeTeam,AwayTeam,Score,hGoal,aGoal,Division,Tier,Result
+1961-08-19,1961/1962,Arsenal,Burnley,2-2,2,2,Football League First Division,1,D
+1961-08-19,1961/1962,Birmingham City,Fulham,2-1,2,1,Football League First Division,1,H
+1961-08-19,1961/1962,Blackburn Rovers,Cardiff City,0-0,0,0,Football League First Division,1,D
+1961-08-19,1961/1962,Bolton Wanderers,Ipswich Town,0-0,0,0,Football League First Division,1,D
+1961-08-19,1961/1962,Chelsea,Nottingham Forest,2-2,2,2,Football League First Division,1,D
+1961-08-19,1961/1962,Everton,Aston Villa,2-0,2,0,Football League First Division,1,H
+1961-08-19,1961/1962,Manchester City,Leicester City,3-1,3,1,Football League First Division,1,H
+1961-08-19,1961/1962,Sheffield United,Wolverhampton Wanderers,2-1,2,1,Football League First Division,1,H
+1961-08-19,1961/1962,West Bromwich Albion,Sheffield Wednesday,0-2,0,2,Football League First Division,1,A
+1961-08-19,1961/1962,West Ham United,Manchester United,1-1,1,1,Football League First Division,1,D
+1961-08-19,1961/1962,Blackpool,Tottenham Hotspur,1-2,1,2,Football League First Division,1,A
+1961-08-19,1961/1962,Barrow,Crewe Alexandra,3-0,3,0,Football League Fourth Division,4,H
+1961-08-19,1961/1962,Carlisle United,Aldershot,2-1,2,1,Football League Fourth Division,4,H
+1961-08-19,1961/1962,Tranmere Rovers,Accrington Stanley,2-0,2,0,Football League Fourth Division,4,H
+1961-08-19,1961/1962,Chester,Oldham Athletic,1-0,1,0,Football League Fourth Division,4,H
+1961-08-19,1961/1962,Chesterfield,Workington,0-1,0,1,Football League Fourth Division,4,A
+1961-08-19,1961/1962,Colchester United,Stockport County,3-0,3,0,Football League Fourth Division,4,H
+1961-08-19,1961/1962,Gillingham,Doncaster Rovers,2-2,2,2,Football League Fourth Division,4,D
+1961-08-19,1961/1962,Mansfield Town,Exeter City,3-1,3,1,Football League Fourth Division,4,H
+1961-08-19,1961/1962,Millwall,Wrexham,0-1,0,1,Football League Fourth Division,4,A
+1961-08-19,1961/1962,Rochdale,Hartlepool United,3-1,3,1,Football League Fourth Division,4,H
+1961-08-19,1961/1962,Southport,Darlington,1-4,1,4,Football League Fourth Division,4,A
+1961-08-19,1961/1962,Bradford City,York City,2-2,2,2,Football League Fourth Division,4,D
+1961-08-19,1961/1962,Walsall,Sunderland,4-3,4,3,Football League Second Division,2,H
+1961-08-19,1961/1962,Leeds United,Charlton Athletic,1-0,1,0,Football League Second Division,2,H
+1961-08-19,1961/1962,Luton Town,Preston North End,4-1,4,1,Football League Second Division,2,H
+1961-08-19,1961/1962,Middlesbrough,Derby County,3-4,3,4,Football League Second Division,2,A
+1961-08-19,1961/1962,Newcastle United,Leyton Orient,0-0,0,0,Football League Second Division,2,D
+1961-08-19,1961/1962,Norwich City,Bury,3-1,3,1,Football League Second Division,2,H
+1961-08-19,1961/1962,Scunthorpe United,Brighton & Hove Albion,3-3,3,3,Football League Second Division,2,D
+1961-08-19,1961/1962,Southampton,Plymouth Argyle,1-2,1,2,Football League Second Division,2,A
+1961-08-19,1961/1962,Stoke City,Rotherham United,1-2,1,2,Football League Second Division,2,A
+1961-08-19,1961/1962,Swansea City,Huddersfield Town,1-1,1,1,Football League Second Division,2,D
+1961-08-19,1961/1962,Bristol Rovers,Liverpool,0-2,0,2,Football League Second Division,2,A
+1961-08-19,1961/1962,Notts County,Bristol City,1-0,1,0,Football League Third Division,3,H
+1961-08-19,1961/1962,Peterborough United,Hull City,3-2,3,2,Football League Third Division,3,H
+1961-08-19,1961/1962,Queens Park Rangers,Brentford,3-0,3,0,Football League Third Division,3,H
+1961-08-19,1961/1962,Reading,Coventry City,4-0,4,0,Football League Third Division,3,H
+1961-08-19,1961/1962,Shrewsbury Town,Port Vale,4-2,4,2,Football League Third Division,3,H
+1961-08-19,1961/1962,Southend United,Bradford Park Avenue,2-1,2,1,Football League Third Division,3,H
+1961-08-19,1961/1962,Swindon Town,Portsmouth,1-3,1,3,Football League Third Division,3,A
+1961-08-19,1961/1962,Torquay United,Crystal Palace,1-2,1,2,Football League Third Division,3,A
+1961-08-19,1961/1962,Watford,Northampton Town,0-0,0,0,Football League Third Division,3,D
+1961-08-19,1961/1962,Newport County,Grimsby Town,0-2,0,2,Football League Third Division,3,A
+1961-08-19,1961/1962,Lincoln City,AFC Bournemouth,0-2,0,2,Football League Third Division,3,A
+1961-08-19,1961/1962,Halifax Town,Barnsley,3-1,3,1,Football League Third Division,3,H
+1961-08-21,1961/1962,Blackpool,Blackburn Rovers,2-1,2,1,Football League First Division,1,H
+1961-08-21,1961/1962,York City,Wrexham,3-2,3,2,Football League Fourth Division,4,H
+1961-08-21,1961/1962,Mansfield Town,Barrow,0-1,0,1,Football League Fourth Division,4,A
+1961-08-21,1961/1962,Hartlepool United,Oldham Athletic,1-1,1,1,Football League Fourth Division,4,D
+1961-08-21,1961/1962,Colchester United,Carlisle United,2-0,2,0,Football League Fourth Division,4,H
+1961-08-21,1961/1962,Accrington Stanley,Darlington,3-1,3,1,Football League Fourth Division,4,H
+1961-08-21,1961/1962,Leyton Orient,Southampton,1-3,1,3,Football League Second Division,2,A
+1961-08-21,1961/1962,Coventry City,Swindon Town,2-1,2,1,Football League Third Division,3,H
+1961-08-21,1961/1962,Port Vale,Hull City,4-0,4,0,Football League Third Division,3,H
+1961-08-21,1961/1962,Newport County,Barnsley,0-2,0,2,Football League Third Division,3,A
+1961-08-21,1961/1962,Queens Park Rangers,Reading,3-6,3,6,Football League Third Division,3,A
+1961-08-22,1961/1962,Nottingham Forest,Birmingham City,2-1,2,1,Football League First Division,1,H
+1961-08-22,1961/1962,Burnley,Ipswich Town,4-3,4,3,Football League First Division,1,H
+1961-08-22,1961/1962,Doncaster Rovers,Workington,1-1,1,1,Football League Fourth Division,4,D
+1961-08-22,1961/1962,Southport,Stockport County,2-1,2,1,Football League Fourth Division,4,H
+1961-08-22,1961/1962,Charlton Athletic,Stoke City,2-2,2,2,Football League Second Division,2,D
+1961-08-22,1961/1962,Bury,Bristol Rovers,2-0,2,0,Football League Second Division,2,H
+1961-08-22,1961/1962,Brighton & Hove Albion,Leeds United,1-3,1,3,Football League Second Division,2,A
+1961-08-22,1961/1962,Preston North End,Swansea City,1-1,1,1,Football League Second Division,2,D
+1961-08-22,1961/1962,Bristol City,Northampton Town,1-0,1,0,Football League Third Division,3,H
+1961-08-22,1961/1962,Watford,Peterborough United,2-3,2,3,Football League Third Division,3,A
+1961-08-22,1961/1962,Grimsby Town,Torquay United,2-3,2,3,Football League Third Division,3,A
+1961-08-22,1961/1962,Brentford,Halifax Town,0-2,0,2,Football League Third Division,3,A
+1961-08-23,1961/1962,West Bromwich Albion,Everton,2-0,2,0,Football League First Division,1,H
+1961-08-23,1961/1962,Tottenham Hotspur,West Ham United,2-2,2,2,Football League First Division,1,D
+1961-08-23,1961/1962,Sheffield Wednesday,Bolton Wanderers,4-2,4,2,Football League First Division,1,H
+1961-08-23,1961/1962,Manchester United,Chelsea,3-2,3,2,Football League First Division,1,H
+1961-08-23,1961/1962,Leicester City,Arsenal,0-1,0,1,Football League First Division,1,A
+1961-08-23,1961/1962,Fulham,Manchester City,3-4,3,4,Football League First Division,1,A
+1961-08-23,1961/1962,Cardiff City,Sheffield United,1-1,1,1,Football League First Division,1,D
+1961-08-23,1961/1962,Rochdale,Millwall,4-1,4,1,Football League Fourth Division,4,H
+1961-08-23,1961/1962,Exeter City,Chesterfield,4-1,4,1,Football League Fourth Division,4,H
+1961-08-23,1961/1962,Chester,Bradford City,1-2,1,2,Football League Fourth Division,4,A
+1961-08-23,1961/1962,Aldershot,Tranmere Rovers,3-1,3,1,Football League Fourth Division,4,H
+1961-08-23,1961/1962,Crewe Alexandra,Gillingham,5-2,5,2,Football League Fourth Division,4,H
+1961-08-23,1961/1962,Norwich City,Scunthorpe United,2-2,2,2,Football League Second Division,2,D
+1961-08-23,1961/1962,Newcastle United,Walsall,1-0,1,0,Football League Second Division,2,H
+1961-08-23,1961/1962,Huddersfield Town,Plymouth Argyle,5-1,5,1,Football League Second Division,2,H
+1961-08-23,1961/1962,Derby County,Luton Town,2-0,2,0,Football League Second Division,2,H
+1961-08-23,1961/1962,Liverpool,Sunderland,3-0,3,0,Football League Second Division,2,H
+1961-08-23,1961/1962,Portsmouth,Southend United,1-0,1,0,Football League Third Division,3,H
+1961-08-23,1961/1962,Crystal Palace,Notts County,4-1,4,1,Football League Third Division,3,H
+1961-08-23,1961/1962,Bradford Park Avenue,Lincoln City,2-0,2,0,Football League Third Division,3,H
+1961-08-23,1961/1962,AFC Bournemouth,Shrewsbury Town,0-0,0,0,Football League Third Division,3,D
+1961-08-25,1961/1962,Coventry City,Newport County,3-0,3,0,Football League Third Division,3,H
+1961-08-26,1961/1962,Burnley,Bolton Wanderers,3-1,3,1,Football League First Division,1,H
+1961-08-26,1961/1962,Cardiff City,Blackpool,3-2,3,2,Football League First Division,1,H
+1961-08-26,1961/1962,Fulham,Everton,2-1,2,1,Football League First Division,1,H
+1961-08-26,1961/1962,Ipswich Town,Manchester City,2-4,2,4,Football League First Division,1,A
+1961-08-26,1961/1962,Leicester City,West Bromwich Albion,1-0,1,0,Football League First Division,1,H
+1961-08-26,1961/1962,Manchester United,Blackburn Rovers,6-1,6,1,Football League First Division,1,H
+1961-08-26,1961/1962,Nottingham Forest,Sheffield United,2-0,2,0,Football League First Division,1,H
+1961-08-26,1961/1962,Sheffield Wednesday,Birmingham City,5-1,5,1,Football League First Division,1,H
+1961-08-26,1961/1962,Tottenham Hotspur,Arsenal,4-3,4,3,Football League First Division,1,H
+1961-08-26,1961/1962,Aston Villa,Chelsea,3-1,3,1,Football League First Division,1,H
+1961-08-26,1961/1962,Wolverhampton Wanderers,West Ham United,3-2,3,2,Football League First Division,1,H
+1961-08-26,1961/1962,York City,Chesterfield,4-0,4,0,Football League Fourth Division,4,H
+1961-08-26,1961/1962,Accrington Stanley,Chester,0-1,0,1,Football League Fourth Division,4,A
+1961-08-26,1961/1962,Exeter City,Barrow,3-0,3,0,Football League Fourth Division,4,H
+1961-08-26,1961/1962,Crewe Alexandra,Rochdale,2-1,2,1,Football League Fourth Division,4,H
+1961-08-26,1961/1962,Darlington,Tranmere Rovers,2-1,2,1,Football League Fourth Division,4,H
+1961-08-26,1961/1962,Doncaster Rovers,Millwall,1-2,1,2,Football League Fourth Division,4,A
+1961-08-26,1961/1962,Hartlepool United,Southport,4-2,4,2,Football League Fourth Division,4,H
+1961-08-26,1961/1962,Oldham Athletic,Colchester United,2-2,2,2,Football League Fourth Division,4,D
+1961-08-26,1961/1962,Stockport County,Carlisle United,1-2,1,2,Football League Fourth Division,4,A
+1961-08-26,1961/1962,Workington,Gillingham,5-1,5,1,Football League Fourth Division,4,H
+1961-08-26,1961/1962,Wrexham,Mansfield Town,5-0,5,0,Football League Fourth Division,4,H
+1961-08-26,1961/1962,Aldershot,Bradford City,2-2,2,2,Football League Fourth Division,4,D
+1961-08-26,1961/1962,Liverpool,Leeds United,5-0,5,0,Football League Second Division,2,H
+1961-08-26,1961/1962,Sunderland,Stoke City,2-1,2,1,Football League Second Division,2,H
+1961-08-26,1961/1962,Brighton & Hove Albion,Swansea City,2-2,2,2,Football League Second Division,2,D
+1961-08-26,1961/1962,Preston North End,Newcastle United,0-1,0,1,Football League Second Division,2,A
+1961-08-26,1961/1962,Plymouth Argyle,Luton Town,0-3,0,3,Football League Second Division,2,A
+1961-08-26,1961/1962,Leyton Orient,Middlesbrough,2-0,2,0,Football League Second Division,2,H
+1961-08-26,1961/1962,Rotherham United,Bristol Rovers,4-0,4,0,Football League Second Division,2,H
+1961-08-26,1961/1962,Derby County,Walsall,1-3,1,3,Football League Second Division,2,A
+1961-08-26,1961/1962,Charlton Athletic,Norwich City,2-2,2,2,Football League Second Division,2,D
+1961-08-26,1961/1962,Bury,Scunthorpe United,4-1,4,1,Football League Second Division,2,H
+1961-08-26,1961/1962,Huddersfield Town,Southampton,1-0,1,0,Football League Second Division,2,H
+1961-08-26,1961/1962,Bristol City,Shrewsbury Town,0-1,0,1,Football League Third Division,3,A
+1961-08-26,1961/1962,Crystal Palace,Swindon Town,3-1,3,1,Football League Third Division,3,H
+1961-08-26,1961/1962,Grimsby Town,Southend United,3-1,3,1,Football League Third Division,3,H
+1961-08-26,1961/1962,Hull City,Northampton Town,1-0,1,0,Football League Third Division,3,H
+1961-08-26,1961/1962,Brentford,Reading,1-2,1,2,Football League Third Division,3,A
+1961-08-26,1961/1962,Port Vale,Peterborough United,0-1,0,1,Football League Third Division,3,A
+1961-08-26,1961/1962,Portsmouth,Halifax Town,1-1,1,1,Football League Third Division,3,D
+1961-08-26,1961/1962,Watford,Lincoln City,3-3,3,3,Football League Third Division,3,D
+1961-08-26,1961/1962,Bradford Park Avenue,Notts County,3-2,3,2,Football League Third Division,3,H
+1961-08-26,1961/1962,Barnsley,Queens Park Rangers,2-4,2,4,Football League Third Division,3,A
+1961-08-26,1961/1962,AFC Bournemouth,Torquay United,3-1,3,1,Football League Third Division,3,H
+1961-08-28,1961/1962,Wolverhampton Wanderers,Aston Villa,2-2,2,2,Football League First Division,1,D
+1961-08-28,1961/1962,West Ham United,Tottenham Hotspur,2-1,2,1,Football League First Division,1,H
+1961-08-28,1961/1962,Sheffield United,Cardiff City,1-0,1,0,Football League First Division,1,H
+1961-08-28,1961/1962,Blackburn Rovers,Blackpool,1-1,1,1,Football League First Division,1,D
+1961-08-28,1961/1962,Barrow,Mansfield Town,1-1,1,1,Football League Fourth Division,4,D
+1961-08-28,1961/1962,Tranmere Rovers,Aldershot,1-2,1,2,Football League Fourth Division,4,A
+1961-08-28,1961/1962,Stockport County,Southport,1-4,1,4,Football League Fourth Division,4,A
+1961-08-28,1961/1962,Millwall,Rochdale,1-1,1,1,Football League Fourth Division,4,D
+1961-08-28,1961/1962,Darlington,Accrington Stanley,1-1,1,1,Football League Fourth Division,4,D
+1961-08-28,1961/1962,Chesterfield,Exeter City,2-0,2,0,Football League Fourth Division,4,H
+1961-08-28,1961/1962,Bristol Rovers,Bury,0-1,0,1,Football League Second Division,2,A
+1961-08-28,1961/1962,Stoke City,Charlton Athletic,4-0,4,0,Football League Second Division,2,H
+1961-08-28,1961/1962,Southend United,Portsmouth,2-2,2,2,Football League Third Division,3,D
+1961-08-28,1961/1962,Halifax Town,Brentford,1-0,1,0,Football League Third Division,3,H
+1961-08-28,1961/1962,Peterborough United,Watford,4-3,4,3,Football League Third Division,3,H
+1961-08-29,1961/1962,Ipswich Town,Burnley,6-2,6,2,Football League First Division,1,H
+1961-08-29,1961/1962,Arsenal,Leicester City,4-4,4,4,Football League First Division,1,D
+1961-08-29,1961/1962,Carlisle United,Colchester United,1-1,1,1,Football League Fourth Division,4,D
+1961-08-29,1961/1962,Walsall,Newcastle United,1-0,1,0,Football League Second Division,2,H
+1961-08-29,1961/1962,Scunthorpe United,Norwich City,2-0,2,0,Football League Second Division,2,H
+1961-08-29,1961/1962,Swansea City,Preston North End,1-2,1,2,Football League Second Division,2,A
+1961-08-29,1961/1962,Swindon Town,Coventry City,3-3,3,3,Football League Third Division,3,D
+1961-08-29,1961/1962,Northampton Town,Bristol City,0-1,0,1,Football League Third Division,3,A
+1961-08-30,1961/1962,Manchester City,Fulham,2-1,2,1,Football League First Division,1,H
+1961-08-30,1961/1962,Everton,West Bromwich Albion,3-1,3,1,Football League First Division,1,H
+1961-08-30,1961/1962,Chelsea,Manchester United,2-0,2,0,Football League First Division,1,H
+1961-08-30,1961/1962,Bolton Wanderers,Sheffield Wednesday,4-3,4,3,Football League First Division,1,H
+1961-08-30,1961/1962,Birmingham City,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1961-08-30,1961/1962,Wrexham,York City,2-1,2,1,Football League Fourth Division,4,H
+1961-08-30,1961/1962,Workington,Doncaster Rovers,0-0,0,0,Football League Fourth Division,4,D
+1961-08-30,1961/1962,Oldham Athletic,Hartlepool United,5-2,5,2,Football League Fourth Division,4,H
+1961-08-30,1961/1962,Gillingham,Crewe Alexandra,0-1,0,1,Football League Fourth Division,4,A
+1961-08-30,1961/1962,Bradford City,Chester,2-0,2,0,Football League Fourth Division,4,H
+1961-08-30,1961/1962,Sunderland,Liverpool,1-4,1,4,Football League Second Division,2,A
+1961-08-30,1961/1962,Plymouth Argyle,Huddersfield Town,4-2,4,2,Football League Second Division,2,H
+1961-08-30,1961/1962,Middlesbrough,Rotherham United,5-1,5,1,Football League Second Division,2,H
+1961-08-30,1961/1962,Luton Town,Derby County,4-2,4,2,Football League Second Division,2,H
+1961-08-30,1961/1962,Leeds United,Brighton & Hove Albion,1-1,1,1,Football League Second Division,2,D
+1961-08-30,1961/1962,Southampton,Leyton Orient,1-2,1,2,Football League Second Division,2,A
+1961-08-30,1961/1962,Shrewsbury Town,AFC Bournemouth,2-2,2,2,Football League Third Division,3,D
+1961-08-30,1961/1962,Reading,Queens Park Rangers,0-2,0,2,Football League Third Division,3,A
+1961-08-30,1961/1962,Lincoln City,Bradford Park Avenue,3-2,3,2,Football League Third Division,3,H
+1961-08-30,1961/1962,Barnsley,Newport County,1-1,1,1,Football League Third Division,3,D
+1961-08-30,1961/1962,Torquay United,Grimsby Town,1-2,1,2,Football League Third Division,3,A
+1961-08-31,1961/1962,Notts County,Crystal Palace,0-0,0,0,Football League Third Division,3,D
+1961-08-31,1961/1962,Hull City,Port Vale,3-1,3,1,Football League Third Division,3,H
+1961-09-01,1961/1962,Tranmere Rovers,Hartlepool United,3-2,3,2,Football League Fourth Division,4,H
+1961-09-01,1961/1962,Scunthorpe United,Charlton Athletic,6-1,6,1,Football League Second Division,2,H
+1961-09-02,1961/1962,Everton,Sheffield Wednesday,0-4,0,4,Football League First Division,1,A
+1961-09-02,1961/1962,Birmingham City,Leicester City,1-5,1,5,Football League First Division,1,A
+1961-09-02,1961/1962,Blackburn Rovers,Wolverhampton Wanderers,2-1,2,1,Football League First Division,1,H
+1961-09-02,1961/1962,Bolton Wanderers,Arsenal,2-1,2,1,Football League First Division,1,H
+1961-09-02,1961/1962,Chelsea,Fulham,0-0,0,0,Football League First Division,1,D
+1961-09-02,1961/1962,Manchester City,Burnley,1-3,1,3,Football League First Division,1,A
+1961-09-02,1961/1962,Sheffield United,Aston Villa,0-2,0,2,Football League First Division,1,A
+1961-09-02,1961/1962,Tottenham Hotspur,Cardiff City,3-2,3,2,Football League First Division,1,H
+1961-09-02,1961/1962,West Bromwich Albion,Ipswich Town,1-3,1,3,Football League First Division,1,A
+1961-09-02,1961/1962,Blackpool,Manchester United,2-3,2,3,Football League First Division,1,A
+1961-09-02,1961/1962,West Ham United,Nottingham Forest,3-2,3,2,Football League First Division,1,H
+1961-09-02,1961/1962,Aldershot,Chesterfield,1-1,1,1,Football League Fourth Division,4,D
+1961-09-02,1961/1962,Bradford City,Stockport County,1-3,1,3,Football League Fourth Division,4,A
+1961-09-02,1961/1962,Carlisle United,Oldham Athletic,2-0,2,0,Football League Fourth Division,4,H
+1961-09-02,1961/1962,Chester,Darlington,2-2,2,2,Football League Fourth Division,4,D
+1961-09-02,1961/1962,Southport,Crewe Alexandra,2-0,2,0,Football League Fourth Division,4,H
+1961-09-02,1961/1962,Colchester United,Accrington Stanley,3-2,3,2,Football League Fourth Division,4,H
+1961-09-02,1961/1962,Gillingham,York City,1-2,1,2,Football League Fourth Division,4,A
+1961-09-02,1961/1962,Mansfield Town,Doncaster Rovers,4-0,4,0,Football League Fourth Division,4,H
+1961-09-02,1961/1962,Millwall,Workington,5-0,5,0,Football League Fourth Division,4,H
+1961-09-02,1961/1962,Rochdale,Exeter City,3-0,3,0,Football League Fourth Division,4,H
+1961-09-02,1961/1962,Barrow,Wrexham,0-2,0,2,Football League Fourth Division,4,A
+1961-09-02,1961/1962,Walsall,Leyton Orient,1-5,1,5,Football League Second Division,2,A
+1961-09-02,1961/1962,Brighton & Hove Albion,Bury,0-2,0,2,Football League Second Division,2,A
+1961-09-02,1961/1962,Bristol Rovers,Sunderland,2-3,2,3,Football League Second Division,2,A
+1961-09-02,1961/1962,Leeds United,Rotherham United,1-3,1,3,Football League Second Division,2,A
+1961-09-02,1961/1962,Luton Town,Huddersfield Town,3-4,3,4,Football League Second Division,2,A
+1961-09-02,1961/1962,Middlesbrough,Preston North End,1-0,1,0,Football League Second Division,2,H
+1961-09-02,1961/1962,Newcastle United,Plymouth Argyle,0-2,0,2,Football League Second Division,2,A
+1961-09-02,1961/1962,Norwich City,Liverpool,1-2,1,2,Football League Second Division,2,A
+1961-09-02,1961/1962,Southampton,Swansea City,5-1,5,1,Football League Second Division,2,H
+1961-09-02,1961/1962,Stoke City,Derby County,1-1,1,1,Football League Second Division,2,D
+1961-09-02,1961/1962,Torquay United,Watford,3-4,3,4,Football League Third Division,3,A
+1961-09-02,1961/1962,Newport County,Brentford,6-1,6,1,Football League Third Division,3,H
+1961-09-02,1961/1962,Northampton Town,Port Vale,1-1,1,1,Football League Third Division,3,D
+1961-09-02,1961/1962,Notts County,Grimsby Town,2-0,2,0,Football League Third Division,3,H
+1961-09-02,1961/1962,Peterborough United,Bristol City,3-4,3,4,Football League Third Division,3,A
+1961-09-02,1961/1962,Queens Park Rangers,Portsmouth,0-1,0,1,Football League Third Division,3,A
+1961-09-02,1961/1962,Shrewsbury Town,Bradford Park Avenue,4-1,4,1,Football League Third Division,3,H
+1961-09-02,1961/1962,Southend United,Coventry City,2-0,2,0,Football League Third Division,3,H
+1961-09-02,1961/1962,Swindon Town,AFC Bournemouth,1-1,1,1,Football League Third Division,3,D
+1961-09-02,1961/1962,Lincoln City,Hull City,0-3,0,3,Football League Third Division,3,A
+1961-09-02,1961/1962,Halifax Town,Crystal Palace,1-1,1,1,Football League Third Division,3,D
+1961-09-02,1961/1962,Barnsley,Reading,2-3,2,3,Football League Third Division,3,A
+1961-09-04,1961/1962,Sheffield United,Tottenham Hotspur,1-1,1,1,Football League First Division,1,D
+1961-09-04,1961/1962,Blackpool,West Ham United,2-0,2,0,Football League First Division,1,H
+1961-09-04,1961/1962,York City,Exeter City,2-1,2,1,Football League Fourth Division,4,H
+1961-09-04,1961/1962,Wrexham,Workington,2-3,2,3,Football League Fourth Division,4,A
+1961-09-04,1961/1962,Tranmere Rovers,Bradford City,3-2,3,2,Football League Fourth Division,4,H
+1961-09-04,1961/1962,Millwall,Barrow,1-0,1,0,Football League Fourth Division,4,H
+1961-09-04,1961/1962,Hartlepool United,Stockport County,2-2,2,2,Football League Fourth Division,4,D
+1961-09-04,1961/1962,Darlington,Oldham Athletic,3-0,3,0,Football League Fourth Division,4,H
+1961-09-04,1961/1962,Accrington Stanley,Mansfield Town,0-0,0,0,Football League Fourth Division,4,D
+1961-09-04,1961/1962,Coventry City,Halifax Town,3-1,3,1,Football League Third Division,3,H
+1961-09-04,1961/1962,Queens Park Rangers,Swindon Town,6-1,6,1,Football League Third Division,3,H
+1961-09-04,1961/1962,Port Vale,Southend United,0-0,0,0,Football League Third Division,3,D
+1961-09-05,1961/1962,Burnley,Leicester City,2-0,2,0,Football League First Division,1,H
+1961-09-05,1961/1962,Ipswich Town,Blackburn Rovers,2-1,2,1,Football League First Division,1,H
+1961-09-05,1961/1962,Doncaster Rovers,Colchester United,1-4,1,4,Football League Fourth Division,4,A
+1961-09-05,1961/1962,Brighton & Hove Albion,Stoke City,2-1,2,1,Football League Second Division,2,H
+1961-09-05,1961/1962,Scunthorpe United,Bristol Rovers,2-1,2,1,Football League Second Division,2,H
+1961-09-05,1961/1962,Grimsby Town,Brentford,1-0,1,0,Football League Third Division,3,H
+1961-09-05,1961/1962,Watford,Shrewsbury Town,1-1,1,1,Football League Third Division,3,D
+1961-09-05,1961/1962,Bristol City,Newport County,1-2,1,2,Football League Third Division,3,A
+1961-09-06,1961/1962,West Bromwich Albion,Birmingham City,0-0,0,0,Football League First Division,1,D
+1961-09-06,1961/1962,Fulham,Bolton Wanderers,2-2,2,2,Football League First Division,1,D
+1961-09-06,1961/1962,Everton,Manchester City,0-2,0,2,Football League First Division,1,A
+1961-09-06,1961/1962,Cardiff City,Chelsea,5-2,5,2,Football League First Division,1,H
+1961-09-06,1961/1962,Rochdale,Gillingham,3-1,3,1,Football League Fourth Division,4,H
+1961-09-06,1961/1962,Crewe Alexandra,Chesterfield,2-1,2,1,Football League Fourth Division,4,H
+1961-09-06,1961/1962,Chester,Carlisle United,1-1,1,1,Football League Fourth Division,4,D
+1961-09-06,1961/1962,Aldershot,Southport,2-0,2,0,Football League Fourth Division,4,H
+1961-09-06,1961/1962,Southampton,Walsall,1-1,1,1,Football League Second Division,2,D
+1961-09-06,1961/1962,Norwich City,Leeds United,2-0,2,0,Football League Second Division,2,H
+1961-09-06,1961/1962,Derby County,Swansea City,6-3,6,3,Football League Second Division,2,H
+1961-09-06,1961/1962,Bradford Park Avenue,Reading,1-3,1,3,Football League Third Division,3,A
+1961-09-06,1961/1962,Portsmouth,Lincoln City,0-0,0,0,Football League Third Division,3,D
+1961-09-06,1961/1962,Crystal Palace,Northampton Town,1-4,1,4,Football League Third Division,3,A
+1961-09-06,1961/1962,AFC Bournemouth,Hull City,1-1,1,1,Football League Third Division,3,D
+1961-09-07,1961/1962,Torquay United,Barnsley,6-2,6,2,Football League Third Division,3,H
+1961-09-07,1961/1962,Notts County,Peterborough United,2-2,2,2,Football League Third Division,3,D
+1961-09-08,1961/1962,Stockport County,Aldershot,3-1,3,1,Football League Fourth Division,4,H
+1961-09-08,1961/1962,Reading,Newport County,2-1,2,1,Football League Third Division,3,H
+1961-09-09,1961/1962,Cardiff City,Bolton Wanderers,1-2,1,2,Football League First Division,1,A
+1961-09-09,1961/1962,Burnley,West Bromwich Albion,3-1,3,1,Football League First Division,1,H
+1961-09-09,1961/1962,Chelsea,Sheffield United,6-1,6,1,Football League First Division,1,H
+1961-09-09,1961/1962,Ipswich Town,Birmingham City,4-1,4,1,Football League First Division,1,H
+1961-09-09,1961/1962,Leicester City,Everton,2-0,2,0,Football League First Division,1,H
+1961-09-09,1961/1962,Manchester United,Tottenham Hotspur,1-0,1,0,Football League First Division,1,H
+1961-09-09,1961/1962,Nottingham Forest,Blackburn Rovers,1-2,1,2,Football League First Division,1,A
+1961-09-09,1961/1962,Sheffield Wednesday,Fulham,1-1,1,1,Football League First Division,1,D
+1961-09-09,1961/1962,Aston Villa,West Ham United,2-4,2,4,Football League First Division,1,A
+1961-09-09,1961/1962,Wolverhampton Wanderers,Blackpool,2-2,2,2,Football League First Division,1,D
+1961-09-09,1961/1962,Arsenal,Manchester City,3-0,3,0,Football League First Division,1,H
+1961-09-09,1961/1962,York City,Millwall,0-1,0,1,Football League Fourth Division,4,A
+1961-09-09,1961/1962,Chesterfield,Gillingham,3-2,3,2,Football League Fourth Division,4,H
+1961-09-09,1961/1962,Darlington,Colchester United,0-2,0,2,Football League Fourth Division,4,A
+1961-09-09,1961/1962,Exeter City,Crewe Alexandra,2-1,2,1,Football League Fourth Division,4,H
+1961-09-09,1961/1962,Hartlepool United,Chester,1-3,1,3,Football League Fourth Division,4,A
+1961-09-09,1961/1962,Oldham Athletic,Bradford City,2-2,2,2,Football League Fourth Division,4,D
+1961-09-09,1961/1962,Southport,Tranmere Rovers,2-1,2,1,Football League Fourth Division,4,H
+1961-09-09,1961/1962,Workington,Mansfield Town,1-1,1,1,Football League Fourth Division,4,D
+1961-09-09,1961/1962,Wrexham,Rochdale,3-0,3,0,Football League Fourth Division,4,H
+1961-09-09,1961/1962,Accrington Stanley,Carlisle United,1-0,1,0,Football League Fourth Division,4,H
+1961-09-09,1961/1962,Sunderland,Leeds United,2-1,2,1,Football League Second Division,2,H
+1961-09-09,1961/1962,Swansea City,Luton Town,3-2,3,2,Football League Second Division,2,H
+1961-09-09,1961/1962,Charlton Athletic,Brighton & Hove Albion,2-3,2,3,Football League Second Division,2,A
+1961-09-09,1961/1962,Huddersfield Town,Newcastle United,2-1,2,1,Football League Second Division,2,H
+1961-09-09,1961/1962,Leyton Orient,Derby County,2-0,2,0,Football League Second Division,2,H
+1961-09-09,1961/1962,Liverpool,Scunthorpe United,2-1,2,1,Football League Second Division,2,H
+1961-09-09,1961/1962,Plymouth Argyle,Middlesbrough,1-1,1,1,Football League Second Division,2,D
+1961-09-09,1961/1962,Preston North End,Walsall,2-3,2,3,Football League Second Division,2,A
+1961-09-09,1961/1962,Rotherham United,Norwich City,3-1,3,1,Football League Second Division,2,H
+1961-09-09,1961/1962,Stoke City,Bristol Rovers,2-1,2,1,Football League Second Division,2,H
+1961-09-09,1961/1962,Bury,Southampton,0-2,0,2,Football League Second Division,2,A
+1961-09-09,1961/1962,Brentford,Southend United,0-0,0,0,Football League Third Division,3,D
+1961-09-09,1961/1962,Bristol City,Port Vale,0-1,0,1,Football League Third Division,3,A
+1961-09-09,1961/1962,Coventry City,Notts County,2-2,2,2,Football League Third Division,3,D
+1961-09-09,1961/1962,Crystal Palace,Queens Park Rangers,2-2,2,2,Football League Third Division,3,D
+1961-09-09,1961/1962,Grimsby Town,Shrewsbury Town,2-1,2,1,Football League Third Division,3,H
+1961-09-09,1961/1962,Hull City,Torquay United,4-0,4,0,Football League Third Division,3,H
+1961-09-09,1961/1962,Northampton Town,Lincoln City,2-2,2,2,Football League Third Division,3,D
+1961-09-09,1961/1962,Portsmouth,Barnsley,3-2,3,2,Football League Third Division,3,H
+1961-09-09,1961/1962,Bradford Park Avenue,Peterborough United,6-2,6,2,Football League Third Division,3,H
+1961-09-09,1961/1962,Watford,Swindon Town,2-0,2,0,Football League Third Division,3,H
+1961-09-09,1961/1962,AFC Bournemouth,Halifax Town,2-1,2,1,Football League Third Division,3,H
+1961-09-15,1961/1962,Scunthorpe United,Rotherham United,5-2,5,2,Football League Second Division,2,H
+1961-09-15,1961/1962,Bury,Charlton Athletic,1-2,1,2,Football League Second Division,2,A
+1961-09-16,1961/1962,Blackpool,Nottingham Forest,1-3,1,3,Football League First Division,1,A
+1961-09-16,1961/1962,Birmingham City,Burnley,2-6,2,6,Football League First Division,1,A
+1961-09-16,1961/1962,Blackburn Rovers,Aston Villa,4-2,4,2,Football League First Division,1,H
+1961-09-16,1961/1962,Cardiff City,Manchester United,1-2,1,2,Football League First Division,1,A
+1961-09-16,1961/1962,Everton,Ipswich Town,5-2,5,2,Football League First Division,1,H
+1961-09-16,1961/1962,Fulham,Leicester City,2-1,2,1,Football League First Division,1,H
+1961-09-16,1961/1962,Manchester City,Bolton Wanderers,2-1,2,1,Football League First Division,1,H
+1961-09-16,1961/1962,Tottenham Hotspur,Wolverhampton Wanderers,1-0,1,0,Football League First Division,1,H
+1961-09-16,1961/1962,West Bromwich Albion,Arsenal,4-0,4,0,Football League First Division,1,H
+1961-09-16,1961/1962,Sheffield United,Sheffield Wednesday,1-0,1,0,Football League First Division,1,H
+1961-09-16,1961/1962,West Ham United,Chelsea,2-1,2,1,Football League First Division,1,H
+1961-09-16,1961/1962,Aldershot,Oldham Athletic,3-1,3,1,Football League Fourth Division,4,H
+1961-09-16,1961/1962,Barrow,Workington,1-1,1,1,Football League Fourth Division,4,D
+1961-09-16,1961/1962,Carlisle United,Darlington,1-0,1,0,Football League Fourth Division,4,H
+1961-09-16,1961/1962,Chester,Southport,2-0,2,0,Football League Fourth Division,4,H
+1961-09-16,1961/1962,Colchester United,Hartlepool United,6-1,6,1,Football League Fourth Division,4,H
+1961-09-16,1961/1962,Crewe Alexandra,Wrexham,0-3,0,3,Football League Fourth Division,4,A
+1961-09-16,1961/1962,Mansfield Town,York City,3-1,3,1,Football League Fourth Division,4,H
+1961-09-16,1961/1962,Millwall,Chesterfield,2-1,2,1,Football League Fourth Division,4,H
+1961-09-16,1961/1962,Rochdale,Doncaster Rovers,2-3,2,3,Football League Fourth Division,4,A
+1961-09-16,1961/1962,Stockport County,Gillingham,3-1,3,1,Football League Fourth Division,4,H
+1961-09-16,1961/1962,Tranmere Rovers,Exeter City,3-4,3,4,Football League Fourth Division,4,A
+1961-09-16,1961/1962,Bradford City,Accrington Stanley,0-1,0,1,Football League Fourth Division,4,A
+1961-09-16,1961/1962,Brighton & Hove Albion,Liverpool,0-0,0,0,Football League Second Division,2,D
+1961-09-16,1961/1962,Bristol Rovers,Leyton Orient,2-1,2,1,Football League Second Division,2,H
+1961-09-16,1961/1962,Derby County,Preston North End,3-2,3,2,Football League Second Division,2,H
+1961-09-16,1961/1962,Leeds United,Stoke City,3-1,3,1,Football League Second Division,2,H
+1961-09-16,1961/1962,Luton Town,Southampton,1-4,1,4,Football League Second Division,2,A
+1961-09-16,1961/1962,Middlesbrough,Huddersfield Town,1-0,1,0,Football League Second Division,2,H
+1961-09-16,1961/1962,Newcastle United,Swansea City,2-2,2,2,Football League Second Division,2,D
+1961-09-16,1961/1962,Norwich City,Sunderland,3-1,3,1,Football League Second Division,2,H
+1961-09-16,1961/1962,Walsall,Plymouth Argyle,1-0,1,0,Football League Second Division,2,H
+1961-09-16,1961/1962,Notts County,Brentford,3-1,3,1,Football League Third Division,3,H
+1961-09-16,1961/1962,Peterborough United,Grimsby Town,2-1,2,1,Football League Third Division,3,H
+1961-09-16,1961/1962,Port Vale,Bradford Park Avenue,3-2,3,2,Football League Third Division,3,H
+1961-09-16,1961/1962,Portsmouth,Newport County,2-2,2,2,Football League Third Division,3,D
+1961-09-16,1961/1962,Queens Park Rangers,AFC Bournemouth,1-1,1,1,Football League Third Division,3,D
+1961-09-16,1961/1962,Shrewsbury Town,Coventry City,1-1,1,1,Football League Third Division,3,D
+1961-09-16,1961/1962,Southend United,Reading,0-2,0,2,Football League Third Division,3,A
+1961-09-16,1961/1962,Swindon Town,Hull City,1-1,1,1,Football League Third Division,3,D
+1961-09-16,1961/1962,Torquay United,Northampton Town,1-2,1,2,Football League Third Division,3,A
+1961-09-16,1961/1962,Lincoln City,Bristol City,1-1,1,1,Football League Third Division,3,D
+1961-09-16,1961/1962,Barnsley,Crystal Palace,0-3,0,3,Football League Third Division,3,A
+1961-09-16,1961/1962,Halifax Town,Watford,2-0,2,0,Football League Third Division,3,H
+1961-09-18,1961/1962,West Ham United,Blackpool,2-2,2,2,Football League First Division,1,D
+1961-09-18,1961/1962,Blackburn Rovers,Ipswich Town,2-2,2,2,Football League First Division,1,D
+1961-09-18,1961/1962,Aston Villa,Manchester United,1-1,1,1,Football League First Division,1,D
+1961-09-18,1961/1962,Barrow,Accrington Stanley,3-1,3,1,Football League Fourth Division,4,H
+1961-09-18,1961/1962,York City,Carlisle United,1-1,1,1,Football League Fourth Division,4,D
+1961-09-18,1961/1962,Millwall,Stockport County,1-3,1,3,Football League Fourth Division,4,A
+1961-09-18,1961/1962,Darlington,Rochdale,2-0,2,0,Football League Fourth Division,4,H
+1961-09-18,1961/1962,Chesterfield,Bradford City,2-1,2,1,Football League Fourth Division,4,H
+1961-09-18,1961/1962,Stoke City,Brighton & Hove Albion,0-1,0,1,Football League Second Division,2,A
+1961-09-18,1961/1962,Bristol Rovers,Scunthorpe United,2-1,2,1,Football League Second Division,2,H
+1961-09-18,1961/1962,Southend United,Bristol City,1-0,1,0,Football League Third Division,3,H
+1961-09-18,1961/1962,Newport County,Bradford Park Avenue,1-2,1,2,Football League Third Division,3,A
+1961-09-18,1961/1962,Northampton Town,AFC Bournemouth,0-3,0,3,Football League Third Division,3,A
+1961-09-19,1961/1962,Nottingham Forest,Wolverhampton Wanderers,3-1,3,1,Football League First Division,1,H
+1961-09-19,1961/1962,Exeter City,Southport,1-1,1,1,Football League Fourth Division,4,D
+1961-09-19,1961/1962,Doncaster Rovers,Chester,2-0,2,0,Football League Fourth Division,4,H
+1961-09-19,1961/1962,Swansea City,Derby County,3-1,3,1,Football League Second Division,2,H
+1961-09-19,1961/1962,Bury,Sunderland,3-2,3,2,Football League Second Division,2,H
+1961-09-19,1961/1962,Walsall,Southampton,0-2,0,2,Football League Second Division,2,A
+1961-09-19,1961/1962,Brentford,Coventry City,2-1,2,1,Football League Third Division,3,H
+1961-09-19,1961/1962,Swindon Town,Barnsley,1-1,1,1,Football League Third Division,3,D
+1961-09-20,1961/1962,Bolton Wanderers,Fulham,2-3,2,3,Football League First Division,1,A
+1961-09-20,1961/1962,Sheffield Wednesday,Arsenal,1-1,1,1,Football League First Division,1,D
+1961-09-20,1961/1962,Manchester City,Everton,1-3,1,3,Football League First Division,1,A
+1961-09-20,1961/1962,Leicester City,Burnley,2-6,2,6,Football League First Division,1,A
+1961-09-20,1961/1962,Chelsea,Cardiff City,2-3,2,3,Football League First Division,1,A
+1961-09-20,1961/1962,Birmingham City,West Bromwich Albion,1-2,1,2,Football League First Division,1,A
+1961-09-20,1961/1962,Gillingham,Aldershot,0-1,0,1,Football League Fourth Division,4,A
+1961-09-20,1961/1962,Wrexham,Tranmere Rovers,4-0,4,0,Football League Fourth Division,4,H
+1961-09-20,1961/1962,Crewe Alexandra,Hartlepool United,3-0,3,0,Football League Fourth Division,4,H
+1961-09-20,1961/1962,Plymouth Argyle,Preston North End,1-0,1,0,Football League Second Division,2,H
+1961-09-20,1961/1962,Newcastle United,Liverpool,1-2,1,2,Football League Second Division,2,A
+1961-09-20,1961/1962,Leyton Orient,Huddersfield Town,3-0,3,0,Football League Second Division,2,H
+1961-09-20,1961/1962,Leeds United,Norwich City,0-1,0,1,Football League Second Division,2,A
+1961-09-20,1961/1962,Charlton Athletic,Rotherham United,0-2,0,2,Football League Second Division,2,A
+1961-09-20,1961/1962,Middlesbrough,Luton Town,2-4,2,4,Football League Second Division,2,A
+1961-09-20,1961/1962,Torquay United,Portsmouth,0-2,0,2,Football League Third Division,3,A
+1961-09-20,1961/1962,Shrewsbury Town,Peterborough United,3-4,3,4,Football League Third Division,3,A
+1961-09-20,1961/1962,Reading,Grimsby Town,1-2,1,2,Football League Third Division,3,A
+1961-09-20,1961/1962,Crystal Palace,Lincoln City,1-3,1,3,Football League Third Division,3,A
+1961-09-21,1961/1962,Workington,Colchester United,1-2,1,2,Football League Fourth Division,4,A
+1961-09-21,1961/1962,Notts County,Port Vale,2-3,2,3,Football League Third Division,3,A
+1961-09-21,1961/1962,Hull City,Watford,1-0,1,0,Football League Third Division,3,H
+1961-09-23,1961/1962,Bolton Wanderers,West Bromwich Albion,3-2,3,2,Football League First Division,1,H
+1961-09-23,1961/1962,Arsenal,Birmingham City,1-1,1,1,Football League First Division,1,D
+1961-09-23,1961/1962,Aston Villa,Blackpool,5-0,5,0,Football League First Division,1,H
+1961-09-23,1961/1962,Burnley,Everton,2-1,2,1,Football League First Division,1,H
+1961-09-23,1961/1962,Chelsea,Blackburn Rovers,1-1,1,1,Football League First Division,1,D
+1961-09-23,1961/1962,Leicester City,Sheffield Wednesday,1-0,1,0,Football League First Division,1,H
+1961-09-23,1961/1962,Manchester United,Manchester City,3-2,3,2,Football League First Division,1,H
+1961-09-23,1961/1962,Nottingham Forest,Tottenham Hotspur,2-0,2,0,Football League First Division,1,H
+1961-09-23,1961/1962,Sheffield United,West Ham United,1-4,1,4,Football League First Division,1,A
+1961-09-23,1961/1962,Wolverhampton Wanderers,Cardiff City,1-1,1,1,Football League First Division,1,D
+1961-09-23,1961/1962,Ipswich Town,Fulham,2-4,2,4,Football League First Division,1,A
+1961-09-23,1961/1962,Accrington Stanley,Aldershot,0-2,0,2,Football League Fourth Division,4,A
+1961-09-23,1961/1962,Oldham Athletic,Stockport County,0-0,0,0,Football League Fourth Division,4,D
+1961-09-23,1961/1962,Darlington,Bradford City,3-3,3,3,Football League Fourth Division,4,D
+1961-09-23,1961/1962,Doncaster Rovers,Crewe Alexandra,3-0,3,0,Football League Fourth Division,4,H
+1961-09-23,1961/1962,Gillingham,Millwall,3-1,3,1,Football League Fourth Division,4,H
+1961-09-23,1961/1962,Hartlepool United,Carlisle United,0-3,0,3,Football League Fourth Division,4,A
+1961-09-23,1961/1962,Southport,Colchester United,3-0,3,0,Football League Fourth Division,4,H
+1961-09-23,1961/1962,Tranmere Rovers,Chester,4-1,4,1,Football League Fourth Division,4,H
+1961-09-23,1961/1962,Workington,Rochdale,2-1,2,1,Football League Fourth Division,4,H
+1961-09-23,1961/1962,Wrexham,Exeter City,1-2,1,2,Football League Fourth Division,4,A
+1961-09-23,1961/1962,York City,Barrow,5-0,5,0,Football League Fourth Division,4,H
+1961-09-23,1961/1962,Chesterfield,Mansfield Town,0-4,0,4,Football League Fourth Division,4,A
+1961-09-23,1961/1962,Swansea City,Middlesbrough,3-3,3,3,Football League Second Division,2,D
+1961-09-23,1961/1962,Charlton Athletic,Luton Town,0-1,0,1,Football League Second Division,2,A
+1961-09-23,1961/1962,Huddersfield Town,Walsall,4-2,4,2,Football League Second Division,2,H
+1961-09-23,1961/1962,Liverpool,Bury,5-0,5,0,Football League Second Division,2,H
+1961-09-23,1961/1962,Plymouth Argyle,Derby County,2-3,2,3,Football League Second Division,2,A
+1961-09-23,1961/1962,Preston North End,Leyton Orient,3-2,3,2,Football League Second Division,2,H
+1961-09-23,1961/1962,Rotherham United,Brighton & Hove Albion,2-1,2,1,Football League Second Division,2,H
+1961-09-23,1961/1962,Southampton,Newcastle United,1-0,1,0,Football League Second Division,2,H
+1961-09-23,1961/1962,Stoke City,Norwich City,3-1,3,1,Football League Second Division,2,H
+1961-09-23,1961/1962,Sunderland,Scunthorpe United,4-0,4,0,Football League Second Division,2,H
+1961-09-23,1961/1962,Bristol Rovers,Leeds United,4-0,4,0,Football League Second Division,2,H
+1961-09-23,1961/1962,Crystal Palace,Portsmouth,1-2,1,2,Football League Third Division,3,A
+1961-09-23,1961/1962,Grimsby Town,Port Vale,1-1,1,1,Football League Third Division,3,D
+1961-09-23,1961/1962,Hull City,Halifax Town,1-2,1,2,Football League Third Division,3,A
+1961-09-23,1961/1962,Lincoln City,Torquay United,1-3,1,3,Football League Third Division,3,A
+1961-09-23,1961/1962,Newport County,Southend United,0-3,0,3,Football League Third Division,3,A
+1961-09-23,1961/1962,Coventry City,Peterborough United,1-3,1,3,Football League Third Division,3,A
+1961-09-23,1961/1962,Northampton Town,Swindon Town,1-2,1,2,Football League Third Division,3,A
+1961-09-23,1961/1962,Reading,Notts County,4-2,4,2,Football League Third Division,3,H
+1961-09-23,1961/1962,Watford,Queens Park Rangers,3-2,3,2,Football League Third Division,3,H
+1961-09-23,1961/1962,Brentford,Shrewsbury Town,4-0,4,0,Football League Third Division,3,H
+1961-09-23,1961/1962,Bradford Park Avenue,Bristol City,2-0,2,0,Football League Third Division,3,H
+1961-09-23,1961/1962,AFC Bournemouth,Barnsley,5-0,5,0,Football League Third Division,3,H
+1961-09-25,1961/1962,Tranmere Rovers,Wrexham,2-0,2,0,Football League Fourth Division,4,H
+1961-09-25,1961/1962,Stockport County,Millwall,1-1,1,1,Football League Fourth Division,4,D
+1961-09-25,1961/1962,Southport,Exeter City,1-1,1,1,Football League Fourth Division,4,D
+1961-09-25,1961/1962,Hartlepool United,Crewe Alexandra,2-1,2,1,Football League Fourth Division,4,H
+1961-09-25,1961/1962,Colchester United,Workington,6-1,6,1,Football League Fourth Division,4,H
+1961-09-25,1961/1962,Accrington Stanley,Barrow,2-2,2,2,Football League Fourth Division,4,D
+1961-09-25,1961/1962,Coventry City,Brentford,2-0,2,0,Football League Third Division,3,H
+1961-09-25,1961/1962,Queens Park Rangers,Halifax Town,6-2,6,2,Football League Third Division,3,H
+1961-09-25,1961/1962,Port Vale,Notts County,1-0,1,0,Football League Third Division,3,H
+1961-09-25,1961/1962,Peterborough United,Shrewsbury Town,0-3,0,3,Football League Third Division,3,A
+1961-09-26,1961/1962,Preston North End,Plymouth Argyle,1-1,1,1,Football League Second Division,2,D
+1961-09-26,1961/1962,Rotherham United,Charlton Athletic,3-2,3,2,Football League Second Division,2,H
+1961-09-26,1961/1962,Watford,Hull City,1-1,1,1,Football League Third Division,3,D
+1961-09-26,1961/1962,Bristol City,Southend United,3-2,3,2,Football League Third Division,3,H
+1961-09-26,1961/1962,Grimsby Town,Reading,4-0,4,0,Football League Third Division,3,H
+1961-09-27,1961/1962,Wolverhampton Wanderers,Nottingham Forest,2-1,2,1,Football League First Division,1,H
+1961-09-27,1961/1962,Chester,Doncaster Rovers,2-3,2,3,Football League Fourth Division,4,A
+1961-09-27,1961/1962,Carlisle United,York City,3-2,3,2,Football League Fourth Division,4,H
+1961-09-27,1961/1962,Aldershot,Gillingham,4-0,4,0,Football League Fourth Division,4,H
+1961-09-27,1961/1962,Sunderland,Bury,3-0,3,0,Football League Second Division,2,H
+1961-09-27,1961/1962,Luton Town,Middlesbrough,3-2,3,2,Football League Second Division,2,H
+1961-09-27,1961/1962,Huddersfield Town,Leyton Orient,1-1,1,1,Football League Second Division,2,D
+1961-09-27,1961/1962,Lincoln City,Crystal Palace,3-2,3,2,Football League Third Division,3,H
+1961-09-27,1961/1962,Barnsley,Swindon Town,6-2,6,2,Football League Third Division,3,H
+1961-09-27,1961/1962,Portsmouth,Torquay United,2-0,2,0,Football League Third Division,3,H
+1961-09-27,1961/1962,AFC Bournemouth,Northampton Town,3-2,3,2,Football League Third Division,3,H
+1961-09-29,1961/1962,Stockport County,Accrington Stanley,2-0,2,0,Football League Fourth Division,4,H
+1961-09-29,1961/1962,Leyton Orient,Plymouth Argyle,1-2,1,2,Football League Second Division,2,A
+1961-09-29,1961/1962,Scunthorpe United,Stoke City,2-2,2,2,Football League Second Division,2,D
+1961-09-29,1961/1962,Bristol City,Grimsby Town,3-0,3,0,Football League Third Division,3,H
+1961-09-30,1961/1962,Birmingham City,Bolton Wanderers,2-1,2,1,Football League First Division,1,H
+1961-09-30,1961/1962,Blackburn Rovers,Sheffield United,1-2,1,2,Football League First Division,1,A
+1961-09-30,1961/1962,Blackpool,Chelsea,4-0,4,0,Football League First Division,1,H
+1961-09-30,1961/1962,Everton,Arsenal,4-1,4,1,Football League First Division,1,H
+1961-09-30,1961/1962,Fulham,Burnley,3-5,3,5,Football League First Division,1,A
+1961-09-30,1961/1962,Manchester United,Wolverhampton Wanderers,0-2,0,2,Football League First Division,1,A
+1961-09-30,1961/1962,Sheffield Wednesday,Ipswich Town,1-4,1,4,Football League First Division,1,A
+1961-09-30,1961/1962,Tottenham Hotspur,Aston Villa,1-0,1,0,Football League First Division,1,H
+1961-09-30,1961/1962,Cardiff City,Nottingham Forest,2-2,2,2,Football League First Division,1,D
+1961-09-30,1961/1962,West Ham United,Leicester City,4-1,4,1,Football League First Division,1,H
+1961-09-30,1961/1962,West Bromwich Albion,Manchester City,2-2,2,2,Football League First Division,1,D
+1961-09-30,1961/1962,Mansfield Town,Gillingham,3-1,3,1,Football League Fourth Division,4,H
+1961-09-30,1961/1962,Barrow,Chesterfield,1-0,1,0,Football League Fourth Division,4,H
+1961-09-30,1961/1962,Bradford City,Hartlepool United,5-1,5,1,Football League Fourth Division,4,H
+1961-09-30,1961/1962,Rochdale,York City,3-1,3,1,Football League Fourth Division,4,H
+1961-09-30,1961/1962,Chester,Wrexham,1-1,1,1,Football League Fourth Division,4,D
+1961-09-30,1961/1962,Colchester United,Tranmere Rovers,3-0,3,0,Football League Fourth Division,4,H
+1961-09-30,1961/1962,Crewe Alexandra,Workington,2-0,2,0,Football League Fourth Division,4,H
+1961-09-30,1961/1962,Exeter City,Doncaster Rovers,1-5,1,5,Football League Fourth Division,4,A
+1961-09-30,1961/1962,Oldham Athletic,Millwall,4-2,4,2,Football League Fourth Division,4,H
+1961-09-30,1961/1962,Aldershot,Darlington,6-1,6,1,Football League Fourth Division,4,H
+1961-09-30,1961/1962,Carlisle United,Southport,2-1,2,1,Football League Fourth Division,4,H
+1961-09-30,1961/1962,Walsall,Swansea City,0-0,0,0,Football League Second Division,2,D
+1961-09-30,1961/1962,Brighton & Hove Albion,Sunderland,1-1,1,1,Football League Second Division,2,D
+1961-09-30,1961/1962,Bury,Rotherham United,2-1,2,1,Football League Second Division,2,H
+1961-09-30,1961/1962,Charlton Athletic,Liverpool,0-4,0,4,Football League Second Division,2,A
+1961-09-30,1961/1962,Derby County,Huddersfield Town,1-0,1,0,Football League Second Division,2,H
+1961-09-30,1961/1962,Leeds United,Preston North End,1-2,1,2,Football League Second Division,2,A
+1961-09-30,1961/1962,Middlesbrough,Southampton,1-1,1,1,Football League Second Division,2,D
+1961-09-30,1961/1962,Newcastle United,Luton Town,4-1,4,1,Football League Second Division,2,H
+1961-09-30,1961/1962,Norwich City,Bristol Rovers,2-2,2,2,Football League Second Division,2,D
+1961-09-30,1961/1962,Shrewsbury Town,Reading,4-1,4,1,Football League Third Division,3,H
+1961-09-30,1961/1962,Queens Park Rangers,Hull City,1-1,1,1,Football League Third Division,3,D
+1961-09-30,1961/1962,Portsmouth,AFC Bournemouth,1-1,1,1,Football League Third Division,3,D
+1961-09-30,1961/1962,Halifax Town,Northampton Town,1-3,1,3,Football League Third Division,3,A
+1961-09-30,1961/1962,Peterborough United,Brentford,6-0,6,0,Football League Third Division,3,H
+1961-09-30,1961/1962,Notts County,Newport County,8-1,8,1,Football League Third Division,3,H
+1961-09-30,1961/1962,Swindon Town,Lincoln City,4-0,4,0,Football League Third Division,3,H
+1961-09-30,1961/1962,Port Vale,Coventry City,2-0,2,0,Football League Third Division,3,H
+1961-09-30,1961/1962,Torquay United,Bradford Park Avenue,1-3,1,3,Football League Third Division,3,A
+1961-09-30,1961/1962,Crystal Palace,Southend United,2-2,2,2,Football League Third Division,3,D
+1961-09-30,1961/1962,Barnsley,Watford,3-0,3,0,Football League Third Division,3,H
+1961-10-02,1961/1962,Aston Villa,Wolverhampton Wanderers,1-0,1,0,Football League First Division,1,H
+1961-10-02,1961/1962,York City,Crewe Alexandra,4-2,4,2,Football League Fourth Division,4,H
+1961-10-02,1961/1962,Tranmere Rovers,Carlisle United,0-3,0,3,Football League Fourth Division,4,A
+1961-10-02,1961/1962,Millwall,Mansfield Town,4-0,4,0,Football League Fourth Division,4,H
+1961-10-02,1961/1962,Hartlepool United,Aldershot,0-2,0,2,Football League Fourth Division,4,A
+1961-10-02,1961/1962,Darlington,Stockport County,3-0,3,0,Football League Fourth Division,4,H
+1961-10-02,1961/1962,Accrington Stanley,Oldham Athletic,1-0,1,0,Football League Fourth Division,4,H
+1961-10-02,1961/1962,Colchester United,Chester,5-2,5,2,Football League Fourth Division,4,H
+1961-10-02,1961/1962,Southend United,Shrewsbury Town,1-1,1,1,Football League Third Division,3,D
+1961-10-02,1961/1962,Newport County,Peterborough United,2-3,2,3,Football League Third Division,3,A
+1961-10-03,1961/1962,Southport,Bradford City,2-1,2,1,Football League Fourth Division,4,H
+1961-10-03,1961/1962,Watford,Crystal Palace,3-2,3,2,Football League Third Division,3,H
+1961-10-03,1961/1962,Bristol City,Brentford,3-0,3,0,Football League Third Division,3,H
+1961-10-03,1961/1962,Northampton Town,Barnsley,3-1,3,1,Football League Third Division,3,H
+1961-10-03,1961/1962,Swindon Town,Grimsby Town,0-0,0,0,Football League Third Division,3,D
+1961-10-04,1961/1962,Gillingham,Barrow,3-2,3,2,Football League Fourth Division,4,H
+1961-10-04,1961/1962,Workington,Exeter City,3-1,3,1,Football League Fourth Division,4,H
+1961-10-04,1961/1962,Liverpool,Newcastle United,2-0,2,0,Football League Second Division,2,H
+1961-10-04,1961/1962,AFC Bournemouth,Notts County,2-1,2,1,Football League Third Division,3,H
+1961-10-04,1961/1962,Reading,Port Vale,0-0,0,0,Football League Third Division,3,D
+1961-10-06,1961/1962,Reading,Halifax Town,3-2,3,2,Football League Third Division,3,H
+1961-10-06,1961/1962,Coventry City,Torquay United,2-2,2,2,Football League Third Division,3,D
+1961-10-07,1961/1962,Sheffield Wednesday,Chelsea,5-3,5,3,Football League First Division,1,H
+1961-10-07,1961/1962,Arsenal,Blackpool,3-0,3,0,Football League First Division,1,H
+1961-10-07,1961/1962,Everton,Nottingham Forest,6-0,6,0,Football League First Division,1,H
+1961-10-07,1961/1962,Fulham,Aston Villa,3-1,3,1,Football League First Division,1,H
+1961-10-07,1961/1962,Ipswich Town,West Ham United,4-2,4,2,Football League First Division,1,H
+1961-10-07,1961/1962,Leicester City,Sheffield United,4-1,4,1,Football League First Division,1,H
+1961-10-07,1961/1962,Manchester City,Cardiff City,1-2,1,2,Football League First Division,1,A
+1961-10-07,1961/1962,West Bromwich Albion,Manchester United,1-1,1,1,Football League First Division,1,D
+1961-10-07,1961/1962,Birmingham City,Wolverhampton Wanderers,3-6,3,6,Football League First Division,1,A
+1961-10-07,1961/1962,Barrow,Oldham Athletic,3-1,3,1,Football League Fourth Division,4,H
+1961-10-07,1961/1962,Chesterfield,Carlisle United,1-3,1,3,Football League Fourth Division,4,A
+1961-10-07,1961/1962,Gillingham,Bradford City,3-1,3,1,Football League Fourth Division,4,H
+1961-10-07,1961/1962,Doncaster Rovers,Tranmere Rovers,6-1,6,1,Football League Fourth Division,4,H
+1961-10-07,1961/1962,York City,Colchester United,5-0,5,0,Football League Fourth Division,4,H
+1961-10-07,1961/1962,Exeter City,Hartlepool United,1-1,1,1,Football League Fourth Division,4,D
+1961-10-07,1961/1962,Mansfield Town,Stockport County,2-0,2,0,Football League Fourth Division,4,H
+1961-10-07,1961/1962,Millwall,Aldershot,2-1,2,1,Football League Fourth Division,4,H
+1961-10-07,1961/1962,Rochdale,Accrington Stanley,1-0,1,0,Football League Fourth Division,4,H
+1961-10-07,1961/1962,Workington,Chester,4-1,4,1,Football League Fourth Division,4,H
+1961-10-07,1961/1962,Wrexham,Southport,2-3,2,3,Football League Fourth Division,4,A
+1961-10-07,1961/1962,Crewe Alexandra,Darlington,5-1,5,1,Football League Fourth Division,4,H
+1961-10-07,1961/1962,Walsall,Rotherham United,5-0,5,0,Football League Second Division,2,H
+1961-10-07,1961/1962,Derby County,Sunderland,1-1,1,1,Football League Second Division,2,D
+1961-10-07,1961/1962,Leyton Orient,Stoke City,3-0,3,0,Football League Second Division,2,H
+1961-10-07,1961/1962,Luton Town,Bury,4-0,4,0,Football League Second Division,2,H
+1961-10-07,1961/1962,Middlesbrough,Liverpool,2-0,2,0,Football League Second Division,2,H
+1961-10-07,1961/1962,Newcastle United,Charlton Athletic,4-1,4,1,Football League Second Division,2,H
+1961-10-07,1961/1962,Plymouth Argyle,Leeds United,1-1,1,1,Football League Second Division,2,D
+1961-10-07,1961/1962,Preston North End,Bristol Rovers,1-0,1,0,Football League Second Division,2,H
+1961-10-07,1961/1962,Southampton,Brighton & Hove Albion,6-1,6,1,Football League Second Division,2,H
+1961-10-07,1961/1962,Swansea City,Scunthorpe United,2-1,2,1,Football League Second Division,2,H
+1961-10-07,1961/1962,Huddersfield Town,Norwich City,1-1,1,1,Football League Second Division,2,D
+1961-10-07,1961/1962,Newport County,Queens Park Rangers,2-4,2,4,Football League Third Division,3,A
+1961-10-07,1961/1962,Notts County,Portsmouth,2-1,2,1,Football League Third Division,3,H
+1961-10-07,1961/1962,Peterborough United,AFC Bournemouth,1-2,1,2,Football League Third Division,3,A
+1961-10-07,1961/1962,Port Vale,Watford,1-3,1,3,Football League Third Division,3,A
+1961-10-07,1961/1962,Shrewsbury Town,Crystal Palace,1-5,1,5,Football League Third Division,3,A
+1961-10-07,1961/1962,Grimsby Town,Lincoln City,4-1,4,1,Football League Third Division,3,H
+1961-10-07,1961/1962,Southend United,Barnsley,1-2,1,2,Football League Third Division,3,A
+1961-10-07,1961/1962,Bristol City,Hull City,1-1,1,1,Football League Third Division,3,D
+1961-10-07,1961/1962,Brentford,Swindon Town,1-0,1,0,Football League Third Division,3,H
+1961-10-07,1961/1962,Bradford Park Avenue,Northampton Town,1-2,1,2,Football League Third Division,3,A
+1961-10-09,1961/1962,Bolton Wanderers,Tottenham Hotspur,1-2,1,2,Football League First Division,1,A
+1961-10-09,1961/1962,Stockport County,Darlington,3-0,3,0,Football League Fourth Division,4,H
+1961-10-09,1961/1962,Barrow,Gillingham,7-0,7,0,Football League Fourth Division,4,H
+1961-10-09,1961/1962,Aldershot,Hartlepool United,1-1,1,1,Football League Fourth Division,4,D
+1961-10-09,1961/1962,Queens Park Rangers,Lincoln City,1-3,1,3,Football League Third Division,3,A
+1961-10-09,1961/1962,Port Vale,Reading,2-1,2,1,Football League Third Division,3,H
+1961-10-09,1961/1962,Coventry City,Bradford Park Avenue,3-0,3,0,Football League Third Division,3,H
+1961-10-09,1961/1962,Peterborough United,Newport County,2-1,2,1,Football League Third Division,3,H
+1961-10-10,1961/1962,Carlisle United,Tranmere Rovers,0-3,0,3,Football League Fourth Division,4,A
+1961-10-10,1961/1962,Doncaster Rovers,Wrexham,0-2,0,2,Football League Fourth Division,4,A
+1961-10-10,1961/1962,Brentford,Bristol City,0-2,0,2,Football League Third Division,3,A
+1961-10-10,1961/1962,Grimsby Town,Swindon Town,0-1,0,1,Football League Third Division,3,A
+1961-10-11,1961/1962,Crewe Alexandra,York City,0-0,0,0,Football League Fourth Division,4,D
+1961-10-11,1961/1962,Oldham Athletic,Accrington Stanley,5-0,5,0,Football League Fourth Division,4,H
+1961-10-11,1961/1962,Exeter City,Workington,3-1,3,1,Football League Fourth Division,4,H
+1961-10-11,1961/1962,Chester,Colchester United,2-2,2,2,Football League Fourth Division,4,D
+1961-10-11,1961/1962,Rochdale,Chesterfield,1-1,1,1,Football League Fourth Division,4,D
+1961-10-11,1961/1962,Bradford City,Southport,1-0,1,0,Football League Fourth Division,4,H
+1961-10-11,1961/1962,Torquay United,Halifax Town,2-3,2,3,Football League Third Division,3,A
+1961-10-11,1961/1962,Barnsley,Northampton Town,3-2,3,2,Football League Third Division,3,H
+1961-10-11,1961/1962,Portsmouth,Hull City,2-1,2,1,Football League Third Division,3,H
+1961-10-11,1961/1962,Crystal Palace,Watford,1-1,1,1,Football League Third Division,3,D
+1961-10-12,1961/1962,Notts County,AFC Bournemouth,3-2,3,2,Football League Third Division,3,H
+1961-10-13,1961/1962,Scunthorpe United,Southampton,5-1,5,1,Football League Second Division,2,H
+1961-10-13,1961/1962,Swindon Town,Reading,4-1,4,1,Football League Third Division,3,H
+1961-10-14,1961/1962,Blackburn Rovers,Arsenal,0-0,0,0,Football League First Division,1,D
+1961-10-14,1961/1962,Blackpool,Bolton Wanderers,2-1,2,1,Football League First Division,1,H
+1961-10-14,1961/1962,Chelsea,Leicester City,1-3,1,3,Football League First Division,1,A
+1961-10-14,1961/1962,Manchester United,Birmingham City,0-2,0,2,Football League First Division,1,A
+1961-10-14,1961/1962,Nottingham Forest,Fulham,1-1,1,1,Football League First Division,1,D
+1961-10-14,1961/1962,Sheffield United,Ipswich Town,2-1,2,1,Football League First Division,1,H
+1961-10-14,1961/1962,Tottenham Hotspur,Manchester City,2-0,2,0,Football League First Division,1,H
+1961-10-14,1961/1962,Wolverhampton Wanderers,Everton,0-3,0,3,Football League First Division,1,A
+1961-10-14,1961/1962,West Ham United,Burnley,2-1,2,1,Football League First Division,1,H
+1961-10-14,1961/1962,Accrington Stanley,Crewe Alexandra,1-0,1,0,Football League Fourth Division,4,H
+1961-10-14,1961/1962,Aldershot,Mansfield Town,4-2,4,2,Football League Fourth Division,4,H
+1961-10-14,1961/1962,Carlisle United,Gillingham,1-2,1,2,Football League Fourth Division,4,A
+1961-10-14,1961/1962,Chester,York City,1-1,1,1,Football League Fourth Division,4,D
+1961-10-14,1961/1962,Darlington,Exeter City,1-0,1,0,Football League Fourth Division,4,H
+1961-10-14,1961/1962,Hartlepool United,Wrexham,1-4,1,4,Football League Fourth Division,4,A
+1961-10-14,1961/1962,Oldham Athletic,Rochdale,2-2,2,2,Football League Fourth Division,4,D
+1961-10-14,1961/1962,Southport,Doncaster Rovers,3-1,3,1,Football League Fourth Division,4,H
+1961-10-14,1961/1962,Stockport County,Barrow,3-0,3,0,Football League Fourth Division,4,H
+1961-10-14,1961/1962,Tranmere Rovers,Workington,3-2,3,2,Football League Fourth Division,4,H
+1961-10-14,1961/1962,Bradford City,Millwall,2-4,2,4,Football League Fourth Division,4,A
+1961-10-14,1961/1962,Colchester United,Chesterfield,3-3,3,3,Football League Fourth Division,4,D
+1961-10-14,1961/1962,Bristol Rovers,Plymouth Argyle,4-3,4,3,Football League Second Division,2,H
+1961-10-14,1961/1962,Bury,Newcastle United,2-7,2,7,Football League Second Division,2,A
+1961-10-14,1961/1962,Charlton Athletic,Middlesbrough,1-0,1,0,Football League Second Division,2,H
+1961-10-14,1961/1962,Leeds United,Huddersfield Town,1-0,1,0,Football League Second Division,2,H
+1961-10-14,1961/1962,Liverpool,Walsall,6-1,6,1,Football League Second Division,2,H
+1961-10-14,1961/1962,Norwich City,Swansea City,2-1,2,1,Football League Second Division,2,H
+1961-10-14,1961/1962,Rotherham United,Derby County,2-2,2,2,Football League Second Division,2,D
+1961-10-14,1961/1962,Stoke City,Preston North End,1-1,1,1,Football League Second Division,2,D
+1961-10-14,1961/1962,Sunderland,Leyton Orient,2-1,2,1,Football League Second Division,2,H
+1961-10-14,1961/1962,Brighton & Hove Albion,Luton Town,2-1,2,1,Football League Second Division,2,H
+1961-10-14,1961/1962,Hull City,Bradford Park Avenue,0-1,0,1,Football League Third Division,3,A
+1961-10-14,1961/1962,Lincoln City,Coventry City,1-2,1,2,Football League Third Division,3,A
+1961-10-14,1961/1962,Northampton Town,Grimsby Town,7-0,7,0,Football League Third Division,3,H
+1961-10-14,1961/1962,Portsmouth,Shrewsbury Town,3-1,3,1,Football League Third Division,3,H
+1961-10-14,1961/1962,Queens Park Rangers,Southend United,5-3,5,3,Football League Third Division,3,H
+1961-10-14,1961/1962,Torquay United,Brentford,3-1,3,1,Football League Third Division,3,H
+1961-10-14,1961/1962,Watford,Bristol City,1-1,1,1,Football League Third Division,3,D
+1961-10-14,1961/1962,Halifax Town,Newport County,0-0,0,0,Football League Third Division,3,D
+1961-10-14,1961/1962,Crystal Palace,Peterborough United,5-2,5,2,Football League Third Division,3,H
+1961-10-14,1961/1962,AFC Bournemouth,Port Vale,1-0,1,0,Football League Third Division,3,H
+1961-10-14,1961/1962,Barnsley,Notts County,2-0,2,0,Football League Third Division,3,H
+1961-10-16,1961/1962,Aston Villa,Sheffield Wednesday,1-0,1,0,Football League First Division,1,H
+1961-10-16,1961/1962,Mansfield Town,Millwall,0-0,0,0,Football League Fourth Division,4,D
+1961-10-16,1961/1962,Southend United,Port Vale,4-1,4,1,Football League Third Division,3,H
+1961-10-16,1961/1962,Bradford Park Avenue,Coventry City,0-0,0,0,Football League Third Division,3,D
+1961-10-16,1961/1962,Newport County,Bristol City,3-1,3,1,Football League Third Division,3,H
+1961-10-17,1961/1962,Swindon Town,Queens Park Rangers,0-0,0,0,Football League Third Division,3,D
+1961-10-17,1961/1962,Northampton Town,Crystal Palace,1-1,1,1,Football League Third Division,3,D
+1961-10-18,1961/1962,Cardiff City,West Bromwich Albion,2-2,2,2,Football League First Division,1,D
+1961-10-18,1961/1962,Bradford City,Chesterfield,0-2,0,2,Football League Fourth Division,4,A
+1961-10-18,1961/1962,Rochdale,Darlington,1-3,1,3,Football League Fourth Division,4,A
+1961-10-18,1961/1962,Wrexham,Doncaster Rovers,3-1,3,1,Football League Fourth Division,4,H
+1961-10-18,1961/1962,Southampton,Preston North End,0-0,0,0,Football League Second Division,2,D
+1961-10-18,1961/1962,Shrewsbury Town,Watford,5-1,5,1,Football League Third Division,3,H
+1961-10-20,1961/1962,Reading,Crystal Palace,2-1,2,1,Football League Third Division,3,H
+1961-10-20,1961/1962,Coventry City,Barnsley,1-1,1,1,Football League Third Division,3,D
+1961-10-21,1961/1962,Arsenal,Manchester United,5-1,5,1,Football League First Division,1,H
+1961-10-21,1961/1962,Birmingham City,Chelsea,3-2,3,2,Football League First Division,1,H
+1961-10-21,1961/1962,Bolton Wanderers,Wolverhampton Wanderers,1-0,1,0,Football League First Division,1,H
+1961-10-21,1961/1962,Burnley,Cardiff City,2-1,2,1,Football League First Division,1,H
+1961-10-21,1961/1962,Everton,Sheffield United,1-0,1,0,Football League First Division,1,H
+1961-10-21,1961/1962,Fulham,West Ham United,2-0,2,0,Football League First Division,1,H
+1961-10-21,1961/1962,Ipswich Town,Tottenham Hotspur,3-2,3,2,Football League First Division,1,H
+1961-10-21,1961/1962,Leicester City,Blackpool,0-2,0,2,Football League First Division,1,A
+1961-10-21,1961/1962,Manchester City,Nottingham Forest,3-0,3,0,Football League First Division,1,H
+1961-10-21,1961/1962,West Bromwich Albion,Aston Villa,1-1,1,1,Football League First Division,1,D
+1961-10-21,1961/1962,Sheffield Wednesday,Blackburn Rovers,1-0,1,0,Football League First Division,1,H
+1961-10-21,1961/1962,York City,Tranmere Rovers,1-2,1,2,Football League Fourth Division,4,A
+1961-10-21,1961/1962,Chesterfield,Chester,4-1,4,1,Football League Fourth Division,4,H
+1961-10-21,1961/1962,Crewe Alexandra,Oldham Athletic,3-5,3,5,Football League Fourth Division,4,A
+1961-10-21,1961/1962,Gillingham,Colchester United,2-1,2,1,Football League Fourth Division,4,H
+1961-10-21,1961/1962,Mansfield Town,Bradford City,0-1,0,1,Football League Fourth Division,4,A
+1961-10-21,1961/1962,Millwall,Carlisle United,3-0,3,0,Football League Fourth Division,4,H
+1961-10-21,1961/1962,Rochdale,Stockport County,3-3,3,3,Football League Fourth Division,4,D
+1961-10-21,1961/1962,Workington,Southport,3-0,3,0,Football League Fourth Division,4,H
+1961-10-21,1961/1962,Wrexham,Darlington,5-0,5,0,Football League Fourth Division,4,H
+1961-10-21,1961/1962,Barrow,Aldershot,2-2,2,2,Football League Fourth Division,4,D
+1961-10-21,1961/1962,Hartlepool United,Doncaster Rovers,3-0,3,0,Football League Fourth Division,4,H
+1961-10-21,1961/1962,Exeter City,Accrington Stanley,3-0,3,0,Football League Fourth Division,4,H
+1961-10-21,1961/1962,Walsall,Charlton Athletic,2-2,2,2,Football League Second Division,2,D
+1961-10-21,1961/1962,Southampton,Norwich City,2-2,2,2,Football League Second Division,2,D
+1961-10-21,1961/1962,Swansea City,Leeds United,2-1,2,1,Football League Second Division,2,H
+1961-10-21,1961/1962,Preston North End,Sunderland,0-1,0,1,Football League Second Division,2,A
+1961-10-21,1961/1962,Derby County,Liverpool,2-0,2,0,Football League Second Division,2,H
+1961-10-21,1961/1962,Huddersfield Town,Bristol Rovers,4-1,4,1,Football League Second Division,2,H
+1961-10-21,1961/1962,Leyton Orient,Rotherham United,1-1,1,1,Football League Second Division,2,D
+1961-10-21,1961/1962,Luton Town,Scunthorpe United,1-2,1,2,Football League Second Division,2,A
+1961-10-21,1961/1962,Middlesbrough,Bury,2-1,2,1,Football League Second Division,2,H
+1961-10-21,1961/1962,Newcastle United,Brighton & Hove Albion,5-0,5,0,Football League Second Division,2,H
+1961-10-21,1961/1962,Plymouth Argyle,Stoke City,3-1,3,1,Football League Second Division,2,H
+1961-10-21,1961/1962,Port Vale,Torquay United,4-1,4,1,Football League Third Division,3,H
+1961-10-21,1961/1962,Peterborough United,Lincoln City,5-4,5,4,Football League Third Division,3,H
+1961-10-21,1961/1962,Newport County,AFC Bournemouth,0-1,0,1,Football League Third Division,3,A
+1961-10-21,1961/1962,Bradford Park Avenue,Halifax Town,2-0,2,0,Football League Third Division,3,H
+1961-10-21,1961/1962,Bristol City,Swindon Town,5-3,5,3,Football League Third Division,3,H
+1961-10-21,1961/1962,Brentford,Portsmouth,3-2,3,2,Football League Third Division,3,H
+1961-10-21,1961/1962,Shrewsbury Town,Northampton Town,1-3,1,3,Football League Third Division,3,A
+1961-10-21,1961/1962,Grimsby Town,Queens Park Rangers,1-1,1,1,Football League Third Division,3,D
+1961-10-21,1961/1962,Southend United,Watford,0-1,0,1,Football League Third Division,3,A
+1961-10-24,1961/1962,Bury,Walsall,2-1,2,1,Football League Second Division,2,H
+1961-10-25,1961/1962,Shrewsbury Town,Southend United,1-1,1,1,Football League Third Division,3,D
+1961-10-25,1961/1962,Bradford Park Avenue,Newport County,4-1,4,1,Football League Third Division,3,H
+1961-10-27,1961/1962,Scunthorpe United,Newcastle United,3-2,3,2,Football League Second Division,2,H
+1961-10-28,1961/1962,Aston Villa,Birmingham City,1-3,1,3,Football League First Division,1,A
+1961-10-28,1961/1962,Blackburn Rovers,Leicester City,2-1,2,1,Football League First Division,1,H
+1961-10-28,1961/1962,Blackpool,Ipswich Town,1-1,1,1,Football League First Division,1,D
+1961-10-28,1961/1962,Cardiff City,Arsenal,1-1,1,1,Football League First Division,1,D
+1961-10-28,1961/1962,Chelsea,Everton,1-1,1,1,Football League First Division,1,D
+1961-10-28,1961/1962,Manchester United,Bolton Wanderers,0-3,0,3,Football League First Division,1,A
+1961-10-28,1961/1962,Nottingham Forest,West Bromwich Albion,4-4,4,4,Football League First Division,1,D
+1961-10-28,1961/1962,Sheffield United,Fulham,2-2,2,2,Football League First Division,1,D
+1961-10-28,1961/1962,Tottenham Hotspur,Burnley,4-2,4,2,Football League First Division,1,H
+1961-10-28,1961/1962,Wolverhampton Wanderers,Manchester City,4-1,4,1,Football League First Division,1,H
+1961-10-28,1961/1962,West Ham United,Sheffield Wednesday,2-3,2,3,Football League First Division,1,A
+1961-10-28,1961/1962,Accrington Stanley,Wrexham,0-2,0,2,Football League Fourth Division,4,A
+1961-10-28,1961/1962,Darlington,Doncaster Rovers,1-0,1,0,Football League Fourth Division,4,H
+1961-10-28,1961/1962,Bradford City,Barrow,1-1,1,1,Football League Fourth Division,4,D
+1961-10-28,1961/1962,Carlisle United,Mansfield Town,1-0,1,0,Football League Fourth Division,4,H
+1961-10-28,1961/1962,Colchester United,Millwall,2-2,2,2,Football League Fourth Division,4,D
+1961-10-28,1961/1962,Hartlepool United,Workington,0-1,0,1,Football League Fourth Division,4,A
+1961-10-28,1961/1962,Oldham Athletic,Exeter City,1-1,1,1,Football League Fourth Division,4,D
+1961-10-28,1961/1962,Southport,York City,3-1,3,1,Football League Fourth Division,4,H
+1961-10-28,1961/1962,Stockport County,Crewe Alexandra,0-1,0,1,Football League Fourth Division,4,A
+1961-10-28,1961/1962,Tranmere Rovers,Chesterfield,1-0,1,0,Football League Fourth Division,4,H
+1961-10-28,1961/1962,Aldershot,Rochdale,3-0,3,0,Football League Fourth Division,4,H
+1961-10-28,1961/1962,Chester,Gillingham,1-1,1,1,Football League Fourth Division,4,D
+1961-10-28,1961/1962,Sunderland,Plymouth Argyle,5-0,5,0,Football League Second Division,2,H
+1961-10-28,1961/1962,Rotherham United,Preston North End,2-2,2,2,Football League Second Division,2,D
+1961-10-28,1961/1962,Norwich City,Luton Town,0-4,0,4,Football League Second Division,2,A
+1961-10-28,1961/1962,Liverpool,Leyton Orient,3-3,3,3,Football League Second Division,2,D
+1961-10-28,1961/1962,Stoke City,Huddersfield Town,3-0,3,0,Football League Second Division,2,H
+1961-10-28,1961/1962,Charlton Athletic,Derby County,4-0,4,0,Football League Second Division,2,H
+1961-10-28,1961/1962,Bristol Rovers,Swansea City,4-1,4,1,Football League Second Division,2,H
+1961-10-28,1961/1962,Brighton & Hove Albion,Middlesbrough,2-0,2,0,Football League Second Division,2,H
+1961-10-28,1961/1962,Leeds United,Southampton,1-1,1,1,Football League Second Division,2,D
+1961-10-28,1961/1962,Lincoln City,Port Vale,1-1,1,1,Football League Third Division,3,D
+1961-10-28,1961/1962,Northampton Town,Peterborough United,2-2,2,2,Football League Third Division,3,D
+1961-10-28,1961/1962,Portsmouth,Reading,2-0,2,0,Football League Third Division,3,H
+1961-10-28,1961/1962,Queens Park Rangers,Coventry City,4-1,4,1,Football League Third Division,3,H
+1961-10-28,1961/1962,Swindon Town,Bradford Park Avenue,3-2,3,2,Football League Third Division,3,H
+1961-10-28,1961/1962,Hull City,Shrewsbury Town,3-1,3,1,Football League Third Division,3,H
+1961-10-28,1961/1962,Halifax Town,Grimsby Town,3-3,3,3,Football League Third Division,3,D
+1961-10-28,1961/1962,Watford,Notts County,3-1,3,1,Football League Third Division,3,H
+1961-10-28,1961/1962,Crystal Palace,Newport County,2-0,2,0,Football League Third Division,3,H
+1961-10-28,1961/1962,Barnsley,Brentford,2-2,2,2,Football League Third Division,3,D
+1961-10-28,1961/1962,AFC Bournemouth,Southend United,3-0,3,0,Football League Third Division,3,H
+1961-10-28,1961/1962,Torquay United,Bristol City,1-3,1,3,Football League Third Division,3,A
+1961-11-04,1961/1962,Manchester City,West Ham United,3-5,3,5,Football League First Division,1,A
+1961-11-04,1961/1962,Sheffield Wednesday,Manchester United,3-1,3,1,Football League First Division,1,H
+1961-11-04,1961/1962,Arsenal,Chelsea,0-3,0,3,Football League First Division,1,A
+1961-11-04,1961/1962,Birmingham City,Blackpool,1-1,1,1,Football League First Division,1,D
+1961-11-04,1961/1962,Bolton Wanderers,Sheffield United,2-0,2,0,Football League First Division,1,H
+1961-11-04,1961/1962,West Bromwich Albion,Blackburn Rovers,4-0,4,0,Football League First Division,1,H
+1961-11-04,1961/1962,Everton,Tottenham Hotspur,3-0,3,0,Football League First Division,1,H
+1961-11-04,1961/1962,Fulham,Cardiff City,0-1,0,1,Football League First Division,1,A
+1961-11-04,1961/1962,Ipswich Town,Nottingham Forest,1-0,1,0,Football League First Division,1,H
+1961-11-04,1961/1962,Leicester City,Wolverhampton Wanderers,3-0,3,0,Football League First Division,1,H
+1961-11-04,1961/1962,Burnley,Aston Villa,3-0,3,0,Football League First Division,1,H
+1961-11-04,1961/1962,Walsall,Brighton & Hove Albion,2-2,2,2,Football League Second Division,2,D
+1961-11-04,1961/1962,Derby County,Bury,3-0,3,0,Football League Second Division,2,H
+1961-11-04,1961/1962,Southampton,Bristol Rovers,0-2,0,2,Football League Second Division,2,A
+1961-11-04,1961/1962,Preston North End,Liverpool,1-3,1,3,Football League Second Division,2,A
+1961-11-04,1961/1962,Plymouth Argyle,Rotherham United,2-5,2,5,Football League Second Division,2,A
+1961-11-04,1961/1962,Middlesbrough,Scunthorpe United,1-2,1,2,Football League Second Division,2,A
+1961-11-04,1961/1962,Luton Town,Leeds United,3-2,3,2,Football League Second Division,2,H
+1961-11-04,1961/1962,Leyton Orient,Charlton Athletic,2-1,2,1,Football League Second Division,2,H
+1961-11-04,1961/1962,Huddersfield Town,Sunderland,0-0,0,0,Football League Second Division,2,D
+1961-11-04,1961/1962,Swansea City,Stoke City,1-0,1,0,Football League Second Division,2,H
+1961-11-04,1961/1962,Newcastle United,Norwich City,0-0,0,0,Football League Second Division,2,D
+1961-11-11,1961/1962,Aston Villa,Arsenal,3-1,3,1,Football League First Division,1,H
+1961-11-11,1961/1962,Blackburn Rovers,Birmingham City,2-0,2,0,Football League First Division,1,H
+1961-11-11,1961/1962,Blackpool,Everton,1-1,1,1,Football League First Division,1,D
+1961-11-11,1961/1962,Cardiff City,Sheffield Wednesday,2-1,2,1,Football League First Division,1,H
+1961-11-11,1961/1962,Chelsea,Bolton Wanderers,1-0,1,0,Football League First Division,1,H
+1961-11-11,1961/1962,Manchester United,Leicester City,2-2,2,2,Football League First Division,1,D
+1961-11-11,1961/1962,Nottingham Forest,Burnley,3-2,3,2,Football League First Division,1,H
+1961-11-11,1961/1962,Sheffield United,Manchester City,3-1,3,1,Football League First Division,1,H
+1961-11-11,1961/1962,Tottenham Hotspur,Fulham,4-2,4,2,Football League First Division,1,H
+1961-11-11,1961/1962,West Ham United,West Bromwich Albion,3-3,3,3,Football League First Division,1,D
+1961-11-11,1961/1962,Wolverhampton Wanderers,Ipswich Town,2-0,2,0,Football League First Division,1,H
+1961-11-11,1961/1962,Accrington Stanley,Workington,0-4,0,4,Football League Fourth Division,4,A
+1961-11-11,1961/1962,Bradford City,Crewe Alexandra,3-3,3,3,Football League Fourth Division,4,D
+1961-11-11,1961/1962,Carlisle United,Rochdale,2-2,2,2,Football League Fourth Division,4,D
+1961-11-11,1961/1962,Chester,Mansfield Town,0-1,0,1,Football League Fourth Division,4,A
+1961-11-11,1961/1962,Darlington,York City,0-0,0,0,Football League Fourth Division,4,D
+1961-11-11,1961/1962,Hartlepool United,Chesterfield,1-2,1,2,Football League Fourth Division,4,A
+1961-11-11,1961/1962,Oldham Athletic,Doncaster Rovers,3-1,3,1,Football League Fourth Division,4,H
+1961-11-11,1961/1962,Southport,Gillingham,1-1,1,1,Football League Fourth Division,4,D
+1961-11-11,1961/1962,Stockport County,Wrexham,1-2,1,2,Football League Fourth Division,4,A
+1961-11-11,1961/1962,Tranmere Rovers,Millwall,5-1,5,1,Football League Fourth Division,4,H
+1961-11-11,1961/1962,Aldershot,Exeter City,1-1,1,1,Football League Fourth Division,4,D
+1961-11-11,1961/1962,Colchester United,Barrow,1-1,1,1,Football League Fourth Division,4,D
+1961-11-11,1961/1962,Sunderland,Middlesbrough,2-1,2,1,Football League Second Division,2,H
+1961-11-11,1961/1962,Brighton & Hove Albion,Huddersfield Town,2-2,2,2,Football League Second Division,2,D
+1961-11-11,1961/1962,Bristol Rovers,Derby County,1-4,1,4,Football League Second Division,2,A
+1961-11-11,1961/1962,Bury,Swansea City,1-1,1,1,Football League Second Division,2,D
+1961-11-11,1961/1962,Leeds United,Leyton Orient,0-0,0,0,Football League Second Division,2,D
+1961-11-11,1961/1962,Liverpool,Luton Town,1-1,1,1,Football League Second Division,2,D
+1961-11-11,1961/1962,Norwich City,Preston North End,2-0,2,0,Football League Second Division,2,H
+1961-11-11,1961/1962,Rotherham United,Newcastle United,0-0,0,0,Football League Second Division,2,D
+1961-11-11,1961/1962,Scunthorpe United,Plymouth Argyle,5-1,5,1,Football League Second Division,2,H
+1961-11-11,1961/1962,Stoke City,Walsall,2-1,2,1,Football League Second Division,2,H
+1961-11-11,1961/1962,Halifax Town,Peterborough United,2-1,2,1,Football League Third Division,3,H
+1961-11-11,1961/1962,Hull City,Reading,0-1,0,1,Football League Third Division,3,A
+1961-11-11,1961/1962,Lincoln City,Southend United,2-0,2,0,Football League Third Division,3,H
+1961-11-11,1961/1962,Northampton Town,Newport County,5-0,5,0,Football League Third Division,3,H
+1961-11-11,1961/1962,Portsmouth,Bradford Park Avenue,4-2,4,2,Football League Third Division,3,H
+1961-11-11,1961/1962,Queens Park Rangers,Port Vale,2-1,2,1,Football League Third Division,3,H
+1961-11-11,1961/1962,Swindon Town,Shrewsbury Town,1-2,1,2,Football League Third Division,3,A
+1961-11-11,1961/1962,Torquay United,Notts County,3-3,3,3,Football League Third Division,3,D
+1961-11-11,1961/1962,Watford,Brentford,2-1,2,1,Football League Third Division,3,H
+1961-11-11,1961/1962,Crystal Palace,Grimsby Town,4-1,4,1,Football League Third Division,3,H
+1961-11-11,1961/1962,Barnsley,Bristol City,7-3,7,3,Football League Third Division,3,H
+1961-11-11,1961/1962,AFC Bournemouth,Coventry City,1-1,1,1,Football League Third Division,3,D
+1961-11-14,1961/1962,Arsenal,Sheffield Wednesday,1-0,1,0,Football League First Division,1,H
+1961-11-15,1961/1962,Oldham Athletic,Mansfield Town,2-3,2,3,Football League Fourth Division,4,A
+1961-11-17,1961/1962,Coventry City,Crystal Palace,0-2,0,2,Football League Third Division,3,A
+1961-11-17,1961/1962,Reading,Watford,3-2,3,2,Football League Third Division,3,H
+1961-11-18,1961/1962,Arsenal,Nottingham Forest,2-1,2,1,Football League First Division,1,H
+1961-11-18,1961/1962,Birmingham City,West Ham United,4-0,4,0,Football League First Division,1,H
+1961-11-18,1961/1962,Bolton Wanderers,Aston Villa,1-1,1,1,Football League First Division,1,D
+1961-11-18,1961/1962,Burnley,Wolverhampton Wanderers,3-3,3,3,Football League First Division,1,D
+1961-11-18,1961/1962,Everton,Blackburn Rovers,1-0,1,0,Football League First Division,1,H
+1961-11-18,1961/1962,Ipswich Town,Manchester United,4-1,4,1,Football League First Division,1,H
+1961-11-18,1961/1962,Leicester City,Cardiff City,3-0,3,0,Football League First Division,1,H
+1961-11-18,1961/1962,Manchester City,Chelsea,2-2,2,2,Football League First Division,1,D
+1961-11-18,1961/1962,Sheffield Wednesday,Tottenham Hotspur,0-0,0,0,Football League First Division,1,D
+1961-11-18,1961/1962,West Bromwich Albion,Sheffield United,3-1,3,1,Football League First Division,1,H
+1961-11-18,1961/1962,Fulham,Blackpool,0-1,0,1,Football League First Division,1,A
+1961-11-18,1961/1962,Barrow,Chester,3-2,3,2,Football League Fourth Division,4,H
+1961-11-18,1961/1962,Chesterfield,Darlington,1-1,1,1,Football League Fourth Division,4,D
+1961-11-18,1961/1962,Crewe Alexandra,Carlisle United,3-0,3,0,Football League Fourth Division,4,H
+1961-11-18,1961/1962,Doncaster Rovers,Stockport County,1-1,1,1,Football League Fourth Division,4,D
+1961-11-18,1961/1962,Exeter City,Bradford City,1-2,1,2,Football League Fourth Division,4,A
+1961-11-18,1961/1962,Gillingham,Hartlepool United,4-0,4,0,Football League Fourth Division,4,H
+1961-11-18,1961/1962,Mansfield Town,Tranmere Rovers,1-2,1,2,Football League Fourth Division,4,A
+1961-11-18,1961/1962,Millwall,Southport,1-1,1,1,Football League Fourth Division,4,D
+1961-11-18,1961/1962,Rochdale,Colchester United,0-1,0,1,Football League Fourth Division,4,A
+1961-11-18,1961/1962,Workington,Oldham Athletic,0-2,0,2,Football League Fourth Division,4,A
+1961-11-18,1961/1962,Wrexham,Aldershot,2-1,2,1,Football League Fourth Division,4,H
+1961-11-18,1961/1962,York City,Accrington Stanley,1-0,1,0,Football League Fourth Division,4,H
+1961-11-18,1961/1962,Swansea City,Rotherham United,2-2,2,2,Football League Second Division,2,D
+1961-11-18,1961/1962,Walsall,Norwich City,5-0,5,0,Football League Second Division,2,H
+1961-11-18,1961/1962,Huddersfield Town,Liverpool,1-2,1,2,Football League Second Division,2,A
+1961-11-18,1961/1962,Leyton Orient,Brighton & Hove Albion,4-1,4,1,Football League Second Division,2,H
+1961-11-18,1961/1962,Luton Town,Stoke City,0-0,0,0,Football League Second Division,2,D
+1961-11-18,1961/1962,Middlesbrough,Leeds United,1-3,1,3,Football League Second Division,2,A
+1961-11-18,1961/1962,Newcastle United,Bristol Rovers,5-2,5,2,Football League Second Division,2,H
+1961-11-18,1961/1962,Plymouth Argyle,Charlton Athletic,2-1,2,1,Football League Second Division,2,H
+1961-11-18,1961/1962,Preston North End,Bury,1-2,1,2,Football League Second Division,2,A
+1961-11-18,1961/1962,Southampton,Sunderland,2-0,2,0,Football League Second Division,2,H
+1961-11-18,1961/1962,Derby County,Scunthorpe United,2-2,2,2,Football League Second Division,2,D
+1961-11-18,1961/1962,Bristol City,Queens Park Rangers,2-0,2,0,Football League Third Division,3,H
+1961-11-18,1961/1962,Grimsby Town,Portsmouth,1-0,1,0,Football League Third Division,3,H
+1961-11-18,1961/1962,Newport County,Hull City,0-2,0,2,Football League Third Division,3,A
+1961-11-18,1961/1962,Notts County,Lincoln City,1-0,1,0,Football League Third Division,3,H
+1961-11-18,1961/1962,Peterborough United,Swindon Town,3-2,3,2,Football League Third Division,3,H
+1961-11-18,1961/1962,Port Vale,Halifax Town,1-1,1,1,Football League Third Division,3,D
+1961-11-18,1961/1962,Shrewsbury Town,Torquay United,1-1,1,1,Football League Third Division,3,D
+1961-11-18,1961/1962,Brentford,AFC Bournemouth,2-2,2,2,Football League Third Division,3,D
+1961-11-18,1961/1962,Bradford Park Avenue,Barnsley,3-2,3,2,Football League Third Division,3,H
+1961-11-18,1961/1962,Southend United,Northampton Town,1-3,1,3,Football League Third Division,3,A
+1961-11-24,1961/1962,Tranmere Rovers,Barrow,2-1,2,1,Football League Fourth Division,4,H
+1961-11-24,1961/1962,Scunthorpe United,Leyton Orient,0-2,0,2,Football League Second Division,2,A
+1961-11-25,1961/1962,West Ham United,Everton,3-1,3,1,Football League First Division,1,H
+1961-11-25,1961/1962,Tottenham Hotspur,Leicester City,1-2,1,2,Football League First Division,1,A
+1961-11-25,1961/1962,Sheffield United,Birmingham City,3-1,3,1,Football League First Division,1,H
+1961-11-25,1961/1962,Nottingham Forest,Bolton Wanderers,0-1,0,1,Football League First Division,1,A
+1961-11-25,1961/1962,Manchester United,Burnley,1-4,1,4,Football League First Division,1,A
+1961-11-25,1961/1962,Chelsea,West Bromwich Albion,4-1,4,1,Football League First Division,1,H
+1961-11-25,1961/1962,Cardiff City,Ipswich Town,0-3,0,3,Football League First Division,1,A
+1961-11-25,1961/1962,Blackpool,Sheffield Wednesday,1-3,1,3,Football League First Division,1,A
+1961-11-25,1961/1962,Blackburn Rovers,Fulham,0-2,0,2,Football League First Division,1,A
+1961-11-25,1961/1962,Aston Villa,Manchester City,2-1,2,1,Football League First Division,1,H
+1961-11-25,1961/1962,Wolverhampton Wanderers,Arsenal,2-3,2,3,Football League First Division,1,A
+1961-11-25,1961/1962,Stoke City,Newcastle United,3-1,3,1,Football League Second Division,2,H
+1961-11-25,1961/1962,Rotherham United,Southampton,4-2,4,2,Football League Second Division,2,H
+1961-11-25,1961/1962,Norwich City,Derby County,3-2,3,2,Football League Second Division,2,H
+1961-11-25,1961/1962,Liverpool,Swansea City,5-0,5,0,Football League Second Division,2,H
+1961-11-25,1961/1962,Leeds United,Walsall,4-1,4,1,Football League Second Division,2,H
+1961-11-25,1961/1962,Charlton Athletic,Huddersfield Town,0-2,0,2,Football League Second Division,2,A
+1961-11-25,1961/1962,Bury,Plymouth Argyle,1-1,1,1,Football League Second Division,2,D
+1961-11-25,1961/1962,Bristol Rovers,Middlesbrough,0-2,0,2,Football League Second Division,2,A
+1961-11-25,1961/1962,Brighton & Hove Albion,Preston North End,0-0,0,0,Football League Second Division,2,D
+1961-11-25,1961/1962,Sunderland,Luton Town,2-2,2,2,Football League Second Division,2,D
+1961-12-02,1961/1962,Ipswich Town,Chelsea,5-2,5,2,Football League First Division,1,H
+1961-12-02,1961/1962,Birmingham City,Cardiff City,3-0,3,0,Football League First Division,1,H
+1961-12-02,1961/1962,Bolton Wanderers,Blackburn Rovers,1-1,1,1,Football League First Division,1,D
+1961-12-02,1961/1962,Burnley,Sheffield United,4-2,4,2,Football League First Division,1,H
+1961-12-02,1961/1962,Everton,Manchester United,5-1,5,1,Football League First Division,1,H
+1961-12-02,1961/1962,Fulham,Wolverhampton Wanderers,0-1,0,1,Football League First Division,1,A
+1961-12-02,1961/1962,Leicester City,Aston Villa,0-2,0,2,Football League First Division,1,A
+1961-12-02,1961/1962,Manchester City,Blackpool,2-4,2,4,Football League First Division,1,A
+1961-12-02,1961/1962,Sheffield Wednesday,Nottingham Forest,3-0,3,0,Football League First Division,1,H
+1961-12-02,1961/1962,West Bromwich Albion,Tottenham Hotspur,2-4,2,4,Football League First Division,1,A
+1961-12-02,1961/1962,Arsenal,West Ham United,2-2,2,2,Football League First Division,1,D
+1961-12-02,1961/1962,Barrow,Southport,1-1,1,1,Football League Fourth Division,4,D
+1961-12-02,1961/1962,York City,Stockport County,1-0,1,0,Football League Fourth Division,4,H
+1961-12-02,1961/1962,Crewe Alexandra,Chester,1-1,1,1,Football League Fourth Division,4,D
+1961-12-02,1961/1962,Doncaster Rovers,Bradford City,2-0,2,0,Football League Fourth Division,4,H
+1961-12-02,1961/1962,Exeter City,Colchester United,0-2,0,2,Football League Fourth Division,4,A
+1961-12-02,1961/1962,Gillingham,Accrington Stanley,5-1,5,1,Football League Fourth Division,4,H
+1961-12-02,1961/1962,Mansfield Town,Hartlepool United,3-1,3,1,Football League Fourth Division,4,H
+1961-12-02,1961/1962,Millwall,Darlington,4-2,4,2,Football League Fourth Division,4,H
+1961-12-02,1961/1962,Rochdale,Tranmere Rovers,1-0,1,0,Football League Fourth Division,4,H
+1961-12-02,1961/1962,Workington,Aldershot,2-1,2,1,Football League Fourth Division,4,H
+1961-12-02,1961/1962,Wrexham,Carlisle United,2-2,2,2,Football League Fourth Division,4,D
+1961-12-02,1961/1962,Chesterfield,Oldham Athletic,2-3,2,3,Football League Fourth Division,4,A
+1961-12-02,1961/1962,Walsall,Bristol Rovers,0-0,0,0,Football League Second Division,2,D
+1961-12-02,1961/1962,Huddersfield Town,Bury,2-0,2,0,Football League Second Division,2,H
+1961-12-02,1961/1962,Derby County,Leeds United,3-3,3,3,Football League Second Division,2,D
+1961-12-02,1961/1962,Swansea City,Charlton Athletic,1-0,1,0,Football League Second Division,2,H
+1961-12-02,1961/1962,Southampton,Liverpool,2-0,2,0,Football League Second Division,2,H
+1961-12-02,1961/1962,Preston North End,Scunthorpe United,4-1,4,1,Football League Second Division,2,H
+1961-12-02,1961/1962,Newcastle United,Sunderland,2-2,2,2,Football League Second Division,2,D
+1961-12-02,1961/1962,Middlesbrough,Stoke City,2-2,2,2,Football League Second Division,2,D
+1961-12-02,1961/1962,Luton Town,Rotherham United,4-3,4,3,Football League Second Division,2,H
+1961-12-02,1961/1962,Leyton Orient,Norwich City,2-0,2,0,Football League Second Division,2,H
+1961-12-02,1961/1962,Plymouth Argyle,Brighton & Hove Albion,5-0,5,0,Football League Second Division,2,H
+1961-12-02,1961/1962,Shrewsbury Town,Barnsley,4-1,4,1,Football League Third Division,3,H
+1961-12-02,1961/1962,Reading,Torquay United,1-0,1,0,Football League Third Division,3,H
+1961-12-02,1961/1962,Port Vale,Crystal Palace,0-1,0,1,Football League Third Division,3,A
+1961-12-02,1961/1962,Coventry City,Northampton Town,1-0,1,0,Football League Third Division,3,H
+1961-12-02,1961/1962,Notts County,Queens Park Rangers,0-0,0,0,Football League Third Division,3,D
+1961-12-02,1961/1962,Newport County,Swindon Town,2-2,2,2,Football League Third Division,3,D
+1961-12-02,1961/1962,Grimsby Town,Hull City,1-0,1,0,Football League Third Division,3,H
+1961-12-02,1961/1962,Southend United,Halifax Town,2-1,2,1,Football League Third Division,3,H
+1961-12-02,1961/1962,Peterborough United,Portsmouth,0-1,0,1,Football League Third Division,3,A
+1961-12-02,1961/1962,Bristol City,AFC Bournemouth,2-1,2,1,Football League Third Division,3,H
+1961-12-02,1961/1962,Brentford,Lincoln City,1-0,1,0,Football League Third Division,3,H
+1961-12-02,1961/1962,Bradford Park Avenue,Watford,1-1,1,1,Football League Third Division,3,D
+1961-12-08,1961/1962,Rotherham United,Huddersfield Town,3-3,3,3,Football League Second Division,2,D
+1961-12-09,1961/1962,Aston Villa,Ipswich Town,3-0,3,0,Football League First Division,1,H
+1961-12-09,1961/1962,Blackburn Rovers,Manchester City,4-1,4,1,Football League First Division,1,H
+1961-12-09,1961/1962,Blackpool,West Bromwich Albion,2-2,2,2,Football League First Division,1,D
+1961-12-09,1961/1962,Cardiff City,Everton,0-0,0,0,Football League First Division,1,D
+1961-12-09,1961/1962,Manchester United,Fulham,3-0,3,0,Football League First Division,1,H
+1961-12-09,1961/1962,Nottingham Forest,Leicester City,0-0,0,0,Football League First Division,1,D
+1961-12-09,1961/1962,Sheffield United,Arsenal,2-1,2,1,Football League First Division,1,H
+1961-12-09,1961/1962,Chelsea,Burnley,1-2,1,2,Football League First Division,1,A
+1961-12-09,1961/1962,West Ham United,Bolton Wanderers,1-0,1,0,Football League First Division,1,H
+1961-12-09,1961/1962,Wolverhampton Wanderers,Sheffield Wednesday,3-0,3,0,Football League First Division,1,H
+1961-12-09,1961/1962,Tottenham Hotspur,Birmingham City,3-1,3,1,Football League First Division,1,H
+1961-12-09,1961/1962,Bradford City,Workington,1-1,1,1,Football League Fourth Division,4,D
+1961-12-09,1961/1962,Aldershot,York City,2-0,2,0,Football League Fourth Division,4,H
+1961-12-09,1961/1962,Carlisle United,Doncaster Rovers,1-0,1,0,Football League Fourth Division,4,H
+1961-12-09,1961/1962,Chester,Exeter City,1-1,1,1,Football League Fourth Division,4,D
+1961-12-09,1961/1962,Hartlepool United,Barrow,2-3,2,3,Football League Fourth Division,4,A
+1961-12-09,1961/1962,Oldham Athletic,Gillingham,1-1,1,1,Football League Fourth Division,4,D
+1961-12-09,1961/1962,Southport,Rochdale,3-0,3,0,Football League Fourth Division,4,H
+1961-12-09,1961/1962,Tranmere Rovers,Crewe Alexandra,1-6,1,6,Football League Fourth Division,4,A
+1961-12-09,1961/1962,Accrington Stanley,Millwall,0-2,0,2,Football League Fourth Division,4,A
+1961-12-09,1961/1962,Colchester United,Wrexham,2-4,2,4,Football League Fourth Division,4,A
+1961-12-09,1961/1962,Sunderland,Swansea City,7-2,7,2,Football League Second Division,2,H
+1961-12-09,1961/1962,Brighton & Hove Albion,Derby County,1-2,1,2,Football League Second Division,2,A
+1961-12-09,1961/1962,Bristol Rovers,Luton Town,1-0,1,0,Football League Second Division,2,H
+1961-12-09,1961/1962,Charlton Athletic,Preston North End,4-0,4,0,Football League Second Division,2,H
+1961-12-09,1961/1962,Liverpool,Plymouth Argyle,2-1,2,1,Football League Second Division,2,H
+1961-12-09,1961/1962,Norwich City,Middlesbrough,5-4,5,4,Football League Second Division,2,H
+1961-12-09,1961/1962,Stoke City,Southampton,3-2,3,2,Football League Second Division,2,H
+1961-12-09,1961/1962,Hull City,Coventry City,3-1,3,1,Football League Third Division,3,H
+1961-12-09,1961/1962,Lincoln City,Reading,2-3,2,3,Football League Third Division,3,A
+1961-12-09,1961/1962,Northampton Town,Brentford,5-0,5,0,Football League Third Division,3,H
+1961-12-09,1961/1962,Portsmouth,Port Vale,1-0,1,0,Football League Third Division,3,H
+1961-12-09,1961/1962,Queens Park Rangers,Shrewsbury Town,3-1,3,1,Football League Third Division,3,H
+1961-12-09,1961/1962,Swindon Town,Southend United,0-0,0,0,Football League Third Division,3,D
+1961-12-09,1961/1962,Torquay United,Newport County,3-2,3,2,Football League Third Division,3,H
+1961-12-09,1961/1962,Watford,Grimsby Town,2-1,2,1,Football League Third Division,3,H
+1961-12-09,1961/1962,Crystal Palace,Bristol City,2-3,2,3,Football League Third Division,3,A
+1961-12-09,1961/1962,AFC Bournemouth,Bradford Park Avenue,2-2,2,2,Football League Third Division,3,D
+1961-12-09,1961/1962,Barnsley,Peterborough United,0-3,0,3,Football League Third Division,3,A
+1961-12-16,1961/1962,Leicester City,Manchester City,2-0,2,0,Football League First Division,1,H
+1961-12-16,1961/1962,Cardiff City,Blackburn Rovers,1-1,1,1,Football League First Division,1,D
+1961-12-16,1961/1962,Fulham,Birmingham City,0-1,0,1,Football League First Division,1,A
+1961-12-16,1961/1962,Ipswich Town,Bolton Wanderers,2-1,2,1,Football League First Division,1,H
+1961-12-16,1961/1962,Manchester United,West Ham United,1-2,1,2,Football League First Division,1,A
+1961-12-16,1961/1962,Nottingham Forest,Chelsea,3-0,3,0,Football League First Division,1,H
+1961-12-16,1961/1962,Sheffield Wednesday,West Bromwich Albion,2-1,2,1,Football League First Division,1,H
+1961-12-16,1961/1962,Tottenham Hotspur,Blackpool,5-2,5,2,Football League First Division,1,H
+1961-12-16,1961/1962,Burnley,Arsenal,0-2,0,2,Football League First Division,1,A
+1961-12-16,1961/1962,Wolverhampton Wanderers,Sheffield United,0-1,0,1,Football League First Division,1,A
+1961-12-16,1961/1962,Aston Villa,Everton,1-1,1,1,Football League First Division,1,D
+1961-12-16,1961/1962,Accrington Stanley,Tranmere Rovers,1-1,1,1,Football League Fourth Division,4,D
+1961-12-16,1961/1962,Aldershot,Carlisle United,0-1,0,1,Football League Fourth Division,4,A
+1961-12-16,1961/1962,York City,Bradford City,4-0,4,0,Football League Fourth Division,4,H
+1961-12-16,1961/1962,Darlington,Southport,1-2,1,2,Football League Fourth Division,4,A
+1961-12-16,1961/1962,Doncaster Rovers,Gillingham,2-1,2,1,Football League Fourth Division,4,H
+1961-12-16,1961/1962,Exeter City,Mansfield Town,2-1,2,1,Football League Fourth Division,4,H
+1961-12-16,1961/1962,Hartlepool United,Rochdale,3-1,3,1,Football League Fourth Division,4,H
+1961-12-16,1961/1962,Oldham Athletic,Chester,4-1,4,1,Football League Fourth Division,4,H
+1961-12-16,1961/1962,Stockport County,Colchester United,1-4,1,4,Football League Fourth Division,4,A
+1961-12-16,1961/1962,Workington,Chesterfield,2-0,2,0,Football League Fourth Division,4,H
+1961-12-16,1961/1962,Wrexham,Millwall,2-2,2,2,Football League Fourth Division,4,D
+1961-12-16,1961/1962,Crewe Alexandra,Barrow,1-1,1,1,Football League Fourth Division,4,D
+1961-12-16,1961/1962,Sunderland,Walsall,3-0,3,0,Football League Second Division,2,H
+1961-12-16,1961/1962,Bury,Norwich City,2-3,2,3,Football League Second Division,2,A
+1961-12-16,1961/1962,Charlton Athletic,Leeds United,3-1,3,1,Football League Second Division,2,H
+1961-12-16,1961/1962,Derby County,Middlesbrough,3-2,3,2,Football League Second Division,2,H
+1961-12-16,1961/1962,Leyton Orient,Newcastle United,2-0,2,0,Football League Second Division,2,H
+1961-12-16,1961/1962,Liverpool,Bristol Rovers,2-0,2,0,Football League Second Division,2,H
+1961-12-16,1961/1962,Plymouth Argyle,Southampton,4-0,4,0,Football League Second Division,2,H
+1961-12-16,1961/1962,Preston North End,Luton Town,2-0,2,0,Football League Second Division,2,H
+1961-12-16,1961/1962,Rotherham United,Stoke City,1-2,1,2,Football League Second Division,2,A
+1961-12-16,1961/1962,Brighton & Hove Albion,Scunthorpe United,0-3,0,3,Football League Second Division,2,A
+1961-12-16,1961/1962,Portsmouth,Swindon Town,2-2,2,2,Football League Third Division,3,D
+1961-12-16,1961/1962,Port Vale,Shrewsbury Town,4-1,4,1,Football League Third Division,3,H
+1961-12-16,1961/1962,Northampton Town,Watford,2-0,2,0,Football League Third Division,3,H
+1961-12-16,1961/1962,Coventry City,Reading,1-0,1,0,Football League Third Division,3,H
+1961-12-16,1961/1962,Grimsby Town,Newport County,1-0,1,0,Football League Third Division,3,H
+1961-12-16,1961/1962,Crystal Palace,Torquay United,7-2,7,2,Football League Third Division,3,H
+1961-12-16,1961/1962,Hull City,Peterborough United,1-1,1,1,Football League Third Division,3,D
+1961-12-16,1961/1962,Bristol City,Notts County,6-0,6,0,Football League Third Division,3,H
+1961-12-16,1961/1962,Brentford,Queens Park Rangers,1-4,1,4,Football League Third Division,3,A
+1961-12-16,1961/1962,AFC Bournemouth,Lincoln City,0-0,0,0,Football League Third Division,3,D
+1961-12-18,1961/1962,West Ham United,Wolverhampton Wanderers,4-2,4,2,Football League First Division,1,H
+1961-12-22,1961/1962,Sheffield United,Nottingham Forest,2-0,2,0,Football League First Division,1,H
+1961-12-22,1961/1962,Bristol Rovers,Rotherham United,4-2,4,2,Football League Second Division,2,H
+1961-12-22,1961/1962,Scunthorpe United,Bury,1-2,1,2,Football League Second Division,2,A
+1961-12-22,1961/1962,Torquay United,AFC Bournemouth,2-1,2,1,Football League Third Division,3,H
+1961-12-23,1961/1962,Arsenal,Tottenham Hotspur,2-1,2,1,Football League First Division,1,H
+1961-12-23,1961/1962,Birmingham City,Sheffield Wednesday,1-1,1,1,Football League First Division,1,D
+1961-12-23,1961/1962,Blackpool,Cardiff City,3-0,3,0,Football League First Division,1,H
+1961-12-23,1961/1962,Everton,Fulham,3-0,3,0,Football League First Division,1,H
+1961-12-23,1961/1962,Manchester City,Ipswich Town,3-0,3,0,Football League First Division,1,H
+1961-12-23,1961/1962,West Bromwich Albion,Leicester City,2-0,2,0,Football League First Division,1,H
+1961-12-23,1961/1962,Chelsea,Aston Villa,1-0,1,0,Football League First Division,1,H
+1961-12-23,1961/1962,Carlisle United,Stockport County,1-0,1,0,Football League Fourth Division,4,H
+1961-12-23,1961/1962,Chester,Accrington Stanley,0-0,0,0,Football League Fourth Division,4,D
+1961-12-23,1961/1962,Chesterfield,York City,1-1,1,1,Football League Fourth Division,4,D
+1961-12-23,1961/1962,Colchester United,Oldham Athletic,5-1,5,1,Football League Fourth Division,4,H
+1961-12-23,1961/1962,Gillingham,Workington,4-2,4,2,Football League Fourth Division,4,H
+1961-12-23,1961/1962,Mansfield Town,Wrexham,1-2,1,2,Football League Fourth Division,4,A
+1961-12-23,1961/1962,Southport,Hartlepool United,0-1,0,1,Football League Fourth Division,4,A
+1961-12-23,1961/1962,Barrow,Exeter City,3-0,3,0,Football League Fourth Division,4,H
+1961-12-23,1961/1962,Swansea City,Brighton & Hove Albion,3-0,3,0,Football League Second Division,2,H
+1961-12-23,1961/1962,Walsall,Derby County,2-0,2,0,Football League Second Division,2,H
+1961-12-23,1961/1962,Luton Town,Plymouth Argyle,0-2,0,2,Football League Second Division,2,A
+1961-12-23,1961/1962,Middlesbrough,Leyton Orient,2-3,2,3,Football League Second Division,2,A
+1961-12-23,1961/1962,Newcastle United,Preston North End,0-2,0,2,Football League Second Division,2,A
+1961-12-23,1961/1962,Norwich City,Charlton Athletic,2-2,2,2,Football League Second Division,2,D
+1961-12-23,1961/1962,Southampton,Huddersfield Town,3-1,3,1,Football League Second Division,2,H
+1961-12-23,1961/1962,Stoke City,Sunderland,1-0,1,0,Football League Second Division,2,H
+1961-12-23,1961/1962,Leeds United,Liverpool,1-0,1,0,Football League Second Division,2,H
+1961-12-23,1961/1962,Northampton Town,Hull City,2-0,2,0,Football League Third Division,3,H
+1961-12-23,1961/1962,Notts County,Bradford Park Avenue,4-2,4,2,Football League Third Division,3,H
+1961-12-23,1961/1962,Peterborough United,Port Vale,1-3,1,3,Football League Third Division,3,A
+1961-12-23,1961/1962,Reading,Brentford,4-0,4,0,Football League Third Division,3,H
+1961-12-23,1961/1962,Shrewsbury Town,Bristol City,2-2,2,2,Football League Third Division,3,D
+1961-12-23,1961/1962,Southend United,Grimsby Town,2-0,2,0,Football League Third Division,3,H
+1961-12-23,1961/1962,Swindon Town,Crystal Palace,5-0,5,0,Football League Third Division,3,H
+1961-12-23,1961/1962,Newport County,Coventry City,1-2,1,2,Football League Third Division,3,A
+1961-12-23,1961/1962,Lincoln City,Watford,0-0,0,0,Football League Third Division,3,D
+1961-12-23,1961/1962,Halifax Town,Portsmouth,0-1,0,1,Football League Third Division,3,A
+1961-12-26,1961/1962,Arsenal,Fulham,1-0,1,0,Football League First Division,1,H
+1961-12-26,1961/1962,Birmingham City,Manchester City,1-1,1,1,Football League First Division,1,D
+1961-12-26,1961/1962,Burnley,Sheffield Wednesday,4-0,4,0,Football League First Division,1,H
+1961-12-26,1961/1962,Cardiff City,Aston Villa,1-0,1,0,Football League First Division,1,H
+1961-12-26,1961/1962,Chelsea,Tottenham Hotspur,0-2,0,2,Football League First Division,1,A
+1961-12-26,1961/1962,Everton,Bolton Wanderers,1-0,1,0,Football League First Division,1,H
+1961-12-26,1961/1962,Ipswich Town,Leicester City,1-0,1,0,Football League First Division,1,H
+1961-12-26,1961/1962,Sheffield United,Blackpool,2-1,2,1,Football League First Division,1,H
+1961-12-26,1961/1962,Manchester United,Nottingham Forest,6-3,6,3,Football League First Division,1,H
+1961-12-26,1961/1962,West Ham United,Blackburn Rovers,2-3,2,3,Football League First Division,1,A
+1961-12-26,1961/1962,West Bromwich Albion,Wolverhampton Wanderers,1-1,1,1,Football League First Division,1,D
+1961-12-26,1961/1962,Mansfield Town,Rochdale,0-1,0,1,Football League Fourth Division,4,A
+1961-12-26,1961/1962,Bradford City,Colchester United,4-1,4,1,Football League Fourth Division,4,H
+1961-12-26,1961/1962,Carlisle United,Workington,1-2,1,2,Football League Fourth Division,4,A
+1961-12-26,1961/1962,Chesterfield,Wrexham,1-5,1,5,Football League Fourth Division,4,A
+1961-12-26,1961/1962,Darlington,Barrow,1-0,1,0,Football League Fourth Division,4,H
+1961-12-26,1961/1962,Doncaster Rovers,York City,1-2,1,2,Football League Fourth Division,4,A
+1961-12-26,1961/1962,Exeter City,Gillingham,1-3,1,3,Football League Fourth Division,4,A
+1961-12-26,1961/1962,Oldham Athletic,Southport,2-1,2,1,Football League Fourth Division,4,H
+1961-12-26,1961/1962,Stockport County,Tranmere Rovers,3-0,3,0,Football League Fourth Division,4,H
+1961-12-26,1961/1962,Chester,Aldershot,2-3,2,3,Football League Fourth Division,4,A
+1961-12-26,1961/1962,Walsall,Luton Town,2-0,2,0,Football League Second Division,2,H
+1961-12-26,1961/1962,Preston North End,Huddersfield Town,1-0,1,0,Football League Second Division,2,H
+1961-12-26,1961/1962,Rotherham United,Liverpool,1-0,1,0,Football League Second Division,2,H
+1961-12-26,1961/1962,Bristol Rovers,Brighton & Hove Albion,0-1,0,1,Football League Second Division,2,A
+1961-12-26,1961/1962,Bury,Stoke City,0-2,0,2,Football League Second Division,2,A
+1961-12-26,1961/1962,Charlton Athletic,Sunderland,2-0,2,0,Football League Second Division,2,H
+1961-12-26,1961/1962,Derby County,Southampton,1-1,1,1,Football League Second Division,2,D
+1961-12-26,1961/1962,Leeds United,Scunthorpe United,1-4,1,4,Football League Second Division,2,A
+1961-12-26,1961/1962,Leyton Orient,Swansea City,1-0,1,0,Football League Second Division,2,H
+1961-12-26,1961/1962,Newcastle United,Middlesbrough,3-4,3,4,Football League Second Division,2,A
+1961-12-26,1961/1962,Norwich City,Plymouth Argyle,0-2,0,2,Football League Second Division,2,A
+1961-12-26,1961/1962,Reading,Bristol City,2-2,2,2,Football League Third Division,3,D
+1961-12-26,1961/1962,Coventry City,Grimsby Town,2-0,2,0,Football League Third Division,3,H
+1961-12-26,1961/1962,Hull City,Crystal Palace,2-4,2,4,Football League Third Division,3,A
+1961-12-26,1961/1962,Brentford,Bradford Park Avenue,2-0,2,0,Football League Third Division,3,H
+1961-12-26,1961/1962,Notts County,Shrewsbury Town,3-2,3,2,Football League Third Division,3,H
+1961-12-26,1961/1962,Peterborough United,Southend United,4-1,4,1,Football League Third Division,3,H
+1961-12-26,1961/1962,Port Vale,Newport County,3-0,3,0,Football League Third Division,3,H
+1961-12-26,1961/1962,Portsmouth,Northampton Town,4-1,4,1,Football League Third Division,3,H
+1961-12-26,1961/1962,Torquay United,Queens Park Rangers,2-2,2,2,Football League Third Division,3,D
+1961-12-26,1961/1962,Barnsley,Lincoln City,0-1,0,1,Football League Third Division,3,A
+1961-12-26,1961/1962,Watford,AFC Bournemouth,0-0,0,0,Football League Third Division,3,D
+1961-12-30,1961/1962,Tottenham Hotspur,Chelsea,5-2,5,2,Football League First Division,1,H
+1961-12-30,1961/1962,Southport,Oldham Athletic,0-5,0,5,Football League Fourth Division,4,A
+1961-12-30,1961/1962,Gillingham,Exeter City,2-2,2,2,Football League Fourth Division,4,D
+1961-12-30,1961/1962,Colchester United,Bradford City,9-1,9,1,Football League Fourth Division,4,H
+1961-12-30,1961/1962,Millwall,Crewe Alexandra,4-3,4,3,Football League Fourth Division,4,H
+1961-12-30,1961/1962,Swansea City,Leyton Orient,1-3,1,3,Football League Second Division,2,A
+1961-12-30,1961/1962,Southampton,Derby County,2-1,2,1,Football League Second Division,2,H
+1961-12-30,1961/1962,Plymouth Argyle,Norwich City,3-1,3,1,Football League Second Division,2,H
+1961-12-30,1961/1962,Brighton & Hove Albion,Bristol Rovers,1-0,1,0,Football League Second Division,2,H
+1961-12-30,1961/1962,Southend United,Peterborough United,1-1,1,1,Football League Third Division,3,D
+1961-12-30,1961/1962,Queens Park Rangers,Torquay United,6-0,6,0,Football League Third Division,3,H
+1961-12-30,1961/1962,AFC Bournemouth,Watford,4-1,4,1,Football League Third Division,3,H
+1962-01-01,1961/1962,Barrow,Doncaster Rovers,4-1,4,1,Football League Fourth Division,4,H
+1962-01-06,1961/1962,Gillingham,Tranmere Rovers,0-1,0,1,Football League Fourth Division,4,A
+1962-01-06,1961/1962,Exeter City,Stockport County,4-3,4,3,Football League Fourth Division,4,H
+1962-01-06,1961/1962,Millwall,Chester,2-0,2,0,Football League Fourth Division,4,H
+1962-01-06,1961/1962,Hull City,Portsmouth,0-1,0,1,Football League Third Division,3,A
+1962-01-06,1961/1962,Grimsby Town,AFC Bournemouth,3-0,3,0,Football League Third Division,3,H
+1962-01-06,1961/1962,Southend United,Torquay United,2-1,2,1,Football League Third Division,3,H
+1962-01-12,1961/1962,Doncaster Rovers,Mansfield Town,0-1,0,1,Football League Fourth Division,4,A
+1962-01-12,1961/1962,Rotherham United,Leeds United,2-1,2,1,Football League Second Division,2,H
+1962-01-12,1961/1962,Reading,Barnsley,0-0,0,0,Football League Third Division,3,D
+1962-01-13,1961/1962,Arsenal,Bolton Wanderers,1-2,1,2,Football League First Division,1,A
+1962-01-13,1961/1962,Aston Villa,Sheffield United,0-0,0,0,Football League First Division,1,D
+1962-01-13,1961/1962,Burnley,Manchester City,6-3,6,3,Football League First Division,1,H
+1962-01-13,1961/1962,Cardiff City,Tottenham Hotspur,1-1,1,1,Football League First Division,1,D
+1962-01-13,1961/1962,Fulham,Chelsea,3-4,3,4,Football League First Division,1,A
+1962-01-13,1961/1962,Ipswich Town,West Bromwich Albion,3-0,3,0,Football League First Division,1,H
+1962-01-13,1961/1962,Leicester City,Birmingham City,1-2,1,2,Football League First Division,1,A
+1962-01-13,1961/1962,Manchester United,Blackpool,0-1,0,1,Football League First Division,1,A
+1962-01-13,1961/1962,Nottingham Forest,West Ham United,3-0,3,0,Football League First Division,1,H
+1962-01-13,1961/1962,Sheffield Wednesday,Everton,3-1,3,1,Football League First Division,1,H
+1962-01-13,1961/1962,Wolverhampton Wanderers,Blackburn Rovers,0-2,0,2,Football League First Division,1,A
+1962-01-13,1961/1962,York City,Gillingham,4-0,4,0,Football League Fourth Division,4,H
+1962-01-13,1961/1962,Stockport County,Bradford City,3-1,3,1,Football League Fourth Division,4,H
+1962-01-13,1961/1962,Chesterfield,Aldershot,2-3,2,3,Football League Fourth Division,4,A
+1962-01-13,1961/1962,Crewe Alexandra,Southport,3-1,3,1,Football League Fourth Division,4,H
+1962-01-13,1961/1962,Darlington,Chester,2-0,2,0,Football League Fourth Division,4,H
+1962-01-13,1961/1962,Exeter City,Rochdale,1-3,1,3,Football League Fourth Division,4,A
+1962-01-13,1961/1962,Hartlepool United,Tranmere Rovers,0-0,0,0,Football League Fourth Division,4,D
+1962-01-13,1961/1962,Oldham Athletic,Carlisle United,5-0,5,0,Football League Fourth Division,4,H
+1962-01-13,1961/1962,Workington,Millwall,2-2,2,2,Football League Fourth Division,4,D
+1962-01-13,1961/1962,Wrexham,Barrow,1-1,1,1,Football League Fourth Division,4,D
+1962-01-13,1961/1962,Accrington Stanley,Colchester United,0-4,0,4,Football League Fourth Division,4,A
+1962-01-13,1961/1962,Bury,Brighton & Hove Albion,2-1,2,1,Football League Second Division,2,H
+1962-01-13,1961/1962,Swansea City,Southampton,0-1,0,1,Football League Second Division,2,A
+1962-01-13,1961/1962,Charlton Athletic,Scunthorpe United,3-3,3,3,Football League Second Division,2,D
+1962-01-13,1961/1962,Derby County,Stoke City,2-0,2,0,Football League Second Division,2,H
+1962-01-13,1961/1962,Huddersfield Town,Luton Town,1-2,1,2,Football League Second Division,2,A
+1962-01-13,1961/1962,Leyton Orient,Walsall,3-0,3,0,Football League Second Division,2,H
+1962-01-13,1961/1962,Liverpool,Norwich City,5-4,5,4,Football League Second Division,2,H
+1962-01-13,1961/1962,Plymouth Argyle,Newcastle United,1-1,1,1,Football League Second Division,2,D
+1962-01-13,1961/1962,Preston North End,Middlesbrough,4-3,4,3,Football League Second Division,2,H
+1962-01-13,1961/1962,Sunderland,Bristol Rovers,6-1,6,1,Football League Second Division,2,H
+1962-01-13,1961/1962,Coventry City,Southend United,3-3,3,3,Football League Third Division,3,D
+1962-01-13,1961/1962,Crystal Palace,Halifax Town,4-3,4,3,Football League Third Division,3,H
+1962-01-13,1961/1962,Bristol City,Peterborough United,1-2,1,2,Football League Third Division,3,A
+1962-01-13,1961/1962,Grimsby Town,Notts County,2-1,2,1,Football League Third Division,3,H
+1962-01-13,1961/1962,Hull City,Lincoln City,1-0,1,0,Football League Third Division,3,H
+1962-01-13,1961/1962,Port Vale,Northampton Town,1-1,1,1,Football League Third Division,3,D
+1962-01-13,1961/1962,Portsmouth,Queens Park Rangers,4-1,4,1,Football League Third Division,3,H
+1962-01-13,1961/1962,Watford,Torquay United,4-1,4,1,Football League Third Division,3,H
+1962-01-13,1961/1962,Brentford,Newport County,3-1,3,1,Football League Third Division,3,H
+1962-01-13,1961/1962,Bradford Park Avenue,Shrewsbury Town,1-1,1,1,Football League Third Division,3,D
+1962-01-13,1961/1962,AFC Bournemouth,Swindon Town,0-0,0,0,Football League Third Division,3,D
+1962-01-15,1961/1962,Manchester United,Aston Villa,2-0,2,0,Football League First Division,1,H
+1962-01-15,1961/1962,Mansfield Town,Colchester United,4-0,4,0,Football League Fourth Division,4,H
+1962-01-19,1961/1962,Tranmere Rovers,Southport,3-1,3,1,Football League Fourth Division,4,H
+1962-01-20,1961/1962,Birmingham City,Ipswich Town,3-1,3,1,Football League First Division,1,H
+1962-01-20,1961/1962,Blackburn Rovers,Nottingham Forest,2-1,2,1,Football League First Division,1,H
+1962-01-20,1961/1962,Blackpool,Wolverhampton Wanderers,7-2,7,2,Football League First Division,1,H
+1962-01-20,1961/1962,Bolton Wanderers,Cardiff City,1-1,1,1,Football League First Division,1,D
+1962-01-20,1961/1962,Everton,Leicester City,3-2,3,2,Football League First Division,1,H
+1962-01-20,1961/1962,Fulham,Sheffield Wednesday,0-2,0,2,Football League First Division,1,A
+1962-01-20,1961/1962,Sheffield United,Chelsea,3-1,3,1,Football League First Division,1,H
+1962-01-20,1961/1962,Tottenham Hotspur,Manchester United,2-2,2,2,Football League First Division,1,D
+1962-01-20,1961/1962,West Bromwich Albion,Burnley,1-1,1,1,Football League First Division,1,D
+1962-01-20,1961/1962,Manchester City,Arsenal,3-2,3,2,Football League First Division,1,H
+1962-01-20,1961/1962,West Ham United,Aston Villa,2-0,2,0,Football League First Division,1,H
+1962-01-20,1961/1962,Aldershot,Stockport County,4-1,4,1,Football League Fourth Division,4,H
+1962-01-20,1961/1962,Chester,Hartlepool United,4-4,4,4,Football League Fourth Division,4,D
+1962-01-20,1961/1962,Colchester United,Darlington,2-0,2,0,Football League Fourth Division,4,H
+1962-01-20,1961/1962,Crewe Alexandra,Exeter City,3-1,3,1,Football League Fourth Division,4,H
+1962-01-20,1961/1962,Doncaster Rovers,Barrow,3-2,3,2,Football League Fourth Division,4,H
+1962-01-20,1961/1962,Gillingham,Chesterfield,5-1,5,1,Football League Fourth Division,4,H
+1962-01-20,1961/1962,Mansfield Town,Workington,4-1,4,1,Football League Fourth Division,4,H
+1962-01-20,1961/1962,Millwall,York City,2-1,2,1,Football League Fourth Division,4,H
+1962-01-20,1961/1962,Rochdale,Wrexham,2-1,2,1,Football League Fourth Division,4,H
+1962-01-20,1961/1962,Carlisle United,Accrington Stanley,2-0,2,0,Football League Fourth Division,4,H
+1962-01-20,1961/1962,Walsall,Preston North End,2-1,2,1,Football League Second Division,2,H
+1962-01-20,1961/1962,Scunthorpe United,Liverpool,1-1,1,1,Football League Second Division,2,D
+1962-01-20,1961/1962,Bristol Rovers,Stoke City,0-2,0,2,Football League Second Division,2,A
+1962-01-20,1961/1962,Newcastle United,Huddersfield Town,1-1,1,1,Football League Second Division,2,D
+1962-01-20,1961/1962,Southampton,Bury,5-3,5,3,Football League Second Division,2,H
+1962-01-20,1961/1962,Middlesbrough,Plymouth Argyle,1-1,1,1,Football League Second Division,2,D
+1962-01-20,1961/1962,Norwich City,Rotherham United,0-1,0,1,Football League Second Division,2,A
+1962-01-20,1961/1962,Leeds United,Sunderland,1-0,1,0,Football League Second Division,2,H
+1962-01-20,1961/1962,Derby County,Leyton Orient,1-2,1,2,Football League Second Division,2,A
+1962-01-20,1961/1962,Luton Town,Swansea City,5-1,5,1,Football League Second Division,2,H
+1962-01-20,1961/1962,Halifax Town,AFC Bournemouth,3-1,3,1,Football League Third Division,3,H
+1962-01-20,1961/1962,Lincoln City,Northampton Town,0-0,0,0,Football League Third Division,3,D
+1962-01-20,1961/1962,Port Vale,Bristol City,0-2,0,2,Football League Third Division,3,A
+1962-01-20,1961/1962,Queens Park Rangers,Crystal Palace,1-0,1,0,Football League Third Division,3,H
+1962-01-20,1961/1962,Shrewsbury Town,Grimsby Town,1-2,1,2,Football League Third Division,3,A
+1962-01-20,1961/1962,Southend United,Brentford,0-0,0,0,Football League Third Division,3,D
+1962-01-20,1961/1962,Swindon Town,Watford,3-1,3,1,Football League Third Division,3,H
+1962-01-20,1961/1962,Torquay United,Hull City,4-2,4,2,Football League Third Division,3,H
+1962-01-20,1961/1962,Barnsley,Portsmouth,2-2,2,2,Football League Third Division,3,D
+1962-01-20,1961/1962,Notts County,Coventry City,2-0,2,0,Football League Third Division,3,H
+1962-01-26,1961/1962,Aldershot,Doncaster Rovers,3-1,3,1,Football League Fourth Division,4,H
+1962-01-27,1961/1962,Hartlepool United,Millwall,2-0,2,0,Football League Fourth Division,4,H
+1962-01-27,1961/1962,Darlington,Gillingham,1-1,1,1,Football League Fourth Division,4,D
+1962-01-27,1961/1962,Colchester United,Crewe Alexandra,5-3,5,3,Football League Fourth Division,4,H
+1962-01-27,1961/1962,Chester,Rochdale,2-3,2,3,Football League Fourth Division,4,A
+1962-01-27,1961/1962,Carlisle United,Exeter City,2-1,2,1,Football League Fourth Division,4,H
+1962-01-27,1961/1962,Accrington Stanley,Chesterfield,0-0,0,0,Football League Fourth Division,4,D
+1962-01-27,1961/1962,Leeds United,Newcastle United,0-1,0,1,Football League Second Division,2,A
+1962-01-27,1961/1962,Watford,Newport County,3-1,3,1,Football League Third Division,3,H
+1962-01-27,1961/1962,Portsmouth,Coventry City,3-2,3,2,Football League Third Division,3,H
+1962-01-27,1961/1962,Hull City,Southend United,0-0,0,0,Football League Third Division,3,D
+1962-01-27,1961/1962,Northampton Town,Notts County,1-2,1,2,Football League Third Division,3,A
+1962-01-27,1961/1962,Halifax Town,Bristol City,3-4,3,4,Football League Third Division,3,A
+1962-01-27,1961/1962,Crystal Palace,Brentford,2-2,2,2,Football League Third Division,3,D
+1962-01-27,1961/1962,Barnsley,Grimsby Town,0-3,0,3,Football League Third Division,3,A
+1962-01-27,1961/1962,AFC Bournemouth,Reading,1-0,1,0,Football League Third Division,3,H
+1962-01-31,1961/1962,Rochdale,Bradford City,4-1,4,1,Football League Fourth Division,4,H
+1962-01-31,1961/1962,Lincoln City,Barnsley,2-2,2,2,Football League Third Division,3,D
+1962-02-02,1961/1962,Swansea City,Newcastle United,3-2,3,2,Football League Second Division,2,H
+1962-02-02,1961/1962,Rotherham United,Scunthorpe United,0-1,0,1,Football League Second Division,2,A
+1962-02-02,1961/1962,Reading,Southend United,3-1,3,1,Football League Third Division,3,H
+1962-02-02,1961/1962,Brentford,Notts County,0-1,0,1,Football League Third Division,3,A
+1962-02-03,1961/1962,Arsenal,West Bromwich Albion,0-1,0,1,Football League First Division,1,A
+1962-02-03,1961/1962,Aston Villa,Blackburn Rovers,1-0,1,0,Football League First Division,1,H
+1962-02-03,1961/1962,Bolton Wanderers,Manchester City,0-2,0,2,Football League First Division,1,A
+1962-02-03,1961/1962,Burnley,Birmingham City,7-1,7,1,Football League First Division,1,H
+1962-02-03,1961/1962,Chelsea,West Ham United,0-1,0,1,Football League First Division,1,A
+1962-02-03,1961/1962,Ipswich Town,Everton,4-2,4,2,Football League First Division,1,H
+1962-02-03,1961/1962,Leicester City,Fulham,4-1,4,1,Football League First Division,1,H
+1962-02-03,1961/1962,Nottingham Forest,Blackpool,3-4,3,4,Football League First Division,1,A
+1962-02-03,1961/1962,Manchester United,Cardiff City,3-0,3,0,Football League First Division,1,H
+1962-02-03,1961/1962,Wolverhampton Wanderers,Tottenham Hotspur,3-1,3,1,Football League First Division,1,H
+1962-02-03,1961/1962,Sheffield Wednesday,Sheffield United,1-2,1,2,Football League First Division,1,A
+1962-02-03,1961/1962,Accrington Stanley,Bradford City,0-2,0,2,Football League Fourth Division,4,A
+1962-02-03,1961/1962,Chesterfield,Millwall,2-3,2,3,Football League Fourth Division,4,A
+1962-02-03,1961/1962,Darlington,Carlisle United,2-1,2,1,Football League Fourth Division,4,H
+1962-02-03,1961/1962,Southport,Chester,1-0,1,0,Football League Fourth Division,4,H
+1962-02-03,1961/1962,Exeter City,Tranmere Rovers,1-0,1,0,Football League Fourth Division,4,H
+1962-02-03,1961/1962,Gillingham,Stockport County,1-1,1,1,Football League Fourth Division,4,D
+1962-02-03,1961/1962,Hartlepool United,Colchester United,1-1,1,1,Football League Fourth Division,4,D
+1962-02-03,1961/1962,Oldham Athletic,Aldershot,2-1,2,1,Football League Fourth Division,4,H
+1962-02-03,1961/1962,Workington,Barrow,1-2,1,2,Football League Fourth Division,4,A
+1962-02-03,1961/1962,Wrexham,Crewe Alexandra,1-1,1,1,Football League Fourth Division,4,D
+1962-02-03,1961/1962,York City,Mansfield Town,2-1,2,1,Football League Fourth Division,4,H
+1962-02-03,1961/1962,Doncaster Rovers,Rochdale,1-2,1,2,Football League Fourth Division,4,A
+1962-02-03,1961/1962,Leyton Orient,Bristol Rovers,2-3,2,3,Football League Second Division,2,A
+1962-02-03,1961/1962,Sunderland,Norwich City,2-0,2,0,Football League Second Division,2,H
+1962-02-03,1961/1962,Charlton Athletic,Bury,1-0,1,0,Football League Second Division,2,H
+1962-02-03,1961/1962,Huddersfield Town,Middlesbrough,0-0,0,0,Football League Second Division,2,D
+1962-02-03,1961/1962,Liverpool,Brighton & Hove Albion,3-1,3,1,Football League Second Division,2,H
+1962-02-03,1961/1962,Plymouth Argyle,Walsall,2-1,2,1,Football League Second Division,2,H
+1962-02-03,1961/1962,Preston North End,Derby County,1-0,1,0,Football League Second Division,2,H
+1962-02-03,1961/1962,Southampton,Luton Town,3-0,3,0,Football League Second Division,2,H
+1962-02-03,1961/1962,Stoke City,Leeds United,2-1,2,1,Football League Second Division,2,H
+1962-02-03,1961/1962,Crystal Palace,Barnsley,1-3,1,3,Football League Third Division,3,A
+1962-02-03,1961/1962,Grimsby Town,Peterborough United,2-1,2,1,Football League Third Division,3,H
+1962-02-03,1961/1962,Hull City,Swindon Town,0-1,0,1,Football League Third Division,3,A
+1962-02-03,1961/1962,Coventry City,Shrewsbury Town,4-1,4,1,Football League Third Division,3,H
+1962-02-03,1961/1962,Northampton Town,Torquay United,1-2,1,2,Football League Third Division,3,A
+1962-02-03,1961/1962,Watford,Halifax Town,0-0,0,0,Football League Third Division,3,D
+1962-02-03,1961/1962,Bristol City,Lincoln City,2-0,2,0,Football League Third Division,3,H
+1962-02-03,1961/1962,Bradford Park Avenue,Port Vale,2-1,2,1,Football League Third Division,3,H
+1962-02-03,1961/1962,AFC Bournemouth,Queens Park Rangers,3-1,3,1,Football League Third Division,3,H
+1962-02-05,1961/1962,Newport County,Portsmouth,0-5,0,5,Football League Third Division,3,A
+1962-02-06,1961/1962,Bristol City,Reading,5-0,5,0,Football League Third Division,3,H
+1962-02-07,1961/1962,Lincoln City,Shrewsbury Town,1-2,1,2,Football League Third Division,3,A
+1962-02-09,1961/1962,Cardiff City,Wolverhampton Wanderers,2-3,2,3,Football League First Division,1,A
+1962-02-09,1961/1962,Chester,Tranmere Rovers,1-1,1,1,Football League Fourth Division,4,D
+1962-02-09,1961/1962,Aldershot,Accrington Stanley,2-2,2,2,Football League Fourth Division,4,D
+1962-02-09,1961/1962,Leyton Orient,Preston North End,0-2,0,2,Football League Second Division,2,A
+1962-02-09,1961/1962,Barnsley,AFC Bournemouth,2-2,2,2,Football League Third Division,3,D
+1962-02-10,1961/1962,West Bromwich Albion,Bolton Wanderers,6-2,6,2,Football League First Division,1,H
+1962-02-10,1961/1962,Birmingham City,Arsenal,1-0,1,0,Football League First Division,1,H
+1962-02-10,1961/1962,Blackburn Rovers,Chelsea,3-0,3,0,Football League First Division,1,H
+1962-02-10,1961/1962,Blackpool,Aston Villa,1-2,1,2,Football League First Division,1,A
+1962-02-10,1961/1962,Fulham,Ipswich Town,1-2,1,2,Football League First Division,1,A
+1962-02-10,1961/1962,Manchester City,Manchester United,0-2,0,2,Football League First Division,1,A
+1962-02-10,1961/1962,Sheffield Wednesday,Leicester City,1-2,1,2,Football League First Division,1,A
+1962-02-10,1961/1962,Tottenham Hotspur,Nottingham Forest,4-2,4,2,Football League First Division,1,H
+1962-02-10,1961/1962,West Ham United,Sheffield United,1-2,1,2,Football League First Division,1,A
+1962-02-10,1961/1962,Everton,Burnley,2-2,2,2,Football League First Division,1,D
+1962-02-10,1961/1962,Barrow,York City,0-0,0,0,Football League Fourth Division,4,D
+1962-02-10,1961/1962,Stockport County,Oldham Athletic,1-1,1,1,Football League Fourth Division,4,D
+1962-02-10,1961/1962,Carlisle United,Hartlepool United,1-0,1,0,Football League Fourth Division,4,H
+1962-02-10,1961/1962,Colchester United,Southport,2-0,2,0,Football League Fourth Division,4,H
+1962-02-10,1961/1962,Crewe Alexandra,Doncaster Rovers,2-0,2,0,Football League Fourth Division,4,H
+1962-02-10,1961/1962,Exeter City,Wrexham,1-1,1,1,Football League Fourth Division,4,D
+1962-02-10,1961/1962,Mansfield Town,Chesterfield,2-2,2,2,Football League Fourth Division,4,D
+1962-02-10,1961/1962,Millwall,Gillingham,0-0,0,0,Football League Fourth Division,4,D
+1962-02-10,1961/1962,Rochdale,Workington,1-3,1,3,Football League Fourth Division,4,A
+1962-02-10,1961/1962,Bradford City,Darlington,3-2,3,2,Football League Fourth Division,4,H
+1962-02-10,1961/1962,Walsall,Huddersfield Town,2-2,2,2,Football League Second Division,2,D
+1962-02-10,1961/1962,Bury,Liverpool,0-3,0,3,Football League Second Division,2,A
+1962-02-10,1961/1962,Derby County,Plymouth Argyle,2-2,2,2,Football League Second Division,2,D
+1962-02-10,1961/1962,Leeds United,Bristol Rovers,0-0,0,0,Football League Second Division,2,D
+1962-02-10,1961/1962,Luton Town,Charlton Athletic,1-6,1,6,Football League Second Division,2,A
+1962-02-10,1961/1962,Scunthorpe United,Sunderland,3-1,3,1,Football League Second Division,2,H
+1962-02-10,1961/1962,Middlesbrough,Swansea City,1-3,1,3,Football League Second Division,2,A
+1962-02-10,1961/1962,Newcastle United,Southampton,3-2,3,2,Football League Second Division,2,H
+1962-02-10,1961/1962,Norwich City,Stoke City,1-0,1,0,Football League Second Division,2,H
+1962-02-10,1961/1962,Brighton & Hove Albion,Rotherham United,0-3,0,3,Football League Second Division,2,A
+1962-02-10,1961/1962,Peterborough United,Coventry City,2-3,2,3,Football League Third Division,3,A
+1962-02-10,1961/1962,Port Vale,Grimsby Town,0-2,0,2,Football League Third Division,3,A
+1962-02-10,1961/1962,Portsmouth,Crystal Palace,2-1,2,1,Football League Third Division,3,H
+1962-02-10,1961/1962,Queens Park Rangers,Watford,1-2,1,2,Football League Third Division,3,A
+1962-02-10,1961/1962,Shrewsbury Town,Brentford,1-3,1,3,Football League Third Division,3,A
+1962-02-10,1961/1962,Southend United,Newport County,1-0,1,0,Football League Third Division,3,H
+1962-02-10,1961/1962,Swindon Town,Northampton Town,2-2,2,2,Football League Third Division,3,D
+1962-02-10,1961/1962,Torquay United,Lincoln City,3-4,3,4,Football League Third Division,3,A
+1962-02-10,1961/1962,Notts County,Reading,2-2,2,2,Football League Third Division,3,D
+1962-02-10,1961/1962,Halifax Town,Hull City,2-1,2,1,Football League Third Division,3,H
+1962-02-10,1961/1962,Bristol City,Bradford Park Avenue,6-1,6,1,Football League Third Division,3,H
+1962-02-14,1961/1962,Crewe Alexandra,Millwall,2-1,2,1,Football League Fourth Division,4,H
+1962-02-16,1961/1962,Chelsea,Blackpool,1-0,1,0,Football League First Division,1,H
+1962-02-16,1961/1962,Southport,Carlisle United,0-0,0,0,Football League Fourth Division,4,D
+1962-02-16,1961/1962,Doncaster Rovers,Exeter City,3-1,3,1,Football League Fourth Division,4,H
+1962-02-16,1961/1962,Accrington Stanley,Stockport County,1-2,1,2,Football League Fourth Division,4,A
+1962-02-16,1961/1962,Hull City,Queens Park Rangers,3-1,3,1,Football League Third Division,3,H
+1962-02-16,1961/1962,Lincoln City,Swindon Town,2-2,2,2,Football League Third Division,3,D
+1962-02-17,1961/1962,Leicester City,West Ham United,2-2,2,2,Football League First Division,1,D
+1962-02-17,1961/1962,Nottingham Forest,Cardiff City,2-1,2,1,Football League First Division,1,H
+1962-02-17,1961/1962,Bolton Wanderers,Birmingham City,3-2,3,2,Football League First Division,1,H
+1962-02-17,1961/1962,Darlington,Aldershot,2-0,2,0,Football League Fourth Division,4,H
+1962-02-17,1961/1962,Chesterfield,Barrow,2-2,2,2,Football League Fourth Division,4,D
+1962-02-17,1961/1962,Gillingham,Mansfield Town,2-2,2,2,Football League Fourth Division,4,D
+1962-02-17,1961/1962,York City,Rochdale,2-1,2,1,Football League Fourth Division,4,H
+1962-02-17,1961/1962,Millwall,Oldham Athletic,2-0,2,0,Football League Fourth Division,4,H
+1962-02-17,1961/1962,Tranmere Rovers,Colchester United,5-2,5,2,Football League Fourth Division,4,H
+1962-02-17,1961/1962,Workington,Crewe Alexandra,0-1,0,1,Football League Fourth Division,4,A
+1962-02-17,1961/1962,Wrexham,Chester,0-0,0,0,Football League Fourth Division,4,D
+1962-02-17,1961/1962,Hartlepool United,Bradford City,1-3,1,3,Football League Fourth Division,4,A
+1962-02-17,1961/1962,Luton Town,Newcastle United,1-0,1,0,Football League Second Division,2,H
+1962-02-17,1961/1962,Plymouth Argyle,Leyton Orient,2-1,2,1,Football League Second Division,2,H
+1962-02-17,1961/1962,Rotherham United,Bury,2-0,2,0,Football League Second Division,2,H
+1962-02-17,1961/1962,Sunderland,Brighton & Hove Albion,0-0,0,0,Football League Second Division,2,D
+1962-02-17,1961/1962,Stoke City,Scunthorpe United,1-0,1,0,Football League Second Division,2,H
+1962-02-17,1961/1962,Swansea City,Walsall,1-3,1,3,Football League Second Division,2,A
+1962-02-17,1961/1962,Reading,Shrewsbury Town,3-0,3,0,Football League Third Division,3,H
+1962-02-17,1961/1962,Watford,Barnsley,3-1,3,1,Football League Third Division,3,H
+1962-02-17,1961/1962,Northampton Town,Halifax Town,3-1,3,1,Football League Third Division,3,H
+1962-02-17,1961/1962,Newport County,Notts County,2-0,2,0,Football League Third Division,3,H
+1962-02-17,1961/1962,Southend United,Crystal Palace,2-2,2,2,Football League Third Division,3,D
+1962-02-17,1961/1962,Brentford,Peterborough United,2-0,2,0,Football League Third Division,3,H
+1962-02-17,1961/1962,Bradford Park Avenue,Torquay United,3-1,3,1,Football League Third Division,3,H
+1962-02-17,1961/1962,Grimsby Town,Bristol City,1-0,1,0,Football League Third Division,3,H
+1962-02-17,1961/1962,AFC Bournemouth,Portsmouth,2-0,2,0,Football League Third Division,3,H
+1962-02-19,1961/1962,Halifax Town,Torquay United,1-0,1,0,Football League Third Division,3,H
+1962-02-19,1961/1962,Peterborough United,Queens Park Rangers,5-1,5,1,Football League Third Division,3,H
+1962-02-20,1961/1962,Sheffield United,Blackburn Rovers,0-0,0,0,Football League First Division,1,D
+1962-02-20,1961/1962,Burnley,Fulham,2-1,2,1,Football League First Division,1,H
+1962-02-20,1961/1962,Scunthorpe United,Leeds United,2-1,2,1,Football League Second Division,2,H
+1962-02-21,1961/1962,Aston Villa,Tottenham Hotspur,0-0,0,0,Football League First Division,1,D
+1962-02-21,1961/1962,Manchester City,West Bromwich Albion,3-1,3,1,Football League First Division,1,H
+1962-02-21,1961/1962,Southampton,Middlesbrough,1-3,1,3,Football League Second Division,2,A
+1962-02-23,1961/1962,Tranmere Rovers,Doncaster Rovers,3-2,3,2,Football League Fourth Division,4,H
+1962-02-23,1961/1962,Stockport County,Mansfield Town,2-1,2,1,Football League Fourth Division,4,H
+1962-02-23,1961/1962,Scunthorpe United,Swansea City,2-0,2,0,Football League Second Division,2,H
+1962-02-23,1961/1962,Swindon Town,Brentford,5-2,5,2,Football League Third Division,3,H
+1962-02-23,1961/1962,Lincoln City,Grimsby Town,1-1,1,1,Football League Third Division,3,D
+1962-02-23,1961/1962,Halifax Town,Reading,2-1,2,1,Football League Third Division,3,H
+1962-02-24,1961/1962,Aston Villa,Fulham,2-0,2,0,Football League First Division,1,H
+1962-02-24,1961/1962,Blackburn Rovers,Burnley,2-1,2,1,Football League First Division,1,H
+1962-02-24,1961/1962,Blackpool,Arsenal,0-1,0,1,Football League First Division,1,A
+1962-02-24,1961/1962,Cardiff City,Manchester City,0-0,0,0,Football League First Division,1,D
+1962-02-24,1961/1962,Chelsea,Sheffield Wednesday,1-0,1,0,Football League First Division,1,H
+1962-02-24,1961/1962,Manchester United,West Bromwich Albion,4-1,4,1,Football League First Division,1,H
+1962-02-24,1961/1962,Nottingham Forest,Everton,2-1,2,1,Football League First Division,1,H
+1962-02-24,1961/1962,Tottenham Hotspur,Bolton Wanderers,2-2,2,2,Football League First Division,1,D
+1962-02-24,1961/1962,Sheffield United,Leicester City,3-1,3,1,Football League First Division,1,H
+1962-02-24,1961/1962,Wolverhampton Wanderers,Birmingham City,2-1,2,1,Football League First Division,1,H
+1962-02-24,1961/1962,West Ham United,Ipswich Town,2-2,2,2,Football League First Division,1,D
+1962-02-24,1961/1962,Accrington Stanley,Rochdale,0-2,0,2,Football League Fourth Division,4,A
+1962-02-24,1961/1962,Aldershot,Millwall,0-2,0,2,Football League Fourth Division,4,A
+1962-02-24,1961/1962,Carlisle United,Chesterfield,3-1,3,1,Football League Fourth Division,4,H
+1962-02-24,1961/1962,Chester,Workington,1-3,1,3,Football League Fourth Division,4,A
+1962-02-24,1961/1962,Colchester United,York City,3-1,3,1,Football League Fourth Division,4,H
+1962-02-24,1961/1962,Darlington,Crewe Alexandra,2-1,2,1,Football League Fourth Division,4,H
+1962-02-24,1961/1962,Hartlepool United,Exeter City,0-0,0,0,Football League Fourth Division,4,D
+1962-02-24,1961/1962,Oldham Athletic,Barrow,3-2,3,2,Football League Fourth Division,4,H
+1962-02-24,1961/1962,Southport,Wrexham,4-2,4,2,Football League Fourth Division,4,H
+1962-02-24,1961/1962,Bradford City,Gillingham,5-2,5,2,Football League Fourth Division,4,H
+1962-02-24,1961/1962,Sunderland,Derby County,2-1,2,1,Football League Second Division,2,H
+1962-02-24,1961/1962,Stoke City,Leyton Orient,0-1,0,1,Football League Second Division,2,A
+1962-02-24,1961/1962,Rotherham United,Walsall,2-2,2,2,Football League Second Division,2,D
+1962-02-24,1961/1962,Brighton & Hove Albion,Southampton,0-0,0,0,Football League Second Division,2,D
+1962-02-24,1961/1962,Bristol Rovers,Preston North End,2-1,2,1,Football League Second Division,2,H
+1962-02-24,1961/1962,Bury,Luton Town,2-1,2,1,Football League Second Division,2,H
+1962-02-24,1961/1962,Charlton Athletic,Newcastle United,1-1,1,1,Football League Second Division,2,D
+1962-02-24,1961/1962,Leeds United,Plymouth Argyle,2-3,2,3,Football League Second Division,2,A
+1962-02-24,1961/1962,Liverpool,Middlesbrough,5-1,5,1,Football League Second Division,2,H
+1962-02-24,1961/1962,Norwich City,Huddersfield Town,1-2,1,2,Football League Second Division,2,A
+1962-02-24,1961/1962,Barnsley,Southend United,1-1,1,1,Football League Third Division,3,D
+1962-02-24,1961/1962,Crystal Palace,Shrewsbury Town,2-1,2,1,Football League Third Division,3,H
+1962-02-24,1961/1962,Hull City,Bristol City,3-2,3,2,Football League Third Division,3,H
+1962-02-24,1961/1962,Northampton Town,Bradford Park Avenue,2-0,2,0,Football League Third Division,3,H
+1962-02-24,1961/1962,Portsmouth,Notts County,0-0,0,0,Football League Third Division,3,D
+1962-02-24,1961/1962,Queens Park Rangers,Newport County,4-0,4,0,Football League Third Division,3,H
+1962-02-24,1961/1962,Torquay United,Coventry City,1-0,1,0,Football League Third Division,3,H
+1962-02-24,1961/1962,Watford,Port Vale,2-0,2,0,Football League Third Division,3,H
+1962-02-24,1961/1962,AFC Bournemouth,Peterborough United,1-1,1,1,Football League Third Division,3,D
+1962-02-27,1961/1962,Doncaster Rovers,Accrington Stanley,1-1,1,1,Football League Fourth Division,4,D
+1962-02-27,1961/1962,Bristol Rovers,Norwich City,2-1,2,1,Football League Second Division,2,H
+1962-02-28,1961/1962,Wolverhampton Wanderers,Manchester United,2-2,2,2,Football League First Division,1,D
+1962-03-02,1961/1962,Mansfield Town,Aldershot,4-1,4,1,Football League Fourth Division,4,H
+1962-03-02,1961/1962,Crewe Alexandra,Accrington Stanley,4-0,4,0,Football League Fourth Division,4,H
+1962-03-02,1961/1962,Coventry City,Lincoln City,2-2,2,2,Football League Third Division,3,D
+1962-03-02,1961/1962,Reading,Swindon Town,1-1,1,1,Football League Third Division,3,D
+1962-03-03,1961/1962,Arsenal,Blackburn Rovers,0-0,0,0,Football League First Division,1,D
+1962-03-03,1961/1962,Birmingham City,Manchester United,1-1,1,1,Football League First Division,1,D
+1962-03-03,1961/1962,Bolton Wanderers,Blackpool,0-0,0,0,Football League First Division,1,D
+1962-03-03,1961/1962,Burnley,West Ham United,6-0,6,0,Football League First Division,1,H
+1962-03-03,1961/1962,Everton,Wolverhampton Wanderers,4-0,4,0,Football League First Division,1,H
+1962-03-03,1961/1962,Fulham,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1962-03-03,1961/1962,Ipswich Town,Sheffield United,4-0,4,0,Football League First Division,1,H
+1962-03-03,1961/1962,Sheffield Wednesday,Aston Villa,3-0,3,0,Football League First Division,1,H
+1962-03-03,1961/1962,Manchester City,Tottenham Hotspur,6-2,6,2,Football League First Division,1,H
+1962-03-03,1961/1962,West Bromwich Albion,Cardiff City,5-1,5,1,Football League First Division,1,H
+1962-03-03,1961/1962,Barrow,Stockport County,3-1,3,1,Football League Fourth Division,4,H
+1962-03-03,1961/1962,Chesterfield,Colchester United,4-1,4,1,Football League Fourth Division,4,H
+1962-03-03,1961/1962,Exeter City,Darlington,0-1,0,1,Football League Fourth Division,4,A
+1962-03-03,1961/1962,Gillingham,Carlisle United,4-1,4,1,Football League Fourth Division,4,H
+1962-03-03,1961/1962,Millwall,Bradford City,1-2,1,2,Football League Fourth Division,4,A
+1962-03-03,1961/1962,Rochdale,Oldham Athletic,3-1,3,1,Football League Fourth Division,4,H
+1962-03-03,1961/1962,Workington,Tranmere Rovers,2-1,2,1,Football League Fourth Division,4,H
+1962-03-03,1961/1962,Wrexham,Hartlepool United,10-1,10,1,Football League Fourth Division,4,H
+1962-03-03,1961/1962,York City,Chester,5-1,5,1,Football League Fourth Division,4,H
+1962-03-03,1961/1962,Doncaster Rovers,Southport,1-2,1,2,Football League Fourth Division,4,A
+1962-03-03,1961/1962,Walsall,Liverpool,1-1,1,1,Football League Second Division,2,D
+1962-03-03,1961/1962,Swansea City,Norwich City,0-3,0,3,Football League Second Division,2,A
+1962-03-03,1961/1962,Preston North End,Stoke City,1-2,1,2,Football League Second Division,2,A
+1962-03-03,1961/1962,Derby County,Rotherham United,1-1,1,1,Football League Second Division,2,D
+1962-03-03,1961/1962,Huddersfield Town,Leeds United,2-1,2,1,Football League Second Division,2,H
+1962-03-03,1961/1962,Leyton Orient,Sunderland,1-1,1,1,Football League Second Division,2,D
+1962-03-03,1961/1962,Luton Town,Brighton & Hove Albion,2-1,2,1,Football League Second Division,2,H
+1962-03-03,1961/1962,Middlesbrough,Charlton Athletic,3-2,3,2,Football League Second Division,2,H
+1962-03-03,1961/1962,Newcastle United,Bury,1-2,1,2,Football League Second Division,2,A
+1962-03-03,1961/1962,Southampton,Scunthorpe United,6-4,6,4,Football League Second Division,2,H
+1962-03-03,1961/1962,Plymouth Argyle,Bristol Rovers,3-1,3,1,Football League Second Division,2,H
+1962-03-03,1961/1962,Bradford Park Avenue,Hull City,1-0,1,0,Football League Third Division,3,H
+1962-03-03,1961/1962,Bristol City,Watford,2-1,2,1,Football League Third Division,3,H
+1962-03-03,1961/1962,Grimsby Town,Northampton Town,3-2,3,2,Football League Third Division,3,H
+1962-03-03,1961/1962,Notts County,Barnsley,0-2,0,2,Football League Third Division,3,A
+1962-03-03,1961/1962,Peterborough United,Crystal Palace,4-1,4,1,Football League Third Division,3,H
+1962-03-03,1961/1962,Shrewsbury Town,Portsmouth,0-1,0,1,Football League Third Division,3,A
+1962-03-03,1961/1962,Southend United,Queens Park Rangers,2-3,2,3,Football League Third Division,3,A
+1962-03-03,1961/1962,Brentford,Torquay United,0-2,0,2,Football League Third Division,3,A
+1962-03-05,1961/1962,Southport,Mansfield Town,2-1,2,1,Football League Fourth Division,4,H
+1962-03-05,1961/1962,Millwall,Doncaster Rovers,2-0,2,0,Football League Fourth Division,4,H
+1962-03-05,1961/1962,Newport County,Halifax Town,0-1,0,1,Football League Third Division,3,A
+1962-03-05,1961/1962,Port Vale,Barnsley,2-0,2,0,Football League Third Division,3,H
+1962-03-06,1961/1962,Scunthorpe United,Walsall,2-1,2,1,Football League Second Division,2,H
+1962-03-06,1961/1962,Charlton Athletic,Southampton,1-0,1,0,Football League Second Division,2,H
+1962-03-06,1961/1962,Bristol City,Portsmouth,0-4,0,4,Football League Third Division,3,A
+1962-03-07,1961/1962,Crewe Alexandra,Aldershot,2-0,2,0,Football League Fourth Division,4,H
+1962-03-07,1961/1962,Workington,Carlisle United,2-1,2,1,Football League Fourth Division,4,H
+1962-03-07,1961/1962,Middlesbrough,Newcastle United,3-0,3,0,Football League Second Division,2,H
+1962-03-07,1961/1962,Bradford Park Avenue,Crystal Palace,2-0,2,0,Football League Third Division,3,H
+1962-03-09,1961/1962,Chelsea,Birmingham City,1-1,1,1,Football League First Division,1,D
+1962-03-09,1961/1962,Ipswich Town,Sheffield Wednesday,2-1,2,1,Football League First Division,1,H
+1962-03-09,1961/1962,Aldershot,Barrow,3-1,3,1,Football League Fourth Division,4,H
+1962-03-09,1961/1962,Stockport County,Rochdale,5-2,5,2,Football League Fourth Division,4,H
+1962-03-09,1961/1962,Tranmere Rovers,York City,2-2,2,2,Football League Fourth Division,4,D
+1962-03-09,1961/1962,Rotherham United,Leyton Orient,2-1,2,1,Football League Second Division,2,H
+1962-03-09,1961/1962,Watford,Southend United,1-3,1,3,Football League Third Division,3,A
+1962-03-09,1961/1962,Barnsley,Coventry City,2-1,2,1,Football League Third Division,3,H
+1962-03-10,1961/1962,Blackpool,Leicester City,2-1,2,1,Football League First Division,1,H
+1962-03-10,1961/1962,Wolverhampton Wanderers,Bolton Wanderers,5-1,5,1,Football League First Division,1,H
+1962-03-10,1961/1962,Nottingham Forest,Manchester City,1-2,1,2,Football League First Division,1,A
+1962-03-10,1961/1962,Bradford City,Mansfield Town,6-1,6,1,Football League Fourth Division,4,H
+1962-03-10,1961/1962,Southport,Workington,1-1,1,1,Football League Fourth Division,4,D
+1962-03-10,1961/1962,Chester,Chesterfield,4-1,4,1,Football League Fourth Division,4,H
+1962-03-10,1961/1962,Colchester United,Gillingham,6-0,6,0,Football League Fourth Division,4,H
+1962-03-10,1961/1962,Darlington,Wrexham,1-0,1,0,Football League Fourth Division,4,H
+1962-03-10,1961/1962,Doncaster Rovers,Hartlepool United,2-2,2,2,Football League Fourth Division,4,D
+1962-03-10,1961/1962,Oldham Athletic,Crewe Alexandra,2-0,2,0,Football League Fourth Division,4,H
+1962-03-10,1961/1962,Carlisle United,Millwall,3-2,3,2,Football League Fourth Division,4,H
+1962-03-10,1961/1962,Scunthorpe United,Luton Town,2-0,2,0,Football League Second Division,2,H
+1962-03-10,1961/1962,Brighton & Hove Albion,Newcastle United,0-4,0,4,Football League Second Division,2,A
+1962-03-10,1961/1962,Bristol Rovers,Huddersfield Town,1-1,1,1,Football League Second Division,2,D
+1962-03-10,1961/1962,Bury,Middlesbrough,2-1,2,1,Football League Second Division,2,H
+1962-03-10,1961/1962,Charlton Athletic,Walsall,3-3,3,3,Football League Second Division,2,D
+1962-03-10,1961/1962,Liverpool,Derby County,4-1,4,1,Football League Second Division,2,H
+1962-03-10,1961/1962,Norwich City,Southampton,1-1,1,1,Football League Second Division,2,D
+1962-03-10,1961/1962,Stoke City,Plymouth Argyle,2-0,2,0,Football League Second Division,2,H
+1962-03-10,1961/1962,Leeds United,Swansea City,2-0,2,0,Football League Second Division,2,H
+1962-03-10,1961/1962,Swindon Town,Bristol City,0-4,0,4,Football League Third Division,3,A
+1962-03-10,1961/1962,Queens Park Rangers,Grimsby Town,3-2,3,2,Football League Third Division,3,H
+1962-03-10,1961/1962,Northampton Town,Shrewsbury Town,3-1,3,1,Football League Third Division,3,H
+1962-03-10,1961/1962,Torquay United,Port Vale,2-0,2,0,Football League Third Division,3,H
+1962-03-10,1961/1962,Portsmouth,Brentford,4-0,4,0,Football League Third Division,3,H
+1962-03-10,1961/1962,Lincoln City,Peterborough United,1-2,1,2,Football League Third Division,3,A
+1962-03-10,1961/1962,Crystal Palace,Reading,3-4,3,4,Football League Third Division,3,A
+1962-03-10,1961/1962,Hull City,Notts County,2-1,2,1,Football League Third Division,3,H
+1962-03-10,1961/1962,AFC Bournemouth,Newport County,2-1,2,1,Football League Third Division,3,H
+1962-03-12,1961/1962,Tranmere Rovers,Darlington,0-0,0,0,Football League Fourth Division,4,D
+1962-03-12,1961/1962,Stockport County,Chesterfield,2-1,2,1,Football League Fourth Division,4,H
+1962-03-12,1961/1962,Coventry City,Watford,1-0,1,0,Football League Third Division,3,H
+1962-03-12,1961/1962,Newport County,Port Vale,1-1,1,1,Football League Third Division,3,D
+1962-03-13,1961/1962,Carlisle United,Wrexham,1-0,1,0,Football League Fourth Division,4,H
+1962-03-13,1961/1962,Oldham Athletic,York City,1-0,1,0,Football League Fourth Division,4,H
+1962-03-13,1961/1962,Rochdale,Crewe Alexandra,3-0,3,0,Football League Fourth Division,4,H
+1962-03-13,1961/1962,Bury,Leyton Orient,0-1,0,1,Football League Second Division,2,A
+1962-03-14,1961/1962,Sheffield United,Everton,1-1,1,1,Football League First Division,1,D
+1962-03-14,1961/1962,Cardiff City,Burnley,1-1,1,1,Football League First Division,1,D
+1962-03-14,1961/1962,Aston Villa,West Bromwich Albion,1-0,1,0,Football League First Division,1,H
+1962-03-14,1961/1962,Tottenham Hotspur,Ipswich Town,1-3,1,3,Football League First Division,1,A
+1962-03-14,1961/1962,Bradford City,Aldershot,2-1,2,1,Football League Fourth Division,4,H
+1962-03-14,1961/1962,Sunderland,Charlton Athletic,4-1,4,1,Football League Second Division,2,H
+1962-03-14,1961/1962,Shrewsbury Town,Halifax Town,0-0,0,0,Football League Third Division,3,D
+1962-03-14,1961/1962,Bradford Park Avenue,Southend United,4-0,4,0,Football League Third Division,3,H
+1962-03-16,1961/1962,York City,Southport,2-2,2,2,Football League Fourth Division,4,D
+1962-03-16,1961/1962,Middlesbrough,Brighton & Hove Albion,4-0,4,0,Football League Second Division,2,H
+1962-03-16,1961/1962,Coventry City,Queens Park Rangers,2-3,2,3,Football League Third Division,3,A
+1962-03-16,1961/1962,Reading,Portsmouth,0-3,0,3,Football League Third Division,3,A
+1962-03-17,1961/1962,Arsenal,Cardiff City,1-1,1,1,Football League First Division,1,D
+1962-03-17,1961/1962,Bolton Wanderers,Manchester United,1-0,1,0,Football League First Division,1,H
+1962-03-17,1961/1962,Burnley,Tottenham Hotspur,2-2,2,2,Football League First Division,1,D
+1962-03-17,1961/1962,Everton,Chelsea,4-0,4,0,Football League First Division,1,H
+1962-03-17,1961/1962,Fulham,Sheffield United,5-2,5,2,Football League First Division,1,H
+1962-03-17,1961/1962,Ipswich Town,Blackpool,1-1,1,1,Football League First Division,1,D
+1962-03-17,1961/1962,Leicester City,Blackburn Rovers,2-0,2,0,Football League First Division,1,H
+1962-03-17,1961/1962,Manchester City,Wolverhampton Wanderers,2-2,2,2,Football League First Division,1,D
+1962-03-17,1961/1962,Birmingham City,Aston Villa,0-2,0,2,Football League First Division,1,A
+1962-03-17,1961/1962,West Bromwich Albion,Nottingham Forest,2-2,2,2,Football League First Division,1,D
+1962-03-17,1961/1962,Sheffield Wednesday,West Ham United,0-0,0,0,Football League First Division,1,D
+1962-03-17,1961/1962,Workington,Hartlepool United,1-1,1,1,Football League Fourth Division,4,D
+1962-03-17,1961/1962,Doncaster Rovers,Darlington,1-2,1,2,Football League Fourth Division,4,A
+1962-03-17,1961/1962,Barrow,Bradford City,1-1,1,1,Football League Fourth Division,4,D
+1962-03-17,1961/1962,Chesterfield,Tranmere Rovers,1-2,1,2,Football League Fourth Division,4,A
+1962-03-17,1961/1962,Crewe Alexandra,Stockport County,3-2,3,2,Football League Fourth Division,4,H
+1962-03-17,1961/1962,Exeter City,Oldham Athletic,3-3,3,3,Football League Fourth Division,4,D
+1962-03-17,1961/1962,Gillingham,Chester,0-0,0,0,Football League Fourth Division,4,D
+1962-03-17,1961/1962,Mansfield Town,Carlisle United,5-2,5,2,Football League Fourth Division,4,H
+1962-03-17,1961/1962,Millwall,Colchester United,2-0,2,0,Football League Fourth Division,4,H
+1962-03-17,1961/1962,Rochdale,Aldershot,1-0,1,0,Football League Fourth Division,4,H
+1962-03-17,1961/1962,Derby County,Charlton Athletic,0-1,0,1,Football League Second Division,2,A
+1962-03-17,1961/1962,Swansea City,Bristol Rovers,1-1,1,1,Football League Second Division,2,D
+1962-03-17,1961/1962,Walsall,Bury,3-0,3,0,Football League Second Division,2,H
+1962-03-17,1961/1962,Huddersfield Town,Stoke City,3-0,3,0,Football League Second Division,2,H
+1962-03-17,1961/1962,Leyton Orient,Liverpool,2-2,2,2,Football League Second Division,2,D
+1962-03-17,1961/1962,Luton Town,Norwich City,1-2,1,2,Football League Second Division,2,A
+1962-03-17,1961/1962,Newcastle United,Scunthorpe United,2-1,2,1,Football League Second Division,2,H
+1962-03-17,1961/1962,Plymouth Argyle,Sunderland,3-2,3,2,Football League Second Division,2,H
+1962-03-17,1961/1962,Preston North End,Rotherham United,2-0,2,0,Football League Second Division,2,H
+1962-03-17,1961/1962,Southampton,Leeds United,4-1,4,1,Football League Second Division,2,H
+1962-03-17,1961/1962,Brentford,Barnsley,1-1,1,1,Football League Third Division,3,D
+1962-03-17,1961/1962,Port Vale,Lincoln City,4-0,4,0,Football League Third Division,3,H
+1962-03-17,1961/1962,Peterborough United,Northampton Town,0-2,0,2,Football League Third Division,3,A
+1962-03-17,1961/1962,Bristol City,Torquay United,4-1,4,1,Football League Third Division,3,H
+1962-03-17,1961/1962,Newport County,Crystal Palace,2-1,2,1,Football League Third Division,3,H
+1962-03-17,1961/1962,Grimsby Town,Halifax Town,3-0,3,0,Football League Third Division,3,H
+1962-03-17,1961/1962,Notts County,Watford,1-0,1,0,Football League Third Division,3,H
+1962-03-17,1961/1962,Shrewsbury Town,Hull City,2-0,2,0,Football League Third Division,3,H
+1962-03-17,1961/1962,Southend United,AFC Bournemouth,0-0,0,0,Football League Third Division,3,D
+1962-03-17,1961/1962,Bradford Park Avenue,Swindon Town,2-2,2,2,Football League Third Division,3,D
+1962-03-19,1961/1962,York City,Hartlepool United,2-0,2,0,Football League Fourth Division,4,H
+1962-03-19,1961/1962,Stockport County,Workington,3-1,3,1,Football League Fourth Division,4,H
+1962-03-19,1961/1962,Darlington,Mansfield Town,3-1,3,1,Football League Fourth Division,4,H
+1962-03-19,1961/1962,Queens Park Rangers,Barnsley,3-0,3,0,Football League Third Division,3,H
+1962-03-19,1961/1962,Port Vale,AFC Bournemouth,1-0,1,0,Football League Third Division,3,H
+1962-03-19,1961/1962,Newport County,Reading,0-0,0,0,Football League Third Division,3,D
+1962-03-19,1961/1962,Halifax Town,Swindon Town,2-0,2,0,Football League Third Division,3,H
+1962-03-19,1961/1962,Peterborough United,Bradford Park Avenue,1-0,1,0,Football League Third Division,3,H
+1962-03-20,1961/1962,Nottingham Forest,Manchester United,1-0,1,0,Football League First Division,1,H
+1962-03-20,1961/1962,Bradford City,Oldham Athletic,1-1,1,1,Football League Fourth Division,4,D
+1962-03-20,1961/1962,Northampton Town,Portsmouth,2-2,2,2,Football League Third Division,3,D
+1962-03-21,1961/1962,Sunderland,Preston North End,0-0,0,0,Football League Second Division,2,D
+1962-03-21,1961/1962,Crystal Palace,Hull City,1-2,1,2,Football League Third Division,3,A
+1962-03-23,1961/1962,Cardiff City,Fulham,0-3,0,3,Football League First Division,1,A
+1962-03-23,1961/1962,Bradford City,Rochdale,1-0,1,0,Football League Fourth Division,4,H
+1962-03-23,1961/1962,Colchester United,Mansfield Town,2-0,2,0,Football League Fourth Division,4,H
+1962-03-23,1961/1962,Stockport County,Exeter City,1-0,1,0,Football League Fourth Division,4,H
+1962-03-23,1961/1962,Scunthorpe United,Middlesbrough,1-1,1,1,Football League Second Division,2,D
+1962-03-23,1961/1962,Watford,Coventry City,0-1,0,1,Football League Third Division,3,A
+1962-03-23,1961/1962,Lincoln City,Newport County,3-2,3,2,Football League Third Division,3,H
+1962-03-23,1961/1962,Swindon Town,Notts County,1-0,1,0,Football League Third Division,3,H
+1962-03-24,1961/1962,Aston Villa,Burnley,0-2,0,2,Football League First Division,1,A
+1962-03-24,1961/1962,Blackburn Rovers,West Bromwich Albion,1-1,1,1,Football League First Division,1,D
+1962-03-24,1961/1962,Blackpool,Birmingham City,1-0,1,0,Football League First Division,1,H
+1962-03-24,1961/1962,Chelsea,Arsenal,2-3,2,3,Football League First Division,1,A
+1962-03-24,1961/1962,Nottingham Forest,Ipswich Town,1-1,1,1,Football League First Division,1,D
+1962-03-24,1961/1962,Sheffield United,Bolton Wanderers,3-1,3,1,Football League First Division,1,H
+1962-03-24,1961/1962,Tottenham Hotspur,Everton,3-1,3,1,Football League First Division,1,H
+1962-03-24,1961/1962,Manchester United,Sheffield Wednesday,1-1,1,1,Football League First Division,1,D
+1962-03-24,1961/1962,Wolverhampton Wanderers,Leicester City,1-1,1,1,Football League First Division,1,D
+1962-03-24,1961/1962,West Ham United,Manchester City,0-4,0,4,Football League First Division,1,A
+1962-03-24,1961/1962,Carlisle United,Barrow,0-0,0,0,Football League Fourth Division,4,D
+1962-03-24,1961/1962,Chester,Millwall,2-4,2,4,Football League Fourth Division,4,A
+1962-03-24,1961/1962,Darlington,Workington,1-1,1,1,Football League Fourth Division,4,D
+1962-03-24,1961/1962,Hartlepool United,York City,0-2,0,2,Football League Fourth Division,4,A
+1962-03-24,1961/1962,Oldham Athletic,Wrexham,1-1,1,1,Football League Fourth Division,4,D
+1962-03-24,1961/1962,Southport,Chesterfield,0-2,0,2,Football League Fourth Division,4,A
+1962-03-24,1961/1962,Tranmere Rovers,Gillingham,4-2,4,2,Football League Fourth Division,4,H
+1962-03-24,1961/1962,Aldershot,Crewe Alexandra,1-0,1,0,Football League Fourth Division,4,H
+1962-03-24,1961/1962,Sunderland,Huddersfield Town,3-1,3,1,Football League Second Division,2,H
+1962-03-24,1961/1962,Stoke City,Swansea City,0-0,0,0,Football League Second Division,2,D
+1962-03-24,1961/1962,Norwich City,Newcastle United,0-0,0,0,Football League Second Division,2,D
+1962-03-24,1961/1962,Rotherham United,Plymouth Argyle,1-3,1,3,Football League Second Division,2,A
+1962-03-24,1961/1962,Brighton & Hove Albion,Walsall,3-2,3,2,Football League Second Division,2,H
+1962-03-24,1961/1962,Bristol Rovers,Southampton,1-0,1,0,Football League Second Division,2,H
+1962-03-24,1961/1962,Bury,Derby County,2-2,2,2,Football League Second Division,2,D
+1962-03-24,1961/1962,Charlton Athletic,Leyton Orient,1-2,1,2,Football League Second Division,2,A
+1962-03-24,1961/1962,Leeds United,Luton Town,2-1,2,1,Football League Second Division,2,H
+1962-03-24,1961/1962,Liverpool,Preston North End,4-1,4,1,Football League Second Division,2,H
+1962-03-24,1961/1962,AFC Bournemouth,Grimsby Town,2-3,2,3,Football League Third Division,3,A
+1962-03-24,1961/1962,Barnsley,Port Vale,2-1,2,1,Football League Third Division,3,H
+1962-03-24,1961/1962,Halifax Town,Shrewsbury Town,1-2,1,2,Football League Third Division,3,A
+1962-03-24,1961/1962,Hull City,Brentford,3-0,3,0,Football League Third Division,3,H
+1962-03-24,1961/1962,Northampton Town,Reading,1-0,1,0,Football League Third Division,3,H
+1962-03-24,1961/1962,Portsmouth,Bristol City,5-0,5,0,Football League Third Division,3,H
+1962-03-24,1961/1962,Queens Park Rangers,Peterborough United,3-3,3,3,Football League Third Division,3,D
+1962-03-24,1961/1962,Torquay United,Southend United,2-2,2,2,Football League Third Division,3,D
+1962-03-24,1961/1962,Crystal Palace,Bradford Park Avenue,0-0,0,0,Football League Third Division,3,D
+1962-03-26,1961/1962,Tranmere Rovers,Stockport County,1-3,1,3,Football League Fourth Division,4,A
+1962-03-26,1961/1962,Mansfield Town,Oldham Athletic,2-0,2,0,Football League Fourth Division,4,H
+1962-03-26,1961/1962,Barrow,Carlisle United,0-3,0,3,Football League Fourth Division,4,A
+1962-03-26,1961/1962,Huddersfield Town,Swansea City,3-1,3,1,Football League Second Division,2,H
+1962-03-26,1961/1962,Newport County,Lincoln City,4-0,4,0,Football League Third Division,3,H
+1962-03-27,1961/1962,Barnsley,Halifax Town,1-2,1,2,Football League Third Division,3,A
+1962-03-28,1961/1962,Wolverhampton Wanderers,West Bromwich Albion,1-5,1,5,Football League First Division,1,A
+1962-03-28,1961/1962,Leicester City,Ipswich Town,0-2,0,2,Football League First Division,1,A
+1962-03-28,1961/1962,Blackburn Rovers,West Ham United,1-0,1,0,Football League First Division,1,H
+1962-03-28,1961/1962,Wrexham,Chesterfield,4-2,4,2,Football League Fourth Division,4,H
+1962-03-28,1961/1962,Liverpool,Rotherham United,4-1,4,1,Football League Second Division,2,H
+1962-03-28,1961/1962,Shrewsbury Town,Notts County,3-0,3,0,Football League Third Division,3,H
+1962-03-30,1961/1962,Everton,Blackpool,2-2,2,2,Football League First Division,1,D
+1962-03-30,1961/1962,Birmingham City,Blackburn Rovers,2-1,2,1,Football League First Division,1,H
+1962-03-30,1961/1962,Mansfield Town,Chester,3-0,3,0,Football League Fourth Division,4,H
+1962-03-30,1961/1962,Doncaster Rovers,Oldham Athletic,0-0,0,0,Football League Fourth Division,4,D
+1962-03-30,1961/1962,Wrexham,Stockport County,0-1,0,1,Football League Fourth Division,4,A
+1962-03-30,1961/1962,Walsall,Stoke City,3-1,3,1,Football League Second Division,2,H
+1962-03-30,1961/1962,Preston North End,Norwich City,2-0,2,0,Football League Second Division,2,H
+1962-03-30,1961/1962,Shrewsbury Town,Swindon Town,1-3,1,3,Football League Third Division,3,A
+1962-03-30,1961/1962,Reading,Hull City,1-1,1,1,Football League Third Division,3,D
+1962-03-30,1961/1962,Grimsby Town,Crystal Palace,0-0,0,0,Football League Third Division,3,D
+1962-03-30,1961/1962,Brentford,Watford,3-1,3,1,Football League Third Division,3,H
+1962-03-30,1961/1962,Coventry City,AFC Bournemouth,0-1,0,1,Football League Third Division,3,A
+1962-03-31,1961/1962,Arsenal,Aston Villa,4-5,4,5,Football League First Division,1,A
+1962-03-31,1961/1962,Bolton Wanderers,Chelsea,4-2,4,2,Football League First Division,1,H
+1962-03-31,1961/1962,Ipswich Town,Wolverhampton Wanderers,3-2,3,2,Football League First Division,1,H
+1962-03-31,1961/1962,Manchester City,Sheffield United,1-1,1,1,Football League First Division,1,D
+1962-03-31,1961/1962,West Bromwich Albion,West Ham United,0-1,0,1,Football League First Division,1,A
+1962-03-31,1961/1962,Barrow,Colchester United,4-0,4,0,Football League Fourth Division,4,H
+1962-03-31,1961/1962,Chesterfield,Hartlepool United,2-0,2,0,Football League Fourth Division,4,H
+1962-03-31,1961/1962,Gillingham,Southport,4-0,4,0,Football League Fourth Division,4,H
+1962-03-31,1961/1962,Exeter City,Aldershot,2-1,2,1,Football League Fourth Division,4,H
+1962-03-31,1961/1962,Millwall,Tranmere Rovers,3-0,3,0,Football League Fourth Division,4,H
+1962-03-31,1961/1962,Rochdale,Carlisle United,1-1,1,1,Football League Fourth Division,4,D
+1962-03-31,1961/1962,York City,Darlington,2-1,2,1,Football League Fourth Division,4,H
+1962-03-31,1961/1962,Crewe Alexandra,Bradford City,1-2,1,2,Football League Fourth Division,4,A
+1962-03-31,1961/1962,Middlesbrough,Sunderland,0-1,0,1,Football League Second Division,2,A
+1962-03-31,1961/1962,Swansea City,Bury,0-1,0,1,Football League Second Division,2,A
+1962-03-31,1961/1962,Derby County,Bristol Rovers,4-1,4,1,Football League Second Division,2,H
+1962-03-31,1961/1962,Leyton Orient,Leeds United,0-0,0,0,Football League Second Division,2,D
+1962-03-31,1961/1962,Luton Town,Liverpool,1-0,1,0,Football League Second Division,2,H
+1962-03-31,1961/1962,Newcastle United,Rotherham United,1-0,1,0,Football League Second Division,2,H
+1962-03-31,1961/1962,Plymouth Argyle,Scunthorpe United,3-1,3,1,Football League Second Division,2,H
+1962-03-31,1961/1962,Southampton,Charlton Athletic,1-2,1,2,Football League Second Division,2,A
+1962-03-31,1961/1962,Huddersfield Town,Brighton & Hove Albion,2-0,2,0,Football League Second Division,2,H
+1962-03-31,1961/1962,Notts County,Torquay United,2-0,2,0,Football League Third Division,3,H
+1962-03-31,1961/1962,Peterborough United,Halifax Town,5-1,5,1,Football League Third Division,3,H
+1962-03-31,1961/1962,Port Vale,Queens Park Rangers,2-3,2,3,Football League Third Division,3,A
+1962-03-31,1961/1962,Southend United,Lincoln City,0-0,0,0,Football League Third Division,3,D
+1962-03-31,1961/1962,Newport County,Northampton Town,0-0,0,0,Football League Third Division,3,D
+1962-03-31,1961/1962,Bristol City,Barnsley,0-0,0,0,Football League Third Division,3,D
+1962-03-31,1961/1962,Bradford Park Avenue,Portsmouth,2-1,2,1,Football League Third Division,3,H
+1962-04-02,1961/1962,York City,Doncaster Rovers,5-2,5,2,Football League Fourth Division,4,H
+1962-04-02,1961/1962,Huddersfield Town,Preston North End,2-2,2,2,Football League Second Division,2,D
+1962-04-02,1961/1962,Torquay United,Peterborough United,1-3,1,3,Football League Third Division,3,A
+1962-04-03,1961/1962,Sheffield Wednesday,Cardiff City,2-0,2,0,Football League First Division,1,H
+1962-04-03,1961/1962,Blackpool,Sheffield United,2-4,2,4,Football League First Division,1,A
+1962-04-03,1961/1962,Burnley,Nottingham Forest,0-0,0,0,Football League First Division,1,D
+1962-04-03,1961/1962,Rotherham United,Middlesbrough,0-1,0,1,Football League Second Division,2,A
+1962-04-03,1961/1962,Notts County,Hull City,3-0,3,0,Football League Third Division,3,H
+1962-04-04,1961/1962,Bolton Wanderers,Everton,1-1,1,1,Football League First Division,1,D
+1962-04-04,1961/1962,Leicester City,Manchester United,4-3,4,3,Football League First Division,1,H
+1962-04-04,1961/1962,Aldershot,Chester,6-2,6,2,Football League Fourth Division,4,H
+1962-04-04,1961/1962,Workington,Darlington,2-1,2,1,Football League Fourth Division,4,H
+1962-04-04,1961/1962,Wrexham,Oldham Athletic,2-1,2,1,Football League Fourth Division,4,H
+1962-04-04,1961/1962,Bradford Park Avenue,Brentford,1-2,1,2,Football League Third Division,3,A
+1962-04-06,1961/1962,West Ham United,Birmingham City,2-2,2,2,Football League First Division,1,D
+1962-04-06,1961/1962,Stockport County,Doncaster Rovers,2-1,2,1,Football League Fourth Division,4,H
+1962-04-06,1961/1962,Carlisle United,Crewe Alexandra,3-0,3,0,Football League Fourth Division,4,H
+1962-04-06,1961/1962,Scunthorpe United,Derby County,2-0,2,0,Football League Second Division,2,H
+1962-04-06,1961/1962,Watford,Reading,1-1,1,1,Football League Third Division,3,D
+1962-04-06,1961/1962,Lincoln City,Notts County,2-2,2,2,Football League Third Division,3,D
+1962-04-07,1961/1962,Blackburn Rovers,Everton,1-1,1,1,Football League First Division,1,D
+1962-04-07,1961/1962,Blackpool,Fulham,2-1,2,1,Football League First Division,1,H
+1962-04-07,1961/1962,Cardiff City,Leicester City,0-4,0,4,Football League First Division,1,A
+1962-04-07,1961/1962,Chelsea,Manchester City,1-1,1,1,Football League First Division,1,D
+1962-04-07,1961/1962,Manchester United,Ipswich Town,5-0,5,0,Football League First Division,1,H
+1962-04-07,1961/1962,Nottingham Forest,Arsenal,0-1,0,1,Football League First Division,1,A
+1962-04-07,1961/1962,Sheffield United,West Bromwich Albion,1-1,1,1,Football League First Division,1,D
+1962-04-07,1961/1962,Aston Villa,Bolton Wanderers,3-0,3,0,Football League First Division,1,H
+1962-04-07,1961/1962,Wolverhampton Wanderers,Burnley,1-1,1,1,Football League First Division,1,D
+1962-04-07,1961/1962,Tottenham Hotspur,Sheffield Wednesday,4-0,4,0,Football League First Division,1,H
+1962-04-07,1961/1962,Darlington,Chesterfield,4-4,4,4,Football League Fourth Division,4,D
+1962-04-07,1961/1962,Aldershot,Wrexham,3-1,3,1,Football League Fourth Division,4,H
+1962-04-07,1961/1962,Bradford City,Exeter City,5-1,5,1,Football League Fourth Division,4,H
+1962-04-07,1961/1962,Chester,Barrow,2-3,2,3,Football League Fourth Division,4,A
+1962-04-07,1961/1962,Colchester United,Rochdale,1-1,1,1,Football League Fourth Division,4,D
+1962-04-07,1961/1962,Tranmere Rovers,Mansfield Town,2-0,2,0,Football League Fourth Division,4,H
+1962-04-07,1961/1962,Oldham Athletic,Workington,0-2,0,2,Football League Fourth Division,4,A
+1962-04-07,1961/1962,Southport,Millwall,3-1,3,1,Football League Fourth Division,4,H
+1962-04-07,1961/1962,Hartlepool United,Gillingham,1-3,1,3,Football League Fourth Division,4,A
+1962-04-07,1961/1962,Sunderland,Southampton,3-0,3,0,Football League Second Division,2,H
+1962-04-07,1961/1962,Rotherham United,Swansea City,1-2,1,2,Football League Second Division,2,A
+1962-04-07,1961/1962,Stoke City,Luton Town,2-1,2,1,Football League Second Division,2,H
+1962-04-07,1961/1962,Brighton & Hove Albion,Leyton Orient,0-1,0,1,Football League Second Division,2,A
+1962-04-07,1961/1962,Bristol Rovers,Newcastle United,2-1,2,1,Football League Second Division,2,H
+1962-04-07,1961/1962,Bury,Preston North End,2-1,2,1,Football League Second Division,2,H
+1962-04-07,1961/1962,Charlton Athletic,Plymouth Argyle,3-1,3,1,Football League Second Division,2,H
+1962-04-07,1961/1962,Leeds United,Middlesbrough,2-0,2,0,Football League Second Division,2,H
+1962-04-07,1961/1962,Liverpool,Huddersfield Town,1-1,1,1,Football League Second Division,2,D
+1962-04-07,1961/1962,Norwich City,Walsall,3-1,3,1,Football League Second Division,2,H
+1962-04-07,1961/1962,Queens Park Rangers,Bristol City,4-1,4,1,Football League Third Division,3,H
+1962-04-07,1961/1962,Barnsley,Bradford Park Avenue,1-2,1,2,Football League Third Division,3,A
+1962-04-07,1961/1962,Crystal Palace,Coventry City,2-2,2,2,Football League Third Division,3,D
+1962-04-07,1961/1962,Halifax Town,Port Vale,3-3,3,3,Football League Third Division,3,D
+1962-04-07,1961/1962,Hull City,Newport County,4-0,4,0,Football League Third Division,3,H
+1962-04-07,1961/1962,Northampton Town,Southend United,3-1,3,1,Football League Third Division,3,H
+1962-04-07,1961/1962,Portsmouth,Grimsby Town,0-2,0,2,Football League Third Division,3,A
+1962-04-07,1961/1962,Swindon Town,Peterborough United,3-2,3,2,Football League Third Division,3,H
+1962-04-07,1961/1962,AFC Bournemouth,Brentford,1-1,1,1,Football League Third Division,3,D
+1962-04-07,1961/1962,Torquay United,Shrewsbury Town,3-1,3,1,Football League Third Division,3,H
+1962-04-09,1961/1962,Tottenham Hotspur,Sheffield United,3-3,3,3,Football League First Division,1,D
+1962-04-09,1961/1962,Stockport County,Hartlepool United,1-1,1,1,Football League Fourth Division,4,D
+1962-04-09,1961/1962,Chesterfield,Southport,3-2,3,2,Football League Fourth Division,4,H
+1962-04-09,1961/1962,Barrow,Darlington,3-0,3,0,Football League Fourth Division,4,H
+1962-04-09,1961/1962,Huddersfield Town,Derby County,4-0,4,0,Football League Second Division,2,H
+1962-04-09,1961/1962,Preston North End,Leeds United,1-1,1,1,Football League Second Division,2,D
+1962-04-09,1961/1962,Halifax Town,Notts County,1-2,1,2,Football League Third Division,3,A
+1962-04-10,1961/1962,Blackburn Rovers,Manchester United,3-0,3,0,Football League First Division,1,H
+1962-04-10,1961/1962,Brighton & Hove Albion,Charlton Athletic,2-2,2,2,Football League Second Division,2,D
+1962-04-10,1961/1962,Grimsby Town,Coventry City,2-0,2,0,Football League Third Division,3,H
+1962-04-11,1961/1962,Manchester City,Birmingham City,1-4,1,4,Football League First Division,1,A
+1962-04-11,1961/1962,Leicester City,Chelsea,2-0,2,0,Football League First Division,1,H
+1962-04-11,1961/1962,Fulham,Arsenal,5-2,5,2,Football League First Division,1,H
+1962-04-11,1961/1962,Bolton Wanderers,Burnley,0-0,0,0,Football League First Division,1,D
+1962-04-11,1961/1962,Workington,Wrexham,1-0,1,0,Football League Fourth Division,4,H
+1962-04-11,1961/1962,Rochdale,Mansfield Town,3-2,3,2,Football League Fourth Division,4,H
+1962-04-11,1961/1962,Exeter City,York City,2-1,2,1,Football League Fourth Division,4,H
+1962-04-11,1961/1962,Bradford City,Tranmere Rovers,3-1,3,1,Football League Fourth Division,4,H
+1962-04-11,1961/1962,Luton Town,Walsall,2-0,2,0,Football League Second Division,2,H
+1962-04-11,1961/1962,Stoke City,Bury,1-3,1,3,Football League Second Division,2,A
+1962-04-11,1961/1962,Reading,Northampton Town,2-0,2,0,Football League Third Division,3,H
+1962-04-11,1961/1962,Queens Park Rangers,Bradford Park Avenue,1-2,1,2,Football League Third Division,3,A
+1962-04-12,1961/1962,Hull City,AFC Bournemouth,2-1,2,1,Football League Third Division,3,H
+1962-04-12,1961/1962,Notts County,Swindon Town,0-1,0,1,Football League Third Division,3,A
+1962-04-13,1961/1962,Doncaster Rovers,Aldershot,2-1,2,1,Football League Fourth Division,4,H
+1962-04-13,1961/1962,Brentford,Crystal Palace,4-2,4,2,Football League Third Division,3,H
+1962-04-14,1961/1962,Arsenal,Wolverhampton Wanderers,3-1,3,1,Football League First Division,1,H
+1962-04-14,1961/1962,Birmingham City,Sheffield United,3-0,3,0,Football League First Division,1,H
+1962-04-14,1961/1962,Bolton Wanderers,Nottingham Forest,6-1,6,1,Football League First Division,1,H
+1962-04-14,1961/1962,Burnley,Manchester United,1-3,1,3,Football League First Division,1,A
+1962-04-14,1961/1962,Everton,West Ham United,3-0,3,0,Football League First Division,1,H
+1962-04-14,1961/1962,Fulham,Blackburn Rovers,2-0,2,0,Football League First Division,1,H
+1962-04-14,1961/1962,Ipswich Town,Cardiff City,1-0,1,0,Football League First Division,1,H
+1962-04-14,1961/1962,Manchester City,Aston Villa,1-0,1,0,Football League First Division,1,H
+1962-04-14,1961/1962,Sheffield Wednesday,Blackpool,3-2,3,2,Football League First Division,1,H
+1962-04-14,1961/1962,West Bromwich Albion,Chelsea,4-0,4,0,Football League First Division,1,H
+1962-04-14,1961/1962,Mansfield Town,Southport,3-1,3,1,Football League Fourth Division,4,H
+1962-04-14,1961/1962,Exeter City,Carlisle United,4-0,4,0,Football League Fourth Division,4,H
+1962-04-14,1961/1962,Gillingham,Darlington,2-2,2,2,Football League Fourth Division,4,D
+1962-04-14,1961/1962,Millwall,Hartlepool United,3-2,3,2,Football League Fourth Division,4,H
+1962-04-14,1961/1962,Rochdale,Chester,3-2,3,2,Football League Fourth Division,4,H
+1962-04-14,1961/1962,Workington,Stockport County,1-1,1,1,Football League Fourth Division,4,D
+1962-04-14,1961/1962,Wrexham,Bradford City,2-1,2,1,Football League Fourth Division,4,H
+1962-04-14,1961/1962,York City,Oldham Athletic,4-1,4,1,Football League Fourth Division,4,H
+1962-04-14,1961/1962,Crewe Alexandra,Colchester United,4-0,4,0,Football League Fourth Division,4,H
+1962-04-14,1961/1962,Barrow,Tranmere Rovers,2-0,2,0,Football League Fourth Division,4,H
+1962-04-14,1961/1962,Southampton,Rotherham United,2-1,2,1,Football League Second Division,2,H
+1962-04-14,1961/1962,Walsall,Leeds United,1-1,1,1,Football League Second Division,2,D
+1962-04-14,1961/1962,Derby County,Norwich City,1-1,1,1,Football League Second Division,2,D
+1962-04-14,1961/1962,Huddersfield Town,Charlton Athletic,0-2,0,2,Football League Second Division,2,A
+1962-04-14,1961/1962,Leyton Orient,Scunthorpe United,0-1,0,1,Football League Second Division,2,A
+1962-04-14,1961/1962,Luton Town,Sunderland,1-2,1,2,Football League Second Division,2,A
+1962-04-14,1961/1962,Middlesbrough,Bristol Rovers,5-0,5,0,Football League Second Division,2,H
+1962-04-14,1961/1962,Newcastle United,Stoke City,2-0,2,0,Football League Second Division,2,H
+1962-04-14,1961/1962,Plymouth Argyle,Bury,1-2,1,2,Football League Second Division,2,A
+1962-04-14,1961/1962,Preston North End,Brighton & Hove Albion,3-1,3,1,Football League Second Division,2,H
+1962-04-14,1961/1962,Shrewsbury Town,Lincoln City,0-0,0,0,Football League Third Division,3,D
+1962-04-14,1961/1962,Grimsby Town,Barnsley,4-0,4,0,Football League Third Division,3,H
+1962-04-14,1961/1962,Newport County,Watford,0-0,0,0,Football League Third Division,3,D
+1962-04-14,1961/1962,Notts County,Northampton Town,1-4,1,4,Football League Third Division,3,A
+1962-04-14,1961/1962,Peterborough United,Torquay United,2-1,2,1,Football League Third Division,3,H
+1962-04-14,1961/1962,Port Vale,Swindon Town,1-1,1,1,Football League Third Division,3,D
+1962-04-14,1961/1962,Coventry City,Portsmouth,2-0,2,0,Football League Third Division,3,H
+1962-04-14,1961/1962,Reading,AFC Bournemouth,0-1,0,1,Football League Third Division,3,A
+1962-04-14,1961/1962,Southend United,Hull City,2-1,2,1,Football League Third Division,3,H
+1962-04-14,1961/1962,Bristol City,Halifax Town,4-3,4,3,Football League Third Division,3,H
+1962-04-14,1961/1962,Bradford Park Avenue,Queens Park Rangers,3-3,3,3,Football League Third Division,3,D
+1962-04-16,1961/1962,Manchester United,Arsenal,2-3,2,3,Football League First Division,1,A
+1962-04-16,1961/1962,Chesterfield,Rochdale,1-0,1,0,Football League Fourth Division,4,H
+1962-04-16,1961/1962,Swindon Town,Halifax Town,6-0,6,0,Football League Third Division,3,H
+1962-04-16,1961/1962,Coventry City,Port Vale,0-1,0,1,Football League Third Division,3,A
+1962-04-16,1961/1962,Newport County,Shrewsbury Town,3-2,3,2,Football League Third Division,3,H
+1962-04-17,1961/1962,Burnley,Blackburn Rovers,0-1,0,1,Football League First Division,1,A
+1962-04-17,1961/1962,Fulham,Tottenham Hotspur,1-1,1,1,Football League First Division,1,D
+1962-04-18,1961/1962,Halifax Town,Bradford Park Avenue,2-3,2,3,Football League Third Division,3,A
+1962-04-20,1961/1962,Burnley,Blackpool,2-0,2,0,Football League First Division,1,H
+1962-04-20,1961/1962,Chelsea,Wolverhampton Wanderers,4-5,4,5,Football League First Division,1,A
+1962-04-20,1961/1962,Everton,Birmingham City,4-1,4,1,Football League First Division,1,H
+1962-04-20,1961/1962,Manchester City,Sheffield Wednesday,3-1,3,1,Football League First Division,1,H
+1962-04-20,1961/1962,Tottenham Hotspur,Blackburn Rovers,4-1,4,1,Football League First Division,1,H
+1962-04-20,1961/1962,West Ham United,Cardiff City,4-1,4,1,Football League First Division,1,H
+1962-04-20,1961/1962,Ipswich Town,Arsenal,2-2,2,2,Football League First Division,1,D
+1962-04-20,1961/1962,Barrow,Rochdale,0-1,0,1,Football League Fourth Division,4,A
+1962-04-20,1961/1962,Carlisle United,Bradford City,2-4,2,4,Football League Fourth Division,4,A
+1962-04-20,1961/1962,Chesterfield,Doncaster Rovers,3-0,3,0,Football League Fourth Division,4,H
+1962-04-20,1961/1962,Colchester United,Aldershot,3-0,3,0,Football League Fourth Division,4,H
+1962-04-20,1961/1962,Millwall,Exeter City,2-0,2,0,Football League Fourth Division,4,H
+1962-04-20,1961/1962,Hartlepool United,Darlington,2-0,2,0,Football League Fourth Division,4,H
+1962-04-20,1961/1962,Stockport County,Chester,0-1,0,1,Football League Fourth Division,4,A
+1962-04-20,1961/1962,Tranmere Rovers,Oldham Athletic,3-1,3,1,Football League Fourth Division,4,H
+1962-04-20,1961/1962,Wrexham,Gillingham,3-0,3,0,Football League Fourth Division,4,H
+1962-04-20,1961/1962,York City,Workington,4-0,4,0,Football League Fourth Division,4,H
+1962-04-20,1961/1962,Crewe Alexandra,Mansfield Town,3-2,3,2,Football League Fourth Division,4,H
+1962-04-20,1961/1962,Newcastle United,Derby County,3-0,3,0,Football League Second Division,2,H
+1962-04-20,1961/1962,Bristol Rovers,Charlton Athletic,2-2,2,2,Football League Second Division,2,D
+1962-04-20,1961/1962,Bury,Leeds United,1-1,1,1,Football League Second Division,2,D
+1962-04-20,1961/1962,Leyton Orient,Luton Town,0-0,0,0,Football League Second Division,2,D
+1962-04-20,1961/1962,Scunthorpe United,Preston North End,2-1,2,1,Football League Second Division,2,H
+1962-04-20,1961/1962,Brighton & Hove Albion,Norwich City,2-1,2,1,Football League Second Division,2,H
+1962-04-20,1961/1962,Southend United,Notts County,3-2,3,2,Football League Third Division,3,H
+1962-04-20,1961/1962,Swindon Town,Torquay United,0-1,0,1,Football League Third Division,3,A
+1962-04-20,1961/1962,Watford,Portsmouth,0-0,0,0,Football League Third Division,3,D
+1962-04-20,1961/1962,Reading,Peterborough United,3-2,3,2,Football League Third Division,3,H
+1962-04-20,1961/1962,Brentford,Port Vale,1-2,1,2,Football League Third Division,3,A
+1962-04-20,1961/1962,Hull City,Barnsley,4-0,4,0,Football League Third Division,3,H
+1962-04-20,1961/1962,AFC Bournemouth,Crystal Palace,1-0,1,0,Football League Third Division,3,H
+1962-04-21,1961/1962,Blackburn Rovers,Bolton Wanderers,2-3,2,3,Football League First Division,1,A
+1962-04-21,1961/1962,Blackpool,Manchester City,3-1,3,1,Football League First Division,1,H
+1962-04-21,1961/1962,Cardiff City,Birmingham City,3-2,3,2,Football League First Division,1,H
+1962-04-21,1961/1962,Chelsea,Ipswich Town,2-2,2,2,Football League First Division,1,D
+1962-04-21,1961/1962,Manchester United,Everton,1-1,1,1,Football League First Division,1,D
+1962-04-21,1961/1962,Nottingham Forest,Sheffield Wednesday,3-1,3,1,Football League First Division,1,H
+1962-04-21,1961/1962,Sheffield United,Burnley,2-0,2,0,Football League First Division,1,H
+1962-04-21,1961/1962,Tottenham Hotspur,West Bromwich Albion,1-2,1,2,Football League First Division,1,A
+1962-04-21,1961/1962,Aston Villa,Leicester City,8-3,8,3,Football League First Division,1,H
+1962-04-21,1961/1962,Wolverhampton Wanderers,Fulham,1-3,1,3,Football League First Division,1,A
+1962-04-21,1961/1962,West Ham United,Arsenal,3-3,3,3,Football League First Division,1,D
+1962-04-21,1961/1962,Southport,Barrow,0-0,0,0,Football League Fourth Division,4,D
+1962-04-21,1961/1962,Chester,Crewe Alexandra,1-0,1,0,Football League Fourth Division,4,H
+1962-04-21,1961/1962,Colchester United,Exeter City,2-0,2,0,Football League Fourth Division,4,H
+1962-04-21,1961/1962,Darlington,Millwall,1-5,1,5,Football League Fourth Division,4,A
+1962-04-21,1961/1962,Hartlepool United,Mansfield Town,0-1,0,1,Football League Fourth Division,4,A
+1962-04-21,1961/1962,Oldham Athletic,Chesterfield,3-1,3,1,Football League Fourth Division,4,H
+1962-04-21,1961/1962,Stockport County,York City,2-1,2,1,Football League Fourth Division,4,H
+1962-04-21,1961/1962,Tranmere Rovers,Rochdale,2-0,2,0,Football League Fourth Division,4,H
+1962-04-21,1961/1962,Aldershot,Workington,3-1,3,1,Football League Fourth Division,4,H
+1962-04-21,1961/1962,Stoke City,Middlesbrough,2-0,2,0,Football League Second Division,2,H
+1962-04-21,1961/1962,Sunderland,Newcastle United,3-0,3,0,Football League Second Division,2,H
+1962-04-21,1961/1962,Brighton & Hove Albion,Plymouth Argyle,3-2,3,2,Football League Second Division,2,H
+1962-04-21,1961/1962,Bristol Rovers,Walsall,2-2,2,2,Football League Second Division,2,D
+1962-04-21,1961/1962,Bury,Huddersfield Town,1-2,1,2,Football League Second Division,2,A
+1962-04-21,1961/1962,Charlton Athletic,Swansea City,3-2,3,2,Football League Second Division,2,H
+1962-04-21,1961/1962,Leeds United,Derby County,0-0,0,0,Football League Second Division,2,D
+1962-04-21,1961/1962,Liverpool,Southampton,2-0,2,0,Football League Second Division,2,H
+1962-04-21,1961/1962,Norwich City,Leyton Orient,0-0,0,0,Football League Second Division,2,D
+1962-04-21,1961/1962,Rotherham United,Luton Town,1-1,1,1,Football League Second Division,2,D
+1962-04-21,1961/1962,Swindon Town,Newport County,3-0,3,0,Football League Third Division,3,H
+1962-04-21,1961/1962,Crystal Palace,Port Vale,0-0,0,0,Football League Third Division,3,D
+1962-04-21,1961/1962,Halifax Town,Southend United,0-2,0,2,Football League Third Division,3,A
+1962-04-21,1961/1962,Hull City,Grimsby Town,2-1,2,1,Football League Third Division,3,H
+1962-04-21,1961/1962,Lincoln City,Brentford,3-3,3,3,Football League Third Division,3,D
+1962-04-21,1961/1962,Northampton Town,Coventry City,4-1,4,1,Football League Third Division,3,H
+1962-04-21,1961/1962,Portsmouth,Peterborough United,0-3,0,3,Football League Third Division,3,A
+1962-04-21,1961/1962,Queens Park Rangers,Notts County,2-0,2,0,Football League Third Division,3,H
+1962-04-21,1961/1962,Torquay United,Reading,0-0,0,0,Football League Third Division,3,D
+1962-04-21,1961/1962,Barnsley,Shrewsbury Town,1-1,1,1,Football League Third Division,3,D
+1962-04-21,1961/1962,AFC Bournemouth,Bristol City,2-1,2,1,Football League Third Division,3,H
+1962-04-21,1961/1962,Watford,Bradford Park Avenue,0-2,0,2,Football League Third Division,3,A
+1962-04-23,1961/1962,Arsenal,Ipswich Town,0-3,0,3,Football League First Division,1,A
+1962-04-23,1961/1962,Aston Villa,Nottingham Forest,5-1,5,1,Football League First Division,1,H
+1962-04-23,1961/1962,Blackburn Rovers,Tottenham Hotspur,0-1,0,1,Football League First Division,1,A
+1962-04-23,1961/1962,Blackpool,Burnley,1-1,1,1,Football League First Division,1,D
+1962-04-23,1961/1962,Bolton Wanderers,Leicester City,1-0,1,0,Football League First Division,1,H
+1962-04-23,1961/1962,Cardiff City,West Ham United,3-0,3,0,Football League First Division,1,H
+1962-04-23,1961/1962,Manchester United,Sheffield United,0-1,0,1,Football League First Division,1,A
+1962-04-23,1961/1962,Sheffield Wednesday,Manchester City,1-0,1,0,Football League First Division,1,H
+1962-04-23,1961/1962,Fulham,West Bromwich Albion,1-2,1,2,Football League First Division,1,A
+1962-04-23,1961/1962,Wolverhampton Wanderers,Chelsea,1-1,1,1,Football League First Division,1,D
+1962-04-23,1961/1962,Workington,York City,0-0,0,0,Football League Fourth Division,4,D
+1962-04-23,1961/1962,Doncaster Rovers,Chesterfield,0-0,0,0,Football League Fourth Division,4,D
+1962-04-23,1961/1962,Bradford City,Carlisle United,3-2,3,2,Football League Fourth Division,4,H
+1962-04-23,1961/1962,Chester,Stockport County,2-0,2,0,Football League Fourth Division,4,H
+1962-04-23,1961/1962,Darlington,Hartlepool United,1-2,1,2,Football League Fourth Division,4,A
+1962-04-23,1961/1962,Exeter City,Millwall,1-1,1,1,Football League Fourth Division,4,D
+1962-04-23,1961/1962,Gillingham,Wrexham,2-3,2,3,Football League Fourth Division,4,A
+1962-04-23,1961/1962,Mansfield Town,Crewe Alexandra,1-1,1,1,Football League Fourth Division,4,D
+1962-04-23,1961/1962,Oldham Athletic,Tranmere Rovers,2-0,2,0,Football League Fourth Division,4,H
+1962-04-23,1961/1962,Rochdale,Barrow,0-2,0,2,Football League Fourth Division,4,A
+1962-04-23,1961/1962,Aldershot,Colchester United,1-0,1,0,Football League Fourth Division,4,H
+1962-04-23,1961/1962,Walsall,Middlesbrough,1-2,1,2,Football League Second Division,2,A
+1962-04-23,1961/1962,Charlton Athletic,Bristol Rovers,2-1,2,1,Football League Second Division,2,H
+1962-04-23,1961/1962,Sunderland,Rotherham United,4-0,4,0,Football League Second Division,2,H
+1962-04-23,1961/1962,Plymouth Argyle,Swansea City,0-0,0,0,Football League Second Division,2,D
+1962-04-23,1961/1962,Norwich City,Brighton & Hove Albion,3-0,3,0,Football League Second Division,2,H
+1962-04-23,1961/1962,Preston North End,Southampton,1-1,1,1,Football League Second Division,2,D
+1962-04-23,1961/1962,Liverpool,Stoke City,2-1,2,1,Football League Second Division,2,H
+1962-04-23,1961/1962,Huddersfield Town,Scunthorpe United,1-2,1,2,Football League Second Division,2,A
+1962-04-23,1961/1962,Derby County,Newcastle United,1-2,1,2,Football League Second Division,2,A
+1962-04-23,1961/1962,Luton Town,Leyton Orient,1-3,1,3,Football League Second Division,2,A
+1962-04-23,1961/1962,Queens Park Rangers,Northampton Town,2-0,2,0,Football League Third Division,3,H
+1962-04-23,1961/1962,Portsmouth,Watford,2-1,2,1,Football League Third Division,3,H
+1962-04-23,1961/1962,Grimsby Town,Bradford Park Avenue,3-2,3,2,Football League Third Division,3,H
+1962-04-23,1961/1962,Peterborough United,Reading,1-0,1,0,Football League Third Division,3,H
+1962-04-23,1961/1962,Notts County,Southend United,2-0,2,0,Football League Third Division,3,H
+1962-04-23,1961/1962,Lincoln City,Halifax Town,0-1,0,1,Football League Third Division,3,A
+1962-04-23,1961/1962,Port Vale,Brentford,3-0,3,0,Football League Third Division,3,H
+1962-04-23,1961/1962,Torquay United,Swindon Town,3-0,3,0,Football League Third Division,3,H
+1962-04-23,1961/1962,Crystal Palace,AFC Bournemouth,0-0,0,0,Football League Third Division,3,D
+1962-04-23,1961/1962,Coventry City,Bristol City,1-1,1,1,Football League Third Division,3,D
+1962-04-23,1961/1962,Shrewsbury Town,Newport County,4-1,4,1,Football League Third Division,3,H
+1962-04-23,1961/1962,Barnsley,Hull City,1-0,1,0,Football League Third Division,3,H
+1962-04-24,1961/1962,West Bromwich Albion,Fulham,2-0,2,0,Football League First Division,1,H
+1962-04-24,1961/1962,Sheffield United,Manchester United,2-3,2,3,Football League First Division,1,A
+1962-04-24,1961/1962,Nottingham Forest,Aston Villa,2-0,2,0,Football League First Division,1,H
+1962-04-24,1961/1962,Leicester City,Bolton Wanderers,1-1,1,1,Football League First Division,1,D
+1962-04-24,1961/1962,Birmingham City,Everton,0-0,0,0,Football League First Division,1,D
+1962-04-24,1961/1962,Scunthorpe United,Huddersfield Town,1-3,1,3,Football League Second Division,2,A
+1962-04-24,1961/1962,Swansea City,Plymouth Argyle,5-0,5,0,Football League Second Division,2,H
+1962-04-24,1961/1962,Rotherham United,Sunderland,0-3,0,3,Football League Second Division,2,A
+1962-04-24,1961/1962,Stoke City,Liverpool,0-0,0,0,Football League Second Division,2,D
+1962-04-24,1961/1962,Leeds United,Bury,0-0,0,0,Football League Second Division,2,D
+1962-04-24,1961/1962,Middlesbrough,Walsall,3-0,3,0,Football League Second Division,2,H
+1962-04-24,1961/1962,Northampton Town,Queens Park Rangers,1-1,1,1,Football League Third Division,3,D
+1962-04-24,1961/1962,Halifax Town,Lincoln City,0-3,0,3,Football League Third Division,3,A
+1962-04-24,1961/1962,Bristol City,Coventry City,3-2,3,2,Football League Third Division,3,H
+1962-04-24,1961/1962,Bradford Park Avenue,Grimsby Town,0-1,0,1,Football League Third Division,3,A
+1962-04-25,1961/1962,Bradford City,Doncaster Rovers,2-0,2,0,Football League Fourth Division,4,H
+1962-04-26,1961/1962,Blackburn Rovers,Sheffield Wednesday,0-2,0,2,Football League First Division,1,A
+1962-04-27,1961/1962,Reading,Lincoln City,4-0,4,0,Football League Third Division,3,H
+1962-04-27,1961/1962,Brentford,Northampton Town,3-0,3,0,Football League Third Division,3,H
+1962-04-28,1961/1962,Arsenal,Sheffield United,2-0,2,0,Football League First Division,1,H
+1962-04-28,1961/1962,Birmingham City,Tottenham Hotspur,2-3,2,3,Football League First Division,1,A
+1962-04-28,1961/1962,Bolton Wanderers,West Ham United,1-0,1,0,Football League First Division,1,H
+1962-04-28,1961/1962,Burnley,Chelsea,1-1,1,1,Football League First Division,1,D
+1962-04-28,1961/1962,Fulham,Manchester United,2-0,2,0,Football League First Division,1,H
+1962-04-28,1961/1962,Ipswich Town,Aston Villa,2-0,2,0,Football League First Division,1,H
+1962-04-28,1961/1962,Leicester City,Nottingham Forest,2-1,2,1,Football League First Division,1,H
+1962-04-28,1961/1962,Manchester City,Blackburn Rovers,3-1,3,1,Football League First Division,1,H
+1962-04-28,1961/1962,Everton,Cardiff City,8-3,8,3,Football League First Division,1,H
+1962-04-28,1961/1962,West Bromwich Albion,Blackpool,7-1,7,1,Football League First Division,1,H
+1962-04-28,1961/1962,Sheffield Wednesday,Wolverhampton Wanderers,3-2,3,2,Football League First Division,1,H
+1962-04-28,1961/1962,Mansfield Town,Darlington,3-0,3,0,Football League Fourth Division,4,H
+1962-04-28,1961/1962,Chesterfield,Stockport County,3-2,3,2,Football League Fourth Division,4,H
+1962-04-28,1961/1962,Crewe Alexandra,Tranmere Rovers,3-0,3,0,Football League Fourth Division,4,H
+1962-04-28,1961/1962,Doncaster Rovers,Carlisle United,1-2,1,2,Football League Fourth Division,4,A
+1962-04-28,1961/1962,Gillingham,Oldham Athletic,0-2,0,2,Football League Fourth Division,4,A
+1962-04-28,1961/1962,Rochdale,Southport,2-0,2,0,Football League Fourth Division,4,H
+1962-04-28,1961/1962,Workington,Bradford City,5-3,5,3,Football League Fourth Division,4,H
+1962-04-28,1961/1962,Wrexham,Colchester United,0-0,0,0,Football League Fourth Division,4,D
+1962-04-28,1961/1962,York City,Aldershot,0-1,0,1,Football League Fourth Division,4,A
+1962-04-28,1961/1962,Barrow,Hartlepool United,5-1,5,1,Football League Fourth Division,4,H
+1962-04-28,1961/1962,Exeter City,Chester,5-0,5,0,Football League Fourth Division,4,H
+1962-04-28,1961/1962,Walsall,Scunthorpe United,4-1,4,1,Football League Second Division,2,H
+1962-04-28,1961/1962,Southampton,Stoke City,5-1,5,1,Football League Second Division,2,H
+1962-04-28,1961/1962,Swansea City,Sunderland,1-1,1,1,Football League Second Division,2,D
+1962-04-28,1961/1962,Derby County,Brighton & Hove Albion,2-0,2,0,Football League Second Division,2,H
+1962-04-28,1961/1962,Huddersfield Town,Rotherham United,0-3,0,3,Football League Second Division,2,A
+1962-04-28,1961/1962,Leyton Orient,Bury,2-0,2,0,Football League Second Division,2,H
+1962-04-28,1961/1962,Luton Town,Bristol Rovers,2-0,2,0,Football League Second Division,2,H
+1962-04-28,1961/1962,Middlesbrough,Norwich City,2-1,2,1,Football League Second Division,2,H
+1962-04-28,1961/1962,Newcastle United,Leeds United,0-3,0,3,Football League Second Division,2,A
+1962-04-28,1961/1962,Plymouth Argyle,Liverpool,2-3,2,3,Football League Second Division,2,A
+1962-04-28,1961/1962,Preston North End,Charlton Athletic,2-0,2,0,Football League Second Division,2,H
+1962-04-28,1961/1962,Coventry City,Hull City,0-2,0,2,Football League Third Division,3,A
+1962-04-28,1961/1962,Grimsby Town,Watford,5-3,5,3,Football League Third Division,3,H
+1962-04-28,1961/1962,Newport County,Torquay United,0-3,0,3,Football League Third Division,3,A
+1962-04-28,1961/1962,Notts County,Halifax Town,0-0,0,0,Football League Third Division,3,D
+1962-04-28,1961/1962,Bristol City,Crystal Palace,2-2,2,2,Football League Third Division,3,D
+1962-04-28,1961/1962,Peterborough United,Barnsley,4-2,4,2,Football League Third Division,3,H
+1962-04-28,1961/1962,Port Vale,Portsmouth,2-3,2,3,Football League Third Division,3,A
+1962-04-28,1961/1962,Shrewsbury Town,Queens Park Rangers,1-2,1,2,Football League Third Division,3,A
+1962-04-28,1961/1962,Southend United,Swindon Town,0-2,0,2,Football League Third Division,3,A
+1962-04-28,1961/1962,Bradford Park Avenue,AFC Bournemouth,1-2,1,2,Football League Third Division,3,A
+1962-04-30,1961/1962,Sheffield Wednesday,Burnley,4-0,4,0,Football League First Division,1,H
+1962-04-30,1961/1962,West Ham United,Fulham,4-2,4,2,Football League First Division,1,H
+1962-04-30,1961/1962,Leicester City,Tottenham Hotspur,2-3,2,3,Football League First Division,1,A
+1962-04-30,1961/1962,Colchester United,Doncaster Rovers,5-3,5,3,Football League Fourth Division,4,H
+1962-04-30,1961/1962,Chesterfield,Crewe Alexandra,3-1,3,1,Football League Fourth Division,4,H
+1962-04-30,1961/1962,Barrow,Millwall,2-2,2,2,Football League Fourth Division,4,D
+1962-04-30,1961/1962,Liverpool,Charlton Athletic,2-1,2,1,Football League Second Division,2,H
+1962-04-30,1961/1962,Swindon Town,Port Vale,1-0,1,0,Football League Third Division,3,H
+1962-04-30,1961/1962,Peterborough United,Notts County,2-0,2,0,Football League Third Division,3,H
+1962-04-30,1961/1962,Halifax Town,Coventry City,0-2,0,2,Football League Third Division,3,A
+1962-04-30,1961/1962,Lincoln City,Queens Park Rangers,0-5,0,5,Football League Third Division,3,A
+1962-05-01,1961/1962,Aston Villa,Cardiff City,2-2,2,2,Football League First Division,1,D
+1962-05-01,1961/1962,Arsenal,Everton,2-3,2,3,Football League First Division,1,A
+1962-05-01,1961/1962,Southport,Aldershot,2-1,2,1,Football League Fourth Division,4,H
+1962-05-01,1961/1962,Carlisle United,Chester,2-0,2,0,Football League Fourth Division,4,H
+1962-05-01,1961/1962,Brentford,Grimsby Town,0-2,0,2,Football League Third Division,3,A
+1962-05-02,1961/1962,Bradford City,Wrexham,5-3,5,3,Football League Fourth Division,4,H
+1962-05-02,1961/1962,Oldham Athletic,Darlington,0-1,0,1,Football League Fourth Division,4,A
+1962-05-02,1961/1962,Barnsley,Torquay United,4-2,4,2,Football League Third Division,3,H
+1962-05-02,1961/1962,Lincoln City,Portsmouth,2-2,2,2,Football League Third Division,3,D
+1962-05-02,1961/1962,Reading,Bradford Park Avenue,3-1,3,1,Football League Third Division,3,H
+1962-05-03,1961/1962,Gillingham,Rochdale,4-2,4,2,Football League Fourth Division,4,H
+1962-05-03,1961/1962,Brentford,Hull City,0-2,0,2,Football League Third Division,3,A
+1962-05-03,1961/1962,Halifax Town,Queens Park Rangers,1-1,1,1,Football League Third Division,3,D
+1962-05-04,1961/1962,Swansea City,Liverpool,4-2,4,2,Football League Second Division,2,H

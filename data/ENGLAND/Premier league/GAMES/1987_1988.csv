@@ -1,0 +1,2031 @@
+Date,Season,HomeTeam,AwayTeam,Score,hGoal,aGoal,Division,Tier,Result
+1987-08-15,1987/1988,Arsenal,Liverpool,1-2,1,2,Football League First Division,1,A
+1987-08-15,1987/1988,Charlton Athletic,Nottingham Forest,1-2,1,2,Football League First Division,1,A
+1987-08-15,1987/1988,Chelsea,Sheffield Wednesday,2-1,2,1,Football League First Division,1,H
+1987-08-15,1987/1988,Coventry City,Tottenham Hotspur,2-1,2,1,Football League First Division,1,H
+1987-08-15,1987/1988,Derby County,Luton Town,1-0,1,0,Football League First Division,1,H
+1987-08-15,1987/1988,Everton,Norwich City,1-0,1,0,Football League First Division,1,H
+1987-08-15,1987/1988,Southampton,Manchester United,2-2,2,2,Football League First Division,1,D
+1987-08-15,1987/1988,Watford,Wimbledon,1-0,1,0,Football League First Division,1,H
+1987-08-15,1987/1988,Oxford United,Portsmouth,4-2,4,2,Football League First Division,1,H
+1987-08-15,1987/1988,West Ham United,Queens Park Rangers,0-3,0,3,Football League First Division,1,A
+1987-08-15,1987/1988,Bolton Wanderers,Crewe Alexandra,1-1,1,1,Football League Fourth Division,4,D
+1987-08-15,1987/1988,Halifax Town,Darlington,2-2,2,2,Football League Fourth Division,4,D
+1987-08-15,1987/1988,Cardiff City,Leyton Orient,1-1,1,1,Football League Fourth Division,4,D
+1987-08-15,1987/1988,Exeter City,Cambridge United,3-0,3,0,Football League Fourth Division,4,H
+1987-08-15,1987/1988,Hartlepool United,Newport County,0-0,0,0,Football League Fourth Division,4,D
+1987-08-15,1987/1988,Hereford United,Rochdale,0-0,0,0,Football League Fourth Division,4,D
+1987-08-15,1987/1988,Peterborough United,Carlisle United,1-0,1,0,Football League Fourth Division,4,H
+1987-08-15,1987/1988,Scarborough,Wolverhampton Wanderers,2-2,2,2,Football League Fourth Division,4,D
+1987-08-15,1987/1988,Scunthorpe United,Tranmere Rovers,3-0,3,0,Football League Fourth Division,4,H
+1987-08-15,1987/1988,Stockport County,Swansea City,0-2,0,2,Football League Fourth Division,4,A
+1987-08-15,1987/1988,Torquay United,Wrexham,6-1,6,1,Football League Fourth Division,4,H
+1987-08-15,1987/1988,Burnley,Colchester United,0-3,0,3,Football League Fourth Division,4,A
+1987-08-15,1987/1988,Sheffield United,AFC Bournemouth,0-1,0,1,Football League Second Division,2,A
+1987-08-15,1987/1988,Birmingham City,Stoke City,2-0,2,0,Football League Second Division,2,H
+1987-08-15,1987/1988,Bradford City,Swindon Town,2-0,2,0,Football League Second Division,2,H
+1987-08-15,1987/1988,Hull City,Blackburn Rovers,2-2,2,2,Football League Second Division,2,D
+1987-08-15,1987/1988,Ipswich Town,Aston Villa,1-1,1,1,Football League Second Division,2,D
+1987-08-15,1987/1988,Leicester City,Shrewsbury Town,0-1,0,1,Football League Second Division,2,A
+1987-08-15,1987/1988,Manchester City,Plymouth Argyle,2-1,2,1,Football League Second Division,2,H
+1987-08-15,1987/1988,Middlesbrough,Millwall,1-1,1,1,Football League Second Division,2,D
+1987-08-15,1987/1988,West Bromwich Albion,Oldham Athletic,0-0,0,0,Football League Second Division,2,D
+1987-08-15,1987/1988,Huddersfield Town,Crystal Palace,2-2,2,2,Football League Second Division,2,D
+1987-08-15,1987/1988,Walsall,Fulham,0-1,0,1,Football League Third Division,3,A
+1987-08-15,1987/1988,Doncaster Rovers,Grimsby Town,1-0,1,0,Football League Third Division,3,H
+1987-08-15,1987/1988,Gillingham,Blackpool,0-0,0,0,Football League Third Division,3,D
+1987-08-15,1987/1988,Mansfield Town,Bristol City,2-0,2,0,Football League Third Division,3,H
+1987-08-15,1987/1988,Notts County,Wigan Athletic,4-4,4,4,Football League Third Division,3,D
+1987-08-15,1987/1988,Port Vale,Aldershot,4-2,4,2,Football League Third Division,3,H
+1987-08-15,1987/1988,Preston North End,Chesterfield,0-1,0,1,Football League Third Division,3,A
+1987-08-15,1987/1988,Chester,Northampton Town,0-5,0,5,Football League Third Division,3,A
+1987-08-15,1987/1988,Bury,Southend United,2-2,2,2,Football League Third Division,3,D
+1987-08-15,1987/1988,Bristol Rovers,Rotherham United,3-1,3,1,Football League Third Division,3,H
+1987-08-15,1987/1988,Brentford,Sunderland,0-1,0,1,Football League Third Division,3,A
+1987-08-15,1987/1988,Brighton & Hove Albion,York City,1-0,1,0,Football League Third Division,3,H
+1987-08-16,1987/1988,Barnsley,Leeds United,1-1,1,1,Football League Second Division,2,D
+1987-08-18,1987/1988,Sheffield Wednesday,Oxford United,1-1,1,1,Football League First Division,1,D
+1987-08-18,1987/1988,Portsmouth,Chelsea,0-3,0,3,Football League First Division,1,A
+1987-08-18,1987/1988,Luton Town,Coventry City,0-1,0,1,Football League First Division,1,A
+1987-08-18,1987/1988,Wimbledon,Everton,1-1,1,1,Football League First Division,1,D
+1987-08-18,1987/1988,Stoke City,Hull City,1-1,1,1,Football League Second Division,2,D
+1987-08-18,1987/1988,Oldham Athletic,Bradford City,0-2,0,2,Football League Second Division,2,A
+1987-08-18,1987/1988,Plymouth Argyle,Ipswich Town,0-0,0,0,Football League Second Division,2,D
+1987-08-18,1987/1988,Blackburn Rovers,Barnsley,0-1,0,1,Football League Second Division,2,A
+1987-08-19,1987/1988,Tottenham Hotspur,Newcastle United,3-1,3,1,Football League First Division,1,H
+1987-08-19,1987/1988,Queens Park Rangers,Derby County,1-1,1,1,Football League First Division,1,D
+1987-08-19,1987/1988,Norwich City,Southampton,0-1,0,1,Football League First Division,1,A
+1987-08-19,1987/1988,Manchester United,Arsenal,0-0,0,0,Football League First Division,1,D
+1987-08-19,1987/1988,Nottingham Forest,Watford,1-0,1,0,Football League First Division,1,H
+1987-08-19,1987/1988,Leeds United,Leicester City,1-0,1,0,Football League Second Division,2,H
+1987-08-21,1987/1988,Colchester United,Torquay United,0-1,0,1,Football League Fourth Division,4,A
+1987-08-21,1987/1988,Tranmere Rovers,Hereford United,0-1,0,1,Football League Fourth Division,4,A
+1987-08-22,1987/1988,Norwich City,Coventry City,3-1,3,1,Football League First Division,1,H
+1987-08-22,1987/1988,Nottingham Forest,Everton,0-0,0,0,Football League First Division,1,D
+1987-08-22,1987/1988,Portsmouth,Southampton,2-2,2,2,Football League First Division,1,D
+1987-08-22,1987/1988,Queens Park Rangers,Arsenal,2-0,2,0,Football League First Division,1,H
+1987-08-22,1987/1988,Sheffield Wednesday,Newcastle United,0-1,0,1,Football League First Division,1,A
+1987-08-22,1987/1988,Tottenham Hotspur,Chelsea,1-0,1,0,Football League First Division,1,H
+1987-08-22,1987/1988,Wimbledon,Oxford United,1-1,1,1,Football League First Division,1,D
+1987-08-22,1987/1988,Manchester United,Watford,2-0,2,0,Football League First Division,1,H
+1987-08-22,1987/1988,Luton Town,West Ham United,2-2,2,2,Football League First Division,1,D
+1987-08-22,1987/1988,Bolton Wanderers,Cardiff City,1-0,1,0,Football League Fourth Division,4,H
+1987-08-22,1987/1988,Rochdale,Peterborough United,1-1,1,1,Football League Fourth Division,4,D
+1987-08-22,1987/1988,Carlisle United,Scunthorpe United,3-1,3,1,Football League Fourth Division,4,H
+1987-08-22,1987/1988,Darlington,Stockport County,1-2,1,2,Football League Fourth Division,4,A
+1987-08-22,1987/1988,Leyton Orient,Scarborough,3-1,3,1,Football League Fourth Division,4,H
+1987-08-22,1987/1988,Newport County,Burnley,0-1,0,1,Football League Fourth Division,4,A
+1987-08-22,1987/1988,Swansea City,Exeter City,0-2,0,2,Football League Fourth Division,4,A
+1987-08-22,1987/1988,Wolverhampton Wanderers,Halifax Town,0-1,0,1,Football League Fourth Division,4,A
+1987-08-22,1987/1988,Wrexham,Hartlepool United,2-1,2,1,Football League Fourth Division,4,H
+1987-08-22,1987/1988,Cambridge United,Crewe Alexandra,4-1,4,1,Football League Fourth Division,4,H
+1987-08-22,1987/1988,Swindon Town,Sheffield United,2-0,2,0,Football League Second Division,2,H
+1987-08-22,1987/1988,Shrewsbury Town,Ipswich Town,0-0,0,0,Football League Second Division,2,D
+1987-08-22,1987/1988,AFC Bournemouth,Bradford City,2-0,2,0,Football League Second Division,2,H
+1987-08-22,1987/1988,Blackburn Rovers,West Bromwich Albion,3-1,3,1,Football League Second Division,2,H
+1987-08-22,1987/1988,Crystal Palace,Hull City,2-2,2,2,Football League Second Division,2,D
+1987-08-22,1987/1988,Leeds United,Reading,0-0,0,0,Football League Second Division,2,D
+1987-08-22,1987/1988,Stoke City,Middlesbrough,1-0,1,0,Football League Second Division,2,H
+1987-08-22,1987/1988,Millwall,Barnsley,3-1,3,1,Football League Second Division,2,H
+1987-08-22,1987/1988,Oldham Athletic,Manchester City,1-1,1,1,Football League Second Division,2,D
+1987-08-22,1987/1988,Plymouth Argyle,Huddersfield Town,6-1,6,1,Football League Second Division,2,H
+1987-08-22,1987/1988,Aston Villa,Birmingham City,0-2,0,2,Football League Second Division,2,A
+1987-08-22,1987/1988,York City,Notts County,3-5,3,5,Football League Third Division,3,A
+1987-08-22,1987/1988,Bristol City,Preston North End,3-1,3,1,Football League Third Division,3,H
+1987-08-22,1987/1988,Chesterfield,Brighton & Hove Albion,0-0,0,0,Football League Third Division,3,D
+1987-08-22,1987/1988,Fulham,Doncaster Rovers,4-0,4,0,Football League Third Division,3,H
+1987-08-22,1987/1988,Rotherham United,Bury,0-1,0,1,Football League Third Division,3,A
+1987-08-22,1987/1988,Southend United,Chester,2-2,2,2,Football League Third Division,3,D
+1987-08-22,1987/1988,Sunderland,Bristol Rovers,1-1,1,1,Football League Third Division,3,D
+1987-08-22,1987/1988,Blackpool,Walsall,1-2,1,2,Football League Third Division,3,A
+1987-08-22,1987/1988,Grimsby Town,Gillingham,2-0,2,0,Football League Third Division,3,H
+1987-08-28,1987/1988,Stockport County,Tranmere Rovers,1-2,1,2,Football League Fourth Division,4,A
+1987-08-28,1987/1988,Halifax Town,Rochdale,1-2,1,2,Football League Fourth Division,4,A
+1987-08-29,1987/1988,Chelsea,Luton Town,3-0,3,0,Football League First Division,1,H
+1987-08-29,1987/1988,Arsenal,Portsmouth,6-0,6,0,Football League First Division,1,H
+1987-08-29,1987/1988,Charlton Athletic,Manchester United,1-3,1,3,Football League First Division,1,A
+1987-08-29,1987/1988,Derby County,Wimbledon,0-1,0,1,Football League First Division,1,A
+1987-08-29,1987/1988,Everton,Sheffield Wednesday,4-0,4,0,Football League First Division,1,H
+1987-08-29,1987/1988,Newcastle United,Nottingham Forest,0-1,0,1,Football League First Division,1,A
+1987-08-29,1987/1988,Southampton,Queens Park Rangers,0-1,0,1,Football League First Division,1,A
+1987-08-29,1987/1988,Watford,Tottenham Hotspur,1-1,1,1,Football League First Division,1,D
+1987-08-29,1987/1988,West Ham United,Norwich City,2-0,2,0,Football League First Division,1,H
+1987-08-29,1987/1988,Coventry City,Liverpool,1-4,1,4,Football League First Division,1,A
+1987-08-29,1987/1988,Burnley,Carlisle United,4-3,4,3,Football League Fourth Division,4,H
+1987-08-29,1987/1988,Crewe Alexandra,Wrexham,2-0,2,0,Football League Fourth Division,4,H
+1987-08-29,1987/1988,Exeter City,Newport County,3-0,3,0,Football League Fourth Division,4,H
+1987-08-29,1987/1988,Hartlepool United,Darlington,2-5,2,5,Football League Fourth Division,4,A
+1987-08-29,1987/1988,Hereford United,Wolverhampton Wanderers,1-2,1,2,Football League Fourth Division,4,A
+1987-08-29,1987/1988,Peterborough United,Cambridge United,1-0,1,0,Football League Fourth Division,4,H
+1987-08-29,1987/1988,Scarborough,Bolton Wanderers,4-0,4,0,Football League Fourth Division,4,H
+1987-08-29,1987/1988,Scunthorpe United,Colchester United,2-2,2,2,Football League Fourth Division,4,D
+1987-08-29,1987/1988,Torquay United,Leyton Orient,1-1,1,1,Football League Fourth Division,4,D
+1987-08-29,1987/1988,Cardiff City,Swansea City,1-0,1,0,Football League Fourth Division,4,H
+1987-08-29,1987/1988,West Bromwich Albion,Swindon Town,1-2,1,2,Football League Second Division,2,A
+1987-08-29,1987/1988,Birmingham City,AFC Bournemouth,1-1,1,1,Football League Second Division,2,D
+1987-08-29,1987/1988,Bradford City,Leeds United,0-0,0,0,Football League Second Division,2,D
+1987-08-29,1987/1988,Huddersfield Town,Shrewsbury Town,0-0,0,0,Football League Second Division,2,D
+1987-08-29,1987/1988,Hull City,Aston Villa,2-1,2,1,Football League Second Division,2,H
+1987-08-29,1987/1988,Ipswich Town,Stoke City,2-0,2,0,Football League Second Division,2,H
+1987-08-29,1987/1988,Leicester City,Millwall,1-0,1,0,Football League Second Division,2,H
+1987-08-29,1987/1988,Middlesbrough,Oldham Athletic,1-0,1,0,Football League Second Division,2,H
+1987-08-29,1987/1988,Reading,Plymouth Argyle,0-1,0,1,Football League Second Division,2,A
+1987-08-29,1987/1988,Sheffield United,Blackburn Rovers,3-1,3,1,Football League Second Division,2,H
+1987-08-29,1987/1988,Barnsley,Crystal Palace,2-1,2,1,Football League Second Division,2,H
+1987-08-29,1987/1988,Bristol Rovers,Aldershot,3-1,3,1,Football League Third Division,3,H
+1987-08-29,1987/1988,Bury,Blackpool,3-1,3,1,Football League Third Division,3,H
+1987-08-29,1987/1988,Chester,York City,1-0,1,0,Football League Third Division,3,H
+1987-08-29,1987/1988,Doncaster Rovers,Sunderland,0-2,0,2,Football League Third Division,3,A
+1987-08-29,1987/1988,Gillingham,Southend United,8-1,8,1,Football League Third Division,3,H
+1987-08-29,1987/1988,Mansfield Town,Chesterfield,0-1,0,1,Football League Third Division,3,A
+1987-08-29,1987/1988,Notts County,Grimsby Town,0-0,0,0,Football League Third Division,3,D
+1987-08-29,1987/1988,Port Vale,Rotherham United,0-0,0,0,Football League Third Division,3,D
+1987-08-29,1987/1988,Preston North End,Wigan Athletic,0-1,0,1,Football League Third Division,3,A
+1987-08-29,1987/1988,Walsall,Northampton Town,1-0,1,0,Football League Third Division,3,H
+1987-08-29,1987/1988,Brighton & Hove Albion,Fulham,2-0,2,0,Football League Third Division,3,H
+1987-08-29,1987/1988,Brentford,Bristol City,0-2,0,2,Football League Third Division,3,A
+1987-08-31,1987/1988,Luton Town,Arsenal,1-1,1,1,Football League First Division,1,D
+1987-08-31,1987/1988,Manchester United,Chelsea,3-1,3,1,Football League First Division,1,H
+1987-08-31,1987/1988,Portsmouth,West Ham United,2-1,2,1,Football League First Division,1,H
+1987-08-31,1987/1988,Sheffield Wednesday,Coventry City,0-3,0,3,Football League First Division,1,A
+1987-08-31,1987/1988,Bolton Wanderers,Peterborough United,2-0,2,0,Football League Fourth Division,4,H
+1987-08-31,1987/1988,Wrexham,Halifax Town,2-2,2,2,Football League Fourth Division,4,D
+1987-08-31,1987/1988,Carlisle United,Hereford United,3-1,3,1,Football League Fourth Division,4,H
+1987-08-31,1987/1988,Swansea City,Hartlepool United,2-1,2,1,Football League Fourth Division,4,H
+1987-08-31,1987/1988,Darlington,Torquay United,1-1,1,1,Football League Fourth Division,4,D
+1987-08-31,1987/1988,Newport County,Stockport County,1-2,1,2,Football League Fourth Division,4,A
+1987-08-31,1987/1988,Rochdale,Crewe Alexandra,2-2,2,2,Football League Fourth Division,4,D
+1987-08-31,1987/1988,Tranmere Rovers,Exeter City,2-1,2,1,Football League Fourth Division,4,H
+1987-08-31,1987/1988,Wolverhampton Wanderers,Scunthorpe United,4-1,4,1,Football League Fourth Division,4,H
+1987-08-31,1987/1988,Colchester United,Scarborough,1-3,1,3,Football League Fourth Division,4,A
+1987-08-31,1987/1988,Plymouth Argyle,Sheffield United,1-0,1,0,Football League Second Division,2,H
+1987-08-31,1987/1988,Aston Villa,Manchester City,1-1,1,1,Football League Second Division,2,D
+1987-08-31,1987/1988,AFC Bournemouth,Barnsley,1-2,1,2,Football League Second Division,2,A
+1987-08-31,1987/1988,Oldham Athletic,Huddersfield Town,3-2,3,2,Football League Second Division,2,H
+1987-08-31,1987/1988,Stoke City,Leicester City,2-1,2,1,Football League Second Division,2,H
+1987-08-31,1987/1988,Swindon Town,Hull City,0-0,0,0,Football League Second Division,2,D
+1987-08-31,1987/1988,Leeds United,West Bromwich Albion,1-0,1,0,Football League Second Division,2,H
+1987-08-31,1987/1988,Sunderland,Mansfield Town,4-1,4,1,Football League Third Division,3,H
+1987-08-31,1987/1988,Wigan Athletic,Gillingham,1-1,1,1,Football League Third Division,3,D
+1987-08-31,1987/1988,York City,Walsall,1-3,1,3,Football League Third Division,3,A
+1987-08-31,1987/1988,Rotherham United,Chester,5-2,5,2,Football League Third Division,3,H
+1987-08-31,1987/1988,Northampton Town,Brighton & Hove Albion,1-1,1,1,Football League Third Division,3,D
+1987-08-31,1987/1988,Chesterfield,Bury,1-0,1,0,Football League Third Division,3,H
+1987-08-31,1987/1988,Grimsby Town,Brentford,0-1,0,1,Football League Third Division,3,A
+1987-08-31,1987/1988,Aldershot,Doncaster Rovers,2-1,2,1,Football League Third Division,3,H
+1987-08-31,1987/1988,Blackpool,Bristol Rovers,2-1,2,1,Football League Third Division,3,H
+1987-08-31,1987/1988,Bristol City,Port Vale,1-0,1,0,Football League Third Division,3,H
+1987-09-01,1987/1988,Wimbledon,Charlton Athletic,4-1,4,1,Football League First Division,1,H
+1987-09-01,1987/1988,Tottenham Hotspur,Oxford United,3-0,3,0,Football League First Division,1,H
+1987-09-01,1987/1988,Norwich City,Newcastle United,1-1,1,1,Football League First Division,1,D
+1987-09-01,1987/1988,Cambridge United,Cardiff City,0-0,0,0,Football League Fourth Division,4,D
+1987-09-01,1987/1988,Leyton Orient,Burnley,4-1,4,1,Football League Fourth Division,4,H
+1987-09-01,1987/1988,Shrewsbury Town,Reading,0-1,0,1,Football League Second Division,2,A
+1987-09-01,1987/1988,Millwall,Birmingham City,3-1,3,1,Football League Second Division,2,H
+1987-09-01,1987/1988,Blackburn Rovers,Ipswich Town,1-0,1,0,Football League Second Division,2,H
+1987-09-01,1987/1988,Crystal Palace,Middlesbrough,3-1,3,1,Football League Second Division,2,H
+1987-09-01,1987/1988,Southend United,Preston North End,1-2,1,2,Football League Third Division,3,A
+1987-09-01,1987/1988,Fulham,Notts County,0-0,0,0,Football League Third Division,3,D
+1987-09-02,1987/1988,Nottingham Forest,Southampton,3-3,3,3,Football League First Division,1,D
+1987-09-02,1987/1988,Queens Park Rangers,Everton,1-0,1,0,Football League First Division,1,H
+1987-09-04,1987/1988,Crewe Alexandra,Colchester United,0-0,0,0,Football League Fourth Division,4,D
+1987-09-04,1987/1988,Stockport County,Carlisle United,3-0,3,0,Football League Fourth Division,4,H
+1987-09-04,1987/1988,Mansfield Town,Fulham,0-2,0,2,Football League Third Division,3,A
+1987-09-05,1987/1988,Charlton Athletic,Queens Park Rangers,0-1,0,1,Football League First Division,1,A
+1987-09-05,1987/1988,Chelsea,Nottingham Forest,4-3,4,3,Football League First Division,1,H
+1987-09-05,1987/1988,Coventry City,Manchester United,0-0,0,0,Football League First Division,1,D
+1987-09-05,1987/1988,Derby County,Portsmouth,0-0,0,0,Football League First Division,1,D
+1987-09-05,1987/1988,Everton,Tottenham Hotspur,0-0,0,0,Football League First Division,1,D
+1987-09-05,1987/1988,Newcastle United,Wimbledon,1-2,1,2,Football League First Division,1,A
+1987-09-05,1987/1988,Oxford United,Luton Town,2-5,2,5,Football League First Division,1,A
+1987-09-05,1987/1988,Southampton,Sheffield Wednesday,1-1,1,1,Football League First Division,1,D
+1987-09-05,1987/1988,Watford,Norwich City,0-1,0,1,Football League First Division,1,A
+1987-09-05,1987/1988,West Ham United,Liverpool,1-1,1,1,Football League First Division,1,D
+1987-09-05,1987/1988,Torquay United,Cambridge United,0-1,0,1,Football League Fourth Division,4,A
+1987-09-05,1987/1988,Halifax Town,Newport County,3-1,3,1,Football League Fourth Division,4,H
+1987-09-05,1987/1988,Burnley,Swansea City,1-0,1,0,Football League Fourth Division,4,H
+1987-09-05,1987/1988,Cardiff City,Wolverhampton Wanderers,3-2,3,2,Football League Fourth Division,4,H
+1987-09-05,1987/1988,Exeter City,Wrexham,1-1,1,1,Football League Fourth Division,4,D
+1987-09-05,1987/1988,Hartlepool United,Leyton Orient,2-2,2,2,Football League Fourth Division,4,D
+1987-09-05,1987/1988,Hereford United,Bolton Wanderers,0-3,0,3,Football League Fourth Division,4,A
+1987-09-05,1987/1988,Peterborough United,Darlington,1-2,1,2,Football League Fourth Division,4,A
+1987-09-05,1987/1988,Scarborough,Tranmere Rovers,2-0,2,0,Football League Fourth Division,4,H
+1987-09-05,1987/1988,Scunthorpe United,Rochdale,1-0,1,0,Football League Fourth Division,4,H
+1987-09-05,1987/1988,Middlesbrough,Swindon Town,2-3,2,3,Football League Second Division,2,A
+1987-09-05,1987/1988,Sheffield United,Stoke City,0-0,0,0,Football League Second Division,2,D
+1987-09-05,1987/1988,West Bromwich Albion,Shrewsbury Town,2-1,2,1,Football League Second Division,2,H
+1987-09-05,1987/1988,Barnsley,Plymouth Argyle,2-1,2,1,Football League Second Division,2,H
+1987-09-05,1987/1988,Birmingham City,Crystal Palace,0-6,0,6,Football League Second Division,2,A
+1987-09-05,1987/1988,Bradford City,Millwall,3-1,3,1,Football League Second Division,2,H
+1987-09-05,1987/1988,Hull City,AFC Bournemouth,2-1,2,1,Football League Second Division,2,H
+1987-09-05,1987/1988,Ipswich Town,Leeds United,1-0,1,0,Football League Second Division,2,H
+1987-09-05,1987/1988,Leicester City,Aston Villa,0-2,0,2,Football League Second Division,2,A
+1987-09-05,1987/1988,Manchester City,Blackburn Rovers,1-2,1,2,Football League Second Division,2,A
+1987-09-05,1987/1988,Reading,Oldham Athletic,3-0,3,0,Football League Second Division,2,H
+1987-09-05,1987/1988,Port Vale,York City,2-1,2,1,Football League Third Division,3,H
+1987-09-05,1987/1988,Bury,Bristol City,1-1,1,1,Football League Third Division,3,D
+1987-09-05,1987/1988,Chester,Aldershot,4-1,4,1,Football League Third Division,3,H
+1987-09-05,1987/1988,Doncaster Rovers,Northampton Town,0-2,0,2,Football League Third Division,3,A
+1987-09-05,1987/1988,Gillingham,Chesterfield,10-0,10,0,Football League Third Division,3,H
+1987-09-05,1987/1988,Bristol Rovers,Wigan Athletic,2-3,2,3,Football League Third Division,3,A
+1987-09-05,1987/1988,Notts County,Southend United,6-2,6,2,Football League Third Division,3,H
+1987-09-05,1987/1988,Preston North End,Grimsby Town,1-3,1,3,Football League Third Division,3,A
+1987-09-05,1987/1988,Brighton & Hove Albion,Blackpool,1-3,1,3,Football League Third Division,3,A
+1987-09-05,1987/1988,Walsall,Sunderland,2-2,2,2,Football League Third Division,3,D
+1987-09-05,1987/1988,Brentford,Rotherham United,1-1,1,1,Football League Third Division,3,D
+1987-09-08,1987/1988,Aston Villa,Middlesbrough,0-1,0,1,Football League Second Division,2,A
+1987-09-08,1987/1988,Crystal Palace,West Bromwich Albion,4-1,4,1,Football League Second Division,2,H
+1987-09-09,1987/1988,Northampton Town,Brentford,2-1,2,1,Football League Third Division,3,H
+1987-09-11,1987/1988,Tranmere Rovers,Burnley,0-1,0,1,Football League Fourth Division,4,A
+1987-09-12,1987/1988,Liverpool,Oxford United,2-0,2,0,Football League First Division,1,H
+1987-09-12,1987/1988,Luton Town,Everton,2-1,2,1,Football League First Division,1,H
+1987-09-12,1987/1988,Manchester United,Newcastle United,2-2,2,2,Football League First Division,1,D
+1987-09-12,1987/1988,Norwich City,Derby County,1-2,1,2,Football League First Division,1,A
+1987-09-12,1987/1988,Portsmouth,Charlton Athletic,1-1,1,1,Football League First Division,1,D
+1987-09-12,1987/1988,Queens Park Rangers,Chelsea,3-1,3,1,Football League First Division,1,H
+1987-09-12,1987/1988,Sheffield Wednesday,Watford,2-3,2,3,Football League First Division,1,A
+1987-09-12,1987/1988,Tottenham Hotspur,Southampton,2-1,2,1,Football League First Division,1,H
+1987-09-12,1987/1988,Wimbledon,West Ham United,1-1,1,1,Football League First Division,1,D
+1987-09-12,1987/1988,Nottingham Forest,Arsenal,0-1,0,1,Football League First Division,1,A
+1987-09-12,1987/1988,Bolton Wanderers,Halifax Town,2-0,2,0,Football League Fourth Division,4,H
+1987-09-12,1987/1988,Cambridge United,Scunthorpe United,3-3,3,3,Football League Fourth Division,4,D
+1987-09-12,1987/1988,Carlisle United,Hartlepool United,1-3,1,3,Football League Fourth Division,4,A
+1987-09-12,1987/1988,Colchester United,Peterborough United,4-1,4,1,Football League Fourth Division,4,H
+1987-09-12,1987/1988,Darlington,Scarborough,2-1,2,1,Football League Fourth Division,4,H
+1987-09-12,1987/1988,Leyton Orient,Exeter City,2-3,2,3,Football League Fourth Division,4,A
+1987-09-12,1987/1988,Newport County,Torquay United,3-1,3,1,Football League Fourth Division,4,H
+1987-09-12,1987/1988,Rochdale,Stockport County,0-1,0,1,Football League Fourth Division,4,A
+1987-09-12,1987/1988,Swansea City,Hereford United,3-0,3,0,Football League Fourth Division,4,H
+1987-09-12,1987/1988,Wrexham,Cardiff City,3-0,3,0,Football League Fourth Division,4,H
+1987-09-12,1987/1988,Wolverhampton Wanderers,Crewe Alexandra,2-2,2,2,Football League Fourth Division,4,D
+1987-09-12,1987/1988,Swindon Town,Birmingham City,0-2,0,2,Football League Second Division,2,A
+1987-09-12,1987/1988,Aston Villa,Barnsley,0-0,0,0,Football League Second Division,2,D
+1987-09-12,1987/1988,Blackburn Rovers,Huddersfield Town,2-2,2,2,Football League Second Division,2,D
+1987-09-12,1987/1988,Crystal Palace,Leicester City,2-1,2,1,Football League Second Division,2,H
+1987-09-12,1987/1988,Leeds United,Hull City,0-2,0,2,Football League Second Division,2,A
+1987-09-12,1987/1988,AFC Bournemouth,Reading,3-0,3,0,Football League Second Division,2,H
+1987-09-12,1987/1988,Millwall,Ipswich Town,2-1,2,1,Football League Second Division,2,H
+1987-09-12,1987/1988,Oldham Athletic,Sheffield United,3-2,3,2,Football League Second Division,2,H
+1987-09-12,1987/1988,Plymouth Argyle,West Bromwich Albion,3-3,3,3,Football League Second Division,2,D
+1987-09-12,1987/1988,Shrewsbury Town,Manchester City,0-0,0,0,Football League Second Division,2,D
+1987-09-12,1987/1988,Stoke City,Bradford City,1-2,1,2,Football League Second Division,2,A
+1987-09-12,1987/1988,Chesterfield,Port Vale,1-3,1,3,Football League Third Division,3,A
+1987-09-12,1987/1988,Fulham,Gillingham,0-2,0,2,Football League Third Division,3,A
+1987-09-12,1987/1988,Grimsby Town,Mansfield Town,2-3,2,3,Football League Third Division,3,A
+1987-09-12,1987/1988,Northampton Town,Notts County,0-1,0,1,Football League Third Division,3,A
+1987-09-12,1987/1988,Rotherham United,Walsall,0-1,0,1,Football League Third Division,3,A
+1987-09-12,1987/1988,Southend United,Brentford,2-3,2,3,Football League Third Division,3,A
+1987-09-12,1987/1988,Sunderland,Bury,1-1,1,1,Football League Third Division,3,D
+1987-09-12,1987/1988,Wigan Athletic,Doncaster Rovers,2-1,2,1,Football League Third Division,3,H
+1987-09-12,1987/1988,York City,Preston North End,1-1,1,1,Football League Third Division,3,D
+1987-09-12,1987/1988,Bristol City,Bristol Rovers,3-3,3,3,Football League Third Division,3,D
+1987-09-12,1987/1988,Blackpool,Chester,0-1,0,1,Football League Third Division,3,A
+1987-09-12,1987/1988,Aldershot,Brighton & Hove Albion,1-4,1,4,Football League Third Division,3,A
+1987-09-14,1987/1988,Port Vale,Southend United,4-1,4,1,Football League Third Division,3,H
+1987-09-15,1987/1988,Liverpool,Charlton Athletic,3-2,3,2,Football League First Division,1,H
+1987-09-15,1987/1988,Torquay United,Rochdale,5-0,5,0,Football League Fourth Division,4,H
+1987-09-15,1987/1988,Stockport County,Leyton Orient,1-2,1,2,Football League Fourth Division,4,A
+1987-09-15,1987/1988,Scunthorpe United,Bolton Wanderers,1-1,1,1,Football League Fourth Division,4,D
+1987-09-15,1987/1988,Crewe Alexandra,Tranmere Rovers,0-0,0,0,Football League Fourth Division,4,D
+1987-09-15,1987/1988,Cardiff City,Darlington,3-1,3,1,Football League Fourth Division,4,H
+1987-09-15,1987/1988,Burnley,Wrexham,1-0,1,0,Football League Fourth Division,4,H
+1987-09-15,1987/1988,Birmingham City,Blackburn Rovers,1-0,1,0,Football League Second Division,2,H
+1987-09-15,1987/1988,Huddersfield Town,Leeds United,0-0,0,0,Football League Second Division,2,D
+1987-09-15,1987/1988,Hull City,Shrewsbury Town,1-1,1,1,Football League Second Division,2,D
+1987-09-15,1987/1988,Barnsley,Swindon Town,0-1,0,1,Football League Second Division,2,A
+1987-09-15,1987/1988,Sheffield United,Crystal Palace,1-1,1,1,Football League Second Division,2,D
+1987-09-15,1987/1988,Middlesbrough,AFC Bournemouth,3-0,3,0,Football League Second Division,2,H
+1987-09-15,1987/1988,Walsall,Bristol City,1-1,1,1,Football League Third Division,3,D
+1987-09-15,1987/1988,Preston North End,Northampton Town,0-0,0,0,Football League Third Division,3,D
+1987-09-15,1987/1988,Notts County,Aldershot,2-1,2,1,Football League Third Division,3,H
+1987-09-15,1987/1988,Mansfield Town,Wigan Athletic,0-1,0,1,Football League Third Division,3,A
+1987-09-15,1987/1988,Doncaster Rovers,Blackpool,2-1,2,1,Football League Third Division,3,H
+1987-09-15,1987/1988,Gillingham,Sunderland,0-0,0,0,Football League Third Division,3,D
+1987-09-15,1987/1988,Brentford,Chesterfield,2-0,2,0,Football League Third Division,3,H
+1987-09-15,1987/1988,Bury,Grimsby Town,0-2,0,2,Football League Third Division,3,A
+1987-09-16,1987/1988,Exeter City,Carlisle United,1-1,1,1,Football League Fourth Division,4,D
+1987-09-16,1987/1988,Scarborough,Newport County,3-1,3,1,Football League Fourth Division,4,H
+1987-09-16,1987/1988,Peterborough United,Wolverhampton Wanderers,1-1,1,1,Football League Fourth Division,4,D
+1987-09-16,1987/1988,Hereford United,Colchester United,1-0,1,0,Football League Fourth Division,4,H
+1987-09-16,1987/1988,Hartlepool United,Cambridge United,2-1,2,1,Football League Fourth Division,4,H
+1987-09-16,1987/1988,Halifax Town,Swansea City,3-1,3,1,Football League Fourth Division,4,H
+1987-09-16,1987/1988,West Bromwich Albion,Aston Villa,0-2,0,2,Football League Second Division,2,A
+1987-09-16,1987/1988,Reading,Stoke City,0-1,0,1,Football League Second Division,2,A
+1987-09-16,1987/1988,Manchester City,Millwall,4-0,4,0,Football League Second Division,2,H
+1987-09-16,1987/1988,Leicester City,Oldham Athletic,4-1,4,1,Football League Second Division,2,H
+1987-09-16,1987/1988,Bradford City,Plymouth Argyle,3-1,3,1,Football League Second Division,2,H
+1987-09-16,1987/1988,Chester,Fulham,1-2,1,2,Football League Third Division,3,A
+1987-09-16,1987/1988,Bristol Rovers,York City,2-1,2,1,Football League Third Division,3,H
+1987-09-16,1987/1988,Brighton & Hove Albion,Rotherham United,1-1,1,1,Football League Third Division,3,D
+1987-09-18,1987/1988,Crewe Alexandra,Leyton Orient,3-3,3,3,Football League Fourth Division,4,D
+1987-09-18,1987/1988,Halifax Town,Tranmere Rovers,2-1,2,1,Football League Fourth Division,4,H
+1987-09-18,1987/1988,Doncaster Rovers,Chesterfield,1-0,1,0,Football League Third Division,3,H
+1987-09-19,1987/1988,Arsenal,Wimbledon,3-0,3,0,Football League First Division,1,H
+1987-09-19,1987/1988,Charlton Athletic,Luton Town,1-0,1,0,Football League First Division,1,H
+1987-09-19,1987/1988,Chelsea,Norwich City,1-0,1,0,Football League First Division,1,H
+1987-09-19,1987/1988,Coventry City,Nottingham Forest,0-3,0,3,Football League First Division,1,A
+1987-09-19,1987/1988,Derby County,Sheffield Wednesday,2-2,2,2,Football League First Division,1,D
+1987-09-19,1987/1988,Everton,Manchester United,2-1,2,1,Football League First Division,1,H
+1987-09-19,1987/1988,Oxford United,Queens Park Rangers,2-0,2,0,Football League First Division,1,H
+1987-09-19,1987/1988,Watford,Portsmouth,0-0,0,0,Football League First Division,1,D
+1987-09-19,1987/1988,West Ham United,Tottenham Hotspur,0-1,0,1,Football League First Division,1,A
+1987-09-19,1987/1988,Hartlepool United,Colchester United,3-1,3,1,Football League Fourth Division,4,H
+1987-09-19,1987/1988,Burnley,Cambridge United,0-2,0,2,Football League Fourth Division,4,A
+1987-09-19,1987/1988,Cardiff City,Carlisle United,4-2,4,2,Football League Fourth Division,4,H
+1987-09-19,1987/1988,Exeter City,Rochdale,1-1,1,1,Football League Fourth Division,4,D
+1987-09-19,1987/1988,Hereford United,Darlington,1-0,1,0,Football League Fourth Division,4,H
+1987-09-19,1987/1988,Peterborough United,Wrexham,1-0,1,0,Football League Fourth Division,4,H
+1987-09-19,1987/1988,Scarborough,Swansea City,2-0,2,0,Football League Fourth Division,4,H
+1987-09-19,1987/1988,Scunthorpe United,Newport County,3-1,3,1,Football League Fourth Division,4,H
+1987-09-19,1987/1988,Stockport County,Wolverhampton Wanderers,0-2,0,2,Football League Fourth Division,4,A
+1987-09-19,1987/1988,Torquay United,Bolton Wanderers,2-1,2,1,Football League Fourth Division,4,H
+1987-09-19,1987/1988,Manchester City,Stoke City,3-0,3,0,Football League Second Division,2,H
+1987-09-19,1987/1988,Sheffield United,Millwall,1-2,1,2,Football League Second Division,2,A
+1987-09-19,1987/1988,West Bromwich Albion,AFC Bournemouth,3-0,3,0,Football League Second Division,2,H
+1987-09-19,1987/1988,Bradford City,Blackburn Rovers,2-1,2,1,Football League Second Division,2,H
+1987-09-19,1987/1988,Huddersfield Town,Aston Villa,0-1,0,1,Football League Second Division,2,A
+1987-09-19,1987/1988,Hull City,Oldham Athletic,1-0,1,0,Football League Second Division,2,H
+1987-09-19,1987/1988,Ipswich Town,Swindon Town,3-2,3,2,Football League Second Division,2,H
+1987-09-19,1987/1988,Leicester City,Plymouth Argyle,4-0,4,0,Football League Second Division,2,H
+1987-09-19,1987/1988,Middlesbrough,Leeds United,2-0,2,0,Football League Second Division,2,H
+1987-09-19,1987/1988,Reading,Crystal Palace,2-3,2,3,Football League Second Division,2,A
+1987-09-19,1987/1988,Birmingham City,Shrewsbury Town,0-0,0,0,Football League Second Division,2,D
+1987-09-19,1987/1988,Port Vale,Fulham,1-1,1,1,Football League Third Division,3,D
+1987-09-19,1987/1988,Bristol Rovers,Northampton Town,0-2,0,2,Football League Third Division,3,A
+1987-09-19,1987/1988,Bury,Aldershot,1-0,1,0,Football League Third Division,3,H
+1987-09-19,1987/1988,Chester,Grimsby Town,1-0,1,0,Football League Third Division,3,H
+1987-09-19,1987/1988,Gillingham,York City,3-1,3,1,Football League Third Division,3,H
+1987-09-19,1987/1988,Mansfield Town,Southend United,1-0,1,0,Football League Third Division,3,H
+1987-09-19,1987/1988,Notts County,Bristol City,0-1,0,1,Football League Third Division,3,A
+1987-09-19,1987/1988,Preston North End,Rotherham United,0-0,0,0,Football League Third Division,3,D
+1987-09-19,1987/1988,Brighton & Hove Albion,Sunderland,3-1,3,1,Football League Third Division,3,H
+1987-09-19,1987/1988,Walsall,Wigan Athletic,1-2,1,2,Football League Third Division,3,A
+1987-09-19,1987/1988,Brentford,Blackpool,2-1,2,1,Football League Third Division,3,H
+1987-09-20,1987/1988,Newcastle United,Liverpool,1-4,1,4,Football League First Division,1,A
+1987-09-25,1987/1988,Colchester United,Exeter City,0-2,0,2,Football League Fourth Division,4,A
+1987-09-25,1987/1988,Tranmere Rovers,Cardiff City,0-1,0,1,Football League Fourth Division,4,A
+1987-09-26,1987/1988,Arsenal,West Ham United,1-0,1,0,Football League First Division,1,H
+1987-09-26,1987/1988,Derby County,Oxford United,0-1,0,1,Football League First Division,1,A
+1987-09-26,1987/1988,Manchester United,Tottenham Hotspur,1-0,1,0,Football League First Division,1,H
+1987-09-26,1987/1988,Newcastle United,Southampton,2-1,2,1,Football League First Division,1,H
+1987-09-26,1987/1988,Norwich City,Nottingham Forest,0-2,0,2,Football League First Division,1,A
+1987-09-26,1987/1988,Portsmouth,Wimbledon,2-1,2,1,Football League First Division,1,H
+1987-09-26,1987/1988,Queens Park Rangers,Luton Town,2-0,2,0,Football League First Division,1,H
+1987-09-26,1987/1988,Sheffield Wednesday,Charlton Athletic,2-0,2,0,Football League First Division,1,H
+1987-09-26,1987/1988,Watford,Chelsea,0-3,0,3,Football League First Division,1,A
+1987-09-26,1987/1988,Everton,Coventry City,1-2,1,2,Football League First Division,1,A
+1987-09-26,1987/1988,Bolton Wanderers,Hartlepool United,1-2,1,2,Football League Fourth Division,4,A
+1987-09-26,1987/1988,Cambridge United,Halifax Town,2-1,2,1,Football League Fourth Division,4,H
+1987-09-26,1987/1988,Carlisle United,Scarborough,4-0,4,0,Football League Fourth Division,4,H
+1987-09-26,1987/1988,Darlington,Scunthorpe United,1-4,1,4,Football League Fourth Division,4,A
+1987-09-26,1987/1988,Leyton Orient,Peterborough United,2-0,2,0,Football League Fourth Division,4,H
+1987-09-26,1987/1988,Rochdale,Burnley,2-1,2,1,Football League Fourth Division,4,H
+1987-09-26,1987/1988,Swansea City,Crewe Alexandra,2-4,2,4,Football League Fourth Division,4,A
+1987-09-26,1987/1988,Wolverhampton Wanderers,Torquay United,1-2,1,2,Football League Fourth Division,4,A
+1987-09-26,1987/1988,Wrexham,Stockport County,2-1,2,1,Football League Fourth Division,4,H
+1987-09-26,1987/1988,Stoke City,Huddersfield Town,1-1,1,1,Football League Second Division,2,D
+1987-09-26,1987/1988,Swindon Town,Reading,4-0,4,0,Football League Second Division,2,H
+1987-09-26,1987/1988,Aston Villa,Sheffield United,1-1,1,1,Football League Second Division,2,D
+1987-09-26,1987/1988,AFC Bournemouth,Leicester City,2-3,2,3,Football League Second Division,2,A
+1987-09-26,1987/1988,Plymouth Argyle,Birmingham City,1-1,1,1,Football League Second Division,2,D
+1987-09-26,1987/1988,Oldham Athletic,Barnsley,1-0,1,0,Football League Second Division,2,H
+1987-09-26,1987/1988,Millwall,West Bromwich Albion,2-0,2,0,Football League Second Division,2,H
+1987-09-26,1987/1988,Shrewsbury Town,Bradford City,2-2,2,2,Football League Second Division,2,D
+1987-09-26,1987/1988,Crystal Palace,Ipswich Town,1-2,1,2,Football League Second Division,2,A
+1987-09-26,1987/1988,Blackburn Rovers,Middlesbrough,0-2,0,2,Football League Second Division,2,A
+1987-09-26,1987/1988,Leeds United,Manchester City,2-0,2,0,Football League Second Division,2,H
+1987-09-26,1987/1988,Bristol City,Gillingham,3-3,3,3,Football League Third Division,3,D
+1987-09-26,1987/1988,Chesterfield,Notts County,2-0,2,0,Football League Third Division,3,H
+1987-09-26,1987/1988,Fulham,Bristol Rovers,3-1,3,1,Football League Third Division,3,H
+1987-09-26,1987/1988,Grimsby Town,Walsall,0-2,0,2,Football League Third Division,3,A
+1987-09-26,1987/1988,Rotherham United,Mansfield Town,2-1,2,1,Football League Third Division,3,H
+1987-09-26,1987/1988,Southend United,Brighton & Hove Albion,2-1,2,1,Football League Third Division,3,H
+1987-09-26,1987/1988,Sunderland,Chester,0-2,0,2,Football League Third Division,3,A
+1987-09-26,1987/1988,Wigan Athletic,Bury,0-2,0,2,Football League Third Division,3,A
+1987-09-26,1987/1988,York City,Doncaster Rovers,1-1,1,1,Football League Third Division,3,D
+1987-09-26,1987/1988,Blackpool,Preston North End,3-0,3,0,Football League Third Division,3,H
+1987-09-26,1987/1988,Aldershot,Brentford,4-1,4,1,Football League Third Division,3,H
+1987-09-26,1987/1988,Northampton Town,Port Vale,1-0,1,0,Football League Third Division,3,H
+1987-09-27,1987/1988,Newport County,Hereford United,0-0,0,0,Football League Fourth Division,4,D
+1987-09-28,1987/1988,Port Vale,Brighton & Hove Albion,2-0,2,0,Football League Third Division,3,H
+1987-09-29,1987/1988,Liverpool,Derby County,4-0,4,0,Football League First Division,1,H
+1987-09-29,1987/1988,Cambridge United,Wrexham,0-1,0,1,Football League Fourth Division,4,A
+1987-09-29,1987/1988,Burnley,Crewe Alexandra,0-0,0,0,Football League Fourth Division,4,D
+1987-09-29,1987/1988,Cardiff City,Halifax Town,0-0,0,0,Football League Fourth Division,4,D
+1987-09-29,1987/1988,Torquay United,Scarborough,0-1,0,1,Football League Fourth Division,4,A
+1987-09-29,1987/1988,Colchester United,Swansea City,2-1,2,1,Football League Fourth Division,4,H
+1987-09-29,1987/1988,Leyton Orient,Newport County,4-1,4,1,Football League Fourth Division,4,H
+1987-09-29,1987/1988,Scunthorpe United,Stockport County,0-0,0,0,Football League Fourth Division,4,D
+1987-09-29,1987/1988,Wolverhampton Wanderers,Rochdale,2-0,2,0,Football League Fourth Division,4,H
+1987-09-29,1987/1988,Carlisle United,Darlington,3-3,3,3,Football League Fourth Division,4,D
+1987-09-29,1987/1988,Hull City,Manchester City,3-1,3,1,Football League Second Division,2,H
+1987-09-29,1987/1988,Swindon Town,Shrewsbury Town,1-1,1,1,Football League Second Division,2,D
+1987-09-29,1987/1988,Oldham Athletic,Millwall,0-0,0,0,Football League Second Division,2,D
+1987-09-29,1987/1988,Middlesbrough,Reading,0-0,0,0,Football League Second Division,2,D
+1987-09-29,1987/1988,Huddersfield Town,Bradford City,1-2,1,2,Football League Second Division,2,A
+1987-09-29,1987/1988,Barnsley,Sheffield United,1-2,1,2,Football League Second Division,2,A
+1987-09-29,1987/1988,AFC Bournemouth,Plymouth Argyle,2-2,2,2,Football League Second Division,2,D
+1987-09-29,1987/1988,Rotherham United,Grimsby Town,0-0,0,0,Football League Third Division,3,D
+1987-09-29,1987/1988,Southend United,Northampton Town,1-1,1,1,Football League Third Division,3,D
+1987-09-29,1987/1988,York City,Blackpool,1-3,1,3,Football League Third Division,3,A
+1987-09-29,1987/1988,Preston North End,Brentford,1-2,1,2,Football League Third Division,3,A
+1987-09-29,1987/1988,Notts County,Bristol Rovers,1-1,1,1,Football League Third Division,3,D
+1987-09-29,1987/1988,Gillingham,Chester,0-1,0,1,Football League Third Division,3,A
+1987-09-29,1987/1988,Fulham,Sunderland,0-2,0,2,Football League Third Division,3,A
+1987-09-29,1987/1988,Bury,Walsall,2-2,2,2,Football League Third Division,3,D
+1987-09-29,1987/1988,Bristol City,Chesterfield,2-1,2,1,Football League Third Division,3,H
+1987-09-29,1987/1988,Aldershot,Wigan Athletic,3-2,3,2,Football League Third Division,3,H
+1987-09-29,1987/1988,Mansfield Town,Doncaster Rovers,2-0,2,0,Football League Third Division,3,H
+1987-09-30,1987/1988,Hereford United,Peterborough United,0-1,0,1,Football League Fourth Division,4,A
+1987-09-30,1987/1988,Hartlepool United,Exeter City,3-1,3,1,Football League Fourth Division,4,H
+1987-09-30,1987/1988,West Bromwich Albion,Birmingham City,3-1,3,1,Football League Second Division,2,H
+1987-09-30,1987/1988,Leeds United,Stoke City,0-0,0,0,Football League Second Division,2,D
+1987-09-30,1987/1988,Aston Villa,Blackburn Rovers,1-1,1,1,Football League Second Division,2,D
+1987-09-30,1987/1988,Leicester City,Ipswich Town,1-1,1,1,Football League Second Division,2,D
+1987-10-02,1987/1988,Stockport County,Cardiff City,0-1,0,1,Football League Fourth Division,4,A
+1987-10-03,1987/1988,Charlton Athletic,Arsenal,0-3,0,3,Football League First Division,1,A
+1987-10-03,1987/1988,Coventry City,Watford,1-0,1,0,Football League First Division,1,H
+1987-10-03,1987/1988,Liverpool,Portsmouth,4-0,4,0,Football League First Division,1,H
+1987-10-03,1987/1988,Luton Town,Manchester United,1-1,1,1,Football League First Division,1,D
+1987-10-03,1987/1988,Oxford United,Norwich City,3-0,3,0,Football League First Division,1,H
+1987-10-03,1987/1988,Southampton,Everton,0-4,0,4,Football League First Division,1,A
+1987-10-03,1987/1988,Tottenham Hotspur,Sheffield Wednesday,2-0,2,0,Football League First Division,1,H
+1987-10-03,1987/1988,West Ham United,Derby County,1-1,1,1,Football League First Division,1,D
+1987-10-03,1987/1988,Wimbledon,Queens Park Rangers,1-2,1,2,Football League First Division,1,A
+1987-10-03,1987/1988,Chelsea,Newcastle United,2-2,2,2,Football League First Division,1,D
+1987-10-03,1987/1988,Bolton Wanderers,Wolverhampton Wanderers,1-0,1,0,Football League Fourth Division,4,H
+1987-10-03,1987/1988,Wrexham,Leyton Orient,2-2,2,2,Football League Fourth Division,4,D
+1987-10-03,1987/1988,Darlington,Tranmere Rovers,0-0,0,0,Football League Fourth Division,4,D
+1987-10-03,1987/1988,Exeter City,Torquay United,0-1,0,1,Football League Fourth Division,4,A
+1987-10-03,1987/1988,Halifax Town,Hereford United,2-1,2,1,Football League Fourth Division,4,H
+1987-10-03,1987/1988,Newport County,Colchester United,1-2,1,2,Football League Fourth Division,4,A
+1987-10-03,1987/1988,Peterborough United,Scunthorpe United,1-1,1,1,Football League Fourth Division,4,D
+1987-10-03,1987/1988,Rochdale,Carlisle United,1-2,1,2,Football League Fourth Division,4,A
+1987-10-03,1987/1988,Scarborough,Burnley,1-0,1,0,Football League Fourth Division,4,H
+1987-10-03,1987/1988,Swansea City,Cambridge United,1-1,1,1,Football League Fourth Division,4,D
+1987-10-03,1987/1988,Crewe Alexandra,Hartlepool United,1-1,1,1,Football League Fourth Division,4,D
+1987-10-03,1987/1988,Stoke City,AFC Bournemouth,1-0,1,0,Football League Second Division,2,H
+1987-10-03,1987/1988,Birmingham City,Huddersfield Town,2-0,2,0,Football League Second Division,2,H
+1987-10-03,1987/1988,Bradford City,Middlesbrough,2-0,2,0,Football League Second Division,2,H
+1987-10-03,1987/1988,Blackburn Rovers,Leeds United,1-1,1,1,Football League Second Division,2,D
+1987-10-03,1987/1988,Shrewsbury Town,Crystal Palace,2-0,2,0,Football League Second Division,2,H
+1987-10-03,1987/1988,Sheffield United,Hull City,2-1,2,1,Football League Second Division,2,H
+1987-10-03,1987/1988,Reading,West Bromwich Albion,1-2,1,2,Football League Second Division,2,A
+1987-10-03,1987/1988,Millwall,Swindon Town,2-2,2,2,Football League Second Division,2,D
+1987-10-03,1987/1988,Manchester City,Leicester City,4-2,4,2,Football League Second Division,2,H
+1987-10-03,1987/1988,Ipswich Town,Barnsley,1-0,1,0,Football League Second Division,2,H
+1987-10-03,1987/1988,Plymouth Argyle,Aston Villa,1-3,1,3,Football League Second Division,2,A
+1987-10-03,1987/1988,Wigan Athletic,York City,1-1,1,1,Football League Third Division,3,D
+1987-10-03,1987/1988,Chester,Notts County,1-2,1,2,Football League Third Division,3,A
+1987-10-03,1987/1988,Chesterfield,Rotherham United,3-2,3,2,Football League Third Division,3,H
+1987-10-03,1987/1988,Doncaster Rovers,Gillingham,4-2,4,2,Football League Third Division,3,H
+1987-10-03,1987/1988,Grimsby Town,Southend United,1-3,1,3,Football League Third Division,3,A
+1987-10-03,1987/1988,Northampton Town,Bristol City,3-0,3,0,Football League Third Division,3,H
+1987-10-03,1987/1988,Sunderland,Aldershot,3-1,3,1,Football League Third Division,3,H
+1987-10-03,1987/1988,Walsall,Preston North End,1-0,1,0,Football League Third Division,3,H
+1987-10-03,1987/1988,Bristol Rovers,Mansfield Town,2-1,2,1,Football League Third Division,3,H
+1987-10-03,1987/1988,Brentford,Port Vale,1-0,1,0,Football League Third Division,3,H
+1987-10-03,1987/1988,Brighton & Hove Albion,Bury,2-1,2,1,Football League Third Division,3,H
+1987-10-03,1987/1988,Blackpool,Fulham,2-1,2,1,Football League Third Division,3,H
+1987-10-09,1987/1988,Colchester United,Leyton Orient,0-0,0,0,Football League Fourth Division,4,D
+1987-10-09,1987/1988,Tranmere Rovers,Rochdale,6-1,6,1,Football League Fourth Division,4,H
+1987-10-10,1987/1988,Arsenal,Oxford United,2-0,2,0,Football League First Division,1,H
+1987-10-10,1987/1988,Derby County,Nottingham Forest,0-1,0,1,Football League First Division,1,A
+1987-10-10,1987/1988,Everton,Chelsea,4-1,4,1,Football League First Division,1,H
+1987-10-10,1987/1988,Norwich City,Tottenham Hotspur,2-1,2,1,Football League First Division,1,H
+1987-10-10,1987/1988,Portsmouth,Luton Town,3-1,3,1,Football League First Division,1,H
+1987-10-10,1987/1988,Sheffield Wednesday,Manchester United,2-4,2,4,Football League First Division,1,A
+1987-10-10,1987/1988,West Ham United,Charlton Athletic,1-1,1,1,Football League First Division,1,D
+1987-10-10,1987/1988,Burnley,Hartlepool United,1-0,1,0,Football League Fourth Division,4,H
+1987-10-10,1987/1988,Cambridge United,Newport County,4-0,4,0,Football League Fourth Division,4,H
+1987-10-10,1987/1988,Stockport County,Peterborough United,0-1,0,1,Football League Fourth Division,4,A
+1987-10-10,1987/1988,Carlisle United,Wolverhampton Wanderers,0-1,0,1,Football League Fourth Division,4,A
+1987-10-10,1987/1988,Darlington,Bolton Wanderers,1-0,1,0,Football League Fourth Division,4,H
+1987-10-10,1987/1988,Scarborough,Exeter City,3-1,3,1,Football League Fourth Division,4,H
+1987-10-10,1987/1988,Scunthorpe United,Halifax Town,1-0,1,0,Football League Fourth Division,4,H
+1987-10-10,1987/1988,Swansea City,Wrexham,2-1,2,1,Football League Fourth Division,4,H
+1987-10-10,1987/1988,Torquay United,Crewe Alexandra,1-0,1,0,Football League Fourth Division,4,H
+1987-10-10,1987/1988,Cardiff City,Hereford United,0-1,0,1,Football League Fourth Division,4,A
+1987-10-10,1987/1988,West Bromwich Albion,Bradford City,0-1,0,1,Football League Second Division,2,A
+1987-10-10,1987/1988,Swindon Town,Oldham Athletic,2-0,2,0,Football League Second Division,2,H
+1987-10-10,1987/1988,AFC Bournemouth,Blackburn Rovers,1-1,1,1,Football League Second Division,2,D
+1987-10-10,1987/1988,Crystal Palace,Millwall,1-0,1,0,Football League Second Division,2,H
+1987-10-10,1987/1988,Huddersfield Town,Middlesbrough,1-4,1,4,Football League Second Division,2,A
+1987-10-10,1987/1988,Hull City,Ipswich Town,1-0,1,0,Football League Second Division,2,H
+1987-10-10,1987/1988,Leeds United,Aston Villa,1-3,1,3,Football League Second Division,2,A
+1987-10-10,1987/1988,Leicester City,Barnsley,0-0,0,0,Football League Second Division,2,D
+1987-10-10,1987/1988,Manchester City,Sheffield United,2-3,2,3,Football League Second Division,2,A
+1987-10-10,1987/1988,Stoke City,Plymouth Argyle,1-0,1,0,Football League Second Division,2,H
+1987-10-10,1987/1988,Birmingham City,Reading,2-2,2,2,Football League Second Division,2,D
+1987-10-10,1987/1988,Chesterfield,Grimsby Town,0-3,0,3,Football League Third Division,3,A
+1987-10-10,1987/1988,Fulham,York City,3-1,3,1,Football League Third Division,3,H
+1987-10-10,1987/1988,Gillingham,Bristol Rovers,3-0,3,0,Football League Third Division,3,H
+1987-10-10,1987/1988,Preston North End,Port Vale,3-2,3,2,Football League Third Division,3,H
+1987-10-10,1987/1988,Sunderland,Wigan Athletic,4-1,4,1,Football League Third Division,3,H
+1987-10-10,1987/1988,Walsall,Brighton & Hove Albion,1-1,1,1,Football League Third Division,3,D
+1987-10-10,1987/1988,Bury,Brentford,2-2,2,2,Football League Third Division,3,D
+1987-10-10,1987/1988,Bristol City,Southend United,3-2,3,2,Football League Third Division,3,H
+1987-10-11,1987/1988,Notts County,Mansfield Town,1-1,1,1,Football League Third Division,3,D
+1987-10-11,1987/1988,Rotherham United,Northampton Town,2-2,2,2,Football League Third Division,3,D
+1987-10-16,1987/1988,Halifax Town,Stockport County,2-0,2,0,Football League Fourth Division,4,H
+1987-10-16,1987/1988,Southend United,Rotherham United,1-1,1,1,Football League Third Division,3,D
+1987-10-17,1987/1988,Charlton Athletic,Derby County,0-1,0,1,Football League First Division,1,A
+1987-10-17,1987/1988,Liverpool,Queens Park Rangers,4-0,4,0,Football League First Division,1,H
+1987-10-17,1987/1988,Luton Town,Wimbledon,2-0,2,0,Football League First Division,1,H
+1987-10-17,1987/1988,Manchester United,Norwich City,2-1,2,1,Football League First Division,1,H
+1987-10-17,1987/1988,Newcastle United,Everton,1-1,1,1,Football League First Division,1,D
+1987-10-17,1987/1988,Nottingham Forest,Sheffield Wednesday,3-0,3,0,Football League First Division,1,H
+1987-10-17,1987/1988,Oxford United,West Ham United,1-2,1,2,Football League First Division,1,A
+1987-10-17,1987/1988,Southampton,Watford,1-0,1,0,Football League First Division,1,H
+1987-10-17,1987/1988,Chelsea,Coventry City,1-0,1,0,Football League First Division,1,H
+1987-10-17,1987/1988,Bolton Wanderers,Carlisle United,5-0,5,0,Football League Fourth Division,4,H
+1987-10-17,1987/1988,Exeter City,Burnley,1-2,1,2,Football League Fourth Division,4,A
+1987-10-17,1987/1988,Hartlepool United,Torquay United,0-0,0,0,Football League Fourth Division,4,D
+1987-10-17,1987/1988,Hereford United,Scunthorpe United,2-3,2,3,Football League Fourth Division,4,A
+1987-10-17,1987/1988,Leyton Orient,Cambridge United,0-2,0,2,Football League Fourth Division,4,A
+1987-10-17,1987/1988,Peterborough United,Cardiff City,4-3,4,3,Football League Fourth Division,4,H
+1987-10-17,1987/1988,Rochdale,Darlington,1-3,1,3,Football League Fourth Division,4,A
+1987-10-17,1987/1988,Swansea City,Newport County,1-2,1,2,Football League Fourth Division,4,A
+1987-10-17,1987/1988,Wolverhampton Wanderers,Tranmere Rovers,3-0,3,0,Football League Fourth Division,4,H
+1987-10-17,1987/1988,Crewe Alexandra,Scarborough,1-0,1,0,Football League Fourth Division,4,H
+1987-10-17,1987/1988,Wrexham,Colchester United,0-1,0,1,Football League Fourth Division,4,A
+1987-10-17,1987/1988,Sheffield United,Leicester City,2-1,2,1,Football League Second Division,2,H
+1987-10-17,1987/1988,Barnsley,Hull City,1-3,1,3,Football League Second Division,2,A
+1987-10-17,1987/1988,Aston Villa,AFC Bournemouth,1-1,1,1,Football League Second Division,2,D
+1987-10-17,1987/1988,Plymouth Argyle,Leeds United,6-3,6,3,Football League Second Division,2,H
+1987-10-17,1987/1988,Millwall,Shrewsbury Town,4-1,4,1,Football League Second Division,2,H
+1987-10-17,1987/1988,Reading,Huddersfield Town,3-2,3,2,Football League Second Division,2,H
+1987-10-17,1987/1988,Ipswich Town,Manchester City,3-0,3,0,Football League Second Division,2,H
+1987-10-17,1987/1988,Bradford City,Birmingham City,4-0,4,0,Football League Second Division,2,H
+1987-10-17,1987/1988,Blackburn Rovers,Stoke City,2-0,2,0,Football League Second Division,2,H
+1987-10-17,1987/1988,Middlesbrough,West Bromwich Albion,2-1,2,1,Football League Second Division,2,H
+1987-10-17,1987/1988,Brighton & Hove Albion,Preston North End,0-0,0,0,Football League Third Division,3,D
+1987-10-17,1987/1988,Bristol Rovers,Chester,2-2,2,2,Football League Third Division,3,D
+1987-10-17,1987/1988,Doncaster Rovers,Notts County,0-1,0,1,Football League Third Division,3,A
+1987-10-17,1987/1988,Grimsby Town,Bristol City,1-4,1,4,Football League Third Division,3,A
+1987-10-17,1987/1988,Mansfield Town,Gillingham,2-2,2,2,Football League Third Division,3,D
+1987-10-17,1987/1988,Northampton Town,Chesterfield,4-0,4,0,Football League Third Division,3,H
+1987-10-17,1987/1988,Port Vale,Bury,1-0,1,0,Football League Third Division,3,H
+1987-10-17,1987/1988,Wigan Athletic,Fulham,1-3,1,3,Football League Third Division,3,A
+1987-10-17,1987/1988,York City,Aldershot,2-2,2,2,Football League Third Division,3,D
+1987-10-17,1987/1988,Brentford,Walsall,0-0,0,0,Football League Third Division,3,D
+1987-10-17,1987/1988,Blackpool,Sunderland,0-2,0,2,Football League Third Division,3,A
+1987-10-18,1987/1988,Tottenham Hotspur,Arsenal,1-2,1,2,Football League First Division,1,A
+1987-10-19,1987/1988,Port Vale,Bristol Rovers,2-1,2,1,Football League Third Division,3,H
+1987-10-20,1987/1988,Coventry City,Southampton,2-3,2,3,Football League First Division,1,A
+1987-10-20,1987/1988,Burnley,Scunthorpe United,1-1,1,1,Football League Fourth Division,4,D
+1987-10-20,1987/1988,Bolton Wanderers,Exeter City,1-0,1,0,Football League Fourth Division,4,H
+1987-10-20,1987/1988,Cardiff City,Torquay United,2-1,2,1,Football League Fourth Division,4,H
+1987-10-20,1987/1988,Wolverhampton Wanderers,Cambridge United,3-0,3,0,Football League Fourth Division,4,H
+1987-10-20,1987/1988,Crewe Alexandra,Stockport County,3-1,3,1,Football League Fourth Division,4,H
+1987-10-20,1987/1988,Leyton Orient,Rochdale,8-0,8,0,Football League Fourth Division,4,H
+1987-10-20,1987/1988,Tranmere Rovers,Swansea City,1-2,1,2,Football League Fourth Division,4,A
+1987-10-20,1987/1988,Wrexham,Darlington,0-1,0,1,Football League Fourth Division,4,A
+1987-10-20,1987/1988,Colchester United,Carlisle United,1-0,1,0,Football League Fourth Division,4,H
+1987-10-20,1987/1988,AFC Bournemouth,Shrewsbury Town,2-0,2,0,Football League Second Division,2,H
+1987-10-20,1987/1988,Barnsley,Reading,5-2,5,2,Football League Second Division,2,H
+1987-10-20,1987/1988,Huddersfield Town,Hull City,0-2,0,2,Football League Second Division,2,A
+1987-10-20,1987/1988,Oldham Athletic,Leeds United,1-1,1,1,Football League Second Division,2,D
+1987-10-20,1987/1988,Plymouth Argyle,Millwall,1-2,1,2,Football League Second Division,2,A
+1987-10-20,1987/1988,Middlesbrough,Ipswich Town,3-1,3,1,Football League Second Division,2,H
+1987-10-20,1987/1988,Swindon Town,Stoke City,3-0,3,0,Football League Second Division,2,H
+1987-10-20,1987/1988,Sheffield United,Birmingham City,0-2,0,2,Football League Second Division,2,A
+1987-10-20,1987/1988,Preston North End,Gillingham,1-1,1,1,Football League Third Division,3,D
+1987-10-20,1987/1988,Wigan Athletic,Brighton & Hove Albion,3-3,3,3,Football League Third Division,3,D
+1987-10-20,1987/1988,York City,Rotherham United,1-2,1,2,Football League Third Division,3,A
+1987-10-20,1987/1988,Notts County,Bury,3-0,3,0,Football League Third Division,3,H
+1987-10-20,1987/1988,Mansfield Town,Northampton Town,3-1,3,1,Football League Third Division,3,H
+1987-10-20,1987/1988,Southend United,Fulham,0-2,0,2,Football League Third Division,3,A
+1987-10-20,1987/1988,Doncaster Rovers,Walsall,0-4,0,4,Football League Third Division,3,A
+1987-10-20,1987/1988,Aldershot,Chesterfield,2-0,2,0,Football League Third Division,3,H
+1987-10-20,1987/1988,Brentford,Chester,1-1,1,1,Football League Third Division,3,D
+1987-10-20,1987/1988,Grimsby Town,Blackpool,1-1,1,1,Football League Third Division,3,D
+1987-10-20,1987/1988,Bristol City,Sunderland,0-1,0,1,Football League Third Division,3,A
+1987-10-21,1987/1988,Hereford United,Scarborough,1-1,1,1,Football League Fourth Division,4,D
+1987-10-21,1987/1988,Hartlepool United,Halifax Town,2-1,2,1,Football League Fourth Division,4,H
+1987-10-21,1987/1988,Peterborough United,Newport County,3-0,3,0,Football League Fourth Division,4,H
+1987-10-21,1987/1988,Aston Villa,Crystal Palace,4-1,4,1,Football League Second Division,2,H
+1987-10-21,1987/1988,Bradford City,Manchester City,2-4,2,4,Football League Second Division,2,A
+1987-10-21,1987/1988,Leicester City,West Bromwich Albion,3-0,3,0,Football League Second Division,2,H
+1987-10-23,1987/1988,Stockport County,Hereford United,0-2,0,2,Football League Fourth Division,4,A
+1987-10-24,1987/1988,Nottingham Forest,Tottenham Hotspur,3-0,3,0,Football League First Division,1,H
+1987-10-24,1987/1988,Arsenal,Derby County,2-1,2,1,Football League First Division,1,H
+1987-10-24,1987/1988,Coventry City,Newcastle United,1-3,1,3,Football League First Division,1,A
+1987-10-24,1987/1988,Everton,Watford,2-0,2,0,Football League First Division,1,H
+1987-10-24,1987/1988,Luton Town,Liverpool,0-1,0,1,Football League First Division,1,A
+1987-10-24,1987/1988,Oxford United,Charlton Athletic,2-1,2,1,Football League First Division,1,H
+1987-10-24,1987/1988,Queens Park Rangers,Portsmouth,2-1,2,1,Football League First Division,1,H
+1987-10-24,1987/1988,Sheffield Wednesday,Norwich City,1-0,1,0,Football League First Division,1,H
+1987-10-24,1987/1988,Southampton,Chelsea,3-0,3,0,Football League First Division,1,H
+1987-10-24,1987/1988,Swansea City,Leyton Orient,3-0,3,0,Football League Fourth Division,4,H
+1987-10-24,1987/1988,Cambridge United,Colchester United,0-1,0,1,Football League Fourth Division,4,A
+1987-10-24,1987/1988,Darlington,Wolverhampton Wanderers,2-2,2,2,Football League Fourth Division,4,D
+1987-10-24,1987/1988,Exeter City,Crewe Alexandra,3-1,3,1,Football League Fourth Division,4,H
+1987-10-24,1987/1988,Halifax Town,Peterborough United,0-0,0,0,Football League Fourth Division,4,D
+1987-10-24,1987/1988,Newport County,Wrexham,2-0,2,0,Football League Fourth Division,4,H
+1987-10-24,1987/1988,Torquay United,Burnley,1-3,1,3,Football League Fourth Division,4,A
+1987-10-24,1987/1988,Rochdale,Bolton Wanderers,2-2,2,2,Football League Fourth Division,4,D
+1987-10-24,1987/1988,Scarborough,Hartlepool United,1-1,1,1,Football League Fourth Division,4,D
+1987-10-24,1987/1988,Scunthorpe United,Cardiff City,2-1,2,1,Football League Fourth Division,4,H
+1987-10-24,1987/1988,Carlisle United,Tranmere Rovers,3-2,3,2,Football League Fourth Division,4,H
+1987-10-24,1987/1988,Blackburn Rovers,Plymouth Argyle,1-1,1,1,Football League Second Division,2,D
+1987-10-24,1987/1988,Birmingham City,Middlesbrough,0-0,0,0,Football League Second Division,2,D
+1987-10-24,1987/1988,Hull City,Leicester City,2-2,2,2,Football League Second Division,2,D
+1987-10-24,1987/1988,Ipswich Town,Sheffield United,1-0,1,0,Football League Second Division,2,H
+1987-10-24,1987/1988,Leeds United,AFC Bournemouth,3-2,3,2,Football League Second Division,2,H
+1987-10-24,1987/1988,Manchester City,Barnsley,1-1,1,1,Football League Second Division,2,D
+1987-10-24,1987/1988,Reading,Bradford City,1-1,1,1,Football League Second Division,2,D
+1987-10-24,1987/1988,Shrewsbury Town,Oldham Athletic,2-3,2,3,Football League Second Division,2,A
+1987-10-24,1987/1988,Stoke City,Aston Villa,0-0,0,0,Football League Second Division,2,D
+1987-10-24,1987/1988,West Bromwich Albion,Huddersfield Town,3-2,3,2,Football League Second Division,2,H
+1987-10-24,1987/1988,Crystal Palace,Swindon Town,2-1,2,1,Football League Second Division,2,H
+1987-10-24,1987/1988,Chester,Mansfield Town,0-2,0,2,Football League Third Division,3,A
+1987-10-24,1987/1988,Chesterfield,Southend United,3-1,3,1,Football League Third Division,3,H
+1987-10-24,1987/1988,Fulham,Aldershot,1-2,1,2,Football League Third Division,3,A
+1987-10-24,1987/1988,Gillingham,Notts County,3-1,3,1,Football League Third Division,3,H
+1987-10-24,1987/1988,Northampton Town,Grimsby Town,2-1,2,1,Football League Third Division,3,H
+1987-10-24,1987/1988,Rotherham United,Bristol City,4-1,4,1,Football League Third Division,3,H
+1987-10-24,1987/1988,Sunderland,York City,4-2,4,2,Football League Third Division,3,H
+1987-10-24,1987/1988,Walsall,Port Vale,2-1,2,1,Football League Third Division,3,H
+1987-10-24,1987/1988,Bury,Preston North End,4-0,4,0,Football League Third Division,3,H
+1987-10-24,1987/1988,Bristol Rovers,Doncaster Rovers,4-0,4,0,Football League Third Division,3,H
+1987-10-24,1987/1988,Blackpool,Wigan Athletic,0-0,0,0,Football League Third Division,3,D
+1987-10-24,1987/1988,Brighton & Hove Albion,Brentford,2-1,2,1,Football League Third Division,3,H
+1987-10-25,1987/1988,West Ham United,Manchester United,1-1,1,1,Football League First Division,1,D
+1987-10-30,1987/1988,Tranmere Rovers,Cambridge United,0-1,0,1,Football League Fourth Division,4,A
+1987-10-30,1987/1988,Colchester United,Darlington,2-1,2,1,Football League Fourth Division,4,H
+1987-10-30,1987/1988,Southend United,Walsall,1-1,1,1,Football League Third Division,3,D
+1987-10-31,1987/1988,Portsmouth,Sheffield Wednesday,1-2,1,2,Football League First Division,1,A
+1987-10-31,1987/1988,Charlton Athletic,Southampton,1-1,1,1,Football League First Division,1,D
+1987-10-31,1987/1988,Chelsea,Oxford United,2-1,2,1,Football League First Division,1,H
+1987-10-31,1987/1988,Derby County,Coventry City,2-0,2,0,Football League First Division,1,H
+1987-10-31,1987/1988,Newcastle United,Arsenal,0-1,0,1,Football League First Division,1,A
+1987-10-31,1987/1988,Norwich City,Queens Park Rangers,1-1,1,1,Football League First Division,1,D
+1987-10-31,1987/1988,Tottenham Hotspur,Wimbledon,0-3,0,3,Football League First Division,1,A
+1987-10-31,1987/1988,Watford,West Ham United,1-2,1,2,Football League First Division,1,A
+1987-10-31,1987/1988,Manchester United,Nottingham Forest,2-2,2,2,Football League First Division,1,D
+1987-10-31,1987/1988,Bolton Wanderers,Swansea City,1-1,1,1,Football League Fourth Division,4,D
+1987-10-31,1987/1988,Cardiff City,Rochdale,1-0,1,0,Football League Fourth Division,4,H
+1987-10-31,1987/1988,Crewe Alexandra,Carlisle United,4-1,4,1,Football League Fourth Division,4,H
+1987-10-31,1987/1988,Hartlepool United,Scunthorpe United,1-0,1,0,Football League Fourth Division,4,H
+1987-10-31,1987/1988,Hereford United,Exeter City,1-1,1,1,Football League Fourth Division,4,D
+1987-10-31,1987/1988,Leyton Orient,Halifax Town,4-1,4,1,Football League Fourth Division,4,H
+1987-10-31,1987/1988,Peterborough United,Torquay United,0-2,0,2,Football League Fourth Division,4,A
+1987-10-31,1987/1988,Wolverhampton Wanderers,Newport County,2-1,2,1,Football League Fourth Division,4,H
+1987-10-31,1987/1988,Wrexham,Scarborough,1-0,1,0,Football League Fourth Division,4,H
+1987-10-31,1987/1988,Burnley,Stockport County,1-1,1,1,Football League Fourth Division,4,D
+1987-10-31,1987/1988,Sheffield United,Leeds United,2-2,2,2,Football League Second Division,2,D
+1987-10-31,1987/1988,Swindon Town,Manchester City,3-4,3,4,Football League Second Division,2,A
+1987-10-31,1987/1988,Aston Villa,Reading,2-1,2,1,Football League Second Division,2,H
+1987-10-31,1987/1988,Barnsley,Stoke City,5-2,5,2,Football League Second Division,2,H
+1987-10-31,1987/1988,Bradford City,Crystal Palace,2-0,2,0,Football League Second Division,2,H
+1987-10-31,1987/1988,Huddersfield Town,Millwall,2-1,2,1,Football League Second Division,2,H
+1987-10-31,1987/1988,Leicester City,Blackburn Rovers,1-2,1,2,Football League Second Division,2,A
+1987-10-31,1987/1988,Middlesbrough,Shrewsbury Town,4-0,4,0,Football League Second Division,2,H
+1987-10-31,1987/1988,Oldham Athletic,Birmingham City,1-2,1,2,Football League Second Division,2,A
+1987-10-31,1987/1988,Plymouth Argyle,Hull City,3-1,3,1,Football League Second Division,2,H
+1987-10-31,1987/1988,AFC Bournemouth,Ipswich Town,1-1,1,1,Football League Second Division,2,D
+1987-10-31,1987/1988,Brentford,Bristol Rovers,1-1,1,1,Football League Third Division,3,D
+1987-10-31,1987/1988,Doncaster Rovers,Bury,1-2,1,2,Football League Third Division,3,A
+1987-10-31,1987/1988,Grimsby Town,Brighton & Hove Albion,0-1,0,1,Football League Third Division,3,A
+1987-10-31,1987/1988,Mansfield Town,Blackpool,0-0,0,0,Football League Third Division,3,D
+1987-10-31,1987/1988,Notts County,Sunderland,2-1,2,1,Football League Third Division,3,H
+1987-10-31,1987/1988,Port Vale,Gillingham,0-0,0,0,Football League Third Division,3,D
+1987-10-31,1987/1988,Preston North End,Chester,1-1,1,1,Football League Third Division,3,D
+1987-10-31,1987/1988,Wigan Athletic,Rotherham United,3-0,3,0,Football League Third Division,3,H
+1987-10-31,1987/1988,York City,Chesterfield,1-0,1,0,Football League Third Division,3,H
+1987-10-31,1987/1988,Aldershot,Northampton Town,4-4,4,4,Football League Third Division,3,D
+1987-11-01,1987/1988,Liverpool,Everton,2-0,2,0,Football League First Division,1,H
+1987-11-03,1987/1988,Arsenal,Chelsea,3-1,3,1,Football League First Division,1,H
+1987-11-03,1987/1988,Cambridge United,Hereford United,0-1,0,1,Football League Fourth Division,4,A
+1987-11-03,1987/1988,Carlisle United,Leyton Orient,1-2,1,2,Football League Fourth Division,4,A
+1987-11-03,1987/1988,Halifax Town,Burnley,2-1,2,1,Football League Fourth Division,4,H
+1987-11-03,1987/1988,Newport County,Bolton Wanderers,0-1,0,1,Football League Fourth Division,4,A
+1987-11-03,1987/1988,Torquay United,Tranmere Rovers,1-0,1,0,Football League Fourth Division,4,H
+1987-11-03,1987/1988,Scunthorpe United,Wrexham,3-1,3,1,Football League Fourth Division,4,H
+1987-11-03,1987/1988,Stockport County,Hartlepool United,1-0,1,0,Football League Fourth Division,4,H
+1987-11-03,1987/1988,Swansea City,Wolverhampton Wanderers,1-2,1,2,Football League Fourth Division,4,A
+1987-11-03,1987/1988,Rochdale,Colchester United,1-4,1,4,Football League Fourth Division,4,A
+1987-11-03,1987/1988,Darlington,Crewe Alexandra,1-0,1,0,Football League Fourth Division,4,H
+1987-11-03,1987/1988,Shrewsbury Town,Aston Villa,1-2,1,2,Football League Second Division,2,A
+1987-11-03,1987/1988,Millwall,AFC Bournemouth,1-2,1,2,Football League Second Division,2,A
+1987-11-03,1987/1988,Ipswich Town,Huddersfield Town,3-0,3,0,Football League Second Division,2,H
+1987-11-03,1987/1988,Hull City,Bradford City,0-0,0,0,Football League Second Division,2,D
+1987-11-03,1987/1988,Crystal Palace,Plymouth Argyle,5-1,5,1,Football League Second Division,2,H
+1987-11-03,1987/1988,Birmingham City,Barnsley,2-0,2,0,Football League Second Division,2,H
+1987-11-03,1987/1988,Walsall,Aldershot,2-0,2,0,Football League Third Division,3,H
+1987-11-03,1987/1988,Sunderland,Southend United,7-0,7,0,Football League Third Division,3,H
+1987-11-03,1987/1988,Rotherham United,Notts County,1-1,1,1,Football League Third Division,3,D
+1987-11-03,1987/1988,Fulham,Grimsby Town,5-0,5,0,Football League Third Division,3,H
+1987-11-03,1987/1988,Chesterfield,Wigan Athletic,0-1,0,1,Football League Third Division,3,A
+1987-11-03,1987/1988,Bury,Mansfield Town,1-0,1,0,Football League Third Division,3,H
+1987-11-03,1987/1988,Blackpool,Bristol City,4-2,4,2,Football League Third Division,3,H
+1987-11-03,1987/1988,Gillingham,Brentford,0-1,0,1,Football League Third Division,3,A
+1987-11-04,1987/1988,Wimbledon,Liverpool,1-1,1,1,Football League First Division,1,D
+1987-11-04,1987/1988,Portsmouth,Tottenham Hotspur,0-0,0,0,Football League First Division,1,D
+1987-11-04,1987/1988,Scarborough,Cardiff City,1-1,1,1,Football League Fourth Division,4,D
+1987-11-04,1987/1988,Manchester City,Middlesbrough,1-1,1,1,Football League Second Division,2,D
+1987-11-04,1987/1988,West Bromwich Albion,Sheffield United,4-0,4,0,Football League Second Division,2,H
+1987-11-04,1987/1988,Northampton Town,York City,0-0,0,0,Football League Third Division,3,D
+1987-11-04,1987/1988,Chester,Port Vale,1-0,1,0,Football League Third Division,3,H
+1987-11-04,1987/1988,Bristol Rovers,Preston North End,1-2,1,2,Football League Third Division,3,A
+1987-11-04,1987/1988,Brighton & Hove Albion,Doncaster Rovers,2-0,2,0,Football League Third Division,3,H
+1987-11-06,1987/1988,Halifax Town,Colchester United,1-2,1,2,Football League Fourth Division,4,A
+1987-11-06,1987/1988,Stockport County,Torquay United,2-1,2,1,Football League Fourth Division,4,H
+1987-11-06,1987/1988,Tranmere Rovers,Wrexham,1-0,1,0,Football League Fourth Division,4,H
+1987-11-07,1987/1988,Charlton Athletic,Norwich City,2-0,2,0,Football League First Division,1,H
+1987-11-07,1987/1988,Luton Town,Newcastle United,4-0,4,0,Football League First Division,1,H
+1987-11-07,1987/1988,Oxford United,Coventry City,1-0,1,0,Football League First Division,1,H
+1987-11-07,1987/1988,West Ham United,Sheffield Wednesday,0-1,0,1,Football League First Division,1,A
+1987-11-07,1987/1988,Wimbledon,Southampton,2-0,2,0,Football League First Division,1,H
+1987-11-07,1987/1988,Queens Park Rangers,Watford,0-0,0,0,Football League First Division,1,D
+1987-11-07,1987/1988,Cardiff City,Exeter City,3-2,3,2,Football League Fourth Division,4,H
+1987-11-07,1987/1988,Bolton Wanderers,Leyton Orient,1-0,1,0,Football League Fourth Division,4,H
+1987-11-07,1987/1988,Carlisle United,Newport County,3-1,3,1,Football League Fourth Division,4,H
+1987-11-07,1987/1988,Hereford United,Crewe Alexandra,1-1,1,1,Football League Fourth Division,4,D
+1987-11-07,1987/1988,Peterborough United,Hartlepool United,0-1,0,1,Football League Fourth Division,4,A
+1987-11-07,1987/1988,Rochdale,Swansea City,2-3,2,3,Football League Fourth Division,4,A
+1987-11-07,1987/1988,Wolverhampton Wanderers,Burnley,3-0,3,0,Football League Fourth Division,4,H
+1987-11-07,1987/1988,Scunthorpe United,Scarborough,0-1,0,1,Football League Fourth Division,4,A
+1987-11-07,1987/1988,Stoke City,West Bromwich Albion,3-0,3,0,Football League Second Division,2,H
+1987-11-07,1987/1988,AFC Bournemouth,Crystal Palace,2-3,2,3,Football League Second Division,2,A
+1987-11-07,1987/1988,Aston Villa,Millwall,1-2,1,2,Football League Second Division,2,A
+1987-11-07,1987/1988,Blackburn Rovers,Oldham Athletic,1-0,1,0,Football League Second Division,2,H
+1987-11-07,1987/1988,Hull City,Birmingham City,2-0,2,0,Football League Second Division,2,H
+1987-11-07,1987/1988,Ipswich Town,Reading,2-1,2,1,Football League Second Division,2,H
+1987-11-07,1987/1988,Barnsley,Bradford City,3-0,3,0,Football League Second Division,2,H
+1987-11-07,1987/1988,Leeds United,Shrewsbury Town,2-1,2,1,Football League Second Division,2,H
+1987-11-07,1987/1988,Leicester City,Swindon Town,3-2,3,2,Football League Second Division,2,H
+1987-11-07,1987/1988,Manchester City,Huddersfield Town,10-1,10,1,Football League Second Division,2,H
+1987-11-07,1987/1988,Sheffield United,Middlesbrough,0-2,0,2,Football League Second Division,2,A
+1987-11-07,1987/1988,Chester,Walsall,1-1,1,1,Football League Third Division,3,D
+1987-11-07,1987/1988,Doncaster Rovers,Port Vale,1-1,1,1,Football League Third Division,3,D
+1987-11-07,1987/1988,Fulham,Northampton Town,0-0,0,0,Football League Third Division,3,D
+1987-11-07,1987/1988,Gillingham,Brighton & Hove Albion,1-1,1,1,Football League Third Division,3,D
+1987-11-07,1987/1988,Mansfield Town,Preston North End,0-0,0,0,Football League Third Division,3,D
+1987-11-07,1987/1988,Notts County,Brentford,3-0,3,0,Football League Third Division,3,H
+1987-11-07,1987/1988,Sunderland,Grimsby Town,1-1,1,1,Football League Third Division,3,D
+1987-11-07,1987/1988,Wigan Athletic,Southend United,1-0,1,0,Football League Third Division,3,H
+1987-11-07,1987/1988,Bristol Rovers,Chesterfield,2-0,2,0,Football League Third Division,3,H
+1987-11-07,1987/1988,York City,Bury,1-1,1,1,Football League Third Division,3,D
+1987-11-07,1987/1988,Blackpool,Rotherham United,3-0,3,0,Football League Third Division,3,H
+1987-11-07,1987/1988,Aldershot,Bristol City,2-1,2,1,Football League Third Division,3,H
+1987-11-08,1987/1988,Darlington,Cambridge United,0-1,0,1,Football League Fourth Division,4,A
+1987-11-14,1987/1988,Watford,Charlton Athletic,2-1,2,1,Football League First Division,1,H
+1987-11-14,1987/1988,Tottenham Hotspur,Queens Park Rangers,1-1,1,1,Football League First Division,1,D
+1987-11-14,1987/1988,Southampton,Oxford United,3-0,3,0,Football League First Division,1,H
+1987-11-14,1987/1988,Sheffield Wednesday,Luton Town,0-2,0,2,Football League First Division,1,A
+1987-11-14,1987/1988,Nottingham Forest,Portsmouth,5-0,5,0,Football League First Division,1,H
+1987-11-14,1987/1988,Norwich City,Arsenal,2-4,2,4,Football League First Division,1,A
+1987-11-14,1987/1988,Newcastle United,Derby County,0-0,0,0,Football League First Division,1,D
+1987-11-14,1987/1988,Everton,West Ham United,3-1,3,1,Football League First Division,1,H
+1987-11-14,1987/1988,Coventry City,Wimbledon,3-3,3,3,Football League First Division,1,D
+1987-11-14,1987/1988,West Bromwich Albion,Ipswich Town,2-2,2,2,Football League Second Division,2,D
+1987-11-14,1987/1988,Swindon Town,Plymouth Argyle,1-1,1,1,Football League Second Division,2,D
+1987-11-14,1987/1988,Shrewsbury Town,Blackburn Rovers,1-2,1,2,Football League Second Division,2,A
+1987-11-14,1987/1988,Reading,Manchester City,0-2,0,2,Football League Second Division,2,A
+1987-11-14,1987/1988,Oldham Athletic,Aston Villa,0-1,0,1,Football League Second Division,2,A
+1987-11-14,1987/1988,Millwall,Leeds United,3-1,3,1,Football League Second Division,2,H
+1987-11-14,1987/1988,Middlesbrough,Hull City,1-0,1,0,Football League Second Division,2,H
+1987-11-14,1987/1988,Crystal Palace,Stoke City,2-0,2,0,Football League Second Division,2,H
+1987-11-14,1987/1988,Bradford City,Sheffield United,2-0,2,0,Football League Second Division,2,H
+1987-11-14,1987/1988,Huddersfield Town,Barnsley,2-2,2,2,Football League Second Division,2,D
+1987-11-14,1987/1988,Birmingham City,Leicester City,2-2,2,2,Football League Second Division,2,D
+1987-11-15,1987/1988,Manchester United,Liverpool,1-1,1,1,Football League First Division,1,D
+1987-11-17,1987/1988,Shrewsbury Town,Sheffield United,2-0,2,0,Football League Second Division,2,H
+1987-11-20,1987/1988,Leyton Orient,Darlington,4-3,4,3,Football League Fourth Division,4,H
+1987-11-21,1987/1988,Arsenal,Southampton,0-1,0,1,Football League First Division,1,A
+1987-11-21,1987/1988,Charlton Athletic,Coventry City,2-2,2,2,Football League First Division,1,D
+1987-11-21,1987/1988,Liverpool,Norwich City,0-0,0,0,Football League First Division,1,D
+1987-11-21,1987/1988,Luton Town,Tottenham Hotspur,2-0,2,0,Football League First Division,1,H
+1987-11-21,1987/1988,Oxford United,Watford,1-1,1,1,Football League First Division,1,D
+1987-11-21,1987/1988,Portsmouth,Everton,0-1,0,1,Football League First Division,1,A
+1987-11-21,1987/1988,Queens Park Rangers,Newcastle United,1-1,1,1,Football League First Division,1,D
+1987-11-21,1987/1988,West Ham United,Nottingham Forest,3-2,3,2,Football League First Division,1,H
+1987-11-21,1987/1988,Wimbledon,Manchester United,2-1,2,1,Football League First Division,1,H
+1987-11-21,1987/1988,Wrexham,Carlisle United,4-0,4,0,Football League Fourth Division,4,H
+1987-11-21,1987/1988,Newport County,Cardiff City,1-2,1,2,Football League Fourth Division,4,A
+1987-11-21,1987/1988,Cambridge United,Rochdale,1-2,1,2,Football League Fourth Division,4,A
+1987-11-21,1987/1988,Colchester United,Wolverhampton Wanderers,0-1,0,1,Football League Fourth Division,4,A
+1987-11-21,1987/1988,Crewe Alexandra,Scunthorpe United,2-2,2,2,Football League Fourth Division,4,D
+1987-11-21,1987/1988,Exeter City,Stockport County,2-1,2,1,Football League Fourth Division,4,H
+1987-11-21,1987/1988,Hartlepool United,Tranmere Rovers,1-2,1,2,Football League Fourth Division,4,A
+1987-11-21,1987/1988,Scarborough,Halifax Town,1-1,1,1,Football League Fourth Division,4,D
+1987-11-21,1987/1988,Swansea City,Peterborough United,2-1,2,1,Football League Fourth Division,4,H
+1987-11-21,1987/1988,Torquay United,Hereford United,1-0,1,0,Football League Fourth Division,4,H
+1987-11-21,1987/1988,Burnley,Bolton Wanderers,2-1,2,1,Football League Fourth Division,4,H
+1987-11-21,1987/1988,Hull City,West Bromwich Albion,1-0,1,0,Football League Second Division,2,H
+1987-11-21,1987/1988,Stoke City,Millwall,1-2,1,2,Football League Second Division,2,A
+1987-11-21,1987/1988,AFC Bournemouth,Huddersfield Town,0-2,0,2,Football League Second Division,2,A
+1987-11-21,1987/1988,Barnsley,Shrewsbury Town,2-1,2,1,Football League Second Division,2,H
+1987-11-21,1987/1988,Blackburn Rovers,Crystal Palace,2-0,2,0,Football League Second Division,2,H
+1987-11-21,1987/1988,Ipswich Town,Oldham Athletic,2-0,2,0,Football League Second Division,2,H
+1987-11-21,1987/1988,Leeds United,Swindon Town,4-2,4,2,Football League Second Division,2,H
+1987-11-21,1987/1988,Leicester City,Bradford City,0-2,0,2,Football League Second Division,2,A
+1987-11-21,1987/1988,Manchester City,Birmingham City,3-0,3,0,Football League Second Division,2,H
+1987-11-21,1987/1988,Plymouth Argyle,Middlesbrough,0-1,0,1,Football League Second Division,2,A
+1987-11-21,1987/1988,Sheffield United,Reading,4-1,4,1,Football League Second Division,2,H
+1987-11-21,1987/1988,Grimsby Town,York City,5-1,5,1,Football League Third Division,3,H
+1987-11-21,1987/1988,Mansfield Town,Brighton & Hove Albion,1-1,1,1,Football League Third Division,3,D
+1987-11-21,1987/1988,Northampton Town,Gillingham,2-1,2,1,Football League Third Division,3,H
+1987-11-21,1987/1988,Chesterfield,Sunderland,1-1,1,1,Football League Third Division,3,D
+1987-11-21,1987/1988,Notts County,Walsall,3-1,3,1,Football League Third Division,3,H
+1987-11-21,1987/1988,Preston North End,Doncaster Rovers,1-2,1,2,Football League Third Division,3,A
+1987-11-21,1987/1988,Rotherham United,Fulham,0-2,0,2,Football League Third Division,3,A
+1987-11-21,1987/1988,Southend United,Aldershot,0-1,0,1,Football League Third Division,3,A
+1987-11-21,1987/1988,Bury,Bristol Rovers,4-1,4,1,Football League Third Division,3,H
+1987-11-21,1987/1988,Bristol City,Chester,2-2,2,2,Football League Third Division,3,D
+1987-11-21,1987/1988,Brentford,Wigan Athletic,2-1,2,1,Football League Third Division,3,H
+1987-11-22,1987/1988,Derby County,Chelsea,2-0,2,0,Football League First Division,1,H
+1987-11-22,1987/1988,Port Vale,Blackpool,0-0,0,0,Football League Third Division,3,D
+1987-11-24,1987/1988,Liverpool,Watford,4-0,4,0,Football League First Division,1,H
+1987-11-27,1987/1988,Halifax Town,Crewe Alexandra,1-2,1,2,Football League Fourth Division,4,A
+1987-11-27,1987/1988,Stockport County,Colchester United,1-1,1,1,Football League Fourth Division,4,D
+1987-11-27,1987/1988,Tranmere Rovers,Newport County,4-0,4,0,Football League Fourth Division,4,H
+1987-11-28,1987/1988,Chelsea,Wimbledon,1-1,1,1,Football League First Division,1,D
+1987-11-28,1987/1988,Coventry City,West Ham United,0-0,0,0,Football League First Division,1,D
+1987-11-28,1987/1988,Newcastle United,Charlton Athletic,2-1,2,1,Football League First Division,1,H
+1987-11-28,1987/1988,Norwich City,Portsmouth,0-1,0,1,Football League First Division,1,A
+1987-11-28,1987/1988,Sheffield Wednesday,Queens Park Rangers,3-1,3,1,Football League First Division,1,H
+1987-11-28,1987/1988,Southampton,Derby County,1-2,1,2,Football League First Division,1,A
+1987-11-28,1987/1988,Tottenham Hotspur,Liverpool,0-2,0,2,Football League First Division,1,A
+1987-11-28,1987/1988,Watford,Arsenal,2-0,2,0,Football League First Division,1,H
+1987-11-28,1987/1988,Everton,Oxford United,0-0,0,0,Football League First Division,1,D
+1987-11-28,1987/1988,Wolverhampton Wanderers,Wrexham,0-2,0,2,Football League Fourth Division,4,A
+1987-11-28,1987/1988,Bolton Wanderers,Cambridge United,2-2,2,2,Football League Fourth Division,4,D
+1987-11-28,1987/1988,Cardiff City,Hartlepool United,1-1,1,1,Football League Fourth Division,4,D
+1987-11-28,1987/1988,Carlisle United,Torquay United,3-3,3,3,Football League Fourth Division,4,D
+1987-11-28,1987/1988,Hereford United,Leyton Orient,0-3,0,3,Football League Fourth Division,4,A
+1987-11-28,1987/1988,Peterborough United,Burnley,5-0,5,0,Football League Fourth Division,4,H
+1987-11-28,1987/1988,Rochdale,Scarborough,1-1,1,1,Football League Fourth Division,4,D
+1987-11-28,1987/1988,Scunthorpe United,Swansea City,1-2,1,2,Football League Fourth Division,4,A
+1987-11-28,1987/1988,Swindon Town,AFC Bournemouth,4-2,4,2,Football League Second Division,2,H
+1987-11-28,1987/1988,West Bromwich Albion,Manchester City,1-1,1,1,Football League Second Division,2,D
+1987-11-28,1987/1988,Bradford City,Aston Villa,2-4,2,4,Football League Second Division,2,A
+1987-11-28,1987/1988,Crystal Palace,Leeds United,3-0,3,0,Football League Second Division,2,H
+1987-11-28,1987/1988,Huddersfield Town,Leicester City,1-0,1,0,Football League Second Division,2,H
+1987-11-28,1987/1988,Middlesbrough,Barnsley,2-0,2,0,Football League Second Division,2,H
+1987-11-28,1987/1988,Millwall,Hull City,2-0,2,0,Football League Second Division,2,H
+1987-11-28,1987/1988,Oldham Athletic,Plymouth Argyle,0-1,0,1,Football League Second Division,2,A
+1987-11-28,1987/1988,Reading,Blackburn Rovers,0-0,0,0,Football League Second Division,2,D
+1987-11-28,1987/1988,Shrewsbury Town,Stoke City,0-3,0,3,Football League Second Division,2,A
+1987-11-28,1987/1988,Birmingham City,Ipswich Town,1-0,1,0,Football League Second Division,2,H
+1987-11-28,1987/1988,Brighton & Hove Albion,Notts County,1-1,1,1,Football League Third Division,3,D
+1987-11-28,1987/1988,Bristol Rovers,Grimsby Town,4-2,4,2,Football League Third Division,3,H
+1987-11-28,1987/1988,Chester,Chesterfield,1-1,1,1,Football League Third Division,3,D
+1987-11-28,1987/1988,Doncaster Rovers,Brentford,0-1,0,1,Football League Third Division,3,A
+1987-11-28,1987/1988,Fulham,Preston North End,0-1,0,1,Football League Third Division,3,A
+1987-11-28,1987/1988,Sunderland,Port Vale,2-1,2,1,Football League Third Division,3,H
+1987-11-28,1987/1988,Walsall,Mansfield Town,2-1,2,1,Football League Third Division,3,H
+1987-11-28,1987/1988,York City,Southend United,0-3,0,3,Football League Third Division,3,A
+1987-11-28,1987/1988,Blackpool,Northampton Town,3-1,3,1,Football League Third Division,3,H
+1987-11-28,1987/1988,Wigan Athletic,Bristol City,1-1,1,1,Football League Third Division,3,D
+1987-11-28,1987/1988,Aldershot,Rotherham United,1-3,1,3,Football League Third Division,3,A
+1987-11-28,1987/1988,Gillingham,Bury,3-3,3,3,Football League Third Division,3,D
+1987-12-01,1987/1988,Swindon Town,Huddersfield Town,4-1,4,1,Football League Second Division,2,H
+1987-12-01,1987/1988,Millwall,Reading,3-0,3,0,Football League Second Division,2,H
+1987-12-01,1987/1988,AFC Bournemouth,Manchester City,0-2,0,2,Football League Second Division,2,A
+1987-12-05,1987/1988,Arsenal,Sheffield Wednesday,3-1,3,1,Football League First Division,1,H
+1987-12-05,1987/1988,Wimbledon,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1987-12-05,1987/1988,West Ham United,Southampton,2-1,2,1,Football League First Division,1,H
+1987-12-05,1987/1988,Queens Park Rangers,Manchester United,0-2,0,2,Football League First Division,1,A
+1987-12-05,1987/1988,Portsmouth,Coventry City,0-0,0,0,Football League First Division,1,D
+1987-12-05,1987/1988,Oxford United,Newcastle United,1-3,1,3,Football League First Division,1,A
+1987-12-05,1987/1988,Luton Town,Norwich City,1-2,1,2,Football League First Division,1,A
+1987-12-05,1987/1988,Derby County,Watford,1-1,1,1,Football League First Division,1,D
+1987-12-05,1987/1988,Charlton Athletic,Everton,0-0,0,0,Football League First Division,1,D
+1987-12-05,1987/1988,Blackburn Rovers,Millwall,2-1,2,1,Football League Second Division,2,H
+1987-12-05,1987/1988,Sheffield United,Huddersfield Town,2-2,2,2,Football League Second Division,2,D
+1987-12-05,1987/1988,Plymouth Argyle,Shrewsbury Town,2-0,2,0,Football League Second Division,2,H
+1987-12-05,1987/1988,Manchester City,Crystal Palace,1-3,1,3,Football League Second Division,2,A
+1987-12-05,1987/1988,Leicester City,Middlesbrough,0-0,0,0,Football League Second Division,2,D
+1987-12-05,1987/1988,Leeds United,Birmingham City,4-1,4,1,Football League Second Division,2,H
+1987-12-05,1987/1988,Ipswich Town,Bradford City,4-0,4,0,Football League Second Division,2,H
+1987-12-05,1987/1988,Hull City,Reading,2-2,2,2,Football League Second Division,2,D
+1987-12-05,1987/1988,Barnsley,West Bromwich Albion,3-1,3,1,Football League Second Division,2,H
+1987-12-05,1987/1988,AFC Bournemouth,Oldham Athletic,2-2,2,2,Football League Second Division,2,D
+1987-12-05,1987/1988,Aston Villa,Swindon Town,2-1,2,1,Football League Second Division,2,H
+1987-12-05,1987/1988,Chester,Doncaster Rovers,1-1,1,1,Football League Third Division,3,D
+1987-12-06,1987/1988,Liverpool,Chelsea,2-1,2,1,Football League First Division,1,H
+1987-12-08,1987/1988,Darlington,Exeter City,4-1,4,1,Football League Fourth Division,4,H
+1987-12-08,1987/1988,Stoke City,Oldham Athletic,2-2,2,2,Football League Second Division,2,D
+1987-12-11,1987/1988,Colchester United,Bolton Wanderers,3-0,3,0,Football League Fourth Division,4,H
+1987-12-11,1987/1988,Cambridge United,Stockport County,2-0,2,0,Football League Fourth Division,4,H
+1987-12-11,1987/1988,Southend United,Doncaster Rovers,4-1,4,1,Football League Third Division,3,H
+1987-12-12,1987/1988,Chelsea,West Ham United,1-1,1,1,Football League First Division,1,D
+1987-12-12,1987/1988,Everton,Derby County,3-0,3,0,Football League First Division,1,H
+1987-12-12,1987/1988,Manchester United,Oxford United,3-1,3,1,Football League First Division,1,H
+1987-12-12,1987/1988,Sheffield Wednesday,Wimbledon,1-0,1,0,Football League First Division,1,H
+1987-12-12,1987/1988,Southampton,Liverpool,2-2,2,2,Football League First Division,1,D
+1987-12-12,1987/1988,Watford,Luton Town,0-1,0,1,Football League First Division,1,A
+1987-12-12,1987/1988,Newcastle United,Portsmouth,1-1,1,1,Football League First Division,1,D
+1987-12-12,1987/1988,Burnley,Hereford United,0-0,0,0,Football League Fourth Division,4,D
+1987-12-12,1987/1988,Crewe Alexandra,Cardiff City,0-0,0,0,Football League Fourth Division,4,D
+1987-12-12,1987/1988,Exeter City,Scunthorpe United,1-1,1,1,Football League Fourth Division,4,D
+1987-12-12,1987/1988,Hartlepool United,Wolverhampton Wanderers,0-0,0,0,Football League Fourth Division,4,D
+1987-12-12,1987/1988,Leyton Orient,Tranmere Rovers,3-1,3,1,Football League Fourth Division,4,H
+1987-12-12,1987/1988,Scarborough,Peterborough United,1-1,1,1,Football League Fourth Division,4,D
+1987-12-12,1987/1988,Swansea City,Carlisle United,3-1,3,1,Football League Fourth Division,4,H
+1987-12-12,1987/1988,Torquay United,Halifax Town,1-2,1,2,Football League Fourth Division,4,A
+1987-12-12,1987/1988,Wrexham,Rochdale,2-3,2,3,Football League Fourth Division,4,A
+1987-12-12,1987/1988,Birmingham City,Aston Villa,1-2,1,2,Football League Second Division,2,A
+1987-12-12,1987/1988,Huddersfield Town,Plymouth Argyle,2-1,2,1,Football League Second Division,2,H
+1987-12-12,1987/1988,Middlesbrough,Stoke City,2-0,2,0,Football League Second Division,2,H
+1987-12-12,1987/1988,Millwall,Manchester City,0-1,0,1,Football League Second Division,2,A
+1987-12-12,1987/1988,Oldham Athletic,Leicester City,2-0,2,0,Football League Second Division,2,H
+1987-12-12,1987/1988,Reading,Leeds United,0-1,0,1,Football League Second Division,2,A
+1987-12-12,1987/1988,Shrewsbury Town,Hull City,2-2,2,2,Football League Second Division,2,D
+1987-12-12,1987/1988,West Bromwich Albion,Blackburn Rovers,0-1,0,1,Football League Second Division,2,A
+1987-12-12,1987/1988,Bradford City,AFC Bournemouth,2-0,2,0,Football League Second Division,2,H
+1987-12-12,1987/1988,Chesterfield,Blackpool,1-1,1,1,Football League Third Division,3,D
+1987-12-12,1987/1988,Grimsby Town,Wigan Athletic,0-2,0,2,Football League Third Division,3,A
+1987-12-12,1987/1988,Northampton Town,Sunderland,0-2,0,2,Football League Third Division,3,A
+1987-12-12,1987/1988,Preston North End,Aldershot,0-2,0,2,Football League Third Division,3,A
+1987-12-12,1987/1988,Rotherham United,Gillingham,1-2,1,2,Football League Third Division,3,A
+1987-12-12,1987/1988,Walsall,Bristol Rovers,0-0,0,0,Football League Third Division,3,D
+1987-12-12,1987/1988,Bury,Fulham,1-1,1,1,Football League Third Division,3,D
+1987-12-12,1987/1988,Bristol City,York City,3-2,3,2,Football League Third Division,3,H
+1987-12-12,1987/1988,Port Vale,Notts County,1-3,1,3,Football League Third Division,3,A
+1987-12-12,1987/1988,Brentford,Mansfield Town,2-2,2,2,Football League Third Division,3,D
+1987-12-12,1987/1988,Brighton & Hove Albion,Chester,1-0,1,0,Football League Third Division,3,H
+1987-12-13,1987/1988,Tottenham Hotspur,Charlton Athletic,0-1,0,1,Football League First Division,1,A
+1987-12-13,1987/1988,Nottingham Forest,Queens Park Rangers,4-0,4,0,Football League First Division,1,H
+1987-12-13,1987/1988,Coventry City,Arsenal,0-0,0,0,Football League First Division,1,D
+1987-12-13,1987/1988,Crystal Palace,Sheffield United,2-1,2,1,Football League Second Division,2,H
+1987-12-15,1987/1988,Tranmere Rovers,Bolton Wanderers,2-0,2,0,Football League Fourth Division,4,H
+1987-12-15,1987/1988,Bristol City,Fulham,4-0,4,0,Football League Third Division,3,H
+1987-12-18,1987/1988,Wimbledon,Norwich City,1-0,1,0,Football League First Division,1,H
+1987-12-18,1987/1988,Queens Park Rangers,Coventry City,1-2,1,2,Football League First Division,1,A
+1987-12-18,1987/1988,Luton Town,Southampton,2-2,2,2,Football League First Division,1,D
+1987-12-18,1987/1988,Scunthorpe United,Torquay United,2-3,2,3,Football League Fourth Division,4,A
+1987-12-18,1987/1988,Peterborough United,Crewe Alexandra,0-4,0,4,Football League Fourth Division,4,A
+1987-12-18,1987/1988,Halifax Town,Exeter City,2-0,2,0,Football League Fourth Division,4,H
+1987-12-18,1987/1988,Tranmere Rovers,Colchester United,0-2,0,2,Football League Fourth Division,4,A
+1987-12-18,1987/1988,Carlisle United,Cambridge United,2-1,2,1,Football League Fourth Division,4,H
+1987-12-18,1987/1988,Ipswich Town,Shrewsbury Town,2-0,2,0,Football League Second Division,2,H
+1987-12-18,1987/1988,Aston Villa,West Bromwich Albion,0-0,0,0,Football League Second Division,2,D
+1987-12-18,1987/1988,York City,Brentford,1-1,1,1,Football League Third Division,3,D
+1987-12-18,1987/1988,Gillingham,Walsall,0-1,0,1,Football League Third Division,3,A
+1987-12-18,1987/1988,Chester,Bury,4-4,4,4,Football League Third Division,3,D
+1987-12-19,1987/1988,West Ham United,Newcastle United,2-1,2,1,Football League First Division,1,H
+1987-12-19,1987/1988,Portsmouth,Manchester United,1-2,1,2,Football League First Division,1,A
+1987-12-19,1987/1988,Oxford United,Nottingham Forest,0-2,0,2,Football League First Division,1,A
+1987-12-19,1987/1988,Liverpool,Sheffield Wednesday,1-0,1,0,Football League First Division,1,H
+1987-12-19,1987/1988,Arsenal,Everton,1-1,1,1,Football League First Division,1,D
+1987-12-19,1987/1988,Bolton Wanderers,Wrexham,2-0,2,0,Football League Fourth Division,4,H
+1987-12-19,1987/1988,Hereford United,Hartlepool United,4-2,4,2,Football League Fourth Division,4,H
+1987-12-19,1987/1988,Darlington,Swansea City,2-0,2,0,Football League Fourth Division,4,H
+1987-12-19,1987/1988,Stockport County,Scarborough,1-1,1,1,Football League Fourth Division,4,D
+1987-12-19,1987/1988,Wolverhampton Wanderers,Leyton Orient,2-0,2,0,Football League Fourth Division,4,H
+1987-12-19,1987/1988,Cardiff City,Burnley,2-1,2,1,Football League Fourth Division,4,H
+1987-12-19,1987/1988,Rochdale,Newport County,3-0,3,0,Football League Fourth Division,4,H
+1987-12-19,1987/1988,Stoke City,Reading,4-2,4,2,Football League Second Division,2,H
+1987-12-19,1987/1988,Manchester City,Oldham Athletic,1-2,1,2,Football League Second Division,2,A
+1987-12-19,1987/1988,Leeds United,Huddersfield Town,3-0,3,0,Football League Second Division,2,H
+1987-12-19,1987/1988,Hull City,Crystal Palace,2-1,2,1,Football League Second Division,2,H
+1987-12-19,1987/1988,Blackburn Rovers,Birmingham City,2-0,2,0,Football League Second Division,2,H
+1987-12-19,1987/1988,Barnsley,Millwall,4-1,4,1,Football League Second Division,2,H
+1987-12-19,1987/1988,AFC Bournemouth,Middlesbrough,0-0,0,0,Football League Second Division,2,D
+1987-12-19,1987/1988,Doncaster Rovers,Bristol City,1-2,1,2,Football League Third Division,3,A
+1987-12-19,1987/1988,Fulham,Chesterfield,1-3,1,3,Football League Third Division,3,A
+1987-12-19,1987/1988,Notts County,Preston North End,4-2,4,2,Football League Third Division,3,H
+1987-12-19,1987/1988,Wigan Athletic,Northampton Town,2-2,2,2,Football League Third Division,3,D
+1987-12-19,1987/1988,Bristol Rovers,Brighton & Hove Albion,1-2,1,2,Football League Third Division,3,A
+1987-12-19,1987/1988,Blackpool,Southend United,1-1,1,1,Football League Third Division,3,D
+1987-12-19,1987/1988,Aldershot,Grimsby Town,3-2,3,2,Football League Third Division,3,H
+1987-12-20,1987/1988,Derby County,Tottenham Hotspur,1-2,1,2,Football League First Division,1,A
+1987-12-20,1987/1988,Charlton Athletic,Chelsea,2-2,2,2,Football League First Division,1,D
+1987-12-20,1987/1988,Sheffield United,Swindon Town,1-0,1,0,Football League Second Division,2,H
+1987-12-20,1987/1988,Plymouth Argyle,Bradford City,2-1,2,1,Football League Second Division,2,H
+1987-12-20,1987/1988,Sunderland,Rotherham United,3-0,3,0,Football League Third Division,3,H
+1987-12-20,1987/1988,Mansfield Town,Port Vale,4-0,4,0,Football League Third Division,3,H
+1987-12-26,1987/1988,Arsenal,Nottingham Forest,0-2,0,2,Football League First Division,1,A
+1987-12-26,1987/1988,Charlton Athletic,Portsmouth,2-1,2,1,Football League First Division,1,H
+1987-12-26,1987/1988,Chelsea,Queens Park Rangers,1-1,1,1,Football League First Division,1,D
+1987-12-26,1987/1988,Derby County,Norwich City,1-2,1,2,Football League First Division,1,A
+1987-12-26,1987/1988,Everton,Luton Town,2-0,2,0,Football League First Division,1,H
+1987-12-26,1987/1988,Oxford United,Liverpool,0-3,0,3,Football League First Division,1,A
+1987-12-26,1987/1988,Southampton,Tottenham Hotspur,2-1,2,1,Football League First Division,1,H
+1987-12-26,1987/1988,Watford,Sheffield Wednesday,1-3,1,3,Football League First Division,1,A
+1987-12-26,1987/1988,Newcastle United,Manchester United,1-0,1,0,Football League First Division,1,H
+1987-12-26,1987/1988,West Ham United,Wimbledon,1-2,1,2,Football League First Division,1,A
+1987-12-26,1987/1988,Stockport County,Wrexham,1-1,1,1,Football League Fourth Division,4,D
+1987-12-26,1987/1988,Scarborough,Carlisle United,3-1,3,1,Football League Fourth Division,4,H
+1987-12-26,1987/1988,Cardiff City,Tranmere Rovers,3-0,3,0,Football League Fourth Division,4,H
+1987-12-26,1987/1988,Crewe Alexandra,Swansea City,2-2,2,2,Football League Fourth Division,4,D
+1987-12-26,1987/1988,Exeter City,Colchester United,0-2,0,2,Football League Fourth Division,4,A
+1987-12-26,1987/1988,Halifax Town,Cambridge United,1-1,1,1,Football League Fourth Division,4,D
+1987-12-26,1987/1988,Hartlepool United,Bolton Wanderers,0-0,0,0,Football League Fourth Division,4,D
+1987-12-26,1987/1988,Hereford United,Newport County,4-2,4,2,Football League Fourth Division,4,H
+1987-12-26,1987/1988,Peterborough United,Leyton Orient,1-2,1,2,Football League Fourth Division,4,A
+1987-12-26,1987/1988,Scunthorpe United,Darlington,1-0,1,0,Football League Fourth Division,4,H
+1987-12-26,1987/1988,Burnley,Rochdale,4-0,4,0,Football League Fourth Division,4,H
+1987-12-26,1987/1988,Huddersfield Town,Stoke City,0-3,0,3,Football League Second Division,2,A
+1987-12-26,1987/1988,West Bromwich Albion,Millwall,1-4,1,4,Football League Second Division,2,A
+1987-12-26,1987/1988,Barnsley,Oldham Athletic,1-1,1,1,Football League Second Division,2,D
+1987-12-26,1987/1988,Reading,Swindon Town,0-1,0,1,Football League Second Division,2,A
+1987-12-26,1987/1988,Middlesbrough,Blackburn Rovers,1-1,1,1,Football League Second Division,2,D
+1987-12-26,1987/1988,Manchester City,Leeds United,1-2,1,2,Football League Second Division,2,A
+1987-12-26,1987/1988,Sheffield United,Aston Villa,1-1,1,1,Football League Second Division,2,D
+1987-12-26,1987/1988,Ipswich Town,Crystal Palace,2-3,2,3,Football League Second Division,2,A
+1987-12-26,1987/1988,Bradford City,Shrewsbury Town,1-1,1,1,Football League Second Division,2,D
+1987-12-26,1987/1988,Birmingham City,Plymouth Argyle,0-1,0,1,Football League Second Division,2,A
+1987-12-26,1987/1988,Leicester City,AFC Bournemouth,0-1,0,1,Football League Second Division,2,A
+1987-12-26,1987/1988,Preston North End,Blackpool,2-1,2,1,Football League Third Division,3,H
+1987-12-26,1987/1988,Chester,Sunderland,1-2,1,2,Football League Third Division,3,A
+1987-12-26,1987/1988,Bury,Wigan Athletic,0-2,0,2,Football League Third Division,3,A
+1987-12-26,1987/1988,Doncaster Rovers,York City,2-0,2,0,Football League Third Division,3,H
+1987-12-26,1987/1988,Gillingham,Bristol City,1-1,1,1,Football League Third Division,3,D
+1987-12-26,1987/1988,Mansfield Town,Rotherham United,0-1,0,1,Football League Third Division,3,A
+1987-12-26,1987/1988,Notts County,Chesterfield,2-0,2,0,Football League Third Division,3,H
+1987-12-26,1987/1988,Port Vale,Northampton Town,1-1,1,1,Football League Third Division,3,D
+1987-12-26,1987/1988,Walsall,Grimsby Town,3-2,3,2,Football League Third Division,3,H
+1987-12-26,1987/1988,Bristol Rovers,Fulham,3-1,3,1,Football League Third Division,3,H
+1987-12-26,1987/1988,Brighton & Hove Albion,Southend United,0-0,0,0,Football League Third Division,3,D
+1987-12-26,1987/1988,Brentford,Aldershot,3-0,3,0,Football League Third Division,3,H
+1987-12-28,1987/1988,Liverpool,Newcastle United,4-0,4,0,Football League First Division,1,H
+1987-12-28,1987/1988,Luton Town,Charlton Athletic,1-0,1,0,Football League First Division,1,H
+1987-12-28,1987/1988,Manchester United,Everton,2-1,2,1,Football League First Division,1,H
+1987-12-28,1987/1988,Norwich City,Chelsea,3-0,3,0,Football League First Division,1,H
+1987-12-28,1987/1988,Nottingham Forest,Coventry City,4-1,4,1,Football League First Division,1,H
+1987-12-28,1987/1988,Portsmouth,Watford,1-1,1,1,Football League First Division,1,D
+1987-12-28,1987/1988,Queens Park Rangers,Oxford United,3-2,3,2,Football League First Division,1,H
+1987-12-28,1987/1988,Sheffield Wednesday,Derby County,2-1,2,1,Football League First Division,1,H
+1987-12-28,1987/1988,Tottenham Hotspur,West Ham United,2-1,2,1,Football League First Division,1,H
+1987-12-28,1987/1988,Wimbledon,Arsenal,3-1,3,1,Football League First Division,1,H
+1987-12-28,1987/1988,Cambridge United,Scarborough,1-0,1,0,Football League Fourth Division,4,H
+1987-12-28,1987/1988,Colchester United,Cardiff City,2-1,2,1,Football League Fourth Division,4,H
+1987-12-28,1987/1988,Darlington,Burnley,4-2,4,2,Football League Fourth Division,4,H
+1987-12-28,1987/1988,Leyton Orient,Scunthorpe United,1-1,1,1,Football League Fourth Division,4,D
+1987-12-28,1987/1988,Newport County,Crewe Alexandra,1-2,1,2,Football League Fourth Division,4,A
+1987-12-28,1987/1988,Rochdale,Hartlepool United,0-2,0,2,Football League Fourth Division,4,A
+1987-12-28,1987/1988,Swansea City,Torquay United,1-1,1,1,Football League Fourth Division,4,D
+1987-12-28,1987/1988,Tranmere Rovers,Peterborough United,3-1,3,1,Football League Fourth Division,4,H
+1987-12-28,1987/1988,Wolverhampton Wanderers,Exeter City,3-0,3,0,Football League Fourth Division,4,H
+1987-12-28,1987/1988,Bolton Wanderers,Stockport County,2-1,2,1,Football League Fourth Division,4,H
+1987-12-28,1987/1988,Wrexham,Hereford United,0-0,0,0,Football League Fourth Division,4,D
+1987-12-28,1987/1988,Swindon Town,Ipswich Town,4-2,4,2,Football League Second Division,2,H
+1987-12-28,1987/1988,Aston Villa,Huddersfield Town,1-1,1,1,Football League Second Division,2,D
+1987-12-28,1987/1988,Blackburn Rovers,Bradford City,1-1,1,1,Football League Second Division,2,D
+1987-12-28,1987/1988,Crystal Palace,Reading,2-3,2,3,Football League Second Division,2,A
+1987-12-28,1987/1988,Leeds United,Middlesbrough,2-0,2,0,Football League Second Division,2,H
+1987-12-28,1987/1988,Millwall,Sheffield United,3-1,3,1,Football League Second Division,2,H
+1987-12-28,1987/1988,Oldham Athletic,Hull City,1-2,1,2,Football League Second Division,2,A
+1987-12-28,1987/1988,Plymouth Argyle,Leicester City,4-0,4,0,Football League Second Division,2,H
+1987-12-28,1987/1988,Shrewsbury Town,Birmingham City,0-0,0,0,Football League Second Division,2,D
+1987-12-28,1987/1988,Stoke City,Manchester City,1-3,1,3,Football League Second Division,2,A
+1987-12-28,1987/1988,AFC Bournemouth,West Bromwich Albion,3-2,3,2,Football League Second Division,2,H
+1987-12-28,1987/1988,Wigan Athletic,Chester,1-0,1,0,Football League Third Division,3,H
+1987-12-28,1987/1988,Chesterfield,Walsall,2-1,2,1,Football League Third Division,3,H
+1987-12-28,1987/1988,Fulham,Brentford,2-2,2,2,Football League Third Division,3,D
+1987-12-28,1987/1988,Grimsby Town,Port Vale,3-1,3,1,Football League Third Division,3,H
+1987-12-28,1987/1988,Northampton Town,Bury,0-0,0,0,Football League Third Division,3,D
+1987-12-28,1987/1988,Rotherham United,Doncaster Rovers,1-0,1,0,Football League Third Division,3,H
+1987-12-28,1987/1988,Southend United,Bristol Rovers,4-2,4,2,Football League Third Division,3,H
+1987-12-28,1987/1988,Sunderland,Preston North End,1-1,1,1,Football League Third Division,3,D
+1987-12-28,1987/1988,York City,Mansfield Town,2-2,2,2,Football League Third Division,3,D
+1987-12-28,1987/1988,Bristol City,Brighton & Hove Albion,5-2,5,2,Football League Third Division,3,H
+1987-12-28,1987/1988,Blackpool,Notts County,1-1,1,1,Football League Third Division,3,D
+1987-12-28,1987/1988,Aldershot,Gillingham,6-0,6,0,Football League Third Division,3,H
+1988-01-01,1987/1988,Liverpool,Coventry City,4-0,4,0,Football League First Division,1,H
+1988-01-01,1987/1988,Luton Town,Chelsea,3-0,3,0,Football League First Division,1,H
+1988-01-01,1987/1988,Norwich City,West Ham United,4-1,4,1,Football League First Division,1,H
+1988-01-01,1987/1988,Nottingham Forest,Newcastle United,0-2,0,2,Football League First Division,1,A
+1988-01-01,1987/1988,Portsmouth,Arsenal,1-1,1,1,Football League First Division,1,D
+1988-01-01,1987/1988,Queens Park Rangers,Southampton,3-0,3,0,Football League First Division,1,H
+1988-01-01,1987/1988,Sheffield Wednesday,Everton,1-0,1,0,Football League First Division,1,H
+1988-01-01,1987/1988,Tottenham Hotspur,Watford,2-1,2,1,Football League First Division,1,H
+1988-01-01,1987/1988,Wimbledon,Derby County,2-1,2,1,Football League First Division,1,H
+1988-01-01,1987/1988,Manchester United,Charlton Athletic,0-0,0,0,Football League First Division,1,D
+1988-01-01,1987/1988,Bolton Wanderers,Scarborough,3-1,3,1,Football League Fourth Division,4,H
+1988-01-01,1987/1988,Cambridge United,Peterborough United,1-3,1,3,Football League Fourth Division,4,A
+1988-01-01,1987/1988,Newport County,Exeter City,1-1,1,1,Football League Fourth Division,4,D
+1988-01-01,1987/1988,Colchester United,Scunthorpe United,0-3,0,3,Football League Fourth Division,4,A
+1988-01-01,1987/1988,Darlington,Hartlepool United,1-1,1,1,Football League Fourth Division,4,D
+1988-01-01,1987/1988,Leyton Orient,Torquay United,0-2,0,2,Football League Fourth Division,4,A
+1988-01-01,1987/1988,Rochdale,Halifax Town,0-0,0,0,Football League Fourth Division,4,D
+1988-01-01,1987/1988,Swansea City,Cardiff City,2-2,2,2,Football League Fourth Division,4,D
+1988-01-01,1987/1988,Tranmere Rovers,Stockport County,4-0,4,0,Football League Fourth Division,4,H
+1988-01-01,1987/1988,Wolverhampton Wanderers,Hereford United,2-0,2,0,Football League Fourth Division,4,H
+1988-01-01,1987/1988,Wrexham,Crewe Alexandra,2-1,2,1,Football League Fourth Division,4,H
+1988-01-01,1987/1988,Carlisle United,Burnley,3-4,3,4,Football League Fourth Division,4,A
+1988-01-01,1987/1988,Swindon Town,West Bromwich Albion,2-0,2,0,Football League Second Division,2,H
+1988-01-01,1987/1988,Aston Villa,Hull City,5-0,5,0,Football League Second Division,2,H
+1988-01-01,1987/1988,AFC Bournemouth,Birmingham City,4-2,4,2,Football League Second Division,2,H
+1988-01-01,1987/1988,Stoke City,Ipswich Town,1-2,1,2,Football League Second Division,2,A
+1988-01-01,1987/1988,Shrewsbury Town,Huddersfield Town,3-1,3,1,Football League Second Division,2,H
+1988-01-01,1987/1988,Oldham Athletic,Middlesbrough,3-1,3,1,Football League Second Division,2,H
+1988-01-01,1987/1988,Plymouth Argyle,Reading,1-3,1,3,Football League Second Division,2,A
+1988-01-01,1987/1988,Leeds United,Bradford City,2-0,2,0,Football League Second Division,2,H
+1988-01-01,1987/1988,Crystal Palace,Barnsley,3-2,3,2,Football League Second Division,2,H
+1988-01-01,1987/1988,Blackburn Rovers,Sheffield United,4-1,4,1,Football League Second Division,2,H
+1988-01-01,1987/1988,Millwall,Leicester City,1-0,1,0,Football League Second Division,2,H
+1988-01-01,1987/1988,Wigan Athletic,Preston North End,2-0,2,0,Football League Third Division,3,H
+1988-01-01,1987/1988,Sunderland,Doncaster Rovers,3-1,3,1,Football League Third Division,3,H
+1988-01-01,1987/1988,Southend United,Gillingham,1-3,1,3,Football League Third Division,3,A
+1988-01-01,1987/1988,Chesterfield,Mansfield Town,3-1,3,1,Football League Third Division,3,H
+1988-01-01,1987/1988,Northampton Town,Walsall,2-2,2,2,Football League Third Division,3,D
+1988-01-01,1987/1988,Grimsby Town,Notts County,0-0,0,0,Football League Third Division,3,D
+1988-01-01,1987/1988,Fulham,Brighton & Hove Albion,1-2,1,2,Football League Third Division,3,A
+1988-01-01,1987/1988,Rotherham United,Port Vale,1-0,1,0,Football League Third Division,3,H
+1988-01-01,1987/1988,Bristol City,Brentford,2-3,2,3,Football League Third Division,3,A
+1988-01-01,1987/1988,Blackpool,Bury,5-1,5,1,Football League Third Division,3,H
+1988-01-01,1987/1988,York City,Chester,2-0,2,0,Football League Third Division,3,H
+1988-01-01,1987/1988,Aldershot,Bristol Rovers,3-0,3,0,Football League Third Division,3,H
+1988-01-02,1987/1988,Arsenal,Queens Park Rangers,0-0,0,0,Football League First Division,1,D
+1988-01-02,1987/1988,Chelsea,Tottenham Hotspur,0-0,0,0,Football League First Division,1,D
+1988-01-02,1987/1988,Newcastle United,Sheffield Wednesday,2-2,2,2,Football League First Division,1,D
+1988-01-02,1987/1988,Watford,Manchester United,0-1,0,1,Football League First Division,1,A
+1988-01-02,1987/1988,West Ham United,Luton Town,1-1,1,1,Football League First Division,1,D
+1988-01-02,1987/1988,Oxford United,Wimbledon,2-5,2,5,Football League First Division,1,A
+1988-01-02,1987/1988,Burnley,Tranmere Rovers,1-1,1,1,Football League Fourth Division,4,D
+1988-01-02,1987/1988,Hereford United,Swansea City,0-0,0,0,Football League Fourth Division,4,D
+1988-01-02,1987/1988,Exeter City,Leyton Orient,2-3,2,3,Football League Fourth Division,4,A
+1988-01-02,1987/1988,Hartlepool United,Carlisle United,0-0,0,0,Football League Fourth Division,4,D
+1988-01-02,1987/1988,Peterborough United,Colchester United,2-0,2,0,Football League Fourth Division,4,H
+1988-01-02,1987/1988,Scarborough,Darlington,0-1,0,1,Football League Fourth Division,4,A
+1988-01-02,1987/1988,Scunthorpe United,Cambridge United,3-2,3,2,Football League Fourth Division,4,H
+1988-01-02,1987/1988,Stockport County,Rochdale,1-1,1,1,Football League Fourth Division,4,D
+1988-01-02,1987/1988,Crewe Alexandra,Wolverhampton Wanderers,0-2,0,2,Football League Fourth Division,4,A
+1988-01-02,1987/1988,Ipswich Town,Millwall,1-1,1,1,Football League Second Division,2,D
+1988-01-02,1987/1988,Barnsley,Aston Villa,1-3,1,3,Football League Second Division,2,A
+1988-01-02,1987/1988,Bradford City,Stoke City,1-4,1,4,Football League Second Division,2,A
+1988-01-02,1987/1988,Huddersfield Town,Blackburn Rovers,1-2,1,2,Football League Second Division,2,A
+1988-01-02,1987/1988,Leicester City,Crystal Palace,4-4,4,4,Football League Second Division,2,D
+1988-01-02,1987/1988,Manchester City,Shrewsbury Town,1-3,1,3,Football League Second Division,2,A
+1988-01-02,1987/1988,Sheffield United,Oldham Athletic,0-5,0,5,Football League Second Division,2,A
+1988-01-02,1987/1988,West Bromwich Albion,Plymouth Argyle,1-0,1,0,Football League Second Division,2,H
+1988-01-02,1987/1988,Birmingham City,Swindon Town,1-1,1,1,Football League Second Division,2,D
+1988-01-02,1987/1988,Mansfield Town,Grimsby Town,1-0,1,0,Football League Third Division,3,H
+1988-01-02,1987/1988,Walsall,Rotherham United,5-2,5,2,Football League Third Division,3,H
+1988-01-02,1987/1988,Notts County,Northampton Town,3-1,3,1,Football League Third Division,3,H
+1988-01-02,1987/1988,Port Vale,Chesterfield,0-1,0,1,Football League Third Division,3,A
+1988-01-02,1987/1988,Gillingham,Fulham,2-2,2,2,Football League Third Division,3,D
+1988-01-02,1987/1988,Preston North End,York City,3-0,3,0,Football League Third Division,3,H
+1988-01-02,1987/1988,Doncaster Rovers,Wigan Athletic,3-4,3,4,Football League Third Division,3,A
+1988-01-02,1987/1988,Chester,Blackpool,1-1,1,1,Football League Third Division,3,D
+1988-01-02,1987/1988,Brighton & Hove Albion,Aldershot,1-1,1,1,Football League Third Division,3,D
+1988-01-02,1987/1988,Bury,Sunderland,2-3,2,3,Football League Third Division,3,A
+1988-01-02,1987/1988,Brentford,Southend United,1-0,1,0,Football League Third Division,3,H
+1988-01-03,1987/1988,Everton,Nottingham Forest,1-0,1,0,Football League First Division,1,H
+1988-01-03,1987/1988,Southampton,Portsmouth,0-2,0,2,Football League First Division,1,A
+1988-01-03,1987/1988,Hull City,Leeds United,3-1,3,1,Football League Second Division,2,H
+1988-01-09,1987/1988,Darlington,Carlisle United,2-1,2,1,Football League Fourth Division,4,H
+1988-01-09,1987/1988,Peterborough United,Rochdale,1-1,1,1,Football League Fourth Division,4,D
+1988-01-09,1987/1988,Hereford United,Tranmere Rovers,1-1,1,1,Football League Fourth Division,4,D
+1988-01-09,1987/1988,Exeter City,Swansea City,3-1,3,1,Football League Fourth Division,4,H
+1988-01-09,1987/1988,Burnley,Newport County,2-0,2,0,Football League Fourth Division,4,H
+1988-01-09,1987/1988,Preston North End,Bristol City,2-0,2,0,Football League Third Division,3,H
+1988-01-09,1987/1988,Doncaster Rovers,Fulham,2-2,2,2,Football League Third Division,3,D
+1988-01-09,1987/1988,Notts County,York City,3-0,3,0,Football League Third Division,3,H
+1988-01-09,1987/1988,Chester,Southend United,1-1,1,1,Football League Third Division,3,D
+1988-01-09,1987/1988,Bury,Rotherham United,2-2,2,2,Football League Third Division,3,D
+1988-01-09,1987/1988,Brentford,Northampton Town,0-1,0,1,Football League Third Division,3,A
+1988-01-09,1987/1988,Aldershot,Walsall,0-1,0,1,Football League Third Division,3,A
+1988-01-12,1987/1988,Halifax Town,Bolton Wanderers,0-0,0,0,Football League Fourth Division,4,D
+1988-01-12,1987/1988,Newport County,Darlington,2-1,2,1,Football League Fourth Division,4,H
+1988-01-15,1987/1988,Tranmere Rovers,Halifax Town,2-0,2,0,Football League Fourth Division,4,H
+1988-01-15,1987/1988,Colchester United,Hartlepool United,0-0,0,0,Football League Fourth Division,4,D
+1988-01-15,1987/1988,Southend United,Mansfield Town,2-1,2,1,Football League Third Division,3,H
+1988-01-16,1987/1988,Liverpool,Arsenal,2-0,2,0,Football League First Division,1,H
+1988-01-16,1987/1988,Luton Town,Derby County,1-0,1,0,Football League First Division,1,H
+1988-01-16,1987/1988,Manchester United,Southampton,0-2,0,2,Football League First Division,1,A
+1988-01-16,1987/1988,Norwich City,Everton,0-3,0,3,Football League First Division,1,A
+1988-01-16,1987/1988,Portsmouth,Oxford United,2-2,2,2,Football League First Division,1,D
+1988-01-16,1987/1988,Queens Park Rangers,West Ham United,0-1,0,1,Football League First Division,1,A
+1988-01-16,1987/1988,Sheffield Wednesday,Chelsea,3-0,3,0,Football League First Division,1,H
+1988-01-16,1987/1988,Nottingham Forest,Charlton Athletic,2-2,2,2,Football League First Division,1,D
+1988-01-16,1987/1988,Wimbledon,Watford,1-2,1,2,Football League First Division,1,A
+1988-01-16,1987/1988,Tottenham Hotspur,Coventry City,2-2,2,2,Football League First Division,1,D
+1988-01-16,1987/1988,Leyton Orient,Crewe Alexandra,1-1,1,1,Football League Fourth Division,4,D
+1988-01-16,1987/1988,Bolton Wanderers,Torquay United,1-2,1,2,Football League Fourth Division,4,A
+1988-01-16,1987/1988,Cambridge United,Burnley,2-0,2,0,Football League Fourth Division,4,H
+1988-01-16,1987/1988,Carlisle United,Cardiff City,0-0,0,0,Football League Fourth Division,4,D
+1988-01-16,1987/1988,Newport County,Scunthorpe United,1-1,1,1,Football League Fourth Division,4,D
+1988-01-16,1987/1988,Rochdale,Exeter City,0-0,0,0,Football League Fourth Division,4,D
+1988-01-16,1987/1988,Swansea City,Scarborough,3-0,3,0,Football League Fourth Division,4,H
+1988-01-16,1987/1988,Wolverhampton Wanderers,Stockport County,1-1,1,1,Football League Fourth Division,4,D
+1988-01-16,1987/1988,Wrexham,Peterborough United,3-1,3,1,Football League Fourth Division,4,H
+1988-01-16,1987/1988,Shrewsbury Town,Leicester City,0-0,0,0,Football League Second Division,2,D
+1988-01-16,1987/1988,Plymouth Argyle,Manchester City,3-2,3,2,Football League Second Division,2,H
+1988-01-16,1987/1988,Stoke City,Birmingham City,3-1,3,1,Football League Second Division,2,H
+1988-01-16,1987/1988,AFC Bournemouth,Sheffield United,1-2,1,2,Football League Second Division,2,A
+1988-01-16,1987/1988,Aston Villa,Ipswich Town,1-0,1,0,Football League Second Division,2,H
+1988-01-16,1987/1988,Blackburn Rovers,Hull City,2-1,2,1,Football League Second Division,2,H
+1988-01-16,1987/1988,Crystal Palace,Huddersfield Town,2-1,2,1,Football League Second Division,2,H
+1988-01-16,1987/1988,Leeds United,Barnsley,0-2,0,2,Football League Second Division,2,A
+1988-01-16,1987/1988,Millwall,Middlesbrough,2-1,2,1,Football League Second Division,2,H
+1988-01-16,1987/1988,Oldham Athletic,West Bromwich Albion,2-1,2,1,Football League Second Division,2,H
+1988-01-16,1987/1988,Bristol City,Notts County,2-1,2,1,Football League Third Division,3,H
+1988-01-16,1987/1988,Chesterfield,Doncaster Rovers,0-1,0,1,Football League Third Division,3,A
+1988-01-16,1987/1988,Fulham,Port Vale,1-2,1,2,Football League Third Division,3,A
+1988-01-16,1987/1988,Grimsby Town,Chester,2-1,2,1,Football League Third Division,3,H
+1988-01-16,1987/1988,Blackpool,Brentford,0-1,0,1,Football League Third Division,3,A
+1988-01-16,1987/1988,Northampton Town,Bristol Rovers,2-1,2,1,Football League Third Division,3,H
+1988-01-16,1987/1988,Rotherham United,Preston North End,2-2,2,2,Football League Third Division,3,D
+1988-01-16,1987/1988,Sunderland,Brighton & Hove Albion,1-0,1,0,Football League Third Division,3,H
+1988-01-16,1987/1988,Wigan Athletic,Walsall,3-1,3,1,Football League Third Division,3,H
+1988-01-16,1987/1988,York City,Gillingham,0-2,0,2,Football League Third Division,3,A
+1988-01-16,1987/1988,Aldershot,Bury,0-2,0,2,Football League Third Division,3,A
+1988-01-17,1987/1988,Darlington,Hereford United,3-1,3,1,Football League Fourth Division,4,H
+1988-01-22,1987/1988,Southend United,Port Vale,3-3,3,3,Football League Third Division,3,D
+1988-01-23,1987/1988,Watford,Nottingham Forest,0-0,0,0,Football League First Division,1,D
+1988-01-23,1987/1988,Southampton,Norwich City,0-0,0,0,Football League First Division,1,D
+1988-01-23,1987/1988,Newcastle United,Tottenham Hotspur,2-0,2,0,Football League First Division,1,H
+1988-01-23,1987/1988,Chelsea,Portsmouth,0-0,0,0,Football League First Division,1,D
+1988-01-23,1987/1988,Charlton Athletic,Liverpool,0-2,0,2,Football League First Division,1,A
+1988-01-23,1987/1988,Swansea City,Halifax Town,1-1,1,1,Football League Fourth Division,4,D
+1988-01-23,1987/1988,Leyton Orient,Stockport County,1-1,1,1,Football League Fourth Division,4,D
+1988-01-23,1987/1988,Carlisle United,Exeter City,0-0,0,0,Football League Fourth Division,4,D
+1988-01-23,1987/1988,Reading,Shrewsbury Town,1-0,1,0,Football League Second Division,2,H
+1988-01-23,1987/1988,Middlesbrough,Crystal Palace,2-1,2,1,Football League Second Division,2,H
+1988-01-23,1987/1988,Manchester City,Aston Villa,0-2,0,2,Football League Second Division,2,A
+1988-01-23,1987/1988,Gillingham,Wigan Athletic,0-1,0,1,Football League Third Division,3,A
+1988-01-24,1987/1988,Arsenal,Manchester United,1-2,1,2,Football League First Division,1,A
+1988-01-26,1987/1988,Hartlepool United,Wrexham,1-0,1,0,Football League Fourth Division,4,H
+1988-01-26,1987/1988,Rochdale,Torquay United,1-1,1,1,Football League Fourth Division,4,D
+1988-01-26,1987/1988,Grimsby Town,Bury,2-0,2,0,Football League Third Division,3,H
+1988-01-27,1987/1988,Northampton Town,Preston North End,0-1,0,1,Football League Third Division,3,A
+1988-01-29,1987/1988,Stockport County,Newport County,5-1,5,1,Football League Fourth Division,4,H
+1988-01-29,1987/1988,Crewe Alexandra,Rochdale,0-1,0,1,Football League Fourth Division,4,A
+1988-01-29,1987/1988,Oldham Athletic,Crystal Palace,1-0,1,0,Football League Second Division,2,H
+1988-01-30,1987/1988,Scarborough,Colchester United,3-1,3,1,Football League Fourth Division,4,H
+1988-01-30,1987/1988,Scunthorpe United,Wolverhampton Wanderers,0-1,0,1,Football League Fourth Division,4,A
+1988-01-30,1987/1988,Hereford United,Carlisle United,2-0,2,0,Football League Fourth Division,4,H
+1988-01-30,1987/1988,Hartlepool United,Swansea City,0-2,0,2,Football League Fourth Division,4,A
+1988-01-30,1987/1988,Exeter City,Tranmere Rovers,0-1,0,1,Football League Fourth Division,4,A
+1988-01-30,1987/1988,Cardiff City,Cambridge United,4-0,4,0,Football League Fourth Division,4,H
+1988-01-30,1987/1988,Peterborough United,Bolton Wanderers,0-4,0,4,Football League Fourth Division,4,A
+1988-01-30,1987/1988,West Bromwich Albion,Leeds United,1-4,1,4,Football League Second Division,2,A
+1988-01-30,1987/1988,Reading,Leicester City,1-2,1,2,Football League Second Division,2,A
+1988-01-30,1987/1988,Ipswich Town,Blackburn Rovers,0-2,0,2,Football League Second Division,2,A
+1988-01-30,1987/1988,Walsall,York City,2-1,2,1,Football League Third Division,3,H
+1988-01-30,1987/1988,Sunderland,Gillingham,2-1,2,1,Football League Third Division,3,H
+1988-01-30,1987/1988,Notts County,Fulham,5-1,5,1,Football League Third Division,3,H
+1988-01-30,1987/1988,Northampton Town,Wigan Athletic,1-1,1,1,Football League Third Division,3,D
+1988-01-30,1987/1988,Chester,Rotherham United,1-0,1,0,Football League Third Division,3,H
+1988-01-30,1987/1988,Bury,Chesterfield,2-0,2,0,Football League Third Division,3,H
+1988-01-30,1987/1988,Preston North End,Southend United,1-1,1,1,Football League Third Division,3,D
+1988-01-31,1987/1988,Doncaster Rovers,Aldershot,0-0,0,0,Football League Third Division,3,D
+1988-02-02,1987/1988,Darlington,Cardiff City,0-0,0,0,Football League Fourth Division,4,D
+1988-02-02,1987/1988,Wrexham,Burnley,1-3,1,3,Football League Fourth Division,4,A
+1988-02-02,1987/1988,Gillingham,Grimsby Town,1-1,1,1,Football League Third Division,3,D
+1988-02-05,1987/1988,Colchester United,Crewe Alexandra,1-4,1,4,Football League Fourth Division,4,A
+1988-02-05,1987/1988,Newport County,Halifax Town,1-0,1,0,Football League Fourth Division,4,H
+1988-02-05,1987/1988,Southend United,Notts County,1-2,1,2,Football League Third Division,3,A
+1988-02-06,1987/1988,Portsmouth,Derby County,2-1,2,1,Football League First Division,1,H
+1988-02-06,1987/1988,Liverpool,West Ham United,0-0,0,0,Football League First Division,1,D
+1988-02-06,1987/1988,Luton Town,Oxford United,7-4,7,4,Football League First Division,1,H
+1988-02-06,1987/1988,Manchester United,Coventry City,1-0,1,0,Football League First Division,1,H
+1988-02-06,1987/1988,Norwich City,Watford,0-0,0,0,Football League First Division,1,D
+1988-02-06,1987/1988,Nottingham Forest,Chelsea,3-2,3,2,Football League First Division,1,H
+1988-02-06,1987/1988,Queens Park Rangers,Charlton Athletic,2-0,2,0,Football League First Division,1,H
+1988-02-06,1987/1988,Sheffield Wednesday,Southampton,2-1,2,1,Football League First Division,1,H
+1988-02-06,1987/1988,Wimbledon,Newcastle United,0-0,0,0,Football League First Division,1,D
+1988-02-06,1987/1988,Tranmere Rovers,Scarborough,1-0,1,0,Football League Fourth Division,4,H
+1988-02-06,1987/1988,Cambridge United,Torquay United,1-0,1,0,Football League Fourth Division,4,H
+1988-02-06,1987/1988,Carlisle United,Stockport County,2-0,2,0,Football League Fourth Division,4,H
+1988-02-06,1987/1988,Leyton Orient,Hartlepool United,0-2,0,2,Football League Fourth Division,4,A
+1988-02-06,1987/1988,Rochdale,Scunthorpe United,2-1,2,1,Football League Fourth Division,4,H
+1988-02-06,1987/1988,Swansea City,Burnley,0-0,0,0,Football League Fourth Division,4,D
+1988-02-06,1987/1988,Wolverhampton Wanderers,Cardiff City,1-4,1,4,Football League Fourth Division,4,A
+1988-02-06,1987/1988,Bolton Wanderers,Hereford United,1-0,1,0,Football League Fourth Division,4,H
+1988-02-06,1987/1988,Stoke City,Sheffield United,1-0,1,0,Football League Second Division,2,H
+1988-02-06,1987/1988,Swindon Town,Middlesbrough,1-1,1,1,Football League Second Division,2,D
+1988-02-06,1987/1988,AFC Bournemouth,Hull City,6-2,6,2,Football League Second Division,2,H
+1988-02-06,1987/1988,Aston Villa,Leicester City,2-1,2,1,Football League Second Division,2,H
+1988-02-06,1987/1988,Blackburn Rovers,Manchester City,2-1,2,1,Football League Second Division,2,H
+1988-02-06,1987/1988,Crystal Palace,Birmingham City,3-0,3,0,Football League Second Division,2,H
+1988-02-06,1987/1988,Leeds United,Ipswich Town,1-0,1,0,Football League Second Division,2,H
+1988-02-06,1987/1988,Millwall,Bradford City,0-1,0,1,Football League Second Division,2,A
+1988-02-06,1987/1988,Oldham Athletic,Reading,4-2,4,2,Football League Second Division,2,H
+1988-02-06,1987/1988,Shrewsbury Town,West Bromwich Albion,0-1,0,1,Football League Second Division,2,A
+1988-02-06,1987/1988,Wigan Athletic,Bristol Rovers,1-0,1,0,Football League Third Division,3,H
+1988-02-06,1987/1988,Chesterfield,Gillingham,1-4,1,4,Football League Third Division,3,A
+1988-02-06,1987/1988,Bristol City,Bury,3-2,3,2,Football League Third Division,3,H
+1988-02-06,1987/1988,Fulham,Mansfield Town,0-0,0,0,Football League Third Division,3,D
+1988-02-06,1987/1988,Grimsby Town,Preston North End,0-1,0,1,Football League Third Division,3,A
+1988-02-06,1987/1988,Northampton Town,Doncaster Rovers,1-0,1,0,Football League Third Division,3,H
+1988-02-06,1987/1988,Sunderland,Walsall,1-1,1,1,Football League Third Division,3,D
+1988-02-06,1987/1988,York City,Port Vale,2-3,2,3,Football League Third Division,3,A
+1988-02-06,1987/1988,Blackpool,Brighton & Hove Albion,1-3,1,3,Football League Third Division,3,A
+1988-02-06,1987/1988,Aldershot,Chester,4-1,4,1,Football League Third Division,3,H
+1988-02-09,1987/1988,Birmingham City,Millwall,1-0,1,0,Football League Second Division,2,H
+1988-02-09,1987/1988,Bristol City,Walsall,0-0,0,0,Football League Third Division,3,D
+1988-02-10,1987/1988,Derby County,Manchester United,1-2,1,2,Football League First Division,1,A
+1988-02-12,1987/1988,Stockport County,Bolton Wanderers,1-2,1,2,Football League Fourth Division,4,A
+1988-02-13,1987/1988,Arsenal,Luton Town,2-1,2,1,Football League First Division,1,H
+1988-02-13,1987/1988,Charlton Athletic,Wimbledon,1-1,1,1,Football League First Division,1,D
+1988-02-13,1987/1988,Chelsea,Manchester United,1-2,1,2,Football League First Division,1,A
+1988-02-13,1987/1988,Coventry City,Sheffield Wednesday,3-0,3,0,Football League First Division,1,H
+1988-02-13,1987/1988,Everton,Queens Park Rangers,2-0,2,0,Football League First Division,1,H
+1988-02-13,1987/1988,Oxford United,Tottenham Hotspur,0-0,0,0,Football League First Division,1,D
+1988-02-13,1987/1988,Southampton,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1988-02-13,1987/1988,Watford,Liverpool,1-4,1,4,Football League First Division,1,A
+1988-02-13,1987/1988,Newcastle United,Norwich City,1-3,1,3,Football League First Division,1,A
+1988-02-13,1987/1988,West Ham United,Portsmouth,1-1,1,1,Football League First Division,1,D
+1988-02-13,1987/1988,Scunthorpe United,Leyton Orient,3-2,3,2,Football League Fourth Division,4,H
+1988-02-13,1987/1988,Burnley,Darlington,2-1,2,1,Football League Fourth Division,4,H
+1988-02-13,1987/1988,Cardiff City,Colchester United,1-0,1,0,Football League Fourth Division,4,H
+1988-02-13,1987/1988,Crewe Alexandra,Newport County,2-1,2,1,Football League Fourth Division,4,H
+1988-02-13,1987/1988,Exeter City,Wolverhampton Wanderers,2-4,2,4,Football League Fourth Division,4,A
+1988-02-13,1987/1988,Hartlepool United,Rochdale,1-1,1,1,Football League Fourth Division,4,D
+1988-02-13,1987/1988,Hereford United,Wrexham,0-2,0,2,Football League Fourth Division,4,A
+1988-02-13,1987/1988,Peterborough United,Tranmere Rovers,2-1,2,1,Football League Fourth Division,4,H
+1988-02-13,1987/1988,Scarborough,Cambridge United,0-0,0,0,Football League Fourth Division,4,D
+1988-02-13,1987/1988,Sheffield United,Shrewsbury Town,0-1,0,1,Football League Second Division,2,A
+1988-02-13,1987/1988,West Bromwich Albion,Crystal Palace,1-0,1,0,Football League Second Division,2,H
+1988-02-13,1987/1988,Barnsley,Blackburn Rovers,0-1,0,1,Football League Second Division,2,A
+1988-02-13,1987/1988,Bradford City,Oldham Athletic,5-3,5,3,Football League Second Division,2,H
+1988-02-13,1987/1988,Huddersfield Town,Swindon Town,0-3,0,3,Football League Second Division,2,A
+1988-02-13,1987/1988,Hull City,Stoke City,0-0,0,0,Football League Second Division,2,D
+1988-02-13,1987/1988,Ipswich Town,Plymouth Argyle,1-2,1,2,Football League Second Division,2,A
+1988-02-13,1987/1988,Leicester City,Leeds United,3-2,3,2,Football League Second Division,2,H
+1988-02-13,1987/1988,Manchester City,AFC Bournemouth,2-0,2,0,Football League Second Division,2,H
+1988-02-13,1987/1988,Reading,Millwall,2-3,2,3,Football League Second Division,2,A
+1988-02-13,1987/1988,Bury,Northampton Town,0-0,0,0,Football League Third Division,3,D
+1988-02-13,1987/1988,Chester,Wigan Athletic,1-0,1,0,Football League Third Division,3,H
+1988-02-13,1987/1988,Doncaster Rovers,Rotherham United,2-2,2,2,Football League Third Division,3,D
+1988-02-13,1987/1988,Gillingham,Aldershot,2-1,2,1,Football League Third Division,3,H
+1988-02-13,1987/1988,Mansfield Town,York City,2-1,2,1,Football League Third Division,3,H
+1988-02-13,1987/1988,Notts County,Blackpool,2-3,2,3,Football League Third Division,3,A
+1988-02-13,1987/1988,Preston North End,Sunderland,2-2,2,2,Football League Third Division,3,D
+1988-02-13,1987/1988,Walsall,Chesterfield,0-0,0,0,Football League Third Division,3,D
+1988-02-13,1987/1988,Bristol Rovers,Southend United,0-0,0,0,Football League Third Division,3,D
+1988-02-13,1987/1988,Brighton & Hove Albion,Bristol City,3-2,3,2,Football League Third Division,3,H
+1988-02-13,1987/1988,Port Vale,Grimsby Town,2-0,2,0,Football League Third Division,3,H
+1988-02-14,1987/1988,Middlesbrough,Aston Villa,2-1,2,1,Football League Second Division,2,H
+1988-02-14,1987/1988,Brentford,Fulham,3-1,3,1,Football League Third Division,3,H
+1988-02-16,1987/1988,Halifax Town,Wolverhampton Wanderers,2-1,2,1,Football League Fourth Division,4,H
+1988-02-17,1987/1988,Brighton & Hove Albion,Chesterfield,2-2,2,2,Football League Third Division,3,D
+1988-02-17,1987/1988,Rotherham United,Brentford,2-0,2,0,Football League Third Division,3,H
+1988-02-19,1987/1988,Swansea City,Stockport County,1-1,1,1,Football League Fourth Division,4,D
+1988-02-19,1987/1988,Newport County,Hartlepool United,2-3,2,3,Football League Fourth Division,4,A
+1988-02-19,1987/1988,Wolverhampton Wanderers,Scarborough,0-0,0,0,Football League Fourth Division,4,D
+1988-02-19,1987/1988,Cambridge United,Exeter City,2-1,2,1,Football League Fourth Division,4,H
+1988-02-19,1987/1988,Colchester United,Burnley,0-1,0,1,Football League Fourth Division,4,A
+1988-02-20,1987/1988,Oxford United,Derby County,0-0,0,0,Football League First Division,1,D
+1988-02-20,1987/1988,Coventry City,Norwich City,0-0,0,0,Football League First Division,1,D
+1988-02-20,1987/1988,Charlton Athletic,Sheffield Wednesday,3-1,3,1,Football League First Division,1,H
+1988-02-20,1987/1988,Wrexham,Torquay United,2-3,2,3,Football League Fourth Division,4,A
+1988-02-20,1987/1988,Tranmere Rovers,Scunthorpe United,1-3,1,3,Football League Fourth Division,4,A
+1988-02-20,1987/1988,Rochdale,Hereford United,3-1,3,1,Football League Fourth Division,4,H
+1988-02-20,1987/1988,Leyton Orient,Cardiff City,4-1,4,1,Football League Fourth Division,4,H
+1988-02-20,1987/1988,Darlington,Halifax Town,4-1,4,1,Football League Fourth Division,4,H
+1988-02-20,1987/1988,Crewe Alexandra,Bolton Wanderers,2-1,2,1,Football League Fourth Division,4,H
+1988-02-20,1987/1988,Carlisle United,Peterborough United,0-2,0,2,Football League Fourth Division,4,A
+1988-02-20,1987/1988,Shrewsbury Town,Swindon Town,2-1,2,1,Football League Second Division,2,H
+1988-02-20,1987/1988,Sheffield United,Barnsley,1-0,1,0,Football League Second Division,2,H
+1988-02-20,1987/1988,Reading,Middlesbrough,0-0,0,0,Football League Second Division,2,D
+1988-02-20,1987/1988,Millwall,Oldham Athletic,1-1,1,1,Football League Second Division,2,D
+1988-02-20,1987/1988,Ipswich Town,Leicester City,0-2,0,2,Football League Second Division,2,A
+1988-02-20,1987/1988,Blackburn Rovers,Aston Villa,3-2,3,2,Football League Second Division,2,H
+1988-02-20,1987/1988,York City,Brighton & Hove Albion,0-2,0,2,Football League Third Division,3,A
+1988-02-20,1987/1988,Wigan Athletic,Notts County,2-1,2,1,Football League Third Division,3,H
+1988-02-20,1987/1988,Sunderland,Brentford,2-0,2,0,Football League Third Division,3,H
+1988-02-20,1987/1988,Southend United,Bury,1-0,1,0,Football League Third Division,3,H
+1988-02-20,1987/1988,Rotherham United,Bristol Rovers,1-1,1,1,Football League Third Division,3,D
+1988-02-20,1987/1988,Northampton Town,Chester,2-0,2,0,Football League Third Division,3,H
+1988-02-20,1987/1988,Grimsby Town,Doncaster Rovers,0-0,0,0,Football League Third Division,3,D
+1988-02-20,1987/1988,Chesterfield,Preston North End,0-0,0,0,Football League Third Division,3,D
+1988-02-20,1987/1988,Bristol City,Mansfield Town,1-2,1,2,Football League Third Division,3,A
+1988-02-20,1987/1988,Blackpool,Gillingham,3-3,3,3,Football League Third Division,3,D
+1988-02-20,1987/1988,Fulham,Walsall,2-0,2,0,Football League Third Division,3,H
+1988-02-23,1987/1988,Tottenham Hotspur,Manchester United,1-1,1,1,Football League First Division,1,D
+1988-02-23,1987/1988,Torquay United,Wolverhampton Wanderers,0-0,0,0,Football League Fourth Division,4,D
+1988-02-23,1987/1988,Halifax Town,Wrexham,2-0,2,0,Football League Fourth Division,4,H
+1988-02-23,1987/1988,Stoke City,Leeds United,2-1,2,1,Football League Second Division,2,H
+1988-02-23,1987/1988,Walsall,Blackpool,3-2,3,2,Football League Third Division,3,H
+1988-02-23,1987/1988,Aldershot,Notts County,0-2,0,2,Football League Third Division,3,A
+1988-02-23,1987/1988,Brentford,Grimsby Town,0-2,0,2,Football League Third Division,3,A
+1988-02-24,1987/1988,Peterborough United,Hereford United,1-2,1,2,Football League Fourth Division,4,A
+1988-02-24,1987/1988,Scarborough,Leyton Orient,3-1,3,1,Football League Fourth Division,4,H
+1988-02-24,1987/1988,Bristol Rovers,Sunderland,4-0,4,0,Football League Third Division,3,H
+1988-02-26,1987/1988,Colchester United,Newport County,0-0,0,0,Football League Fourth Division,4,D
+1988-02-26,1987/1988,Tranmere Rovers,Darlington,2-1,2,1,Football League Fourth Division,4,H
+1988-02-26,1987/1988,Southend United,Grimsby Town,0-0,0,0,Football League Third Division,3,D
+1988-02-27,1987/1988,Arsenal,Charlton Athletic,4-0,4,0,Football League First Division,1,H
+1988-02-27,1987/1988,Derby County,West Ham United,1-0,1,0,Football League First Division,1,H
+1988-02-27,1987/1988,Everton,Southampton,1-0,1,0,Football League First Division,1,H
+1988-02-27,1987/1988,Newcastle United,Chelsea,3-1,3,1,Football League First Division,1,H
+1988-02-27,1987/1988,Portsmouth,Liverpool,0-2,0,2,Football League First Division,1,A
+1988-02-27,1987/1988,Sheffield Wednesday,Tottenham Hotspur,0-3,0,3,Football League First Division,1,A
+1988-02-27,1987/1988,Watford,Coventry City,0-1,0,1,Football League First Division,1,A
+1988-02-27,1987/1988,Queens Park Rangers,Wimbledon,1-0,1,0,Football League First Division,1,H
+1988-02-27,1987/1988,Hartlepool United,Crewe Alexandra,2-1,2,1,Football League Fourth Division,4,H
+1988-02-27,1987/1988,Cambridge United,Swansea City,0-3,0,3,Football League Fourth Division,4,A
+1988-02-27,1987/1988,Cardiff City,Stockport County,0-0,0,0,Football League Fourth Division,4,D
+1988-02-27,1987/1988,Carlisle United,Rochdale,2-0,2,0,Football League Fourth Division,4,H
+1988-02-27,1987/1988,Hereford United,Halifax Town,2-1,2,1,Football League Fourth Division,4,H
+1988-02-27,1987/1988,Leyton Orient,Wrexham,2-1,2,1,Football League Fourth Division,4,H
+1988-02-27,1987/1988,Scunthorpe United,Peterborough United,5-0,5,0,Football League Fourth Division,4,H
+1988-02-27,1987/1988,Torquay United,Exeter City,1-1,1,1,Football League Fourth Division,4,D
+1988-02-27,1987/1988,Burnley,Scarborough,0-1,0,1,Football League Fourth Division,4,A
+1988-02-27,1987/1988,Wolverhampton Wanderers,Bolton Wanderers,4-0,4,0,Football League Fourth Division,4,H
+1988-02-27,1987/1988,West Bromwich Albion,Reading,0-1,0,1,Football League Second Division,2,A
+1988-02-27,1987/1988,AFC Bournemouth,Stoke City,0-0,0,0,Football League Second Division,2,D
+1988-02-27,1987/1988,Barnsley,Ipswich Town,2-3,2,3,Football League Second Division,2,A
+1988-02-27,1987/1988,Crystal Palace,Shrewsbury Town,1-2,1,2,Football League Second Division,2,A
+1988-02-27,1987/1988,Huddersfield Town,Birmingham City,2-2,2,2,Football League Second Division,2,D
+1988-02-27,1987/1988,Hull City,Sheffield United,1-2,1,2,Football League Second Division,2,A
+1988-02-27,1987/1988,Leeds United,Blackburn Rovers,2-2,2,2,Football League Second Division,2,D
+1988-02-27,1987/1988,Leicester City,Manchester City,1-0,1,0,Football League Second Division,2,H
+1988-02-27,1987/1988,Middlesbrough,Bradford City,1-2,1,2,Football League Second Division,2,A
+1988-02-27,1987/1988,Aston Villa,Plymouth Argyle,5-2,5,2,Football League Second Division,2,H
+1988-02-27,1987/1988,Swindon Town,Millwall,0-1,0,1,Football League Second Division,2,A
+1988-02-27,1987/1988,Rotherham United,Chesterfield,1-1,1,1,Football League Third Division,3,D
+1988-02-27,1987/1988,Fulham,Blackpool,3-1,3,1,Football League Third Division,3,H
+1988-02-27,1987/1988,Gillingham,Doncaster Rovers,3-1,3,1,Football League Third Division,3,H
+1988-02-27,1987/1988,Mansfield Town,Bristol Rovers,1-0,1,0,Football League Third Division,3,H
+1988-02-27,1987/1988,Notts County,Chester,1-0,1,0,Football League Third Division,3,H
+1988-02-27,1987/1988,Port Vale,Brentford,1-0,1,0,Football League Third Division,3,H
+1988-02-27,1987/1988,Preston North End,Walsall,1-0,1,0,Football League Third Division,3,H
+1988-02-27,1987/1988,York City,Wigan Athletic,3-1,3,1,Football League Third Division,3,H
+1988-02-27,1987/1988,Bury,Brighton & Hove Albion,2-1,2,1,Football League Third Division,3,H
+1988-02-27,1987/1988,Bristol City,Northampton Town,2-2,2,2,Football League Third Division,3,D
+1988-02-27,1987/1988,Aldershot,Sunderland,3-2,3,2,Football League Third Division,3,H
+1988-03-01,1987/1988,Southampton,Newcastle United,1-1,1,1,Football League First Division,1,D
+1988-03-01,1987/1988,Tottenham Hotspur,Derby County,0-0,0,0,Football League First Division,1,D
+1988-03-01,1987/1988,Crewe Alexandra,Burnley,0-1,0,1,Football League Fourth Division,4,A
+1988-03-01,1987/1988,Halifax Town,Cardiff City,0-1,0,1,Football League Fourth Division,4,A
+1988-03-01,1987/1988,Newport County,Leyton Orient,0-0,0,0,Football League Fourth Division,4,D
+1988-03-01,1987/1988,Wrexham,Cambridge United,3-0,3,0,Football League Fourth Division,4,H
+1988-03-01,1987/1988,Swansea City,Colchester United,1-2,1,2,Football League Fourth Division,4,A
+1988-03-01,1987/1988,Bolton Wanderers,Tranmere Rovers,2-0,2,0,Football League Fourth Division,4,H
+1988-03-01,1987/1988,Stockport County,Scunthorpe United,1-1,1,1,Football League Fourth Division,4,D
+1988-03-01,1987/1988,Rochdale,Wolverhampton Wanderers,0-1,0,1,Football League Fourth Division,4,A
+1988-03-01,1987/1988,Bradford City,Huddersfield Town,0-1,0,1,Football League Second Division,2,A
+1988-03-01,1987/1988,Wigan Athletic,Aldershot,4-0,4,0,Football League Third Division,3,H
+1988-03-01,1987/1988,Sunderland,Fulham,2-0,2,0,Football League Third Division,3,H
+1988-03-01,1987/1988,Walsall,Bury,2-1,2,1,Football League Third Division,3,H
+1988-03-01,1987/1988,Brentford,Preston North End,2-0,2,0,Football League Third Division,3,H
+1988-03-01,1987/1988,Chesterfield,Bristol City,1-4,1,4,Football League Third Division,3,A
+1988-03-01,1987/1988,Doncaster Rovers,Mansfield Town,0-2,0,2,Football League Third Division,3,A
+1988-03-01,1987/1988,Blackpool,York City,2-1,2,1,Football League Third Division,3,H
+1988-03-02,1987/1988,Scarborough,Torquay United,1-2,1,2,Football League Fourth Division,4,A
+1988-03-02,1987/1988,Exeter City,Hartlepool United,1-0,1,0,Football League Fourth Division,4,H
+1988-03-02,1987/1988,Manchester City,Hull City,2-0,2,0,Football League Second Division,2,H
+1988-03-02,1987/1988,Brighton & Hove Albion,Port Vale,2-0,2,0,Football League Third Division,3,H
+1988-03-02,1987/1988,Bristol Rovers,Notts County,1-1,1,1,Football League Third Division,3,D
+1988-03-02,1987/1988,Chester,Gillingham,3-1,3,1,Football League Third Division,3,H
+1988-03-02,1987/1988,Northampton Town,Southend United,4-0,4,0,Football League Third Division,3,H
+1988-03-04,1987/1988,Stockport County,Halifax Town,1-0,1,0,Football League Fourth Division,4,H
+1988-03-04,1987/1988,Tranmere Rovers,Wolverhampton Wanderers,3-0,3,0,Football League Fourth Division,4,H
+1988-03-04,1987/1988,Cardiff City,Peterborough United,0-0,0,0,Football League Fourth Division,4,D
+1988-03-04,1987/1988,Colchester United,Wrexham,1-2,1,2,Football League Fourth Division,4,A
+1988-03-05,1987/1988,Coventry City,Chelsea,3-3,3,3,Football League First Division,1,D
+1988-03-05,1987/1988,Derby County,Charlton Athletic,1-1,1,1,Football League First Division,1,D
+1988-03-05,1987/1988,Everton,Newcastle United,1-0,1,0,Football League First Division,1,H
+1988-03-05,1987/1988,Norwich City,Manchester United,1-0,1,0,Football League First Division,1,H
+1988-03-05,1987/1988,Queens Park Rangers,Liverpool,0-1,0,1,Football League First Division,1,A
+1988-03-05,1987/1988,Sheffield Wednesday,Nottingham Forest,0-1,0,1,Football League First Division,1,A
+1988-03-05,1987/1988,Watford,Southampton,0-1,0,1,Football League First Division,1,A
+1988-03-05,1987/1988,West Ham United,Oxford United,1-1,1,1,Football League First Division,1,D
+1988-03-05,1987/1988,Wimbledon,Luton Town,2-0,2,0,Football League First Division,1,H
+1988-03-05,1987/1988,Torquay United,Hartlepool United,1-1,1,1,Football League Fourth Division,4,D
+1988-03-05,1987/1988,Burnley,Exeter City,3-0,3,0,Football League Fourth Division,4,H
+1988-03-05,1987/1988,Cambridge United,Leyton Orient,2-0,2,0,Football League Fourth Division,4,H
+1988-03-05,1987/1988,Carlisle United,Bolton Wanderers,0-2,0,2,Football League Fourth Division,4,A
+1988-03-05,1987/1988,Darlington,Rochdale,2-1,2,1,Football League Fourth Division,4,H
+1988-03-05,1987/1988,Newport County,Swansea City,1-2,1,2,Football League Fourth Division,4,A
+1988-03-05,1987/1988,Scarborough,Crewe Alexandra,2-0,2,0,Football League Fourth Division,4,H
+1988-03-05,1987/1988,Scunthorpe United,Hereford United,3-0,3,0,Football League Fourth Division,4,H
+1988-03-05,1987/1988,Manchester City,Ipswich Town,2-0,2,0,Football League Second Division,2,H
+1988-03-05,1987/1988,Stoke City,Blackburn Rovers,2-1,2,1,Football League Second Division,2,H
+1988-03-05,1987/1988,West Bromwich Albion,Middlesbrough,0-0,0,0,Football League Second Division,2,D
+1988-03-05,1987/1988,AFC Bournemouth,Aston Villa,1-2,1,2,Football League Second Division,2,A
+1988-03-05,1987/1988,Birmingham City,Bradford City,1-1,1,1,Football League Second Division,2,D
+1988-03-05,1987/1988,Crystal Palace,Oldham Athletic,3-1,3,1,Football League Second Division,2,H
+1988-03-05,1987/1988,Huddersfield Town,Reading,0-2,0,2,Football League Second Division,2,A
+1988-03-05,1987/1988,Hull City,Barnsley,1-2,1,2,Football League Second Division,2,A
+1988-03-05,1987/1988,Leeds United,Plymouth Argyle,1-0,1,0,Football League Second Division,2,H
+1988-03-05,1987/1988,Leicester City,Sheffield United,1-0,1,0,Football League Second Division,2,H
+1988-03-05,1987/1988,Shrewsbury Town,Millwall,0-0,0,0,Football League Second Division,2,D
+1988-03-05,1987/1988,Bury,Port Vale,0-1,0,1,Football League Third Division,3,A
+1988-03-05,1987/1988,Chester,Bristol Rovers,0-3,0,3,Football League Third Division,3,A
+1988-03-05,1987/1988,Chesterfield,Northampton Town,0-2,0,2,Football League Third Division,3,A
+1988-03-05,1987/1988,Fulham,Wigan Athletic,3-2,3,2,Football League Third Division,3,H
+1988-03-05,1987/1988,Gillingham,Mansfield Town,0-0,0,0,Football League Third Division,3,D
+1988-03-05,1987/1988,Notts County,Doncaster Rovers,2-0,2,0,Football League Third Division,3,H
+1988-03-05,1987/1988,Preston North End,Brighton & Hove Albion,3-0,3,0,Football League Third Division,3,H
+1988-03-05,1987/1988,Rotherham United,Southend United,1-1,1,1,Football League Third Division,3,D
+1988-03-05,1987/1988,Sunderland,Blackpool,2-2,2,2,Football League Third Division,3,D
+1988-03-05,1987/1988,Bristol City,Grimsby Town,1-1,1,1,Football League Third Division,3,D
+1988-03-05,1987/1988,Walsall,Brentford,4-2,4,2,Football League Third Division,3,H
+1988-03-05,1987/1988,Aldershot,York City,1-2,1,2,Football League Third Division,3,A
+1988-03-06,1987/1988,Arsenal,Tottenham Hotspur,2-1,2,1,Football League First Division,1,H
+1988-03-08,1987/1988,Sheffield United,Manchester City,1-2,1,2,Football League Second Division,2,A
+1988-03-08,1987/1988,Barnsley,AFC Bournemouth,2-1,2,1,Football League Second Division,2,H
+1988-03-08,1987/1988,Birmingham City,West Bromwich Albion,0-1,0,1,Football League Second Division,2,A
+1988-03-08,1987/1988,Grimsby Town,Rotherham United,2-1,2,1,Football League Third Division,3,H
+1988-03-09,1987/1988,Tottenham Hotspur,Everton,2-1,2,1,Football League First Division,1,H
+1988-03-09,1987/1988,Exeter City,Peterborough United,0-1,0,1,Football League Fourth Division,4,A
+1988-03-11,1987/1988,Bolton Wanderers,Darlington,1-1,1,1,Football League Fourth Division,4,D
+1988-03-11,1987/1988,Crewe Alexandra,Torquay United,0-1,0,1,Football League Fourth Division,4,A
+1988-03-11,1987/1988,Doncaster Rovers,Chester,2-2,2,2,Football League Third Division,3,D
+1988-03-11,1987/1988,Northampton Town,Rotherham United,0-0,0,0,Football League Third Division,3,D
+1988-03-11,1987/1988,Southend United,Bristol City,2-0,2,0,Football League Third Division,3,H
+1988-03-12,1987/1988,Charlton Athletic,West Ham United,3-0,3,0,Football League First Division,1,H
+1988-03-12,1987/1988,Chelsea,Everton,0-0,0,0,Football League First Division,1,D
+1988-03-12,1987/1988,Manchester United,Sheffield Wednesday,4-1,4,1,Football League First Division,1,H
+1988-03-12,1987/1988,Southampton,Coventry City,1-2,1,2,Football League First Division,1,A
+1988-03-12,1987/1988,Tottenham Hotspur,Norwich City,1-3,1,3,Football League First Division,1,A
+1988-03-12,1987/1988,Exeter City,Scarborough,1-0,1,0,Football League Fourth Division,4,H
+1988-03-12,1987/1988,Halifax Town,Scunthorpe United,2-2,2,2,Football League Fourth Division,4,D
+1988-03-12,1987/1988,Peterborough United,Stockport County,0-0,0,0,Football League Fourth Division,4,D
+1988-03-12,1987/1988,Leyton Orient,Colchester United,0-0,0,0,Football League Fourth Division,4,D
+1988-03-12,1987/1988,Newport County,Cambridge United,0-0,0,0,Football League Fourth Division,4,D
+1988-03-12,1987/1988,Rochdale,Tranmere Rovers,0-0,0,0,Football League Fourth Division,4,D
+1988-03-12,1987/1988,Wolverhampton Wanderers,Carlisle United,3-1,3,1,Football League Fourth Division,4,H
+1988-03-12,1987/1988,Wrexham,Swansea City,1-2,1,2,Football League Fourth Division,4,A
+1988-03-12,1987/1988,Hartlepool United,Burnley,2-1,2,1,Football League Fourth Division,4,H
+1988-03-12,1987/1988,Barnsley,Leicester City,1-1,1,1,Football League Second Division,2,D
+1988-03-12,1987/1988,Blackburn Rovers,AFC Bournemouth,3-1,3,1,Football League Second Division,2,H
+1988-03-12,1987/1988,Aston Villa,Leeds United,1-2,1,2,Football League Second Division,2,A
+1988-03-12,1987/1988,Ipswich Town,Hull City,2-0,2,0,Football League Second Division,2,H
+1988-03-12,1987/1988,Middlesbrough,Huddersfield Town,2-0,2,0,Football League Second Division,2,H
+1988-03-12,1987/1988,Millwall,Crystal Palace,1-1,1,1,Football League Second Division,2,D
+1988-03-12,1987/1988,Oldham Athletic,Swindon Town,4-3,4,3,Football League Second Division,2,H
+1988-03-12,1987/1988,Plymouth Argyle,Stoke City,3-0,3,0,Football League Second Division,2,H
+1988-03-12,1987/1988,Reading,Birmingham City,1-1,1,1,Football League Second Division,2,D
+1988-03-12,1987/1988,Bradford City,West Bromwich Albion,4-1,4,1,Football League Second Division,2,H
+1988-03-12,1987/1988,Grimsby Town,Chesterfield,1-1,1,1,Football League Third Division,3,D
+1988-03-12,1987/1988,Mansfield Town,Notts County,1-1,1,1,Football League Third Division,3,D
+1988-03-12,1987/1988,Port Vale,Preston North End,3-2,3,2,Football League Third Division,3,H
+1988-03-12,1987/1988,Wigan Athletic,Sunderland,2-2,2,2,Football League Third Division,3,D
+1988-03-12,1987/1988,York City,Fulham,1-3,1,3,Football League Third Division,3,A
+1988-03-12,1987/1988,Bristol Rovers,Gillingham,2-0,2,0,Football League Third Division,3,H
+1988-03-12,1987/1988,Brighton & Hove Albion,Walsall,2-1,2,1,Football League Third Division,3,H
+1988-03-12,1987/1988,Brentford,Bury,0-3,0,3,Football League Third Division,3,A
+1988-03-12,1987/1988,Blackpool,Aldershot,3-2,3,2,Football League Third Division,3,H
+1988-03-13,1987/1988,Hereford United,Cardiff City,1-2,1,2,Football League Fourth Division,4,A
+1988-03-15,1987/1988,Coventry City,Luton Town,4-0,4,0,Football League First Division,1,H
+1988-03-15,1987/1988,Darlington,Peterborough United,2-1,2,1,Football League Fourth Division,4,H
+1988-03-15,1987/1988,Swindon Town,Barnsley,3-0,3,0,Football League Second Division,2,H
+1988-03-16,1987/1988,Norwich City,Oxford United,4-2,4,2,Football League First Division,1,H
+1988-03-16,1987/1988,Derby County,Liverpool,1-1,1,1,Football League First Division,1,D
+1988-03-16,1987/1988,Queens Park Rangers,Nottingham Forest,2-1,2,1,Football League First Division,1,H
+1988-03-16,1987/1988,Cardiff City,Wrexham,1-1,1,1,Football League Fourth Division,4,D
+1988-03-16,1987/1988,Leicester City,Stoke City,1-1,1,1,Football League Second Division,2,D
+1988-03-16,1987/1988,Rotherham United,Brighton & Hove Albion,1-0,1,0,Football League Third Division,3,H
+1988-03-18,1987/1988,Stockport County,Burnley,2-0,2,0,Football League Fourth Division,4,H
+1988-03-18,1987/1988,Swansea City,Bolton Wanderers,1-0,1,0,Football League Fourth Division,4,H
+1988-03-19,1987/1988,Arsenal,Newcastle United,1-1,1,1,Football League First Division,1,D
+1988-03-19,1987/1988,Coventry City,Derby County,0-3,0,3,Football League First Division,1,A
+1988-03-19,1987/1988,Nottingham Forest,Manchester United,0-0,0,0,Football League First Division,1,D
+1988-03-19,1987/1988,Oxford United,Chelsea,4-4,4,4,Football League First Division,1,D
+1988-03-19,1987/1988,Queens Park Rangers,Norwich City,3-0,3,0,Football League First Division,1,H
+1988-03-19,1987/1988,Sheffield Wednesday,Portsmouth,1-0,1,0,Football League First Division,1,H
+1988-03-19,1987/1988,Southampton,Charlton Athletic,0-1,0,1,Football League First Division,1,A
+1988-03-19,1987/1988,West Ham United,Watford,1-0,1,0,Football League First Division,1,H
+1988-03-19,1987/1988,Wimbledon,Tottenham Hotspur,3-0,3,0,Football League First Division,1,H
+1988-03-19,1987/1988,Cambridge United,Tranmere Rovers,1-1,1,1,Football League Fourth Division,4,D
+1988-03-19,1987/1988,Carlisle United,Crewe Alexandra,0-1,0,1,Football League Fourth Division,4,A
+1988-03-19,1987/1988,Darlington,Colchester United,2-0,2,0,Football League Fourth Division,4,H
+1988-03-19,1987/1988,Exeter City,Hereford United,2-2,2,2,Football League Fourth Division,4,D
+1988-03-19,1987/1988,Scarborough,Wrexham,0-2,0,2,Football League Fourth Division,4,A
+1988-03-19,1987/1988,Scunthorpe United,Hartlepool United,3-0,3,0,Football League Fourth Division,4,H
+1988-03-19,1987/1988,Torquay United,Peterborough United,0-0,0,0,Football League Fourth Division,4,D
+1988-03-19,1987/1988,Stoke City,Barnsley,3-1,3,1,Football League Second Division,2,H
+1988-03-19,1987/1988,Reading,Aston Villa,0-2,0,2,Football League Second Division,2,A
+1988-03-19,1987/1988,Blackburn Rovers,Leicester City,3-3,3,3,Football League Second Division,2,D
+1988-03-19,1987/1988,Crystal Palace,Bradford City,1-1,1,1,Football League Second Division,2,D
+1988-03-19,1987/1988,Hull City,Plymouth Argyle,1-1,1,1,Football League Second Division,2,D
+1988-03-19,1987/1988,Ipswich Town,AFC Bournemouth,1-2,1,2,Football League Second Division,2,A
+1988-03-19,1987/1988,Leeds United,Sheffield United,5-0,5,0,Football League Second Division,2,H
+1988-03-19,1987/1988,Manchester City,Swindon Town,1-1,1,1,Football League Second Division,2,D
+1988-03-19,1987/1988,Shrewsbury Town,Middlesbrough,0-1,0,1,Football League Second Division,2,A
+1988-03-19,1987/1988,Millwall,Huddersfield Town,4-1,4,1,Football League Second Division,2,H
+1988-03-19,1987/1988,Birmingham City,Oldham Athletic,1-3,1,3,Football League Second Division,2,A
+1988-03-19,1987/1988,Blackpool,Mansfield Town,2-0,2,0,Football League Third Division,3,H
+1988-03-19,1987/1988,Brighton & Hove Albion,Grimsby Town,0-0,0,0,Football League Third Division,3,D
+1988-03-19,1987/1988,Bury,Doncaster Rovers,2-1,2,1,Football League Third Division,3,H
+1988-03-19,1987/1988,Chester,Preston North End,1-0,1,0,Football League Third Division,3,H
+1988-03-19,1987/1988,Chesterfield,York City,2-1,2,1,Football League Third Division,3,H
+1988-03-19,1987/1988,Fulham,Bristol City,0-0,0,0,Football League Third Division,3,D
+1988-03-19,1987/1988,Gillingham,Port Vale,0-0,0,0,Football League Third Division,3,D
+1988-03-19,1987/1988,Northampton Town,Aldershot,1-1,1,1,Football League Third Division,3,D
+1988-03-19,1987/1988,Rotherham United,Wigan Athletic,1-1,1,1,Football League Third Division,3,D
+1988-03-19,1987/1988,Walsall,Southend United,2-1,2,1,Football League Third Division,3,H
+1988-03-19,1987/1988,Sunderland,Notts County,1-1,1,1,Football League Third Division,3,D
+1988-03-19,1987/1988,Bristol Rovers,Brentford,0-0,0,0,Football League Third Division,3,D
+1988-03-20,1987/1988,Everton,Liverpool,1-0,1,0,Football League First Division,1,H
+1988-03-22,1987/1988,Wolverhampton Wanderers,Peterborough United,0-1,0,1,Football League Fourth Division,4,A
+1988-03-22,1987/1988,Wrexham,Exeter City,3-0,3,0,Football League Fourth Division,4,H
+1988-03-22,1987/1988,Burnley,Leyton Orient,2-0,2,0,Football League Fourth Division,4,H
+1988-03-22,1987/1988,Mansfield Town,Aldershot,1-0,1,0,Football League Third Division,3,H
+1988-03-25,1987/1988,Colchester United,Cambridge United,0-0,0,0,Football League Fourth Division,4,D
+1988-03-25,1987/1988,Tranmere Rovers,Carlisle United,3-0,3,0,Football League Fourth Division,4,H
+1988-03-25,1987/1988,Doncaster Rovers,Bristol Rovers,0-1,0,1,Football League Third Division,3,A
+1988-03-25,1987/1988,Southend United,Chesterfield,3-0,3,0,Football League Third Division,3,H
+1988-03-25,1987/1988,Wigan Athletic,Blackpool,0-0,0,0,Football League Third Division,3,D
+1988-03-26,1987/1988,Charlton Athletic,Oxford United,0-0,0,0,Football League First Division,1,D
+1988-03-26,1987/1988,Chelsea,Southampton,0-1,0,1,Football League First Division,1,A
+1988-03-26,1987/1988,Derby County,Arsenal,0-0,0,0,Football League First Division,1,D
+1988-03-26,1987/1988,Manchester United,West Ham United,3-1,3,1,Football League First Division,1,H
+1988-03-26,1987/1988,Newcastle United,Coventry City,2-2,2,2,Football League First Division,1,D
+1988-03-26,1987/1988,Norwich City,Sheffield Wednesday,0-3,0,3,Football League First Division,1,A
+1988-03-26,1987/1988,Portsmouth,Queens Park Rangers,0-1,0,1,Football League First Division,1,A
+1988-03-26,1987/1988,Liverpool,Wimbledon,2-1,2,1,Football League First Division,1,H
+1988-03-26,1987/1988,Watford,Everton,1-2,1,2,Football League First Division,1,A
+1988-03-26,1987/1988,Tottenham Hotspur,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1988-03-26,1987/1988,Wrexham,Newport County,4-1,4,1,Football League Fourth Division,4,H
+1988-03-26,1987/1988,Crewe Alexandra,Exeter City,0-0,0,0,Football League Fourth Division,4,D
+1988-03-26,1987/1988,Cardiff City,Scunthorpe United,0-1,0,1,Football League Fourth Division,4,A
+1988-03-26,1987/1988,Hartlepool United,Scarborough,1-0,1,0,Football League Fourth Division,4,H
+1988-03-26,1987/1988,Hereford United,Stockport County,0-1,0,1,Football League Fourth Division,4,A
+1988-03-26,1987/1988,Leyton Orient,Swansea City,3-0,3,0,Football League Fourth Division,4,H
+1988-03-26,1987/1988,Peterborough United,Halifax Town,1-0,1,0,Football League Fourth Division,4,H
+1988-03-26,1987/1988,Wolverhampton Wanderers,Darlington,5-3,5,3,Football League Fourth Division,4,H
+1988-03-26,1987/1988,Bolton Wanderers,Rochdale,0-0,0,0,Football League Fourth Division,4,D
+1988-03-26,1987/1988,Sheffield United,Ipswich Town,4-1,4,1,Football League Second Division,2,H
+1988-03-26,1987/1988,Oldham Athletic,Shrewsbury Town,2-2,2,2,Football League Second Division,2,D
+1988-03-26,1987/1988,Middlesbrough,Birmingham City,1-1,1,1,Football League Second Division,2,D
+1988-03-26,1987/1988,Leicester City,Hull City,2-1,2,1,Football League Second Division,2,H
+1988-03-26,1987/1988,Huddersfield Town,West Bromwich Albion,1-3,1,3,Football League Second Division,2,A
+1988-03-26,1987/1988,Plymouth Argyle,Blackburn Rovers,3-0,3,0,Football League Second Division,2,H
+1988-03-26,1987/1988,Barnsley,Manchester City,3-1,3,1,Football League Second Division,2,H
+1988-03-26,1987/1988,Aston Villa,Stoke City,0-1,0,1,Football League Second Division,2,A
+1988-03-26,1987/1988,AFC Bournemouth,Leeds United,0-0,0,0,Football League Second Division,2,D
+1988-03-26,1987/1988,Brentford,Brighton & Hove Albion,1-1,1,1,Football League Third Division,3,D
+1988-03-26,1987/1988,Grimsby Town,Northampton Town,2-2,2,2,Football League Third Division,3,D
+1988-03-26,1987/1988,Mansfield Town,Chester,1-2,1,2,Football League Third Division,3,A
+1988-03-26,1987/1988,Notts County,Gillingham,0-1,0,1,Football League Third Division,3,A
+1988-03-26,1987/1988,Port Vale,Walsall,2-1,2,1,Football League Third Division,3,H
+1988-03-26,1987/1988,Preston North End,Bury,1-0,1,0,Football League Third Division,3,H
+1988-03-26,1987/1988,York City,Sunderland,2-1,2,1,Football League Third Division,3,H
+1988-03-26,1987/1988,Aldershot,Fulham,0-3,0,3,Football League Third Division,3,A
+1988-03-26,1987/1988,Bristol City,Rotherham United,2-0,2,0,Football League Third Division,3,H
+1988-03-27,1987/1988,Swindon Town,Crystal Palace,2-2,2,2,Football League Second Division,2,D
+1988-03-28,1987/1988,Wigan Athletic,Mansfield Town,2-1,2,1,Football League Third Division,3,H
+1988-03-29,1987/1988,Chelsea,Watford,1-1,1,1,Football League First Division,1,D
+1988-03-29,1987/1988,Everton,Wimbledon,2-2,2,2,Football League First Division,1,D
+1988-03-29,1987/1988,Luton Town,Portsmouth,4-1,4,1,Football League First Division,1,H
+1988-03-29,1987/1988,Rochdale,Cardiff City,2-2,2,2,Football League Fourth Division,4,D
+1988-03-29,1987/1988,Torquay United,Swansea City,0-1,0,1,Football League Fourth Division,4,A
+1988-03-29,1987/1988,Aldershot,Blackpool,0-0,0,0,Football League Third Division,3,D
+1988-03-30,1987/1988,Nottingham Forest,Derby County,2-1,2,1,Football League First Division,1,H
+1988-03-30,1987/1988,Oxford United,Arsenal,0-0,0,0,Football League First Division,1,D
+1988-03-30,1987/1988,Swindon Town,Bradford City,2-2,2,2,Football League Second Division,2,D
+1988-04-01,1987/1988,Watford,Queens Park Rangers,0-1,0,1,Football League First Division,1,A
+1988-04-01,1987/1988,Cambridge United,Darlington,1-0,1,0,Football League Fourth Division,4,H
+1988-04-01,1987/1988,Colchester United,Halifax Town,2-1,2,1,Football League Fourth Division,4,H
+1988-04-01,1987/1988,Crewe Alexandra,Hereford United,0-0,0,0,Football League Fourth Division,4,D
+1988-04-01,1987/1988,Oldham Athletic,Blackburn Rovers,4-2,4,2,Football League Second Division,2,H
+1988-04-01,1987/1988,Southend United,Wigan Athletic,3-2,3,2,Football League Third Division,3,H
+1988-04-02,1987/1988,Chelsea,Arsenal,1-1,1,1,Football League First Division,1,D
+1988-04-02,1987/1988,Coventry City,Oxford United,1-0,1,0,Football League First Division,1,H
+1988-04-02,1987/1988,Manchester United,Derby County,4-1,4,1,Football League First Division,1,H
+1988-04-02,1987/1988,Newcastle United,Luton Town,4-0,4,0,Football League First Division,1,H
+1988-04-02,1987/1988,Nottingham Forest,Liverpool,2-1,2,1,Football League First Division,1,H
+1988-04-02,1987/1988,Sheffield Wednesday,West Ham United,2-1,2,1,Football League First Division,1,H
+1988-04-02,1987/1988,Southampton,Wimbledon,2-2,2,2,Football League First Division,1,D
+1988-04-02,1987/1988,Norwich City,Charlton Athletic,2-0,2,0,Football League First Division,1,H
+1988-04-02,1987/1988,Tottenham Hotspur,Portsmouth,0-1,0,1,Football League First Division,1,A
+1988-04-02,1987/1988,Hartlepool United,Peterborough United,0-1,0,1,Football League Fourth Division,4,A
+1988-04-02,1987/1988,Wrexham,Tranmere Rovers,3-0,3,0,Football League Fourth Division,4,H
+1988-04-02,1987/1988,Exeter City,Cardiff City,0-2,0,2,Football League Fourth Division,4,A
+1988-04-02,1987/1988,Leyton Orient,Bolton Wanderers,1-2,1,2,Football League Fourth Division,4,A
+1988-04-02,1987/1988,Newport County,Carlisle United,1-2,1,2,Football League Fourth Division,4,A
+1988-04-02,1987/1988,Scarborough,Scunthorpe United,0-0,0,0,Football League Fourth Division,4,D
+1988-04-02,1987/1988,Swansea City,Rochdale,0-3,0,3,Football League Fourth Division,4,A
+1988-04-02,1987/1988,Torquay United,Stockport County,3-0,3,0,Football League Fourth Division,4,H
+1988-04-02,1987/1988,Burnley,Wolverhampton Wanderers,0-3,0,3,Football League Fourth Division,4,A
+1988-04-02,1987/1988,Swindon Town,Leicester City,3-2,3,2,Football League Second Division,2,H
+1988-04-02,1987/1988,West Bromwich Albion,Stoke City,2-0,2,0,Football League Second Division,2,H
+1988-04-02,1987/1988,Birmingham City,Hull City,1-1,1,1,Football League Second Division,2,D
+1988-04-02,1987/1988,Bradford City,Barnsley,1-1,1,1,Football League Second Division,2,D
+1988-04-02,1987/1988,Crystal Palace,AFC Bournemouth,3-0,3,0,Football League Second Division,2,H
+1988-04-02,1987/1988,Huddersfield Town,Manchester City,1-0,1,0,Football League Second Division,2,H
+1988-04-02,1987/1988,Middlesbrough,Sheffield United,6-0,6,0,Football League Second Division,2,H
+1988-04-02,1987/1988,Millwall,Aston Villa,2-1,2,1,Football League Second Division,2,H
+1988-04-02,1987/1988,Reading,Ipswich Town,1-1,1,1,Football League Second Division,2,D
+1988-04-02,1987/1988,Shrewsbury Town,Leeds United,1-0,1,0,Football League Second Division,2,H
+1988-04-02,1987/1988,Brighton & Hove Albion,Gillingham,2-0,2,0,Football League Third Division,3,H
+1988-04-02,1987/1988,Bristol City,Aldershot,2-0,2,0,Football League Third Division,3,H
+1988-04-02,1987/1988,Bury,York City,0-1,0,1,Football League Third Division,3,A
+1988-04-02,1987/1988,Chesterfield,Bristol Rovers,0-1,0,1,Football League Third Division,3,A
+1988-04-02,1987/1988,Grimsby Town,Sunderland,0-1,0,1,Football League Third Division,3,A
+1988-04-02,1987/1988,Northampton Town,Fulham,3-2,3,2,Football League Third Division,3,H
+1988-04-02,1987/1988,Port Vale,Doncaster Rovers,5-0,5,0,Football League Third Division,3,H
+1988-04-02,1987/1988,Preston North End,Mansfield Town,1-0,1,0,Football League Third Division,3,H
+1988-04-02,1987/1988,Rotherham United,Blackpool,0-1,0,1,Football League Third Division,3,A
+1988-04-02,1987/1988,Walsall,Chester,1-0,1,0,Football League Third Division,3,H
+1988-04-02,1987/1988,Brentford,Notts County,1-0,1,0,Football League Third Division,3,H
+1988-04-04,1987/1988,Arsenal,Norwich City,2-0,2,0,Football League First Division,1,H
+1988-04-04,1987/1988,Charlton Athletic,Watford,1-0,1,0,Football League First Division,1,H
+1988-04-04,1987/1988,Derby County,Newcastle United,2-1,2,1,Football League First Division,1,H
+1988-04-04,1987/1988,Liverpool,Manchester United,3-3,3,3,Football League First Division,1,D
+1988-04-04,1987/1988,Oxford United,Southampton,0-0,0,0,Football League First Division,1,D
+1988-04-04,1987/1988,Portsmouth,Nottingham Forest,0-1,0,1,Football League First Division,1,A
+1988-04-04,1987/1988,Queens Park Rangers,Tottenham Hotspur,2-0,2,0,Football League First Division,1,H
+1988-04-04,1987/1988,West Ham United,Everton,0-0,0,0,Football League First Division,1,D
+1988-04-04,1987/1988,Bolton Wanderers,Burnley,2-1,2,1,Football League Fourth Division,4,H
+1988-04-04,1987/1988,Cardiff City,Newport County,4-0,4,0,Football League Fourth Division,4,H
+1988-04-04,1987/1988,Wolverhampton Wanderers,Colchester United,2-0,2,0,Football League Fourth Division,4,H
+1988-04-04,1987/1988,Darlington,Leyton Orient,2-2,2,2,Football League Fourth Division,4,D
+1988-04-04,1987/1988,Halifax Town,Scarborough,2-2,2,2,Football League Fourth Division,4,D
+1988-04-04,1987/1988,Hereford United,Torquay United,0-0,0,0,Football League Fourth Division,4,D
+1988-04-04,1987/1988,Rochdale,Cambridge United,2-1,2,1,Football League Fourth Division,4,H
+1988-04-04,1987/1988,Scunthorpe United,Crewe Alexandra,2-1,2,1,Football League Fourth Division,4,H
+1988-04-04,1987/1988,Stockport County,Exeter City,2-1,2,1,Football League Fourth Division,4,H
+1988-04-04,1987/1988,Tranmere Rovers,Hartlepool United,3-1,3,1,Football League Fourth Division,4,H
+1988-04-04,1987/1988,Carlisle United,Wrexham,0-4,0,4,Football League Fourth Division,4,A
+1988-04-04,1987/1988,Peterborough United,Swansea City,0-1,0,1,Football League Fourth Division,4,A
+1988-04-04,1987/1988,Aston Villa,Oldham Athletic,1-2,1,2,Football League Second Division,2,A
+1988-04-04,1987/1988,Blackburn Rovers,Shrewsbury Town,2-2,2,2,Football League Second Division,2,D
+1988-04-04,1987/1988,Hull City,Middlesbrough,0-0,0,0,Football League Second Division,2,D
+1988-04-04,1987/1988,Ipswich Town,West Bromwich Albion,1-1,1,1,Football League Second Division,2,D
+1988-04-04,1987/1988,Manchester City,Reading,2-0,2,0,Football League Second Division,2,H
+1988-04-04,1987/1988,Plymouth Argyle,Swindon Town,1-0,1,0,Football League Second Division,2,H
+1988-04-04,1987/1988,Sheffield United,Bradford City,1-2,1,2,Football League Second Division,2,A
+1988-04-04,1987/1988,Stoke City,Crystal Palace,1-1,1,1,Football League Second Division,2,D
+1988-04-04,1987/1988,Barnsley,Huddersfield Town,1-0,1,0,Football League Second Division,2,H
+1988-04-04,1987/1988,York City,Grimsby Town,0-2,0,2,Football League Third Division,3,A
+1988-04-04,1987/1988,Wigan Athletic,Brentford,1-1,1,1,Football League Third Division,3,D
+1988-04-04,1987/1988,Fulham,Rotherham United,3-1,3,1,Football League Third Division,3,H
+1988-04-04,1987/1988,Notts County,Brighton & Hove Albion,1-2,1,2,Football League Third Division,3,A
+1988-04-04,1987/1988,Gillingham,Northampton Town,1-2,1,2,Football League Third Division,3,A
+1988-04-04,1987/1988,Sunderland,Chesterfield,3-2,3,2,Football League Third Division,3,H
+1988-04-04,1987/1988,Doncaster Rovers,Preston North End,3-2,3,2,Football League Third Division,3,H
+1988-04-04,1987/1988,Chester,Bristol City,1-0,1,0,Football League Third Division,3,H
+1988-04-04,1987/1988,Blackpool,Port Vale,1-2,1,2,Football League Third Division,3,A
+1988-04-04,1987/1988,Bristol Rovers,Bury,0-0,0,0,Football League Third Division,3,D
+1988-04-04,1987/1988,Aldershot,Southend United,0-1,0,1,Football League Third Division,3,A
+1988-04-05,1987/1988,Luton Town,Sheffield Wednesday,2-2,2,2,Football League First Division,1,D
+1988-04-05,1987/1988,Wimbledon,Coventry City,1-2,1,2,Football League First Division,1,A
+1988-04-05,1987/1988,Leicester City,Birmingham City,2-0,2,0,Football League Second Division,2,H
+1988-04-05,1987/1988,Mansfield Town,Walsall,1-3,1,3,Football League Third Division,3,A
+1988-04-06,1987/1988,Leeds United,Millwall,1-2,1,2,Football League Second Division,2,A
+1988-04-08,1987/1988,Burnley,Halifax Town,3-1,3,1,Football League Fourth Division,4,H
+1988-04-08,1987/1988,Colchester United,Rochdale,1-0,1,0,Football League Fourth Division,4,H
+1988-04-08,1987/1988,Huddersfield Town,Ipswich Town,1-2,1,2,Football League Second Division,2,A
+1988-04-08,1987/1988,Shrewsbury Town,AFC Bournemouth,2-1,2,1,Football League Second Division,2,H
+1988-04-08,1987/1988,Preston North End,Bristol Rovers,3-1,3,1,Football League Third Division,3,H
+1988-04-08,1987/1988,Rotherham United,York City,0-1,0,1,Football League Third Division,3,A
+1988-04-09,1987/1988,Newcastle United,Queens Park Rangers,1-1,1,1,Football League First Division,1,D
+1988-04-09,1987/1988,Chelsea,Derby County,1-0,1,0,Football League First Division,1,H
+1988-04-09,1987/1988,Coventry City,Charlton Athletic,0-0,0,0,Football League First Division,1,D
+1988-04-09,1987/1988,Everton,Portsmouth,2-1,2,1,Football League First Division,1,H
+1988-04-09,1987/1988,Southampton,Arsenal,4-2,4,2,Football League First Division,1,H
+1988-04-09,1987/1988,Watford,Oxford United,3-0,3,0,Football League First Division,1,H
+1988-04-09,1987/1988,Crewe Alexandra,Darlington,3-1,3,1,Football League Fourth Division,4,H
+1988-04-09,1987/1988,Exeter City,Bolton Wanderers,1-1,1,1,Football League Fourth Division,4,D
+1988-04-09,1987/1988,Wrexham,Scunthorpe United,2-1,2,1,Football League Fourth Division,4,H
+1988-04-09,1987/1988,Leyton Orient,Carlisle United,4-1,4,1,Football League Fourth Division,4,H
+1988-04-09,1987/1988,Newport County,Peterborough United,0-4,0,4,Football League Fourth Division,4,A
+1988-04-09,1987/1988,Scarborough,Hereford United,2-1,2,1,Football League Fourth Division,4,H
+1988-04-09,1987/1988,Swansea City,Tranmere Rovers,1-2,1,2,Football League Fourth Division,4,A
+1988-04-09,1987/1988,Torquay United,Cardiff City,2-0,2,0,Football League Fourth Division,4,H
+1988-04-09,1987/1988,Hartlepool United,Stockport County,1-3,1,3,Football League Fourth Division,4,A
+1988-04-09,1987/1988,Birmingham City,Sheffield United,1-0,1,0,Football League Second Division,2,H
+1988-04-09,1987/1988,Bradford City,Hull City,2-0,2,0,Football League Second Division,2,H
+1988-04-09,1987/1988,Middlesbrough,Manchester City,2-1,2,1,Football League Second Division,2,H
+1988-04-09,1987/1988,Millwall,Plymouth Argyle,3-2,3,2,Football League Second Division,2,H
+1988-04-09,1987/1988,Oldham Athletic,Stoke City,5-1,5,1,Football League Second Division,2,H
+1988-04-09,1987/1988,Reading,Barnsley,2-1,2,1,Football League Second Division,2,H
+1988-04-09,1987/1988,Swindon Town,Blackburn Rovers,1-2,1,2,Football League Second Division,2,A
+1988-04-09,1987/1988,West Bromwich Albion,Leicester City,1-1,1,1,Football League Second Division,2,D
+1988-04-09,1987/1988,Crystal Palace,Aston Villa,1-1,1,1,Football League Second Division,2,D
+1988-04-09,1987/1988,Chesterfield,Aldershot,1-0,1,0,Football League Third Division,3,H
+1988-04-09,1987/1988,Grimsby Town,Fulham,0-2,0,2,Football League Third Division,3,A
+1988-04-09,1987/1988,Port Vale,Chester,1-1,1,1,Football League Third Division,3,D
+1988-04-09,1987/1988,Southend United,Sunderland,1-4,1,4,Football League Third Division,3,A
+1988-04-09,1987/1988,Walsall,Doncaster Rovers,2-1,2,1,Football League Third Division,3,H
+1988-04-09,1987/1988,Bury,Notts County,0-1,0,1,Football League Third Division,3,A
+1988-04-09,1987/1988,Bristol City,Blackpool,2-1,2,1,Football League Third Division,3,H
+1988-04-09,1987/1988,Brentford,Gillingham,2-2,2,2,Football League Third Division,3,D
+1988-04-09,1987/1988,Brighton & Hove Albion,Wigan Athletic,1-0,1,0,Football League Third Division,3,H
+1988-04-10,1987/1988,Cambridge United,Wolverhampton Wanderers,1-1,1,1,Football League Fourth Division,4,D
+1988-04-10,1987/1988,Northampton Town,Mansfield Town,2-0,2,0,Football League Third Division,3,H
+1988-04-12,1987/1988,West Ham United,Arsenal,0-1,0,1,Football League First Division,1,A
+1988-04-12,1987/1988,Newcastle United,Watford,3-0,3,0,Football League First Division,1,H
+1988-04-12,1987/1988,Manchester United,Luton Town,3-0,3,0,Football League First Division,1,H
+1988-04-12,1987/1988,Scunthorpe United,Carlisle United,1-0,1,0,Football League Fourth Division,4,H
+1988-04-12,1987/1988,Newport County,Scarborough,0-4,0,4,Football League Fourth Division,4,A
+1988-04-12,1987/1988,Hull City,Swindon Town,1-4,1,4,Football League Second Division,2,A
+1988-04-12,1987/1988,Bristol Rovers,Bristol City,1-0,1,0,Football League Third Division,3,H
+1988-04-12,1987/1988,Wigan Athletic,Port Vale,2-0,2,0,Football League Third Division,3,H
+1988-04-13,1987/1988,Derby County,Queens Park Rangers,0-2,0,2,Football League First Division,1,A
+1988-04-13,1987/1988,Liverpool,Nottingham Forest,5-0,5,0,Football League First Division,1,H
+1988-04-13,1987/1988,Oxford United,Sheffield Wednesday,0-3,0,3,Football League First Division,1,A
+1988-04-13,1987/1988,Reading,AFC Bournemouth,0-0,0,0,Football League Second Division,2,D
+1988-04-14,1987/1988,Halifax Town,Leyton Orient,1-0,1,0,Football League Fourth Division,4,H
+1988-04-15,1987/1988,Arsenal,Watford,0-1,0,1,Football League First Division,1,A
+1988-04-15,1987/1988,Torquay United,Colchester United,0-0,0,0,Football League Fourth Division,4,D
+1988-04-15,1987/1988,Crewe Alexandra,Cambridge United,0-0,0,0,Football League Fourth Division,4,D
+1988-04-15,1987/1988,Cardiff City,Bolton Wanderers,1-0,1,0,Football League Fourth Division,4,H
+1988-04-15,1987/1988,Plymouth Argyle,Barnsley,0-0,0,0,Football League Second Division,2,D
+1988-04-15,1987/1988,York City,Bristol Rovers,0-4,0,4,Football League Third Division,3,A
+1988-04-15,1987/1988,Fulham,Chester,1-0,1,0,Football League Third Division,3,H
+1988-04-15,1987/1988,Brighton & Hove Albion,Northampton Town,3-0,3,0,Football League Third Division,3,H
+1988-04-15,1987/1988,Blackpool,Doncaster Rovers,4-2,4,2,Football League Third Division,3,H
+1988-04-15,1987/1988,Aldershot,Port Vale,3-0,3,0,Football League Third Division,3,H
+1988-04-18,1987/1988,Port Vale,Bristol City,1-1,1,1,Football League Third Division,3,D
+1988-04-19,1987/1988,Wimbledon,Portsmouth,2-2,2,2,Football League First Division,1,D
+1988-04-19,1987/1988,Watford,Newcastle United,1-1,1,1,Football League First Division,1,D
+1988-04-19,1987/1988,Luton Town,Queens Park Rangers,2-1,2,1,Football League First Division,1,H
+1988-04-19,1987/1988,Coventry City,Everton,1-2,1,2,Football League First Division,1,A
+1988-04-19,1987/1988,Torquay United,Newport County,6-1,6,1,Football League Fourth Division,4,H
+1988-04-19,1987/1988,Stockport County,Darlington,1-1,1,1,Football League Fourth Division,4,D
+1988-04-19,1987/1988,Colchester United,Hereford United,1-0,1,0,Football League Fourth Division,4,H
+1988-04-19,1987/1988,Carlisle United,Halifax Town,1-1,1,1,Football League Fourth Division,4,D
+1988-04-19,1987/1988,Cambridge United,Hartlepool United,1-1,1,1,Football League Fourth Division,4,D
+1988-04-19,1987/1988,Bolton Wanderers,Scunthorpe United,0-0,0,0,Football League Fourth Division,4,D
+1988-04-19,1987/1988,Huddersfield Town,Oldham Athletic,2-2,2,2,Football League Second Division,2,D
+1988-04-19,1987/1988,Sheffield United,Plymouth Argyle,1-0,1,0,Football League Second Division,2,H
+1988-04-19,1987/1988,AFC Bournemouth,Millwall,1-2,1,2,Football League Second Division,2,A
+1988-04-19,1987/1988,Chesterfield,Brentford,2-1,2,1,Football League Third Division,3,H
+1988-04-19,1987/1988,Aldershot,Mansfield Town,3-0,3,0,Football League Third Division,3,H
+1988-04-20,1987/1988,Nottingham Forest,West Ham United,0-0,0,0,Football League First Division,1,D
+1988-04-20,1987/1988,Norwich City,Liverpool,0-0,0,0,Football League First Division,1,D
+1988-04-20,1987/1988,Bradford City,Reading,3-0,3,0,Football League Second Division,2,H
+1988-04-22,1987/1988,Stockport County,Crewe Alexandra,1-1,1,1,Football League Fourth Division,4,D
+1988-04-22,1987/1988,Tranmere Rovers,Torquay United,1-1,1,1,Football League Fourth Division,4,D
+1988-04-23,1987/1988,Charlton Athletic,Newcastle United,2-0,2,0,Football League First Division,1,H
+1988-04-23,1987/1988,Derby County,Southampton,2-0,2,0,Football League First Division,1,H
+1988-04-23,1987/1988,Liverpool,Tottenham Hotspur,1-0,1,0,Football League First Division,1,H
+1988-04-23,1987/1988,Oxford United,Everton,1-1,1,1,Football League First Division,1,D
+1988-04-23,1987/1988,Portsmouth,Norwich City,2-2,2,2,Football League First Division,1,D
+1988-04-23,1987/1988,Queens Park Rangers,Sheffield Wednesday,1-1,1,1,Football League First Division,1,D
+1988-04-23,1987/1988,Wimbledon,Chelsea,2-2,2,2,Football League First Division,1,D
+1988-04-23,1987/1988,West Ham United,Coventry City,1-1,1,1,Football League First Division,1,D
+1988-04-23,1987/1988,Wolverhampton Wanderers,Swansea City,2-0,2,0,Football League Fourth Division,4,H
+1988-04-23,1987/1988,Hereford United,Cambridge United,1-0,1,0,Football League Fourth Division,4,H
+1988-04-23,1987/1988,Cardiff City,Scarborough,2-0,2,0,Football League Fourth Division,4,H
+1988-04-23,1987/1988,Carlisle United,Colchester United,4-0,4,0,Football League Fourth Division,4,H
+1988-04-23,1987/1988,Darlington,Wrexham,2-1,2,1,Football League Fourth Division,4,H
+1988-04-23,1987/1988,Halifax Town,Hartlepool United,3-1,3,1,Football League Fourth Division,4,H
+1988-04-23,1987/1988,Peterborough United,Exeter City,2-1,2,1,Football League Fourth Division,4,H
+1988-04-23,1987/1988,Rochdale,Leyton Orient,1-3,1,3,Football League Fourth Division,4,A
+1988-04-23,1987/1988,Scunthorpe United,Burnley,1-1,1,1,Football League Fourth Division,4,D
+1988-04-23,1987/1988,Bolton Wanderers,Newport County,6-0,6,0,Football League Fourth Division,4,H
+1988-04-23,1987/1988,Plymouth Argyle,Crystal Palace,1-3,1,3,Football League Second Division,2,A
+1988-04-23,1987/1988,Barnsley,Birmingham City,2-2,2,2,Football League Second Division,2,D
+1988-04-23,1987/1988,Hull City,Huddersfield Town,4-0,4,0,Football League Second Division,2,H
+1988-04-23,1987/1988,Ipswich Town,Middlesbrough,4-0,4,0,Football League Second Division,2,H
+1988-04-23,1987/1988,Leeds United,Oldham Athletic,1-1,1,1,Football League Second Division,2,D
+1988-04-23,1987/1988,Leicester City,Reading,1-0,1,0,Football League Second Division,2,H
+1988-04-23,1987/1988,Manchester City,Bradford City,2-2,2,2,Football League Second Division,2,D
+1988-04-23,1987/1988,Sheffield United,West Bromwich Albion,0-0,0,0,Football League Second Division,2,D
+1988-04-23,1987/1988,Stoke City,Swindon Town,1-0,1,0,Football League Second Division,2,H
+1988-04-23,1987/1988,Aston Villa,Shrewsbury Town,1-0,1,0,Football League Second Division,2,H
+1988-04-23,1987/1988,Wigan Athletic,Chesterfield,1-2,1,2,Football League Third Division,3,A
+1988-04-23,1987/1988,Gillingham,Preston North End,4-0,4,0,Football League Third Division,3,H
+1988-04-23,1987/1988,Mansfield Town,Bury,0-0,0,0,Football League Third Division,3,D
+1988-04-23,1987/1988,Fulham,Southend United,3-1,3,1,Football League Third Division,3,H
+1988-04-23,1987/1988,Notts County,Rotherham United,4-0,4,0,Football League Third Division,3,H
+1988-04-23,1987/1988,Sunderland,Bristol City,0-1,0,1,Football League Third Division,3,A
+1988-04-23,1987/1988,York City,Northampton Town,2-2,2,2,Football League Third Division,3,D
+1988-04-23,1987/1988,Doncaster Rovers,Brighton & Hove Albion,0-2,0,2,Football League Third Division,3,A
+1988-04-23,1987/1988,Chester,Brentford,1-1,1,1,Football League Third Division,3,D
+1988-04-23,1987/1988,Blackpool,Grimsby Town,3-0,3,0,Football League Third Division,3,H
+1988-04-23,1987/1988,Bristol Rovers,Port Vale,1-0,1,0,Football League Third Division,3,H
+1988-04-25,1987/1988,Tranmere Rovers,Crewe Alexandra,2-2,2,2,Football League Fourth Division,4,D
+1988-04-25,1987/1988,Blackburn Rovers,Swindon Town,0-0,0,0,Football League Second Division,2,D
+1988-04-25,1987/1988,Port Vale,Wigan Athletic,2-1,2,1,Football League Third Division,3,H
+1988-04-26,1987/1988,Halifax Town,Carlisle United,1-1,1,1,Football League Fourth Division,4,D
+1988-04-26,1987/1988,Newport County,Wolverhampton Wanderers,1-3,1,3,Football League Fourth Division,4,A
+1988-04-26,1987/1988,Plymouth Argyle,AFC Bournemouth,1-2,1,2,Football League Second Division,2,A
+1988-04-26,1987/1988,Mansfield Town,Sunderland,0-4,0,4,Football League Third Division,3,A
+1988-04-27,1987/1988,Torquay United,Darlington,0-0,0,0,Football League Fourth Division,4,D
+1988-04-27,1987/1988,Bristol Rovers,Blackpool,2-0,2,0,Football League Third Division,3,H
+1988-04-29,1987/1988,Cambridge United,Bolton Wanderers,2-2,2,2,Football League Fourth Division,4,D
+1988-04-29,1987/1988,Colchester United,Stockport County,2-0,2,0,Football League Fourth Division,4,H
+1988-04-29,1987/1988,Crewe Alexandra,Halifax Town,0-0,0,0,Football League Fourth Division,4,D
+1988-04-29,1987/1988,Southend United,York City,3-1,3,1,Football League Third Division,3,H
+1988-04-30,1987/1988,Chelsea,Liverpool,1-1,1,1,Football League First Division,1,D
+1988-04-30,1987/1988,Coventry City,Portsmouth,1-0,1,0,Football League First Division,1,H
+1988-04-30,1987/1988,Everton,Charlton Athletic,1-1,1,1,Football League First Division,1,D
+1988-04-30,1987/1988,Manchester United,Queens Park Rangers,2-1,2,1,Football League First Division,1,H
+1988-04-30,1987/1988,Newcastle United,Oxford United,3-1,3,1,Football League First Division,1,H
+1988-04-30,1987/1988,Norwich City,Luton Town,2-2,2,2,Football League First Division,1,D
+1988-04-30,1987/1988,Nottingham Forest,Wimbledon,0-0,0,0,Football League First Division,1,D
+1988-04-30,1987/1988,Sheffield Wednesday,Arsenal,3-3,3,3,Football League First Division,1,D
+1988-04-30,1987/1988,Southampton,West Ham United,2-1,2,1,Football League First Division,1,H
+1988-04-30,1987/1988,Watford,Derby County,1-1,1,1,Football League First Division,1,D
+1988-04-30,1987/1988,Leyton Orient,Hereford United,4-0,4,0,Football League Fourth Division,4,H
+1988-04-30,1987/1988,Exeter City,Darlington,4-1,4,1,Football League Fourth Division,4,H
+1988-04-30,1987/1988,Hartlepool United,Cardiff City,0-1,0,1,Football League Fourth Division,4,A
+1988-04-30,1987/1988,Newport County,Tranmere Rovers,0-3,0,3,Football League Fourth Division,4,A
+1988-04-30,1987/1988,Scarborough,Rochdale,2-1,2,1,Football League Fourth Division,4,H
+1988-04-30,1987/1988,Swansea City,Scunthorpe United,1-1,1,1,Football League Fourth Division,4,D
+1988-04-30,1987/1988,Torquay United,Carlisle United,1-0,1,0,Football League Fourth Division,4,H
+1988-04-30,1987/1988,Wrexham,Wolverhampton Wanderers,4-2,4,2,Football League Fourth Division,4,H
+1988-04-30,1987/1988,Burnley,Peterborough United,1-2,1,2,Football League Fourth Division,4,A
+1988-04-30,1987/1988,Swindon Town,Leeds United,1-2,1,2,Football League Second Division,2,A
+1988-04-30,1987/1988,West Bromwich Albion,Hull City,1-1,1,1,Football League Second Division,2,D
+1988-04-30,1987/1988,Bradford City,Leicester City,4-1,4,1,Football League Second Division,2,H
+1988-04-30,1987/1988,Shrewsbury Town,Barnsley,1-1,1,1,Football League Second Division,2,D
+1988-04-30,1987/1988,Reading,Sheffield United,2-1,2,1,Football League Second Division,2,H
+1988-04-30,1987/1988,Oldham Athletic,Ipswich Town,3-1,3,1,Football League Second Division,2,H
+1988-04-30,1987/1988,Birmingham City,Manchester City,0-3,0,3,Football League Second Division,2,A
+1988-04-30,1987/1988,Middlesbrough,Plymouth Argyle,3-1,3,1,Football League Second Division,2,H
+1988-04-30,1987/1988,Huddersfield Town,AFC Bournemouth,1-2,1,2,Football League Second Division,2,A
+1988-04-30,1987/1988,Crystal Palace,Blackburn Rovers,2-0,2,0,Football League Second Division,2,H
+1988-04-30,1987/1988,Millwall,Stoke City,2-0,2,0,Football League Second Division,2,H
+1988-04-30,1987/1988,Preston North End,Fulham,2-1,2,1,Football League Third Division,3,H
+1988-04-30,1987/1988,Port Vale,Sunderland,0-1,0,1,Football League Third Division,3,A
+1988-04-30,1987/1988,Northampton Town,Blackpool,3-3,3,3,Football League Third Division,3,D
+1988-04-30,1987/1988,Bury,Gillingham,2-1,2,1,Football League Third Division,3,H
+1988-04-30,1987/1988,Chesterfield,Chester,0-0,0,0,Football League Third Division,3,D
+1988-04-30,1987/1988,Rotherham United,Aldershot,1-0,1,0,Football League Third Division,3,H
+1988-04-30,1987/1988,Bristol City,Wigan Athletic,4-1,4,1,Football League Third Division,3,H
+1988-04-30,1987/1988,Grimsby Town,Bristol Rovers,0-0,0,0,Football League Third Division,3,D
+1988-04-30,1987/1988,Walsall,Notts County,2-1,2,1,Football League Third Division,3,H
+1988-04-30,1987/1988,Brighton & Hove Albion,Mansfield Town,3-1,3,1,Football League Third Division,3,H
+1988-04-30,1987/1988,Brentford,Doncaster Rovers,1-1,1,1,Football League Third Division,3,D
+1988-05-02,1987/1988,Arsenal,Coventry City,1-1,1,1,Football League First Division,1,D
+1988-05-02,1987/1988,Charlton Athletic,Tottenham Hotspur,1-1,1,1,Football League First Division,1,D
+1988-05-02,1987/1988,Derby County,Everton,0-0,0,0,Football League First Division,1,D
+1988-05-02,1987/1988,Liverpool,Southampton,1-1,1,1,Football League First Division,1,D
+1988-05-02,1987/1988,Luton Town,Watford,2-1,2,1,Football League First Division,1,H
+1988-05-02,1987/1988,Oxford United,Manchester United,0-2,0,2,Football League First Division,1,A
+1988-05-02,1987/1988,Portsmouth,Newcastle United,1-2,1,2,Football League First Division,1,A
+1988-05-02,1987/1988,West Ham United,Chelsea,4-1,4,1,Football League First Division,1,H
+1988-05-02,1987/1988,Bolton Wanderers,Colchester United,4-0,4,0,Football League Fourth Division,4,H
+1988-05-02,1987/1988,Cardiff City,Crewe Alexandra,2-0,2,0,Football League Fourth Division,4,H
+1988-05-02,1987/1988,Peterborough United,Scarborough,0-0,0,0,Football League Fourth Division,4,D
+1988-05-02,1987/1988,Darlington,Newport County,0-2,0,2,Football League Fourth Division,4,A
+1988-05-02,1987/1988,Halifax Town,Torquay United,2-3,2,3,Football League Fourth Division,4,A
+1988-05-02,1987/1988,Hereford United,Burnley,2-1,2,1,Football League Fourth Division,4,H
+1988-05-02,1987/1988,Rochdale,Wrexham,1-2,1,2,Football League Fourth Division,4,A
+1988-05-02,1987/1988,Scunthorpe United,Exeter City,1-1,1,1,Football League Fourth Division,4,D
+1988-05-02,1987/1988,Stockport County,Cambridge United,0-2,0,2,Football League Fourth Division,4,A
+1988-05-02,1987/1988,Tranmere Rovers,Leyton Orient,2-1,2,1,Football League Fourth Division,4,H
+1988-05-02,1987/1988,Wolverhampton Wanderers,Hartlepool United,2-0,2,0,Football League Fourth Division,4,H
+1988-05-02,1987/1988,Carlisle United,Swansea City,0-1,0,1,Football League Fourth Division,4,A
+1988-05-02,1987/1988,AFC Bournemouth,Swindon Town,2-0,2,0,Football League Second Division,2,H
+1988-05-02,1987/1988,Aston Villa,Bradford City,1-0,1,0,Football League Second Division,2,H
+1988-05-02,1987/1988,Blackburn Rovers,Reading,1-1,1,1,Football League Second Division,2,D
+1988-05-02,1987/1988,Hull City,Millwall,0-1,0,1,Football League Second Division,2,A
+1988-05-02,1987/1988,Ipswich Town,Birmingham City,1-0,1,0,Football League Second Division,2,H
+1988-05-02,1987/1988,Leeds United,Crystal Palace,1-0,1,0,Football League Second Division,2,H
+1988-05-02,1987/1988,Leicester City,Huddersfield Town,3-0,3,0,Football League Second Division,2,H
+1988-05-02,1987/1988,Manchester City,West Bromwich Albion,4-2,4,2,Football League Second Division,2,H
+1988-05-02,1987/1988,Plymouth Argyle,Oldham Athletic,1-0,1,0,Football League Second Division,2,H
+1988-05-02,1987/1988,Stoke City,Shrewsbury Town,1-1,1,1,Football League Second Division,2,D
+1988-05-02,1987/1988,Barnsley,Middlesbrough,0-3,0,3,Football League Second Division,2,A
+1988-05-02,1987/1988,Doncaster Rovers,Southend United,0-1,0,1,Football League Third Division,3,A
+1988-05-02,1987/1988,Fulham,Bury,0-1,0,1,Football League Third Division,3,A
+1988-05-02,1987/1988,Gillingham,Rotherham United,0-2,0,2,Football League Third Division,3,A
+1988-05-02,1987/1988,Mansfield Town,Brentford,2-1,2,1,Football League Third Division,3,H
+1988-05-02,1987/1988,Notts County,Port Vale,1-2,1,2,Football League Third Division,3,A
+1988-05-02,1987/1988,Sunderland,Northampton Town,3-1,3,1,Football League Third Division,3,H
+1988-05-02,1987/1988,York City,Bristol City,0-1,0,1,Football League Third Division,3,A
+1988-05-02,1987/1988,Chester,Brighton & Hove Albion,2-2,2,2,Football League Third Division,3,D
+1988-05-02,1987/1988,Bristol Rovers,Walsall,3-0,3,0,Football League Third Division,3,H
+1988-05-02,1987/1988,Wigan Athletic,Grimsby Town,0-1,0,1,Football League Third Division,3,A
+1988-05-02,1987/1988,Aldershot,Preston North End,0-0,0,0,Football League Third Division,3,D
+1988-05-02,1987/1988,Blackpool,Chesterfield,1-0,1,0,Football League Third Division,3,H
+1988-05-03,1987/1988,Wimbledon,Sheffield Wednesday,1-1,1,1,Football League First Division,1,D
+1988-05-04,1987/1988,Nottingham Forest,Norwich City,2-0,2,0,Football League First Division,1,H
+1988-05-04,1987/1988,Tottenham Hotspur,Luton Town,2-1,2,1,Football League First Division,1,H
+1988-05-04,1987/1988,Burnley,Torquay United,1-0,1,0,Football League Fourth Division,4,H
+1988-05-06,1987/1988,Birmingham City,Leeds United,0-0,0,0,Football League Second Division,2,D
+1988-05-07,1987/1988,Everton,Arsenal,1-2,1,2,Football League First Division,1,A
+1988-05-07,1987/1988,Manchester United,Portsmouth,4-1,4,1,Football League First Division,1,H
+1988-05-07,1987/1988,Newcastle United,West Ham United,2-1,2,1,Football League First Division,1,H
+1988-05-07,1987/1988,Norwich City,Wimbledon,0-1,0,1,Football League First Division,1,A
+1988-05-07,1987/1988,Nottingham Forest,Oxford United,5-3,5,3,Football League First Division,1,H
+1988-05-07,1987/1988,Sheffield Wednesday,Liverpool,1-5,1,5,Football League First Division,1,A
+1988-05-07,1987/1988,Southampton,Luton Town,1-1,1,1,Football League First Division,1,D
+1988-05-07,1987/1988,Coventry City,Queens Park Rangers,0-0,0,0,Football League First Division,1,D
+1988-05-07,1987/1988,Chelsea,Charlton Athletic,1-1,1,1,Football League First Division,1,D
+1988-05-07,1987/1988,Burnley,Cardiff City,1-2,1,2,Football League Fourth Division,4,A
+1988-05-07,1987/1988,Crewe Alexandra,Peterborough United,0-1,0,1,Football League Fourth Division,4,A
+1988-05-07,1987/1988,Exeter City,Halifax Town,1-2,1,2,Football League Fourth Division,4,A
+1988-05-07,1987/1988,Hartlepool United,Hereford United,1-2,1,2,Football League Fourth Division,4,A
+1988-05-07,1987/1988,Leyton Orient,Wolverhampton Wanderers,0-2,0,2,Football League Fourth Division,4,A
+1988-05-07,1987/1988,Newport County,Rochdale,0-1,0,1,Football League Fourth Division,4,A
+1988-05-07,1987/1988,Scarborough,Stockport County,1-1,1,1,Football League Fourth Division,4,D
+1988-05-07,1987/1988,Swansea City,Darlington,3-0,3,0,Football League Fourth Division,4,H
+1988-05-07,1987/1988,Torquay United,Scunthorpe United,1-2,1,2,Football League Fourth Division,4,A
+1988-05-07,1987/1988,Wrexham,Bolton Wanderers,0-1,0,1,Football League Fourth Division,4,A
+1988-05-07,1987/1988,Colchester United,Tranmere Rovers,0-0,0,0,Football League Fourth Division,4,D
+1988-05-07,1987/1988,Cambridge United,Carlisle United,1-2,1,2,Football League Fourth Division,4,A
+1988-05-07,1987/1988,Bradford City,Ipswich Town,2-3,2,3,Football League Second Division,2,A
+1988-05-07,1987/1988,Huddersfield Town,Sheffield United,0-2,0,2,Football League Second Division,2,A
+1988-05-07,1987/1988,Middlesbrough,Leicester City,1-2,1,2,Football League Second Division,2,A
+1988-05-07,1987/1988,Millwall,Blackburn Rovers,1-4,1,4,Football League Second Division,2,A
+1988-05-07,1987/1988,Oldham Athletic,AFC Bournemouth,2-0,2,0,Football League Second Division,2,H
+1988-05-07,1987/1988,Reading,Hull City,0-0,0,0,Football League Second Division,2,D
+1988-05-07,1987/1988,Shrewsbury Town,Plymouth Argyle,2-1,2,1,Football League Second Division,2,H
+1988-05-07,1987/1988,Swindon Town,Aston Villa,0-0,0,0,Football League Second Division,2,D
+1988-05-07,1987/1988,West Bromwich Albion,Barnsley,2-2,2,2,Football League Second Division,2,D
+1988-05-07,1987/1988,Crystal Palace,Manchester City,2-0,2,0,Football League Second Division,2,H
+1988-05-07,1987/1988,Bury,Chester,0-1,0,1,Football League Third Division,3,A
+1988-05-07,1987/1988,Chesterfield,Fulham,1-0,1,0,Football League Third Division,3,H
+1988-05-07,1987/1988,Grimsby Town,Aldershot,1-1,1,1,Football League Third Division,3,D
+1988-05-07,1987/1988,Port Vale,Mansfield Town,1-1,1,1,Football League Third Division,3,D
+1988-05-07,1987/1988,Preston North End,Notts County,1-2,1,2,Football League Third Division,3,A
+1988-05-07,1987/1988,Rotherham United,Sunderland,1-4,1,4,Football League Third Division,3,A
+1988-05-07,1987/1988,Southend United,Blackpool,4-0,4,0,Football League Third Division,3,H
+1988-05-07,1987/1988,Walsall,Gillingham,0-0,0,0,Football League Third Division,3,D
+1988-05-07,1987/1988,Bristol City,Doncaster Rovers,1-0,1,0,Football League Third Division,3,H
+1988-05-07,1987/1988,Brentford,York City,1-2,1,2,Football League Third Division,3,A
+1988-05-07,1987/1988,Brighton & Hove Albion,Bristol Rovers,2-1,2,1,Football League Third Division,3,H
+1988-05-09,1987/1988,Manchester United,Wimbledon,2-1,2,1,Football League First Division,1,H
+1988-05-09,1987/1988,Liverpool,Luton Town,1-1,1,1,Football League First Division,1,D
+1988-05-13,1987/1988,Luton Town,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1988-05-15,1987/1988,Nottingham Forest,Luton Town,1-1,1,1,Football League First Division,1,D

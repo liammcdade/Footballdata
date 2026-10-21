@@ -1,0 +1,613 @@
+Date,Season,HomeTeam,AwayTeam,Score,hGoal,aGoal,Division,Tier,Result
+1901-09-02,1901/1902,Wolverhampton Wanderers,Nottingham Forest,2-0,2,0,Football League First Division,1,H
+1901-09-02,1901/1902,Birmingham City,Liverpool,0-0,0,0,Football League First Division,1,D
+1901-09-02,1901/1902,Stoke City,Bury,1-2,1,2,Football League First Division,1,A
+1901-09-02,1901/1902,Everton,Manchester City,3-1,3,1,Football League First Division,1,H
+1901-09-02,1901/1902,Sunderland,Sheffield United,3-1,3,1,Football League First Division,1,H
+1901-09-02,1901/1902,Arsenal,Barnsley,2-1,2,1,Football League Second Division,2,H
+1901-09-02,1901/1902,West Bromwich Albion,Glossop North End,0-1,0,1,Football League Second Division,2,A
+1901-09-03,1901/1902,Grimsby Town,Derby County,1-1,1,1,Football League First Division,1,D
+1901-09-07,1901/1902,Stoke City,Liverpool,1-0,1,0,Football League First Division,1,H
+1901-09-07,1901/1902,Sheffield Wednesday,Grimsby Town,3-1,3,1,Football League First Division,1,H
+1901-09-07,1901/1902,Nottingham Forest,Sheffield United,2-1,2,1,Football League First Division,1,H
+1901-09-07,1901/1902,Everton,Wolverhampton Wanderers,6-1,6,1,Football League First Division,1,H
+1901-09-07,1901/1902,Derby County,Notts County,2-0,2,0,Football League First Division,1,H
+1901-09-07,1901/1902,Bury,Aston Villa,0-0,0,0,Football League First Division,1,D
+1901-09-07,1901/1902,Blackburn Rovers,Newcastle United,0-0,0,0,Football League First Division,1,D
+1901-09-07,1901/1902,Birmingham City,Bolton Wanderers,2-0,2,0,Football League First Division,1,H
+1901-09-07,1901/1902,Sunderland,Manchester City,1-0,1,0,Football League First Division,1,H
+1901-09-07,1901/1902,Stockport County,Middlesbrough,1-3,1,3,Football League Second Division,2,A
+1901-09-07,1901/1902,Manchester United,Gainsborough Trinity,3-0,3,0,Football League Second Division,2,H
+1901-09-07,1901/1902,Lincoln City,Burnley,1-0,1,0,Football League Second Division,2,H
+1901-09-07,1901/1902,Glossop North End,Chesterfield,3-1,3,1,Football League Second Division,2,H
+1901-09-07,1901/1902,Doncaster Rovers,Port Vale,3-3,3,3,Football League Second Division,2,D
+1901-09-07,1901/1902,Blackpool,Bristol City,0-2,0,2,Football League Second Division,2,A
+1901-09-07,1901/1902,Barnsley,Burton United,3-2,3,2,Football League Second Division,2,H
+1901-09-07,1901/1902,Arsenal,Leicester City,2-0,2,0,Football League Second Division,2,H
+1901-09-07,1901/1902,West Bromwich Albion,Preston North End,3-1,3,1,Football League Second Division,2,H
+1901-09-09,1901/1902,Aston Villa,Notts County,2-0,2,0,Football League First Division,1,H
+1901-09-09,1901/1902,Port Vale,Bristol City,3-0,3,0,Football League Second Division,2,H
+1901-09-09,1901/1902,West Bromwich Albion,Chesterfield,4-0,4,0,Football League Second Division,2,H
+1901-09-09,1901/1902,Burnley,Stockport County,3-0,3,0,Football League Second Division,2,H
+1901-09-14,1901/1902,Sheffield United,Bury,3-1,3,1,Football League First Division,1,H
+1901-09-14,1901/1902,Notts County,Sheffield Wednesday,6-1,6,1,Football League First Division,1,H
+1901-09-14,1901/1902,Newcastle United,Stoke City,5-1,5,1,Football League First Division,1,H
+1901-09-14,1901/1902,Wolverhampton Wanderers,Sunderland,4-2,4,2,Football League First Division,1,H
+1901-09-14,1901/1902,Manchester City,Birmingham City,1-4,1,4,Football League First Division,1,A
+1901-09-14,1901/1902,Liverpool,Everton,2-2,2,2,Football League First Division,1,D
+1901-09-14,1901/1902,Grimsby Town,Nottingham Forest,1-0,1,0,Football League First Division,1,H
+1901-09-14,1901/1902,Bolton Wanderers,Derby County,2-1,2,1,Football League First Division,1,H
+1901-09-14,1901/1902,Aston Villa,Blackburn Rovers,1-1,1,1,Football League First Division,1,D
+1901-09-14,1901/1902,Preston North End,Arsenal,2-0,2,0,Football League Second Division,2,H
+1901-09-14,1901/1902,Port Vale,Lincoln City,1-2,1,2,Football League Second Division,2,A
+1901-09-14,1901/1902,Middlesbrough,Manchester United,5-0,5,0,Football League Second Division,2,H
+1901-09-14,1901/1902,Leicester City,Barnsley,2-0,2,0,Football League Second Division,2,H
+1901-09-14,1901/1902,Gainsborough Trinity,Glossop North End,2-1,2,1,Football League Second Division,2,H
+1901-09-14,1901/1902,Burton United,Blackpool,1-1,1,1,Football League Second Division,2,D
+1901-09-14,1901/1902,Burnley,West Bromwich Albion,0-0,0,0,Football League Second Division,2,D
+1901-09-14,1901/1902,Bristol City,Stockport County,3-0,3,0,Football League Second Division,2,H
+1901-09-14,1901/1902,Chesterfield,Doncaster Rovers,0-0,0,0,Football League Second Division,2,D
+1901-09-16,1901/1902,Aston Villa,Sheffield United,1-2,1,2,Football League First Division,1,A
+1901-09-21,1901/1902,Bury,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1901-09-21,1901/1902,Stoke City,Aston Villa,1-0,1,0,Football League First Division,1,H
+1901-09-21,1901/1902,Sheffield Wednesday,Bolton Wanderers,5-1,5,1,Football League First Division,1,H
+1901-09-21,1901/1902,Notts County,Grimsby Town,3-0,3,0,Football League First Division,1,H
+1901-09-21,1901/1902,Everton,Newcastle United,0-0,0,0,Football League First Division,1,D
+1901-09-21,1901/1902,Derby County,Manchester City,2-0,2,0,Football League First Division,1,H
+1901-09-21,1901/1902,Blackburn Rovers,Sheffield United,2-1,2,1,Football League First Division,1,H
+1901-09-21,1901/1902,Birmingham City,Wolverhampton Wanderers,1-2,1,2,Football League First Division,1,A
+1901-09-21,1901/1902,Sunderland,Liverpool,1-1,1,1,Football League First Division,1,D
+1901-09-21,1901/1902,West Bromwich Albion,Port Vale,3-1,3,1,Football League Second Division,2,H
+1901-09-21,1901/1902,Stockport County,Blackpool,3-1,3,1,Football League Second Division,2,H
+1901-09-21,1901/1902,Manchester United,Bristol City,1-0,1,0,Football League Second Division,2,H
+1901-09-21,1901/1902,Lincoln City,Chesterfield,4-0,4,0,Football League Second Division,2,H
+1901-09-21,1901/1902,Leicester City,Burton United,4-0,4,0,Football League Second Division,2,H
+1901-09-21,1901/1902,Glossop North End,Middlesbrough,1-0,1,0,Football League Second Division,2,H
+1901-09-21,1901/1902,Doncaster Rovers,Gainsborough Trinity,3-0,3,0,Football League Second Division,2,H
+1901-09-21,1901/1902,Barnsley,Preston North End,0-4,0,4,Football League Second Division,2,A
+1901-09-21,1901/1902,Arsenal,Burnley,4-0,4,0,Football League Second Division,2,H
+1901-09-28,1901/1902,Sheffield United,Stoke City,1-1,1,1,Football League First Division,1,D
+1901-09-28,1901/1902,Nottingham Forest,Blackburn Rovers,3-0,3,0,Football League First Division,1,H
+1901-09-28,1901/1902,Newcastle United,Sunderland,0-1,0,1,Football League First Division,1,A
+1901-09-28,1901/1902,Liverpool,Birmingham City,3-1,3,1,Football League First Division,1,H
+1901-09-28,1901/1902,Grimsby Town,Bury,2-0,2,0,Football League First Division,1,H
+1901-09-28,1901/1902,Bolton Wanderers,Notts County,1-1,1,1,Football League First Division,1,D
+1901-09-28,1901/1902,Aston Villa,Everton,1-1,1,1,Football League First Division,1,D
+1901-09-28,1901/1902,Wolverhampton Wanderers,Derby County,0-0,0,0,Football League First Division,1,D
+1901-09-28,1901/1902,Bristol City,Glossop North End,2-0,2,0,Football League Second Division,2,H
+1901-09-28,1901/1902,Port Vale,Arsenal,1-0,1,0,Football League Second Division,2,H
+1901-09-28,1901/1902,Middlesbrough,Doncaster Rovers,6-0,6,0,Football League Second Division,2,H
+1901-09-28,1901/1902,Gainsborough Trinity,Lincoln City,2-2,2,2,Football League Second Division,2,D
+1901-09-28,1901/1902,Chesterfield,West Bromwich Albion,0-3,0,3,Football League Second Division,2,A
+1901-09-28,1901/1902,Preston North End,Leicester City,5-0,5,0,Football League Second Division,2,H
+1901-09-28,1901/1902,Burnley,Barnsley,2-0,2,0,Football League Second Division,2,H
+1901-09-28,1901/1902,Blackpool,Manchester United,2-4,2,4,Football League Second Division,2,A
+1901-09-28,1901/1902,Burton United,Stockport County,3-2,3,2,Football League Second Division,2,H
+1901-10-03,1901/1902,Notts County,Newcastle United,0-2,0,2,Football League First Division,1,A
+1901-10-05,1901/1902,Stoke City,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1901-10-05,1901/1902,Birmingham City,Newcastle United,3-1,3,1,Football League First Division,1,H
+1901-10-05,1901/1902,Blackburn Rovers,Bury,0-3,0,3,Football League First Division,1,A
+1901-10-05,1901/1902,Bolton Wanderers,Grimsby Town,4-0,4,0,Football League First Division,1,H
+1901-10-05,1901/1902,Sunderland,Aston Villa,1-0,1,0,Football League First Division,1,H
+1901-10-05,1901/1902,Everton,Sheffield United,2-1,2,1,Football League First Division,1,H
+1901-10-05,1901/1902,Notts County,Manchester City,2-0,2,0,Football League First Division,1,H
+1901-10-05,1901/1902,Sheffield Wednesday,Wolverhampton Wanderers,1-1,1,1,Football League First Division,1,D
+1901-10-05,1901/1902,Derby County,Liverpool,1-1,1,1,Football League First Division,1,D
+1901-10-05,1901/1902,Preston North End,Burton United,1-0,1,0,Football League Second Division,2,H
+1901-10-05,1901/1902,Manchester United,Stockport County,3-3,3,3,Football League Second Division,2,D
+1901-10-05,1901/1902,Lincoln City,Middlesbrough,2-1,2,1,Football League Second Division,2,H
+1901-10-05,1901/1902,Leicester City,Burnley,2-1,2,1,Football League Second Division,2,H
+1901-10-05,1901/1902,Glossop North End,Blackpool,3-1,3,1,Football League Second Division,2,H
+1901-10-05,1901/1902,Doncaster Rovers,Bristol City,3-0,3,0,Football League Second Division,2,H
+1901-10-05,1901/1902,Barnsley,Port Vale,4-0,4,0,Football League Second Division,2,H
+1901-10-05,1901/1902,Arsenal,Chesterfield,3-2,3,2,Football League Second Division,2,H
+1901-10-05,1901/1902,West Bromwich Albion,Gainsborough Trinity,7-0,7,0,Football League Second Division,2,H
+1901-10-12,1901/1902,Wolverhampton Wanderers,Notts County,3-1,3,1,Football League First Division,1,H
+1901-10-12,1901/1902,Nottingham Forest,Everton,4-0,4,0,Football League First Division,1,H
+1901-10-12,1901/1902,Newcastle United,Derby County,0-1,0,1,Football League First Division,1,A
+1901-10-12,1901/1902,Manchester City,Bolton Wanderers,1-0,1,0,Football League First Division,1,H
+1901-10-12,1901/1902,Liverpool,Sheffield Wednesday,1-2,1,2,Football League First Division,1,A
+1901-10-12,1901/1902,Grimsby Town,Blackburn Rovers,2-1,2,1,Football League First Division,1,H
+1901-10-12,1901/1902,Bury,Stoke City,4-2,4,2,Football League First Division,1,H
+1901-10-12,1901/1902,Birmingham City,Aston Villa,0-2,0,2,Football League First Division,1,A
+1901-10-12,1901/1902,Sheffield United,Sunderland,0-1,0,1,Football League First Division,1,A
+1901-10-12,1901/1902,Blackpool,Doncaster Rovers,3-1,3,1,Football League Second Division,2,H
+1901-10-12,1901/1902,Port Vale,Leicester City,3-0,3,0,Football League Second Division,2,H
+1901-10-12,1901/1902,Middlesbrough,West Bromwich Albion,1-2,1,2,Football League Second Division,2,A
+1901-10-12,1901/1902,Gainsborough Trinity,Arsenal,2-2,2,2,Football League Second Division,2,D
+1901-10-12,1901/1902,Chesterfield,Barnsley,1-2,1,2,Football League Second Division,2,A
+1901-10-12,1901/1902,Burton United,Manchester United,0-0,0,0,Football League Second Division,2,D
+1901-10-12,1901/1902,Burnley,Preston North End,0-3,0,3,Football League Second Division,2,A
+1901-10-12,1901/1902,Bristol City,Lincoln City,1-1,1,1,Football League Second Division,2,D
+1901-10-12,1901/1902,Stockport County,Glossop North End,0-0,0,0,Football League Second Division,2,D
+1901-10-19,1901/1902,Bolton Wanderers,Wolverhampton Wanderers,2-2,2,2,Football League First Division,1,D
+1901-10-19,1901/1902,Stoke City,Blackburn Rovers,2-2,2,2,Football League First Division,1,D
+1901-10-19,1901/1902,Sheffield Wednesday,Newcastle United,0-0,0,0,Football League First Division,1,D
+1901-10-19,1901/1902,Notts County,Liverpool,2-2,2,2,Football League First Division,1,D
+1901-10-19,1901/1902,Manchester City,Grimsby Town,3-0,3,0,Football League First Division,1,H
+1901-10-19,1901/1902,Everton,Bury,1-1,1,1,Football League First Division,1,D
+1901-10-19,1901/1902,Derby County,Aston Villa,1-0,1,0,Football League First Division,1,H
+1901-10-19,1901/1902,Birmingham City,Sheffield United,5-1,5,1,Football League First Division,1,H
+1901-10-19,1901/1902,Sunderland,Nottingham Forest,4-0,4,0,Football League First Division,1,H
+1901-10-19,1901/1902,Burnley,Burton United,0-0,0,0,Football League Second Division,2,D
+1901-10-19,1901/1902,Doncaster Rovers,Stockport County,2-0,2,0,Football League Second Division,2,H
+1901-10-19,1901/1902,Glossop North End,Manchester United,0-0,0,0,Football League Second Division,2,D
+1901-10-19,1901/1902,Preston North End,Port Vale,2-0,2,0,Football League Second Division,2,H
+1901-10-19,1901/1902,Lincoln City,Blackpool,0-0,0,0,Football League Second Division,2,D
+1901-10-19,1901/1902,West Bromwich Albion,Bristol City,2-2,2,2,Football League Second Division,2,D
+1901-10-19,1901/1902,Barnsley,Gainsborough Trinity,2-0,2,0,Football League Second Division,2,H
+1901-10-19,1901/1902,Leicester City,Chesterfield,3-0,3,0,Football League Second Division,2,H
+1901-10-19,1901/1902,Arsenal,Middlesbrough,0-3,0,3,Football League Second Division,2,A
+1901-10-26,1901/1902,Sheffield United,Derby County,3-0,3,0,Football League First Division,1,H
+1901-10-26,1901/1902,Nottingham Forest,Birmingham City,1-1,1,1,Football League First Division,1,D
+1901-10-26,1901/1902,Newcastle United,Notts County,8-0,8,0,Football League First Division,1,H
+1901-10-26,1901/1902,Liverpool,Bolton Wanderers,1-1,1,1,Football League First Division,1,D
+1901-10-26,1901/1902,Grimsby Town,Stoke City,1-2,1,2,Football League First Division,1,A
+1901-10-26,1901/1902,Bury,Sunderland,1-0,1,0,Football League First Division,1,H
+1901-10-26,1901/1902,Blackburn Rovers,Everton,3-1,3,1,Football League First Division,1,H
+1901-10-26,1901/1902,Aston Villa,Sheffield Wednesday,4-1,4,1,Football League First Division,1,H
+1901-10-26,1901/1902,Wolverhampton Wanderers,Manchester City,0-0,0,0,Football League First Division,1,D
+1901-10-26,1901/1902,Stockport County,Lincoln City,2-1,2,1,Football League Second Division,2,H
+1901-10-26,1901/1902,Port Vale,Burnley,1-1,1,1,Football League Second Division,2,D
+1901-10-26,1901/1902,Middlesbrough,Barnsley,2-1,2,1,Football League Second Division,2,H
+1901-10-26,1901/1902,Gainsborough Trinity,Leicester City,3-3,3,3,Football League Second Division,2,D
+1901-10-26,1901/1902,Chesterfield,Preston North End,2-0,2,0,Football League Second Division,2,H
+1901-10-26,1901/1902,Burton United,Glossop North End,1-1,1,1,Football League Second Division,2,D
+1901-10-26,1901/1902,Bristol City,Arsenal,0-3,0,3,Football League Second Division,2,A
+1901-10-26,1901/1902,Blackpool,West Bromwich Albion,2-2,2,2,Football League Second Division,2,D
+1901-10-26,1901/1902,Manchester United,Doncaster Rovers,6-0,6,0,Football League Second Division,2,H
+1901-11-02,1901/1902,Wolverhampton Wanderers,Grimsby Town,2-0,2,0,Football League First Division,1,H
+1901-11-02,1901/1902,Sunderland,Blackburn Rovers,3-2,3,2,Football League First Division,1,H
+1901-11-02,1901/1902,Sheffield Wednesday,Sheffield United,1-0,1,0,Football League First Division,1,H
+1901-11-02,1901/1902,Manchester City,Liverpool,2-3,2,3,Football League First Division,1,A
+1901-11-02,1901/1902,Everton,Stoke City,1-0,1,0,Football League First Division,1,H
+1901-11-02,1901/1902,Derby County,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1901-11-02,1901/1902,Bolton Wanderers,Newcastle United,3-1,3,1,Football League First Division,1,H
+1901-11-02,1901/1902,Birmingham City,Bury,1-0,1,0,Football League First Division,1,H
+1901-11-02,1901/1902,Notts County,Aston Villa,0-3,0,3,Football League First Division,1,A
+1901-11-02,1901/1902,Leicester City,Middlesbrough,0-2,0,2,Football League Second Division,2,A
+1901-11-02,1901/1902,Burnley,Chesterfield,0-0,0,0,Football League Second Division,2,D
+1901-11-09,1901/1902,Sheffield United,Notts County,3-0,3,0,Football League First Division,1,H
+1901-11-09,1901/1902,Nottingham Forest,Sheffield Wednesday,1-1,1,1,Football League First Division,1,D
+1901-11-09,1901/1902,Newcastle United,Manchester City,3-0,3,0,Football League First Division,1,H
+1901-11-09,1901/1902,Liverpool,Wolverhampton Wanderers,4-1,4,1,Football League First Division,1,H
+1901-11-09,1901/1902,Stoke City,Sunderland,3-0,3,0,Football League First Division,1,H
+1901-11-09,1901/1902,Grimsby Town,Everton,0-2,0,2,Football League First Division,1,A
+1901-11-09,1901/1902,Bury,Derby County,2-0,2,0,Football League First Division,1,H
+1901-11-09,1901/1902,Blackburn Rovers,Birmingham City,3-1,3,1,Football League First Division,1,H
+1901-11-09,1901/1902,Aston Villa,Bolton Wanderers,1-0,1,0,Football League First Division,1,H
+1901-11-09,1901/1902,Bristol City,Leicester City,2-1,2,1,Football League Second Division,2,H
+1901-11-09,1901/1902,Stockport County,Arsenal,0-0,0,0,Football League Second Division,2,D
+1901-11-09,1901/1902,Middlesbrough,Preston North End,2-1,2,1,Football League Second Division,2,H
+1901-11-09,1901/1902,Manchester United,West Bromwich Albion,1-2,1,2,Football League Second Division,2,A
+1901-11-09,1901/1902,Glossop North End,Lincoln City,1-1,1,1,Football League Second Division,2,D
+1901-11-09,1901/1902,Chesterfield,Port Vale,4-3,4,3,Football League Second Division,2,H
+1901-11-09,1901/1902,Burton United,Doncaster Rovers,1-1,1,1,Football League Second Division,2,D
+1901-11-09,1901/1902,Blackpool,Barnsley,2-1,2,1,Football League Second Division,2,H
+1901-11-09,1901/1902,Gainsborough Trinity,Burnley,1-1,1,1,Football League Second Division,2,D
+1901-11-11,1901/1902,Stoke City,Wolverhampton Wanderers,3-0,3,0,Football League First Division,1,H
+1901-11-16,1901/1902,Sunderland,Everton,2-4,2,4,Football League First Division,1,A
+1901-11-16,1901/1902,Notts County,Nottingham Forest,3-0,3,0,Football League First Division,1,H
+1901-11-16,1901/1902,Derby County,Blackburn Rovers,1-1,1,1,Football League First Division,1,D
+1901-11-16,1901/1902,Sheffield Wednesday,Bury,4-1,4,1,Football League First Division,1,H
+1901-11-16,1901/1902,Burnley,Middlesbrough,2-2,2,2,Football League Second Division,2,D
+1901-11-16,1901/1902,Arsenal,Manchester United,2-0,2,0,Football League Second Division,2,H
+1901-11-23,1901/1902,Stoke City,Derby County,1-1,1,1,Football League First Division,1,D
+1901-11-23,1901/1902,Nottingham Forest,Bolton Wanderers,4-1,4,1,Football League First Division,1,H
+1901-11-23,1901/1902,Newcastle United,Liverpool,1-0,1,0,Football League First Division,1,H
+1901-11-23,1901/1902,Grimsby Town,Sunderland,3-3,3,3,Football League First Division,1,D
+1901-11-23,1901/1902,Everton,Birmingham City,1-0,1,0,Football League First Division,1,H
+1901-11-23,1901/1902,Bury,Notts County,3-0,3,0,Football League First Division,1,H
+1901-11-23,1901/1902,Blackburn Rovers,Sheffield Wednesday,2-0,2,0,Football League First Division,1,H
+1901-11-23,1901/1902,Aston Villa,Wolverhampton Wanderers,2-1,2,1,Football League First Division,1,H
+1901-11-23,1901/1902,Sheffield United,Manchester City,5-0,5,0,Football League First Division,1,H
+1901-11-23,1901/1902,Blackpool,Preston North End,1-4,1,4,Football League Second Division,2,A
+1901-11-23,1901/1902,Manchester United,Barnsley,1-0,1,0,Football League Second Division,2,H
+1901-11-23,1901/1902,Leicester City,Stockport County,1-1,1,1,Football League Second Division,2,D
+1901-11-23,1901/1902,Glossop North End,Arsenal,0-1,0,1,Football League Second Division,2,A
+1901-11-23,1901/1902,Gainsborough Trinity,Chesterfield,0-0,0,0,Football League Second Division,2,D
+1901-11-23,1901/1902,Middlesbrough,Port Vale,3-0,3,0,Football League Second Division,2,H
+1901-11-23,1901/1902,Burton United,Lincoln City,0-6,0,6,Football League Second Division,2,A
+1901-11-23,1901/1902,Doncaster Rovers,West Bromwich Albion,2-0,2,0,Football League Second Division,2,H
+1901-11-30,1901/1902,Wolverhampton Wanderers,Sheffield United,1-1,1,1,Football League First Division,1,D
+1901-11-30,1901/1902,Notts County,Blackburn Rovers,3-0,3,0,Football League First Division,1,H
+1901-11-30,1901/1902,Newcastle United,Grimsby Town,5-1,5,1,Football League First Division,1,H
+1901-11-30,1901/1902,Manchester City,Nottingham Forest,3-1,3,1,Football League First Division,1,H
+1901-11-30,1901/1902,Liverpool,Aston Villa,1-0,1,0,Football League First Division,1,H
+1901-11-30,1901/1902,Derby County,Everton,3-1,3,1,Football League First Division,1,H
+1901-11-30,1901/1902,Bolton Wanderers,Bury,2-2,2,2,Football League First Division,1,D
+1901-11-30,1901/1902,Birmingham City,Sunderland,2-3,2,3,Football League First Division,1,A
+1901-11-30,1901/1902,Sheffield Wednesday,Stoke City,3-1,3,1,Football League First Division,1,H
+1901-11-30,1901/1902,Preston North End,Bristol City,0-0,0,0,Football League Second Division,2,D
+1901-11-30,1901/1902,Leicester City,Manchester United,3-2,3,2,Football League Second Division,2,H
+1901-11-30,1901/1902,Gainsborough Trinity,Burton United,1-4,1,4,Football League Second Division,2,A
+1901-11-30,1901/1902,Chesterfield,Middlesbrough,0-0,0,0,Football League Second Division,2,D
+1901-11-30,1901/1902,Burnley,Blackpool,2-0,2,0,Football League Second Division,2,H
+1901-11-30,1901/1902,Arsenal,Doncaster Rovers,1-0,1,0,Football League Second Division,2,H
+1901-12-07,1901/1902,Stoke City,Notts County,3-0,3,0,Football League First Division,1,H
+1901-12-07,1901/1902,Sheffield United,Liverpool,2-1,2,1,Football League First Division,1,H
+1901-12-07,1901/1902,Nottingham Forest,Wolverhampton Wanderers,2-0,2,0,Football League First Division,1,H
+1901-12-07,1901/1902,Grimsby Town,Birmingham City,1-0,1,0,Football League First Division,1,H
+1901-12-07,1901/1902,Everton,Sheffield Wednesday,5-0,5,0,Football League First Division,1,H
+1901-12-07,1901/1902,Bury,Manchester City,3-0,3,0,Football League First Division,1,H
+1901-12-07,1901/1902,Blackburn Rovers,Bolton Wanderers,2-0,2,0,Football League First Division,1,H
+1901-12-07,1901/1902,Aston Villa,Newcastle United,0-0,0,0,Football League First Division,1,D
+1901-12-07,1901/1902,Doncaster Rovers,Barnsley,0-1,0,1,Football League Second Division,2,A
+1901-12-07,1901/1902,Stockport County,Burnley,1-2,1,2,Football League Second Division,2,A
+1901-12-07,1901/1902,Preston North End,Manchester United,5-1,5,1,Football League Second Division,2,H
+1901-12-07,1901/1902,Middlesbrough,Gainsborough Trinity,3-1,3,1,Football League Second Division,2,H
+1901-12-07,1901/1902,Lincoln City,Arsenal,0-0,0,0,Football League Second Division,2,D
+1901-12-07,1901/1902,Glossop North End,Leicester City,1-1,1,1,Football League Second Division,2,D
+1901-12-07,1901/1902,Burton United,West Bromwich Albion,1-3,1,3,Football League Second Division,2,A
+1901-12-07,1901/1902,Bristol City,Chesterfield,5-2,5,2,Football League Second Division,2,H
+1901-12-09,1901/1902,West Bromwich Albion,Lincoln City,4-1,4,1,Football League Second Division,2,H
+1901-12-14,1901/1902,Wolverhampton Wanderers,Bury,1-0,1,0,Football League First Division,1,H
+1901-12-14,1901/1902,Sheffield Wednesday,Sunderland,1-1,1,1,Football League First Division,1,D
+1901-12-14,1901/1902,Manchester City,Blackburn Rovers,1-1,1,1,Football League First Division,1,D
+1901-12-14,1901/1902,Newcastle United,Sheffield United,1-1,1,1,Football League First Division,1,D
+1901-12-14,1901/1902,Liverpool,Nottingham Forest,0-2,0,2,Football League First Division,1,A
+1901-12-14,1901/1902,Bolton Wanderers,Stoke City,2-1,2,1,Football League First Division,1,H
+1901-12-14,1901/1902,Aston Villa,Grimsby Town,4-1,4,1,Football League First Division,1,H
+1901-12-14,1901/1902,Notts County,Everton,0-2,0,2,Football League First Division,1,A
+1901-12-14,1901/1902,West Bromwich Albion,Middlesbrough,2-0,2,0,Football League Second Division,2,H
+1901-12-14,1901/1902,Preston North End,Barnsley,4-0,4,0,Football League Second Division,2,H
+1901-12-14,1901/1902,Port Vale,Stockport County,1-1,1,1,Football League Second Division,2,D
+1901-12-21,1901/1902,Everton,Bolton Wanderers,1-0,1,0,Football League First Division,1,H
+1901-12-21,1901/1902,Sunderland,Notts County,2-1,2,1,Football League First Division,1,H
+1901-12-21,1901/1902,Blackburn Rovers,Wolverhampton Wanderers,2-0,2,0,Football League First Division,1,H
+1901-12-21,1901/1902,Birmingham City,Sheffield Wednesday,1-1,1,1,Football League First Division,1,D
+1901-12-21,1901/1902,Lincoln City,Leicester City,2-0,2,0,Football League Second Division,2,H
+1901-12-21,1901/1902,West Bromwich Albion,Barnsley,3-1,3,1,Football League Second Division,2,H
+1901-12-21,1901/1902,Stockport County,Chesterfield,3-0,3,0,Football League Second Division,2,H
+1901-12-21,1901/1902,Preston North End,Doncaster Rovers,3-0,3,0,Football League Second Division,2,H
+1901-12-21,1901/1902,Manchester United,Port Vale,1-0,1,0,Football League Second Division,2,H
+1901-12-21,1901/1902,Glossop North End,Burnley,0-0,0,0,Football League Second Division,2,D
+1901-12-21,1901/1902,Blackpool,Gainsborough Trinity,3-0,3,0,Football League Second Division,2,H
+1901-12-21,1901/1902,Arsenal,Burton United,0-1,0,1,Football League Second Division,2,A
+1901-12-21,1901/1902,Bristol City,Middlesbrough,1-0,1,0,Football League Second Division,2,H
+1901-12-25,1901/1902,Blackburn Rovers,Grimsby Town,2-0,2,0,Football League First Division,1,H
+1901-12-25,1901/1902,Derby County,Wolverhampton Wanderers,3-1,3,1,Football League First Division,1,H
+1901-12-25,1901/1902,Everton,Aston Villa,2-3,2,3,Football League First Division,1,A
+1901-12-25,1901/1902,Preston North End,Gainsborough Trinity,4-1,4,1,Football League Second Division,2,H
+1901-12-25,1901/1902,Arsenal,Blackpool,0-0,0,0,Football League Second Division,2,D
+1901-12-25,1901/1902,Barnsley,Bristol City,2-2,2,2,Football League Second Division,2,D
+1901-12-25,1901/1902,Lincoln City,Doncaster Rovers,0-0,0,0,Football League Second Division,2,D
+1901-12-26,1901/1902,Wolverhampton Wanderers,Everton,2-1,2,1,Football League First Division,1,H
+1901-12-26,1901/1902,Sheffield Wednesday,Manchester City,2-1,2,1,Football League First Division,1,H
+1901-12-26,1901/1902,Aston Villa,Birmingham City,1-0,1,0,Football League First Division,1,H
+1901-12-26,1901/1902,Derby County,Newcastle United,1-0,1,0,Football League First Division,1,H
+1901-12-26,1901/1902,Stoke City,Sheffield United,3-2,3,2,Football League First Division,1,H
+1901-12-26,1901/1902,Nottingham Forest,Notts County,1-0,1,0,Football League First Division,1,H
+1901-12-26,1901/1902,Liverpool,Sunderland,0-1,0,1,Football League First Division,1,A
+1901-12-26,1901/1902,Leicester City,Doncaster Rovers,1-0,1,0,Football League Second Division,2,H
+1901-12-26,1901/1902,West Bromwich Albion,Stockport County,3-0,3,0,Football League Second Division,2,H
+1901-12-26,1901/1902,Arsenal,Port Vale,3-1,3,1,Football League Second Division,2,H
+1901-12-26,1901/1902,Lincoln City,Manchester United,2-0,2,0,Football League Second Division,2,H
+1901-12-26,1901/1902,Barnsley,Glossop North End,1-4,1,4,Football League Second Division,2,A
+1901-12-28,1901/1902,Wolverhampton Wanderers,Stoke City,4-1,4,1,Football League First Division,1,H
+1901-12-28,1901/1902,Notts County,Birmingham City,6-1,6,1,Football League First Division,1,H
+1901-12-28,1901/1902,Newcastle United,Bury,1-1,1,1,Football League First Division,1,D
+1901-12-28,1901/1902,Liverpool,Blackburn Rovers,1-0,1,0,Football League First Division,1,H
+1901-12-28,1901/1902,Grimsby Town,Sheffield United,0-1,0,1,Football League First Division,1,A
+1901-12-28,1901/1902,Bolton Wanderers,Sunderland,0-0,0,0,Football League First Division,1,D
+1901-12-28,1901/1902,Aston Villa,Nottingham Forest,3-0,3,0,Football League First Division,1,H
+1901-12-28,1901/1902,Burnley,Doncaster Rovers,7-0,7,0,Football League Second Division,2,H
+1901-12-28,1901/1902,Preston North End,Lincoln City,8-0,8,0,Football League Second Division,2,H
+1901-12-28,1901/1902,Port Vale,Glossop North End,1-0,1,0,Football League Second Division,2,H
+1901-12-28,1901/1902,Middlesbrough,Blackpool,2-1,2,1,Football League Second Division,2,H
+1901-12-28,1901/1902,Leicester City,West Bromwich Albion,0-3,0,3,Football League Second Division,2,A
+1901-12-28,1901/1902,Gainsborough Trinity,Stockport County,1-1,1,1,Football League Second Division,2,D
+1901-12-28,1901/1902,Burton United,Bristol City,2-2,2,2,Football League Second Division,2,D
+1901-12-28,1901/1902,Barnsley,Arsenal,2-0,2,0,Football League Second Division,2,H
+1902-01-01,1901/1902,Sunderland,Derby County,1-0,1,0,Football League First Division,1,H
+1902-01-01,1901/1902,Bury,Grimsby Town,1-1,1,1,Football League First Division,1,D
+1902-01-01,1901/1902,Bolton Wanderers,Manchester City,3-3,3,3,Football League First Division,1,D
+1902-01-01,1901/1902,Blackburn Rovers,Nottingham Forest,1-0,1,0,Football League First Division,1,H
+1902-01-01,1901/1902,Sheffield United,Aston Villa,6-0,6,0,Football League First Division,1,H
+1902-01-01,1901/1902,Barnsley,Burnley,2-2,2,2,Football League Second Division,2,D
+1902-01-01,1901/1902,Manchester United,Preston North End,0-2,0,2,Football League Second Division,2,A
+1902-01-01,1901/1902,Blackpool,Port Vale,1-0,1,0,Football League Second Division,2,H
+1902-01-01,1901/1902,Middlesbrough,Burton United,5-0,5,0,Football League Second Division,2,H
+1902-01-02,1901/1902,Bolton Wanderers,Nottingham Forest,3-0,3,0,Football League First Division,1,H
+1902-01-04,1901/1902,Sheffield United,Nottingham Forest,2-2,2,2,Football League First Division,1,D
+1902-01-04,1901/1902,Notts County,Derby County,3-2,3,2,Football League First Division,1,H
+1902-01-04,1901/1902,Newcastle United,Blackburn Rovers,0-3,0,3,Football League First Division,1,A
+1902-01-04,1901/1902,Manchester City,Sunderland,0-3,0,3,Football League First Division,1,A
+1902-01-04,1901/1902,Liverpool,Stoke City,7-0,7,0,Football League First Division,1,H
+1902-01-04,1901/1902,Grimsby Town,Sheffield Wednesday,3-1,3,1,Football League First Division,1,H
+1902-01-04,1901/1902,Bolton Wanderers,Birmingham City,4-0,4,0,Football League First Division,1,H
+1902-01-04,1901/1902,Aston Villa,Bury,2-0,2,0,Football League First Division,1,H
+1902-01-04,1901/1902,Preston North End,West Bromwich Albion,1-2,1,2,Football League Second Division,2,A
+1902-01-04,1901/1902,Port Vale,Doncaster Rovers,2-2,2,2,Football League Second Division,2,D
+1902-01-04,1901/1902,Middlesbrough,Stockport County,6-0,6,0,Football League Second Division,2,H
+1902-01-04,1901/1902,Leicester City,Arsenal,2-1,2,1,Football League Second Division,2,H
+1902-01-04,1901/1902,Gainsborough Trinity,Manchester United,1-1,1,1,Football League Second Division,2,D
+1902-01-04,1901/1902,Chesterfield,Glossop North End,1-0,1,0,Football League Second Division,2,H
+1902-01-04,1901/1902,Burton United,Barnsley,2-1,2,1,Football League Second Division,2,H
+1902-01-04,1901/1902,Burnley,Lincoln City,1-0,1,0,Football League Second Division,2,H
+1902-01-04,1901/1902,Bristol City,Blackpool,3-0,3,0,Football League Second Division,2,H
+1902-01-06,1901/1902,West Bromwich Albion,Leicester City,1-0,1,0,Football League Second Division,2,H
+1902-01-11,1901/1902,Blackburn Rovers,Aston Villa,4-0,4,0,Football League First Division,1,H
+1902-01-11,1901/1902,Stoke City,Newcastle United,0-0,0,0,Football League First Division,1,D
+1902-01-11,1901/1902,Sheffield Wednesday,Notts County,4-0,4,0,Football League First Division,1,H
+1902-01-11,1901/1902,Nottingham Forest,Grimsby Town,0-1,0,1,Football League First Division,1,A
+1902-01-11,1901/1902,Everton,Liverpool,4-0,4,0,Football League First Division,1,H
+1902-01-11,1901/1902,Derby County,Bolton Wanderers,1-2,1,2,Football League First Division,1,A
+1902-01-11,1901/1902,Bury,Sheffield United,1-2,1,2,Football League First Division,1,A
+1902-01-11,1901/1902,Birmingham City,Manchester City,1-0,1,0,Football League First Division,1,H
+1902-01-11,1901/1902,Sunderland,Wolverhampton Wanderers,2-0,2,0,Football League First Division,1,H
+1902-01-11,1901/1902,Doncaster Rovers,Chesterfield,4-1,4,1,Football League Second Division,2,H
+1902-01-11,1901/1902,Blackpool,Burton United,1-0,1,0,Football League Second Division,2,H
+1902-01-11,1901/1902,Glossop North End,Gainsborough Trinity,0-0,0,0,Football League Second Division,2,D
+1902-01-11,1901/1902,Barnsley,Leicester City,2-3,2,3,Football League Second Division,2,A
+1902-01-11,1901/1902,West Bromwich Albion,Burnley,3-0,3,0,Football League Second Division,2,H
+1902-01-11,1901/1902,Stockport County,Bristol City,1-1,1,1,Football League Second Division,2,D
+1902-01-11,1901/1902,Lincoln City,Port Vale,1-1,1,1,Football League Second Division,2,D
+1902-01-11,1901/1902,Arsenal,Preston North End,0-0,0,0,Football League Second Division,2,D
+1902-01-13,1901/1902,Stoke City,Manchester City,3-0,3,0,Football League First Division,1,H
+1902-01-18,1901/1902,Sheffield United,Blackburn Rovers,4-1,4,1,Football League First Division,1,H
+1902-01-18,1901/1902,Nottingham Forest,Bury,2-1,2,1,Football League First Division,1,H
+1902-01-18,1901/1902,Newcastle United,Everton,1-1,1,1,Football League First Division,1,D
+1902-01-18,1901/1902,Manchester City,Derby County,0-0,0,0,Football League First Division,1,D
+1902-01-18,1901/1902,Grimsby Town,Notts County,1-0,1,0,Football League First Division,1,H
+1902-01-18,1901/1902,Bolton Wanderers,Sheffield Wednesday,3-1,3,1,Football League First Division,1,H
+1902-01-18,1901/1902,Wolverhampton Wanderers,Birmingham City,2-1,2,1,Football League First Division,1,H
+1902-01-18,1901/1902,Aston Villa,Stoke City,0-0,0,0,Football League First Division,1,D
+1902-01-18,1901/1902,Port Vale,West Bromwich Albion,2-3,2,3,Football League Second Division,2,A
+1902-01-18,1901/1902,Gainsborough Trinity,Doncaster Rovers,4-1,4,1,Football League Second Division,2,H
+1902-01-18,1901/1902,Chesterfield,Lincoln City,0-1,0,1,Football League Second Division,2,A
+1902-01-18,1901/1902,Burton United,Leicester City,2-0,2,0,Football League Second Division,2,H
+1902-01-18,1901/1902,Burnley,Arsenal,0-0,0,0,Football League Second Division,2,D
+1902-01-18,1901/1902,Bristol City,Manchester United,4-0,4,0,Football League Second Division,2,H
+1902-01-18,1901/1902,Blackpool,Stockport County,1-0,1,0,Football League Second Division,2,H
+1902-01-18,1901/1902,Middlesbrough,Glossop North End,5-0,5,0,Football League Second Division,2,H
+1902-01-25,1901/1902,Manchester United,Blackpool,0-1,0,1,Football League Second Division,2,A
+1902-01-25,1901/1902,Leicester City,Port Vale,0-1,0,1,Football League Second Division,2,A
+1902-01-25,1901/1902,Bristol City,Gainsborough Trinity,4-0,4,0,Football League Second Division,2,H
+1902-02-01,1901/1902,Manchester City,Notts County,1-0,1,0,Football League First Division,1,H
+1902-02-01,1901/1902,Wolverhampton Wanderers,Sheffield Wednesday,1-0,1,0,Football League First Division,1,H
+1902-02-01,1901/1902,Sheffield United,Everton,0-0,0,0,Football League First Division,1,D
+1902-02-01,1901/1902,Nottingham Forest,Stoke City,2-0,2,0,Football League First Division,1,H
+1902-02-01,1901/1902,Newcastle United,Birmingham City,2-0,2,0,Football League First Division,1,H
+1902-02-01,1901/1902,Grimsby Town,Bolton Wanderers,4-1,4,1,Football League First Division,1,H
+1902-02-01,1901/1902,Bury,Liverpool,0-0,0,0,Football League First Division,1,D
+1902-02-01,1901/1902,Aston Villa,Sunderland,0-1,0,1,Football League First Division,1,A
+1902-02-01,1901/1902,Port Vale,Barnsley,2-1,2,1,Football League Second Division,2,H
+1902-02-01,1901/1902,Middlesbrough,Lincoln City,0-0,0,0,Football League Second Division,2,D
+1902-02-01,1901/1902,Gainsborough Trinity,West Bromwich Albion,1-1,1,1,Football League Second Division,2,D
+1902-02-01,1901/1902,Stockport County,Manchester United,1-0,1,0,Football League Second Division,2,H
+1902-02-01,1901/1902,Chesterfield,Arsenal,1-3,1,3,Football League Second Division,2,A
+1902-02-01,1901/1902,Burton United,Preston North End,1-1,1,1,Football League Second Division,2,D
+1902-02-01,1901/1902,Burnley,Leicester City,1-0,1,0,Football League Second Division,2,H
+1902-02-01,1901/1902,Bristol City,Doncaster Rovers,3-0,3,0,Football League Second Division,2,H
+1902-02-01,1901/1902,Blackpool,Glossop North End,1-1,1,1,Football League Second Division,2,D
+1902-02-08,1901/1902,Glossop North End,Stockport County,2-1,2,1,Football League Second Division,2,H
+1902-02-08,1901/1902,Doncaster Rovers,Blackpool,4-3,4,3,Football League Second Division,2,H
+1902-02-08,1901/1902,Barnsley,Chesterfield,3-2,3,2,Football League Second Division,2,H
+1902-02-08,1901/1902,Arsenal,Gainsborough Trinity,5-0,5,0,Football League Second Division,2,H
+1902-02-11,1901/1902,Sheffield United,Grimsby Town,2-2,2,2,Football League First Division,1,D
+1902-02-11,1901/1902,Manchester United,Burnley,2-0,2,0,Football League Second Division,2,H
+1902-02-15,1901/1902,Wolverhampton Wanderers,Bolton Wanderers,1-2,1,2,Football League First Division,1,A
+1902-02-15,1901/1902,Sheffield United,Birmingham City,1-4,1,4,Football League First Division,1,A
+1902-02-15,1901/1902,Nottingham Forest,Sunderland,2-1,2,1,Football League First Division,1,H
+1902-02-15,1901/1902,Newcastle United,Sheffield Wednesday,2-1,2,1,Football League First Division,1,H
+1902-02-15,1901/1902,Liverpool,Notts County,0-1,0,1,Football League First Division,1,A
+1902-02-15,1901/1902,Grimsby Town,Manchester City,3-2,3,2,Football League First Division,1,H
+1902-02-15,1901/1902,Bury,Everton,1-0,1,0,Football League First Division,1,H
+1902-02-15,1901/1902,Blackburn Rovers,Stoke City,6-1,6,1,Football League First Division,1,H
+1902-02-15,1901/1902,Aston Villa,Derby County,3-2,3,2,Football League First Division,1,H
+1902-02-15,1901/1902,Middlesbrough,Arsenal,1-0,1,0,Football League Second Division,2,H
+1902-02-15,1901/1902,Manchester United,Glossop North End,1-0,1,0,Football League Second Division,2,H
+1902-02-15,1901/1902,Gainsborough Trinity,Barnsley,0-0,0,0,Football League Second Division,2,D
+1902-02-15,1901/1902,Chesterfield,Leicester City,3-3,3,3,Football League Second Division,2,D
+1902-02-15,1901/1902,Burton United,Burnley,5-2,5,2,Football League Second Division,2,H
+1902-02-15,1901/1902,Bristol City,West Bromwich Albion,1-2,1,2,Football League Second Division,2,A
+1902-02-15,1901/1902,Blackpool,Lincoln City,3-0,3,0,Football League Second Division,2,H
+1902-02-15,1901/1902,Port Vale,Preston North End,0-0,0,0,Football League Second Division,2,D
+1902-02-15,1901/1902,Stockport County,Doncaster Rovers,1-2,1,2,Football League Second Division,2,A
+1902-02-17,1901/1902,Manchester City,Aston Villa,1-0,1,0,Football League First Division,1,H
+1902-02-17,1901/1902,Birmingham City,Stoke City,1-1,1,1,Football League First Division,1,D
+1902-02-22,1901/1902,Sheffield Wednesday,Aston Villa,1-0,1,0,Football League First Division,1,H
+1902-02-22,1901/1902,Manchester City,Wolverhampton Wanderers,3-0,3,0,Football League First Division,1,H
+1902-02-22,1901/1902,Everton,Blackburn Rovers,0-2,0,2,Football League First Division,1,A
+1902-02-22,1901/1902,Bolton Wanderers,Liverpool,1-0,1,0,Football League First Division,1,H
+1902-02-22,1901/1902,Birmingham City,Grimsby Town,6-0,6,0,Football League First Division,1,H
+1902-02-22,1901/1902,Leicester City,Gainsborough Trinity,2-0,2,0,Football League Second Division,2,H
+1902-02-22,1901/1902,West Bromwich Albion,Blackpool,7-2,7,2,Football League Second Division,2,H
+1902-02-22,1901/1902,Preston North End,Chesterfield,5-0,5,0,Football League Second Division,2,H
+1902-02-22,1901/1902,Lincoln City,Stockport County,5-0,5,0,Football League Second Division,2,H
+1902-02-22,1901/1902,Glossop North End,Burton United,2-1,2,1,Football League Second Division,2,H
+1902-02-22,1901/1902,Doncaster Rovers,Manchester United,4-0,4,0,Football League Second Division,2,H
+1902-02-22,1901/1902,Burnley,Port Vale,4-1,4,1,Football League Second Division,2,H
+1902-02-22,1901/1902,Arsenal,Bristol City,2-0,2,0,Football League Second Division,2,H
+1902-02-22,1901/1902,Barnsley,Middlesbrough,2-7,2,7,Football League Second Division,2,A
+1902-03-01,1901/1902,Sheffield United,Sheffield Wednesday,3-0,3,0,Football League First Division,1,H
+1902-03-01,1901/1902,Nottingham Forest,Derby County,3-1,3,1,Football League First Division,1,H
+1902-03-01,1901/1902,Newcastle United,Bolton Wanderers,4-1,4,1,Football League First Division,1,H
+1902-03-01,1901/1902,Liverpool,Manchester City,4-0,4,0,Football League First Division,1,H
+1902-03-01,1901/1902,Grimsby Town,Wolverhampton Wanderers,3-0,3,0,Football League First Division,1,H
+1902-03-01,1901/1902,Bury,Birmingham City,2-0,2,0,Football League First Division,1,H
+1902-03-01,1901/1902,Blackburn Rovers,Sunderland,0-1,0,1,Football League First Division,1,A
+1902-03-01,1901/1902,Stoke City,Everton,1-2,1,2,Football League First Division,1,A
+1902-03-01,1901/1902,Chesterfield,Burnley,3-0,3,0,Football League Second Division,2,H
+1902-03-01,1901/1902,Stockport County,West Bromwich Albion,0-2,0,2,Football League Second Division,2,A
+1902-03-01,1901/1902,Gainsborough Trinity,Preston North End,0-1,0,1,Football League Second Division,2,A
+1902-03-01,1901/1902,Bristol City,Barnsley,3-1,3,1,Football League Second Division,2,H
+1902-03-01,1901/1902,Manchester United,Lincoln City,0-0,0,0,Football League Second Division,2,D
+1902-03-01,1901/1902,Middlesbrough,Leicester City,5-0,5,0,Football League Second Division,2,H
+1902-03-01,1901/1902,Glossop North End,Doncaster Rovers,3-1,3,1,Football League Second Division,2,H
+1902-03-01,1901/1902,Blackpool,Arsenal,1-3,1,3,Football League Second Division,2,A
+1902-03-01,1901/1902,Burton United,Port Vale,3-0,3,0,Football League Second Division,2,H
+1902-03-04,1901/1902,Glossop North End,Bristol City,1-2,1,2,Football League Second Division,2,A
+1902-03-08,1901/1902,Manchester City,Newcastle United,2-0,2,0,Football League First Division,1,H
+1902-03-08,1901/1902,Sunderland,Stoke City,2-0,2,0,Football League First Division,1,H
+1902-03-08,1901/1902,Sheffield Wednesday,Nottingham Forest,0-2,0,2,Football League First Division,1,A
+1902-03-08,1901/1902,Notts County,Sheffield United,4-0,4,0,Football League First Division,1,H
+1902-03-08,1901/1902,Everton,Grimsby Town,0-1,0,1,Football League First Division,1,A
+1902-03-08,1901/1902,Derby County,Bury,1-0,1,0,Football League First Division,1,H
+1902-03-08,1901/1902,Bolton Wanderers,Aston Villa,2-2,2,2,Football League First Division,1,D
+1902-03-08,1901/1902,Birmingham City,Blackburn Rovers,2-0,2,0,Football League First Division,1,H
+1902-03-08,1901/1902,Wolverhampton Wanderers,Liverpool,3-1,3,1,Football League First Division,1,H
+1902-03-08,1901/1902,Preston North End,Middlesbrough,0-3,0,3,Football League Second Division,2,A
+1902-03-08,1901/1902,Port Vale,Chesterfield,4-2,4,2,Football League Second Division,2,H
+1902-03-08,1901/1902,Lincoln City,Glossop North End,1-0,1,0,Football League Second Division,2,H
+1902-03-08,1901/1902,Leicester City,Bristol City,0-1,0,1,Football League Second Division,2,A
+1902-03-08,1901/1902,Doncaster Rovers,Burton United,2-0,2,0,Football League Second Division,2,H
+1902-03-08,1901/1902,Burnley,Gainsborough Trinity,6-0,6,0,Football League Second Division,2,H
+1902-03-08,1901/1902,Barnsley,Blackpool,2-0,2,0,Football League Second Division,2,H
+1902-03-08,1901/1902,Arsenal,Stockport County,3-0,3,0,Football League Second Division,2,H
+1902-03-08,1901/1902,West Bromwich Albion,Manchester United,4-0,4,0,Football League Second Division,2,H
+1902-03-10,1901/1902,Wolverhampton Wanderers,Newcastle United,3-0,3,0,Football League First Division,1,H
+1902-03-10,1901/1902,Port Vale,Burton United,2-1,2,1,Football League Second Division,2,H
+1902-03-15,1901/1902,Bury,Sheffield Wednesday,2-0,2,0,Football League First Division,1,H
+1902-03-15,1901/1902,Stoke City,Birmingham City,1-0,1,0,Football League First Division,1,H
+1902-03-15,1901/1902,Newcastle United,Wolverhampton Wanderers,3-1,3,1,Football League First Division,1,H
+1902-03-15,1901/1902,Grimsby Town,Liverpool,1-1,1,1,Football League First Division,1,D
+1902-03-15,1901/1902,Everton,Sunderland,2-0,2,0,Football League First Division,1,H
+1902-03-15,1901/1902,Stockport County,Barnsley,2-3,2,3,Football League Second Division,2,A
+1902-03-15,1901/1902,Manchester United,Arsenal,0-1,0,1,Football League Second Division,2,A
+1902-03-15,1901/1902,Leicester City,Blackpool,1-0,1,0,Football League Second Division,2,H
+1902-03-15,1901/1902,Glossop North End,West Bromwich Albion,1-2,1,2,Football League Second Division,2,A
+1902-03-15,1901/1902,Gainsborough Trinity,Port Vale,2-3,2,3,Football League Second Division,2,A
+1902-03-15,1901/1902,Doncaster Rovers,Lincoln City,1-1,1,1,Football League Second Division,2,D
+1902-03-15,1901/1902,Middlesbrough,Burnley,3-0,3,0,Football League Second Division,2,H
+1902-03-15,1901/1902,Bristol City,Preston North End,2-0,2,0,Football League Second Division,2,H
+1902-03-15,1901/1902,Burton United,Chesterfield,0-1,0,1,Football League Second Division,2,A
+1902-03-17,1901/1902,Sheffield Wednesday,Derby County,2-0,2,0,Football League First Division,1,H
+1902-03-17,1901/1902,Manchester City,Everton,2-0,2,0,Football League First Division,1,H
+1902-03-17,1901/1902,Chesterfield,Manchester United,3-0,3,0,Football League Second Division,2,H
+1902-03-19,1901/1902,Nottingham Forest,Newcastle United,0-2,0,2,Football League First Division,1,A
+1902-03-22,1901/1902,Derby County,Stoke City,1-0,1,0,Football League First Division,1,H
+1902-03-22,1901/1902,Sunderland,Grimsby Town,3-1,3,1,Football League First Division,1,H
+1902-03-22,1901/1902,Sheffield Wednesday,Blackburn Rovers,0-1,0,1,Football League First Division,1,A
+1902-03-22,1901/1902,Notts County,Bury,2-1,2,1,Football League First Division,1,H
+1902-03-22,1901/1902,Manchester City,Sheffield United,4-0,4,0,Football League First Division,1,H
+1902-03-22,1901/1902,Liverpool,Newcastle United,0-1,0,1,Football League First Division,1,A
+1902-03-22,1901/1902,Birmingham City,Everton,0-1,0,1,Football League First Division,1,A
+1902-03-22,1901/1902,Wolverhampton Wanderers,Aston Villa,0-2,0,2,Football League First Division,1,A
+1902-03-22,1901/1902,Barnsley,Manchester United,3-2,3,2,Football League Second Division,2,H
+1902-03-22,1901/1902,Preston North End,Blackpool,1-1,1,1,Football League Second Division,2,D
+1902-03-22,1901/1902,West Bromwich Albion,Doncaster Rovers,2-2,2,2,Football League Second Division,2,D
+1902-03-22,1901/1902,Port Vale,Middlesbrough,1-1,1,1,Football League Second Division,2,D
+1902-03-22,1901/1902,Lincoln City,Burton United,0-0,0,0,Football League Second Division,2,D
+1902-03-22,1901/1902,Chesterfield,Gainsborough Trinity,2-0,2,0,Football League Second Division,2,H
+1902-03-22,1901/1902,Burnley,Bristol City,0-1,0,1,Football League Second Division,2,A
+1902-03-22,1901/1902,Arsenal,Glossop North End,4-0,4,0,Football League Second Division,2,H
+1902-03-24,1901/1902,Stockport County,Leicester City,2-0,2,0,Football League Second Division,2,H
+1902-03-28,1901/1902,Notts County,Wolverhampton Wanderers,5-3,5,3,Football League First Division,1,H
+1902-03-28,1901/1902,Manchester City,Sheffield Wednesday,0-3,0,3,Football League First Division,1,A
+1902-03-28,1901/1902,Grimsby Town,Newcastle United,3-0,3,0,Football League First Division,1,H
+1902-03-28,1901/1902,Bury,Blackburn Rovers,2-0,2,0,Football League First Division,1,H
+1902-03-28,1901/1902,Bolton Wanderers,Sheffield United,1-0,1,0,Football League First Division,1,H
+1902-03-28,1901/1902,Preston North End,Glossop North End,2-2,2,2,Football League Second Division,2,D
+1902-03-28,1901/1902,Port Vale,Gainsborough Trinity,1-1,1,1,Football League Second Division,2,D
+1902-03-28,1901/1902,Lincoln City,Barnsley,1-1,1,1,Football League Second Division,2,D
+1902-03-28,1901/1902,Doncaster Rovers,Middlesbrough,0-0,0,0,Football League Second Division,2,D
+1902-03-28,1901/1902,Chesterfield,Burton United,3-1,3,1,Football League Second Division,2,H
+1902-03-28,1901/1902,Burnley,Manchester United,1-0,1,0,Football League Second Division,2,H
+1902-03-28,1901/1902,Blackpool,Leicester City,4-0,4,0,Football League Second Division,2,H
+1902-03-29,1901/1902,Aston Villa,Liverpool,0-1,0,1,Football League First Division,1,A
+1902-03-29,1901/1902,Sunderland,Birmingham City,1-1,1,1,Football League First Division,1,D
+1902-03-29,1901/1902,Stoke City,Sheffield Wednesday,1-2,1,2,Football League First Division,1,A
+1902-03-29,1901/1902,Sheffield United,Wolverhampton Wanderers,0-0,0,0,Football League First Division,1,D
+1902-03-29,1901/1902,Nottingham Forest,Manchester City,3-1,3,1,Football League First Division,1,H
+1902-03-29,1901/1902,Everton,Derby County,2-0,2,0,Football League First Division,1,H
+1902-03-29,1901/1902,Bury,Bolton Wanderers,2-2,2,2,Football League First Division,1,D
+1902-03-29,1901/1902,Blackburn Rovers,Notts County,4-2,4,2,Football League First Division,1,H
+1902-03-29,1901/1902,Preston North End,Stockport County,4-0,4,0,Football League Second Division,2,H
+1902-03-29,1901/1902,Middlesbrough,Chesterfield,7-1,7,1,Football League Second Division,2,H
+1902-03-29,1901/1902,Manchester United,Leicester City,2-0,2,0,Football League Second Division,2,H
+1902-03-29,1901/1902,Lincoln City,West Bromwich Albion,1-0,1,0,Football League Second Division,2,H
+1902-03-29,1901/1902,Glossop North End,Barnsley,1-1,1,1,Football League Second Division,2,D
+1902-03-29,1901/1902,Doncaster Rovers,Arsenal,1-0,1,0,Football League Second Division,2,H
+1902-03-29,1901/1902,Burton United,Gainsborough Trinity,5-0,5,0,Football League Second Division,2,H
+1902-03-29,1901/1902,Bristol City,Port Vale,4-0,4,0,Football League Second Division,2,H
+1902-03-29,1901/1902,Blackpool,Burnley,2-1,2,1,Football League Second Division,2,H
+1902-03-31,1901/1902,Wolverhampton Wanderers,Blackburn Rovers,3-1,3,1,Football League First Division,1,H
+1902-03-31,1901/1902,Notts County,Bolton Wanderers,2-1,2,1,Football League First Division,1,H
+1902-03-31,1901/1902,Everton,Nottingham Forest,1-0,1,0,Football League First Division,1,H
+1902-03-31,1901/1902,Derby County,Birmingham City,0-0,0,0,Football League First Division,1,D
+1902-03-31,1901/1902,Aston Villa,Manchester City,2-2,2,2,Football League First Division,1,D
+1902-03-31,1901/1902,Sunderland,Newcastle United,0-0,0,0,Football League First Division,1,D
+1902-03-31,1901/1902,Leicester City,Preston North End,1-0,1,0,Football League Second Division,2,H
+1902-03-31,1901/1902,Doncaster Rovers,Glossop North End,1-2,1,2,Football League Second Division,2,A
+1902-03-31,1901/1902,Chesterfield,Blackpool,3-1,3,1,Football League Second Division,2,H
+1902-03-31,1901/1902,Barnsley,Stockport County,3-1,3,1,Football League Second Division,2,H
+1902-03-31,1901/1902,Arsenal,West Bromwich Albion,2-1,2,1,Football League Second Division,2,H
+1902-04-01,1901/1902,Sheffield Wednesday,Liverpool,1-1,1,1,Football League First Division,1,D
+1902-04-01,1901/1902,Derby County,Grimsby Town,2-0,2,0,Football League First Division,1,H
+1902-04-01,1901/1902,Nottingham Forest,Aston Villa,1-1,1,1,Football League First Division,1,D
+1902-04-01,1901/1902,Leicester City,Glossop North End,1-1,1,1,Football League Second Division,2,D
+1902-04-02,1901/1902,Gainsborough Trinity,Bristol City,2-0,2,0,Football League Second Division,2,H
+1902-04-05,1901/1902,Sheffield Wednesday,Everton,1-1,1,1,Football League First Division,1,D
+1902-04-05,1901/1902,Newcastle United,Aston Villa,2-1,2,1,Football League First Division,1,H
+1902-04-05,1901/1902,Manchester City,Bury,2-0,2,0,Football League First Division,1,H
+1902-04-05,1901/1902,Liverpool,Sheffield United,1-0,1,0,Football League First Division,1,H
+1902-04-05,1901/1902,Derby County,Sunderland,1-0,1,0,Football League First Division,1,H
+1902-04-05,1901/1902,Notts County,Stoke City,1-1,1,1,Football League First Division,1,D
+1902-04-05,1901/1902,Bolton Wanderers,Blackburn Rovers,4-0,4,0,Football League First Division,1,H
+1902-04-05,1901/1902,Birmingham City,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1902-04-05,1901/1902,Arsenal,Lincoln City,2-0,2,0,Football League Second Division,2,H
+1902-04-05,1901/1902,West Bromwich Albion,Burton United,2-1,2,1,Football League Second Division,2,H
+1902-04-05,1901/1902,Stockport County,Preston North End,0-2,0,2,Football League Second Division,2,A
+1902-04-05,1901/1902,Gainsborough Trinity,Middlesbrough,1-4,1,4,Football League Second Division,2,A
+1902-04-05,1901/1902,Chesterfield,Bristol City,1-0,1,0,Football League Second Division,2,H
+1902-04-05,1901/1902,Barnsley,Doncaster Rovers,3-0,3,0,Football League Second Division,2,H
+1902-04-05,1901/1902,Port Vale,Blackpool,0-1,0,1,Football League Second Division,2,A
+1902-04-07,1901/1902,Sheffield United,Bolton Wanderers,2-0,2,0,Football League First Division,1,H
+1902-04-07,1901/1902,Preston North End,Burnley,3-1,3,1,Football League Second Division,2,H
+1902-04-07,1901/1902,Manchester United,Middlesbrough,1-2,1,2,Football League Second Division,2,A
+1902-04-12,1901/1902,Sunderland,Sheffield Wednesday,1-2,1,2,Football League First Division,1,A
+1902-04-12,1901/1902,Everton,Notts County,0-1,0,1,Football League First Division,1,A
+1902-04-12,1901/1902,Sheffield United,Newcastle United,1-0,1,0,Football League First Division,1,H
+1902-04-12,1901/1902,Nottingham Forest,Liverpool,1-1,1,1,Football League First Division,1,D
+1902-04-12,1901/1902,Grimsby Town,Aston Villa,4-1,4,1,Football League First Division,1,H
+1902-04-12,1901/1902,Bury,Wolverhampton Wanderers,2-1,2,1,Football League First Division,1,H
+1902-04-12,1901/1902,Blackburn Rovers,Manchester City,1-4,1,4,Football League First Division,1,A
+1902-04-12,1901/1902,Birmingham City,Derby County,5-1,5,1,Football League First Division,1,H
+1902-04-12,1901/1902,Stoke City,Bolton Wanderers,4-0,4,0,Football League First Division,1,H
+1902-04-12,1901/1902,Glossop North End,Preston North End,3-1,3,1,Football League Second Division,2,H
+1902-04-12,1901/1902,Doncaster Rovers,Leicester City,2-1,2,1,Football League Second Division,2,H
+1902-04-12,1901/1902,Burton United,Middlesbrough,3-2,3,2,Football League Second Division,2,H
+1902-04-12,1901/1902,Stockport County,Port Vale,4-2,4,2,Football League Second Division,2,H
+1902-04-12,1901/1902,Bristol City,Burnley,1-0,1,0,Football League Second Division,2,H
+1902-04-12,1901/1902,Blackpool,Chesterfield,0-0,0,0,Football League Second Division,2,D
+1902-04-12,1901/1902,Barnsley,Lincoln City,2-2,2,2,Football League Second Division,2,D
+1902-04-12,1901/1902,West Bromwich Albion,Arsenal,2-1,2,1,Football League Second Division,2,H
+1902-04-14,1901/1902,Stoke City,Grimsby Town,2-0,2,0,Football League First Division,1,H
+1902-04-14,1901/1902,Liverpool,Derby County,0-2,0,2,Football League First Division,1,A
+1902-04-14,1901/1902,Stockport County,Burton United,2-0,2,0,Football League Second Division,2,H
+1902-04-16,1901/1902,Sunderland,Bury,3-0,3,0,Football League First Division,1,H
+1902-04-16,1901/1902,Lincoln City,Gainsborough Trinity,3-0,3,0,Football League Second Division,2,H
+1902-04-19,1901/1902,Sheffield Wednesday,Birmingham City,1-2,1,2,Football League First Division,1,A
+1902-04-19,1901/1902,Notts County,Sunderland,2-0,2,0,Football League First Division,1,H
+1902-04-19,1901/1902,Newcastle United,Nottingham Forest,3-0,3,0,Football League First Division,1,H
+1902-04-19,1901/1902,Manchester City,Stoke City,2-2,2,2,Football League First Division,1,D
+1902-04-19,1901/1902,Liverpool,Bury,1-0,1,0,Football League First Division,1,H
+1902-04-19,1901/1902,Bolton Wanderers,Everton,1-3,1,3,Football League First Division,1,A
+1902-04-19,1901/1902,Blackburn Rovers,Derby County,3-1,3,1,Football League First Division,1,H
+1902-04-19,1901/1902,Chesterfield,Stockport County,8-1,8,1,Football League Second Division,2,H
+1902-04-19,1901/1902,Middlesbrough,Bristol City,2-0,2,0,Football League Second Division,2,H
+1902-04-19,1901/1902,Leicester City,Lincoln City,3-1,3,1,Football League Second Division,2,H
+1902-04-19,1901/1902,Gainsborough Trinity,Blackpool,3-0,3,0,Football League Second Division,2,H
+1902-04-19,1901/1902,Doncaster Rovers,Preston North End,4-0,4,0,Football League Second Division,2,H
+1902-04-19,1901/1902,Burton United,Arsenal,2-0,2,0,Football League Second Division,2,H
+1902-04-19,1901/1902,Burnley,Glossop North End,1-1,1,1,Football League Second Division,2,D
+1902-04-19,1901/1902,Port Vale,Manchester United,1-1,1,1,Football League Second Division,2,D
+1902-04-19,1901/1902,Barnsley,West Bromwich Albion,0-2,0,2,Football League Second Division,2,A
+1902-04-21,1901/1902,Liverpool,Grimsby Town,2-2,2,2,Football League First Division,1,D
+1902-04-21,1901/1902,Lincoln City,Bristol City,1-0,1,0,Football League Second Division,2,H
+1902-04-21,1901/1902,Manchester United,Burton United,3-1,3,1,Football League Second Division,2,H
+1902-04-23,1901/1902,Manchester United,Chesterfield,2-0,2,0,Football League Second Division,2,H
+1902-04-26,1901/1902,Blackburn Rovers,Liverpool,1-1,1,1,Football League First Division,1,D
+1902-04-26,1901/1902,Sunderland,Bolton Wanderers,2-1,2,1,Football League First Division,1,H
+1902-04-26,1901/1902,Derby County,Sheffield Wednesday,2-2,2,2,Football League First Division,1,D
+1902-04-26,1901/1902,Bury,Newcastle United,4-0,4,0,Football League First Division,1,H
+1902-04-26,1901/1902,Birmingham City,Notts County,0-0,0,0,Football League First Division,1,D
+1902-04-26,1901/1902,Stockport County,Gainsborough Trinity,2-1,2,1,Football League Second Division,2,H
+1902-04-26,1901/1902,Lincoln City,Preston North End,2-1,2,1,Football League Second Division,2,H
+1902-04-26,1901/1902,Doncaster Rovers,Burnley,3-0,3,0,Football League Second Division,2,H
+1902-04-26,1901/1902,Glossop North End,Port Vale,0-1,0,1,Football League Second Division,2,A
+1902-04-26,1901/1902,Bristol City,Burton United,0-2,0,2,Football League Second Division,2,A
+1902-04-26,1901/1902,Blackpool,Middlesbrough,0-2,0,2,Football League Second Division,2,A
+1902-04-28,1901/1902,Derby County,Sheffield United,3-1,3,1,Football League First Division,1,H

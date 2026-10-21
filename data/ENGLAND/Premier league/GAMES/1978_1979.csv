@@ -1,0 +1,2029 @@
+Date,Season,HomeTeam,AwayTeam,Score,hGoal,aGoal,Division,Tier,Result
+1978-08-19,1978/1979,Arsenal,Leeds United,2-2,2,2,Football League First Division,1,D
+1978-08-19,1978/1979,Aston Villa,Wolverhampton Wanderers,1-0,1,0,Football League First Division,1,H
+1978-08-19,1978/1979,Bolton Wanderers,Bristol City,1-2,1,2,Football League First Division,1,A
+1978-08-19,1978/1979,Derby County,Manchester City,1-1,1,1,Football League First Division,1,D
+1978-08-19,1978/1979,Liverpool,Queens Park Rangers,2-1,2,1,Football League First Division,1,H
+1978-08-19,1978/1979,Manchester United,Birmingham City,1-0,1,0,Football League First Division,1,H
+1978-08-19,1978/1979,Middlesbrough,Coventry City,1-2,1,2,Football League First Division,1,A
+1978-08-19,1978/1979,Norwich City,Southampton,3-1,3,1,Football League First Division,1,H
+1978-08-19,1978/1979,Nottingham Forest,Tottenham Hotspur,1-1,1,1,Football League First Division,1,D
+1978-08-19,1978/1979,Chelsea,Everton,0-1,0,1,Football League First Division,1,A
+1978-08-19,1978/1979,West Bromwich Albion,Ipswich Town,2-1,2,1,Football League First Division,1,H
+1978-08-19,1978/1979,AFC Bournemouth,Newport County,3-1,3,1,Football League Fourth Division,4,H
+1978-08-19,1978/1979,Grimsby Town,Reading,1-2,1,2,Football League Fourth Division,4,A
+1978-08-19,1978/1979,Hartlepool United,Doncaster Rovers,3-4,3,4,Football League Fourth Division,4,A
+1978-08-19,1978/1979,Hereford United,Wigan Athletic,0-0,0,0,Football League Fourth Division,4,D
+1978-08-19,1978/1979,Huddersfield Town,Crewe Alexandra,0-0,0,0,Football League Fourth Division,4,D
+1978-08-19,1978/1979,Port Vale,Scunthorpe United,2-2,2,2,Football League Fourth Division,4,D
+1978-08-19,1978/1979,Portsmouth,Bradford City,0-1,0,1,Football League Fourth Division,4,A
+1978-08-19,1978/1979,Rochdale,York City,1-2,1,2,Football League Fourth Division,4,A
+1978-08-19,1978/1979,Stockport County,Darlington,3-0,3,0,Football League Fourth Division,4,H
+1978-08-19,1978/1979,Torquay United,Northampton Town,0-1,0,1,Football League Fourth Division,4,A
+1978-08-19,1978/1979,Aldershot,Wimbledon,1-1,1,1,Football League Fourth Division,4,D
+1978-08-19,1978/1979,Barnsley,Halifax Town,4-2,4,2,Football League Fourth Division,4,H
+1978-08-19,1978/1979,Wrexham,Brighton & Hove Albion,0-0,0,0,Football League Second Division,2,D
+1978-08-19,1978/1979,Blackburn Rovers,Crystal Palace,1-1,1,1,Football League Second Division,2,D
+1978-08-19,1978/1979,Bristol Rovers,Fulham,3-1,3,1,Football League Second Division,2,H
+1978-08-19,1978/1979,Burnley,Leicester City,2-2,2,2,Football League Second Division,2,D
+1978-08-19,1978/1979,Cambridge United,Stoke City,0-1,0,1,Football League Second Division,2,A
+1978-08-19,1978/1979,Cardiff City,Preston North End,2-2,2,2,Football League Second Division,2,D
+1978-08-19,1978/1979,Luton Town,Oldham Athletic,6-1,6,1,Football League Second Division,2,H
+1978-08-19,1978/1979,Millwall,Newcastle United,2-1,2,1,Football League Second Division,2,H
+1978-08-19,1978/1979,Sheffield United,Leyton Orient,1-2,1,2,Football League Second Division,2,A
+1978-08-19,1978/1979,Sunderland,Charlton Athletic,1-0,1,0,Football League Second Division,2,H
+1978-08-19,1978/1979,West Ham United,Notts County,5-2,5,2,Football League Second Division,2,H
+1978-08-19,1978/1979,Exeter City,Mansfield Town,0-0,0,0,Football League Third Division,3,D
+1978-08-19,1978/1979,Gillingham,Rotherham United,0-0,0,0,Football League Third Division,3,D
+1978-08-19,1978/1979,Hull City,Carlisle United,1-1,1,1,Football League Third Division,3,D
+1978-08-19,1978/1979,Lincoln City,Tranmere Rovers,2-1,2,1,Football League Third Division,3,H
+1978-08-19,1978/1979,Peterborough United,Sheffield Wednesday,2-0,2,0,Football League Third Division,3,H
+1978-08-19,1978/1979,Shrewsbury Town,Brentford,1-0,1,0,Football League Third Division,3,H
+1978-08-19,1978/1979,Southend United,Chester,0-1,0,1,Football League Third Division,3,A
+1978-08-19,1978/1979,Swindon Town,Bury,2-1,2,1,Football League Third Division,3,H
+1978-08-19,1978/1979,Walsall,Watford,2-4,2,4,Football League Third Division,3,A
+1978-08-19,1978/1979,Colchester United,Swansea City,2-2,2,2,Football League Third Division,3,D
+1978-08-19,1978/1979,Chesterfield,Plymouth Argyle,1-3,1,3,Football League Third Division,3,A
+1978-08-19,1978/1979,Blackpool,Oxford United,1-0,1,0,Football League Third Division,3,H
+1978-08-21,1978/1979,Mansfield Town,Gillingham,1-1,1,1,Football League Third Division,3,D
+1978-08-21,1978/1979,Tranmere Rovers,Swindon Town,1-1,1,1,Football League Third Division,3,D
+1978-08-21,1978/1979,Brentford,Colchester United,1-0,1,0,Football League Third Division,3,H
+1978-08-22,1978/1979,Birmingham City,Middlesbrough,1-3,1,3,Football League First Division,1,A
+1978-08-22,1978/1979,Bristol City,Norwich City,1-1,1,1,Football League First Division,1,D
+1978-08-22,1978/1979,Coventry City,Nottingham Forest,0-0,0,0,Football League First Division,1,D
+1978-08-22,1978/1979,Everton,Derby County,2-1,2,1,Football League First Division,1,H
+1978-08-22,1978/1979,Manchester City,Arsenal,1-1,1,1,Football League First Division,1,D
+1978-08-22,1978/1979,Ipswich Town,Liverpool,0-3,0,3,Football League First Division,1,A
+1978-08-22,1978/1979,Southampton,Bolton Wanderers,2-2,2,2,Football League First Division,1,D
+1978-08-22,1978/1979,Wolverhampton Wanderers,Chelsea,0-1,0,1,Football League First Division,1,A
+1978-08-22,1978/1979,Queens Park Rangers,West Bromwich Albion,0-1,0,1,Football League First Division,1,A
+1978-08-22,1978/1979,York City,Portsmouth,5-3,5,3,Football League Fourth Division,4,H
+1978-08-22,1978/1979,Wimbledon,Port Vale,1-0,1,0,Football League Fourth Division,4,H
+1978-08-22,1978/1979,Scunthorpe United,AFC Bournemouth,1-0,1,0,Football League Fourth Division,4,H
+1978-08-22,1978/1979,Newport County,Aldershot,1-2,1,2,Football League Fourth Division,4,A
+1978-08-22,1978/1979,Halifax Town,Stockport County,2-1,2,1,Football League Fourth Division,4,H
+1978-08-22,1978/1979,Darlington,Huddersfield Town,1-0,1,0,Football League Fourth Division,4,H
+1978-08-22,1978/1979,Notts County,Millwall,1-1,1,1,Football League Second Division,2,D
+1978-08-22,1978/1979,Preston North End,Blackburn Rovers,4-1,4,1,Football League Second Division,2,H
+1978-08-22,1978/1979,Oldham Athletic,Bristol Rovers,3-1,3,1,Football League Second Division,2,H
+1978-08-22,1978/1979,Leyton Orient,Sunderland,3-0,3,0,Football League Second Division,2,H
+1978-08-22,1978/1979,Crystal Palace,Luton Town,3-1,3,1,Football League Second Division,2,H
+1978-08-22,1978/1979,Fulham,Wrexham,0-1,0,1,Football League Second Division,2,A
+1978-08-22,1978/1979,Brighton & Hove Albion,Cambridge United,0-2,0,2,Football League Second Division,2,A
+1978-08-22,1978/1979,Charlton Athletic,Burnley,1-1,1,1,Football League Second Division,2,D
+1978-08-22,1978/1979,Watford,Blackpool,5-1,5,1,Football League Third Division,3,H
+1978-08-22,1978/1979,Swansea City,Lincoln City,3-0,3,0,Football League Third Division,3,H
+1978-08-22,1978/1979,Bury,Southend United,3-3,3,3,Football League Third Division,3,D
+1978-08-22,1978/1979,Carlisle United,Chesterfield,1-1,1,1,Football League Third Division,3,D
+1978-08-23,1978/1979,Tottenham Hotspur,Aston Villa,1-4,1,4,Football League First Division,1,A
+1978-08-23,1978/1979,Leeds United,Manchester United,2-3,2,3,Football League First Division,1,A
+1978-08-23,1978/1979,Bradford City,Hereford United,2-1,2,1,Football League Fourth Division,4,H
+1978-08-23,1978/1979,Reading,Rochdale,2-0,2,0,Football League Fourth Division,4,H
+1978-08-23,1978/1979,Northampton Town,Hartlepool United,1-1,1,1,Football League Fourth Division,4,D
+1978-08-23,1978/1979,Crewe Alexandra,Barnsley,0-2,0,2,Football League Fourth Division,4,A
+1978-08-23,1978/1979,Wigan Athletic,Grimsby Town,0-3,0,3,Football League Fourth Division,4,A
+1978-08-23,1978/1979,Stoke City,Cardiff City,2-0,2,0,Football League Second Division,2,H
+1978-08-23,1978/1979,Newcastle United,West Ham United,0-3,0,3,Football League Second Division,2,A
+1978-08-23,1978/1979,Leicester City,Sheffield United,0-1,0,1,Football League Second Division,2,A
+1978-08-23,1978/1979,Oxford United,Shrewsbury Town,0-1,0,1,Football League Third Division,3,A
+1978-08-23,1978/1979,Chester,Walsall,2-1,2,1,Football League Third Division,3,H
+1978-08-25,1978/1979,Hartlepool United,Portsmouth,1-1,1,1,Football League Fourth Division,4,D
+1978-08-25,1978/1979,Scunthorpe United,Huddersfield Town,3-1,3,1,Football League Fourth Division,4,H
+1978-08-25,1978/1979,Crewe Alexandra,Port Vale,1-5,1,5,Football League Fourth Division,4,A
+1978-08-26,1978/1979,Birmingham City,Derby County,1-1,1,1,Football League First Division,1,D
+1978-08-26,1978/1979,Bristol City,Aston Villa,1-0,1,0,Football League First Division,1,H
+1978-08-26,1978/1979,Coventry City,Norwich City,4-1,4,1,Football League First Division,1,H
+1978-08-26,1978/1979,Everton,Arsenal,1-0,1,0,Football League First Division,1,H
+1978-08-26,1978/1979,Ipswich Town,Manchester United,3-0,3,0,Football League First Division,1,H
+1978-08-26,1978/1979,Leeds United,Wolverhampton Wanderers,3-0,3,0,Football League First Division,1,H
+1978-08-26,1978/1979,Manchester City,Liverpool,1-4,1,4,Football League First Division,1,A
+1978-08-26,1978/1979,Queens Park Rangers,Nottingham Forest,0-0,0,0,Football League First Division,1,D
+1978-08-26,1978/1979,Southampton,Middlesbrough,2-1,2,1,Football League First Division,1,H
+1978-08-26,1978/1979,Tottenham Hotspur,Chelsea,2-2,2,2,Football League First Division,1,D
+1978-08-26,1978/1979,West Bromwich Albion,Bolton Wanderers,4-0,4,0,Football League First Division,1,H
+1978-08-26,1978/1979,Halifax Town,Grimsby Town,1-2,1,2,Football League Fourth Division,4,A
+1978-08-26,1978/1979,Bradford City,Barnsley,1-2,1,2,Football League Fourth Division,4,A
+1978-08-26,1978/1979,Darlington,AFC Bournemouth,0-0,0,0,Football League Fourth Division,4,D
+1978-08-26,1978/1979,Newport County,Stockport County,1-2,1,2,Football League Fourth Division,4,A
+1978-08-26,1978/1979,York City,Doncaster Rovers,1-1,1,1,Football League Fourth Division,4,D
+1978-08-26,1978/1979,Rochdale,Aldershot,1-1,1,1,Football League Fourth Division,4,D
+1978-08-26,1978/1979,Torquay United,Hereford United,1-0,1,0,Football League Fourth Division,4,H
+1978-08-26,1978/1979,Wimbledon,Northampton Town,4-1,4,1,Football League Fourth Division,4,H
+1978-08-26,1978/1979,Reading,Wigan Athletic,2-0,2,0,Football League Fourth Division,4,H
+1978-08-26,1978/1979,Stoke City,Millwall,2-0,2,0,Football League Second Division,2,H
+1978-08-26,1978/1979,Notts County,Blackburn Rovers,2-1,2,1,Football League Second Division,2,H
+1978-08-26,1978/1979,Brighton & Hove Albion,Sunderland,2-0,2,0,Football League Second Division,2,H
+1978-08-26,1978/1979,Cardiff City,Oldham Athletic,1-3,1,3,Football League Second Division,2,A
+1978-08-26,1978/1979,Charlton Athletic,Bristol Rovers,3-0,3,0,Football League Second Division,2,H
+1978-08-26,1978/1979,Crystal Palace,West Ham United,1-1,1,1,Football League Second Division,2,D
+1978-08-26,1978/1979,Fulham,Burnley,0-0,0,0,Football League Second Division,2,D
+1978-08-26,1978/1979,Leicester City,Cambridge United,1-1,1,1,Football League Second Division,2,D
+1978-08-26,1978/1979,Leyton Orient,Wrexham,0-1,0,1,Football League Second Division,2,A
+1978-08-26,1978/1979,Newcastle United,Luton Town,1-0,1,0,Football League Second Division,2,H
+1978-08-26,1978/1979,Preston North End,Sheffield United,2-2,2,2,Football League Second Division,2,D
+1978-08-26,1978/1979,Sheffield Wednesday,Colchester United,0-0,0,0,Football League Third Division,3,D
+1978-08-26,1978/1979,Carlisle United,Walsall,1-0,1,0,Football League Third Division,3,H
+1978-08-26,1978/1979,Chester,Exeter City,3-0,3,0,Football League Third Division,3,H
+1978-08-26,1978/1979,Mansfield Town,Southend United,1-1,1,1,Football League Third Division,3,D
+1978-08-26,1978/1979,Oxford United,Swansea City,0-2,0,2,Football League Third Division,3,A
+1978-08-26,1978/1979,Plymouth Argyle,Lincoln City,2-1,2,1,Football League Third Division,3,H
+1978-08-26,1978/1979,Bury,Gillingham,2-2,2,2,Football League Third Division,3,D
+1978-08-26,1978/1979,Rotherham United,Blackpool,2-1,2,1,Football League Third Division,3,H
+1978-08-26,1978/1979,Shrewsbury Town,Swindon Town,0-0,0,0,Football League Third Division,3,D
+1978-08-26,1978/1979,Watford,Peterborough United,1-2,1,2,Football League Third Division,3,A
+1978-08-26,1978/1979,Brentford,Chesterfield,0-3,0,3,Football League Third Division,3,A
+1978-08-26,1978/1979,Tranmere Rovers,Hull City,1-3,1,3,Football League Third Division,3,A
+1978-09-01,1978/1979,Stockport County,Wimbledon,0-1,0,1,Football League Fourth Division,4,A
+1978-09-01,1978/1979,Doncaster Rovers,Scunthorpe United,0-0,0,0,Football League Fourth Division,4,D
+1978-09-01,1978/1979,Southend United,Plymouth Argyle,2-1,2,1,Football League Third Division,3,H
+1978-09-02,1978/1979,Arsenal,Queens Park Rangers,5-1,5,1,Football League First Division,1,H
+1978-09-02,1978/1979,Aston Villa,Southampton,1-1,1,1,Football League First Division,1,D
+1978-09-02,1978/1979,Bolton Wanderers,Birmingham City,2-2,2,2,Football League First Division,1,D
+1978-09-02,1978/1979,Chelsea,Leeds United,0-3,0,3,Football League First Division,1,A
+1978-09-02,1978/1979,Derby County,Coventry City,0-2,0,2,Football League First Division,1,A
+1978-09-02,1978/1979,Liverpool,Tottenham Hotspur,7-0,7,0,Football League First Division,1,H
+1978-09-02,1978/1979,Manchester United,Everton,1-1,1,1,Football League First Division,1,D
+1978-09-02,1978/1979,Middlesbrough,Ipswich Town,0-0,0,0,Football League First Division,1,D
+1978-09-02,1978/1979,Norwich City,Manchester City,1-1,1,1,Football League First Division,1,D
+1978-09-02,1978/1979,Wolverhampton Wanderers,Bristol City,2-0,2,0,Football League First Division,1,H
+1978-09-02,1978/1979,Nottingham Forest,West Bromwich Albion,0-0,0,0,Football League First Division,1,D
+1978-09-02,1978/1979,AFC Bournemouth,Hartlepool United,0-1,0,1,Football League Fourth Division,4,A
+1978-09-02,1978/1979,Aldershot,Halifax Town,1-0,1,0,Football League Fourth Division,4,H
+1978-09-02,1978/1979,Barnsley,York City,3-0,3,0,Football League Fourth Division,4,H
+1978-09-02,1978/1979,Grimsby Town,Torquay United,3-0,3,0,Football League Fourth Division,4,H
+1978-09-02,1978/1979,Wigan Athletic,Newport County,2-3,2,3,Football League Fourth Division,4,A
+1978-09-02,1978/1979,Huddersfield Town,Reading,1-1,1,1,Football League Fourth Division,4,D
+1978-09-02,1978/1979,Northampton Town,Bradford City,1-0,1,0,Football League Fourth Division,4,H
+1978-09-02,1978/1979,Port Vale,Rochdale,1-1,1,1,Football League Fourth Division,4,D
+1978-09-02,1978/1979,Portsmouth,Crewe Alexandra,3-0,3,0,Football League Fourth Division,4,H
+1978-09-02,1978/1979,Hereford United,Darlington,1-0,1,0,Football League Fourth Division,4,H
+1978-09-02,1978/1979,Wrexham,Leicester City,0-0,0,0,Football League Second Division,2,D
+1978-09-02,1978/1979,Sunderland,Preston North End,3-1,3,1,Football League Second Division,2,H
+1978-09-02,1978/1979,West Ham United,Fulham,0-1,0,1,Football League Second Division,2,A
+1978-09-02,1978/1979,Blackburn Rovers,Leyton Orient,3-0,3,0,Football League Second Division,2,H
+1978-09-02,1978/1979,Bristol Rovers,Cardiff City,4-2,4,2,Football League Second Division,2,H
+1978-09-02,1978/1979,Burnley,Notts County,2-1,2,1,Football League Second Division,2,H
+1978-09-02,1978/1979,Cambridge United,Newcastle United,0-0,0,0,Football League Second Division,2,D
+1978-09-02,1978/1979,Luton Town,Charlton Athletic,3-0,3,0,Football League Second Division,2,H
+1978-09-02,1978/1979,Millwall,Brighton & Hove Albion,1-4,1,4,Football League Second Division,2,A
+1978-09-02,1978/1979,Oldham Athletic,Stoke City,1-1,1,1,Football League Second Division,2,D
+1978-09-02,1978/1979,Sheffield United,Crystal Palace,0-2,0,2,Football League Second Division,2,A
+1978-09-02,1978/1979,Chesterfield,Oxford United,1-1,1,1,Football League Third Division,3,D
+1978-09-02,1978/1979,Colchester United,Rotherham United,0-0,0,0,Football League Third Division,3,D
+1978-09-02,1978/1979,Exeter City,Brentford,2-2,2,2,Football League Third Division,3,D
+1978-09-02,1978/1979,Gillingham,Watford,2-3,2,3,Football League Third Division,3,A
+1978-09-02,1978/1979,Hull City,Chester,3-0,3,0,Football League Third Division,3,H
+1978-09-02,1978/1979,Lincoln City,Sheffield Wednesday,1-2,1,2,Football League Third Division,3,A
+1978-09-02,1978/1979,Peterborough United,Tranmere Rovers,1-0,1,0,Football League Third Division,3,H
+1978-09-02,1978/1979,Swansea City,Bury,2-0,2,0,Football League Third Division,3,H
+1978-09-02,1978/1979,Swindon Town,Mansfield Town,1-0,1,0,Football League Third Division,3,H
+1978-09-02,1978/1979,Walsall,Shrewsbury Town,1-1,1,1,Football League Third Division,3,D
+1978-09-02,1978/1979,Blackpool,Carlisle United,3-1,3,1,Football League Third Division,3,H
+1978-09-05,1978/1979,Rotherham United,Hull City,0-2,0,2,Football League Third Division,3,A
+1978-09-08,1978/1979,Chester,Peterborough United,1-1,1,1,Football League Third Division,3,D
+1978-09-08,1978/1979,Carlisle United,Colchester United,4-0,4,0,Football League Third Division,3,H
+1978-09-09,1978/1979,Birmingham City,Liverpool,0-3,0,3,Football League First Division,1,A
+1978-09-09,1978/1979,Bolton Wanderers,Derby County,2-1,2,1,Football League First Division,1,H
+1978-09-09,1978/1979,Coventry City,Chelsea,3-2,3,2,Football League First Division,1,H
+1978-09-09,1978/1979,Everton,Middlesbrough,2-0,2,0,Football League First Division,1,H
+1978-09-09,1978/1979,Manchester City,Leeds United,3-0,3,0,Football League First Division,1,H
+1978-09-09,1978/1979,Nottingham Forest,Arsenal,2-1,2,1,Football League First Division,1,H
+1978-09-09,1978/1979,Queens Park Rangers,Manchester United,1-1,1,1,Football League First Division,1,D
+1978-09-09,1978/1979,Southampton,Wolverhampton Wanderers,3-2,3,2,Football League First Division,1,H
+1978-09-09,1978/1979,Ipswich Town,Aston Villa,0-2,0,2,Football League First Division,1,A
+1978-09-09,1978/1979,West Bromwich Albion,Norwich City,2-2,2,2,Football League First Division,1,D
+1978-09-09,1978/1979,Tottenham Hotspur,Bristol City,1-0,1,0,Football League First Division,1,H
+1978-09-09,1978/1979,Wimbledon,Wigan Athletic,2-1,2,1,Football League Fourth Division,4,H
+1978-09-09,1978/1979,York City,Northampton Town,1-0,1,0,Football League Fourth Division,4,H
+1978-09-09,1978/1979,Bradford City,Stockport County,1-1,1,1,Football League Fourth Division,4,D
+1978-09-09,1978/1979,Crewe Alexandra,AFC Bournemouth,1-0,1,0,Football League Fourth Division,4,H
+1978-09-09,1978/1979,Darlington,Grimsby Town,0-1,0,1,Football League Fourth Division,4,A
+1978-09-09,1978/1979,Hartlepool United,Hereford United,2-1,2,1,Football League Fourth Division,4,H
+1978-09-09,1978/1979,Huddersfield Town,Doncaster Rovers,2-1,2,1,Football League Fourth Division,4,H
+1978-09-09,1978/1979,Port Vale,Aldershot,1-1,1,1,Football League Fourth Division,4,D
+1978-09-09,1978/1979,Reading,Newport County,2-1,2,1,Football League Fourth Division,4,H
+1978-09-09,1978/1979,Rochdale,Portsmouth,0-2,0,2,Football League Fourth Division,4,A
+1978-09-09,1978/1979,Scunthorpe United,Barnsley,0-1,0,1,Football League Fourth Division,4,A
+1978-09-09,1978/1979,Torquay United,Halifax Town,2-0,2,0,Football League Fourth Division,4,H
+1978-09-09,1978/1979,Cardiff City,Cambridge United,1-0,1,0,Football League Second Division,2,H
+1978-09-09,1978/1979,Newcastle United,Blackburn Rovers,3-1,3,1,Football League Second Division,2,H
+1978-09-09,1978/1979,Preston North End,Millwall,0-0,0,0,Football League Second Division,2,D
+1978-09-09,1978/1979,Brighton & Hove Albion,Oldham Athletic,1-0,1,0,Football League Second Division,2,H
+1978-09-09,1978/1979,Bristol Rovers,Luton Town,2-0,2,0,Football League Second Division,2,H
+1978-09-09,1978/1979,Burnley,West Ham United,3-2,3,2,Football League Second Division,2,H
+1978-09-09,1978/1979,Charlton Athletic,Wrexham,1-1,1,1,Football League Second Division,2,D
+1978-09-09,1978/1979,Crystal Palace,Sunderland,1-1,1,1,Football League Second Division,2,D
+1978-09-09,1978/1979,Fulham,Sheffield United,2-0,2,0,Football League Second Division,2,H
+1978-09-09,1978/1979,Leicester City,Notts County,0-1,0,1,Football League Second Division,2,A
+1978-09-09,1978/1979,Leyton Orient,Stoke City,0-1,0,1,Football League Second Division,2,A
+1978-09-09,1978/1979,Oxford United,Bury,0-0,0,0,Football League Third Division,3,D
+1978-09-09,1978/1979,Plymouth Argyle,Mansfield Town,1-4,1,4,Football League Third Division,3,A
+1978-09-09,1978/1979,Rotherham United,Lincoln City,2-0,2,0,Football League Third Division,3,H
+1978-09-09,1978/1979,Sheffield Wednesday,Southend United,3-2,3,2,Football League Third Division,3,H
+1978-09-09,1978/1979,Shrewsbury Town,Blackpool,2-0,2,0,Football League Third Division,3,H
+1978-09-09,1978/1979,Tranmere Rovers,Gillingham,1-1,1,1,Football League Third Division,3,D
+1978-09-09,1978/1979,Walsall,Swindon Town,4-1,4,1,Football League Third Division,3,H
+1978-09-09,1978/1979,Watford,Swansea City,0-2,0,2,Football League Third Division,3,A
+1978-09-09,1978/1979,Chesterfield,Exeter City,0-1,0,1,Football League Third Division,3,A
+1978-09-09,1978/1979,Brentford,Hull City,1-0,1,0,Football League Third Division,3,H
+1978-09-11,1978/1979,Stockport County,Hartlepool United,4-0,4,0,Football League Fourth Division,4,H
+1978-09-11,1978/1979,Southend United,Oxford United,2-0,2,0,Football League Third Division,3,H
+1978-09-12,1978/1979,Barnsley,Torquay United,1-2,1,2,Football League Fourth Division,4,A
+1978-09-12,1978/1979,Portsmouth,Scunthorpe United,0-0,0,0,Football League Fourth Division,4,D
+1978-09-12,1978/1979,Grimsby Town,Wimbledon,2-2,2,2,Football League Fourth Division,4,D
+1978-09-12,1978/1979,Aldershot,Bradford City,6-0,6,0,Football League Fourth Division,4,H
+1978-09-12,1978/1979,Newport County,Crewe Alexandra,1-2,1,2,Football League Fourth Division,4,A
+1978-09-12,1978/1979,Northampton Town,Darlington,4-1,4,1,Football League Fourth Division,4,H
+1978-09-12,1978/1979,Halifax Town,York City,0-1,0,1,Football League Fourth Division,4,A
+1978-09-12,1978/1979,AFC Bournemouth,Huddersfield Town,2-0,2,0,Football League Fourth Division,4,H
+1978-09-12,1978/1979,Doncaster Rovers,Port Vale,1-3,1,3,Football League Fourth Division,4,A
+1978-09-12,1978/1979,Swansea City,Rotherham United,4-4,4,4,Football League Third Division,3,D
+1978-09-12,1978/1979,Peterborough United,Carlisle United,0-0,0,0,Football League Third Division,3,D
+1978-09-12,1978/1979,Hull City,Walsall,4-1,4,1,Football League Third Division,3,H
+1978-09-12,1978/1979,Gillingham,Sheffield Wednesday,0-0,0,0,Football League Third Division,3,D
+1978-09-12,1978/1979,Colchester United,Chester,2-1,2,1,Football League Third Division,3,H
+1978-09-12,1978/1979,Bury,Plymouth Argyle,1-2,1,2,Football League Third Division,3,A
+1978-09-12,1978/1979,Blackpool,Chesterfield,0-0,0,0,Football League Third Division,3,D
+1978-09-12,1978/1979,Swindon Town,Brentford,2-0,2,0,Football League Third Division,3,H
+1978-09-13,1978/1979,Hereford United,Reading,0-0,0,0,Football League Fourth Division,4,D
+1978-09-13,1978/1979,Wigan Athletic,Rochdale,3-0,3,0,Football League Fourth Division,4,H
+1978-09-13,1978/1979,Exeter City,Shrewsbury Town,0-1,0,1,Football League Third Division,3,A
+1978-09-13,1978/1979,Lincoln City,Watford,0-5,0,5,Football League Third Division,3,A
+1978-09-15,1978/1979,Stockport County,York City,2-0,2,0,Football League Fourth Division,4,H
+1978-09-15,1978/1979,Northampton Town,Scunthorpe United,1-0,1,0,Football League Fourth Division,4,H
+1978-09-15,1978/1979,Colchester United,Shrewsbury Town,1-0,1,0,Football League Third Division,3,H
+1978-09-15,1978/1979,Southend United,Rotherham United,2-1,2,1,Football League Third Division,3,H
+1978-09-16,1978/1979,Bristol City,Southampton,3-1,3,1,Football League First Division,1,H
+1978-09-16,1978/1979,Chelsea,Manchester City,1-4,1,4,Football League First Division,1,A
+1978-09-16,1978/1979,Derby County,West Bromwich Albion,3-2,3,2,Football League First Division,1,H
+1978-09-16,1978/1979,Leeds United,Tottenham Hotspur,1-2,1,2,Football League First Division,1,A
+1978-09-16,1978/1979,Liverpool,Coventry City,1-0,1,0,Football League First Division,1,H
+1978-09-16,1978/1979,Manchester United,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1978-09-16,1978/1979,Middlesbrough,Queens Park Rangers,0-2,0,2,Football League First Division,1,A
+1978-09-16,1978/1979,Norwich City,Birmingham City,4-0,4,0,Football League First Division,1,H
+1978-09-16,1978/1979,Wolverhampton Wanderers,Ipswich Town,1-3,1,3,Football League First Division,1,A
+1978-09-16,1978/1979,Aston Villa,Everton,1-1,1,1,Football League First Division,1,D
+1978-09-16,1978/1979,Arsenal,Bolton Wanderers,1-0,1,0,Football League First Division,1,H
+1978-09-16,1978/1979,AFC Bournemouth,Rochdale,3-1,3,1,Football League Fourth Division,4,H
+1978-09-16,1978/1979,Torquay United,Aldershot,2-1,2,1,Football League Fourth Division,4,H
+1978-09-16,1978/1979,Grimsby Town,Hartlepool United,0-1,0,1,Football League Fourth Division,4,A
+1978-09-16,1978/1979,Halifax Town,Darlington,0-2,0,2,Football League Fourth Division,4,A
+1978-09-16,1978/1979,Hereford United,Crewe Alexandra,6-1,6,1,Football League Fourth Division,4,H
+1978-09-16,1978/1979,Newport County,Wimbledon,1-3,1,3,Football League Fourth Division,4,A
+1978-09-16,1978/1979,Portsmouth,Port Vale,2-0,2,0,Football League Fourth Division,4,H
+1978-09-16,1978/1979,Reading,Doncaster Rovers,3-0,3,0,Football League Fourth Division,4,H
+1978-09-16,1978/1979,Wigan Athletic,Bradford City,1-3,1,3,Football League Fourth Division,4,A
+1978-09-16,1978/1979,Barnsley,Huddersfield Town,1-0,1,0,Football League Fourth Division,4,H
+1978-09-16,1978/1979,Wrexham,Newcastle United,0-0,0,0,Football League Second Division,2,D
+1978-09-16,1978/1979,Sunderland,Fulham,1-1,1,1,Football League Second Division,2,D
+1978-09-16,1978/1979,Blackburn Rovers,Leicester City,1-1,1,1,Football League Second Division,2,D
+1978-09-16,1978/1979,Cambridge United,Charlton Athletic,1-1,1,1,Football League Second Division,2,D
+1978-09-16,1978/1979,Luton Town,Cardiff City,7-1,7,1,Football League Second Division,2,H
+1978-09-16,1978/1979,Millwall,Crystal Palace,0-3,0,3,Football League Second Division,2,A
+1978-09-16,1978/1979,Notts County,Leyton Orient,1-0,1,0,Football League Second Division,2,H
+1978-09-16,1978/1979,Oldham Athletic,Preston North End,2-0,2,0,Football League Second Division,2,H
+1978-09-16,1978/1979,West Ham United,Bristol Rovers,2-0,2,0,Football League Second Division,2,H
+1978-09-16,1978/1979,Sheffield United,Burnley,4-0,4,0,Football League Second Division,2,H
+1978-09-16,1978/1979,Swansea City,Tranmere Rovers,4-3,4,3,Football League Third Division,3,H
+1978-09-16,1978/1979,Bury,Watford,1-2,1,2,Football League Third Division,3,A
+1978-09-16,1978/1979,Hull City,Chesterfield,1-1,1,1,Football League Third Division,3,D
+1978-09-16,1978/1979,Lincoln City,Carlisle United,1-1,1,1,Football League Third Division,3,D
+1978-09-16,1978/1979,Mansfield Town,Sheffield Wednesday,1-1,1,1,Football League Third Division,3,D
+1978-09-16,1978/1979,Oxford United,Exeter City,3-2,3,2,Football League Third Division,3,H
+1978-09-16,1978/1979,Peterborough United,Brentford,3-1,3,1,Football League Third Division,3,H
+1978-09-16,1978/1979,Plymouth Argyle,Swindon Town,2-0,2,0,Football League Third Division,3,H
+1978-09-16,1978/1979,Blackpool,Walsall,2-1,2,1,Football League Third Division,3,H
+1978-09-16,1978/1979,Gillingham,Chester,1-0,1,0,Football League Third Division,3,H
+1978-09-22,1978/1979,Charlton Athletic,Notts County,1-1,1,1,Football League Second Division,2,D
+1978-09-22,1978/1979,Tranmere Rovers,Bury,0-0,0,0,Football League Third Division,3,D
+1978-09-23,1978/1979,Arsenal,Manchester United,1-1,1,1,Football League First Division,1,D
+1978-09-23,1978/1979,Birmingham City,Chelsea,1-1,1,1,Football League First Division,1,D
+1978-09-23,1978/1979,Bolton Wanderers,Norwich City,3-2,3,2,Football League First Division,1,H
+1978-09-23,1978/1979,Coventry City,Leeds United,0-0,0,0,Football League First Division,1,D
+1978-09-23,1978/1979,Derby County,Southampton,2-1,2,1,Football League First Division,1,H
+1978-09-23,1978/1979,Ipswich Town,Bristol City,0-1,0,1,Football League First Division,1,A
+1978-09-23,1978/1979,Manchester City,Tottenham Hotspur,2-0,2,0,Football League First Division,1,H
+1978-09-23,1978/1979,Nottingham Forest,Middlesbrough,2-2,2,2,Football League First Division,1,D
+1978-09-23,1978/1979,Queens Park Rangers,Aston Villa,1-0,1,0,Football League First Division,1,H
+1978-09-23,1978/1979,Everton,Wolverhampton Wanderers,2-0,2,0,Football League First Division,1,H
+1978-09-23,1978/1979,West Bromwich Albion,Liverpool,1-1,1,1,Football League First Division,1,D
+1978-09-23,1978/1979,Aldershot,Portsmouth,0-2,0,2,Football League Fourth Division,4,A
+1978-09-23,1978/1979,Bradford City,Newport County,1-3,1,3,Football League Fourth Division,4,A
+1978-09-23,1978/1979,Darlington,Torquay United,1-2,1,2,Football League Fourth Division,4,A
+1978-09-23,1978/1979,Doncaster Rovers,Barnsley,2-2,2,2,Football League Fourth Division,4,D
+1978-09-23,1978/1979,Hartlepool United,Halifax Town,3-1,3,1,Football League Fourth Division,4,H
+1978-09-23,1978/1979,Huddersfield Town,Northampton Town,1-0,1,0,Football League Fourth Division,4,H
+1978-09-23,1978/1979,Rochdale,Hereford United,0-2,0,2,Football League Fourth Division,4,A
+1978-09-23,1978/1979,Scunthorpe United,Stockport County,1-0,1,0,Football League Fourth Division,4,H
+1978-09-23,1978/1979,Wimbledon,Reading,1-0,1,0,Football League Fourth Division,4,H
+1978-09-23,1978/1979,York City,Wigan Athletic,0-1,0,1,Football League Fourth Division,4,A
+1978-09-23,1978/1979,Crewe Alexandra,Grimsby Town,0-3,0,3,Football League Fourth Division,4,A
+1978-09-23,1978/1979,Port Vale,AFC Bournemouth,1-2,1,2,Football League Fourth Division,4,A
+1978-09-23,1978/1979,West Ham United,Sheffield United,2-0,2,0,Football League Second Division,2,H
+1978-09-23,1978/1979,Bristol Rovers,Wrexham,2-1,2,1,Football League Second Division,2,H
+1978-09-23,1978/1979,Newcastle United,Leyton Orient,0-0,0,0,Football League Second Division,2,D
+1978-09-23,1978/1979,Luton Town,Cambridge United,1-1,1,1,Football League Second Division,2,D
+1978-09-23,1978/1979,Leicester City,Brighton & Hove Albion,4-1,4,1,Football League Second Division,2,H
+1978-09-23,1978/1979,Preston North End,Stoke City,0-1,0,1,Football League Second Division,2,A
+1978-09-23,1978/1979,Crystal Palace,Oldham Athletic,1-0,1,0,Football League Second Division,2,H
+1978-09-23,1978/1979,Cardiff City,Blackburn Rovers,2-0,2,0,Football League Second Division,2,H
+1978-09-23,1978/1979,Burnley,Sunderland,1-2,1,2,Football League Second Division,2,A
+1978-09-23,1978/1979,Fulham,Millwall,1-0,1,0,Football League Second Division,2,H
+1978-09-23,1978/1979,Chester,Swansea City,2-0,2,0,Football League Third Division,3,H
+1978-09-23,1978/1979,Chesterfield,Peterborough United,3-1,3,1,Football League Third Division,3,H
+1978-09-23,1978/1979,Exeter City,Hull City,3-1,3,1,Football League Third Division,3,H
+1978-09-23,1978/1979,Rotherham United,Mansfield Town,2-0,2,0,Football League Third Division,3,H
+1978-09-23,1978/1979,Sheffield Wednesday,Plymouth Argyle,2-3,2,3,Football League Third Division,3,A
+1978-09-23,1978/1979,Shrewsbury Town,Lincoln City,2-0,2,0,Football League Third Division,3,H
+1978-09-23,1978/1979,Swindon Town,Blackpool,0-1,0,1,Football League Third Division,3,A
+1978-09-23,1978/1979,Walsall,Colchester United,2-2,2,2,Football League Third Division,3,D
+1978-09-23,1978/1979,Watford,Oxford United,4-2,4,2,Football League Third Division,3,H
+1978-09-23,1978/1979,Carlisle United,Southend United,0-0,0,0,Football League Third Division,3,D
+1978-09-23,1978/1979,Brentford,Gillingham,0-2,0,2,Football League Third Division,3,A
+1978-09-25,1978/1979,Hartlepool United,Newport County,0-0,0,0,Football League Fourth Division,4,D
+1978-09-25,1978/1979,Rochdale,Wimbledon,0-0,0,0,Football League Fourth Division,4,D
+1978-09-25,1978/1979,Brentford,Lincoln City,2-1,2,1,Football League Third Division,3,H
+1978-09-25,1978/1979,Carlisle United,Swansea City,2-0,2,0,Football League Third Division,3,H
+1978-09-25,1978/1979,Tranmere Rovers,Plymouth Argyle,2-1,2,1,Football League Third Division,3,H
+1978-09-26,1978/1979,Huddersfield Town,Grimsby Town,2-0,2,0,Football League Fourth Division,4,H
+1978-09-26,1978/1979,York City,Hereford United,1-0,1,0,Football League Fourth Division,4,H
+1978-09-26,1978/1979,Scunthorpe United,Aldershot,2-0,2,0,Football League Fourth Division,4,H
+1978-09-26,1978/1979,Portsmouth,Wigan Athletic,1-0,1,0,Football League Fourth Division,4,H
+1978-09-26,1978/1979,Doncaster Rovers,AFC Bournemouth,1-1,1,1,Football League Fourth Division,4,D
+1978-09-26,1978/1979,Port Vale,Northampton Town,2-2,2,2,Football League Fourth Division,4,D
+1978-09-26,1978/1979,Darlington,Barnsley,0-0,0,0,Football League Fourth Division,4,D
+1978-09-26,1978/1979,Walsall,Peterborough United,4-1,4,1,Football League Third Division,3,H
+1978-09-26,1978/1979,Shrewsbury Town,Hull City,1-0,1,0,Football League Third Division,3,H
+1978-09-26,1978/1979,Sheffield Wednesday,Bury,0-0,0,0,Football League Third Division,3,D
+1978-09-26,1978/1979,Rotherham United,Watford,2-1,2,1,Football League Third Division,3,H
+1978-09-26,1978/1979,Blackpool,Gillingham,2-0,2,0,Football League Third Division,3,H
+1978-09-27,1978/1979,Crewe Alexandra,Stockport County,2-2,2,2,Football League Fourth Division,4,D
+1978-09-27,1978/1979,Bradford City,Halifax Town,3-0,3,0,Football League Fourth Division,4,H
+1978-09-27,1978/1979,Reading,Torquay United,1-0,1,0,Football League Fourth Division,4,H
+1978-09-27,1978/1979,Stoke City,Brighton & Hove Albion,2-2,2,2,Football League Second Division,2,D
+1978-09-27,1978/1979,Oxford United,Mansfield Town,3-2,3,2,Football League Third Division,3,H
+1978-09-27,1978/1979,Chesterfield,Southend United,3-2,3,2,Football League Third Division,3,H
+1978-09-27,1978/1979,Chester,Swindon Town,2-0,2,0,Football League Third Division,3,H
+1978-09-27,1978/1979,Exeter City,Colchester United,2-1,2,1,Football League Third Division,3,H
+1978-09-29,1978/1979,AFC Bournemouth,Portsmouth,3-1,3,1,Football League Fourth Division,4,H
+1978-09-29,1978/1979,Stockport County,Huddersfield Town,3-1,3,1,Football League Fourth Division,4,H
+1978-09-29,1978/1979,Lincoln City,Walsall,1-1,1,1,Football League Third Division,3,D
+1978-09-29,1978/1979,Southend United,Shrewsbury Town,0-1,0,1,Football League Third Division,3,A
+1978-09-30,1978/1979,Middlesbrough,Arsenal,2-3,2,3,Football League First Division,1,A
+1978-09-30,1978/1979,Bristol City,Everton,2-2,2,2,Football League First Division,1,D
+1978-09-30,1978/1979,Chelsea,West Bromwich Albion,1-3,1,3,Football League First Division,1,A
+1978-09-30,1978/1979,Leeds United,Birmingham City,3-0,3,0,Football League First Division,1,H
+1978-09-30,1978/1979,Liverpool,Bolton Wanderers,3-0,3,0,Football League First Division,1,H
+1978-09-30,1978/1979,Manchester United,Manchester City,1-0,1,0,Football League First Division,1,H
+1978-09-30,1978/1979,Norwich City,Derby County,3-0,3,0,Football League First Division,1,H
+1978-09-30,1978/1979,Southampton,Ipswich Town,1-2,1,2,Football League First Division,1,A
+1978-09-30,1978/1979,Tottenham Hotspur,Coventry City,1-1,1,1,Football League First Division,1,D
+1978-09-30,1978/1979,Wolverhampton Wanderers,Queens Park Rangers,1-0,1,0,Football League First Division,1,H
+1978-09-30,1978/1979,Aston Villa,Nottingham Forest,1-2,1,2,Football League First Division,1,A
+1978-09-30,1978/1979,Torquay United,Hartlepool United,4-1,4,1,Football League Fourth Division,4,H
+1978-09-30,1978/1979,Barnsley,Reading,3-1,3,1,Football League Fourth Division,4,H
+1978-09-30,1978/1979,Grimsby Town,Rochdale,4-0,4,0,Football League Fourth Division,4,H
+1978-09-30,1978/1979,Wimbledon,Bradford City,2-1,2,1,Football League Fourth Division,4,H
+1978-09-30,1978/1979,Halifax Town,Crewe Alexandra,0-0,0,0,Football League Fourth Division,4,D
+1978-09-30,1978/1979,Hereford United,Port Vale,1-0,1,0,Football League Fourth Division,4,H
+1978-09-30,1978/1979,Newport County,York City,1-1,1,1,Football League Fourth Division,4,D
+1978-09-30,1978/1979,Northampton Town,Doncaster Rovers,3-0,3,0,Football League Fourth Division,4,H
+1978-09-30,1978/1979,Wigan Athletic,Scunthorpe United,1-0,1,0,Football League Fourth Division,4,H
+1978-09-30,1978/1979,Aldershot,Darlington,1-1,1,1,Football League Fourth Division,4,D
+1978-09-30,1978/1979,Wrexham,Cardiff City,1-2,1,2,Football League Second Division,2,A
+1978-09-30,1978/1979,Stoke City,Crystal Palace,1-1,1,1,Football League Second Division,2,D
+1978-09-30,1978/1979,Blackburn Rovers,Charlton Athletic,1-2,1,2,Football League Second Division,2,A
+1978-09-30,1978/1979,Brighton & Hove Albion,Preston North End,5-1,5,1,Football League Second Division,2,H
+1978-09-30,1978/1979,Cambridge United,Bristol Rovers,1-1,1,1,Football League Second Division,2,D
+1978-09-30,1978/1979,Leyton Orient,Leicester City,0-1,0,1,Football League Second Division,2,A
+1978-09-30,1978/1979,Millwall,Burnley,0-2,0,2,Football League Second Division,2,A
+1978-09-30,1978/1979,Notts County,Newcastle United,1-2,1,2,Football League Second Division,2,A
+1978-09-30,1978/1979,Oldham Athletic,Fulham,0-2,0,2,Football League Second Division,2,A
+1978-09-30,1978/1979,Sheffield United,Luton Town,1-1,1,1,Football League Second Division,2,D
+1978-09-30,1978/1979,Sunderland,West Ham United,2-1,2,1,Football League Second Division,2,H
+1978-09-30,1978/1979,Swansea City,Brentford,2-1,2,1,Football League Third Division,3,H
+1978-09-30,1978/1979,Plymouth Argyle,Rotherham United,2-0,2,0,Football League Third Division,3,H
+1978-09-30,1978/1979,Peterborough United,Exeter City,1-1,1,1,Football League Third Division,3,D
+1978-09-30,1978/1979,Gillingham,Chesterfield,2-1,2,1,Football League Third Division,3,H
+1978-09-30,1978/1979,Hull City,Oxford United,0-1,0,1,Football League Third Division,3,A
+1978-09-30,1978/1979,Colchester United,Blackpool,3-1,3,1,Football League Third Division,3,H
+1978-09-30,1978/1979,Swindon Town,Sheffield Wednesday,3-0,3,0,Football League Third Division,3,H
+1978-09-30,1978/1979,Mansfield Town,Carlisle United,1-0,1,0,Football League Third Division,3,H
+1978-09-30,1978/1979,Watford,Tranmere Rovers,4-0,4,0,Football League Third Division,3,H
+1978-09-30,1978/1979,Bury,Chester,1-1,1,1,Football League Third Division,3,D
+1978-10-06,1978/1979,Charlton Athletic,Leyton Orient,0-2,0,2,Football League Second Division,2,A
+1978-10-06,1978/1979,Colchester United,Swindon Town,3-2,3,2,Football League Third Division,3,H
+1978-10-07,1978/1979,Arsenal,Aston Villa,1-1,1,1,Football League First Division,1,D
+1978-10-07,1978/1979,Birmingham City,Manchester City,1-2,1,2,Football League First Division,1,A
+1978-10-07,1978/1979,Bolton Wanderers,Leeds United,3-1,3,1,Football League First Division,1,H
+1978-10-07,1978/1979,Coventry City,Ipswich Town,2-2,2,2,Football League First Division,1,D
+1978-10-07,1978/1979,Derby County,Chelsea,1-0,1,0,Football League First Division,1,H
+1978-10-07,1978/1979,Everton,Southampton,0-0,0,0,Football League First Division,1,D
+1978-10-07,1978/1979,Manchester United,Middlesbrough,3-2,3,2,Football League First Division,1,H
+1978-10-07,1978/1979,Norwich City,Liverpool,1-4,1,4,Football League First Division,1,A
+1978-10-07,1978/1979,Queens Park Rangers,Bristol City,1-0,1,0,Football League First Division,1,H
+1978-10-07,1978/1979,Nottingham Forest,Wolverhampton Wanderers,3-1,3,1,Football League First Division,1,H
+1978-10-07,1978/1979,West Bromwich Albion,Tottenham Hotspur,0-1,0,1,Football League First Division,1,A
+1978-10-07,1978/1979,York City,Wimbledon,1-4,1,4,Football League Fourth Division,4,A
+1978-10-07,1978/1979,AFC Bournemouth,Aldershot,0-1,0,1,Football League Fourth Division,4,A
+1978-10-07,1978/1979,Barnsley,Northampton Town,1-1,1,1,Football League Fourth Division,4,D
+1978-10-07,1978/1979,Doncaster Rovers,Stockport County,2-0,2,0,Football League Fourth Division,4,H
+1978-10-07,1978/1979,Hartlepool United,Darlington,0-2,0,2,Football League Fourth Division,4,A
+1978-10-07,1978/1979,Huddersfield Town,Wigan Athletic,1-1,1,1,Football League Fourth Division,4,D
+1978-10-07,1978/1979,Port Vale,Grimsby Town,1-1,1,1,Football League Fourth Division,4,D
+1978-10-07,1978/1979,Portsmouth,Hereford United,1-0,1,0,Football League Fourth Division,4,H
+1978-10-07,1978/1979,Reading,Bradford City,3-0,3,0,Football League Fourth Division,4,H
+1978-10-07,1978/1979,Rochdale,Halifax Town,1-1,1,1,Football League Fourth Division,4,D
+1978-10-07,1978/1979,Scunthorpe United,Newport County,2-3,2,3,Football League Fourth Division,4,A
+1978-10-07,1978/1979,Crewe Alexandra,Torquay United,6-2,6,2,Football League Fourth Division,4,H
+1978-10-07,1978/1979,West Ham United,Millwall,3-0,3,0,Football League Second Division,2,H
+1978-10-07,1978/1979,Bristol Rovers,Blackburn Rovers,4-1,4,1,Football League Second Division,2,H
+1978-10-07,1978/1979,Burnley,Oldham Athletic,1-0,1,0,Football League Second Division,2,H
+1978-10-07,1978/1979,Cambridge United,Preston North End,1-0,1,0,Football League Second Division,2,H
+1978-10-07,1978/1979,Cardiff City,Notts County,2-3,2,3,Football League Second Division,2,A
+1978-10-07,1978/1979,Crystal Palace,Brighton & Hove Albion,3-1,3,1,Football League Second Division,2,H
+1978-10-07,1978/1979,Fulham,Stoke City,2-0,2,0,Football League Second Division,2,H
+1978-10-07,1978/1979,Luton Town,Wrexham,2-1,2,1,Football League Second Division,2,H
+1978-10-07,1978/1979,Newcastle United,Leicester City,1-0,1,0,Football League Second Division,2,H
+1978-10-07,1978/1979,Sheffield United,Sunderland,3-2,3,2,Football League Second Division,2,H
+1978-10-07,1978/1979,Carlisle United,Plymouth Argyle,1-1,1,1,Football League Third Division,3,D
+1978-10-07,1978/1979,Chester,Watford,2-1,2,1,Football League Third Division,3,H
+1978-10-07,1978/1979,Chesterfield,Swansea City,2-1,2,1,Football League Third Division,3,H
+1978-10-07,1978/1979,Exeter City,Gillingham,0-0,0,0,Football League Third Division,3,D
+1978-10-07,1978/1979,Oxford United,Tranmere Rovers,0-0,0,0,Football League Third Division,3,D
+1978-10-07,1978/1979,Rotherham United,Sheffield Wednesday,0-1,0,1,Football League Third Division,3,A
+1978-10-07,1978/1979,Shrewsbury Town,Mansfield Town,2-2,2,2,Football League Third Division,3,D
+1978-10-07,1978/1979,Walsall,Southend United,1-1,1,1,Football League Third Division,3,D
+1978-10-07,1978/1979,Brentford,Bury,0-1,0,1,Football League Third Division,3,A
+1978-10-07,1978/1979,Hull City,Peterborough United,1-1,1,1,Football League Third Division,3,D
+1978-10-07,1978/1979,Blackpool,Lincoln City,2-0,2,0,Football League Third Division,3,H
+1978-10-10,1978/1979,Doncaster Rovers,Torquay United,1-0,1,0,Football League Fourth Division,4,H
+1978-10-13,1978/1979,Stockport County,Barnsley,0-0,0,0,Football League Fourth Division,4,D
+1978-10-13,1978/1979,Darlington,Crewe Alexandra,1-1,1,1,Football League Fourth Division,4,D
+1978-10-13,1978/1979,Lincoln City,Colchester United,0-0,0,0,Football League Third Division,3,D
+1978-10-13,1978/1979,Tranmere Rovers,Chester,6-2,6,2,Football League Third Division,3,H
+1978-10-14,1978/1979,Aston Villa,Manchester United,2-2,2,2,Football League First Division,1,D
+1978-10-14,1978/1979,Bristol City,Nottingham Forest,1-3,1,3,Football League First Division,1,A
+1978-10-14,1978/1979,Chelsea,Bolton Wanderers,4-3,4,3,Football League First Division,1,H
+1978-10-14,1978/1979,Ipswich Town,Everton,0-1,0,1,Football League First Division,1,A
+1978-10-14,1978/1979,Leeds United,West Bromwich Albion,1-3,1,3,Football League First Division,1,A
+1978-10-14,1978/1979,Liverpool,Derby County,5-0,5,0,Football League First Division,1,H
+1978-10-14,1978/1979,Middlesbrough,Norwich City,2-0,2,0,Football League First Division,1,H
+1978-10-14,1978/1979,Southampton,Queens Park Rangers,1-1,1,1,Football League First Division,1,D
+1978-10-14,1978/1979,Tottenham Hotspur,Birmingham City,1-0,1,0,Football League First Division,1,H
+1978-10-14,1978/1979,Manchester City,Coventry City,2-0,2,0,Football League First Division,1,H
+1978-10-14,1978/1979,Wolverhampton Wanderers,Arsenal,1-0,1,0,Football League First Division,1,H
+1978-10-14,1978/1979,Aldershot,Hartlepool United,1-1,1,1,Football League Fourth Division,4,D
+1978-10-14,1978/1979,Grimsby Town,Portsmouth,1-0,1,0,Football League Fourth Division,4,H
+1978-10-14,1978/1979,Halifax Town,Port Vale,0-3,0,3,Football League Fourth Division,4,A
+1978-10-14,1978/1979,Hereford United,AFC Bournemouth,0-0,0,0,Football League Fourth Division,4,D
+1978-10-14,1978/1979,Newport County,Huddersfield Town,2-1,2,1,Football League Fourth Division,4,H
+1978-10-14,1978/1979,Northampton Town,Reading,2-2,2,2,Football League Fourth Division,4,D
+1978-10-14,1978/1979,Torquay United,Rochdale,1-1,1,1,Football League Fourth Division,4,D
+1978-10-14,1978/1979,Wigan Athletic,Doncaster Rovers,1-0,1,0,Football League Fourth Division,4,H
+1978-10-14,1978/1979,Wimbledon,Scunthorpe United,3-1,3,1,Football League Fourth Division,4,H
+1978-10-14,1978/1979,Bradford City,York City,2-1,2,1,Football League Fourth Division,4,H
+1978-10-14,1978/1979,Wrexham,Cambridge United,2-0,2,0,Football League Second Division,2,H
+1978-10-14,1978/1979,Stoke City,Burnley,3-1,3,1,Football League Second Division,2,H
+1978-10-14,1978/1979,Sunderland,Newcastle United,1-1,1,1,Football League Second Division,2,D
+1978-10-14,1978/1979,Oldham Athletic,West Ham United,2-2,2,2,Football League Second Division,2,D
+1978-10-14,1978/1979,Blackburn Rovers,Luton Town,0-0,0,0,Football League Second Division,2,D
+1978-10-14,1978/1979,Preston North End,Crystal Palace,2-3,2,3,Football League Second Division,2,A
+1978-10-14,1978/1979,Brighton & Hove Albion,Fulham,3-0,3,0,Football League Second Division,2,H
+1978-10-14,1978/1979,Leicester City,Charlton Athletic,0-3,0,3,Football League Second Division,2,A
+1978-10-14,1978/1979,Leyton Orient,Cardiff City,2-2,2,2,Football League Second Division,2,D
+1978-10-14,1978/1979,Millwall,Sheffield United,1-1,1,1,Football League Second Division,2,D
+1978-10-14,1978/1979,Notts County,Bristol Rovers,2-1,2,1,Football League Second Division,2,H
+1978-10-14,1978/1979,Bury,Chesterfield,3-1,3,1,Football League Third Division,3,H
+1978-10-14,1978/1979,Gillingham,Hull City,2-0,2,0,Football League Third Division,3,H
+1978-10-14,1978/1979,Mansfield Town,Walsall,1-3,1,3,Football League Third Division,3,A
+1978-10-14,1978/1979,Peterborough United,Oxford United,1-1,1,1,Football League Third Division,3,D
+1978-10-14,1978/1979,Plymouth Argyle,Shrewsbury Town,1-1,1,1,Football League Third Division,3,D
+1978-10-14,1978/1979,Sheffield Wednesday,Carlisle United,0-0,0,0,Football League Third Division,3,D
+1978-10-14,1978/1979,Southend United,Blackpool,4-0,4,0,Football League Third Division,3,H
+1978-10-14,1978/1979,Swansea City,Exeter City,1-0,1,0,Football League Third Division,3,H
+1978-10-14,1978/1979,Watford,Brentford,2-0,2,0,Football League Third Division,3,H
+1978-10-14,1978/1979,Swindon Town,Rotherham United,1-0,1,0,Football League Third Division,3,H
+1978-10-16,1978/1979,Stockport County,AFC Bournemouth,1-0,1,0,Football League Fourth Division,4,H
+1978-10-16,1978/1979,Tranmere Rovers,Shrewsbury Town,2-2,2,2,Football League Third Division,3,D
+1978-10-17,1978/1979,Hartlepool United,Scunthorpe United,1-1,1,1,Football League Fourth Division,4,D
+1978-10-17,1978/1979,Huddersfield Town,Hereford United,2-3,2,3,Football League Fourth Division,4,A
+1978-10-17,1978/1979,York City,Torquay United,0-0,0,0,Football League Fourth Division,4,D
+1978-10-17,1978/1979,Wimbledon,Crewe Alexandra,1-1,1,1,Football League Fourth Division,4,D
+1978-10-17,1978/1979,Doncaster Rovers,Portsmouth,2-3,2,3,Football League Fourth Division,4,A
+1978-10-17,1978/1979,Newport County,Rochdale,0-0,0,0,Football League Fourth Division,4,D
+1978-10-17,1978/1979,Darlington,Reading,1-2,1,2,Football League Fourth Division,4,A
+1978-10-17,1978/1979,Grimsby Town,Northampton Town,4-3,4,3,Football League Fourth Division,4,H
+1978-10-17,1978/1979,Aldershot,Barnsley,1-0,1,0,Football League Fourth Division,4,H
+1978-10-17,1978/1979,Watford,Carlisle United,2-1,2,1,Football League Third Division,3,H
+1978-10-17,1978/1979,Swindon Town,Peterborough United,3-1,3,1,Football League Third Division,3,H
+1978-10-17,1978/1979,Swansea City,Mansfield Town,3-2,3,2,Football League Third Division,3,H
+1978-10-17,1978/1979,Sheffield Wednesday,Oxford United,1-1,1,1,Football League Third Division,3,D
+1978-10-17,1978/1979,Rotherham United,Brentford,1-0,1,0,Football League Third Division,3,H
+1978-10-17,1978/1979,Gillingham,Lincoln City,4-2,4,2,Football League Third Division,3,H
+1978-10-17,1978/1979,Bury,Walsall,1-1,1,1,Football League Third Division,3,D
+1978-10-18,1978/1979,Wigan Athletic,Halifax Town,1-0,1,0,Football League Fourth Division,4,H
+1978-10-18,1978/1979,Bradford City,Port Vale,2-3,2,3,Football League Fourth Division,4,A
+1978-10-18,1978/1979,Exeter City,Blackpool,3-0,3,0,Football League Third Division,3,H
+1978-10-18,1978/1979,Chester,Plymouth Argyle,0-0,0,0,Football League Third Division,3,D
+1978-10-18,1978/1979,Chesterfield,Colchester United,2-1,2,1,Football League Third Division,3,H
+1978-10-20,1978/1979,Colchester United,Southend United,1-1,1,1,Football League Third Division,3,D
+1978-10-21,1978/1979,Arsenal,Southampton,1-0,1,0,Football League First Division,1,H
+1978-10-21,1978/1979,Birmingham City,Aston Villa,0-1,0,1,Football League First Division,1,A
+1978-10-21,1978/1979,Bolton Wanderers,Manchester City,2-2,2,2,Football League First Division,1,D
+1978-10-21,1978/1979,Derby County,Tottenham Hotspur,2-2,2,2,Football League First Division,1,D
+1978-10-21,1978/1979,Liverpool,Chelsea,2-0,2,0,Football League First Division,1,H
+1978-10-21,1978/1979,Manchester United,Bristol City,1-3,1,3,Football League First Division,1,A
+1978-10-21,1978/1979,Middlesbrough,Wolverhampton Wanderers,2-0,2,0,Football League First Division,1,H
+1978-10-21,1978/1979,Norwich City,Leeds United,2-2,2,2,Football League First Division,1,D
+1978-10-21,1978/1979,Queens Park Rangers,Everton,1-1,1,1,Football League First Division,1,D
+1978-10-21,1978/1979,Nottingham Forest,Ipswich Town,1-0,1,0,Football League First Division,1,H
+1978-10-21,1978/1979,West Bromwich Albion,Coventry City,7-1,7,1,Football League First Division,1,H
+1978-10-21,1978/1979,Scunthorpe United,Bradford City,3-2,3,2,Football League Fourth Division,4,H
+1978-10-21,1978/1979,AFC Bournemouth,Grimsby Town,0-0,0,0,Football League Fourth Division,4,D
+1978-10-21,1978/1979,Port Vale,Torquay United,1-2,1,2,Football League Fourth Division,4,A
+1978-10-21,1978/1979,Crewe Alexandra,Hartlepool United,0-1,0,1,Football League Fourth Division,4,A
+1978-10-21,1978/1979,Doncaster Rovers,Newport County,0-0,0,0,Football League Fourth Division,4,D
+1978-10-21,1978/1979,Hereford United,Aldershot,1-1,1,1,Football League Fourth Division,4,D
+1978-10-21,1978/1979,Huddersfield Town,Wimbledon,3-0,3,0,Football League Fourth Division,4,H
+1978-10-21,1978/1979,Northampton Town,Stockport County,2-2,2,2,Football League Fourth Division,4,D
+1978-10-21,1978/1979,Portsmouth,Halifax Town,3-1,3,1,Football League Fourth Division,4,H
+1978-10-21,1978/1979,Reading,York City,3-0,3,0,Football League Fourth Division,4,H
+1978-10-21,1978/1979,Rochdale,Darlington,2-1,2,1,Football League Fourth Division,4,H
+1978-10-21,1978/1979,Barnsley,Wigan Athletic,0-0,0,0,Football League Fourth Division,4,D
+1978-10-21,1978/1979,Bristol Rovers,Leyton Orient,2-1,2,1,Football League Second Division,2,H
+1978-10-21,1978/1979,Wrexham,Crystal Palace,0-0,0,0,Football League Second Division,2,D
+1978-10-21,1978/1979,Burnley,Brighton & Hove Albion,3-0,3,0,Football League Second Division,2,H
+1978-10-21,1978/1979,Cambridge United,Blackburn Rovers,0-1,0,1,Football League Second Division,2,A
+1978-10-21,1978/1979,Cardiff City,Leicester City,1-0,1,0,Football League Second Division,2,H
+1978-10-21,1978/1979,Charlton Athletic,Newcastle United,4-1,4,1,Football League Second Division,2,H
+1978-10-21,1978/1979,Fulham,Preston North End,5-3,5,3,Football League Second Division,2,H
+1978-10-21,1978/1979,Luton Town,Notts County,6-0,6,0,Football League Second Division,2,H
+1978-10-21,1978/1979,Sheffield United,Oldham Athletic,4-2,4,2,Football League Second Division,2,H
+1978-10-21,1978/1979,Sunderland,Millwall,3-2,3,2,Football League Second Division,2,H
+1978-10-21,1978/1979,West Ham United,Stoke City,1-1,1,1,Football League Second Division,2,D
+1978-10-21,1978/1979,Exeter City,Bury,2-1,2,1,Football League Third Division,3,H
+1978-10-21,1978/1979,Hull City,Swansea City,2-2,2,2,Football League Third Division,3,D
+1978-10-21,1978/1979,Lincoln City,Swindon Town,0-3,0,3,Football League Third Division,3,A
+1978-10-21,1978/1979,Chesterfield,Watford,0-2,0,2,Football League Third Division,3,A
+1978-10-21,1978/1979,Oxford United,Chester,0-0,0,0,Football League Third Division,3,D
+1978-10-21,1978/1979,Peterborough United,Gillingham,1-1,1,1,Football League Third Division,3,D
+1978-10-21,1978/1979,Shrewsbury Town,Sheffield Wednesday,2-2,2,2,Football League Third Division,3,D
+1978-10-21,1978/1979,Walsall,Plymouth Argyle,2-1,2,1,Football League Third Division,3,H
+1978-10-21,1978/1979,Carlisle United,Rotherham United,1-1,1,1,Football League Third Division,3,D
+1978-10-21,1978/1979,Brentford,Tranmere Rovers,2-0,2,0,Football League Third Division,3,H
+1978-10-21,1978/1979,Blackpool,Mansfield Town,2-0,2,0,Football League Third Division,3,H
+1978-10-23,1978/1979,Southend United,Hull City,3-0,3,0,Football League Third Division,3,H
+1978-10-24,1978/1979,Sheffield Wednesday,Exeter City,2-1,2,1,Football League Third Division,3,H
+1978-10-27,1978/1979,Aston Villa,Middlesbrough,0-2,0,2,Football League First Division,1,A
+1978-10-27,1978/1979,Crewe Alexandra,Aldershot,1-1,1,1,Football League Fourth Division,4,D
+1978-10-27,1978/1979,Tranmere Rovers,Chesterfield,1-1,1,1,Football League Third Division,3,D
+1978-10-27,1978/1979,Southend United,Lincoln City,2-0,2,0,Football League Third Division,3,H
+1978-10-28,1978/1979,Bristol City,Arsenal,1-3,1,3,Football League First Division,1,A
+1978-10-28,1978/1979,Chelsea,Norwich City,3-3,3,3,Football League First Division,1,D
+1978-10-28,1978/1979,Coventry City,Birmingham City,2-1,2,1,Football League First Division,1,H
+1978-10-28,1978/1979,Everton,Liverpool,1-0,1,0,Football League First Division,1,H
+1978-10-28,1978/1979,Ipswich Town,Queens Park Rangers,2-1,2,1,Football League First Division,1,H
+1978-10-28,1978/1979,Leeds United,Derby County,4-0,4,0,Football League First Division,1,H
+1978-10-28,1978/1979,Manchester City,West Bromwich Albion,2-2,2,2,Football League First Division,1,D
+1978-10-28,1978/1979,Southampton,Nottingham Forest,0-0,0,0,Football League First Division,1,D
+1978-10-28,1978/1979,Tottenham Hotspur,Bolton Wanderers,2-0,2,0,Football League First Division,1,H
+1978-10-28,1978/1979,Wolverhampton Wanderers,Manchester United,2-4,2,4,Football League First Division,1,A
+1978-10-28,1978/1979,York City,Scunthorpe United,1-0,1,0,Football League Fourth Division,4,H
+1978-10-28,1978/1979,Bradford City,Huddersfield Town,1-1,1,1,Football League Fourth Division,4,D
+1978-10-28,1978/1979,Grimsby Town,Hereford United,1-1,1,1,Football League Fourth Division,4,D
+1978-10-28,1978/1979,Halifax Town,AFC Bournemouth,0-2,0,2,Football League Fourth Division,4,A
+1978-10-28,1978/1979,Hartlepool United,Rochdale,5-1,5,1,Football League Fourth Division,4,H
+1978-10-28,1978/1979,Newport County,Barnsley,1-1,1,1,Football League Fourth Division,4,D
+1978-10-28,1978/1979,Reading,Stockport County,3-3,3,3,Football League Fourth Division,4,D
+1978-10-28,1978/1979,Torquay United,Portsmouth,2-1,2,1,Football League Fourth Division,4,H
+1978-10-28,1978/1979,Wigan Athletic,Northampton Town,2-0,2,0,Football League Fourth Division,4,H
+1978-10-28,1978/1979,Wimbledon,Doncaster Rovers,3-2,3,2,Football League Fourth Division,4,H
+1978-10-28,1978/1979,Darlington,Port Vale,4-0,4,0,Football League Fourth Division,4,H
+1978-10-28,1978/1979,Oldham Athletic,Sunderland,0-0,0,0,Football League Second Division,2,D
+1978-10-28,1978/1979,Preston North End,Burnley,2-2,2,2,Football League Second Division,2,D
+1978-10-28,1978/1979,Blackburn Rovers,Wrexham,1-1,1,1,Football League Second Division,2,D
+1978-10-28,1978/1979,Brighton & Hove Albion,West Ham United,1-2,1,2,Football League Second Division,2,A
+1978-10-28,1978/1979,Crystal Palace,Fulham,0-1,0,1,Football League Second Division,2,A
+1978-10-28,1978/1979,Leicester City,Bristol Rovers,0-0,0,0,Football League Second Division,2,D
+1978-10-28,1978/1979,Leyton Orient,Luton Town,3-2,3,2,Football League Second Division,2,H
+1978-10-28,1978/1979,Millwall,Charlton Athletic,0-2,0,2,Football League Second Division,2,A
+1978-10-28,1978/1979,Newcastle United,Cardiff City,3-0,3,0,Football League Second Division,2,H
+1978-10-28,1978/1979,Notts County,Cambridge United,1-1,1,1,Football League Second Division,2,D
+1978-10-28,1978/1979,Stoke City,Sheffield United,2-1,2,1,Football League Second Division,2,H
+1978-10-28,1978/1979,Carlisle United,Swindon Town,2-0,2,0,Football League Third Division,3,H
+1978-10-28,1978/1979,Chester,Brentford,3-1,3,1,Football League Third Division,3,H
+1978-10-28,1978/1979,Mansfield Town,Colchester United,1-1,1,1,Football League Third Division,3,D
+1978-10-28,1978/1979,Oxford United,Gillingham,1-1,1,1,Football League Third Division,3,D
+1978-10-28,1978/1979,Plymouth Argyle,Blackpool,0-0,0,0,Football League Third Division,3,D
+1978-10-28,1978/1979,Rotherham United,Shrewsbury Town,1-2,1,2,Football League Third Division,3,A
+1978-10-28,1978/1979,Sheffield Wednesday,Walsall,0-2,0,2,Football League Third Division,3,A
+1978-10-28,1978/1979,Swansea City,Peterborough United,4-1,4,1,Football League Third Division,3,H
+1978-10-28,1978/1979,Watford,Exeter City,1-0,1,0,Football League Third Division,3,H
+1978-10-28,1978/1979,Bury,Hull City,1-1,1,1,Football League Third Division,3,D
+1978-11-03,1978/1979,Stockport County,Wigan Athletic,0-1,0,1,Football League Fourth Division,4,A
+1978-11-03,1978/1979,Fulham,Blackburn Rovers,1-2,1,2,Football League Second Division,2,A
+1978-11-03,1978/1979,Colchester United,Plymouth Argyle,2-1,2,1,Football League Third Division,3,H
+1978-11-04,1978/1979,Arsenal,Ipswich Town,4-1,4,1,Football League First Division,1,H
+1978-11-04,1978/1979,Aston Villa,Manchester City,1-1,1,1,Football League First Division,1,D
+1978-11-04,1978/1979,Bolton Wanderers,Coventry City,0-0,0,0,Football League First Division,1,D
+1978-11-04,1978/1979,Derby County,Wolverhampton Wanderers,4-1,4,1,Football League First Division,1,H
+1978-11-04,1978/1979,Liverpool,Leeds United,1-1,1,1,Football League First Division,1,D
+1978-11-04,1978/1979,Manchester United,Southampton,1-1,1,1,Football League First Division,1,D
+1978-11-04,1978/1979,Middlesbrough,Bristol City,0-0,0,0,Football League First Division,1,D
+1978-11-04,1978/1979,Norwich City,Tottenham Hotspur,2-2,2,2,Football League First Division,1,D
+1978-11-04,1978/1979,Nottingham Forest,Everton,0-0,0,0,Football League First Division,1,D
+1978-11-04,1978/1979,West Bromwich Albion,Birmingham City,1-0,1,0,Football League First Division,1,H
+1978-11-04,1978/1979,Queens Park Rangers,Chelsea,0-0,0,0,Football League First Division,1,D
+1978-11-04,1978/1979,Scunthorpe United,Reading,0-3,0,3,Football League Fourth Division,4,A
+1978-11-04,1978/1979,AFC Bournemouth,Torquay United,1-0,1,0,Football League Fourth Division,4,H
+1978-11-04,1978/1979,Barnsley,Wimbledon,3-1,3,1,Football League Fourth Division,4,H
+1978-11-04,1978/1979,Doncaster Rovers,Bradford City,2-0,2,0,Football League Fourth Division,4,H
+1978-11-04,1978/1979,Hereford United,Halifax Town,2-2,2,2,Football League Fourth Division,4,D
+1978-11-04,1978/1979,Huddersfield Town,York City,1-0,1,0,Football League Fourth Division,4,H
+1978-11-04,1978/1979,Northampton Town,Newport County,3-1,3,1,Football League Fourth Division,4,H
+1978-11-04,1978/1979,Port Vale,Hartlepool United,2-0,2,0,Football League Fourth Division,4,H
+1978-11-04,1978/1979,Portsmouth,Darlington,3-0,3,0,Football League Fourth Division,4,H
+1978-11-04,1978/1979,Rochdale,Crewe Alexandra,2-1,2,1,Football League Fourth Division,4,H
+1978-11-04,1978/1979,Aldershot,Grimsby Town,2-0,2,0,Football League Fourth Division,4,H
+1978-11-04,1978/1979,West Ham United,Preston North End,3-1,3,1,Football League Second Division,2,H
+1978-11-04,1978/1979,Wrexham,Notts County,3-1,3,1,Football League Second Division,2,H
+1978-11-04,1978/1979,Bristol Rovers,Newcastle United,2-0,2,0,Football League Second Division,2,H
+1978-11-04,1978/1979,Burnley,Crystal Palace,2-1,2,1,Football League Second Division,2,H
+1978-11-04,1978/1979,Cambridge United,Leyton Orient,3-1,3,1,Football League Second Division,2,H
+1978-11-04,1978/1979,Cardiff City,Charlton Athletic,1-4,1,4,Football League Second Division,2,A
+1978-11-04,1978/1979,Luton Town,Leicester City,0-1,0,1,Football League Second Division,2,A
+1978-11-04,1978/1979,Millwall,Oldham Athletic,2-3,2,3,Football League Second Division,2,A
+1978-11-04,1978/1979,Sheffield United,Brighton & Hove Albion,0-1,0,1,Football League Second Division,2,A
+1978-11-04,1978/1979,Sunderland,Stoke City,0-1,0,1,Football League Second Division,2,A
+1978-11-04,1978/1979,Chesterfield,Chester,3-1,3,1,Football League Third Division,3,H
+1978-11-04,1978/1979,Exeter City,Tranmere Rovers,3-0,3,0,Football League Third Division,3,H
+1978-11-04,1978/1979,Gillingham,Swansea City,2-0,2,0,Football League Third Division,3,H
+1978-11-04,1978/1979,Hull City,Watford,4-0,4,0,Football League Third Division,3,H
+1978-11-04,1978/1979,Lincoln City,Mansfield Town,0-1,0,1,Football League Third Division,3,A
+1978-11-04,1978/1979,Peterborough United,Bury,2-2,2,2,Football League Third Division,3,D
+1978-11-04,1978/1979,Shrewsbury Town,Carlisle United,0-0,0,0,Football League Third Division,3,D
+1978-11-04,1978/1979,Swindon Town,Southend United,1-0,1,0,Football League Third Division,3,H
+1978-11-04,1978/1979,Walsall,Rotherham United,0-1,0,1,Football League Third Division,3,A
+1978-11-04,1978/1979,Brentford,Oxford United,3-0,3,0,Football League Third Division,3,H
+1978-11-04,1978/1979,Blackpool,Sheffield Wednesday,0-1,0,1,Football League Third Division,3,A
+1978-11-10,1978/1979,Newport County,Wigan Athletic,2-1,2,1,Football League Fourth Division,4,H
+1978-11-10,1978/1979,Fulham,Bristol Rovers,3-0,3,0,Football League Second Division,2,H
+1978-11-10,1978/1979,Tranmere Rovers,Peterborough United,1-0,1,0,Football League Third Division,3,H
+1978-11-10,1978/1979,Shrewsbury Town,Walsall,1-1,1,1,Football League Third Division,3,D
+1978-11-11,1978/1979,Birmingham City,Manchester United,5-1,5,1,Football League First Division,1,H
+1978-11-11,1978/1979,Bristol City,Bolton Wanderers,4-1,4,1,Football League First Division,1,H
+1978-11-11,1978/1979,Coventry City,Middlesbrough,2-1,2,1,Football League First Division,1,H
+1978-11-11,1978/1979,Everton,Chelsea,3-2,3,2,Football League First Division,1,H
+1978-11-11,1978/1979,Ipswich Town,West Bromwich Albion,0-1,0,1,Football League First Division,1,A
+1978-11-11,1978/1979,Leeds United,Arsenal,0-1,0,1,Football League First Division,1,A
+1978-11-11,1978/1979,Manchester City,Derby County,1-2,1,2,Football League First Division,1,A
+1978-11-11,1978/1979,Queens Park Rangers,Liverpool,1-3,1,3,Football League First Division,1,A
+1978-11-11,1978/1979,Tottenham Hotspur,Nottingham Forest,1-3,1,3,Football League First Division,1,A
+1978-11-11,1978/1979,Southampton,Norwich City,2-2,2,2,Football League First Division,1,D
+1978-11-11,1978/1979,Wolverhampton Wanderers,Aston Villa,0-4,0,4,Football League First Division,1,A
+1978-11-11,1978/1979,Bradford City,Northampton Town,3-0,3,0,Football League Fourth Division,4,H
+1978-11-11,1978/1979,Crewe Alexandra,Portsmouth,0-0,0,0,Football League Fourth Division,4,D
+1978-11-11,1978/1979,Darlington,Hereford United,2-1,2,1,Football League Fourth Division,4,H
+1978-11-11,1978/1979,Halifax Town,Aldershot,1-1,1,1,Football League Fourth Division,4,D
+1978-11-11,1978/1979,Hartlepool United,AFC Bournemouth,0-0,0,0,Football League Fourth Division,4,D
+1978-11-11,1978/1979,Reading,Huddersfield Town,1-1,1,1,Football League Fourth Division,4,D
+1978-11-11,1978/1979,Rochdale,Port Vale,0-1,0,1,Football League Fourth Division,4,A
+1978-11-11,1978/1979,Scunthorpe United,Doncaster Rovers,0-0,0,0,Football League Fourth Division,4,D
+1978-11-11,1978/1979,Torquay United,Grimsby Town,3-1,3,1,Football League Fourth Division,4,H
+1978-11-11,1978/1979,Wimbledon,Stockport County,2-0,2,0,Football League Fourth Division,4,H
+1978-11-11,1978/1979,York City,Barnsley,0-1,0,1,Football League Fourth Division,4,A
+1978-11-11,1978/1979,Stoke City,Cambridge United,1-3,1,3,Football League Second Division,2,A
+1978-11-11,1978/1979,Preston North End,Cardiff City,2-1,2,1,Football League Second Division,2,H
+1978-11-11,1978/1979,Brighton & Hove Albion,Wrexham,2-1,2,1,Football League Second Division,2,H
+1978-11-11,1978/1979,Charlton Athletic,Sunderland,1-2,1,2,Football League Second Division,2,A
+1978-11-11,1978/1979,Crystal Palace,Blackburn Rovers,3-0,3,0,Football League Second Division,2,H
+1978-11-11,1978/1979,Leicester City,Burnley,2-1,2,1,Football League Second Division,2,H
+1978-11-11,1978/1979,Leyton Orient,Sheffield United,1-1,1,1,Football League Second Division,2,D
+1978-11-11,1978/1979,Newcastle United,Millwall,1-0,1,0,Football League Second Division,2,H
+1978-11-11,1978/1979,Notts County,West Ham United,1-0,1,0,Football League Second Division,2,H
+1978-11-11,1978/1979,Oldham Athletic,Luton Town,2-0,2,0,Football League Second Division,2,H
+1978-11-11,1978/1979,Carlisle United,Blackpool,1-1,1,1,Football League Third Division,3,D
+1978-11-11,1978/1979,Chester,Hull City,2-1,2,1,Football League Third Division,3,H
+1978-11-11,1978/1979,Mansfield Town,Swindon Town,0-1,0,1,Football League Third Division,3,A
+1978-11-11,1978/1979,Oxford United,Chesterfield,1-1,1,1,Football League Third Division,3,D
+1978-11-11,1978/1979,Plymouth Argyle,Southend United,1-1,1,1,Football League Third Division,3,D
+1978-11-11,1978/1979,Rotherham United,Colchester United,1-0,1,0,Football League Third Division,3,H
+1978-11-11,1978/1979,Sheffield Wednesday,Lincoln City,0-0,0,0,Football League Third Division,3,D
+1978-11-11,1978/1979,Watford,Gillingham,1-0,1,0,Football League Third Division,3,H
+1978-11-11,1978/1979,Bury,Swansea City,0-1,0,1,Football League Third Division,3,A
+1978-11-11,1978/1979,Brentford,Exeter City,0-0,0,0,Football League Third Division,3,D
+1978-11-13,1978/1979,Mansfield Town,Tranmere Rovers,0-0,0,0,Football League Third Division,3,D
+1978-11-14,1978/1979,Plymouth Argyle,Peterborough United,3-2,3,2,Football League Third Division,3,H
+1978-11-17,1978/1979,Stockport County,Newport County,1-1,1,1,Football League Fourth Division,4,D
+1978-11-17,1978/1979,Southend United,Mansfield Town,1-1,1,1,Football League Third Division,3,D
+1978-11-18,1978/1979,Arsenal,Everton,2-2,2,2,Football League First Division,1,D
+1978-11-18,1978/1979,Aston Villa,Bristol City,2-0,2,0,Football League First Division,1,H
+1978-11-18,1978/1979,Bolton Wanderers,West Bromwich Albion,0-1,0,1,Football League First Division,1,A
+1978-11-18,1978/1979,Chelsea,Tottenham Hotspur,1-3,1,3,Football League First Division,1,A
+1978-11-18,1978/1979,Derby County,Birmingham City,2-1,2,1,Football League First Division,1,H
+1978-11-18,1978/1979,Liverpool,Manchester City,1-0,1,0,Football League First Division,1,H
+1978-11-18,1978/1979,Manchester United,Ipswich Town,2-0,2,0,Football League First Division,1,H
+1978-11-18,1978/1979,Middlesbrough,Southampton,2-0,2,0,Football League First Division,1,H
+1978-11-18,1978/1979,Nottingham Forest,Queens Park Rangers,0-0,0,0,Football League First Division,1,D
+1978-11-18,1978/1979,Wolverhampton Wanderers,Leeds United,1-1,1,1,Football League First Division,1,D
+1978-11-18,1978/1979,Norwich City,Coventry City,1-0,1,0,Football League First Division,1,H
+1978-11-18,1978/1979,Wigan Athletic,Reading,3-0,3,0,Football League Fourth Division,4,H
+1978-11-18,1978/1979,AFC Bournemouth,Darlington,2-2,2,2,Football League Fourth Division,4,D
+1978-11-18,1978/1979,Barnsley,Bradford City,0-1,0,1,Football League Fourth Division,4,A
+1978-11-18,1978/1979,Doncaster Rovers,York City,1-2,1,2,Football League Fourth Division,4,A
+1978-11-18,1978/1979,Grimsby Town,Halifax Town,2-1,2,1,Football League Fourth Division,4,H
+1978-11-18,1978/1979,Hereford United,Torquay United,3-1,3,1,Football League Fourth Division,4,H
+1978-11-18,1978/1979,Huddersfield Town,Scunthorpe United,3-2,3,2,Football League Fourth Division,4,H
+1978-11-18,1978/1979,Northampton Town,Wimbledon,1-1,1,1,Football League Fourth Division,4,D
+1978-11-18,1978/1979,Port Vale,Crewe Alexandra,2-2,2,2,Football League Fourth Division,4,D
+1978-11-18,1978/1979,Portsmouth,Hartlepool United,3-0,3,0,Football League Fourth Division,4,H
+1978-11-18,1978/1979,Aldershot,Rochdale,1-0,1,0,Football League Fourth Division,4,H
+1978-11-18,1978/1979,West Ham United,Crystal Palace,1-1,1,1,Football League Second Division,2,D
+1978-11-18,1978/1979,Bristol Rovers,Charlton Athletic,5-5,5,5,Football League Second Division,2,D
+1978-11-18,1978/1979,Wrexham,Leyton Orient,3-1,3,1,Football League Second Division,2,H
+1978-11-18,1978/1979,Burnley,Fulham,5-3,5,3,Football League Second Division,2,H
+1978-11-18,1978/1979,Cambridge United,Leicester City,1-1,1,1,Football League Second Division,2,D
+1978-11-18,1978/1979,Luton Town,Newcastle United,2-0,2,0,Football League Second Division,2,H
+1978-11-18,1978/1979,Millwall,Stoke City,3-0,3,0,Football League Second Division,2,H
+1978-11-18,1978/1979,Oldham Athletic,Cardiff City,2-1,2,1,Football League Second Division,2,H
+1978-11-18,1978/1979,Sheffield United,Preston North End,0-1,0,1,Football League Second Division,2,A
+1978-11-18,1978/1979,Sunderland,Brighton & Hove Albion,2-1,2,1,Football League Second Division,2,H
+1978-11-18,1978/1979,Blackburn Rovers,Notts County,3-4,3,4,Football League Second Division,2,A
+1978-11-18,1978/1979,Colchester United,Sheffield Wednesday,1-0,1,0,Football League Third Division,3,H
+1978-11-18,1978/1979,Exeter City,Chester,0-1,0,1,Football League Third Division,3,A
+1978-11-18,1978/1979,Gillingham,Bury,3-3,3,3,Football League Third Division,3,D
+1978-11-18,1978/1979,Hull City,Tranmere Rovers,2-1,2,1,Football League Third Division,3,H
+1978-11-18,1978/1979,Lincoln City,Plymouth Argyle,3-3,3,3,Football League Third Division,3,D
+1978-11-18,1978/1979,Peterborough United,Watford,0-1,0,1,Football League Third Division,3,A
+1978-11-18,1978/1979,Swindon Town,Shrewsbury Town,2-1,2,1,Football League Third Division,3,H
+1978-11-18,1978/1979,Walsall,Carlisle United,1-2,1,2,Football League Third Division,3,A
+1978-11-18,1978/1979,Chesterfield,Brentford,0-0,0,0,Football League Third Division,3,D
+1978-11-18,1978/1979,Blackpool,Rotherham United,1-2,1,2,Football League Third Division,3,A
+1978-11-18,1978/1979,Swansea City,Oxford United,1-1,1,1,Football League Third Division,3,D
+1978-11-21,1978/1979,Coventry City,Derby County,4-2,4,2,Football League First Division,1,H
+1978-11-21,1978/1979,Southampton,Aston Villa,2-0,2,0,Football League First Division,1,H
+1978-11-21,1978/1979,Ipswich Town,Middlesbrough,2-1,2,1,Football League First Division,1,H
+1978-11-21,1978/1979,Everton,Manchester United,3-0,3,0,Football League First Division,1,H
+1978-11-21,1978/1979,Bristol City,Wolverhampton Wanderers,0-1,0,1,Football League First Division,1,A
+1978-11-21,1978/1979,Birmingham City,Bolton Wanderers,3-0,3,0,Football League First Division,1,H
+1978-11-21,1978/1979,Crystal Palace,Sheffield United,3-1,3,1,Football League Second Division,2,H
+1978-11-21,1978/1979,Preston North End,Sunderland,3-1,3,1,Football League Second Division,2,H
+1978-11-21,1978/1979,Notts County,Burnley,1-1,1,1,Football League Second Division,2,D
+1978-11-21,1978/1979,Leyton Orient,Blackburn Rovers,2-0,2,0,Football League Second Division,2,H
+1978-11-21,1978/1979,Fulham,West Ham United,0-0,0,0,Football League Second Division,2,D
+1978-11-21,1978/1979,Charlton Athletic,Luton Town,1-2,1,2,Football League Second Division,2,A
+1978-11-21,1978/1979,Brighton & Hove Albion,Millwall,3-0,3,0,Football League Second Division,2,H
+1978-11-22,1978/1979,Leeds United,Chelsea,2-1,2,1,Football League First Division,1,H
+1978-11-22,1978/1979,Tottenham Hotspur,Liverpool,0-0,0,0,Football League First Division,1,D
+1978-11-22,1978/1979,Newcastle United,Cambridge United,1-0,1,0,Football League Second Division,2,H
+1978-11-22,1978/1979,Leicester City,Wrexham,1-1,1,1,Football League Second Division,2,D
+1978-11-22,1978/1979,Stoke City,Oldham Athletic,4-0,4,0,Football League Second Division,2,H
+1978-11-25,1978/1979,Tottenham Hotspur,Wolverhampton Wanderers,1-0,1,0,Football League First Division,1,H
+1978-11-25,1978/1979,Norwich City,Everton,0-1,0,1,Football League First Division,1,A
+1978-11-25,1978/1979,Manchester City,Ipswich Town,1-2,1,2,Football League First Division,1,A
+1978-11-25,1978/1979,Liverpool,Middlesbrough,2-0,2,0,Football League First Division,1,H
+1978-11-25,1978/1979,Leeds United,Southampton,4-0,4,0,Football League First Division,1,H
+1978-11-25,1978/1979,Derby County,Queens Park Rangers,2-1,2,1,Football League First Division,1,H
+1978-11-25,1978/1979,Coventry City,Arsenal,1-1,1,1,Football League First Division,1,D
+1978-11-25,1978/1979,Chelsea,Manchester United,0-1,0,1,Football League First Division,1,A
+1978-11-25,1978/1979,Bolton Wanderers,Nottingham Forest,0-1,0,1,Football League First Division,1,A
+1978-11-25,1978/1979,Birmingham City,Bristol City,1-1,1,1,Football League First Division,1,D
+1978-11-25,1978/1979,West Bromwich Albion,Aston Villa,1-1,1,1,Football League First Division,1,D
+1978-11-25,1978/1979,Bristol Rovers,Sheffield United,2-1,2,1,Football League Second Division,2,H
+1978-11-25,1978/1979,Notts County,Brighton & Hove Albion,1-0,1,0,Football League Second Division,2,H
+1978-11-25,1978/1979,Newcastle United,Oldham Athletic,1-1,1,1,Football League Second Division,2,D
+1978-11-25,1978/1979,Luton Town,Sunderland,0-3,0,3,Football League Second Division,2,A
+1978-11-25,1978/1979,Leyton Orient,Preston North End,2-0,2,0,Football League Second Division,2,H
+1978-11-25,1978/1979,Leicester City,West Ham United,1-2,1,2,Football League Second Division,2,A
+1978-11-25,1978/1979,Wrexham,Millwall,3-0,3,0,Football League Second Division,2,H
+1978-11-25,1978/1979,Cardiff City,Crystal Palace,2-2,2,2,Football League Second Division,2,D
+1978-11-25,1978/1979,Cambridge United,Burnley,2-2,2,2,Football League Second Division,2,D
+1978-11-25,1978/1979,Blackburn Rovers,Stoke City,2-2,2,2,Football League Second Division,2,D
+1978-11-25,1978/1979,Charlton Athletic,Fulham,0-0,0,0,Football League Second Division,2,D
+1978-12-02,1978/1979,Southampton,Birmingham City,1-0,1,0,Football League First Division,1,H
+1978-12-02,1978/1979,Queens Park Rangers,Bolton Wanderers,1-3,1,3,Football League First Division,1,A
+1978-12-02,1978/1979,Ipswich Town,Leeds United,2-3,2,3,Football League First Division,1,A
+1978-12-02,1978/1979,Bristol City,Derby County,1-0,1,0,Football League First Division,1,H
+1978-12-02,1978/1979,Arsenal,Liverpool,1-0,1,0,Football League First Division,1,H
+1978-12-02,1978/1979,Wimbledon,Halifax Town,2-1,2,1,Football League Fourth Division,4,H
+1978-12-02,1978/1979,Huddersfield Town,Aldershot,0-0,0,0,Football League Fourth Division,4,D
+1978-12-02,1978/1979,Newport County,Darlington,2-1,2,1,Football League Fourth Division,4,H
+1978-12-02,1978/1979,Northampton Town,Portsmouth,0-2,0,2,Football League Fourth Division,4,A
+1978-12-02,1978/1979,Doncaster Rovers,Rochdale,1-0,1,0,Football League Fourth Division,4,H
+1978-12-02,1978/1979,West Ham United,Cambridge United,5-0,5,0,Football League Second Division,2,H
+1978-12-02,1978/1979,Stoke City,Leicester City,0-0,0,0,Football League Second Division,2,D
+1978-12-02,1978/1979,Millwall,Cardiff City,2-0,2,0,Football League Second Division,2,H
+1978-12-02,1978/1979,Fulham,Notts County,1-1,1,1,Football League Second Division,2,D
+1978-12-02,1978/1979,Crystal Palace,Newcastle United,1-0,1,0,Football League Second Division,2,H
+1978-12-02,1978/1979,Brighton & Hove Albion,Leyton Orient,2-0,2,0,Football League Second Division,2,H
+1978-12-02,1978/1979,Sunderland,Bristol Rovers,5-0,5,0,Football League Second Division,2,H
+1978-12-02,1978/1979,Exeter City,Southend United,0-0,0,0,Football League Third Division,3,D
+1978-12-02,1978/1979,Gillingham,Carlisle United,0-0,0,0,Football League Third Division,3,D
+1978-12-02,1978/1979,Oxford United,Rotherham United,1-0,1,0,Football League Third Division,3,H
+1978-12-02,1978/1979,Swansea City,Sheffield Wednesday,4-2,4,2,Football League Third Division,3,H
+1978-12-02,1978/1979,Brentford,Walsall,1-0,1,0,Football League Third Division,3,H
+1978-12-02,1978/1979,Watford,Mansfield Town,1-1,1,1,Football League Third Division,3,D
+1978-12-04,1978/1979,Stockport County,Grimsby Town,2-1,2,1,Football League Fourth Division,4,H
+1978-12-06,1978/1979,Reading,Crewe Alexandra,3-0,3,0,Football League Fourth Division,4,H
+1978-12-06,1978/1979,Peterborough United,Shrewsbury Town,0-2,0,2,Football League Third Division,3,A
+1978-12-08,1978/1979,Southend United,Swansea City,0-2,0,2,Football League Third Division,3,A
+1978-12-09,1978/1979,Birmingham City,Everton,1-3,1,3,Football League First Division,1,A
+1978-12-09,1978/1979,Bolton Wanderers,Wolverhampton Wanderers,3-1,3,1,Football League First Division,1,H
+1978-12-09,1978/1979,Chelsea,Aston Villa,0-1,0,1,Football League First Division,1,A
+1978-12-09,1978/1979,Coventry City,Queens Park Rangers,1-0,1,0,Football League First Division,1,H
+1978-12-09,1978/1979,Leeds United,Bristol City,1-1,1,1,Football League First Division,1,D
+1978-12-09,1978/1979,Liverpool,Nottingham Forest,2-0,2,0,Football League First Division,1,H
+1978-12-09,1978/1979,Manchester City,Southampton,1-2,1,2,Football League First Division,1,A
+1978-12-09,1978/1979,Norwich City,Arsenal,0-0,0,0,Football League First Division,1,D
+1978-12-09,1978/1979,Tottenham Hotspur,Ipswich Town,1-0,1,0,Football League First Division,1,H
+1978-12-09,1978/1979,Derby County,Manchester United,1-3,1,3,Football League First Division,1,A
+1978-12-09,1978/1979,West Bromwich Albion,Middlesbrough,2-0,2,0,Football League First Division,1,H
+1978-12-09,1978/1979,AFC Bournemouth,York City,1-2,1,2,Football League Fourth Division,4,A
+1978-12-09,1978/1979,Aldershot,Doncaster Rovers,2-1,2,1,Football League Fourth Division,4,H
+1978-12-09,1978/1979,Port Vale,Stockport County,2-1,2,1,Football League Fourth Division,4,H
+1978-12-09,1978/1979,Darlington,Wigan Athletic,1-1,1,1,Football League Fourth Division,4,D
+1978-12-09,1978/1979,Grimsby Town,Newport County,1-0,1,0,Football League Fourth Division,4,H
+1978-12-09,1978/1979,Halifax Town,Reading,0-0,0,0,Football League Fourth Division,4,D
+1978-12-09,1978/1979,Hartlepool United,Wimbledon,1-1,1,1,Football League Fourth Division,4,D
+1978-12-09,1978/1979,Hereford United,Northampton Town,4-3,4,3,Football League Fourth Division,4,H
+1978-12-09,1978/1979,Portsmouth,Huddersfield Town,1-0,1,0,Football League Fourth Division,4,H
+1978-12-09,1978/1979,Rochdale,Barnsley,0-3,0,3,Football League Fourth Division,4,A
+1978-12-09,1978/1979,Torquay United,Scunthorpe United,0-1,0,1,Football League Fourth Division,4,A
+1978-12-09,1978/1979,Crewe Alexandra,Bradford City,1-2,1,2,Football League Fourth Division,4,A
+1978-12-09,1978/1979,Wrexham,West Ham United,4-3,4,3,Football League Second Division,2,H
+1978-12-09,1978/1979,Blackburn Rovers,Brighton & Hove Albion,1-1,1,1,Football League Second Division,2,D
+1978-12-09,1978/1979,Bristol Rovers,Millwall,0-3,0,3,Football League Second Division,2,A
+1978-12-09,1978/1979,Cambridge United,Oldham Athletic,3-3,3,3,Football League Second Division,2,D
+1978-12-09,1978/1979,Cardiff City,Sunderland,1-1,1,1,Football League Second Division,2,D
+1978-12-09,1978/1979,Charlton Athletic,Sheffield United,3-1,3,1,Football League Second Division,2,H
+1978-12-09,1978/1979,Leyton Orient,Burnley,2-1,2,1,Football League Second Division,2,H
+1978-12-09,1978/1979,Luton Town,Preston North End,1-2,1,2,Football League Second Division,2,A
+1978-12-09,1978/1979,Newcastle United,Stoke City,2-0,2,0,Football League Second Division,2,H
+1978-12-09,1978/1979,Notts County,Crystal Palace,0-0,0,0,Football League Second Division,2,D
+1978-12-09,1978/1979,Mansfield Town,Brentford,2-1,2,1,Football League Third Division,3,H
+1978-12-09,1978/1979,Plymouth Argyle,Watford,1-1,1,1,Football League Third Division,3,D
+1978-12-09,1978/1979,Rotherham United,Chesterfield,1-0,1,0,Football League Third Division,3,H
+1978-12-09,1978/1979,Lincoln City,Oxford United,2-2,2,2,Football League Third Division,3,D
+1978-12-09,1978/1979,Sheffield Wednesday,Chester,0-0,0,0,Football League Third Division,3,D
+1978-12-09,1978/1979,Shrewsbury Town,Gillingham,1-1,1,1,Football League Third Division,3,D
+1978-12-09,1978/1979,Swindon Town,Hull City,2-0,2,0,Football League Third Division,3,H
+1978-12-09,1978/1979,Walsall,Tranmere Rovers,2-0,2,0,Football League Third Division,3,H
+1978-12-09,1978/1979,Colchester United,Bury,0-0,0,0,Football League Third Division,3,D
+1978-12-09,1978/1979,Carlisle United,Exeter City,1-1,1,1,Football League Third Division,3,D
+1978-12-09,1978/1979,Blackpool,Peterborough United,0-0,0,0,Football League Third Division,3,D
+1978-12-12,1978/1979,Preston North End,Charlton Athletic,6-1,6,1,Football League Second Division,2,H
+1978-12-16,1978/1979,Queens Park Rangers,Manchester City,2-1,2,1,Football League First Division,1,H
+1978-12-16,1978/1979,Wolverhampton Wanderers,West Bromwich Albion,0-3,0,3,Football League First Division,1,A
+1978-12-16,1978/1979,Southampton,Coventry City,4-0,4,0,Football League First Division,1,H
+1978-12-16,1978/1979,Nottingham Forest,Birmingham City,1-0,1,0,Football League First Division,1,H
+1978-12-16,1978/1979,Middlesbrough,Chelsea,7-2,7,2,Football League First Division,1,H
+1978-12-16,1978/1979,Manchester United,Tottenham Hotspur,2-0,2,0,Football League First Division,1,H
+1978-12-16,1978/1979,Ipswich Town,Bolton Wanderers,3-0,3,0,Football League First Division,1,H
+1978-12-16,1978/1979,Everton,Leeds United,1-1,1,1,Football League First Division,1,D
+1978-12-16,1978/1979,Bristol City,Liverpool,1-0,1,0,Football League First Division,1,H
+1978-12-16,1978/1979,Aston Villa,Norwich City,1-1,1,1,Football League First Division,1,D
+1978-12-16,1978/1979,Arsenal,Derby County,2-0,2,0,Football League First Division,1,H
+1978-12-16,1978/1979,Scunthorpe United,Hereford United,4-2,4,2,Football League Fourth Division,4,H
+1978-12-16,1978/1979,Halifax Town,Wigan Athletic,1-2,1,2,Football League Fourth Division,4,A
+1978-12-16,1978/1979,Millwall,Blackburn Rovers,1-1,1,1,Football League Second Division,2,D
+1978-12-16,1978/1979,Oldham Athletic,Leyton Orient,0-0,0,0,Football League Second Division,2,D
+1978-12-16,1978/1979,Preston North End,Notts County,1-1,1,1,Football League Second Division,2,D
+1978-12-16,1978/1979,Sheffield United,Cardiff City,2-1,2,1,Football League Second Division,2,H
+1978-12-16,1978/1979,Stoke City,Wrexham,3-0,3,0,Football League Second Division,2,H
+1978-12-16,1978/1979,West Ham United,Charlton Athletic,2-0,2,0,Football League Second Division,2,H
+1978-12-16,1978/1979,Fulham,Newcastle United,1-3,1,3,Football League Second Division,2,A
+1978-12-16,1978/1979,Sunderland,Cambridge United,0-2,0,2,Football League Second Division,2,A
+1978-12-16,1978/1979,Crystal Palace,Leicester City,3-1,3,1,Football League Second Division,2,H
+1978-12-16,1978/1979,Brighton & Hove Albion,Luton Town,3-1,3,1,Football League Second Division,2,H
+1978-12-16,1978/1979,Burnley,Bristol Rovers,2-0,2,0,Football League Second Division,2,H
+1978-12-16,1978/1979,Plymouth Argyle,Chesterfield,1-1,1,1,Football League Third Division,3,D
+1978-12-22,1978/1979,Bolton Wanderers,Manchester United,3-0,3,0,Football League First Division,1,H
+1978-12-22,1978/1979,Hereford United,Newport County,0-3,0,3,Football League Fourth Division,4,A
+1978-12-23,1978/1979,Chelsea,Bristol City,0-0,0,0,Football League First Division,1,D
+1978-12-23,1978/1979,Derby County,Aston Villa,0-0,0,0,Football League First Division,1,D
+1978-12-23,1978/1979,Leeds United,Middlesbrough,3-1,3,1,Football League First Division,1,H
+1978-12-23,1978/1979,Manchester City,Nottingham Forest,0-0,0,0,Football League First Division,1,D
+1978-12-23,1978/1979,Tottenham Hotspur,Arsenal,0-5,0,5,Football League First Division,1,A
+1978-12-23,1978/1979,Coventry City,Everton,3-2,3,2,Football League First Division,1,H
+1978-12-23,1978/1979,Portsmouth,Reading,4-0,4,0,Football League Fourth Division,4,H
+1978-12-23,1978/1979,Hartlepool United,Barnsley,1-1,1,1,Football League Fourth Division,4,D
+1978-12-23,1978/1979,Grimsby Town,York City,3-0,3,0,Football League Fourth Division,4,H
+1978-12-23,1978/1979,Darlington,Scunthorpe United,2-2,2,2,Football League Fourth Division,4,D
+1978-12-23,1978/1979,Aldershot,Stockport County,3-2,3,2,Football League Fourth Division,4,H
+1978-12-23,1978/1979,AFC Bournemouth,Wimbledon,1-2,1,2,Football League Fourth Division,4,A
+1978-12-23,1978/1979,Newcastle United,Burnley,3-1,3,1,Football League Second Division,2,H
+1978-12-23,1978/1979,Notts County,Sunderland,1-1,1,1,Football League Second Division,2,D
+1978-12-23,1978/1979,Cambridge United,Crystal Palace,0-0,0,0,Football League Second Division,2,D
+1978-12-23,1978/1979,Cardiff City,Fulham,2-0,2,0,Football League Second Division,2,H
+1978-12-23,1978/1979,Charlton Athletic,Brighton & Hove Albion,0-3,0,3,Football League Second Division,2,A
+1978-12-23,1978/1979,Leicester City,Preston North End,1-1,1,1,Football League Second Division,2,D
+1978-12-23,1978/1979,Leyton Orient,Millwall,2-1,2,1,Football League Second Division,2,H
+1978-12-23,1978/1979,Bristol Rovers,Stoke City,0-0,0,0,Football League Second Division,2,D
+1978-12-23,1978/1979,Colchester United,Watford,0-1,0,1,Football League Third Division,3,A
+1978-12-23,1978/1979,Southend United,Brentford,1-1,1,1,Football League Third Division,3,D
+1978-12-23,1978/1979,Shrewsbury Town,Swansea City,3-0,3,0,Football League Third Division,3,H
+1978-12-23,1978/1979,Rotherham United,Tranmere Rovers,3-2,3,2,Football League Third Division,3,H
+1978-12-23,1978/1979,Mansfield Town,Peterborough United,1-1,1,1,Football League Third Division,3,D
+1978-12-23,1978/1979,Lincoln City,Chesterfield,0-1,0,1,Football League Third Division,3,A
+1978-12-23,1978/1979,Blackpool,Chester,3-0,3,0,Football League Third Division,3,H
+1978-12-26,1978/1979,Arsenal,West Bromwich Albion,1-2,1,2,Football League First Division,1,A
+1978-12-26,1978/1979,Aston Villa,Leeds United,2-2,2,2,Football League First Division,1,D
+1978-12-26,1978/1979,Bristol City,Coventry City,5-0,5,0,Football League First Division,1,H
+1978-12-26,1978/1979,Ipswich Town,Norwich City,1-1,1,1,Football League First Division,1,D
+1978-12-26,1978/1979,Manchester United,Liverpool,0-3,0,3,Football League First Division,1,A
+1978-12-26,1978/1979,Middlesbrough,Bolton Wanderers,1-1,1,1,Football League First Division,1,D
+1978-12-26,1978/1979,Nottingham Forest,Derby County,1-1,1,1,Football League First Division,1,D
+1978-12-26,1978/1979,Queens Park Rangers,Tottenham Hotspur,2-2,2,2,Football League First Division,1,D
+1978-12-26,1978/1979,Southampton,Chelsea,0-0,0,0,Football League First Division,1,D
+1978-12-26,1978/1979,Wolverhampton Wanderers,Birmingham City,2-1,2,1,Football League First Division,1,H
+1978-12-26,1978/1979,Everton,Manchester City,1-0,1,0,Football League First Division,1,H
+1978-12-26,1978/1979,Barnsley,Port Vale,6-2,6,2,Football League Fourth Division,4,H
+1978-12-26,1978/1979,Scunthorpe United,Grimsby Town,2-1,2,1,Football League Fourth Division,4,H
+1978-12-26,1978/1979,Doncaster Rovers,Darlington,2-3,2,3,Football League Fourth Division,4,A
+1978-12-26,1978/1979,Huddersfield Town,Halifax Town,2-0,2,0,Football League Fourth Division,4,H
+1978-12-26,1978/1979,Newport County,Torquay United,1-1,1,1,Football League Fourth Division,4,D
+1978-12-26,1978/1979,Northampton Town,Aldershot,2-3,2,3,Football League Fourth Division,4,A
+1978-12-26,1978/1979,Reading,AFC Bournemouth,1-0,1,0,Football League Fourth Division,4,H
+1978-12-26,1978/1979,Stockport County,Hereford United,0-2,0,2,Football League Fourth Division,4,A
+1978-12-26,1978/1979,Wigan Athletic,Crewe Alexandra,1-0,1,0,Football League Fourth Division,4,H
+1978-12-26,1978/1979,Wimbledon,Portsmouth,2-4,2,4,Football League Fourth Division,4,A
+1978-12-26,1978/1979,York City,Hartlepool United,1-1,1,1,Football League Fourth Division,4,D
+1978-12-26,1978/1979,Bradford City,Rochdale,1-0,1,0,Football League Fourth Division,4,H
+1978-12-26,1978/1979,West Ham United,Leyton Orient,0-2,0,2,Football League Second Division,2,A
+1978-12-26,1978/1979,Burnley,Blackburn Rovers,2-1,2,1,Football League Second Division,2,H
+1978-12-26,1978/1979,Brighton & Hove Albion,Cardiff City,5-0,5,0,Football League Second Division,2,H
+1978-12-26,1978/1979,Sunderland,Leicester City,1-1,1,1,Football League Second Division,2,D
+1978-12-26,1978/1979,Sheffield United,Newcastle United,1-0,1,0,Football League Second Division,2,H
+1978-12-26,1978/1979,Preston North End,Wrexham,2-1,2,1,Football League Second Division,2,H
+1978-12-26,1978/1979,Stoke City,Charlton Athletic,2-2,2,2,Football League Second Division,2,D
+1978-12-26,1978/1979,Millwall,Luton Town,0-2,0,2,Football League Second Division,2,A
+1978-12-26,1978/1979,Fulham,Cambridge United,5-1,5,1,Football League Second Division,2,H
+1978-12-26,1978/1979,Crystal Palace,Bristol Rovers,0-1,0,1,Football League Second Division,2,A
+1978-12-26,1978/1979,Oldham Athletic,Notts County,3-3,3,3,Football League Second Division,2,D
+1978-12-26,1978/1979,Watford,Shrewsbury Town,2-2,2,2,Football League Third Division,3,D
+1978-12-26,1978/1979,Chesterfield,Sheffield Wednesday,3-3,3,3,Football League Third Division,3,D
+1978-12-26,1978/1979,Exeter City,Walsall,3-1,3,1,Football League Third Division,3,H
+1978-12-26,1978/1979,Gillingham,Southend United,1-0,1,0,Football League Third Division,3,H
+1978-12-26,1978/1979,Hull City,Mansfield Town,3-0,3,0,Football League Third Division,3,H
+1978-12-26,1978/1979,Oxford United,Colchester United,2-0,2,0,Football League Third Division,3,H
+1978-12-26,1978/1979,Peterborough United,Lincoln City,0-1,0,1,Football League Third Division,3,A
+1978-12-26,1978/1979,Swansea City,Swindon Town,1-2,1,2,Football League Third Division,3,A
+1978-12-26,1978/1979,Tranmere Rovers,Blackpool,0-2,0,2,Football League Third Division,3,A
+1978-12-26,1978/1979,Chester,Carlisle United,1-2,1,2,Football League Third Division,3,A
+1978-12-26,1978/1979,Bury,Rotherham United,3-2,3,2,Football League Third Division,3,H
+1978-12-26,1978/1979,Brentford,Plymouth Argyle,2-1,2,1,Football League Third Division,3,H
+1978-12-29,1978/1979,Stockport County,Portsmouth,4-2,4,2,Football League Fourth Division,4,H
+1978-12-30,1978/1979,Bristol City,Manchester City,1-1,1,1,Football League First Division,1,D
+1978-12-30,1978/1979,Everton,Tottenham Hotspur,1-1,1,1,Football League First Division,1,D
+1978-12-30,1978/1979,Ipswich Town,Chelsea,5-1,5,1,Football League First Division,1,H
+1978-12-30,1978/1979,Manchester United,West Bromwich Albion,3-5,3,5,Football League First Division,1,A
+1978-12-30,1978/1979,Queens Park Rangers,Leeds United,1-4,1,4,Football League First Division,1,A
+1978-12-30,1978/1979,Arsenal,Birmingham City,3-1,3,1,Football League First Division,1,H
+1978-12-30,1978/1979,Wolverhampton Wanderers,Coventry City,1-1,1,1,Football League First Division,1,D
+1978-12-30,1978/1979,Scunthorpe United,Rochdale,0-4,0,4,Football League Fourth Division,4,A
+1978-12-30,1978/1979,Bradford City,AFC Bournemouth,2-1,2,1,Football League Fourth Division,4,H
+1978-12-30,1978/1979,Northampton Town,Halifax Town,2-1,2,1,Football League Fourth Division,4,H
+1978-12-30,1978/1979,Wigan Athletic,Aldershot,3-2,3,2,Football League Fourth Division,4,H
+1978-12-30,1978/1979,Newport County,Port Vale,1-0,1,0,Football League Fourth Division,4,H
+1978-12-30,1978/1979,West Ham United,Blackburn Rovers,4-0,4,0,Football League Second Division,2,H
+1978-12-30,1978/1979,Stoke City,Notts County,2-0,2,0,Football League Second Division,2,H
+1978-12-30,1978/1979,Preston North End,Bristol Rovers,1-1,1,1,Football League Second Division,2,D
+1978-12-30,1978/1979,Sheffield United,Cambridge United,3-3,3,3,Football League Second Division,2,D
+1978-12-30,1978/1979,Brighton & Hove Albion,Newcastle United,2-0,2,0,Football League Second Division,2,H
+1978-12-30,1978/1979,Burnley,Cardiff City,0-0,0,0,Football League Second Division,2,D
+1978-12-30,1978/1979,Crystal Palace,Leyton Orient,1-1,1,1,Football League Second Division,2,D
+1978-12-30,1978/1979,Fulham,Luton Town,1-0,1,0,Football League Second Division,2,H
+1978-12-30,1978/1979,Oldham Athletic,Charlton Athletic,0-3,0,3,Football League Second Division,2,A
+1978-12-30,1978/1979,Brentford,Carlisle United,0-0,0,0,Football League Third Division,3,D
+1978-12-30,1978/1979,Oxford United,Walsall,2-1,2,1,Football League Third Division,3,H
+1978-12-30,1978/1979,Bury,Mansfield Town,0-0,0,0,Football League Third Division,3,D
+1978-12-30,1978/1979,Exeter City,Lincoln City,3-2,3,2,Football League Third Division,3,H
+1978-12-30,1978/1979,Gillingham,Plymouth Argyle,2-0,2,0,Football League Third Division,3,H
+1978-12-30,1978/1979,Peterborough United,Southend United,0-1,0,1,Football League Third Division,3,A
+1978-12-30,1978/1979,Watford,Swindon Town,2-0,2,0,Football League Third Division,3,H
+1978-12-30,1978/1979,Swansea City,Blackpool,1-0,1,0,Football League Third Division,3,H
+1979-01-01,1978/1979,West Bromwich Albion,Bristol City,3-1,3,1,Football League First Division,1,H
+1979-01-01,1978/1979,Port Vale,Huddersfield Town,1-0,1,0,Football League Fourth Division,4,H
+1979-01-01,1978/1979,Leicester City,Oldham Athletic,2-0,2,0,Football League Second Division,2,H
+1979-01-06,1978/1979,Watford,Lincoln City,2-0,2,0,Football League Third Division,3,H
+1979-01-06,1978/1979,Walsall,Hull City,1-2,1,2,Football League Third Division,3,A
+1979-01-09,1978/1979,Grimsby Town,Bradford City,5-1,5,1,Football League Fourth Division,4,H
+1979-01-09,1978/1979,Port Vale,Wigan Athletic,2-1,2,1,Football League Fourth Division,4,H
+1979-01-12,1978/1979,Stockport County,Bradford City,1-0,1,0,Football League Fourth Division,4,H
+1979-01-13,1978/1979,Norwich City,West Bromwich Albion,1-1,1,1,Football League First Division,1,D
+1979-01-13,1978/1979,Leeds United,Manchester City,1-1,1,1,Football League First Division,1,D
+1979-01-13,1978/1979,Bristol City,Tottenham Hotspur,0-0,0,0,Football League First Division,1,D
+1979-01-13,1978/1979,Arsenal,Nottingham Forest,2-1,2,1,Football League First Division,1,H
+1979-01-13,1978/1979,Newport County,Reading,3-2,3,2,Football League Fourth Division,4,H
+1979-01-13,1978/1979,Aldershot,Port Vale,1-1,1,1,Football League Fourth Division,4,D
+1979-01-13,1978/1979,AFC Bournemouth,Crewe Alexandra,0-1,0,1,Football League Fourth Division,4,A
+1979-01-13,1978/1979,Portsmouth,Rochdale,1-1,1,1,Football League Fourth Division,4,D
+1979-01-13,1978/1979,Cambridge United,Cardiff City,5-0,5,0,Football League Second Division,2,H
+1979-01-13,1978/1979,Gillingham,Tranmere Rovers,3-2,3,2,Football League Third Division,3,H
+1979-01-13,1978/1979,Peterborough United,Chester,2-1,2,1,Football League Third Division,3,H
+1979-01-13,1978/1979,Exeter City,Chesterfield,3-1,3,1,Football League Third Division,3,H
+1979-01-16,1978/1979,Grimsby Town,Darlington,7-2,7,2,Football League Fourth Division,4,H
+1979-01-16,1978/1979,Port Vale,Doncaster Rovers,1-3,1,3,Football League Fourth Division,4,A
+1979-01-16,1978/1979,Luton Town,Bristol Rovers,3-2,3,2,Football League Second Division,2,H
+1979-01-16,1978/1979,Swindon Town,Walsall,4-1,4,1,Football League Third Division,3,H
+1979-01-17,1978/1979,Wolverhampton Wanderers,Southampton,2-0,2,0,Football League First Division,1,H
+1979-01-17,1978/1979,Blackburn Rovers,Sunderland,1-1,1,1,Football League Second Division,2,D
+1979-01-17,1978/1979,Chester,Colchester United,2-2,2,2,Football League Third Division,3,D
+1979-01-19,1978/1979,Shrewsbury Town,Colchester United,2-0,2,0,Football League Third Division,3,H
+1979-01-20,1978/1979,Manchester City,Chelsea,2-3,2,3,Football League First Division,1,A
+1979-01-20,1978/1979,Tottenham Hotspur,Leeds United,1-2,1,2,Football League First Division,1,A
+1979-01-20,1978/1979,Queens Park Rangers,Middlesbrough,1-1,1,1,Football League First Division,1,D
+1979-01-20,1978/1979,Ipswich Town,Wolverhampton Wanderers,3-1,3,1,Football League First Division,1,H
+1979-01-20,1978/1979,Aldershot,Torquay United,1-0,1,0,Football League Fourth Division,4,H
+1979-01-20,1978/1979,Hartlepool United,Grimsby Town,1-0,1,0,Football League Fourth Division,4,H
+1979-01-20,1978/1979,Leyton Orient,Notts County,3-0,3,0,Football League Second Division,2,H
+1979-01-20,1978/1979,Leicester City,Blackburn Rovers,1-1,1,1,Football League Second Division,2,D
+1979-01-20,1978/1979,Crystal Palace,Millwall,0-0,0,0,Football League Second Division,2,D
+1979-01-20,1978/1979,Bristol Rovers,West Ham United,0-1,0,1,Football League Second Division,2,A
+1979-01-20,1978/1979,Brighton & Hove Albion,Stoke City,1-1,1,1,Football League Second Division,2,D
+1979-01-20,1978/1979,Fulham,Sunderland,2-2,2,2,Football League Second Division,2,D
+1979-01-20,1978/1979,Watford,Bury,3-3,3,3,Football League Third Division,3,D
+1979-01-20,1978/1979,Swindon Town,Plymouth Argyle,1-3,1,3,Football League Third Division,3,A
+1979-01-20,1978/1979,Exeter City,Oxford United,2-0,2,0,Football League Third Division,3,H
+1979-01-20,1978/1979,Carlisle United,Lincoln City,2-0,2,0,Football League Third Division,3,H
+1979-01-20,1978/1979,Brentford,Peterborough United,0-0,0,0,Football League Third Division,3,D
+1979-01-23,1978/1979,Colchester United,Lincoln City,2-0,2,0,Football League Third Division,3,H
+1979-01-27,1978/1979,Torquay United,Darlington,1-0,1,0,Football League Fourth Division,4,H
+1979-01-27,1978/1979,Plymouth Argyle,Sheffield Wednesday,2-0,2,0,Football League Third Division,3,H
+1979-01-27,1978/1979,Oxford United,Watford,1-1,1,1,Football League Third Division,3,D
+1979-01-27,1978/1979,Gillingham,Brentford,0-0,0,0,Football League Third Division,3,D
+1979-01-30,1978/1979,Doncaster Rovers,Hereford United,1-0,1,0,Football League Fourth Division,4,H
+1979-01-30,1978/1979,Shrewsbury Town,Chester,1-0,1,0,Football League Third Division,3,H
+1979-01-31,1978/1979,Everton,Aston Villa,1-1,1,1,Football League First Division,1,D
+1979-01-31,1978/1979,Norwich City,Queens Park Rangers,1-1,1,1,Football League First Division,1,D
+1979-01-31,1978/1979,Torquay United,Barnsley,3-2,3,2,Football League Fourth Division,4,H
+1979-02-02,1978/1979,Newport County,Hartlepool United,3-2,3,2,Football League Fourth Division,4,H
+1979-02-02,1978/1979,Colchester United,Exeter City,2-2,2,2,Football League Third Division,3,D
+1979-02-02,1978/1979,Southend United,Chesterfield,2-0,2,0,Football League Third Division,3,H
+1979-02-02,1978/1979,Swansea City,Carlisle United,0-0,0,0,Football League Third Division,3,D
+1979-02-03,1978/1979,Wolverhampton Wanderers,Everton,1-0,1,0,Football League First Division,1,H
+1979-02-03,1978/1979,Tottenham Hotspur,Manchester City,0-3,0,3,Football League First Division,1,A
+1979-02-03,1978/1979,Southampton,Derby County,1-2,1,2,Football League First Division,1,A
+1979-02-03,1978/1979,Norwich City,Bolton Wanderers,0-0,0,0,Football League First Division,1,D
+1979-02-03,1978/1979,Middlesbrough,Nottingham Forest,1-3,1,3,Football League First Division,1,A
+1979-02-03,1978/1979,Manchester United,Arsenal,0-2,0,2,Football League First Division,1,A
+1979-02-03,1978/1979,Liverpool,West Bromwich Albion,2-1,2,1,Football League First Division,1,H
+1979-02-03,1978/1979,Leeds United,Coventry City,1-0,1,0,Football League First Division,1,H
+1979-02-03,1978/1979,Chelsea,Birmingham City,2-1,2,1,Football League First Division,1,H
+1979-02-03,1978/1979,Bristol City,Ipswich Town,3-1,3,1,Football League First Division,1,H
+1979-02-03,1978/1979,AFC Bournemouth,Doncaster Rovers,7-1,7,1,Football League Fourth Division,4,H
+1979-02-03,1978/1979,Wigan Athletic,Portsmouth,2-0,2,0,Football League Fourth Division,4,H
+1979-02-03,1978/1979,Grimsby Town,Huddersfield Town,2-1,2,1,Football League Fourth Division,4,H
+1979-02-03,1978/1979,Hereford United,York City,1-0,1,0,Football League Fourth Division,4,H
+1979-02-03,1978/1979,Torquay United,Reading,1-1,1,1,Football League Fourth Division,4,D
+1979-02-03,1978/1979,Wimbledon,Rochdale,3-2,3,2,Football League Fourth Division,4,H
+1979-02-03,1978/1979,Aldershot,Scunthorpe United,2-0,2,0,Football League Fourth Division,4,H
+1979-02-03,1978/1979,Sunderland,Burnley,3-1,3,1,Football League Second Division,2,H
+1979-02-03,1978/1979,Brighton & Hove Albion,Leicester City,3-1,3,1,Football League Second Division,2,H
+1979-02-03,1978/1979,Leyton Orient,Newcastle United,2-0,2,0,Football League Second Division,2,H
+1979-02-03,1978/1979,Cambridge United,Luton Town,0-0,0,0,Football League Second Division,2,D
+1979-02-03,1978/1979,Notts County,Charlton Athletic,1-1,1,1,Football League Second Division,2,D
+1979-02-03,1978/1979,Hull City,Shrewsbury Town,1-1,1,1,Football League Third Division,3,D
+1979-02-03,1978/1979,Peterborough United,Walsall,0-3,0,3,Football League Third Division,3,A
+1979-02-03,1978/1979,Plymouth Argyle,Tranmere Rovers,2-2,2,2,Football League Third Division,3,D
+1979-02-03,1978/1979,Swindon Town,Chester,2-0,2,0,Football League Third Division,3,H
+1979-02-03,1978/1979,Watford,Rotherham United,2-2,2,2,Football League Third Division,3,D
+1979-02-03,1978/1979,Gillingham,Blackpool,2-0,2,0,Football League Third Division,3,H
+1979-02-06,1978/1979,AFC Bournemouth,Port Vale,3-1,3,1,Football League Fourth Division,4,H
+1979-02-06,1978/1979,Aldershot,Reading,2-2,2,2,Football League Fourth Division,4,D
+1979-02-06,1978/1979,Crewe Alexandra,Hereford United,0-0,0,0,Football League Fourth Division,4,D
+1979-02-06,1978/1979,Sheffield United,Fulham,1-1,1,1,Football League Second Division,2,D
+1979-02-06,1978/1979,Luton Town,Stoke City,0-0,0,0,Football League Second Division,2,D
+1979-02-06,1978/1979,Walsall,Blackpool,2-1,2,1,Football League Third Division,3,H
+1979-02-06,1978/1979,Rotherham United,Southend United,2-1,2,1,Football League Third Division,3,H
+1979-02-09,1978/1979,Shrewsbury Town,Southend United,2-0,2,0,Football League Third Division,3,H
+1979-02-10,1978/1979,Queens Park Rangers,Wolverhampton Wanderers,3-3,3,3,Football League First Division,1,D
+1979-02-10,1978/1979,Manchester City,Manchester United,0-3,0,3,Football League First Division,1,A
+1979-02-10,1978/1979,Ipswich Town,Southampton,0-0,0,0,Football League First Division,1,D
+1979-02-10,1978/1979,Everton,Bristol City,4-1,4,1,Football League First Division,1,H
+1979-02-10,1978/1979,Derby County,Norwich City,1-1,1,1,Football League First Division,1,D
+1979-02-10,1978/1979,Coventry City,Tottenham Hotspur,1-3,1,3,Football League First Division,1,A
+1979-02-10,1978/1979,Birmingham City,Leeds United,0-1,0,1,Football League First Division,1,A
+1979-02-10,1978/1979,Arsenal,Middlesbrough,0-0,0,0,Football League First Division,1,D
+1979-02-10,1978/1979,Crewe Alexandra,Halifax Town,1-0,1,0,Football League Fourth Division,4,H
+1979-02-10,1978/1979,Doncaster Rovers,Northampton Town,2-0,2,0,Football League Fourth Division,4,H
+1979-02-10,1978/1979,Hartlepool United,Torquay United,3-2,3,2,Football League Fourth Division,4,H
+1979-02-10,1978/1979,Portsmouth,AFC Bournemouth,1-1,1,1,Football League Fourth Division,4,D
+1979-02-10,1978/1979,Reading,Barnsley,1-0,1,0,Football League Fourth Division,4,H
+1979-02-10,1978/1979,West Ham United,Sunderland,3-3,3,3,Football League Second Division,2,D
+1979-02-10,1978/1979,Preston North End,Brighton & Hove Albion,1-0,1,0,Football League Second Division,2,H
+1979-02-10,1978/1979,Leicester City,Leyton Orient,5-3,5,3,Football League Second Division,2,H
+1979-02-10,1978/1979,Fulham,Oldham Athletic,1-0,1,0,Football League Second Division,2,H
+1979-02-10,1978/1979,Crystal Palace,Stoke City,1-1,1,1,Football League Second Division,2,D
+1979-02-10,1978/1979,Charlton Athletic,Blackburn Rovers,2-0,2,0,Football League Second Division,2,H
+1979-02-10,1978/1979,Bristol Rovers,Cambridge United,2-0,2,0,Football League Second Division,2,H
+1979-02-10,1978/1979,Luton Town,Sheffield United,1-1,1,1,Football League Second Division,2,D
+1979-02-10,1978/1979,Blackpool,Colchester United,2-1,2,1,Football League Third Division,3,H
+1979-02-10,1978/1979,Brentford,Swansea City,1-0,1,0,Football League Third Division,3,H
+1979-02-10,1978/1979,Carlisle United,Mansfield Town,1-0,1,0,Football League Third Division,3,H
+1979-02-10,1978/1979,Exeter City,Peterborough United,1-0,1,0,Football League Third Division,3,H
+1979-02-10,1978/1979,Oxford United,Hull City,1-0,1,0,Football League Third Division,3,H
+1979-02-10,1978/1979,Tranmere Rovers,Watford,1-1,1,1,Football League Third Division,3,D
+1979-02-10,1978/1979,Rotherham United,Plymouth Argyle,1-0,1,0,Football League Third Division,3,H
+1979-02-10,1978/1979,Chester,Bury,1-1,1,1,Football League Third Division,3,D
+1979-02-13,1978/1979,Liverpool,Birmingham City,1-0,1,0,Football League First Division,1,H
+1979-02-13,1978/1979,Queens Park Rangers,Arsenal,1-2,1,2,Football League First Division,1,A
+1979-02-13,1978/1979,Crewe Alexandra,Doncaster Rovers,2-4,2,4,Football League Fourth Division,4,A
+1979-02-13,1978/1979,Southend United,Sheffield Wednesday,2-1,2,1,Football League Third Division,3,H
+1979-02-13,1978/1979,Carlisle United,Bury,1-2,1,2,Football League Third Division,3,A
+1979-02-14,1978/1979,Torquay United,Bradford City,1-2,1,2,Football League Fourth Division,4,A
+1979-02-14,1978/1979,Wigan Athletic,Wimbledon,1-2,1,2,Football League Fourth Division,4,A
+1979-02-16,1978/1979,Tranmere Rovers,Oxford United,1-0,1,0,Football League Third Division,3,H
+1979-02-17,1978/1979,Southampton,Everton,3-0,3,0,Football League First Division,1,H
+1979-02-17,1978/1979,Wigan Athletic,Huddersfield Town,2-1,2,1,Football League Fourth Division,4,H
+1979-02-17,1978/1979,Brighton & Hove Albion,Crystal Palace,0-0,0,0,Football League Second Division,2,D
+1979-02-17,1978/1979,Plymouth Argyle,Carlisle United,2-0,2,0,Football League Third Division,3,H
+1979-02-19,1978/1979,Tranmere Rovers,Sheffield Wednesday,1-1,1,1,Football League Third Division,3,D
+1979-02-20,1978/1979,Southampton,Bristol City,2-0,2,0,Football League First Division,1,H
+1979-02-20,1978/1979,Portsmouth,Newport County,2-1,2,1,Football League Fourth Division,4,H
+1979-02-20,1978/1979,Torquay United,Crewe Alexandra,3-0,3,0,Football League Fourth Division,4,H
+1979-02-20,1978/1979,Walsall,Swansea City,1-1,1,1,Football League Third Division,3,D
+1979-02-20,1978/1979,Blackpool,Hull City,3-1,3,1,Football League Third Division,3,H
+1979-02-20,1978/1979,Plymouth Argyle,Oxford United,0-1,0,1,Football League Third Division,3,A
+1979-02-21,1978/1979,Chelsea,Coventry City,1-3,1,3,Football League First Division,1,A
+1979-02-21,1978/1979,Liverpool,Norwich City,6-0,6,0,Football League First Division,1,H
+1979-02-21,1978/1979,AFC Bournemouth,Northampton Town,0-0,0,0,Football League Fourth Division,4,D
+1979-02-21,1978/1979,Reading,Hereford United,3-0,3,0,Football League Fourth Division,4,H
+1979-02-21,1978/1979,Stockport County,Doncaster Rovers,0-1,0,1,Football League Fourth Division,4,A
+1979-02-21,1978/1979,Chester,Gillingham,1-1,1,1,Football League Third Division,3,D
+1979-02-23,1978/1979,Crewe Alexandra,Darlington,1-1,1,1,Football League Fourth Division,4,D
+1979-02-24,1978/1979,Arsenal,Wolverhampton Wanderers,0-1,0,1,Football League First Division,1,A
+1979-02-24,1978/1979,Birmingham City,Tottenham Hotspur,1-0,1,0,Football League First Division,1,H
+1979-02-24,1978/1979,Bolton Wanderers,Chelsea,2-1,2,1,Football League First Division,1,H
+1979-02-24,1978/1979,Coventry City,Manchester City,0-3,0,3,Football League First Division,1,A
+1979-02-24,1978/1979,Derby County,Liverpool,0-2,0,2,Football League First Division,1,A
+1979-02-24,1978/1979,Everton,Ipswich Town,0-1,0,1,Football League First Division,1,A
+1979-02-24,1978/1979,Norwich City,Middlesbrough,1-0,1,0,Football League First Division,1,H
+1979-02-24,1978/1979,Nottingham Forest,Bristol City,2-0,2,0,Football League First Division,1,H
+1979-02-24,1978/1979,Manchester United,Aston Villa,1-1,1,1,Football League First Division,1,D
+1979-02-24,1978/1979,West Bromwich Albion,Leeds United,1-2,1,2,Football League First Division,1,A
+1979-02-24,1978/1979,Queens Park Rangers,Southampton,0-1,0,1,Football League First Division,1,A
+1979-02-24,1978/1979,Hartlepool United,Aldershot,2-2,2,2,Football League Fourth Division,4,D
+1979-02-24,1978/1979,AFC Bournemouth,Hereford United,1-1,1,1,Football League Fourth Division,4,D
+1979-02-24,1978/1979,Barnsley,Stockport County,4-4,4,4,Football League Fourth Division,4,D
+1979-02-24,1978/1979,Doncaster Rovers,Wigan Athletic,0-1,0,1,Football League Fourth Division,4,A
+1979-02-24,1978/1979,Port Vale,Halifax Town,0-1,0,1,Football League Fourth Division,4,A
+1979-02-24,1978/1979,Portsmouth,Grimsby Town,1-3,1,3,Football League Fourth Division,4,A
+1979-02-24,1978/1979,Reading,Northampton Town,5-1,5,1,Football League Fourth Division,4,H
+1979-02-24,1978/1979,York City,Bradford City,2-2,2,2,Football League Fourth Division,4,D
+1979-02-24,1978/1979,Huddersfield Town,Newport County,0-1,0,1,Football League Fourth Division,4,A
+1979-02-24,1978/1979,West Ham United,Oldham Athletic,3-0,3,0,Football League Second Division,2,H
+1979-02-24,1978/1979,Newcastle United,Sunderland,1-4,1,4,Football League Second Division,2,A
+1979-02-24,1978/1979,Sheffield United,Millwall,0-2,0,2,Football League Second Division,2,A
+1979-02-24,1978/1979,Luton Town,Blackburn Rovers,2-1,2,1,Football League Second Division,2,H
+1979-02-24,1978/1979,Crystal Palace,Preston North End,0-0,0,0,Football League Second Division,2,D
+1979-02-24,1978/1979,Charlton Athletic,Leicester City,1-0,1,0,Football League Second Division,2,H
+1979-02-24,1978/1979,Fulham,Brighton & Hove Albion,0-1,0,1,Football League Second Division,2,A
+1979-02-24,1978/1979,Cambridge United,Wrexham,1-0,1,0,Football League Second Division,2,H
+1979-02-24,1978/1979,Burnley,Stoke City,0-3,0,3,Football League Second Division,2,A
+1979-02-24,1978/1979,Bristol Rovers,Notts County,2-2,2,2,Football League Second Division,2,D
+1979-02-24,1978/1979,Cardiff City,Leyton Orient,1-0,1,0,Football League Second Division,2,H
+1979-02-24,1978/1979,Carlisle United,Sheffield Wednesday,0-0,0,0,Football League Third Division,3,D
+1979-02-24,1978/1979,Chester,Tranmere Rovers,1-1,1,1,Football League Third Division,3,D
+1979-02-24,1978/1979,Chesterfield,Bury,2-1,2,1,Football League Third Division,3,H
+1979-02-24,1978/1979,Brentford,Watford,3-3,3,3,Football League Third Division,3,D
+1979-02-24,1978/1979,Exeter City,Swansea City,2-1,2,1,Football League Third Division,3,H
+1979-02-24,1978/1979,Hull City,Gillingham,0-1,0,1,Football League Third Division,3,A
+1979-02-24,1978/1979,Oxford United,Peterborough United,0-2,0,2,Football League Third Division,3,A
+1979-02-24,1978/1979,Rotherham United,Swindon Town,1-3,1,3,Football League Third Division,3,A
+1979-02-24,1978/1979,Shrewsbury Town,Plymouth Argyle,2-0,2,0,Football League Third Division,3,H
+1979-02-24,1978/1979,Blackpool,Southend United,1-2,1,2,Football League Third Division,3,A
+1979-02-24,1978/1979,Walsall,Mansfield Town,1-1,1,1,Football League Third Division,3,D
+1979-02-26,1978/1979,Reading,Hartlepool United,3-1,3,1,Football League Fourth Division,4,H
+1979-02-26,1978/1979,Stockport County,Scunthorpe United,0-2,0,2,Football League Fourth Division,4,A
+1979-02-26,1978/1979,Luton Town,West Ham United,1-4,1,4,Football League Second Division,2,A
+1979-02-27,1978/1979,Manchester City,Norwich City,2-2,2,2,Football League First Division,1,D
+1979-02-27,1978/1979,Darlington,Halifax Town,2-1,2,1,Football League Fourth Division,4,H
+1979-02-27,1978/1979,Grimsby Town,Crewe Alexandra,2-2,2,2,Football League Fourth Division,4,D
+1979-02-27,1978/1979,Doncaster Rovers,Huddersfield Town,0-2,0,2,Football League Fourth Division,4,A
+1979-02-27,1978/1979,Newport County,Bradford City,2-4,2,4,Football League Fourth Division,4,A
+1979-02-27,1978/1979,Swansea City,Chester,2-2,2,2,Football League Third Division,3,D
+1979-02-27,1978/1979,Colchester United,Walsall,2-0,2,0,Football League Third Division,3,H
+1979-02-27,1978/1979,Bury,Tranmere Rovers,1-0,1,0,Football League Third Division,3,H
+1979-02-27,1978/1979,Plymouth Argyle,Exeter City,4-2,4,2,Football League Third Division,3,H
+1979-02-28,1978/1979,Manchester United,Queens Park Rangers,2-0,2,0,Football League First Division,1,H
+1979-02-28,1978/1979,Derby County,Ipswich Town,0-1,0,1,Football League First Division,1,A
+1979-02-28,1978/1979,Torquay United,Wimbledon,1-6,1,6,Football League Fourth Division,4,A
+1979-02-28,1978/1979,Hereford United,Barnsley,1-1,1,1,Football League Fourth Division,4,D
+1979-02-28,1978/1979,Wigan Athletic,York City,1-1,1,1,Football League Fourth Division,4,D
+1979-02-28,1978/1979,Wrexham,Sheffield United,4-0,4,0,Football League Second Division,2,H
+1979-02-28,1978/1979,Blackburn Rovers,Cardiff City,1-4,1,4,Football League Second Division,2,A
+1979-02-28,1978/1979,Stoke City,Preston North End,1-1,1,1,Football League Second Division,2,D
+1979-02-28,1978/1979,Chesterfield,Swindon Town,1-1,1,1,Football League Third Division,3,D
+1979-03-02,1978/1979,Stockport County,Northampton Town,2-1,2,1,Football League Fourth Division,4,H
+1979-03-02,1978/1979,Southend United,Colchester United,1-1,1,1,Football League Third Division,3,D
+1979-03-02,1978/1979,Swansea City,Hull City,5-3,5,3,Football League Third Division,3,H
+1979-03-03,1978/1979,Aston Villa,Birmingham City,1-0,1,0,Football League First Division,1,H
+1979-03-03,1978/1979,Bristol City,Manchester United,1-2,1,2,Football League First Division,1,A
+1979-03-03,1978/1979,Chelsea,Liverpool,0-0,0,0,Football League First Division,1,D
+1979-03-03,1978/1979,Coventry City,West Bromwich Albion,1-3,1,3,Football League First Division,1,A
+1979-03-03,1978/1979,Everton,Queens Park Rangers,2-1,2,1,Football League First Division,1,H
+1979-03-03,1978/1979,Ipswich Town,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1979-03-03,1978/1979,Leeds United,Norwich City,2-2,2,2,Football League First Division,1,D
+1979-03-03,1978/1979,Manchester City,Bolton Wanderers,2-1,2,1,Football League First Division,1,H
+1979-03-03,1978/1979,Southampton,Arsenal,2-0,2,0,Football League First Division,1,H
+1979-03-03,1978/1979,Wolverhampton Wanderers,Middlesbrough,1-3,1,3,Football League First Division,1,A
+1979-03-03,1978/1979,Tottenham Hotspur,Derby County,2-0,2,0,Football League First Division,1,H
+1979-03-03,1978/1979,Aldershot,Hereford United,2-0,2,0,Football League Fourth Division,4,H
+1979-03-03,1978/1979,Wimbledon,Huddersfield Town,2-1,2,1,Football League Fourth Division,4,H
+1979-03-03,1978/1979,Darlington,Rochdale,0-2,0,2,Football League Fourth Division,4,A
+1979-03-03,1978/1979,Halifax Town,Portsmouth,2-0,2,0,Football League Fourth Division,4,H
+1979-03-03,1978/1979,Hartlepool United,Crewe Alexandra,2-2,2,2,Football League Fourth Division,4,D
+1979-03-03,1978/1979,Newport County,Doncaster Rovers,3-0,3,0,Football League Fourth Division,4,H
+1979-03-03,1978/1979,Torquay United,Port Vale,2-2,2,2,Football League Fourth Division,4,D
+1979-03-03,1978/1979,Wigan Athletic,Barnsley,1-1,1,1,Football League Fourth Division,4,D
+1979-03-03,1978/1979,York City,Reading,0-1,0,1,Football League Fourth Division,4,A
+1979-03-03,1978/1979,Bradford City,Scunthorpe United,1-1,1,1,Football League Fourth Division,4,D
+1979-03-03,1978/1979,Grimsby Town,AFC Bournemouth,1-0,1,0,Football League Fourth Division,4,H
+1979-03-03,1978/1979,Preston North End,Fulham,2-2,2,2,Football League Second Division,2,D
+1979-03-03,1978/1979,Stoke City,West Ham United,2-0,2,0,Football League Second Division,2,H
+1979-03-03,1978/1979,Notts County,Luton Town,3-1,3,1,Football League Second Division,2,H
+1979-03-03,1978/1979,Newcastle United,Charlton Athletic,5-3,5,3,Football League Second Division,2,H
+1979-03-03,1978/1979,Millwall,Sunderland,0-1,0,1,Football League Second Division,2,A
+1979-03-03,1978/1979,Leyton Orient,Bristol Rovers,1-1,1,1,Football League Second Division,2,D
+1979-03-03,1978/1979,Oldham Athletic,Sheffield United,1-1,1,1,Football League Second Division,2,D
+1979-03-03,1978/1979,Crystal Palace,Wrexham,1-0,1,0,Football League Second Division,2,H
+1979-03-03,1978/1979,Brighton & Hove Albion,Burnley,2-1,2,1,Football League Second Division,2,H
+1979-03-03,1978/1979,Leicester City,Cardiff City,1-2,1,2,Football League Second Division,2,A
+1979-03-03,1978/1979,Watford,Chesterfield,2-0,2,0,Football League Third Division,3,H
+1979-03-03,1978/1979,Mansfield Town,Blackpool,1-1,1,1,Football League Third Division,3,D
+1979-03-03,1978/1979,Gillingham,Peterborough United,1-0,1,0,Football League Third Division,3,H
+1979-03-03,1978/1979,Plymouth Argyle,Walsall,1-0,1,0,Football League Third Division,3,H
+1979-03-03,1978/1979,Rotherham United,Carlisle United,1-3,1,3,Football League Third Division,3,A
+1979-03-03,1978/1979,Sheffield Wednesday,Shrewsbury Town,0-0,0,0,Football League Third Division,3,D
+1979-03-03,1978/1979,Swindon Town,Lincoln City,6-0,6,0,Football League Third Division,3,H
+1979-03-03,1978/1979,Tranmere Rovers,Brentford,0-1,0,1,Football League Third Division,3,A
+1979-03-03,1978/1979,Chester,Oxford United,4-1,4,1,Football League Third Division,3,H
+1979-03-03,1978/1979,Bury,Exeter City,4-2,4,2,Football League Third Division,3,H
+1979-03-05,1978/1979,Stockport County,Crewe Alexandra,4-3,4,3,Football League Fourth Division,4,H
+1979-03-06,1978/1979,Middlesbrough,Everton,1-2,1,2,Football League First Division,1,A
+1979-03-06,1978/1979,Coventry City,Liverpool,0-0,0,0,Football League First Division,1,D
+1979-03-06,1978/1979,Birmingham City,Queens Park Rangers,3-1,3,1,Football League First Division,1,H
+1979-03-06,1978/1979,Wimbledon,Newport County,0-0,0,0,Football League Fourth Division,4,D
+1979-03-06,1978/1979,Northampton Town,Huddersfield Town,2-3,2,3,Football League Fourth Division,4,A
+1979-03-06,1978/1979,Halifax Town,Doncaster Rovers,0-0,0,0,Football League Fourth Division,4,D
+1979-03-06,1978/1979,Darlington,York City,0-1,0,1,Football League Fourth Division,4,A
+1979-03-06,1978/1979,Barnsley,AFC Bournemouth,1-0,1,0,Football League Fourth Division,4,H
+1979-03-06,1978/1979,Charlton Athletic,Cambridge United,2-3,2,3,Football League Second Division,2,A
+1979-03-06,1978/1979,Oldham Athletic,Brighton & Hove Albion,1-3,1,3,Football League Second Division,2,A
+1979-03-06,1978/1979,Burnley,Sheffield United,1-1,1,1,Football League Second Division,2,D
+1979-03-06,1978/1979,Rotherham United,Swansea City,0-1,0,1,Football League Third Division,3,A
+1979-03-06,1978/1979,Sheffield Wednesday,Gillingham,2-1,2,1,Football League Third Division,3,H
+1979-03-06,1978/1979,Hull City,Brentford,1-0,1,0,Football League Third Division,3,H
+1979-03-06,1978/1979,Bury,Blackpool,1-3,1,3,Football League Third Division,3,A
+1979-03-06,1978/1979,Carlisle United,Tranmere Rovers,2-0,2,0,Football League Third Division,3,H
+1979-03-07,1978/1979,Aston Villa,Bolton Wanderers,3-0,3,0,Football League First Division,1,H
+1979-03-07,1978/1979,Norwich City,Wolverhampton Wanderers,0-0,0,0,Football League First Division,1,D
+1979-03-07,1978/1979,Hereford United,Hartlepool United,1-0,1,0,Football League Fourth Division,4,H
+1979-03-07,1978/1979,Bradford City,Aldershot,0-2,0,2,Football League Fourth Division,4,A
+1979-03-07,1978/1979,Sunderland,Wrexham,1-0,1,0,Football League Second Division,2,H
+1979-03-07,1978/1979,Oxford United,Southend United,0-0,0,0,Football League Third Division,3,D
+1979-03-07,1978/1979,Chesterfield,Shrewsbury Town,2-1,2,1,Football League Third Division,3,H
+1979-03-07,1978/1979,Chester,Lincoln City,5-1,5,1,Football League Third Division,3,H
+1979-03-09,1978/1979,Doncaster Rovers,Wimbledon,1-0,1,0,Football League Fourth Division,4,H
+1979-03-09,1978/1979,Stockport County,Reading,0-0,0,0,Football League Fourth Division,4,D
+1979-03-09,1978/1979,Colchester United,Mansfield Town,1-0,1,0,Football League Third Division,3,H
+1979-03-10,1978/1979,Arsenal,Bristol City,2-0,2,0,Football League First Division,1,H
+1979-03-10,1978/1979,Birmingham City,Coventry City,0-0,0,0,Football League First Division,1,D
+1979-03-10,1978/1979,Derby County,Leeds United,0-1,0,1,Football League First Division,1,A
+1979-03-10,1978/1979,Everton,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1979-03-10,1978/1979,Norwich City,Chelsea,2-0,2,0,Football League First Division,1,H
+1979-03-10,1978/1979,Middlesbrough,Aston Villa,2-0,2,0,Football League First Division,1,H
+1979-03-10,1978/1979,Scunthorpe United,York City,2-3,2,3,Football League Fourth Division,4,A
+1979-03-10,1978/1979,AFC Bournemouth,Halifax Town,1-0,1,0,Football League Fourth Division,4,H
+1979-03-10,1978/1979,Hereford United,Grimsby Town,0-1,0,1,Football League Fourth Division,4,A
+1979-03-10,1978/1979,Barnsley,Newport County,1-0,1,0,Football League Fourth Division,4,H
+1979-03-10,1978/1979,Huddersfield Town,Bradford City,0-0,0,0,Football League Fourth Division,4,D
+1979-03-10,1978/1979,Northampton Town,Wigan Athletic,2-4,2,4,Football League Fourth Division,4,A
+1979-03-10,1978/1979,Port Vale,Darlington,2-1,2,1,Football League Fourth Division,4,H
+1979-03-10,1978/1979,Portsmouth,Torquay United,1-0,1,0,Football League Fourth Division,4,H
+1979-03-10,1978/1979,Rochdale,Hartlepool United,1-1,1,1,Football League Fourth Division,4,D
+1979-03-10,1978/1979,Aldershot,Crewe Alexandra,3-0,3,0,Football League Fourth Division,4,H
+1979-03-10,1978/1979,Charlton Athletic,Millwall,2-4,2,4,Football League Second Division,2,A
+1979-03-10,1978/1979,Bristol Rovers,Leicester City,1-1,1,1,Football League Second Division,2,D
+1979-03-10,1978/1979,Burnley,Preston North End,1-1,1,1,Football League Second Division,2,D
+1979-03-10,1978/1979,Cardiff City,Newcastle United,2-1,2,1,Football League Second Division,2,H
+1979-03-10,1978/1979,Fulham,Crystal Palace,0-0,0,0,Football League Second Division,2,D
+1979-03-10,1978/1979,Cambridge United,Notts County,0-1,0,1,Football League Second Division,2,A
+1979-03-10,1978/1979,Luton Town,Leyton Orient,2-1,2,1,Football League Second Division,2,H
+1979-03-10,1978/1979,Sheffield United,Stoke City,0-0,0,0,Football League Second Division,2,D
+1979-03-10,1978/1979,Sunderland,Oldham Athletic,3-0,3,0,Football League Second Division,2,H
+1979-03-10,1978/1979,West Ham United,Brighton & Hove Albion,0-0,0,0,Football League Second Division,2,D
+1979-03-10,1978/1979,Wrexham,Blackburn Rovers,2-1,2,1,Football League Second Division,2,H
+1979-03-10,1978/1979,Gillingham,Oxford United,2-1,2,1,Football League Third Division,3,H
+1979-03-10,1978/1979,Hull City,Bury,4-1,4,1,Football League Third Division,3,H
+1979-03-10,1978/1979,Lincoln City,Southend United,1-1,1,1,Football League Third Division,3,D
+1979-03-10,1978/1979,Peterborough United,Swansea City,2-0,2,0,Football League Third Division,3,H
+1979-03-10,1978/1979,Swindon Town,Carlisle United,0-0,0,0,Football League Third Division,3,D
+1979-03-10,1978/1979,Walsall,Sheffield Wednesday,0-2,0,2,Football League Third Division,3,A
+1979-03-10,1978/1979,Exeter City,Watford,0-0,0,0,Football League Third Division,3,D
+1979-03-10,1978/1979,Chesterfield,Tranmere Rovers,5-2,5,2,Football League Third Division,3,H
+1979-03-10,1978/1979,Blackpool,Plymouth Argyle,0-0,0,0,Football League Third Division,3,D
+1979-03-10,1978/1979,Brentford,Chester,6-0,6,0,Football League Third Division,3,H
+1979-03-12,1978/1979,Southend United,Carlisle United,1-1,1,1,Football League Third Division,3,D
+1979-03-12,1978/1979,Mansfield Town,Plymouth Argyle,5-0,5,0,Football League Third Division,3,H
+1979-03-13,1978/1979,Middlesbrough,Derby County,3-1,3,1,Football League First Division,1,H
+1979-03-13,1978/1979,Liverpool,Everton,1-1,1,1,Football League First Division,1,D
+1979-03-13,1978/1979,Ipswich Town,Coventry City,1-1,1,1,Football League First Division,1,D
+1979-03-13,1978/1979,Bradford City,Reading,2-3,2,3,Football League Fourth Division,4,A
+1979-03-13,1978/1979,York City,Halifax Town,2-0,2,0,Football League Fourth Division,4,H
+1979-03-13,1978/1979,Rochdale,Grimsby Town,2-5,2,5,Football League Fourth Division,4,A
+1979-03-13,1978/1979,Northampton Town,Port Vale,1-0,1,0,Football League Fourth Division,4,H
+1979-03-13,1978/1979,Huddersfield Town,AFC Bournemouth,2-1,2,1,Football League Fourth Division,4,H
+1979-03-13,1978/1979,Hartlepool United,Stockport County,1-3,1,3,Football League Fourth Division,4,A
+1979-03-13,1978/1979,Crewe Alexandra,Newport County,0-1,0,1,Football League Fourth Division,4,A
+1979-03-13,1978/1979,Barnsley,Scunthorpe United,4-1,4,1,Football League Fourth Division,4,H
+1979-03-13,1978/1979,Notts County,Sheffield United,4-1,4,1,Football League Second Division,2,H
+1979-03-13,1978/1979,Burnley,Luton Town,2-1,2,1,Football League Second Division,2,H
+1979-03-13,1978/1979,Sheffield Wednesday,Brentford,1-0,1,0,Football League Third Division,3,H
+1979-03-13,1978/1979,Hull City,Colchester United,1-0,1,0,Football League Third Division,3,H
+1979-03-13,1978/1979,Walsall,Lincoln City,4-1,4,1,Football League Third Division,3,H
+1979-03-14,1978/1979,West Bromwich Albion,Chelsea,1-0,1,0,Football League First Division,1,H
+1979-03-14,1978/1979,Nottingham Forest,Norwich City,2-1,2,1,Football League First Division,1,H
+1979-03-14,1978/1979,Wigan Athletic,Torquay United,3-1,3,1,Football League Fourth Division,4,H
+1979-03-14,1978/1979,Sunderland,Crystal Palace,1-2,1,2,Football League Second Division,2,A
+1979-03-14,1978/1979,Stoke City,Leyton Orient,3-1,3,1,Football League Second Division,2,H
+1979-03-14,1978/1979,Blackburn Rovers,Oldham Athletic,0-2,0,2,Football League Second Division,2,A
+1979-03-14,1978/1979,Chesterfield,Blackpool,1-3,1,3,Football League Third Division,3,A
+1979-03-14,1978/1979,Chester,Rotherham United,0-1,0,1,Football League Third Division,3,A
+1979-03-16,1978/1979,Newport County,Northampton Town,2-1,2,1,Football League Fourth Division,4,H
+1979-03-16,1978/1979,Reading,Scunthorpe United,0-1,0,1,Football League Fourth Division,4,A
+1979-03-16,1978/1979,Southend United,Swindon Town,5-3,5,3,Football League Third Division,3,H
+1979-03-16,1978/1979,Swansea City,Gillingham,3-1,3,1,Football League Third Division,3,H
+1979-03-16,1978/1979,Tranmere Rovers,Exeter City,2-2,2,2,Football League Third Division,3,D
+1979-03-17,1978/1979,Tottenham Hotspur,Norwich City,0-0,0,0,Football League First Division,1,D
+1979-03-17,1978/1979,Ipswich Town,Arsenal,2-0,2,0,Football League First Division,1,H
+1979-03-17,1978/1979,Coventry City,Bolton Wanderers,2-2,2,2,Football League First Division,1,D
+1979-03-17,1978/1979,Chelsea,Queens Park Rangers,1-3,1,3,Football League First Division,1,A
+1979-03-17,1978/1979,Bristol City,Middlesbrough,1-1,1,1,Football League First Division,1,D
+1979-03-17,1978/1979,Wigan Athletic,Stockport County,2-0,2,0,Football League Fourth Division,4,H
+1979-03-17,1978/1979,Torquay United,AFC Bournemouth,0-1,0,1,Football League Fourth Division,4,A
+1979-03-17,1978/1979,Grimsby Town,Aldershot,0-0,0,0,Football League Fourth Division,4,D
+1979-03-17,1978/1979,Preston North End,West Ham United,0-0,0,0,Football League Second Division,2,D
+1979-03-17,1978/1979,Leyton Orient,Cambridge United,3-0,3,0,Football League Second Division,2,H
+1979-03-17,1978/1979,Leicester City,Newcastle United,2-1,2,1,Football League Second Division,2,H
+1979-03-17,1978/1979,Charlton Athletic,Cardiff City,1-1,1,1,Football League Second Division,2,D
+1979-03-17,1978/1979,Brighton & Hove Albion,Sheffield United,2-0,2,0,Football League Second Division,2,H
+1979-03-17,1978/1979,Plymouth Argyle,Colchester United,1-1,1,1,Football League Third Division,3,D
+1979-03-17,1978/1979,Carlisle United,Shrewsbury Town,1-1,1,1,Football League Third Division,3,D
+1979-03-19,1978/1979,Rochdale,Wigan Athletic,0-2,0,2,Football League Fourth Division,4,A
+1979-03-20,1978/1979,Liverpool,Wolverhampton Wanderers,2-0,2,0,Football League First Division,1,H
+1979-03-20,1978/1979,Coventry City,Manchester United,4-3,4,3,Football League First Division,1,H
+1979-03-20,1978/1979,Aston Villa,Queens Park Rangers,3-1,3,1,Football League First Division,1,H
+1979-03-20,1978/1979,York City,Newport County,1-2,1,2,Football League Fourth Division,4,A
+1979-03-20,1978/1979,Wimbledon,Grimsby Town,0-1,0,1,Football League Fourth Division,4,A
+1979-03-20,1978/1979,Scunthorpe United,Northampton Town,0-3,0,3,Football League Fourth Division,4,A
+1979-03-20,1978/1979,Doncaster Rovers,Reading,2-2,2,2,Football League Fourth Division,4,D
+1979-03-20,1978/1979,Aldershot,AFC Bournemouth,1-0,1,0,Football League Fourth Division,4,H
+1979-03-20,1978/1979,Preston North End,Oldham Athletic,1-1,1,1,Football League Second Division,2,D
+1979-03-20,1978/1979,Leyton Orient,Charlton Athletic,2-1,2,1,Football League Second Division,2,H
+1979-03-20,1978/1979,Cambridge United,Millwall,2-1,2,1,Football League Second Division,2,H
+1979-03-20,1978/1979,Bristol Rovers,Brighton & Hove Albion,1-2,1,2,Football League Second Division,2,A
+1979-03-20,1978/1979,Walsall,Gillingham,0-1,0,1,Football League Third Division,3,A
+1979-03-20,1978/1979,Swansea City,Watford,3-2,3,2,Football League Third Division,3,H
+1979-03-20,1978/1979,Carlisle United,Peterborough United,4-1,4,1,Football League Third Division,3,H
+1979-03-20,1978/1979,Swindon Town,Colchester United,1-2,1,2,Football League Third Division,3,A
+1979-03-20,1978/1979,Blackpool,Shrewsbury Town,5-0,5,0,Football League Third Division,3,H
+1979-03-20,1978/1979,Bury,Oxford United,1-1,1,1,Football League Third Division,3,D
+1979-03-21,1978/1979,Derby County,Bolton Wanderers,3-0,3,0,Football League First Division,1,H
+1979-03-21,1978/1979,Port Vale,Portsmouth,0-0,0,0,Football League Fourth Division,4,D
+1979-03-21,1978/1979,Hereford United,Rochdale,2-2,2,2,Football League Fourth Division,4,D
+1979-03-21,1978/1979,Leicester City,Fulham,1-0,1,0,Football League Second Division,2,H
+1979-03-21,1978/1979,Wrexham,Burnley,0-1,0,1,Football League Second Division,2,A
+1979-03-21,1978/1979,Chester,Southend United,0-1,0,1,Football League Third Division,3,A
+1979-03-21,1978/1979,Lincoln City,Brentford,1-0,1,0,Football League Third Division,3,H
+1979-03-23,1978/1979,Doncaster Rovers,Hartlepool United,0-0,0,0,Football League Fourth Division,4,D
+1979-03-23,1978/1979,Stockport County,Halifax Town,1-2,1,2,Football League Fourth Division,4,A
+1979-03-24,1978/1979,Bolton Wanderers,Southampton,2-0,2,0,Football League First Division,1,H
+1979-03-24,1978/1979,Arsenal,Manchester City,1-1,1,1,Football League First Division,1,D
+1979-03-24,1978/1979,Aston Villa,Tottenham Hotspur,2-3,2,3,Football League First Division,1,A
+1979-03-24,1978/1979,Chelsea,Wolverhampton Wanderers,1-2,1,2,Football League First Division,1,A
+1979-03-24,1978/1979,Liverpool,Ipswich Town,2-0,2,0,Football League First Division,1,H
+1979-03-24,1978/1979,Manchester United,Leeds United,4-1,4,1,Football League First Division,1,H
+1979-03-24,1978/1979,Middlesbrough,Birmingham City,2-1,2,1,Football League First Division,1,H
+1979-03-24,1978/1979,Norwich City,Bristol City,3-0,3,0,Football League First Division,1,H
+1979-03-24,1978/1979,Nottingham Forest,Coventry City,3-0,3,0,Football League First Division,1,H
+1979-03-24,1978/1979,Derby County,Everton,0-0,0,0,Football League First Division,1,D
+1979-03-24,1978/1979,West Bromwich Albion,Queens Park Rangers,2-1,2,1,Football League First Division,1,H
+1979-03-24,1978/1979,Port Vale,Wimbledon,1-0,1,0,Football League Fourth Division,4,H
+1979-03-24,1978/1979,Aldershot,Newport County,2-3,2,3,Football League Fourth Division,4,A
+1979-03-24,1978/1979,Barnsley,Crewe Alexandra,3-1,3,1,Football League Fourth Division,4,H
+1979-03-24,1978/1979,Grimsby Town,Wigan Athletic,3-1,3,1,Football League Fourth Division,4,H
+1979-03-24,1978/1979,Hereford United,Bradford City,3-1,3,1,Football League Fourth Division,4,H
+1979-03-24,1978/1979,Huddersfield Town,Darlington,2-2,2,2,Football League Fourth Division,4,D
+1979-03-24,1978/1979,Northampton Town,Torquay United,1-2,1,2,Football League Fourth Division,4,A
+1979-03-24,1978/1979,Rochdale,Reading,1-0,1,0,Football League Fourth Division,4,H
+1979-03-24,1978/1979,Portsmouth,York City,1-1,1,1,Football League Fourth Division,4,D
+1979-03-24,1978/1979,AFC Bournemouth,Scunthorpe United,0-0,0,0,Football League Fourth Division,4,D
+1979-03-24,1978/1979,Wrexham,Fulham,1-1,1,1,Football League Second Division,2,D
+1979-03-24,1978/1979,Blackburn Rovers,Preston North End,0-1,0,1,Football League Second Division,2,A
+1979-03-24,1978/1979,Bristol Rovers,Oldham Athletic,0-0,0,0,Football League Second Division,2,D
+1979-03-24,1978/1979,Burnley,Charlton Athletic,2-1,2,1,Football League Second Division,2,H
+1979-03-24,1978/1979,Cambridge United,Brighton & Hove Albion,0-0,0,0,Football League Second Division,2,D
+1979-03-24,1978/1979,Cardiff City,Stoke City,1-3,1,3,Football League Second Division,2,A
+1979-03-24,1978/1979,Luton Town,Crystal Palace,0-1,0,1,Football League Second Division,2,A
+1979-03-24,1978/1979,Millwall,Notts County,0-1,0,1,Football League Second Division,2,A
+1979-03-24,1978/1979,Sunderland,Leyton Orient,1-0,1,0,Football League Second Division,2,H
+1979-03-24,1978/1979,West Ham United,Newcastle United,5-0,5,0,Football League Second Division,2,H
+1979-03-24,1978/1979,Swindon Town,Tranmere Rovers,4-1,4,1,Football League Third Division,3,H
+1979-03-24,1978/1979,Gillingham,Mansfield Town,0-0,0,0,Football League Third Division,3,D
+1979-03-24,1978/1979,Exeter City,Sheffield Wednesday,2-2,2,2,Football League Third Division,3,D
+1979-03-24,1978/1979,Hull City,Rotherham United,1-0,1,0,Football League Third Division,3,H
+1979-03-24,1978/1979,Lincoln City,Swansea City,2-1,2,1,Football League Third Division,3,H
+1979-03-24,1978/1979,Peterborough United,Plymouth Argyle,2-1,2,1,Football League Third Division,3,H
+1979-03-24,1978/1979,Shrewsbury Town,Oxford United,0-0,0,0,Football League Third Division,3,D
+1979-03-24,1978/1979,Southend United,Bury,0-0,0,0,Football League Third Division,3,D
+1979-03-24,1978/1979,Walsall,Chester,2-1,2,1,Football League Third Division,3,H
+1979-03-24,1978/1979,Colchester United,Brentford,1-1,1,1,Football League Third Division,3,D
+1979-03-24,1978/1979,Chesterfield,Carlisle United,2-3,2,3,Football League Third Division,3,A
+1979-03-24,1978/1979,Blackpool,Watford,1-1,1,1,Football League Third Division,3,D
+1979-03-26,1978/1979,West Bromwich Albion,Derby County,2-1,2,1,Football League First Division,1,H
+1979-03-26,1978/1979,Bolton Wanderers,Arsenal,4-2,4,2,Football League First Division,1,H
+1979-03-26,1978/1979,Tranmere Rovers,Lincoln City,0-0,0,0,Football League Third Division,3,D
+1979-03-26,1978/1979,Mansfield Town,Exeter City,1-1,1,1,Football League Third Division,3,D
+1979-03-26,1978/1979,Brentford,Shrewsbury Town,2-3,2,3,Football League Third Division,3,A
+1979-03-27,1978/1979,Wolverhampton Wanderers,Manchester City,1-1,1,1,Football League First Division,1,D
+1979-03-27,1978/1979,Middlesbrough,Manchester United,2-2,2,2,Football League First Division,1,D
+1979-03-27,1978/1979,Birmingham City,Norwich City,1-0,1,0,Football League First Division,1,H
+1979-03-27,1978/1979,Wimbledon,Aldershot,3-1,3,1,Football League Fourth Division,4,H
+1979-03-27,1978/1979,Scunthorpe United,Port Vale,2-0,2,0,Football League Fourth Division,4,H
+1979-03-27,1978/1979,Halifax Town,Barnsley,0-2,0,2,Football League Fourth Division,4,A
+1979-03-27,1978/1979,York City,Rochdale,2-1,2,1,Football League Fourth Division,4,H
+1979-03-27,1978/1979,Darlington,Stockport County,0-1,0,1,Football League Fourth Division,4,A
+1979-03-27,1978/1979,Stoke City,Sunderland,0-1,0,1,Football League Second Division,2,A
+1979-03-27,1978/1979,Notts County,Cardiff City,1-0,1,0,Football League Second Division,2,H
+1979-03-27,1978/1979,Leyton Orient,Fulham,1-0,1,0,Football League Second Division,2,H
+1979-03-27,1978/1979,Charlton Athletic,Crystal Palace,1-1,1,1,Football League Second Division,2,D
+1979-03-27,1978/1979,Sheffield Wednesday,Peterborough United,3-0,3,0,Football League Third Division,3,H
+1979-03-27,1978/1979,Watford,Walsall,3-1,3,1,Football League Third Division,3,H
+1979-03-27,1978/1979,Swansea City,Colchester United,4-1,4,1,Football League Third Division,3,H
+1979-03-27,1978/1979,Rotherham United,Gillingham,1-1,1,1,Football League Third Division,3,D
+1979-03-27,1978/1979,Bury,Swindon Town,0-1,0,1,Football League Third Division,3,A
+1979-03-27,1978/1979,Carlisle United,Hull City,2-2,2,2,Football League Third Division,3,D
+1979-03-28,1978/1979,Tottenham Hotspur,Southampton,0-0,0,0,Football League First Division,1,D
+1979-03-28,1978/1979,Nottingham Forest,Chelsea,6-0,6,0,Football League First Division,1,H
+1979-03-28,1978/1979,Aston Villa,Coventry City,1-1,1,1,Football League First Division,1,D
+1979-03-28,1978/1979,Wigan Athletic,Hereford United,0-0,0,0,Football League Fourth Division,4,D
+1979-03-28,1978/1979,Torquay United,Doncaster Rovers,2-1,2,1,Football League Fourth Division,4,H
+1979-03-28,1978/1979,Reading,Grimsby Town,4-0,4,0,Football League Fourth Division,4,H
+1979-03-28,1978/1979,Crewe Alexandra,Huddersfield Town,3-3,3,3,Football League Fourth Division,4,D
+1979-03-28,1978/1979,Bradford City,Portsmouth,2-0,2,0,Football League Fourth Division,4,H
+1979-03-28,1978/1979,Leicester City,Luton Town,3-0,3,0,Football League Second Division,2,H
+1979-03-28,1978/1979,Blackburn Rovers,Cambridge United,1-0,1,0,Football League Second Division,2,H
+1979-03-28,1978/1979,Oxford United,Blackpool,1-0,1,0,Football League Third Division,3,H
+1979-03-28,1978/1979,Chester,Chesterfield,3-0,3,0,Football League Third Division,3,H
+1979-03-30,1978/1979,Everton,Norwich City,2-2,2,2,Football League First Division,1,D
+1979-03-30,1978/1979,Stockport County,Torquay United,0-1,0,1,Football League Fourth Division,4,A
+1979-03-30,1978/1979,Barnsley,Portsmouth,1-1,1,1,Football League Fourth Division,4,D
+1979-03-30,1978/1979,Tranmere Rovers,Southend United,1-2,1,2,Football League Third Division,3,A
+1979-03-31,1978/1979,Bristol City,Birmingham City,2-1,2,1,Football League First Division,1,H
+1979-03-31,1978/1979,Ipswich Town,Manchester City,2-1,2,1,Football League First Division,1,H
+1979-03-31,1978/1979,Nottingham Forest,Bolton Wanderers,1-1,1,1,Football League First Division,1,D
+1979-03-31,1978/1979,Queens Park Rangers,Derby County,2-2,2,2,Football League First Division,1,D
+1979-03-31,1978/1979,Southampton,Leeds United,2-2,2,2,Football League First Division,1,D
+1979-03-31,1978/1979,Middlesbrough,Tottenham Hotspur,1-0,1,0,Football League First Division,1,H
+1979-03-31,1978/1979,Bradford City,Darlington,0-0,0,0,Football League Fourth Division,4,D
+1979-03-31,1978/1979,Huddersfield Town,Hartlepool United,2-0,2,0,Football League Fourth Division,4,H
+1979-03-31,1978/1979,Newport County,Halifax Town,2-0,2,0,Football League Fourth Division,4,H
+1979-03-31,1978/1979,Northampton Town,Rochdale,1-0,1,0,Football League Fourth Division,4,H
+1979-03-31,1978/1979,Reading,Port Vale,0-0,0,0,Football League Fourth Division,4,D
+1979-03-31,1978/1979,Scunthorpe United,Crewe Alexandra,0-1,0,1,Football League Fourth Division,4,A
+1979-03-31,1978/1979,Wimbledon,Hereford United,2-0,2,0,Football League Fourth Division,4,H
+1979-03-31,1978/1979,York City,Aldershot,1-1,1,1,Football League Fourth Division,4,D
+1979-03-31,1978/1979,Doncaster Rovers,Grimsby Town,0-1,0,1,Football League Fourth Division,4,A
+1979-03-31,1978/1979,Wigan Athletic,AFC Bournemouth,1-0,1,0,Football League Fourth Division,4,H
+1979-03-31,1978/1979,Brighton & Hove Albion,Notts County,0-0,0,0,Football League Second Division,2,D
+1979-03-31,1978/1979,Burnley,Cambridge United,1-1,1,1,Football League Second Division,2,D
+1979-03-31,1978/1979,Fulham,Charlton Athletic,3-1,3,1,Football League Second Division,2,H
+1979-03-31,1978/1979,Oldham Athletic,Newcastle United,1-3,1,3,Football League Second Division,2,A
+1979-03-31,1978/1979,Preston North End,Leyton Orient,1-1,1,1,Football League Second Division,2,D
+1979-03-31,1978/1979,Sheffield United,Bristol Rovers,1-0,1,0,Football League Second Division,2,H
+1979-03-31,1978/1979,West Ham United,Leicester City,1-1,1,1,Football League Second Division,2,D
+1979-03-31,1978/1979,Stoke City,Blackburn Rovers,1-2,1,2,Football League Second Division,2,A
+1979-03-31,1978/1979,Sunderland,Luton Town,1-0,1,0,Football League Second Division,2,H
+1979-03-31,1978/1979,Crystal Palace,Cardiff City,2-0,2,0,Football League Second Division,2,H
+1979-03-31,1978/1979,Chesterfield,Walsall,0-0,0,0,Football League Third Division,3,D
+1979-03-31,1978/1979,Exeter City,Rotherham United,2-0,2,0,Football League Third Division,3,H
+1979-03-31,1978/1979,Gillingham,Swindon Town,2-2,2,2,Football League Third Division,3,D
+1979-03-31,1978/1979,Hull City,Lincoln City,0-0,0,0,Football League Third Division,3,D
+1979-03-31,1978/1979,Oxford United,Carlisle United,5-1,5,1,Football League Third Division,3,H
+1979-03-31,1978/1979,Peterborough United,Colchester United,1-2,1,2,Football League Third Division,3,A
+1979-03-31,1978/1979,Swansea City,Plymouth Argyle,2-1,2,1,Football League Third Division,3,H
+1979-03-31,1978/1979,Watford,Sheffield Wednesday,1-0,1,0,Football League Third Division,3,H
+1979-03-31,1978/1979,Chester,Mansfield Town,1-1,1,1,Football League Third Division,3,D
+1979-03-31,1978/1979,Brentford,Blackpool,3-2,3,2,Football League Third Division,3,H
+1979-03-31,1978/1979,Bury,Shrewsbury Town,3-0,3,0,Football League Third Division,3,H
+1979-04-02,1978/1979,Wrexham,Charlton Athletic,1-1,1,1,Football League Second Division,2,D
+1979-04-02,1978/1979,Sheffield United,West Ham United,3-0,3,0,Football League Second Division,2,H
+1979-04-02,1978/1979,Southend United,Watford,1-0,1,0,Football League Third Division,3,H
+1979-04-02,1978/1979,Colchester United,Carlisle United,2-1,2,1,Football League Third Division,3,H
+1979-04-03,1978/1979,Wolverhampton Wanderers,Tottenham Hotspur,3-2,3,2,Football League First Division,1,H
+1979-04-03,1978/1979,Bristol City,Queens Park Rangers,2-0,2,0,Football League First Division,1,H
+1979-04-03,1978/1979,Bolton Wanderers,Everton,3-1,3,1,Football League First Division,1,H
+1979-04-03,1978/1979,Birmingham City,Ipswich Town,1-1,1,1,Football League First Division,1,D
+1979-04-03,1978/1979,Arsenal,Coventry City,1-1,1,1,Football League First Division,1,D
+1979-04-03,1978/1979,Scunthorpe United,Portsmouth,2-2,2,2,Football League Fourth Division,4,D
+1979-04-03,1978/1979,Rochdale,AFC Bournemouth,2-1,2,1,Football League Fourth Division,4,H
+1979-04-03,1978/1979,Barnsley,Doncaster Rovers,3-0,3,0,Football League Fourth Division,4,H
+1979-04-03,1978/1979,Hartlepool United,Wigan Athletic,1-1,1,1,Football League Fourth Division,4,D
+1979-04-03,1978/1979,Halifax Town,Torquay United,1-0,1,0,Football League Fourth Division,4,H
+1979-04-03,1978/1979,Grimsby Town,Port Vale,1-0,1,0,Football League Fourth Division,4,H
+1979-04-03,1978/1979,Darlington,Aldershot,2-1,2,1,Football League Fourth Division,4,H
+1979-04-03,1978/1979,Northampton Town,York City,1-0,1,0,Football League Fourth Division,4,H
+1979-04-03,1978/1979,Oldham Athletic,Crystal Palace,0-0,0,0,Football League Second Division,2,D
+1979-04-03,1978/1979,Tranmere Rovers,Swansea City,1-2,1,2,Football League Third Division,3,A
+1979-04-03,1978/1979,Sheffield Wednesday,Mansfield Town,1-2,1,2,Football League Third Division,3,A
+1979-04-03,1978/1979,Plymouth Argyle,Bury,3-0,3,0,Football League Third Division,3,H
+1979-04-03,1978/1979,Swindon Town,Exeter City,1-1,1,1,Football League Third Division,3,D
+1979-04-04,1978/1979,Nottingham Forest,Aston Villa,4-0,4,0,Football League First Division,1,H
+1979-04-04,1978/1979,West Bromwich Albion,Manchester City,4-0,4,0,Football League First Division,1,H
+1979-04-04,1978/1979,Chelsea,Derby County,1-1,1,1,Football League First Division,1,D
+1979-04-04,1978/1979,Bradford City,Wimbledon,1-0,1,0,Football League Fourth Division,4,H
+1979-04-04,1978/1979,Huddersfield Town,Stockport County,0-0,0,0,Football League Fourth Division,4,D
+1979-04-04,1978/1979,Stoke City,Fulham,2-0,2,0,Football League Second Division,2,H
+1979-04-04,1978/1979,Newcastle United,Preston North End,4-3,4,3,Football League Second Division,2,H
+1979-04-04,1978/1979,Blackburn Rovers,Bristol Rovers,0-2,0,2,Football League Second Division,2,A
+1979-04-04,1978/1979,Millwall,Leicester City,2-0,2,0,Football League Second Division,2,H
+1979-04-04,1978/1979,Oxford United,Brentford,0-1,0,1,Football League Third Division,3,A
+1979-04-04,1978/1979,Lincoln City,Rotherham United,3-0,3,0,Football League Third Division,3,H
+1979-04-04,1978/1979,Chesterfield,Hull City,1-2,1,2,Football League Third Division,3,A
+1979-04-06,1978/1979,Southend United,Exeter City,0-1,0,1,Football League Third Division,3,A
+1979-04-06,1978/1979,Colchester United,Tranmere Rovers,1-0,1,0,Football League Third Division,3,H
+1979-04-07,1978/1979,Coventry City,Aston Villa,1-1,1,1,Football League First Division,1,D
+1979-04-07,1978/1979,Bolton Wanderers,Queens Park Rangers,2-1,2,1,Football League First Division,1,H
+1979-04-07,1978/1979,Chelsea,Nottingham Forest,1-3,1,3,Football League First Division,1,A
+1979-04-07,1978/1979,Derby County,Bristol City,0-1,0,1,Football League First Division,1,A
+1979-04-07,1978/1979,Leeds United,Ipswich Town,1-1,1,1,Football League First Division,1,D
+1979-04-07,1978/1979,Liverpool,Arsenal,3-0,3,0,Football League First Division,1,H
+1979-04-07,1978/1979,Manchester City,Wolverhampton Wanderers,3-1,3,1,Football League First Division,1,H
+1979-04-07,1978/1979,Norwich City,Manchester United,2-2,2,2,Football League First Division,1,D
+1979-04-07,1978/1979,Tottenham Hotspur,Middlesbrough,1-2,1,2,Football League First Division,1,A
+1979-04-07,1978/1979,West Bromwich Albion,Everton,1-0,1,0,Football League First Division,1,H
+1979-04-07,1978/1979,Birmingham City,Southampton,2-2,2,2,Football League First Division,1,D
+1979-04-07,1978/1979,AFC Bournemouth,Barnsley,0-2,0,2,Football League Fourth Division,4,A
+1979-04-07,1978/1979,Aldershot,Huddersfield Town,1-0,1,0,Football League Fourth Division,4,H
+1979-04-07,1978/1979,Darlington,Newport County,1-0,1,0,Football League Fourth Division,4,H
+1979-04-07,1978/1979,Grimsby Town,Stockport County,2-1,2,1,Football League Fourth Division,4,H
+1979-04-07,1978/1979,Halifax Town,Wimbledon,2-1,2,1,Football League Fourth Division,4,H
+1979-04-07,1978/1979,Hartlepool United,Bradford City,2-2,2,2,Football League Fourth Division,4,D
+1979-04-07,1978/1979,Hereford United,Scunthorpe United,3-1,3,1,Football League Fourth Division,4,H
+1979-04-07,1978/1979,Port Vale,York City,0-0,0,0,Football League Fourth Division,4,D
+1979-04-07,1978/1979,Portsmouth,Northampton Town,1-0,1,0,Football League Fourth Division,4,H
+1979-04-07,1978/1979,Rochdale,Doncaster Rovers,2-0,2,0,Football League Fourth Division,4,H
+1979-04-07,1978/1979,Torquay United,Wigan Athletic,1-1,1,1,Football League Fourth Division,4,D
+1979-04-07,1978/1979,Crewe Alexandra,Reading,0-2,0,2,Football League Fourth Division,4,A
+1979-04-07,1978/1979,Notts County,Fulham,1-1,1,1,Football League Second Division,2,D
+1979-04-07,1978/1979,Bristol Rovers,Sunderland,0-0,0,0,Football League Second Division,2,D
+1979-04-07,1978/1979,Blackburn Rovers,Sheffield United,2-0,2,0,Football League Second Division,2,H
+1979-04-07,1978/1979,Newcastle United,Crystal Palace,1-0,1,0,Football League Second Division,2,H
+1979-04-07,1978/1979,Luton Town,Burnley,4-1,4,1,Football League Second Division,2,H
+1979-04-07,1978/1979,Leyton Orient,Brighton & Hove Albion,3-3,3,3,Football League Second Division,2,D
+1979-04-07,1978/1979,Wrexham,Oldham Athletic,2-0,2,0,Football League Second Division,2,H
+1979-04-07,1978/1979,Charlton Athletic,Preston North End,1-1,1,1,Football League Second Division,2,D
+1979-04-07,1978/1979,Cardiff City,Millwall,2-1,2,1,Football League Second Division,2,H
+1979-04-07,1978/1979,Cambridge United,West Ham United,0-0,0,0,Football League Second Division,2,D
+1979-04-07,1978/1979,Leicester City,Stoke City,1-1,1,1,Football League Second Division,2,D
+1979-04-07,1978/1979,Carlisle United,Gillingham,1-0,1,0,Football League Third Division,3,H
+1979-04-07,1978/1979,Lincoln City,Chester,0-0,0,0,Football League Third Division,3,D
+1979-04-07,1978/1979,Mansfield Town,Watford,0-3,0,3,Football League Third Division,3,A
+1979-04-07,1978/1979,Plymouth Argyle,Hull City,3-4,3,4,Football League Third Division,3,A
+1979-04-07,1978/1979,Rotherham United,Oxford United,0-0,0,0,Football League Third Division,3,D
+1979-04-07,1978/1979,Sheffield Wednesday,Swansea City,0-0,0,0,Football League Third Division,3,D
+1979-04-07,1978/1979,Shrewsbury Town,Peterborough United,2-0,2,0,Football League Third Division,3,H
+1979-04-07,1978/1979,Swindon Town,Chesterfield,1-0,1,0,Football League Third Division,3,H
+1979-04-07,1978/1979,Walsall,Brentford,2-3,2,3,Football League Third Division,3,A
+1979-04-07,1978/1979,Blackpool,Bury,1-2,1,2,Football League Third Division,3,A
+1979-04-09,1978/1979,Stockport County,Aldershot,2-2,2,2,Football League Fourth Division,4,D
+1979-04-09,1978/1979,West Ham United,Luton Town,1-0,1,0,Football League Second Division,2,H
+1979-04-10,1978/1979,Everton,Coventry City,3-3,3,3,Football League First Division,1,D
+1979-04-10,1978/1979,Wolverhampton Wanderers,Liverpool,0-1,0,1,Football League First Division,1,A
+1979-04-10,1978/1979,Middlesbrough,Leeds United,1-0,1,0,Football League First Division,1,H
+1979-04-10,1978/1979,Bristol City,Chelsea,3-1,3,1,Football League First Division,1,H
+1979-04-10,1978/1979,Arsenal,Tottenham Hotspur,1-0,1,0,Football League First Division,1,H
+1979-04-10,1978/1979,Wimbledon,AFC Bournemouth,4-0,4,0,Football League Fourth Division,4,H
+1979-04-10,1978/1979,Scunthorpe United,Darlington,1-0,1,0,Football League Fourth Division,4,H
+1979-04-10,1978/1979,Crewe Alexandra,Northampton Town,2-4,2,4,Football League Fourth Division,4,A
+1979-04-10,1978/1979,Burnley,Newcastle United,1-0,1,0,Football League Second Division,2,H
+1979-04-10,1978/1979,Sheffield United,Notts County,5-1,5,1,Football League Second Division,2,H
+1979-04-10,1978/1979,Crystal Palace,Cambridge United,1-1,1,1,Football League Second Division,2,D
+1979-04-10,1978/1979,Millwall,Leyton Orient,2-0,2,0,Football League Second Division,2,H
+1979-04-10,1978/1979,Swansea City,Shrewsbury Town,1-1,1,1,Football League Third Division,3,D
+1979-04-10,1978/1979,Gillingham,Walsall,3-1,3,1,Football League Third Division,3,H
+1979-04-11,1978/1979,Manchester United,Bolton Wanderers,1-2,1,2,Football League First Division,1,A
+1979-04-11,1978/1979,Aston Villa,Derby County,3-3,3,3,Football League First Division,1,D
+1979-04-11,1978/1979,Newport County,Hereford United,4-1,4,1,Football League Fourth Division,4,H
+1979-04-11,1978/1979,Bradford City,Torquay United,3-1,3,1,Football League Fourth Division,4,H
+1979-04-11,1978/1979,Rochdale,Huddersfield Town,0-2,0,2,Football League Fourth Division,4,A
+1979-04-11,1978/1979,Fulham,Cardiff City,2-2,2,2,Football League Second Division,2,D
+1979-04-11,1978/1979,Oxford United,Plymouth Argyle,3-2,3,2,Football League Third Division,3,H
+1979-04-11,1978/1979,Exeter City,Swindon Town,1-2,1,2,Football League Third Division,3,A
+1979-04-12,1978/1979,Barnsley,Hartlepool United,1-0,1,0,Football League Fourth Division,4,H
+1979-04-13,1978/1979,Southampton,West Bromwich Albion,1-1,1,1,Football League First Division,1,D
+1979-04-13,1978/1979,Queens Park Rangers,Norwich City,0-0,0,0,Football League First Division,1,D
+1979-04-13,1978/1979,York City,Grimsby Town,0-0,0,0,Football League Fourth Division,4,D
+1979-04-13,1978/1979,Wigan Athletic,Port Vale,5-3,5,3,Football League Fourth Division,4,H
+1979-04-13,1978/1979,Reading,Portsmouth,2-0,2,0,Football League Fourth Division,4,H
+1979-04-13,1978/1979,Sunderland,Notts County,3-0,3,0,Football League Second Division,2,H
+1979-04-13,1978/1979,Oldham Athletic,Blackburn Rovers,5-0,5,0,Football League Second Division,2,H
+1979-04-13,1978/1979,Brighton & Hove Albion,Charlton Athletic,2-0,2,0,Football League Second Division,2,H
+1979-04-13,1978/1979,Hull City,Sheffield Wednesday,1-1,1,1,Football League Third Division,3,D
+1979-04-13,1978/1979,Chester,Blackpool,4-2,4,2,Football League Third Division,3,H
+1979-04-13,1978/1979,Bury,Carlisle United,2-2,2,2,Football League Third Division,3,D
+1979-04-13,1978/1979,Watford,Colchester United,0-3,0,3,Football League Third Division,3,A
+1979-04-13,1978/1979,Brentford,Southend United,3-0,3,0,Football League Third Division,3,H
+1979-04-14,1978/1979,Birmingham City,Wolverhampton Wanderers,1-1,1,1,Football League First Division,1,D
+1979-04-14,1978/1979,Bolton Wanderers,Middlesbrough,0-0,0,0,Football League First Division,1,D
+1979-04-14,1978/1979,Coventry City,Bristol City,3-2,3,2,Football League First Division,1,H
+1979-04-14,1978/1979,Derby County,Nottingham Forest,1-2,1,2,Football League First Division,1,A
+1979-04-14,1978/1979,Leeds United,Aston Villa,1-0,1,0,Football League First Division,1,H
+1979-04-14,1978/1979,Liverpool,Manchester United,2-0,2,0,Football League First Division,1,H
+1979-04-14,1978/1979,Manchester City,Everton,0-0,0,0,Football League First Division,1,D
+1979-04-14,1978/1979,Norwich City,Ipswich Town,0-1,0,1,Football League First Division,1,A
+1979-04-14,1978/1979,Tottenham Hotspur,Queens Park Rangers,1-1,1,1,Football League First Division,1,D
+1979-04-14,1978/1979,West Bromwich Albion,Arsenal,1-1,1,1,Football League First Division,1,D
+1979-04-14,1978/1979,Chelsea,Southampton,1-2,1,2,Football League First Division,1,A
+1979-04-14,1978/1979,AFC Bournemouth,Reading,0-0,0,0,Football League Fourth Division,4,D
+1979-04-14,1978/1979,Portsmouth,Wimbledon,0-0,0,0,Football League Fourth Division,4,D
+1979-04-14,1978/1979,Crewe Alexandra,Wigan Athletic,1-1,1,1,Football League Fourth Division,4,D
+1979-04-14,1978/1979,Darlington,Doncaster Rovers,3-2,3,2,Football League Fourth Division,4,H
+1979-04-14,1978/1979,Grimsby Town,Scunthorpe United,1-1,1,1,Football League Fourth Division,4,D
+1979-04-14,1978/1979,Halifax Town,Huddersfield Town,2-3,2,3,Football League Fourth Division,4,A
+1979-04-14,1978/1979,Hartlepool United,York City,1-1,1,1,Football League Fourth Division,4,D
+1979-04-14,1978/1979,Hereford United,Stockport County,1-0,1,0,Football League Fourth Division,4,H
+1979-04-14,1978/1979,Port Vale,Barnsley,3-2,3,2,Football League Fourth Division,4,H
+1979-04-14,1978/1979,Rochdale,Bradford City,1-0,1,0,Football League Fourth Division,4,H
+1979-04-14,1978/1979,Torquay United,Newport County,2-0,2,0,Football League Fourth Division,4,H
+1979-04-14,1978/1979,Aldershot,Northampton Town,2-0,2,0,Football League Fourth Division,4,H
+1979-04-14,1978/1979,Charlton Athletic,Stoke City,1-4,1,4,Football League Second Division,2,A
+1979-04-14,1978/1979,Wrexham,Preston North End,2-1,2,1,Football League Second Division,2,H
+1979-04-14,1978/1979,Bristol Rovers,Crystal Palace,0-1,0,1,Football League Second Division,2,A
+1979-04-14,1978/1979,Blackburn Rovers,Burnley,1-2,1,2,Football League Second Division,2,A
+1979-04-14,1978/1979,Notts County,Oldham Athletic,0-0,0,0,Football League Second Division,2,D
+1979-04-14,1978/1979,Luton Town,Millwall,2-2,2,2,Football League Second Division,2,D
+1979-04-14,1978/1979,Leyton Orient,West Ham United,0-2,0,2,Football League Second Division,2,A
+1979-04-14,1978/1979,Newcastle United,Sheffield United,1-3,1,3,Football League Second Division,2,A
+1979-04-14,1978/1979,Cardiff City,Brighton & Hove Albion,3-1,3,1,Football League Second Division,2,H
+1979-04-14,1978/1979,Cambridge United,Fulham,1-0,1,0,Football League Second Division,2,H
+1979-04-14,1978/1979,Leicester City,Sunderland,1-2,1,2,Football League Second Division,2,A
+1979-04-14,1978/1979,Walsall,Exeter City,2-2,2,2,Football League Third Division,3,D
+1979-04-14,1978/1979,Mansfield Town,Hull City,0-2,0,2,Football League Third Division,3,A
+1979-04-14,1978/1979,Plymouth Argyle,Brentford,2-1,2,1,Football League Third Division,3,H
+1979-04-14,1978/1979,Lincoln City,Peterborough United,0-1,0,1,Football League Third Division,3,A
+1979-04-14,1978/1979,Rotherham United,Bury,2-1,2,1,Football League Third Division,3,H
+1979-04-14,1978/1979,Sheffield Wednesday,Chesterfield,4-0,4,0,Football League Third Division,3,H
+1979-04-14,1978/1979,Shrewsbury Town,Watford,1-1,1,1,Football League Third Division,3,D
+1979-04-14,1978/1979,Southend United,Gillingham,0-1,0,1,Football League Third Division,3,A
+1979-04-14,1978/1979,Swindon Town,Swansea City,0-1,0,1,Football League Third Division,3,A
+1979-04-14,1978/1979,Colchester United,Oxford United,1-1,1,1,Football League Third Division,3,D
+1979-04-14,1978/1979,Carlisle United,Chester,1-1,1,1,Football League Third Division,3,D
+1979-04-14,1978/1979,Blackpool,Tranmere Rovers,2-0,2,0,Football League Third Division,3,H
+1979-04-16,1978/1979,Arsenal,Chelsea,5-2,5,2,Football League First Division,1,H
+1979-04-16,1978/1979,Aston Villa,Liverpool,3-1,3,1,Football League First Division,1,H
+1979-04-16,1978/1979,Everton,Bolton Wanderers,1-0,1,0,Football League First Division,1,H
+1979-04-16,1978/1979,Ipswich Town,Derby County,2-1,2,1,Football League First Division,1,H
+1979-04-16,1978/1979,Manchester United,Coventry City,0-0,0,0,Football League First Division,1,D
+1979-04-16,1978/1979,Southampton,Tottenham Hotspur,3-3,3,3,Football League First Division,1,D
+1979-04-16,1978/1979,Wolverhampton Wanderers,Norwich City,1-0,1,0,Football League First Division,1,H
+1979-04-16,1978/1979,Nottingham Forest,Leeds United,0-0,0,0,Football League First Division,1,D
+1979-04-16,1978/1979,Bradford City,Grimsby Town,1-3,1,3,Football League Fourth Division,4,A
+1979-04-16,1978/1979,Barnsley,Hereford United,2-1,2,1,Football League Fourth Division,4,H
+1979-04-16,1978/1979,Doncaster Rovers,Crewe Alexandra,2-0,2,0,Football League Fourth Division,4,H
+1979-04-16,1978/1979,Stockport County,Rochdale,3-0,3,0,Football League Fourth Division,4,H
+1979-04-16,1978/1979,Northampton Town,AFC Bournemouth,4-2,4,2,Football League Fourth Division,4,H
+1979-04-16,1978/1979,Reading,Aldershot,4-0,4,0,Football League Fourth Division,4,H
+1979-04-16,1978/1979,Scunthorpe United,Halifax Town,1-0,1,0,Football League Fourth Division,4,H
+1979-04-16,1978/1979,Wigan Athletic,Hartlepool United,2-2,2,2,Football League Fourth Division,4,D
+1979-04-16,1978/1979,Wimbledon,Torquay United,5-0,5,0,Football League Fourth Division,4,H
+1979-04-16,1978/1979,York City,Darlington,5-2,5,2,Football League Fourth Division,4,H
+1979-04-16,1978/1979,Huddersfield Town,Port Vale,3-2,3,2,Football League Fourth Division,4,H
+1979-04-16,1978/1979,Newport County,Portsmouth,1-2,1,2,Football League Fourth Division,4,A
+1979-04-16,1978/1979,Burnley,Wrexham,0-0,0,0,Football League Second Division,2,D
+1979-04-16,1978/1979,Fulham,Leyton Orient,2-2,2,2,Football League Second Division,2,D
+1979-04-16,1978/1979,Oldham Athletic,Leicester City,2-1,2,1,Football League Second Division,2,H
+1979-04-16,1978/1979,Preston North End,Newcastle United,0-0,0,0,Football League Second Division,2,D
+1979-04-16,1978/1979,Stoke City,Luton Town,0-0,0,0,Football League Second Division,2,D
+1979-04-16,1978/1979,Sunderland,Blackburn Rovers,0-1,0,1,Football League Second Division,2,A
+1979-04-16,1978/1979,West Ham United,Cardiff City,1-1,1,1,Football League Second Division,2,D
+1979-04-16,1978/1979,Brighton & Hove Albion,Bristol Rovers,3-0,3,0,Football League Second Division,2,H
+1979-04-16,1978/1979,Hull City,Blackpool,0-0,0,0,Football League Third Division,3,D
+1979-04-16,1978/1979,Oxford United,Swindon Town,0-1,0,1,Football League Third Division,3,A
+1979-04-16,1978/1979,Peterborough United,Rotherham United,1-1,1,1,Football League Third Division,3,D
+1979-04-16,1978/1979,Tranmere Rovers,Carlisle United,1-1,1,1,Football League Third Division,3,D
+1979-04-16,1978/1979,Gillingham,Colchester United,3-0,3,0,Football League Third Division,3,H
+1979-04-16,1978/1979,Chesterfield,Mansfield Town,1-0,1,0,Football League Third Division,3,H
+1979-04-16,1978/1979,Bury,Lincoln City,2-2,2,2,Football League Third Division,3,D
+1979-04-16,1978/1979,Chester,Shrewsbury Town,0-0,0,0,Football League Third Division,3,D
+1979-04-17,1978/1979,Middlesbrough,Manchester City,2-0,2,0,Football League First Division,1,H
+1979-04-17,1978/1979,Ipswich Town,Birmingham City,3-0,3,0,Football League First Division,1,H
+1979-04-17,1978/1979,Bristol City,West Bromwich Albion,1-0,1,0,Football League First Division,1,H
+1979-04-17,1978/1979,Northampton Town,Crewe Alexandra,3-1,3,1,Football League Fourth Division,4,H
+1979-04-17,1978/1979,Huddersfield Town,Rochdale,1-0,1,0,Football League Fourth Division,4,H
+1979-04-17,1978/1979,Doncaster Rovers,Halifax Town,1-1,1,1,Football League Fourth Division,4,D
+1979-04-17,1978/1979,Sheffield United,Wrexham,1-1,1,1,Football League Second Division,2,D
+1979-04-17,1978/1979,Preston North End,Leicester City,4-0,4,0,Football League Second Division,2,H
+1979-04-17,1978/1979,Millwall,Cambridge United,2-0,2,0,Football League Second Division,2,H
+1979-04-17,1978/1979,Crystal Palace,Charlton Athletic,1-0,1,0,Football League Second Division,2,H
+1979-04-17,1978/1979,Stoke City,Bristol Rovers,2-0,2,0,Football League Second Division,2,H
+1979-04-17,1978/1979,Chesterfield,Lincoln City,1-3,1,3,Football League Third Division,3,A
+1979-04-17,1978/1979,Watford,Southend United,2-0,2,0,Football League Third Division,3,H
+1979-04-17,1978/1979,Peterborough United,Mansfield Town,1-2,1,2,Football League Third Division,3,A
+1979-04-17,1978/1979,Exeter City,Plymouth Argyle,1-0,1,0,Football League Third Division,3,H
+1979-04-17,1978/1979,Brentford,Sheffield Wednesday,2-1,2,1,Football League Third Division,3,H
+1979-04-17,1978/1979,Swansea City,Walsall,2-2,2,2,Football League Third Division,3,D
+1979-04-18,1978/1979,Nottingham Forest,Manchester United,1-1,1,1,Football League First Division,1,D
+1979-04-18,1978/1979,Newport County,Scunthorpe United,2-0,2,0,Football League Fourth Division,4,H
+1979-04-18,1978/1979,Newcastle United,Notts County,1-2,1,2,Football League Second Division,2,A
+1979-04-18,1978/1979,Tranmere Rovers,Rotherham United,1-1,1,1,Football League Third Division,3,D
+1979-04-20,1978/1979,Leicester City,Crystal Palace,1-1,1,1,Football League Second Division,2,D
+1979-04-21,1978/1979,Birmingham City,Nottingham Forest,0-2,0,2,Football League First Division,1,A
+1979-04-21,1978/1979,Bolton Wanderers,Ipswich Town,2-3,2,3,Football League First Division,1,A
+1979-04-21,1978/1979,Chelsea,Middlesbrough,2-1,2,1,Football League First Division,1,H
+1979-04-21,1978/1979,Derby County,Arsenal,2-0,2,0,Football League First Division,1,H
+1979-04-21,1978/1979,Leeds United,Everton,1-0,1,0,Football League First Division,1,H
+1979-04-21,1978/1979,Liverpool,Bristol City,1-0,1,0,Football League First Division,1,H
+1979-04-21,1978/1979,Manchester City,Queens Park Rangers,3-1,3,1,Football League First Division,1,H
+1979-04-21,1978/1979,Norwich City,Aston Villa,1-2,1,2,Football League First Division,1,A
+1979-04-21,1978/1979,Tottenham Hotspur,Manchester United,1-1,1,1,Football League First Division,1,D
+1979-04-21,1978/1979,Coventry City,Southampton,4-0,4,0,Football League First Division,1,H
+1979-04-21,1978/1979,West Bromwich Albion,Wolverhampton Wanderers,1-1,1,1,Football League First Division,1,D
+1979-04-21,1978/1979,Torquay United,Huddersfield Town,2-1,2,1,Football League Fourth Division,4,H
+1979-04-21,1978/1979,AFC Bournemouth,Bradford City,1-0,1,0,Football League Fourth Division,4,H
+1979-04-21,1978/1979,Hartlepool United,Reading,0-0,0,0,Football League Fourth Division,4,D
+1979-04-21,1978/1979,Crewe Alexandra,York City,0-1,0,1,Football League Fourth Division,4,A
+1979-04-21,1978/1979,Darlington,Wimbledon,1-1,1,1,Football League Fourth Division,4,D
+1979-04-21,1978/1979,Grimsby Town,Barnsley,2-0,2,0,Football League Fourth Division,4,H
+1979-04-21,1978/1979,Halifax Town,Northampton Town,2-2,2,2,Football League Fourth Division,4,D
+1979-04-21,1978/1979,Hereford United,Doncaster Rovers,2-0,2,0,Football League Fourth Division,4,H
+1979-04-21,1978/1979,Port Vale,Newport County,1-1,1,1,Football League Fourth Division,4,D
+1979-04-21,1978/1979,Portsmouth,Stockport County,1-1,1,1,Football League Fourth Division,4,D
+1979-04-21,1978/1979,Rochdale,Scunthorpe United,1-0,1,0,Football League Fourth Division,4,H
+1979-04-21,1978/1979,Aldershot,Wigan Athletic,1-0,1,0,Football League Fourth Division,4,H
+1979-04-21,1978/1979,Cambridge United,Sunderland,0-2,0,2,Football League Second Division,2,A
+1979-04-21,1978/1979,Blackburn Rovers,Millwall,1-1,1,1,Football League Second Division,2,D
+1979-04-21,1978/1979,Bristol Rovers,Burnley,2-0,2,0,Football League Second Division,2,H
+1979-04-21,1978/1979,Cardiff City,Sheffield United,4-0,4,0,Football League Second Division,2,H
+1979-04-21,1978/1979,Charlton Athletic,West Ham United,0-0,0,0,Football League Second Division,2,D
+1979-04-21,1978/1979,Leyton Orient,Oldham Athletic,0-0,0,0,Football League Second Division,2,D
+1979-04-21,1978/1979,Wrexham,Stoke City,0-1,0,1,Football League Second Division,2,A
+1979-04-21,1978/1979,Luton Town,Brighton & Hove Albion,1-1,1,1,Football League Second Division,2,D
+1979-04-21,1978/1979,Newcastle United,Fulham,0-0,0,0,Football League Second Division,2,D
+1979-04-21,1978/1979,Notts County,Preston North End,0-0,0,0,Football League Second Division,2,D
+1979-04-21,1978/1979,Walsall,Oxford United,0-1,0,1,Football League Third Division,3,A
+1979-04-21,1978/1979,Plymouth Argyle,Gillingham,2-1,2,1,Football League Third Division,3,H
+1979-04-21,1978/1979,Rotherham United,Chester,0-1,0,1,Football League Third Division,3,A
+1979-04-21,1978/1979,Sheffield Wednesday,Tranmere Rovers,1-2,1,2,Football League Third Division,3,A
+1979-04-21,1978/1979,Shrewsbury Town,Chesterfield,1-1,1,1,Football League Third Division,3,D
+1979-04-21,1978/1979,Mansfield Town,Bury,3-0,3,0,Football League Third Division,3,H
+1979-04-21,1978/1979,Southend United,Peterborough United,0-0,0,0,Football League Third Division,3,D
+1979-04-21,1978/1979,Swindon Town,Watford,2-0,2,0,Football League Third Division,3,H
+1979-04-21,1978/1979,Lincoln City,Exeter City,0-1,0,1,Football League Third Division,3,A
+1979-04-21,1978/1979,Colchester United,Hull City,2-1,2,1,Football League Third Division,3,H
+1979-04-21,1978/1979,Blackpool,Swansea City,1-3,1,3,Football League Third Division,3,A
+1979-04-21,1978/1979,Carlisle United,Brentford,1-0,1,0,Football League Third Division,3,H
+1979-04-23,1978/1979,Rochdale,Newport County,1-0,1,0,Football League Fourth Division,4,H
+1979-04-23,1978/1979,AFC Bournemouth,Stockport County,3-1,3,1,Football League Fourth Division,4,H
+1979-04-23,1978/1979,Mansfield Town,Swansea City,2-2,2,2,Football League Third Division,3,D
+1979-04-23,1978/1979,Brentford,Rotherham United,1-0,1,0,Football League Third Division,3,H
+1979-04-24,1978/1979,Birmingham City,West Bromwich Albion,1-1,1,1,Football League First Division,1,D
+1979-04-24,1978/1979,Manchester City,Middlesbrough,1-0,1,0,Football League First Division,1,H
+1979-04-24,1978/1979,Southampton,Liverpool,1-1,1,1,Football League First Division,1,D
+1979-04-24,1978/1979,Wolverhampton Wanderers,Derby County,4-0,4,0,Football League First Division,1,H
+1979-04-24,1978/1979,Scunthorpe United,Hartlepool United,3-1,3,1,Football League Fourth Division,4,H
+1979-04-24,1978/1979,Portsmouth,Doncaster Rovers,4-0,4,0,Football League Fourth Division,4,H
+1979-04-24,1978/1979,Port Vale,Bradford City,2-1,2,1,Football League Fourth Division,4,H
+1979-04-24,1978/1979,Northampton Town,Grimsby Town,1-2,1,2,Football League Fourth Division,4,A
+1979-04-24,1978/1979,Barnsley,Aldershot,2-0,2,0,Football League Fourth Division,4,H
+1979-04-24,1978/1979,Notts County,Leicester City,0-1,0,1,Football League Second Division,2,A
+1979-04-24,1978/1979,Oldham Athletic,Wrexham,1-0,1,0,Football League Second Division,2,H
+1979-04-24,1978/1979,Preston North End,Cambridge United,0-2,0,2,Football League Second Division,2,A
+1979-04-24,1978/1979,West Ham United,Burnley,3-1,3,1,Football League Second Division,2,H
+1979-04-24,1978/1979,Millwall,Fulham,0-0,0,0,Football League Second Division,2,D
+1979-04-24,1978/1979,Hull City,Southend United,2-0,2,0,Football League Third Division,3,H
+1979-04-24,1978/1979,Shrewsbury Town,Tranmere Rovers,2-1,2,1,Football League Third Division,3,H
+1979-04-24,1978/1979,Plymouth Argyle,Chester,2-2,2,2,Football League Third Division,3,D
+1979-04-24,1978/1979,Peterborough United,Swindon Town,2-1,2,1,Football League Third Division,3,H
+1979-04-24,1978/1979,Colchester United,Chesterfield,0-0,0,0,Football League Third Division,3,D
+1979-04-24,1978/1979,Walsall,Bury,0-1,0,1,Football League Third Division,3,A
+1979-04-24,1978/1979,Blackpool,Exeter City,1-1,1,1,Football League Third Division,3,D
+1979-04-24,1978/1979,Carlisle United,Watford,1-0,1,0,Football League Third Division,3,H
+1979-04-25,1978/1979,Manchester United,Norwich City,1-0,1,0,Football League First Division,1,H
+1979-04-25,1978/1979,Leeds United,Bolton Wanderers,5-1,5,1,Football League First Division,1,H
+1979-04-25,1978/1979,Aston Villa,Arsenal,5-1,5,1,Football League First Division,1,H
+1979-04-25,1978/1979,Reading,Darlington,1-0,1,0,Football League Fourth Division,4,H
+1979-04-25,1978/1979,Hereford United,Huddersfield Town,3-0,3,0,Football League Fourth Division,4,H
+1979-04-25,1978/1979,Crewe Alexandra,Wimbledon,1-2,1,2,Football League Fourth Division,4,A
+1979-04-25,1978/1979,Torquay United,York City,3-0,3,0,Football League Fourth Division,4,H
+1979-04-25,1978/1979,Blackburn Rovers,Newcastle United,1-3,1,3,Football League Second Division,2,A
+1979-04-25,1978/1979,Cardiff City,Luton Town,2-1,2,1,Football League Second Division,2,H
+1979-04-25,1978/1979,Sunderland,Sheffield United,6-2,6,2,Football League Second Division,2,H
+1979-04-25,1978/1979,Oxford United,Sheffield Wednesday,1-1,1,1,Football League Third Division,3,D
+1979-04-25,1978/1979,Lincoln City,Gillingham,2-4,2,4,Football League Third Division,3,A
+1979-04-26,1978/1979,Northampton Town,Barnsley,0-1,0,1,Football League Fourth Division,4,A
+1979-04-26,1978/1979,Halifax Town,Bradford City,2-0,2,0,Football League Fourth Division,4,H
+1979-04-27,1978/1979,Stockport County,Port Vale,0-0,0,0,Football League Fourth Division,4,D
+1979-04-27,1978/1979,Tranmere Rovers,Walsall,0-0,0,0,Football League Third Division,3,D
+1979-04-28,1978/1979,Arsenal,Norwich City,1-1,1,1,Football League First Division,1,D
+1979-04-28,1978/1979,Aston Villa,Chelsea,2-1,2,1,Football League First Division,1,H
+1979-04-28,1978/1979,Bristol City,Leeds United,0-0,0,0,Football League First Division,1,D
+1979-04-28,1978/1979,Everton,Birmingham City,1-0,1,0,Football League First Division,1,H
+1979-04-28,1978/1979,Ipswich Town,Tottenham Hotspur,2-1,2,1,Football League First Division,1,H
+1979-04-28,1978/1979,Manchester United,Derby County,0-0,0,0,Football League First Division,1,D
+1979-04-28,1978/1979,Middlesbrough,West Bromwich Albion,1-1,1,1,Football League First Division,1,D
+1979-04-28,1978/1979,Nottingham Forest,Liverpool,0-0,0,0,Football League First Division,1,D
+1979-04-28,1978/1979,Southampton,Manchester City,1-0,1,0,Football League First Division,1,H
+1979-04-28,1978/1979,Queens Park Rangers,Coventry City,5-1,5,1,Football League First Division,1,H
+1979-04-28,1978/1979,Wolverhampton Wanderers,Bolton Wanderers,1-1,1,1,Football League First Division,1,D
+1979-04-28,1978/1979,Barnsley,Rochdale,0-3,0,3,Football League Fourth Division,4,A
+1979-04-28,1978/1979,Bradford City,Crewe Alexandra,6-0,6,0,Football League Fourth Division,4,H
+1979-04-28,1978/1979,Doncaster Rovers,Aldershot,1-1,1,1,Football League Fourth Division,4,D
+1979-04-28,1978/1979,Huddersfield Town,Portsmouth,2-0,2,0,Football League Fourth Division,4,H
+1979-04-28,1978/1979,Newport County,Grimsby Town,1-1,1,1,Football League Fourth Division,4,D
+1979-04-28,1978/1979,Northampton Town,Hereford United,2-1,2,1,Football League Fourth Division,4,H
+1979-04-28,1978/1979,York City,AFC Bournemouth,2-1,2,1,Football League Fourth Division,4,H
+1979-04-28,1978/1979,Scunthorpe United,Torquay United,2-2,2,2,Football League Fourth Division,4,D
+1979-04-28,1978/1979,Wigan Athletic,Darlington,2-2,2,2,Football League Fourth Division,4,D
+1979-04-28,1978/1979,Wimbledon,Hartlepool United,3-1,3,1,Football League Fourth Division,4,H
+1979-04-28,1978/1979,Reading,Halifax Town,1-0,1,0,Football League Fourth Division,4,H
+1979-04-28,1978/1979,Sunderland,Cardiff City,1-2,1,2,Football League Second Division,2,A
+1979-04-28,1978/1979,West Ham United,Wrexham,1-1,1,1,Football League Second Division,2,D
+1979-04-28,1978/1979,Brighton & Hove Albion,Blackburn Rovers,2-1,2,1,Football League Second Division,2,H
+1979-04-28,1978/1979,Burnley,Leyton Orient,0-1,0,1,Football League Second Division,2,A
+1979-04-28,1978/1979,Crystal Palace,Notts County,2-0,2,0,Football League Second Division,2,H
+1979-04-28,1978/1979,Fulham,Leicester City,3-0,3,0,Football League Second Division,2,H
+1979-04-28,1978/1979,Millwall,Bristol Rovers,0-3,0,3,Football League Second Division,2,A
+1979-04-28,1978/1979,Oldham Athletic,Cambridge United,4-1,4,1,Football League Second Division,2,H
+1979-04-28,1978/1979,Preston North End,Luton Town,2-2,2,2,Football League Second Division,2,D
+1979-04-28,1978/1979,Sheffield United,Charlton Athletic,2-1,2,1,Football League Second Division,2,H
+1979-04-28,1978/1979,Stoke City,Newcastle United,0-0,0,0,Football League Second Division,2,D
+1979-04-28,1978/1979,Chester,Sheffield Wednesday,2-2,2,2,Football League Third Division,3,D
+1979-04-28,1978/1979,Chesterfield,Rotherham United,1-0,1,0,Football League Third Division,3,H
+1979-04-28,1978/1979,Exeter City,Carlisle United,3-2,3,2,Football League Third Division,3,H
+1979-04-28,1978/1979,Gillingham,Shrewsbury Town,2-0,2,0,Football League Third Division,3,H
+1979-04-28,1978/1979,Hull City,Swindon Town,1-1,1,1,Football League Third Division,3,D
+1979-04-28,1978/1979,Oxford United,Lincoln City,2-1,2,1,Football League Third Division,3,H
+1979-04-28,1978/1979,Peterborough United,Blackpool,1-2,1,2,Football League Third Division,3,A
+1979-04-28,1978/1979,Swansea City,Southend United,3-2,3,2,Football League Third Division,3,H
+1979-04-28,1978/1979,Watford,Plymouth Argyle,2-2,2,2,Football League Third Division,3,D
+1979-04-28,1978/1979,Bury,Colchester United,2-2,2,2,Football League Third Division,3,D
+1979-04-28,1978/1979,Brentford,Mansfield Town,1-0,1,0,Football League Third Division,3,H
+1979-04-30,1978/1979,Wolverhampton Wanderers,Nottingham Forest,1-0,1,0,Football League First Division,1,H
+1979-04-30,1978/1979,Southampton,Manchester United,1-1,1,1,Football League First Division,1,D
+1979-04-30,1978/1979,Bradford City,Doncaster Rovers,1-0,1,0,Football League Fourth Division,4,H
+1979-04-30,1978/1979,Huddersfield Town,Torquay United,1-1,1,1,Football League Fourth Division,4,D
+1979-04-30,1978/1979,Barnsley,Darlington,1-1,1,1,Football League Fourth Division,4,D
+1979-04-30,1978/1979,Tranmere Rovers,Mansfield Town,1-2,1,2,Football League Third Division,3,A
+1979-04-30,1978/1979,Southend United,Walsall,1-0,1,0,Football League Third Division,3,H
+1979-05-01,1978/1979,Manchester City,Birmingham City,3-1,3,1,Football League First Division,1,H
+1979-05-01,1978/1979,Everton,West Bromwich Albion,0-2,0,2,Football League First Division,1,A
+1979-05-01,1978/1979,Bolton Wanderers,Liverpool,1-4,1,4,Football League First Division,1,A
+1979-05-01,1978/1979,York City,Crewe Alexandra,1-0,1,0,Football League Fourth Division,4,H
+1979-05-01,1978/1979,Scunthorpe United,Wigan Athletic,0-1,0,1,Football League Fourth Division,4,A
+1979-05-01,1978/1979,Port Vale,Hereford United,1-1,1,1,Football League Fourth Division,4,D
+1979-05-01,1978/1979,Newport County,AFC Bournemouth,2-0,2,0,Football League Fourth Division,4,H
+1979-05-01,1978/1979,Rochdale,Stockport County,2-0,2,0,Football League Fourth Division,4,H
+1979-05-01,1978/1979,Notts County,Wrexham,1-1,1,1,Football League Second Division,2,D
+1979-05-01,1978/1979,Rotherham United,Peterborough United,1-1,1,1,Football League Third Division,3,D
+1979-05-01,1978/1979,Bury,Sheffield Wednesday,0-0,0,0,Football League Third Division,3,D
+1979-05-01,1978/1979,Hull City,Plymouth Argyle,2-1,2,1,Football League Third Division,3,H
+1979-05-02,1978/1979,Nottingham Forest,Southampton,1-0,1,0,Football League First Division,1,H
+1979-05-02,1978/1979,Aston Villa,Ipswich Town,2-2,2,2,Football League First Division,1,D
+1979-05-02,1978/1979,Huddersfield Town,Barnsley,1-0,1,0,Football League Fourth Division,4,H
+1979-05-02,1978/1979,Bradford City,Hartlepool United,1-2,1,2,Football League Fourth Division,4,A
+1979-05-02,1978/1979,Reading,Wimbledon,1-0,1,0,Football League Fourth Division,4,H
+1979-05-02,1978/1979,Newcastle United,Bristol Rovers,3-0,3,0,Football League Second Division,2,H
+1979-05-02,1978/1979,Sheffield United,Blackburn Rovers,0-1,0,1,Football League Second Division,2,A
+1979-05-02,1978/1979,Watford,Chester,1-0,1,0,Football League Third Division,3,H
+1979-05-02,1978/1979,Swindon Town,Oxford United,2-0,2,0,Football League Third Division,3,H
+1979-05-02,1978/1979,Lincoln City,Shrewsbury Town,1-2,1,2,Football League Third Division,3,A
+1979-05-04,1978/1979,Leeds United,Queens Park Rangers,4-3,4,3,Football League First Division,1,H
+1979-05-04,1978/1979,Southend United,Tranmere Rovers,0-1,0,1,Football League Third Division,3,A
+1979-05-04,1978/1979,Colchester United,Peterborough United,4-2,4,2,Football League Third Division,3,H
+1979-05-05,1978/1979,Birmingham City,Arsenal,0-0,0,0,Football League First Division,1,D
+1979-05-05,1978/1979,Bolton Wanderers,Aston Villa,0-0,0,0,Football League First Division,1,D
+1979-05-05,1978/1979,Chelsea,Ipswich Town,2-3,2,3,Football League First Division,1,A
+1979-05-05,1978/1979,Coventry City,Wolverhampton Wanderers,3-0,3,0,Football League First Division,1,H
+1979-05-05,1978/1979,Derby County,Middlesbrough,0-3,0,3,Football League First Division,1,A
+1979-05-05,1978/1979,Liverpool,Southampton,2-0,2,0,Football League First Division,1,H
+1979-05-05,1978/1979,Manchester City,Bristol City,2-0,2,0,Football League First Division,1,H
+1979-05-05,1978/1979,Norwich City,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1979-05-05,1978/1979,Tottenham Hotspur,Everton,1-1,1,1,Football League First Division,1,D
+1979-05-05,1978/1979,West Bromwich Albion,Manchester United,1-0,1,0,Football League First Division,1,H
+1979-05-05,1978/1979,AFC Bournemouth,Wigan Athletic,2-1,2,1,Football League Fourth Division,4,H
+1979-05-05,1978/1979,Aldershot,York City,1-0,1,0,Football League Fourth Division,4,H
+1979-05-05,1978/1979,Crewe Alexandra,Scunthorpe United,0-2,0,2,Football League Fourth Division,4,A
+1979-05-05,1978/1979,Darlington,Bradford City,1-1,1,1,Football League Fourth Division,4,D
+1979-05-05,1978/1979,Grimsby Town,Doncaster Rovers,3-4,3,4,Football League Fourth Division,4,A
+1979-05-05,1978/1979,Halifax Town,Newport County,1-2,1,2,Football League Fourth Division,4,A
+1979-05-05,1978/1979,Hartlepool United,Huddersfield Town,2-0,2,0,Football League Fourth Division,4,H
+1979-05-05,1978/1979,Hereford United,Wimbledon,0-0,0,0,Football League Fourth Division,4,D
+1979-05-05,1978/1979,Port Vale,Reading,0-3,0,3,Football League Fourth Division,4,A
+1979-05-05,1978/1979,Portsmouth,Barnsley,0-1,0,1,Football League Fourth Division,4,A
+1979-05-05,1978/1979,Rochdale,Northampton Town,4-1,4,1,Football League Fourth Division,4,H
+1979-05-05,1978/1979,Torquay United,Stockport County,1-0,1,0,Football League Fourth Division,4,H
+1979-05-05,1978/1979,Wrexham,Sunderland,1-2,1,2,Football League Second Division,2,A
+1979-05-05,1978/1979,Bristol Rovers,Preston North End,0-1,0,1,Football League Second Division,2,A
+1979-05-05,1978/1979,Cambridge United,Sheffield United,1-0,1,0,Football League Second Division,2,H
+1979-05-05,1978/1979,Cardiff City,Burnley,1-1,1,1,Football League Second Division,2,D
+1979-05-05,1978/1979,Charlton Athletic,Oldham Athletic,2-0,2,0,Football League Second Division,2,H
+1979-05-05,1978/1979,Leicester City,Millwall,0-0,0,0,Football League Second Division,2,D
+1979-05-05,1978/1979,Leyton Orient,Crystal Palace,0-1,0,1,Football League Second Division,2,A
+1979-05-05,1978/1979,Luton Town,Fulham,2-0,2,0,Football League Second Division,2,H
+1979-05-05,1978/1979,Newcastle United,Brighton & Hove Albion,1-3,1,3,Football League Second Division,2,A
+1979-05-05,1978/1979,Notts County,Stoke City,0-1,0,1,Football League Second Division,2,A
+1979-05-05,1978/1979,Blackburn Rovers,West Ham United,1-0,1,0,Football League Second Division,2,H
+1979-05-05,1978/1979,Mansfield Town,Chester,2-0,2,0,Football League Third Division,3,H
+1979-05-05,1978/1979,Plymouth Argyle,Swansea City,2-2,2,2,Football League Third Division,3,D
+1979-05-05,1978/1979,Rotherham United,Exeter City,2-1,2,1,Football League Third Division,3,H
+1979-05-05,1978/1979,Sheffield Wednesday,Watford,2-3,2,3,Football League Third Division,3,A
+1979-05-05,1978/1979,Shrewsbury Town,Bury,1-0,1,0,Football League Third Division,3,H
+1979-05-05,1978/1979,Swindon Town,Gillingham,3-1,3,1,Football League Third Division,3,H
+1979-05-05,1978/1979,Walsall,Chesterfield,0-1,0,1,Football League Third Division,3,A
+1979-05-05,1978/1979,Lincoln City,Hull City,4-2,4,2,Football League Third Division,3,H
+1979-05-05,1978/1979,Carlisle United,Oxford United,0-1,0,1,Football League Third Division,3,A
+1979-05-05,1978/1979,Blackpool,Brentford,0-1,0,1,Football League Third Division,3,A
+1979-05-07,1978/1979,Queens Park Rangers,Birmingham City,1-3,1,3,Football League First Division,1,A
+1979-05-07,1978/1979,Manchester United,Wolverhampton Wanderers,3-2,3,2,Football League First Division,1,H
+1979-05-07,1978/1979,Bradford City,Wigan Athletic,1-1,1,1,Football League Fourth Division,4,D
+1979-05-07,1978/1979,Darlington,Hartlepool United,0-1,0,1,Football League Fourth Division,4,A
+1979-05-07,1978/1979,Hereford United,Portsmouth,0-1,0,1,Football League Fourth Division,4,A
+1979-05-07,1978/1979,York City,Port Vale,4-0,4,0,Football League Fourth Division,4,H
+1979-05-07,1978/1979,Halifax Town,Rochdale,2-1,2,1,Football League Fourth Division,4,H
+1979-05-07,1978/1979,Cardiff City,Bristol Rovers,2-0,2,0,Football League Second Division,2,H
+1979-05-07,1978/1979,Wrexham,Luton Town,2-0,2,0,Football League Second Division,2,H
+1979-05-07,1978/1979,Sheffield Wednesday,Rotherham United,2-1,2,1,Football League Third Division,3,H
+1979-05-07,1978/1979,Mansfield Town,Shrewsbury Town,2-2,2,2,Football League Third Division,3,D
+1979-05-07,1978/1979,Hull City,Exeter City,1-0,1,0,Football League Third Division,3,H
+1979-05-07,1978/1979,Colchester United,Gillingham,2-2,2,2,Football League Third Division,3,D
+1979-05-07,1978/1979,Lincoln City,Blackpool,1-2,1,2,Football League Third Division,3,A
+1979-05-08,1978/1979,West Bromwich Albion,Southampton,1-0,1,0,Football League First Division,1,H
+1979-05-08,1978/1979,Liverpool,Aston Villa,3-0,3,0,Football League First Division,1,H
+1979-05-08,1978/1979,Bolton Wanderers,Tottenham Hotspur,1-3,1,3,Football League First Division,1,A
+1979-05-08,1978/1979,Scunthorpe United,Wimbledon,2-0,2,0,Football League Fourth Division,4,H
+1979-05-08,1978/1979,Barnsley,Grimsby Town,2-1,2,1,Football League Fourth Division,4,H
+1979-05-08,1978/1979,Sheffield United,Leicester City,2-2,2,2,Football League Second Division,2,D
+1979-05-08,1978/1979,Burnley,Millwall,0-1,0,1,Football League Second Division,2,A
+1979-05-08,1978/1979,Newcastle United,Wrexham,2-0,2,0,Football League Second Division,2,H
+1979-05-08,1978/1979,Peterborough United,Chesterfield,0-0,0,0,Football League Third Division,3,D
+1979-05-08,1978/1979,Brentford,Swindon Town,1-2,1,2,Football League Third Division,3,A
+1979-05-09,1978/1979,Nottingham Forest,Manchester City,3-1,3,1,Football League First Division,1,H
+1979-05-09,1978/1979,Halifax Town,Hereford United,1-0,1,0,Football League Fourth Division,4,H
+1979-05-09,1978/1979,Rochdale,Torquay United,1-0,1,0,Football League Fourth Division,4,H
+1979-05-09,1978/1979,Blackburn Rovers,Fulham,2-1,2,1,Football League Second Division,2,H
+1979-05-09,1978/1979,Tranmere Rovers,Colchester United,1-5,1,5,Football League Third Division,3,A
+1979-05-09,1978/1979,Lincoln City,Bury,1-4,1,4,Football League Third Division,3,A
+1979-05-10,1978/1979,Hartlepool United,Port Vale,1-2,1,2,Football League Fourth Division,4,A
+1979-05-10,1978/1979,Wrexham,Bristol Rovers,0-1,0,1,Football League Second Division,2,A
+1979-05-10,1978/1979,Shrewsbury Town,Rotherham United,3-1,3,1,Football League Third Division,3,H
+1979-05-11,1978/1979,Queens Park Rangers,Ipswich Town,0-4,0,4,Football League First Division,1,A
+1979-05-11,1978/1979,Middlesbrough,Liverpool,0-1,0,1,Football League First Division,1,A
+1979-05-11,1978/1979,Aston Villa,West Bromwich Albion,0-1,0,1,Football League First Division,1,A
+1979-05-11,1978/1979,Wimbledon,York City,2-1,2,1,Football League Fourth Division,4,H
+1979-05-11,1978/1979,Darlington,Portsmouth,2-0,2,0,Football League Fourth Division,4,H
+1979-05-11,1978/1979,Oldham Athletic,Millwall,4-1,4,1,Football League Second Division,2,H
+1979-05-11,1978/1979,Cardiff City,West Ham United,0-0,0,0,Football League Second Division,2,D
+1979-05-11,1978/1979,Crystal Palace,Burnley,2-0,2,0,Football League Second Division,2,H
+1979-05-11,1978/1979,Swansea City,Chesterfield,2-1,2,1,Football League Third Division,3,H
+1979-05-11,1978/1979,Sheffield Wednesday,Swindon Town,2-1,2,1,Football League Third Division,3,H
+1979-05-11,1978/1979,Peterborough United,Hull City,3-0,3,0,Football League Third Division,3,H
+1979-05-11,1978/1979,Mansfield Town,Lincoln City,2-0,2,0,Football League Third Division,3,H
+1979-05-14,1978/1979,Tottenham Hotspur,West Bromwich Albion,1-0,1,0,Football League First Division,1,H
+1979-05-14,1978/1979,Chelsea,Arsenal,1-1,1,1,Football League First Division,1,D
+1979-05-14,1978/1979,Wimbledon,Barnsley,1-1,1,1,Football League Fourth Division,4,D
+1979-05-14,1978/1979,Halifax Town,Hartlepool United,2-4,2,4,Football League Fourth Division,4,A
+1979-05-14,1978/1979,York City,Stockport County,1-0,1,0,Football League Fourth Division,4,H
+1979-05-14,1978/1979,Darlington,Northampton Town,0-0,0,0,Football League Fourth Division,4,D
+1979-05-14,1978/1979,Oldham Athletic,Burnley,2-0,2,0,Football League Second Division,2,H
+1979-05-14,1978/1979,Millwall,West Ham United,2-1,2,1,Football League Second Division,2,H
+1979-05-14,1978/1979,Cardiff City,Wrexham,1-0,1,0,Football League Second Division,2,H
+1979-05-14,1978/1979,Rotherham United,Walsall,4-1,4,1,Football League Third Division,3,H
+1979-05-14,1978/1979,Watford,Hull City,4-0,4,0,Football League Third Division,3,H
+1979-05-14,1978/1979,Mansfield Town,Oxford United,1-1,1,1,Football League Third Division,3,D
+1979-05-14,1978/1979,Gillingham,Exeter City,2-0,2,0,Football League Third Division,3,H
+1979-05-15,1978/1979,Leeds United,Nottingham Forest,1-2,1,2,Football League First Division,1,A
+1979-05-15,1978/1979,Manchester City,Aston Villa,2-3,2,3,Football League First Division,1,A
+1979-05-15,1978/1979,Portsmouth,Aldershot,1-1,1,1,Football League Fourth Division,4,D
+1979-05-15,1978/1979,Blackpool,Swindon Town,5-2,5,2,Football League Third Division,3,H
+1979-05-15,1978/1979,Bury,Brentford,2-3,2,3,Football League Third Division,3,A
+1979-05-16,1978/1979,Manchester United,Chelsea,1-1,1,1,Football League First Division,1,D
+1979-05-17,1978/1979,Leeds United,Liverpool,0-3,0,3,Football League First Division,1,A
+1979-05-17,1978/1979,Hartlepool United,Northampton Town,2-0,2,0,Football League Fourth Division,4,H
+1979-05-17,1978/1979,Wimbledon,Darlington,2-0,2,0,Football League Fourth Division,4,H
+1979-05-17,1978/1979,Millwall,Wrexham,2-2,2,2,Football League Second Division,2,D
+1979-05-17,1978/1979,Sheffield Wednesday,Blackpool,2-0,2,0,Football League Third Division,3,H
+1979-05-17,1978/1979,Shrewsbury Town,Exeter City,4-1,4,1,Football League Third Division,3,H
+1979-05-18,1978/1979,West Bromwich Albion,Nottingham Forest,0-1,0,1,Football League First Division,1,A
+1979-05-18,1978/1979,Crewe Alexandra,Rochdale,1-2,1,2,Football League Fourth Division,4,A
+1979-05-18,1978/1979,Halifax Town,Scunthorpe United,2-3,2,3,Football League Fourth Division,4,A
+1979-05-19,1978/1979,York City,Huddersfield Town,1-3,1,3,Football League Fourth Division,4,A
+1979-05-19,1978/1979,Mansfield Town,Rotherham United,0-1,0,1,Football League Third Division,3,A
+1979-05-19,1978/1979,Sheffield Wednesday,Hull City,2-3,2,3,Football League Third Division,3,A
+1979-05-19,1978/1979,Bury,Peterborough United,1-0,1,0,Football League Third Division,3,H
+1979-05-19,1978/1979,Chesterfield,Gillingham,0-2,0,2,Football League Third Division,3,A
+1979-05-21,1978/1979,Mansfield Town,Chesterfield,2-1,2,1,Football League Third Division,3,H
+1979-05-22,1978/1979,Millwall,Preston North End,0-2,0,2,Football League Second Division,2,A

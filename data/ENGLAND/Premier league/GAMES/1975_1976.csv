@@ -1,0 +1,2029 @@
+Date,Season,HomeTeam,AwayTeam,Score,hGoal,aGoal,Division,Tier,Result
+1975-08-16,1975/1976,Aston Villa,Leeds United,1-2,1,2,Football League First Division,1,A
+1975-08-16,1975/1976,Burnley,Arsenal,0-0,0,0,Football League First Division,1,D
+1975-08-16,1975/1976,Everton,Coventry City,1-4,1,4,Football League First Division,1,A
+1975-08-16,1975/1976,Ipswich Town,Newcastle United,0-3,0,3,Football League First Division,1,A
+1975-08-16,1975/1976,Leicester City,Birmingham City,3-3,3,3,Football League First Division,1,D
+1975-08-16,1975/1976,Manchester City,Norwich City,3-0,3,0,Football League First Division,1,H
+1975-08-16,1975/1976,Queens Park Rangers,Liverpool,2-0,2,0,Football League First Division,1,H
+1975-08-16,1975/1976,Sheffield United,Derby County,1-1,1,1,Football League First Division,1,D
+1975-08-16,1975/1976,Tottenham Hotspur,Middlesbrough,1-0,1,0,Football League First Division,1,H
+1975-08-16,1975/1976,Stoke City,West Ham United,1-2,1,2,Football League First Division,1,A
+1975-08-16,1975/1976,Wolverhampton Wanderers,Manchester United,0-2,0,2,Football League First Division,1,A
+1975-08-16,1975/1976,Barnsley,Watford,1-0,1,0,Football League Fourth Division,4,H
+1975-08-16,1975/1976,Doncaster Rovers,Cambridge United,0-2,0,2,Football League Fourth Division,4,A
+1975-08-16,1975/1976,Torquay United,Workington,1-0,1,0,Football League Fourth Division,4,H
+1975-08-16,1975/1976,Exeter City,Southport,2-0,2,0,Football League Fourth Division,4,H
+1975-08-16,1975/1976,Hartlepool United,AFC Bournemouth,1-1,1,1,Football League Fourth Division,4,D
+1975-08-16,1975/1976,Huddersfield Town,Northampton Town,1-1,1,1,Football League Fourth Division,4,D
+1975-08-16,1975/1976,Newport County,Lincoln City,3-1,3,1,Football League Fourth Division,4,H
+1975-08-16,1975/1976,Reading,Rochdale,2-0,2,0,Football League Fourth Division,4,H
+1975-08-16,1975/1976,Stockport County,Crewe Alexandra,0-0,0,0,Football League Fourth Division,4,D
+1975-08-16,1975/1976,Swansea City,Tranmere Rovers,1-1,1,1,Football League Fourth Division,4,D
+1975-08-16,1975/1976,Bradford City,Brentford,1-1,1,1,Football League Fourth Division,4,D
+1975-08-16,1975/1976,Darlington,Scunthorpe United,2-0,2,0,Football League Fourth Division,4,H
+1975-08-16,1975/1976,York City,Portsmouth,2-1,2,1,Football League Second Division,2,H
+1975-08-16,1975/1976,Bristol City,Bolton Wanderers,1-0,1,0,Football League Second Division,2,H
+1975-08-16,1975/1976,Carlisle United,Oxford United,1-1,1,1,Football League Second Division,2,D
+1975-08-16,1975/1976,Charlton Athletic,Notts County,1-2,1,2,Football League Second Division,2,A
+1975-08-16,1975/1976,Fulham,Blackpool,0-0,0,0,Football League Second Division,2,D
+1975-08-16,1975/1976,Leyton Orient,Blackburn Rovers,1-1,1,1,Football League Second Division,2,D
+1975-08-16,1975/1976,Luton Town,Hull City,2-0,2,0,Football League Second Division,2,H
+1975-08-16,1975/1976,Nottingham Forest,Plymouth Argyle,2-0,2,0,Football League Second Division,2,H
+1975-08-16,1975/1976,Oldham Athletic,Bristol Rovers,2-0,2,0,Football League Second Division,2,H
+1975-08-16,1975/1976,Southampton,West Bromwich Albion,3-0,3,0,Football League Second Division,2,H
+1975-08-16,1975/1976,Sunderland,Chelsea,2-1,2,1,Football League Second Division,2,H
+1975-08-16,1975/1976,Swindon Town,Chesterfield,0-1,0,1,Football League Third Division,3,A
+1975-08-16,1975/1976,Southend United,Sheffield Wednesday,2-1,2,1,Football League Third Division,3,H
+1975-08-16,1975/1976,Preston North End,Colchester United,2-1,2,1,Football League Third Division,3,H
+1975-08-16,1975/1976,Hereford United,Port Vale,0-0,0,0,Football League Third Division,3,D
+1975-08-16,1975/1976,Mansfield Town,Shrewsbury Town,1-2,1,2,Football League Third Division,3,A
+1975-08-16,1975/1976,Wrexham,Aldershot,3-1,3,1,Football League Third Division,3,H
+1975-08-16,1975/1976,Halifax Town,Millwall,1-2,1,2,Football League Third Division,3,A
+1975-08-16,1975/1976,Grimsby Town,Cardiff City,2-0,2,0,Football League Third Division,3,H
+1975-08-16,1975/1976,Peterborough United,Walsall,0-0,0,0,Football League Third Division,3,D
+1975-08-16,1975/1976,Crystal Palace,Chester,2-0,2,0,Football League Third Division,3,H
+1975-08-16,1975/1976,Bury,Gillingham,2-0,2,0,Football League Third Division,3,H
+1975-08-16,1975/1976,Brighton & Hove Albion,Rotherham United,3-0,3,0,Football League Third Division,3,H
+1975-08-19,1975/1976,Sheffield United,Arsenal,1-3,1,3,Football League First Division,1,A
+1975-08-19,1975/1976,Queens Park Rangers,Aston Villa,1-1,1,1,Football League First Division,1,D
+1975-08-19,1975/1976,Coventry City,Derby County,1-1,1,1,Football League First Division,1,D
+1975-08-19,1975/1976,Burnley,Everton,1-1,1,1,Football League First Division,1,D
+1975-08-19,1975/1976,Birmingham City,Manchester United,0-2,0,2,Football League First Division,1,A
+1975-08-19,1975/1976,Liverpool,West Ham United,2-2,2,2,Football League First Division,1,D
+1975-08-19,1975/1976,Hull City,Blackpool,1-0,1,0,Football League Second Division,2,H
+1975-08-19,1975/1976,Bristol City,Sunderland,3-0,3,0,Football League Second Division,2,H
+1975-08-19,1975/1976,Leyton Orient,Notts County,1-1,1,1,Football League Second Division,2,D
+1975-08-20,1975/1976,Tottenham Hotspur,Ipswich Town,1-1,1,1,Football League First Division,1,D
+1975-08-20,1975/1976,Norwich City,Leeds United,1-1,1,1,Football League First Division,1,D
+1975-08-20,1975/1976,Newcastle United,Middlesbrough,1-1,1,1,Football League First Division,1,D
+1975-08-20,1975/1976,Manchester City,Leicester City,1-1,1,1,Football League First Division,1,D
+1975-08-20,1975/1976,Stoke City,Wolverhampton Wanderers,2-2,2,2,Football League First Division,1,D
+1975-08-20,1975/1976,Oxford United,Bolton Wanderers,2-0,2,0,Football League Second Division,2,H
+1975-08-20,1975/1976,Fulham,Carlisle United,3-0,3,0,Football League Second Division,2,H
+1975-08-20,1975/1976,West Bromwich Albion,Chelsea,0-0,0,0,Football League Second Division,2,D
+1975-08-22,1975/1976,Stockport County,Northampton Town,1-3,1,3,Football League Fourth Division,4,A
+1975-08-22,1975/1976,Tranmere Rovers,Doncaster Rovers,2-2,2,2,Football League Fourth Division,4,D
+1975-08-23,1975/1976,Newcastle United,Leicester City,3-0,3,0,Football League First Division,1,H
+1975-08-23,1975/1976,Arsenal,Stoke City,0-1,0,1,Football League First Division,1,A
+1975-08-23,1975/1976,Birmingham City,Everton,0-1,0,1,Football League First Division,1,A
+1975-08-23,1975/1976,Coventry City,Manchester City,2-0,2,0,Football League First Division,1,H
+1975-08-23,1975/1976,Derby County,Queens Park Rangers,1-5,1,5,Football League First Division,1,A
+1975-08-23,1975/1976,Leeds United,Ipswich Town,1-0,1,0,Football League First Division,1,H
+1975-08-23,1975/1976,Liverpool,Tottenham Hotspur,3-2,3,2,Football League First Division,1,H
+1975-08-23,1975/1976,Manchester United,Sheffield United,5-1,5,1,Football League First Division,1,H
+1975-08-23,1975/1976,Middlesbrough,Wolverhampton Wanderers,1-0,1,0,Football League First Division,1,H
+1975-08-23,1975/1976,West Ham United,Burnley,3-2,3,2,Football League First Division,1,H
+1975-08-23,1975/1976,Norwich City,Aston Villa,5-3,5,3,Football League First Division,1,H
+1975-08-23,1975/1976,Scunthorpe United,Exeter City,0-1,0,1,Football League Fourth Division,4,A
+1975-08-23,1975/1976,Brentford,Hartlepool United,1-1,1,1,Football League Fourth Division,4,D
+1975-08-23,1975/1976,Cambridge United,Bradford City,0-0,0,0,Football League Fourth Division,4,D
+1975-08-23,1975/1976,Crewe Alexandra,Reading,3-3,3,3,Football League Fourth Division,4,D
+1975-08-23,1975/1976,Lincoln City,Torquay United,4-2,4,2,Football League Fourth Division,4,H
+1975-08-23,1975/1976,Rochdale,Swansea City,2-1,2,1,Football League Fourth Division,4,H
+1975-08-23,1975/1976,Southport,Barnsley,0-0,0,0,Football League Fourth Division,4,D
+1975-08-23,1975/1976,Watford,Huddersfield Town,0-2,0,2,Football League Fourth Division,4,A
+1975-08-23,1975/1976,Workington,Newport County,1-2,1,2,Football League Fourth Division,4,A
+1975-08-23,1975/1976,AFC Bournemouth,Darlington,1-2,1,2,Football League Fourth Division,4,A
+1975-08-23,1975/1976,Portsmouth,Nottingham Forest,1-1,1,1,Football League Second Division,2,D
+1975-08-23,1975/1976,Blackpool,Leyton Orient,1-0,1,0,Football League Second Division,2,H
+1975-08-23,1975/1976,Bolton Wanderers,Fulham,2-2,2,2,Football League Second Division,2,D
+1975-08-23,1975/1976,Bristol Rovers,York City,2-1,2,1,Football League Second Division,2,H
+1975-08-23,1975/1976,Chelsea,Carlisle United,3-1,3,1,Football League Second Division,2,H
+1975-08-23,1975/1976,Hull City,Bristol City,3-1,3,1,Football League Second Division,2,H
+1975-08-23,1975/1976,Notts County,Southampton,0-0,0,0,Football League Second Division,2,D
+1975-08-23,1975/1976,Oxford United,Sunderland,1-1,1,1,Football League Second Division,2,D
+1975-08-23,1975/1976,Plymouth Argyle,Charlton Athletic,1-0,1,0,Football League Second Division,2,H
+1975-08-23,1975/1976,Blackburn Rovers,Oldham Athletic,4-1,4,1,Football League Second Division,2,H
+1975-08-23,1975/1976,West Bromwich Albion,Luton Town,1-0,1,0,Football League Second Division,2,H
+1975-08-23,1975/1976,Shrewsbury Town,Peterborough United,3-1,3,1,Football League Third Division,3,H
+1975-08-23,1975/1976,Chesterfield,Crystal Palace,1-2,1,2,Football League Third Division,3,A
+1975-08-23,1975/1976,Colchester United,Mansfield Town,0-2,0,2,Football League Third Division,3,A
+1975-08-23,1975/1976,Gillingham,Grimsby Town,3-0,3,0,Football League Third Division,3,H
+1975-08-23,1975/1976,Chester,Southend United,1-1,1,1,Football League Third Division,3,D
+1975-08-23,1975/1976,Millwall,Wrexham,2-1,2,1,Football League Third Division,3,H
+1975-08-23,1975/1976,Port Vale,Preston North End,1-1,1,1,Football League Third Division,3,D
+1975-08-23,1975/1976,Rotherham United,Hereford United,1-1,1,1,Football League Third Division,3,D
+1975-08-23,1975/1976,Sheffield Wednesday,Brighton & Hove Albion,3-3,3,3,Football League Third Division,3,D
+1975-08-23,1975/1976,Walsall,Swindon Town,1-1,1,1,Football League Third Division,3,D
+1975-08-23,1975/1976,Cardiff City,Bury,1-1,1,1,Football League Third Division,3,D
+1975-08-23,1975/1976,Aldershot,Halifax Town,1-2,1,2,Football League Third Division,3,A
+1975-08-25,1975/1976,West Ham United,Tottenham Hotspur,1-0,1,0,Football League First Division,1,H
+1975-08-26,1975/1976,Wolverhampton Wanderers,Queens Park Rangers,2-2,2,2,Football League First Division,1,D
+1975-08-26,1975/1976,Middlesbrough,Birmingham City,2-0,2,0,Football League First Division,1,H
+1975-08-26,1975/1976,Everton,Sheffield United,3-0,3,0,Football League First Division,1,H
+1975-08-26,1975/1976,Ipswich Town,Burnley,0-0,0,0,Football League First Division,1,D
+1975-08-26,1975/1976,Arsenal,Norwich City,2-1,2,1,Football League First Division,1,H
+1975-08-26,1975/1976,Leeds United,Liverpool,0-3,0,3,Football League First Division,1,A
+1975-08-26,1975/1976,Southampton,Bristol City,3-1,3,1,Football League Second Division,2,H
+1975-08-26,1975/1976,Sunderland,Fulham,2-0,2,0,Football League Second Division,2,H
+1975-08-27,1975/1976,Aston Villa,Manchester City,1-0,1,0,Football League First Division,1,H
+1975-08-27,1975/1976,Derby County,Newcastle United,3-2,3,2,Football League First Division,1,H
+1975-08-27,1975/1976,Leicester City,Stoke City,1-1,1,1,Football League First Division,1,D
+1975-08-27,1975/1976,Manchester United,Coventry City,1-1,1,1,Football League First Division,1,D
+1975-08-27,1975/1976,Chelsea,Oxford United,3-1,3,1,Football League Second Division,2,H
+1975-08-29,1975/1976,Exeter City,Tranmere Rovers,0-2,0,2,Football League Fourth Division,4,A
+1975-08-29,1975/1976,Southampton,Plymouth Argyle,1-0,1,0,Football League Second Division,2,H
+1975-08-29,1975/1976,Charlton Athletic,Oxford United,2-1,2,1,Football League Second Division,2,H
+1975-08-29,1975/1976,Leyton Orient,Portsmouth,0-1,0,1,Football League Second Division,2,A
+1975-08-30,1975/1976,Leicester City,Liverpool,1-1,1,1,Football League First Division,1,D
+1975-08-30,1975/1976,Aston Villa,Coventry City,1-0,1,0,Football League First Division,1,H
+1975-08-30,1975/1976,Burnley,Middlesbrough,4-1,4,1,Football League First Division,1,H
+1975-08-30,1975/1976,Everton,Derby County,2-0,2,0,Football League First Division,1,H
+1975-08-30,1975/1976,Ipswich Town,Birmingham City,4-2,4,2,Football League First Division,1,H
+1975-08-30,1975/1976,Manchester City,Newcastle United,4-0,4,0,Football League First Division,1,H
+1975-08-30,1975/1976,Queens Park Rangers,West Ham United,1-1,1,1,Football League First Division,1,D
+1975-08-30,1975/1976,Sheffield United,Leeds United,0-2,0,2,Football League First Division,1,A
+1975-08-30,1975/1976,Stoke City,Manchester United,0-1,0,1,Football League First Division,1,A
+1975-08-30,1975/1976,Tottenham Hotspur,Norwich City,2-2,2,2,Football League First Division,1,D
+1975-08-30,1975/1976,Wolverhampton Wanderers,Arsenal,0-0,0,0,Football League First Division,1,D
+1975-08-30,1975/1976,Barnsley,Northampton Town,3-1,3,1,Football League Fourth Division,4,H
+1975-08-30,1975/1976,Darlington,Watford,1-0,1,0,Football League Fourth Division,4,H
+1975-08-30,1975/1976,Doncaster Rovers,Crewe Alexandra,3-1,3,1,Football League Fourth Division,4,H
+1975-08-30,1975/1976,Hartlepool United,Lincoln City,2-2,2,2,Football League Fourth Division,4,D
+1975-08-30,1975/1976,Huddersfield Town,Rochdale,0-0,0,0,Football League Fourth Division,4,D
+1975-08-30,1975/1976,Torquay United,Brentford,2-3,2,3,Football League Fourth Division,4,A
+1975-08-30,1975/1976,Newport County,Scunthorpe United,0-0,0,0,Football League Fourth Division,4,D
+1975-08-30,1975/1976,Reading,Southport,1-0,1,0,Football League Fourth Division,4,H
+1975-08-30,1975/1976,Stockport County,Workington,4-1,4,1,Football League Fourth Division,4,H
+1975-08-30,1975/1976,Swansea City,Cambridge United,1-0,1,0,Football League Fourth Division,4,H
+1975-08-30,1975/1976,Bradford City,AFC Bournemouth,0-1,0,1,Football League Fourth Division,4,A
+1975-08-30,1975/1976,Bristol City,Bristol Rovers,1-1,1,1,Football League Second Division,2,D
+1975-08-30,1975/1976,Carlisle United,Blackburn Rovers,0-1,0,1,Football League Second Division,2,A
+1975-08-30,1975/1976,Fulham,West Bromwich Albion,4-0,4,0,Football League Second Division,2,H
+1975-08-30,1975/1976,Luton Town,Chelsea,3-0,3,0,Football League Second Division,2,H
+1975-08-30,1975/1976,Nottingham Forest,Notts County,0-1,0,1,Football League Second Division,2,A
+1975-08-30,1975/1976,Oldham Athletic,Hull City,1-0,1,0,Football League Second Division,2,H
+1975-08-30,1975/1976,Sunderland,Blackpool,2-0,2,0,Football League Second Division,2,H
+1975-08-30,1975/1976,York City,Bolton Wanderers,1-2,1,2,Football League Second Division,2,A
+1975-08-30,1975/1976,Wrexham,Chesterfield,1-0,1,0,Football League Third Division,3,H
+1975-08-30,1975/1976,Halifax Town,Walsall,2-1,2,1,Football League Third Division,3,H
+1975-08-30,1975/1976,Hereford United,Sheffield Wednesday,3-1,3,1,Football League Third Division,3,H
+1975-08-30,1975/1976,Mansfield Town,Chester,1-1,1,1,Football League Third Division,3,D
+1975-08-30,1975/1976,Peterborough United,Port Vale,0-0,0,0,Football League Third Division,3,D
+1975-08-30,1975/1976,Preston North End,Millwall,2-1,2,1,Football League Third Division,3,H
+1975-08-30,1975/1976,Southend United,Rotherham United,1-2,1,2,Football League Third Division,3,A
+1975-08-30,1975/1976,Swindon Town,Gillingham,2-2,2,2,Football League Third Division,3,D
+1975-08-30,1975/1976,Grimsby Town,Shrewsbury Town,3-2,3,2,Football League Third Division,3,H
+1975-08-30,1975/1976,Crystal Palace,Colchester United,3-2,3,2,Football League Third Division,3,H
+1975-08-30,1975/1976,Brighton & Hove Albion,Cardiff City,0-1,0,1,Football League Third Division,3,A
+1975-08-30,1975/1976,Bury,Aldershot,1-1,1,1,Football League Third Division,3,D
+1975-09-05,1975/1976,Tranmere Rovers,Darlington,2-0,2,0,Football League Fourth Division,4,H
+1975-09-05,1975/1976,Southport,Swansea City,1-1,1,1,Football League Fourth Division,4,D
+1975-09-05,1975/1976,Northampton Town,Bradford City,4-2,4,2,Football League Fourth Division,4,H
+1975-09-06,1975/1976,Arsenal,Leicester City,1-1,1,1,Football League First Division,1,D
+1975-09-06,1975/1976,Birmingham City,Queens Park Rangers,1-1,1,1,Football League First Division,1,D
+1975-09-06,1975/1976,Coventry City,Ipswich Town,0-0,0,0,Football League First Division,1,D
+1975-09-06,1975/1976,Derby County,Burnley,3-0,3,0,Football League First Division,1,H
+1975-09-06,1975/1976,Leeds United,Wolverhampton Wanderers,3-0,3,0,Football League First Division,1,H
+1975-09-06,1975/1976,Liverpool,Sheffield United,1-0,1,0,Football League First Division,1,H
+1975-09-06,1975/1976,Manchester United,Tottenham Hotspur,3-2,3,2,Football League First Division,1,H
+1975-09-06,1975/1976,Middlesbrough,Stoke City,3-0,3,0,Football League First Division,1,H
+1975-09-06,1975/1976,Norwich City,Everton,4-2,4,2,Football League First Division,1,H
+1975-09-06,1975/1976,Newcastle United,Aston Villa,3-0,3,0,Football League First Division,1,H
+1975-09-06,1975/1976,West Ham United,Manchester City,1-0,1,0,Football League First Division,1,H
+1975-09-06,1975/1976,Workington,Exeter City,1-0,1,0,Football League Fourth Division,4,H
+1975-09-06,1975/1976,AFC Bournemouth,Doncaster Rovers,0-1,0,1,Football League Fourth Division,4,A
+1975-09-06,1975/1976,Brentford,Barnsley,1-0,1,0,Football League Fourth Division,4,H
+1975-09-06,1975/1976,Cambridge United,Stockport County,0-1,0,1,Football League Fourth Division,4,A
+1975-09-06,1975/1976,Crewe Alexandra,Torquay United,6-0,6,0,Football League Fourth Division,4,H
+1975-09-06,1975/1976,Lincoln City,Reading,3-1,3,1,Football League Fourth Division,4,H
+1975-09-06,1975/1976,Rochdale,Newport County,4-3,4,3,Football League Fourth Division,4,H
+1975-09-06,1975/1976,Scunthorpe United,Huddersfield Town,0-1,0,1,Football League Fourth Division,4,A
+1975-09-06,1975/1976,Watford,Hartlepool United,2-1,2,1,Football League Fourth Division,4,H
+1975-09-06,1975/1976,West Bromwich Albion,York City,2-2,2,2,Football League Second Division,2,D
+1975-09-06,1975/1976,Plymouth Argyle,Sunderland,1-0,1,0,Football League Second Division,2,H
+1975-09-06,1975/1976,Blackburn Rovers,Bristol City,1-2,1,2,Football League Second Division,2,A
+1975-09-06,1975/1976,Blackpool,Oldham Athletic,1-1,1,1,Football League Second Division,2,D
+1975-09-06,1975/1976,Bolton Wanderers,Southampton,3-0,3,0,Football League Second Division,2,H
+1975-09-06,1975/1976,Bristol Rovers,Charlton Athletic,0-0,0,0,Football League Second Division,2,D
+1975-09-06,1975/1976,Chelsea,Nottingham Forest,0-0,0,0,Football League Second Division,2,D
+1975-09-06,1975/1976,Hull City,Leyton Orient,1-0,1,0,Football League Second Division,2,H
+1975-09-06,1975/1976,Notts County,Carlisle United,1-0,1,0,Football League Second Division,2,H
+1975-09-06,1975/1976,Oxford United,Fulham,1-3,1,3,Football League Second Division,2,A
+1975-09-06,1975/1976,Portsmouth,Luton Town,0-2,0,2,Football League Second Division,2,A
+1975-09-06,1975/1976,Cardiff City,Crystal Palace,0-1,0,1,Football League Third Division,3,A
+1975-09-06,1975/1976,Chester,Grimsby Town,1-2,1,2,Football League Third Division,3,A
+1975-09-06,1975/1976,Chesterfield,Peterborough United,1-1,1,1,Football League Third Division,3,D
+1975-09-06,1975/1976,Colchester United,Halifax Town,0-1,0,1,Football League Third Division,3,A
+1975-09-06,1975/1976,Gillingham,Preston North End,1-0,1,0,Football League Third Division,3,H
+1975-09-06,1975/1976,Millwall,Hereford United,1-0,1,0,Football League Third Division,3,H
+1975-09-06,1975/1976,Port Vale,Brighton & Hove Albion,1-1,1,1,Football League Third Division,3,D
+1975-09-06,1975/1976,Rotherham United,Bury,3-3,3,3,Football League Third Division,3,D
+1975-09-06,1975/1976,Sheffield Wednesday,Wrexham,1-0,1,0,Football League Third Division,3,H
+1975-09-06,1975/1976,Shrewsbury Town,Swindon Town,3-0,3,0,Football League Third Division,3,H
+1975-09-06,1975/1976,Walsall,Southend United,2-3,2,3,Football League Third Division,3,A
+1975-09-06,1975/1976,Aldershot,Mansfield Town,2-1,2,1,Football League Third Division,3,H
+1975-09-10,1975/1976,Brighton & Hove Albion,Walsall,1-2,1,2,Football League Third Division,3,A
+1975-09-12,1975/1976,Stockport County,AFC Bournemouth,0-0,0,0,Football League Fourth Division,4,D
+1975-09-12,1975/1976,Barnsley,Crewe Alexandra,1-1,1,1,Football League Fourth Division,4,D
+1975-09-12,1975/1976,Bristol City,Oxford United,4-1,4,1,Football League Second Division,2,H
+1975-09-13,1975/1976,Aston Villa,Arsenal,2-0,2,0,Football League First Division,1,H
+1975-09-13,1975/1976,Burnley,Norwich City,4-4,4,4,Football League First Division,1,D
+1975-09-13,1975/1976,Everton,Newcastle United,3-0,3,0,Football League First Division,1,H
+1975-09-13,1975/1976,Ipswich Town,Liverpool,2-0,2,0,Football League First Division,1,H
+1975-09-13,1975/1976,Leicester City,West Ham United,3-3,3,3,Football League First Division,1,D
+1975-09-13,1975/1976,Manchester City,Middlesbrough,4-0,4,0,Football League First Division,1,H
+1975-09-13,1975/1976,Queens Park Rangers,Manchester United,1-0,1,0,Football League First Division,1,H
+1975-09-13,1975/1976,Stoke City,Leeds United,3-2,3,2,Football League First Division,1,H
+1975-09-13,1975/1976,Sheffield United,Coventry City,0-1,0,1,Football League First Division,1,A
+1975-09-13,1975/1976,Wolverhampton Wanderers,Birmingham City,2-0,2,0,Football League First Division,1,H
+1975-09-13,1975/1976,Tottenham Hotspur,Derby County,2-3,2,3,Football League First Division,1,A
+1975-09-13,1975/1976,Torquay United,Rochdale,1-0,1,0,Football League Fourth Division,4,H
+1975-09-13,1975/1976,Bradford City,Tranmere Rovers,3-0,3,0,Football League Fourth Division,4,H
+1975-09-13,1975/1976,Darlington,Northampton Town,0-1,0,1,Football League Fourth Division,4,A
+1975-09-13,1975/1976,Exeter City,Cambridge United,1-2,1,2,Football League Fourth Division,4,A
+1975-09-13,1975/1976,Hartlepool United,Scunthorpe United,1-2,1,2,Football League Fourth Division,4,A
+1975-09-13,1975/1976,Huddersfield Town,Lincoln City,0-1,0,1,Football League Fourth Division,4,A
+1975-09-13,1975/1976,Newport County,Southport,2-0,2,0,Football League Fourth Division,4,H
+1975-09-13,1975/1976,Reading,Watford,3-0,3,0,Football League Fourth Division,4,H
+1975-09-13,1975/1976,Swansea City,Workington,1-0,1,0,Football League Fourth Division,4,H
+1975-09-13,1975/1976,Leyton Orient,Plymouth Argyle,1-0,1,0,Football League Second Division,2,H
+1975-09-13,1975/1976,Sunderland,West Bromwich Albion,2-0,2,0,Football League Second Division,2,H
+1975-09-13,1975/1976,York City,Notts County,1-2,1,2,Football League Second Division,2,A
+1975-09-13,1975/1976,Carlisle United,Portsmouth,2-1,2,1,Football League Second Division,2,H
+1975-09-13,1975/1976,Charlton Athletic,Blackpool,1-1,1,1,Football League Second Division,2,D
+1975-09-13,1975/1976,Fulham,Bristol Rovers,0-2,0,2,Football League Second Division,2,A
+1975-09-13,1975/1976,Luton Town,Bolton Wanderers,0-2,0,2,Football League Second Division,2,A
+1975-09-13,1975/1976,Nottingham Forest,Hull City,1-2,1,2,Football League Second Division,2,A
+1975-09-13,1975/1976,Oldham Athletic,Chelsea,2-1,2,1,Football League Second Division,2,H
+1975-09-13,1975/1976,Southampton,Blackburn Rovers,2-1,2,1,Football League Second Division,2,H
+1975-09-13,1975/1976,Bury,Chesterfield,3-1,3,1,Football League Third Division,3,H
+1975-09-13,1975/1976,Crystal Palace,Rotherham United,2-0,2,0,Football League Third Division,3,H
+1975-09-13,1975/1976,Grimsby Town,Millwall,2-1,2,1,Football League Third Division,3,H
+1975-09-13,1975/1976,Halifax Town,Shrewsbury Town,0-0,0,0,Football League Third Division,3,D
+1975-09-13,1975/1976,Hereford United,Colchester United,0-0,0,0,Football League Third Division,3,D
+1975-09-13,1975/1976,Mansfield Town,Cardiff City,1-4,1,4,Football League Third Division,3,A
+1975-09-13,1975/1976,Peterborough United,Aldershot,1-1,1,1,Football League Third Division,3,D
+1975-09-13,1975/1976,Preston North End,Walsall,3-1,3,1,Football League Third Division,3,H
+1975-09-13,1975/1976,Southend United,Port Vale,3-3,3,3,Football League Third Division,3,D
+1975-09-13,1975/1976,Swindon Town,Sheffield Wednesday,2-1,2,1,Football League Third Division,3,H
+1975-09-13,1975/1976,Wrexham,Gillingham,2-0,2,0,Football League Third Division,3,H
+1975-09-13,1975/1976,Brighton & Hove Albion,Chester,6-0,6,0,Football League Third Division,3,H
+1975-09-15,1975/1976,Doncaster Rovers,Brentford,1-1,1,1,Football League Fourth Division,4,D
+1975-09-16,1975/1976,Walsall,Crystal Palace,1-1,1,1,Football League Third Division,3,D
+1975-09-19,1975/1976,Tranmere Rovers,Barnsley,1-0,1,0,Football League Fourth Division,4,H
+1975-09-19,1975/1976,Northampton Town,Swansea City,0-0,0,0,Football League Fourth Division,4,D
+1975-09-19,1975/1976,Southport,Hartlepool United,2-4,2,4,Football League Fourth Division,4,A
+1975-09-20,1975/1976,Arsenal,Everton,2-2,2,2,Football League First Division,1,D
+1975-09-20,1975/1976,Birmingham City,Burnley,4-0,4,0,Football League First Division,1,H
+1975-09-20,1975/1976,Coventry City,Stoke City,0-3,0,3,Football League First Division,1,A
+1975-09-20,1975/1976,Leeds United,Tottenham Hotspur,1-1,1,1,Football League First Division,1,D
+1975-09-20,1975/1976,Liverpool,Aston Villa,3-0,3,0,Football League First Division,1,H
+1975-09-20,1975/1976,Manchester United,Ipswich Town,1-0,1,0,Football League First Division,1,H
+1975-09-20,1975/1976,Middlesbrough,Queens Park Rangers,0-0,0,0,Football League First Division,1,D
+1975-09-20,1975/1976,Newcastle United,Wolverhampton Wanderers,5-1,5,1,Football League First Division,1,H
+1975-09-20,1975/1976,Norwich City,Leicester City,2-0,2,0,Football League First Division,1,H
+1975-09-20,1975/1976,Derby County,Manchester City,1-0,1,0,Football League First Division,1,H
+1975-09-20,1975/1976,West Ham United,Sheffield United,2-0,2,0,Football League First Division,1,H
+1975-09-20,1975/1976,Brentford,Stockport County,2-1,2,1,Football League Fourth Division,4,H
+1975-09-20,1975/1976,Cambridge United,Huddersfield Town,0-0,0,0,Football League Fourth Division,4,D
+1975-09-20,1975/1976,Crewe Alexandra,Darlington,2-0,2,0,Football League Fourth Division,4,H
+1975-09-20,1975/1976,Lincoln City,Exeter City,4-1,4,1,Football League Fourth Division,4,H
+1975-09-20,1975/1976,Rochdale,Bradford City,0-0,0,0,Football League Fourth Division,4,D
+1975-09-20,1975/1976,Scunthorpe United,Torquay United,3-1,3,1,Football League Fourth Division,4,H
+1975-09-20,1975/1976,Watford,Doncaster Rovers,2-1,2,1,Football League Fourth Division,4,H
+1975-09-20,1975/1976,Workington,Reading,0-2,0,2,Football League Fourth Division,4,A
+1975-09-20,1975/1976,AFC Bournemouth,Newport County,2-0,2,0,Football League Fourth Division,4,H
+1975-09-20,1975/1976,Chelsea,Bristol City,1-1,1,1,Football League Second Division,2,D
+1975-09-20,1975/1976,Portsmouth,Oldham Athletic,1-1,1,1,Football League Second Division,2,D
+1975-09-20,1975/1976,West Bromwich Albion,Charlton Athletic,1-1,1,1,Football League Second Division,2,D
+1975-09-20,1975/1976,Blackburn Rovers,Sunderland,0-1,0,1,Football League Second Division,2,A
+1975-09-20,1975/1976,Blackpool,Southampton,4-3,4,3,Football League Second Division,2,H
+1975-09-20,1975/1976,Bolton Wanderers,Leyton Orient,1-1,1,1,Football League Second Division,2,D
+1975-09-20,1975/1976,Bristol Rovers,Carlisle United,0-1,0,1,Football League Second Division,2,A
+1975-09-20,1975/1976,Hull City,Fulham,1-2,1,2,Football League Second Division,2,A
+1975-09-20,1975/1976,Notts County,Luton Town,1-0,1,0,Football League Second Division,2,H
+1975-09-20,1975/1976,Oxford United,Nottingham Forest,0-1,0,1,Football League Second Division,2,A
+1975-09-20,1975/1976,Plymouth Argyle,York City,1-1,1,1,Football League Second Division,2,D
+1975-09-20,1975/1976,Cardiff City,Halifax Town,0-0,0,0,Football League Third Division,3,D
+1975-09-20,1975/1976,Chester,Peterborough United,1-1,1,1,Football League Third Division,3,D
+1975-09-20,1975/1976,Chesterfield,Hereford United,2-3,2,3,Football League Third Division,3,A
+1975-09-20,1975/1976,Colchester United,Brighton & Hove Albion,2-0,2,0,Football League Third Division,3,H
+1975-09-20,1975/1976,Gillingham,Mansfield Town,3-1,3,1,Football League Third Division,3,H
+1975-09-20,1975/1976,Millwall,Southend United,2-1,2,1,Football League Third Division,3,H
+1975-09-20,1975/1976,Port Vale,Swindon Town,3-0,3,0,Football League Third Division,3,H
+1975-09-20,1975/1976,Rotherham United,Wrexham,2-1,2,1,Football League Third Division,3,H
+1975-09-20,1975/1976,Sheffield Wednesday,Grimsby Town,4-0,4,0,Football League Third Division,3,H
+1975-09-20,1975/1976,Shrewsbury Town,Crystal Palace,2-4,2,4,Football League Third Division,3,A
+1975-09-20,1975/1976,Walsall,Bury,0-1,0,1,Football League Third Division,3,A
+1975-09-20,1975/1976,Aldershot,Preston North End,1-1,1,1,Football League Third Division,3,D
+1975-09-22,1975/1976,Tranmere Rovers,Scunthorpe United,2-1,2,1,Football League Fourth Division,4,H
+1975-09-22,1975/1976,Stockport County,Darlington,0-0,0,0,Football League Fourth Division,4,D
+1975-09-22,1975/1976,Hartlepool United,Reading,2-4,2,4,Football League Fourth Division,4,A
+1975-09-22,1975/1976,Walsall,Shrewsbury Town,2-0,2,0,Football League Third Division,3,H
+1975-09-22,1975/1976,Port Vale,Cardiff City,2-1,2,1,Football League Third Division,3,H
+1975-09-22,1975/1976,Southend United,Preston North End,0-2,0,2,Football League Third Division,3,A
+1975-09-23,1975/1976,Wolverhampton Wanderers,Aston Villa,0-0,0,0,Football League First Division,1,D
+1975-09-23,1975/1976,Sheffield United,Burnley,2-1,2,1,Football League First Division,1,H
+1975-09-23,1975/1976,Queens Park Rangers,Leicester City,1-0,1,0,Football League First Division,1,H
+1975-09-23,1975/1976,Ipswich Town,Norwich City,2-0,2,0,Football League First Division,1,H
+1975-09-23,1975/1976,Coventry City,Middlesbrough,0-1,0,1,Football League First Division,1,A
+1975-09-23,1975/1976,Birmingham City,Newcastle United,3-2,3,2,Football League First Division,1,H
+1975-09-23,1975/1976,Swansea City,Newport County,2-2,2,2,Football League Fourth Division,4,D
+1975-09-23,1975/1976,Northampton Town,Workington,2-1,2,1,Football League Fourth Division,4,H
+1975-09-23,1975/1976,Cambridge United,Watford,4-1,4,1,Football League Fourth Division,4,H
+1975-09-23,1975/1976,Sunderland,Carlisle United,3-2,3,2,Football League Second Division,2,H
+1975-09-23,1975/1976,Portsmouth,Chelsea,1-1,1,1,Football League Second Division,2,D
+1975-09-23,1975/1976,Hull City,Notts County,0-2,0,2,Football League Second Division,2,A
+1975-09-23,1975/1976,Bristol Rovers,Bolton Wanderers,2-2,2,2,Football League Second Division,2,D
+1975-09-23,1975/1976,Leyton Orient,York City,1-0,1,0,Football League Second Division,2,H
+1975-09-23,1975/1976,Gillingham,Rotherham United,0-0,0,0,Football League Third Division,3,D
+1975-09-23,1975/1976,Crystal Palace,Brighton & Hove Albion,0-1,0,1,Football League Third Division,3,A
+1975-09-23,1975/1976,Bury,Mansfield Town,2-1,2,1,Football League Third Division,3,H
+1975-09-23,1975/1976,Grimsby Town,Halifax Town,2-2,2,2,Football League Third Division,3,D
+1975-09-24,1975/1976,Manchester City,Stoke City,1-0,1,0,Football League First Division,1,H
+1975-09-24,1975/1976,Derby County,Manchester United,2-1,2,1,Football League First Division,1,H
+1975-09-24,1975/1976,Southport,Lincoln City,1-2,1,2,Football League Fourth Division,4,A
+1975-09-24,1975/1976,Crewe Alexandra,Rochdale,0-0,0,0,Football League Fourth Division,4,D
+1975-09-24,1975/1976,Bradford City,Huddersfield Town,2-2,2,2,Football League Fourth Division,4,D
+1975-09-24,1975/1976,Barnsley,Doncaster Rovers,0-1,0,1,Football League Fourth Division,4,A
+1975-09-24,1975/1976,AFC Bournemouth,Brentford,3-0,3,0,Football League Fourth Division,4,H
+1975-09-24,1975/1976,Torquay United,Exeter City,1-0,1,0,Football League Fourth Division,4,H
+1975-09-24,1975/1976,Nottingham Forest,Charlton Athletic,1-2,1,2,Football League Second Division,2,A
+1975-09-24,1975/1976,Luton Town,Plymouth Argyle,1-1,1,1,Football League Second Division,2,D
+1975-09-24,1975/1976,Blackburn Rovers,Blackpool,0-2,0,2,Football League Second Division,2,A
+1975-09-24,1975/1976,Peterborough United,Wrexham,2-0,2,0,Football League Third Division,3,H
+1975-09-24,1975/1976,Hereford United,Swindon Town,1-0,1,0,Football League Third Division,3,H
+1975-09-24,1975/1976,Chester,Colchester United,1-0,1,0,Football League Third Division,3,H
+1975-09-24,1975/1976,Aldershot,Millwall,1-1,1,1,Football League Third Division,3,D
+1975-09-24,1975/1976,Chesterfield,Sheffield Wednesday,1-0,1,0,Football League Third Division,3,H
+1975-09-26,1975/1976,Stockport County,Rochdale,0-1,0,1,Football League Fourth Division,4,A
+1975-09-26,1975/1976,Leyton Orient,Bristol Rovers,0-0,0,0,Football League Second Division,2,D
+1975-09-26,1975/1976,Charlton Athletic,Hull City,1-0,1,0,Football League Second Division,2,H
+1975-09-27,1975/1976,Aston Villa,Birmingham City,2-1,2,1,Football League First Division,1,H
+1975-09-27,1975/1976,Burnley,Leeds United,0-1,0,1,Football League First Division,1,A
+1975-09-27,1975/1976,Everton,Liverpool,0-0,0,0,Football League First Division,1,D
+1975-09-27,1975/1976,Ipswich Town,Middlesbrough,0-3,0,3,Football League First Division,1,A
+1975-09-27,1975/1976,Leicester City,Coventry City,0-3,0,3,Football League First Division,1,A
+1975-09-27,1975/1976,Manchester City,Manchester United,2-2,2,2,Football League First Division,1,D
+1975-09-27,1975/1976,Queens Park Rangers,Newcastle United,1-0,1,0,Football League First Division,1,H
+1975-09-27,1975/1976,Sheffield United,Norwich City,0-1,0,1,Football League First Division,1,A
+1975-09-27,1975/1976,Stoke City,Derby County,1-0,1,0,Football League First Division,1,H
+1975-09-27,1975/1976,Tottenham Hotspur,Arsenal,0-0,0,0,Football League First Division,1,D
+1975-09-27,1975/1976,Wolverhampton Wanderers,West Ham United,0-1,0,1,Football League First Division,1,A
+1975-09-27,1975/1976,Hartlepool United,Tranmere Rovers,1-2,1,2,Football League Fourth Division,4,A
+1975-09-27,1975/1976,Bradford City,Watford,1-0,1,0,Football League Fourth Division,4,H
+1975-09-27,1975/1976,Darlington,Lincoln City,0-0,0,0,Football League Fourth Division,4,D
+1975-09-27,1975/1976,Doncaster Rovers,Southport,5-2,5,2,Football League Fourth Division,4,H
+1975-09-27,1975/1976,Exeter City,Crewe Alexandra,2-2,2,2,Football League Fourth Division,4,D
+1975-09-27,1975/1976,Huddersfield Town,Brentford,2-1,2,1,Football League Fourth Division,4,H
+1975-09-27,1975/1976,Newport County,Cambridge United,2-0,2,0,Football League Fourth Division,4,H
+1975-09-27,1975/1976,Reading,AFC Bournemouth,2-1,2,1,Football League Fourth Division,4,H
+1975-09-27,1975/1976,Swansea City,Scunthorpe United,2-0,2,0,Football League Fourth Division,4,H
+1975-09-27,1975/1976,Torquay United,Northampton Town,0-1,0,1,Football League Fourth Division,4,A
+1975-09-27,1975/1976,Barnsley,Workington,0-0,0,0,Football League Fourth Division,4,D
+1975-09-27,1975/1976,York City,Oxford United,2-0,2,0,Football League Second Division,2,H
+1975-09-27,1975/1976,Bristol City,Blackpool,2-0,2,0,Football League Second Division,2,H
+1975-09-27,1975/1976,Carlisle United,West Bromwich Albion,1-1,1,1,Football League Second Division,2,D
+1975-09-27,1975/1976,Fulham,Chelsea,2-0,2,0,Football League Second Division,2,H
+1975-09-27,1975/1976,Luton Town,Blackburn Rovers,1-1,1,1,Football League Second Division,2,D
+1975-09-27,1975/1976,Nottingham Forest,Bolton Wanderers,1-2,1,2,Football League Second Division,2,A
+1975-09-27,1975/1976,Oldham Athletic,Plymouth Argyle,3-2,3,2,Football League Second Division,2,H
+1975-09-27,1975/1976,Southampton,Portsmouth,4-0,4,0,Football League Second Division,2,H
+1975-09-27,1975/1976,Sunderland,Notts County,4-0,4,0,Football League Second Division,2,H
+1975-09-27,1975/1976,Halifax Town,Chester,5-2,5,2,Football League Third Division,3,H
+1975-09-27,1975/1976,Hereford United,Gillingham,1-1,1,1,Football League Third Division,3,D
+1975-09-27,1975/1976,Mansfield Town,Walsall,4-1,4,1,Football League Third Division,3,H
+1975-09-27,1975/1976,Peterborough United,Rotherham United,1-3,1,3,Football League Third Division,3,A
+1975-09-27,1975/1976,Grimsby Town,Aldershot,1-0,1,0,Football League Third Division,3,H
+1975-09-27,1975/1976,Preston North End,Cardiff City,3-1,3,1,Football League Third Division,3,H
+1975-09-27,1975/1976,Southend United,Shrewsbury Town,1-3,1,3,Football League Third Division,3,A
+1975-09-27,1975/1976,Swindon Town,Colchester United,0-1,0,1,Football League Third Division,3,A
+1975-09-27,1975/1976,Wrexham,Port Vale,1-0,1,0,Football League Third Division,3,H
+1975-09-27,1975/1976,Crystal Palace,Sheffield Wednesday,1-1,1,1,Football League Third Division,3,D
+1975-09-27,1975/1976,Brighton & Hove Albion,Chesterfield,3-0,3,0,Football League Third Division,3,H
+1975-09-27,1975/1976,Bury,Millwall,2-0,2,0,Football League Third Division,3,H
+1975-10-03,1975/1976,Tranmere Rovers,Torquay United,7-1,7,1,Football League Fourth Division,4,H
+1975-10-03,1975/1976,Southport,Bradford City,1-2,1,2,Football League Fourth Division,4,A
+1975-10-03,1975/1976,Northampton Town,Doncaster Rovers,2-1,2,1,Football League Fourth Division,4,H
+1975-10-04,1975/1976,Arsenal,Manchester City,2-3,2,3,Football League First Division,1,A
+1975-10-04,1975/1976,Birmingham City,Sheffield United,2-0,2,0,Football League First Division,1,H
+1975-10-04,1975/1976,Coventry City,Burnley,1-2,1,2,Football League First Division,1,A
+1975-10-04,1975/1976,Derby County,Ipswich Town,1-0,1,0,Football League First Division,1,H
+1975-10-04,1975/1976,Leeds United,Queens Park Rangers,2-1,2,1,Football League First Division,1,H
+1975-10-04,1975/1976,Liverpool,Wolverhampton Wanderers,2-0,2,0,Football League First Division,1,H
+1975-10-04,1975/1976,Manchester United,Leicester City,0-0,0,0,Football League First Division,1,D
+1975-10-04,1975/1976,Middlesbrough,Aston Villa,0-0,0,0,Football League First Division,1,D
+1975-10-04,1975/1976,Newcastle United,Tottenham Hotspur,2-2,2,2,Football League First Division,1,D
+1975-10-04,1975/1976,West Ham United,Everton,0-1,0,1,Football League First Division,1,A
+1975-10-04,1975/1976,Norwich City,Stoke City,0-1,0,1,Football League First Division,1,A
+1975-10-04,1975/1976,AFC Bournemouth,Barnsley,1-1,1,1,Football League Fourth Division,4,D
+1975-10-04,1975/1976,Brentford,Newport County,1-3,1,3,Football League Fourth Division,4,A
+1975-10-04,1975/1976,Cambridge United,Darlington,1-0,1,0,Football League Fourth Division,4,H
+1975-10-04,1975/1976,Lincoln City,Swansea City,4-0,4,0,Football League Fourth Division,4,H
+1975-10-04,1975/1976,Rochdale,Exeter City,0-1,0,1,Football League Fourth Division,4,A
+1975-10-04,1975/1976,Scunthorpe United,Reading,2-1,2,1,Football League Fourth Division,4,H
+1975-10-04,1975/1976,Watford,Stockport County,1-1,1,1,Football League Fourth Division,4,D
+1975-10-04,1975/1976,Workington,Huddersfield Town,0-2,0,2,Football League Fourth Division,4,A
+1975-10-04,1975/1976,Crewe Alexandra,Hartlepool United,0-0,0,0,Football League Fourth Division,4,D
+1975-10-04,1975/1976,West Bromwich Albion,Oldham Athletic,1-1,1,1,Football League Second Division,2,D
+1975-10-04,1975/1976,Plymouth Argyle,Carlisle United,2-1,2,1,Football League Second Division,2,H
+1975-10-04,1975/1976,Portsmouth,Sunderland,0-0,0,0,Football League Second Division,2,D
+1975-10-04,1975/1976,Blackburn Rovers,Fulham,0-1,0,1,Football League Second Division,2,A
+1975-10-04,1975/1976,Blackpool,Luton Town,3-2,3,2,Football League Second Division,2,H
+1975-10-04,1975/1976,Bolton Wanderers,Charlton Athletic,5-0,5,0,Football League Second Division,2,H
+1975-10-04,1975/1976,Bristol Rovers,Nottingham Forest,4-2,4,2,Football League Second Division,2,H
+1975-10-04,1975/1976,Chelsea,York City,0-0,0,0,Football League Second Division,2,D
+1975-10-04,1975/1976,Hull City,Southampton,0-0,0,0,Football League Second Division,2,D
+1975-10-04,1975/1976,Notts County,Bristol City,1-1,1,1,Football League Second Division,2,D
+1975-10-04,1975/1976,Oxford United,Leyton Orient,2-1,2,1,Football League Second Division,2,H
+1975-10-04,1975/1976,Aldershot,Southend United,2-1,2,1,Football League Third Division,3,H
+1975-10-04,1975/1976,Cardiff City,Wrexham,3-0,3,0,Football League Third Division,3,H
+1975-10-04,1975/1976,Chester,Hereford United,0-1,0,1,Football League Third Division,3,A
+1975-10-04,1975/1976,Chesterfield,Preston North End,3-0,3,0,Football League Third Division,3,H
+1975-10-04,1975/1976,Colchester United,Bury,0-0,0,0,Football League Third Division,3,D
+1975-10-04,1975/1976,Gillingham,Halifax Town,1-1,1,1,Football League Third Division,3,D
+1975-10-04,1975/1976,Millwall,Mansfield Town,1-0,1,0,Football League Third Division,3,H
+1975-10-04,1975/1976,Port Vale,Crystal Palace,0-0,0,0,Football League Third Division,3,D
+1975-10-04,1975/1976,Rotherham United,Swindon Town,0-2,0,2,Football League Third Division,3,A
+1975-10-04,1975/1976,Sheffield Wednesday,Peterborough United,2-2,2,2,Football League Third Division,3,D
+1975-10-04,1975/1976,Shrewsbury Town,Brighton & Hove Albion,1-2,1,2,Football League Third Division,3,A
+1975-10-04,1975/1976,Walsall,Grimsby Town,2-0,2,0,Football League Third Division,3,H
+1975-10-07,1975/1976,Oldham Athletic,Bristol City,2-4,2,4,Football League Second Division,2,A
+1975-10-10,1975/1976,Tranmere Rovers,Northampton Town,2-0,2,0,Football League Fourth Division,4,H
+1975-10-10,1975/1976,Southport,AFC Bournemouth,0-2,0,2,Football League Fourth Division,4,A
+1975-10-10,1975/1976,Stockport County,Doncaster Rovers,1-2,1,2,Football League Fourth Division,4,A
+1975-10-11,1975/1976,Liverpool,Birmingham City,3-1,3,1,Football League First Division,1,H
+1975-10-11,1975/1976,Aston Villa,Tottenham Hotspur,1-1,1,1,Football League First Division,1,D
+1975-10-11,1975/1976,Leeds United,Manchester United,1-2,1,2,Football League First Division,1,A
+1975-10-11,1975/1976,Leicester City,Middlesbrough,0-0,0,0,Football League First Division,1,D
+1975-10-11,1975/1976,Manchester City,Burnley,0-0,0,0,Football League First Division,1,D
+1975-10-11,1975/1976,Norwich City,Derby County,0-0,0,0,Football League First Division,1,D
+1975-10-11,1975/1976,Queens Park Rangers,Everton,5-0,5,0,Football League First Division,1,H
+1975-10-11,1975/1976,Stoke City,Ipswich Town,0-1,0,1,Football League First Division,1,A
+1975-10-11,1975/1976,West Ham United,Newcastle United,2-1,2,1,Football League First Division,1,H
+1975-10-11,1975/1976,Wolverhampton Wanderers,Sheffield United,5-1,5,1,Football League First Division,1,H
+1975-10-11,1975/1976,Arsenal,Coventry City,5-0,5,0,Football League First Division,1,H
+1975-10-11,1975/1976,Darlington,Exeter City,0-0,0,0,Football League Fourth Division,4,D
+1975-10-11,1975/1976,Hartlepool United,Torquay United,0-1,0,1,Football League Fourth Division,4,A
+1975-10-11,1975/1976,Lincoln City,Brentford,3-1,3,1,Football League Fourth Division,4,H
+1975-10-11,1975/1976,Newport County,Barnsley,1-0,1,0,Football League Fourth Division,4,H
+1975-10-11,1975/1976,Reading,Bradford City,2-1,2,1,Football League Fourth Division,4,H
+1975-10-11,1975/1976,Scunthorpe United,Rochdale,1-3,1,3,Football League Fourth Division,4,A
+1975-10-11,1975/1976,Swansea City,Huddersfield Town,1-1,1,1,Football League Fourth Division,4,D
+1975-10-11,1975/1976,Watford,Workington,2-0,2,0,Football League Fourth Division,4,H
+1975-10-11,1975/1976,Cambridge United,Crewe Alexandra,1-1,1,1,Football League Fourth Division,4,D
+1975-10-11,1975/1976,Southampton,Chelsea,4-1,4,1,Football League Second Division,2,H
+1975-10-11,1975/1976,Sunderland,Leyton Orient,3-1,3,1,Football League Second Division,2,H
+1975-10-11,1975/1976,Blackburn Rovers,West Bromwich Albion,0-0,0,0,Football League Second Division,2,D
+1975-10-11,1975/1976,Blackpool,Portsmouth,0-0,0,0,Football League Second Division,2,D
+1975-10-11,1975/1976,Bristol City,Charlton Athletic,4-0,4,0,Football League Second Division,2,H
+1975-10-11,1975/1976,Carlisle United,Luton Town,1-1,1,1,Football League Second Division,2,D
+1975-10-11,1975/1976,Fulham,Nottingham Forest,0-0,0,0,Football League Second Division,2,D
+1975-10-11,1975/1976,Hull City,Bristol Rovers,0-0,0,0,Football League Second Division,2,D
+1975-10-11,1975/1976,Notts County,Oxford United,0-1,0,1,Football League Second Division,2,A
+1975-10-11,1975/1976,Oldham Athletic,York City,2-0,2,0,Football League Second Division,2,H
+1975-10-11,1975/1976,Plymouth Argyle,Bolton Wanderers,2-3,2,3,Football League Second Division,2,A
+1975-10-11,1975/1976,Bury,Southend United,1-0,1,0,Football League Third Division,3,H
+1975-10-11,1975/1976,Chester,Aldershot,1-0,1,0,Football League Third Division,3,H
+1975-10-11,1975/1976,Chesterfield,Shrewsbury Town,2-1,2,1,Football League Third Division,3,H
+1975-10-11,1975/1976,Colchester United,Walsall,2-0,2,0,Football League Third Division,3,H
+1975-10-11,1975/1976,Crystal Palace,Grimsby Town,3-0,3,0,Football League Third Division,3,H
+1975-10-11,1975/1976,Gillingham,Port Vale,2-1,2,1,Football League Third Division,3,H
+1975-10-11,1975/1976,Hereford United,Wrexham,2-0,2,0,Football League Third Division,3,H
+1975-10-11,1975/1976,Mansfield Town,Peterborough United,1-1,1,1,Football League Third Division,3,D
+1975-10-11,1975/1976,Rotherham United,Cardiff City,1-0,1,0,Football League Third Division,3,H
+1975-10-11,1975/1976,Sheffield Wednesday,Millwall,4-1,4,1,Football League Third Division,3,H
+1975-10-11,1975/1976,Swindon Town,Halifax Town,3-1,3,1,Football League Third Division,3,H
+1975-10-11,1975/1976,Brighton & Hove Albion,Preston North End,1-0,1,0,Football League Third Division,3,H
+1975-10-13,1975/1976,Hartlepool United,Exeter City,2-1,2,1,Football League Fourth Division,4,H
+1975-10-17,1975/1976,Southend United,Mansfield Town,2-2,2,2,Football League Third Division,3,D
+1975-10-18,1975/1976,Birmingham City,Leeds United,2-2,2,2,Football League First Division,1,D
+1975-10-18,1975/1976,Burnley,Queens Park Rangers,1-0,1,0,Football League First Division,1,H
+1975-10-18,1975/1976,Coventry City,Liverpool,0-0,0,0,Football League First Division,1,D
+1975-10-18,1975/1976,Derby County,Wolverhampton Wanderers,3-2,3,2,Football League First Division,1,H
+1975-10-18,1975/1976,Ipswich Town,Leicester City,1-1,1,1,Football League First Division,1,D
+1975-10-18,1975/1976,Manchester United,Arsenal,3-1,3,1,Football League First Division,1,H
+1975-10-18,1975/1976,Middlesbrough,West Ham United,3-0,3,0,Football League First Division,1,H
+1975-10-18,1975/1976,Newcastle United,Norwich City,5-2,5,2,Football League First Division,1,H
+1975-10-18,1975/1976,Sheffield United,Stoke City,0-2,0,2,Football League First Division,1,A
+1975-10-18,1975/1976,Everton,Aston Villa,2-1,2,1,Football League First Division,1,H
+1975-10-18,1975/1976,Tottenham Hotspur,Manchester City,2-2,2,2,Football League First Division,1,D
+1975-10-18,1975/1976,AFC Bournemouth,Tranmere Rovers,4-2,4,2,Football League Fourth Division,4,H
+1975-10-18,1975/1976,Workington,Cambridge United,1-0,1,0,Football League Fourth Division,4,H
+1975-10-18,1975/1976,Brentford,Southport,1-0,1,0,Football League Fourth Division,4,H
+1975-10-18,1975/1976,Crewe Alexandra,Scunthorpe United,1-0,1,0,Football League Fourth Division,4,H
+1975-10-18,1975/1976,Doncaster Rovers,Swansea City,2-1,2,1,Football League Fourth Division,4,H
+1975-10-18,1975/1976,Exeter City,Hartlepool United,3-1,3,1,Football League Fourth Division,4,H
+1975-10-18,1975/1976,Huddersfield Town,Newport County,2-1,2,1,Football League Fourth Division,4,H
+1975-10-18,1975/1976,Northampton Town,Lincoln City,1-0,1,0,Football League Fourth Division,4,H
+1975-10-18,1975/1976,Rochdale,Watford,2-1,2,1,Football League Fourth Division,4,H
+1975-10-18,1975/1976,Torquay United,Darlington,2-4,2,4,Football League Fourth Division,4,A
+1975-10-18,1975/1976,Barnsley,Reading,4-2,4,2,Football League Fourth Division,4,H
+1975-10-18,1975/1976,Bradford City,Stockport County,1-2,1,2,Football League Fourth Division,4,A
+1975-10-18,1975/1976,West Bromwich Albion,Plymouth Argyle,1-0,1,0,Football League Second Division,2,H
+1975-10-18,1975/1976,York City,Bristol City,1-4,1,4,Football League Second Division,2,A
+1975-10-18,1975/1976,Bolton Wanderers,Notts County,2-1,2,1,Football League Second Division,2,H
+1975-10-18,1975/1976,Bristol Rovers,Sunderland,1-0,1,0,Football League Second Division,2,H
+1975-10-18,1975/1976,Charlton Athletic,Oldham Athletic,3-1,3,1,Football League Second Division,2,H
+1975-10-18,1975/1976,Chelsea,Blackpool,2-0,2,0,Football League Second Division,2,H
+1975-10-18,1975/1976,Leyton Orient,Carlisle United,1-0,1,0,Football League Second Division,2,H
+1975-10-18,1975/1976,Luton Town,Fulham,1-0,1,0,Football League Second Division,2,H
+1975-10-18,1975/1976,Nottingham Forest,Southampton,3-1,3,1,Football League Second Division,2,H
+1975-10-18,1975/1976,Oxford United,Blackburn Rovers,0-0,0,0,Football League Second Division,2,D
+1975-10-18,1975/1976,Portsmouth,Hull City,1-1,1,1,Football League Second Division,2,D
+1975-10-18,1975/1976,Grimsby Town,Brighton & Hove Albion,2-1,2,1,Football League Third Division,3,H
+1975-10-18,1975/1976,Halifax Town,Hereford United,0-1,0,1,Football League Third Division,3,A
+1975-10-18,1975/1976,Millwall,Rotherham United,3-1,3,1,Football League Third Division,3,H
+1975-10-18,1975/1976,Peterborough United,Bury,4-0,4,0,Football League Third Division,3,H
+1975-10-18,1975/1976,Port Vale,Chesterfield,1-1,1,1,Football League Third Division,3,D
+1975-10-18,1975/1976,Preston North End,Crystal Palace,0-0,0,0,Football League Third Division,3,D
+1975-10-18,1975/1976,Shrewsbury Town,Gillingham,1-0,1,0,Football League Third Division,3,H
+1975-10-18,1975/1976,Walsall,Chester,1-0,1,0,Football League Third Division,3,H
+1975-10-18,1975/1976,Wrexham,Swindon Town,2-0,2,0,Football League Third Division,3,H
+1975-10-18,1975/1976,Cardiff City,Sheffield Wednesday,2-0,2,0,Football League Third Division,3,H
+1975-10-18,1975/1976,Aldershot,Colchester United,2-2,2,2,Football League Third Division,3,D
+1975-10-20,1975/1976,Tranmere Rovers,Southport,1-0,1,0,Football League Fourth Division,4,H
+1975-10-20,1975/1976,Newport County,Reading,0-0,0,0,Football League Fourth Division,4,D
+1975-10-20,1975/1976,Southend United,Halifax Town,4-1,4,1,Football League Third Division,3,H
+1975-10-21,1975/1976,Watford,Scunthorpe United,1-0,1,0,Football League Fourth Division,4,H
+1975-10-21,1975/1976,Swansea City,Darlington,2-0,2,0,Football League Fourth Division,4,H
+1975-10-21,1975/1976,Northampton Town,Brentford,3-1,3,1,Football League Fourth Division,4,H
+1975-10-21,1975/1976,Huddersfield Town,Torquay United,2-3,2,3,Football League Fourth Division,4,A
+1975-10-21,1975/1976,Cambridge United,Lincoln City,2-4,2,4,Football League Fourth Division,4,A
+1975-10-21,1975/1976,Barnsley,Exeter City,0-0,0,0,Football League Fourth Division,4,D
+1975-10-21,1975/1976,York City,Charlton Athletic,1-3,1,3,Football League Second Division,2,A
+1975-10-21,1975/1976,Portsmouth,Bristol Rovers,1-2,1,2,Football League Second Division,2,A
+1975-10-21,1975/1976,Plymouth Argyle,Blackburn Rovers,2-2,2,2,Football League Second Division,2,D
+1975-10-21,1975/1976,Oldham Athletic,Southampton,3-2,3,2,Football League Second Division,2,H
+1975-10-21,1975/1976,Nottingham Forest,Luton Town,0-0,0,0,Football League Second Division,2,D
+1975-10-21,1975/1976,Preston North End,Peterborough United,2-1,2,1,Football League Third Division,3,H
+1975-10-21,1975/1976,Walsall,Millwall,1-1,1,1,Football League Third Division,3,D
+1975-10-21,1975/1976,Gillingham,Chesterfield,2-2,2,2,Football League Third Division,3,D
+1975-10-21,1975/1976,Shrewsbury Town,Port Vale,1-0,1,0,Football League Third Division,3,H
+1975-10-21,1975/1976,Colchester United,Rotherham United,0-0,0,0,Football League Third Division,3,D
+1975-10-21,1975/1976,Crystal Palace,Hereford United,2-2,2,2,Football League Third Division,3,D
+1975-10-21,1975/1976,Chester,Sheffield Wednesday,1-0,1,0,Football League Third Division,3,H
+1975-10-21,1975/1976,Bury,Swindon Town,5-0,5,0,Football League Third Division,3,H
+1975-10-22,1975/1976,Workington,Crewe Alexandra,0-3,0,3,Football League Fourth Division,4,A
+1975-10-22,1975/1976,Bradford City,Doncaster Rovers,3-4,3,4,Football League Fourth Division,4,A
+1975-10-22,1975/1976,Hartlepool United,Stockport County,3-0,3,0,Football League Fourth Division,4,H
+1975-10-22,1975/1976,AFC Bournemouth,Rochdale,2-1,2,1,Football League Fourth Division,4,H
+1975-10-22,1975/1976,Aldershot,Cardiff City,2-1,2,1,Football League Third Division,3,H
+1975-10-24,1975/1976,Stockport County,Torquay United,1-0,1,0,Football League Fourth Division,4,H
+1975-10-24,1975/1976,Tranmere Rovers,Workington,6-0,6,0,Football League Fourth Division,4,H
+1975-10-25,1975/1976,Queens Park Rangers,Sheffield United,1-0,1,0,Football League First Division,1,H
+1975-10-25,1975/1976,Arsenal,Middlesbrough,2-1,2,1,Football League First Division,1,H
+1975-10-25,1975/1976,Aston Villa,Burnley,1-1,1,1,Football League First Division,1,D
+1975-10-25,1975/1976,Leeds United,Coventry City,2-0,2,0,Football League First Division,1,H
+1975-10-25,1975/1976,Leicester City,Tottenham Hotspur,2-3,2,3,Football League First Division,1,A
+1975-10-25,1975/1976,Liverpool,Derby County,1-1,1,1,Football League First Division,1,D
+1975-10-25,1975/1976,Manchester City,Ipswich Town,1-1,1,1,Football League First Division,1,D
+1975-10-25,1975/1976,Norwich City,Birmingham City,1-0,1,0,Football League First Division,1,H
+1975-10-25,1975/1976,Stoke City,Newcastle United,1-1,1,1,Football League First Division,1,D
+1975-10-25,1975/1976,West Ham United,Manchester United,2-1,2,1,Football League First Division,1,H
+1975-10-25,1975/1976,Wolverhampton Wanderers,Everton,1-2,1,2,Football League First Division,1,A
+1975-10-25,1975/1976,Scunthorpe United,Northampton Town,0-2,0,2,Football League Fourth Division,4,A
+1975-10-25,1975/1976,Darlington,Doncaster Rovers,2-2,2,2,Football League Fourth Division,4,D
+1975-10-25,1975/1976,Watford,Crewe Alexandra,2-1,2,1,Football League Fourth Division,4,H
+1975-10-25,1975/1976,Hartlepool United,Barnsley,1-0,1,0,Football League Fourth Division,4,H
+1975-10-25,1975/1976,Lincoln City,AFC Bournemouth,1-0,1,0,Football League Fourth Division,4,H
+1975-10-25,1975/1976,Newport County,Exeter City,3-3,3,3,Football League Fourth Division,4,D
+1975-10-25,1975/1976,Reading,Huddersfield Town,2-0,2,0,Football League Fourth Division,4,H
+1975-10-25,1975/1976,Southport,Rochdale,0-1,0,1,Football League Fourth Division,4,A
+1975-10-25,1975/1976,Swansea City,Bradford City,3-1,3,1,Football League Fourth Division,4,H
+1975-10-25,1975/1976,Cambridge United,Brentford,2-1,2,1,Football League Fourth Division,4,H
+1975-10-25,1975/1976,Southampton,York City,2-0,2,0,Football League Second Division,2,H
+1975-10-25,1975/1976,Sunderland,Luton Town,2-0,2,0,Football League Second Division,2,H
+1975-10-25,1975/1976,Blackburn Rovers,Chelsea,1-1,1,1,Football League Second Division,2,D
+1975-10-25,1975/1976,Blackpool,Bristol Rovers,1-4,1,4,Football League Second Division,2,A
+1975-10-25,1975/1976,Bristol City,West Bromwich Albion,0-2,0,2,Football League Second Division,2,A
+1975-10-25,1975/1976,Carlisle United,Charlton Athletic,1-1,1,1,Football League Second Division,2,D
+1975-10-25,1975/1976,Fulham,Leyton Orient,1-1,1,1,Football League Second Division,2,D
+1975-10-25,1975/1976,Hull City,Bolton Wanderers,2-2,2,2,Football League Second Division,2,D
+1975-10-25,1975/1976,Notts County,Portsmouth,2-0,2,0,Football League Second Division,2,H
+1975-10-25,1975/1976,Oldham Athletic,Nottingham Forest,0-0,0,0,Football League Second Division,2,D
+1975-10-25,1975/1976,Plymouth Argyle,Oxford United,2-1,2,1,Football League Second Division,2,H
+1975-10-25,1975/1976,Sheffield Wednesday,Shrewsbury Town,1-1,1,1,Football League Third Division,3,D
+1975-10-25,1975/1976,Chesterfield,Millwall,2-2,2,2,Football League Third Division,3,D
+1975-10-25,1975/1976,Colchester United,Port Vale,1-0,1,0,Football League Third Division,3,H
+1975-10-25,1975/1976,Chester,Cardiff City,1-1,1,1,Football League Third Division,3,D
+1975-10-25,1975/1976,Crystal Palace,Southend United,1-1,1,1,Football League Third Division,3,D
+1975-10-25,1975/1976,Gillingham,Walsall,2-3,2,3,Football League Third Division,3,A
+1975-10-25,1975/1976,Hereford United,Peterborough United,2-4,2,4,Football League Third Division,3,A
+1975-10-25,1975/1976,Mansfield Town,Preston North End,0-1,0,1,Football League Third Division,3,A
+1975-10-25,1975/1976,Rotherham United,Aldershot,2-2,2,2,Football League Third Division,3,D
+1975-10-25,1975/1976,Swindon Town,Grimsby Town,3-0,3,0,Football League Third Division,3,H
+1975-10-25,1975/1976,Bury,Halifax Town,0-0,0,0,Football League Third Division,3,D
+1975-10-25,1975/1976,Brighton & Hove Albion,Wrexham,3-2,3,2,Football League Third Division,3,H
+1975-10-31,1975/1976,Exeter City,Stockport County,2-0,2,0,Football League Fourth Division,4,H
+1975-10-31,1975/1976,Charlton Athletic,Southampton,4-1,4,1,Football League Second Division,2,H
+1975-10-31,1975/1976,Southend United,Swindon Town,3-0,3,0,Football League Third Division,3,H
+1975-10-31,1975/1976,Cardiff City,Chesterfield,4-3,4,3,Football League Third Division,3,H
+1975-11-01,1975/1976,Birmingham City,West Ham United,1-5,1,5,Football League First Division,1,A
+1975-11-01,1975/1976,Burnley,Stoke City,0-1,0,1,Football League First Division,1,A
+1975-11-01,1975/1976,Coventry City,Queens Park Rangers,1-1,1,1,Football League First Division,1,D
+1975-11-01,1975/1976,Everton,Leicester City,1-1,1,1,Football League First Division,1,D
+1975-11-01,1975/1976,Ipswich Town,Aston Villa,3-0,3,0,Football League First Division,1,H
+1975-11-01,1975/1976,Manchester United,Norwich City,1-0,1,0,Football League First Division,1,H
+1975-11-01,1975/1976,Middlesbrough,Liverpool,0-1,0,1,Football League First Division,1,A
+1975-11-01,1975/1976,Newcastle United,Arsenal,2-0,2,0,Football League First Division,1,H
+1975-11-01,1975/1976,Sheffield United,Manchester City,2-2,2,2,Football League First Division,1,D
+1975-11-01,1975/1976,Derby County,Leeds United,3-2,3,2,Football League First Division,1,H
+1975-11-01,1975/1976,Tottenham Hotspur,Wolverhampton Wanderers,2-1,2,1,Football League First Division,1,H
+1975-11-01,1975/1976,AFC Bournemouth,Cambridge United,3-0,3,0,Football League Fourth Division,4,H
+1975-11-01,1975/1976,Barnsley,Swansea City,0-0,0,0,Football League Fourth Division,4,D
+1975-11-01,1975/1976,Brentford,Scunthorpe United,5-2,5,2,Football League Fourth Division,4,H
+1975-11-01,1975/1976,Crewe Alexandra,Lincoln City,2-3,2,3,Football League Fourth Division,4,A
+1975-11-01,1975/1976,Doncaster Rovers,Reading,1-1,1,1,Football League Fourth Division,4,D
+1975-11-01,1975/1976,Huddersfield Town,Hartlepool United,2-0,2,0,Football League Fourth Division,4,H
+1975-11-01,1975/1976,Northampton Town,Watford,3-0,3,0,Football League Fourth Division,4,H
+1975-11-01,1975/1976,Rochdale,Tranmere Rovers,4-1,4,1,Football League Fourth Division,4,H
+1975-11-01,1975/1976,Torquay United,Newport County,1-1,1,1,Football League Fourth Division,4,D
+1975-11-01,1975/1976,Bradford City,Darlington,2-0,2,0,Football League Fourth Division,4,H
+1975-11-01,1975/1976,York City,Sunderland,1-4,1,4,Football League Second Division,2,A
+1975-11-01,1975/1976,Portsmouth,Fulham,0-1,0,1,Football League Second Division,2,A
+1975-11-01,1975/1976,Bolton Wanderers,Blackpool,1-0,1,0,Football League Second Division,2,H
+1975-11-01,1975/1976,Bristol Rovers,Blackburn Rovers,1-1,1,1,Football League Second Division,2,D
+1975-11-01,1975/1976,Chelsea,Plymouth Argyle,2-2,2,2,Football League Second Division,2,D
+1975-11-01,1975/1976,Leyton Orient,Oldham Athletic,2-0,2,0,Football League Second Division,2,H
+1975-11-01,1975/1976,Luton Town,Bristol City,0-0,0,0,Football League Second Division,2,D
+1975-11-01,1975/1976,Nottingham Forest,Carlisle United,4-0,4,0,Football League Second Division,2,H
+1975-11-01,1975/1976,West Bromwich Albion,Notts County,0-0,0,0,Football League Second Division,2,D
+1975-11-01,1975/1976,Oxford United,Hull City,2-3,2,3,Football League Second Division,2,A
+1975-11-01,1975/1976,Aldershot,Gillingham,3-0,3,0,Football League Third Division,3,H
+1975-11-01,1975/1976,Halifax Town,Crystal Palace,1-3,1,3,Football League Third Division,3,A
+1975-11-01,1975/1976,Millwall,Colchester United,1-1,1,1,Football League Third Division,3,D
+1975-11-01,1975/1976,Peterborough United,Brighton & Hove Albion,1-0,1,0,Football League Third Division,3,H
+1975-11-01,1975/1976,Port Vale,Rotherham United,1-0,1,0,Football League Third Division,3,H
+1975-11-01,1975/1976,Preston North End,Hereford United,3-4,3,4,Football League Third Division,3,A
+1975-11-01,1975/1976,Shrewsbury Town,Chester,2-0,2,0,Football League Third Division,3,H
+1975-11-01,1975/1976,Wrexham,Mansfield Town,1-0,1,0,Football League Third Division,3,H
+1975-11-01,1975/1976,Grimsby Town,Bury,0-0,0,0,Football League Third Division,3,D
+1975-11-03,1975/1976,Stockport County,Newport County,0-1,0,1,Football League Fourth Division,4,A
+1975-11-03,1975/1976,Rochdale,Northampton Town,0-2,0,2,Football League Fourth Division,4,A
+1975-11-03,1975/1976,Darlington,Hartlepool United,1-2,1,2,Football League Fourth Division,4,A
+1975-11-03,1975/1976,Brentford,Workington,4-0,4,0,Football League Fourth Division,4,H
+1975-11-03,1975/1976,Port Vale,Aldershot,0-1,0,1,Football League Third Division,3,A
+1975-11-04,1975/1976,Southport,Watford,1-2,1,2,Football League Fourth Division,4,A
+1975-11-04,1975/1976,Scunthorpe United,Cambridge United,0-1,0,1,Football League Fourth Division,4,A
+1975-11-04,1975/1976,Lincoln City,Tranmere Rovers,2-2,2,2,Football League Fourth Division,4,D
+1975-11-04,1975/1976,Exeter City,Bradford City,0-0,0,0,Football League Fourth Division,4,D
+1975-11-04,1975/1976,Doncaster Rovers,Huddersfield Town,4-1,4,1,Football League Fourth Division,4,H
+1975-11-04,1975/1976,Notts County,Plymouth Argyle,1-0,1,0,Football League Second Division,2,H
+1975-11-04,1975/1976,Luton Town,York City,4-0,4,0,Football League Second Division,2,H
+1975-11-04,1975/1976,Carlisle United,Oldham Athletic,2-1,2,1,Football League Second Division,2,H
+1975-11-04,1975/1976,Bristol Rovers,West Bromwich Albion,1-1,1,1,Football League Second Division,2,D
+1975-11-04,1975/1976,Bolton Wanderers,Portsmouth,4-1,4,1,Football League Second Division,2,H
+1975-11-04,1975/1976,Blackpool,Nottingham Forest,1-1,1,1,Football League Second Division,2,D
+1975-11-04,1975/1976,Blackburn Rovers,Hull City,1-0,1,0,Football League Second Division,2,H
+1975-11-04,1975/1976,Millwall,Shrewsbury Town,0-0,0,0,Football League Third Division,3,D
+1975-11-04,1975/1976,Swindon Town,Crystal Palace,1-2,1,2,Football League Third Division,3,A
+1975-11-04,1975/1976,Rotherham United,Chester,0-1,0,1,Football League Third Division,3,A
+1975-11-04,1975/1976,Halifax Town,Preston North End,2-1,2,1,Football League Third Division,3,H
+1975-11-04,1975/1976,Peterborough United,Grimsby Town,4-2,4,2,Football League Third Division,3,H
+1975-11-04,1975/1976,Brighton & Hove Albion,Bury,2-1,2,1,Football League Third Division,3,H
+1975-11-04,1975/1976,Cardiff City,Walsall,0-0,0,0,Football League Third Division,3,D
+1975-11-05,1975/1976,Torquay United,Barnsley,2-0,2,0,Football League Fourth Division,4,H
+1975-11-05,1975/1976,Crewe Alexandra,AFC Bournemouth,1-0,1,0,Football League Fourth Division,4,H
+1975-11-05,1975/1976,Reading,Swansea City,1-0,1,0,Football League Fourth Division,4,H
+1975-11-05,1975/1976,Chesterfield,Colchester United,6-1,6,1,Football League Third Division,3,H
+1975-11-05,1975/1976,Sheffield Wednesday,Gillingham,1-0,1,0,Football League Third Division,3,H
+1975-11-07,1975/1976,Southport,Crewe Alexandra,2-2,2,2,Football League Fourth Division,4,D
+1975-11-07,1975/1976,Tranmere Rovers,Brentford,5-1,5,1,Football League Fourth Division,4,H
+1975-11-07,1975/1976,Bristol City,Leyton Orient,0-0,0,0,Football League Second Division,2,D
+1975-11-08,1975/1976,Aston Villa,Sheffield United,5-1,5,1,Football League First Division,1,H
+1975-11-08,1975/1976,Leeds United,Newcastle United,3-0,3,0,Football League First Division,1,H
+1975-11-08,1975/1976,Leicester City,Burnley,3-2,3,2,Football League First Division,1,H
+1975-11-08,1975/1976,Liverpool,Manchester United,3-1,3,1,Football League First Division,1,H
+1975-11-08,1975/1976,Manchester City,Birmingham City,2-0,2,0,Football League First Division,1,H
+1975-11-08,1975/1976,Norwich City,Middlesbrough,0-1,0,1,Football League First Division,1,A
+1975-11-08,1975/1976,Queens Park Rangers,Tottenham Hotspur,0-0,0,0,Football League First Division,1,D
+1975-11-08,1975/1976,Stoke City,Everton,3-2,3,2,Football League First Division,1,H
+1975-11-08,1975/1976,West Ham United,Coventry City,1-1,1,1,Football League First Division,1,D
+1975-11-08,1975/1976,Wolverhampton Wanderers,Ipswich Town,1-0,1,0,Football League First Division,1,H
+1975-11-08,1975/1976,Arsenal,Derby County,0-1,0,1,Football League First Division,1,A
+1975-11-08,1975/1976,Stockport County,Huddersfield Town,0-1,0,1,Football League Fourth Division,4,A
+1975-11-08,1975/1976,Cambridge United,Northampton Town,0-1,0,1,Football League Fourth Division,4,A
+1975-11-08,1975/1976,Darlington,Barnsley,2-0,2,0,Football League Fourth Division,4,H
+1975-11-08,1975/1976,Hartlepool United,Doncaster Rovers,2-1,2,1,Football League Fourth Division,4,H
+1975-11-08,1975/1976,Lincoln City,Rochdale,2-0,2,0,Football League Fourth Division,4,H
+1975-11-08,1975/1976,Newport County,Bradford City,3-1,3,1,Football League Fourth Division,4,H
+1975-11-08,1975/1976,Reading,Exeter City,4-3,4,3,Football League Fourth Division,4,H
+1975-11-08,1975/1976,Scunthorpe United,Workington,3-0,3,0,Football League Fourth Division,4,H
+1975-11-08,1975/1976,Watford,AFC Bournemouth,1-1,1,1,Football League Fourth Division,4,D
+1975-11-08,1975/1976,Swansea City,Torquay United,3-0,3,0,Football League Fourth Division,4,H
+1975-11-08,1975/1976,Southampton,Luton Town,3-1,3,1,Football League Second Division,2,H
+1975-11-08,1975/1976,Sunderland,Nottingham Forest,3-0,3,0,Football League Second Division,2,H
+1975-11-08,1975/1976,Blackburn Rovers,Bolton Wanderers,1-1,1,1,Football League Second Division,2,D
+1975-11-08,1975/1976,Blackpool,West Bromwich Albion,0-1,0,1,Football League Second Division,2,A
+1975-11-08,1975/1976,Carlisle United,York City,1-0,1,0,Football League Second Division,2,H
+1975-11-08,1975/1976,Fulham,Charlton Athletic,1-1,1,1,Football League Second Division,2,D
+1975-11-08,1975/1976,Hull City,Chelsea,1-2,1,2,Football League Second Division,2,A
+1975-11-08,1975/1976,Notts County,Bristol Rovers,1-1,1,1,Football League Second Division,2,D
+1975-11-08,1975/1976,Oldham Athletic,Oxford United,1-1,1,1,Football League Second Division,2,D
+1975-11-08,1975/1976,Plymouth Argyle,Portsmouth,3-1,3,1,Football League Second Division,2,H
+1975-11-08,1975/1976,Rotherham United,Walsall,3-1,3,1,Football League Third Division,3,H
+1975-11-08,1975/1976,Chesterfield,Aldershot,5-2,5,2,Football League Third Division,3,H
+1975-11-08,1975/1976,Chester,Millwall,3-1,3,1,Football League Third Division,3,H
+1975-11-08,1975/1976,Colchester United,Shrewsbury Town,1-1,1,1,Football League Third Division,3,D
+1975-11-08,1975/1976,Crystal Palace,Peterborough United,1-1,1,1,Football League Third Division,3,D
+1975-11-08,1975/1976,Gillingham,Cardiff City,2-2,2,2,Football League Third Division,3,D
+1975-11-08,1975/1976,Hereford United,Grimsby Town,3-2,3,2,Football League Third Division,3,H
+1975-11-08,1975/1976,Mansfield Town,Halifax Town,1-1,1,1,Football League Third Division,3,D
+1975-11-08,1975/1976,Sheffield Wednesday,Port Vale,0-3,0,3,Football League Third Division,3,A
+1975-11-08,1975/1976,Bury,Wrexham,0-1,0,1,Football League Third Division,3,A
+1975-11-08,1975/1976,Swindon Town,Preston North End,1-3,1,3,Football League Third Division,3,A
+1975-11-08,1975/1976,Brighton & Hove Albion,Southend United,2-0,2,0,Football League Third Division,3,H
+1975-11-11,1975/1976,Grimsby Town,Wrexham,3-2,3,2,Football League Third Division,3,H
+1975-11-12,1975/1976,Oxford United,West Bromwich Albion,0-1,0,1,Football League Second Division,2,A
+1975-11-14,1975/1976,Exeter City,Swansea City,3-0,3,0,Football League Fourth Division,4,H
+1975-11-14,1975/1976,Rochdale,Cambridge United,1-1,1,1,Football League Fourth Division,4,D
+1975-11-15,1975/1976,Birmingham City,Arsenal,3-1,3,1,Football League First Division,1,H
+1975-11-15,1975/1976,Burnley,Wolverhampton Wanderers,1-5,1,5,Football League First Division,1,A
+1975-11-15,1975/1976,Coventry City,Norwich City,1-0,1,0,Football League First Division,1,H
+1975-11-15,1975/1976,Derby County,West Ham United,2-1,2,1,Football League First Division,1,H
+1975-11-15,1975/1976,Ipswich Town,Queens Park Rangers,1-1,1,1,Football League First Division,1,D
+1975-11-15,1975/1976,Manchester United,Aston Villa,2-0,2,0,Football League First Division,1,H
+1975-11-15,1975/1976,Middlesbrough,Leeds United,0-0,0,0,Football League First Division,1,D
+1975-11-15,1975/1976,Newcastle United,Liverpool,1-2,1,2,Football League First Division,1,A
+1975-11-15,1975/1976,Everton,Manchester City,1-1,1,1,Football League First Division,1,D
+1975-11-15,1975/1976,Tottenham Hotspur,Stoke City,1-1,1,1,Football League First Division,1,D
+1975-11-15,1975/1976,Sheffield United,Leicester City,1-2,1,2,Football League First Division,1,A
+1975-11-15,1975/1976,Workington,Lincoln City,0-3,0,3,Football League Fourth Division,4,A
+1975-11-15,1975/1976,AFC Bournemouth,Scunthorpe United,1-0,1,0,Football League Fourth Division,4,H
+1975-11-15,1975/1976,Barnsley,Stockport County,2-2,2,2,Football League Fourth Division,4,D
+1975-11-15,1975/1976,Bradford City,Hartlepool United,1-2,1,2,Football League Fourth Division,4,A
+1975-11-15,1975/1976,Brentford,Watford,1-0,1,0,Football League Fourth Division,4,H
+1975-11-15,1975/1976,Crewe Alexandra,Tranmere Rovers,1-0,1,0,Football League Fourth Division,4,H
+1975-11-15,1975/1976,Doncaster Rovers,Newport County,5-1,5,1,Football League Fourth Division,4,H
+1975-11-15,1975/1976,Huddersfield Town,Darlington,1-0,1,0,Football League Fourth Division,4,H
+1975-11-15,1975/1976,Northampton Town,Southport,1-0,1,0,Football League Fourth Division,4,H
+1975-11-15,1975/1976,Torquay United,Reading,0-0,0,0,Football League Fourth Division,4,D
+1975-11-15,1975/1976,York City,Fulham,1-0,1,0,Football League Second Division,2,H
+1975-11-15,1975/1976,Portsmouth,Blackburn Rovers,0-1,0,1,Football League Second Division,2,A
+1975-11-15,1975/1976,West Bromwich Albion,Hull City,2-0,2,0,Football League Second Division,2,H
+1975-11-15,1975/1976,Bolton Wanderers,Carlisle United,0-0,0,0,Football League Second Division,2,D
+1975-11-15,1975/1976,Bristol Rovers,Plymouth Argyle,0-0,0,0,Football League Second Division,2,D
+1975-11-15,1975/1976,Charlton Athletic,Sunderland,1-2,1,2,Football League Second Division,2,A
+1975-11-15,1975/1976,Chelsea,Notts County,2-0,2,0,Football League Second Division,2,H
+1975-11-15,1975/1976,Leyton Orient,Southampton,2-1,2,1,Football League Second Division,2,H
+1975-11-15,1975/1976,Luton Town,Oldham Athletic,2-3,2,3,Football League Second Division,2,A
+1975-11-15,1975/1976,Nottingham Forest,Bristol City,1-0,1,0,Football League Second Division,2,H
+1975-11-15,1975/1976,Oxford United,Blackpool,1-3,1,3,Football League Second Division,2,A
+1975-11-15,1975/1976,Cardiff City,Colchester United,2-0,2,0,Football League Third Division,3,H
+1975-11-15,1975/1976,Grimsby Town,Mansfield Town,4-1,4,1,Football League Third Division,3,H
+1975-11-15,1975/1976,Halifax Town,Brighton & Hove Albion,1-3,1,3,Football League Third Division,3,A
+1975-11-15,1975/1976,Millwall,Gillingham,2-2,2,2,Football League Third Division,3,D
+1975-11-15,1975/1976,Peterborough United,Swindon Town,3-1,3,1,Football League Third Division,3,H
+1975-11-15,1975/1976,Port Vale,Chester,0-1,0,1,Football League Third Division,3,A
+1975-11-15,1975/1976,Preston North End,Bury,0-0,0,0,Football League Third Division,3,D
+1975-11-15,1975/1976,Shrewsbury Town,Rotherham United,0-2,0,2,Football League Third Division,3,A
+1975-11-15,1975/1976,Wrexham,Crystal Palace,1-3,1,3,Football League Third Division,3,A
+1975-11-15,1975/1976,Aldershot,Sheffield Wednesday,1-1,1,1,Football League Third Division,3,D
+1975-11-15,1975/1976,Walsall,Chesterfield,1-0,1,0,Football League Third Division,3,H
+1975-11-22,1975/1976,West Ham United,Middlesbrough,2-1,2,1,Football League First Division,1,H
+1975-11-22,1975/1976,Stoke City,Sheffield United,2-1,2,1,Football League First Division,1,H
+1975-11-22,1975/1976,Queens Park Rangers,Burnley,1-0,1,0,Football League First Division,1,H
+1975-11-22,1975/1976,Norwich City,Newcastle United,1-2,1,2,Football League First Division,1,A
+1975-11-22,1975/1976,Manchester City,Tottenham Hotspur,2-1,2,1,Football League First Division,1,H
+1975-11-22,1975/1976,Liverpool,Coventry City,1-1,1,1,Football League First Division,1,D
+1975-11-22,1975/1976,Leicester City,Ipswich Town,0-0,0,0,Football League First Division,1,D
+1975-11-22,1975/1976,Leeds United,Birmingham City,3-0,3,0,Football League First Division,1,H
+1975-11-22,1975/1976,Aston Villa,Everton,3-1,3,1,Football League First Division,1,H
+1975-11-22,1975/1976,Arsenal,Manchester United,3-1,3,1,Football League First Division,1,H
+1975-11-22,1975/1976,Wolverhampton Wanderers,Derby County,0-0,0,0,Football League First Division,1,D
+1975-11-22,1975/1976,Bristol City,York City,4-1,4,1,Football League Second Division,2,H
+1975-11-22,1975/1976,Carlisle United,Leyton Orient,1-2,1,2,Football League Second Division,2,A
+1975-11-22,1975/1976,Fulham,Luton Town,2-0,2,0,Football League Second Division,2,H
+1975-11-22,1975/1976,Hull City,Portsmouth,1-0,1,0,Football League Second Division,2,H
+1975-11-22,1975/1976,Sunderland,Bristol Rovers,1-1,1,1,Football League Second Division,2,D
+1975-11-22,1975/1976,Oldham Athletic,Charlton Athletic,2-0,2,0,Football League Second Division,2,H
+1975-11-22,1975/1976,Plymouth Argyle,West Bromwich Albion,2-1,2,1,Football League Second Division,2,H
+1975-11-22,1975/1976,Southampton,Nottingham Forest,0-3,0,3,Football League Second Division,2,A
+1975-11-22,1975/1976,Notts County,Bolton Wanderers,1-1,1,1,Football League Second Division,2,D
+1975-11-22,1975/1976,Blackburn Rovers,Oxford United,0-0,0,0,Football League Second Division,2,D
+1975-11-22,1975/1976,Blackpool,Chelsea,0-2,0,2,Football League Second Division,2,A
+1975-11-28,1975/1976,Tranmere Rovers,Watford,3-0,3,0,Football League Fourth Division,4,H
+1975-11-28,1975/1976,Stockport County,Swansea City,3-2,3,2,Football League Fourth Division,4,H
+1975-11-28,1975/1976,Exeter City,Doncaster Rovers,1-0,1,0,Football League Fourth Division,4,H
+1975-11-28,1975/1976,Lincoln City,Scunthorpe United,3-0,3,0,Football League Fourth Division,4,H
+1975-11-29,1975/1976,Coventry City,Birmingham City,3-2,3,2,Football League First Division,1,H
+1975-11-29,1975/1976,Derby County,Middlesbrough,3-2,3,2,Football League First Division,1,H
+1975-11-29,1975/1976,Ipswich Town,Sheffield United,1-1,1,1,Football League First Division,1,D
+1975-11-29,1975/1976,Leeds United,Everton,5-2,5,2,Football League First Division,1,H
+1975-11-29,1975/1976,Liverpool,Norwich City,1-3,1,3,Football League First Division,1,A
+1975-11-29,1975/1976,Manchester United,Newcastle United,1-0,1,0,Football League First Division,1,H
+1975-11-29,1975/1976,Queens Park Rangers,Stoke City,3-2,3,2,Football League First Division,1,H
+1975-11-29,1975/1976,Tottenham Hotspur,Burnley,2-1,2,1,Football League First Division,1,H
+1975-11-29,1975/1976,Aston Villa,Leicester City,1-1,1,1,Football League First Division,1,D
+1975-11-29,1975/1976,West Ham United,Arsenal,1-0,1,0,Football League First Division,1,H
+1975-11-29,1975/1976,Wolverhampton Wanderers,Manchester City,0-4,0,4,Football League First Division,1,A
+1975-11-29,1975/1976,Torquay United,Bradford City,1-0,1,0,Football League Fourth Division,4,H
+1975-11-29,1975/1976,Hartlepool United,Newport County,4-1,4,1,Football League Fourth Division,4,H
+1975-11-29,1975/1976,AFC Bournemouth,Northampton Town,0-0,0,0,Football League Fourth Division,4,D
+1975-11-29,1975/1976,Barnsley,Huddersfield Town,2-3,2,3,Football League Fourth Division,4,A
+1975-11-29,1975/1976,Crewe Alexandra,Brentford,1-0,1,0,Football League Fourth Division,4,H
+1975-11-29,1975/1976,Darlington,Reading,0-1,0,1,Football League Fourth Division,4,A
+1975-11-29,1975/1976,Rochdale,Workington,1-1,1,1,Football League Fourth Division,4,D
+1975-11-29,1975/1976,Southport,Cambridge United,2-4,2,4,Football League Fourth Division,4,A
+1975-11-29,1975/1976,Sunderland,Oldham Athletic,2-0,2,0,Football League Second Division,2,H
+1975-11-29,1975/1976,Nottingham Forest,York City,1-0,1,0,Football League Second Division,2,H
+1975-11-29,1975/1976,Blackburn Rovers,Charlton Athletic,2-0,2,0,Football League Second Division,2,H
+1975-11-29,1975/1976,Blackpool,Notts County,1-0,1,0,Football League Second Division,2,H
+1975-11-29,1975/1976,Bolton Wanderers,West Bromwich Albion,1-2,1,2,Football League Second Division,2,A
+1975-11-29,1975/1976,Bristol Rovers,Chelsea,1-2,1,2,Football League Second Division,2,A
+1975-11-29,1975/1976,Carlisle United,Southampton,1-0,1,0,Football League Second Division,2,H
+1975-11-29,1975/1976,Fulham,Bristol City,1-2,1,2,Football League Second Division,2,A
+1975-11-29,1975/1976,Hull City,Plymouth Argyle,4-0,4,0,Football League Second Division,2,H
+1975-11-29,1975/1976,Luton Town,Leyton Orient,1-0,1,0,Football League Second Division,2,H
+1975-11-29,1975/1976,Portsmouth,Oxford United,0-2,0,2,Football League Second Division,2,A
+1975-11-29,1975/1976,Chesterfield,Chester,1-1,1,1,Football League Third Division,3,D
+1975-11-29,1975/1976,Crystal Palace,Mansfield Town,4-1,4,1,Football League Third Division,3,H
+1975-11-29,1975/1976,Cardiff City,Shrewsbury Town,3-0,3,0,Football League Third Division,3,H
+1975-11-29,1975/1976,Gillingham,Colchester United,0-1,0,1,Football League Third Division,3,A
+1975-11-29,1975/1976,Grimsby Town,Preston North End,0-0,0,0,Football League Third Division,3,D
+1975-11-29,1975/1976,Hereford United,Bury,2-0,2,0,Football League Third Division,3,H
+1975-11-29,1975/1976,Peterborough United,Southend United,3-2,3,2,Football League Third Division,3,H
+1975-11-29,1975/1976,Sheffield Wednesday,Rotherham United,0-0,0,0,Football League Third Division,3,D
+1975-11-29,1975/1976,Wrexham,Halifax Town,1-1,1,1,Football League Third Division,3,D
+1975-11-29,1975/1976,Aldershot,Walsall,3-2,3,2,Football League Third Division,3,H
+1975-11-29,1975/1976,Swindon Town,Brighton & Hove Albion,3-2,3,2,Football League Third Division,3,H
+1975-11-29,1975/1976,Port Vale,Millwall,2-0,2,0,Football League Third Division,3,H
+1975-12-02,1975/1976,Liverpool,Arsenal,2-2,2,2,Football League First Division,1,D
+1975-12-02,1975/1976,Walsall,Sheffield Wednesday,2-2,2,2,Football League Third Division,3,D
+1975-12-03,1975/1976,Charlton Athletic,Luton Town,1-5,1,5,Football League Second Division,2,A
+1975-12-05,1975/1976,Southend United,Grimsby Town,5-2,5,2,Football League Third Division,3,H
+1975-12-06,1975/1976,Arsenal,Leeds United,1-2,1,2,Football League First Division,1,A
+1975-12-06,1975/1976,Birmingham City,Derby County,2-1,2,1,Football League First Division,1,H
+1975-12-06,1975/1976,Burnley,Liverpool,0-0,0,0,Football League First Division,1,D
+1975-12-06,1975/1976,Leicester City,Wolverhampton Wanderers,2-0,2,0,Football League First Division,1,H
+1975-12-06,1975/1976,Manchester City,Queens Park Rangers,0-0,0,0,Football League First Division,1,D
+1975-12-06,1975/1976,Middlesbrough,Manchester United,0-0,0,0,Football League First Division,1,D
+1975-12-06,1975/1976,Newcastle United,Coventry City,4-0,4,0,Football League First Division,1,H
+1975-12-06,1975/1976,Norwich City,West Ham United,1-0,1,0,Football League First Division,1,H
+1975-12-06,1975/1976,Sheffield United,Tottenham Hotspur,1-2,1,2,Football League First Division,1,A
+1975-12-06,1975/1976,Everton,Ipswich Town,3-3,3,3,Football League First Division,1,D
+1975-12-06,1975/1976,Stoke City,Aston Villa,1-1,1,1,Football League First Division,1,D
+1975-12-06,1975/1976,Bradford City,Barnsley,2-1,2,1,Football League Fourth Division,4,H
+1975-12-06,1975/1976,Cambridge United,Tranmere Rovers,3-3,3,3,Football League Fourth Division,4,D
+1975-12-06,1975/1976,Huddersfield Town,Exeter City,0-1,0,1,Football League Fourth Division,4,A
+1975-12-06,1975/1976,Newport County,Darlington,4-1,4,1,Football League Fourth Division,4,H
+1975-12-06,1975/1976,Northampton Town,Crewe Alexandra,2-1,2,1,Football League Fourth Division,4,H
+1975-12-06,1975/1976,Reading,Stockport County,5-0,5,0,Football League Fourth Division,4,H
+1975-12-06,1975/1976,Scunthorpe United,Southport,1-2,1,2,Football League Fourth Division,4,A
+1975-12-06,1975/1976,Swansea City,Hartlepool United,3-1,3,1,Football League Fourth Division,4,H
+1975-12-06,1975/1976,Watford,Lincoln City,1-3,1,3,Football League Fourth Division,4,A
+1975-12-06,1975/1976,Workington,AFC Bournemouth,1-3,1,3,Football League Fourth Division,4,A
+1975-12-06,1975/1976,Brentford,Rochdale,3-0,3,0,Football League Fourth Division,4,H
+1975-12-06,1975/1976,Doncaster Rovers,Torquay United,0-1,0,1,Football League Fourth Division,4,A
+1975-12-06,1975/1976,York City,Hull City,1-2,1,2,Football League Second Division,2,A
+1975-12-06,1975/1976,Bristol City,Carlisle United,0-0,0,0,Football League Second Division,2,D
+1975-12-06,1975/1976,West Bromwich Albion,Portsmouth,3-1,3,1,Football League Second Division,2,H
+1975-12-06,1975/1976,Southampton,Sunderland,4-0,4,0,Football League Second Division,2,H
+1975-12-06,1975/1976,Plymouth Argyle,Blackpool,1-2,1,2,Football League Second Division,2,A
+1975-12-06,1975/1976,Oxford United,Bristol Rovers,2-1,2,1,Football League Second Division,2,H
+1975-12-06,1975/1976,Notts County,Blackburn Rovers,3-0,3,0,Football League Second Division,2,H
+1975-12-06,1975/1976,Leyton Orient,Nottingham Forest,1-1,1,1,Football League Second Division,2,D
+1975-12-06,1975/1976,Chelsea,Bolton Wanderers,0-1,0,1,Football League Second Division,2,A
+1975-12-06,1975/1976,Oldham Athletic,Fulham,2-2,2,2,Football League Second Division,2,D
+1975-12-06,1975/1976,Chester,Gillingham,2-2,2,2,Football League Third Division,3,D
+1975-12-06,1975/1976,Colchester United,Sheffield Wednesday,2-1,2,1,Football League Third Division,3,H
+1975-12-06,1975/1976,Halifax Town,Peterborough United,0-1,0,1,Football League Third Division,3,A
+1975-12-06,1975/1976,Mansfield Town,Swindon Town,3-1,3,1,Football League Third Division,3,H
+1975-12-06,1975/1976,Millwall,Cardiff City,1-3,1,3,Football League Third Division,3,A
+1975-12-06,1975/1976,Preston North End,Wrexham,0-1,0,1,Football League Third Division,3,A
+1975-12-06,1975/1976,Rotherham United,Chesterfield,2-0,2,0,Football League Third Division,3,H
+1975-12-06,1975/1976,Shrewsbury Town,Aldershot,5-3,5,3,Football League Third Division,3,H
+1975-12-06,1975/1976,Walsall,Port Vale,3-1,3,1,Football League Third Division,3,H
+1975-12-06,1975/1976,Bury,Crystal Palace,0-1,0,1,Football League Third Division,3,A
+1975-12-06,1975/1976,Brighton & Hove Albion,Hereford United,4-2,4,2,Football League Third Division,3,H
+1975-12-10,1975/1976,Tottenham Hotspur,Everton,2-2,2,2,Football League First Division,1,D
+1975-12-12,1975/1976,Stockport County,Watford,2-2,2,2,Football League Fourth Division,4,D
+1975-12-12,1975/1976,Leyton Orient,Blackpool,0-1,0,1,Football League Second Division,2,A
+1975-12-12,1975/1976,Charlton Athletic,Plymouth Argyle,2-0,2,0,Football League Second Division,2,H
+1975-12-13,1975/1976,Wolverhampton Wanderers,Middlesbrough,1-2,1,2,Football League First Division,1,A
+1975-12-13,1975/1976,Tottenham Hotspur,Liverpool,0-4,0,4,Football League First Division,1,A
+1975-12-13,1975/1976,Stoke City,Arsenal,2-1,2,1,Football League First Division,1,H
+1975-12-13,1975/1976,Sheffield United,Manchester United,1-4,1,4,Football League First Division,1,A
+1975-12-13,1975/1976,Queens Park Rangers,Derby County,1-1,1,1,Football League First Division,1,D
+1975-12-13,1975/1976,Manchester City,Coventry City,4-2,4,2,Football League First Division,1,H
+1975-12-13,1975/1976,Leicester City,Newcastle United,1-0,1,0,Football League First Division,1,H
+1975-12-13,1975/1976,Ipswich Town,Leeds United,2-1,2,1,Football League First Division,1,H
+1975-12-13,1975/1976,Everton,Birmingham City,5-2,5,2,Football League First Division,1,H
+1975-12-13,1975/1976,Burnley,West Ham United,2-0,2,0,Football League First Division,1,H
+1975-12-13,1975/1976,Aston Villa,Norwich City,3-2,3,2,Football League First Division,1,H
+1975-12-13,1975/1976,Darlington,Cambridge United,1-1,1,1,Football League Fourth Division,4,D
+1975-12-13,1975/1976,Exeter City,Northampton Town,0-0,0,0,Football League Fourth Division,4,D
+1975-12-13,1975/1976,Reading,Scunthorpe United,1-0,1,0,Football League Fourth Division,4,H
+1975-12-13,1975/1976,Doncaster Rovers,Tranmere Rovers,3-0,3,0,Football League Fourth Division,4,H
+1975-12-13,1975/1976,Luton Town,West Bromwich Albion,2-1,2,1,Football League Second Division,2,H
+1975-12-13,1975/1976,Nottingham Forest,Portsmouth,0-1,0,1,Football League Second Division,2,A
+1975-12-13,1975/1976,Oldham Athletic,Blackburn Rovers,2-1,2,1,Football League Second Division,2,H
+1975-12-13,1975/1976,Southampton,Notts County,2-1,2,1,Football League Second Division,2,H
+1975-12-13,1975/1976,Sunderland,Oxford United,1-0,1,0,Football League Second Division,2,H
+1975-12-13,1975/1976,Fulham,Bolton Wanderers,1-2,1,2,Football League Second Division,2,A
+1975-12-13,1975/1976,York City,Bristol Rovers,0-0,0,0,Football League Second Division,2,D
+1975-12-13,1975/1976,Bristol City,Hull City,3-0,3,0,Football League Second Division,2,H
+1975-12-13,1975/1976,Carlisle United,Chelsea,2-1,2,1,Football League Second Division,2,H
+1975-12-13,1975/1976,Wrexham,Colchester United,1-1,1,1,Football League Third Division,3,D
+1975-12-19,1975/1976,Coventry City,Everton,1-2,1,2,Football League First Division,1,A
+1975-12-19,1975/1976,Tranmere Rovers,Reading,2-0,2,0,Football League Fourth Division,4,H
+1975-12-19,1975/1976,Southport,Torquay United,1-3,1,3,Football League Fourth Division,4,A
+1975-12-19,1975/1976,West Bromwich Albion,Southampton,0-2,0,2,Football League Second Division,2,A
+1975-12-20,1975/1976,Birmingham City,Leicester City,2-1,2,1,Football League First Division,1,H
+1975-12-20,1975/1976,Arsenal,Burnley,1-0,1,0,Football League First Division,1,H
+1975-12-20,1975/1976,Derby County,Sheffield United,3-2,3,2,Football League First Division,1,H
+1975-12-20,1975/1976,Leeds United,Aston Villa,1-0,1,0,Football League First Division,1,H
+1975-12-20,1975/1976,Liverpool,Queens Park Rangers,2-0,2,0,Football League First Division,1,H
+1975-12-20,1975/1976,Manchester United,Wolverhampton Wanderers,1-0,1,0,Football League First Division,1,H
+1975-12-20,1975/1976,Middlesbrough,Tottenham Hotspur,1-0,1,0,Football League First Division,1,H
+1975-12-20,1975/1976,Newcastle United,Ipswich Town,1-1,1,1,Football League First Division,1,D
+1975-12-20,1975/1976,Norwich City,Manchester City,2-2,2,2,Football League First Division,1,D
+1975-12-20,1975/1976,West Ham United,Stoke City,3-1,3,1,Football League First Division,1,H
+1975-12-20,1975/1976,AFC Bournemouth,Huddersfield Town,1-0,1,0,Football League Fourth Division,4,H
+1975-12-20,1975/1976,Workington,Doncaster Rovers,3-1,3,1,Football League Fourth Division,4,H
+1975-12-20,1975/1976,Cambridge United,Barnsley,1-1,1,1,Football League Fourth Division,4,D
+1975-12-20,1975/1976,Crewe Alexandra,Swansea City,2-1,2,1,Football League Fourth Division,4,H
+1975-12-20,1975/1976,Lincoln City,Bradford City,4-2,4,2,Football League Fourth Division,4,H
+1975-12-20,1975/1976,Northampton Town,Exeter City,3-1,3,1,Football League Fourth Division,4,H
+1975-12-20,1975/1976,Rochdale,Hartlepool United,1-1,1,1,Football League Fourth Division,4,D
+1975-12-20,1975/1976,Scunthorpe United,Stockport County,0-0,0,0,Football League Fourth Division,4,D
+1975-12-20,1975/1976,Watford,Newport County,3-1,3,1,Football League Fourth Division,4,H
+1975-12-20,1975/1976,Brentford,Darlington,3-0,3,0,Football League Fourth Division,4,H
+1975-12-20,1975/1976,Portsmouth,York City,0-1,0,1,Football League Second Division,2,A
+1975-12-20,1975/1976,Blackpool,Fulham,1-1,1,1,Football League Second Division,2,D
+1975-12-20,1975/1976,Bolton Wanderers,Bristol City,1-0,1,0,Football League Second Division,2,H
+1975-12-20,1975/1976,Bristol Rovers,Oldham Athletic,1-0,1,0,Football League Second Division,2,H
+1975-12-20,1975/1976,Chelsea,Sunderland,1-0,1,0,Football League Second Division,2,H
+1975-12-20,1975/1976,Hull City,Luton Town,1-2,1,2,Football League Second Division,2,A
+1975-12-20,1975/1976,Notts County,Charlton Athletic,2-0,2,0,Football League Second Division,2,H
+1975-12-20,1975/1976,Oxford United,Carlisle United,0-0,0,0,Football League Second Division,2,D
+1975-12-20,1975/1976,Plymouth Argyle,Nottingham Forest,1-0,1,0,Football League Second Division,2,H
+1975-12-20,1975/1976,Blackburn Rovers,Leyton Orient,1-1,1,1,Football League Second Division,2,D
+1975-12-20,1975/1976,Walsall,Brighton & Hove Albion,2-0,2,0,Football League Third Division,3,H
+1975-12-20,1975/1976,Gillingham,Peterborough United,2-2,2,2,Football League Third Division,3,D
+1975-12-20,1975/1976,Colchester United,Wrexham,0-2,0,2,Football League Third Division,3,A
+1975-12-20,1975/1976,Millwall,Crystal Palace,2-1,2,1,Football League Third Division,3,H
+1975-12-20,1975/1976,Port Vale,Grimsby Town,4-3,4,3,Football League Third Division,3,H
+1975-12-20,1975/1976,Rotherham United,Mansfield Town,2-1,2,1,Football League Third Division,3,H
+1975-12-20,1975/1976,Sheffield Wednesday,Preston North End,2-2,2,2,Football League Third Division,3,D
+1975-12-20,1975/1976,Shrewsbury Town,Bury,1-3,1,3,Football League Third Division,3,A
+1975-12-20,1975/1976,Chesterfield,Halifax Town,1-2,1,2,Football League Third Division,3,A
+1975-12-20,1975/1976,Chester,Swindon Town,2-1,2,1,Football League Third Division,3,H
+1975-12-20,1975/1976,Aldershot,Hereford United,0-2,0,2,Football League Third Division,3,A
+1975-12-22,1975/1976,Cardiff City,Southend United,3-1,3,1,Football League Third Division,3,H
+1975-12-23,1975/1976,Everton,Manchester United,1-1,1,1,Football League First Division,1,D
+1975-12-26,1975/1976,Aston Villa,West Ham United,4-1,4,1,Football League First Division,1,H
+1975-12-26,1975/1976,Burnley,Newcastle United,0-1,0,1,Football League First Division,1,A
+1975-12-26,1975/1976,Ipswich Town,Arsenal,2-0,2,0,Football League First Division,1,H
+1975-12-26,1975/1976,Leicester City,Derby County,2-1,2,1,Football League First Division,1,H
+1975-12-26,1975/1976,Queens Park Rangers,Norwich City,2-0,2,0,Football League First Division,1,H
+1975-12-26,1975/1976,Sheffield United,Middlesbrough,1-1,1,1,Football League First Division,1,D
+1975-12-26,1975/1976,Stoke City,Liverpool,1-1,1,1,Football League First Division,1,D
+1975-12-26,1975/1976,Tottenham Hotspur,Birmingham City,1-3,1,3,Football League First Division,1,A
+1975-12-26,1975/1976,Manchester City,Leeds United,0-1,0,1,Football League First Division,1,A
+1975-12-26,1975/1976,Wolverhampton Wanderers,Coventry City,0-1,0,1,Football League First Division,1,A
+1975-12-26,1975/1976,Barnsley,Rochdale,2-1,2,1,Football League Fourth Division,4,H
+1975-12-26,1975/1976,Darlington,Workington,1-0,1,0,Football League Fourth Division,4,H
+1975-12-26,1975/1976,Doncaster Rovers,Lincoln City,2-4,2,4,Football League Fourth Division,4,A
+1975-12-26,1975/1976,Exeter City,Brentford,0-0,0,0,Football League Fourth Division,4,D
+1975-12-26,1975/1976,Swansea City,Watford,4-2,4,2,Football League Fourth Division,4,H
+1975-12-26,1975/1976,Huddersfield Town,Tranmere Rovers,1-0,1,0,Football League Fourth Division,4,H
+1975-12-26,1975/1976,Newport County,Crewe Alexandra,2-2,2,2,Football League Fourth Division,4,D
+1975-12-26,1975/1976,Reading,Cambridge United,1-0,1,0,Football League Fourth Division,4,H
+1975-12-26,1975/1976,Stockport County,Southport,1-0,1,0,Football League Fourth Division,4,H
+1975-12-26,1975/1976,Bradford City,Scunthorpe United,0-0,0,0,Football League Fourth Division,4,D
+1975-12-26,1975/1976,Hartlepool United,Northampton Town,3-0,3,0,Football League Fourth Division,4,H
+1975-12-26,1975/1976,York City,Blackburn Rovers,2-1,2,1,Football League Second Division,2,H
+1975-12-26,1975/1976,Southampton,Bristol Rovers,3-0,3,0,Football League Second Division,2,H
+1975-12-26,1975/1976,Sunderland,Hull City,3-1,3,1,Football League Second Division,2,H
+1975-12-26,1975/1976,Bristol City,Plymouth Argyle,2-2,2,2,Football League Second Division,2,D
+1975-12-26,1975/1976,Nottingham Forest,West Bromwich Albion,0-2,0,2,Football League Second Division,2,A
+1975-12-26,1975/1976,Luton Town,Oxford United,3-2,3,2,Football League Second Division,2,H
+1975-12-26,1975/1976,Leyton Orient,Chelsea,3-1,3,1,Football League Second Division,2,H
+1975-12-26,1975/1976,Oldham Athletic,Bolton Wanderers,2-1,2,1,Football League Second Division,2,H
+1975-12-26,1975/1976,Charlton Athletic,Portsmouth,1-3,1,3,Football League Second Division,2,A
+1975-12-26,1975/1976,Carlisle United,Blackpool,1-0,1,0,Football League Second Division,2,H
+1975-12-26,1975/1976,Fulham,Notts County,3-2,3,2,Football League Second Division,2,H
+1975-12-26,1975/1976,Grimsby Town,Rotherham United,4-1,4,1,Football League Third Division,3,H
+1975-12-26,1975/1976,Halifax Town,Port Vale,1-3,1,3,Football League Third Division,3,A
+1975-12-26,1975/1976,Hereford United,Walsall,1-3,1,3,Football League Third Division,3,A
+1975-12-26,1975/1976,Mansfield Town,Chesterfield,0-1,0,1,Football League Third Division,3,A
+1975-12-26,1975/1976,Peterborough United,Millwall,1-1,1,1,Football League Third Division,3,D
+1975-12-26,1975/1976,Southend United,Colchester United,2-0,2,0,Football League Third Division,3,H
+1975-12-26,1975/1976,Swindon Town,Cardiff City,4-0,4,0,Football League Third Division,3,H
+1975-12-26,1975/1976,Wrexham,Chester,1-1,1,1,Football League Third Division,3,D
+1975-12-26,1975/1976,Bury,Sheffield Wednesday,0-0,0,0,Football League Third Division,3,D
+1975-12-27,1975/1976,Arsenal,Queens Park Rangers,2-0,2,0,Football League First Division,1,H
+1975-12-27,1975/1976,Birmingham City,Stoke City,1-1,1,1,Football League First Division,1,D
+1975-12-27,1975/1976,Coventry City,Tottenham Hotspur,2-2,2,2,Football League First Division,1,D
+1975-12-27,1975/1976,Derby County,Aston Villa,2-0,2,0,Football League First Division,1,H
+1975-12-27,1975/1976,Leeds United,Leicester City,4-0,4,0,Football League First Division,1,H
+1975-12-27,1975/1976,Liverpool,Manchester City,1-0,1,0,Football League First Division,1,H
+1975-12-27,1975/1976,Middlesbrough,Everton,1-1,1,1,Football League First Division,1,D
+1975-12-27,1975/1976,Newcastle United,Sheffield United,1-1,1,1,Football League First Division,1,D
+1975-12-27,1975/1976,Norwich City,Wolverhampton Wanderers,1-1,1,1,Football League First Division,1,D
+1975-12-27,1975/1976,Manchester United,Burnley,2-1,2,1,Football League First Division,1,H
+1975-12-27,1975/1976,West Ham United,Ipswich Town,1-2,1,2,Football League First Division,1,A
+1975-12-27,1975/1976,AFC Bournemouth,Swansea City,2-0,2,0,Football League Fourth Division,4,H
+1975-12-27,1975/1976,Watford,Exeter City,2-0,2,0,Football League Fourth Division,4,H
+1975-12-27,1975/1976,Cambridge United,Torquay United,2-1,2,1,Football League Fourth Division,4,H
+1975-12-27,1975/1976,Crewe Alexandra,Bradford City,1-3,1,3,Football League Fourth Division,4,A
+1975-12-27,1975/1976,Lincoln City,Barnsley,2-1,2,1,Football League Fourth Division,4,H
+1975-12-27,1975/1976,Northampton Town,Newport County,3-0,3,0,Football League Fourth Division,4,H
+1975-12-27,1975/1976,Rochdale,Darlington,1-0,1,0,Football League Fourth Division,4,H
+1975-12-27,1975/1976,Scunthorpe United,Doncaster Rovers,2-1,2,1,Football League Fourth Division,4,H
+1975-12-27,1975/1976,Southport,Huddersfield Town,1-2,1,2,Football League Fourth Division,4,A
+1975-12-27,1975/1976,Workington,Hartlepool United,1-2,1,2,Football League Fourth Division,4,A
+1975-12-27,1975/1976,Brentford,Reading,2-2,2,2,Football League Fourth Division,4,D
+1975-12-27,1975/1976,Tranmere Rovers,Stockport County,5-0,5,0,Football League Fourth Division,4,H
+1975-12-27,1975/1976,West Bromwich Albion,Leyton Orient,1-1,1,1,Football League Second Division,2,D
+1975-12-27,1975/1976,Blackburn Rovers,Nottingham Forest,1-4,1,4,Football League Second Division,2,A
+1975-12-27,1975/1976,Portsmouth,Bristol City,0-1,0,1,Football League Second Division,2,A
+1975-12-27,1975/1976,Oxford United,Southampton,1-2,1,2,Football League Second Division,2,A
+1975-12-27,1975/1976,Notts County,Oldham Athletic,5-1,5,1,Football League Second Division,2,H
+1975-12-27,1975/1976,Hull City,Carlisle United,2-3,2,3,Football League Second Division,2,A
+1975-12-27,1975/1976,Plymouth Argyle,Fulham,4-0,4,0,Football League Second Division,2,H
+1975-12-27,1975/1976,Bristol Rovers,Luton Town,0-1,0,1,Football League Second Division,2,A
+1975-12-27,1975/1976,Bolton Wanderers,Sunderland,2-1,2,1,Football League Second Division,2,H
+1975-12-27,1975/1976,Blackpool,York City,0-0,0,0,Football League Second Division,2,D
+1975-12-27,1975/1976,Chelsea,Charlton Athletic,2-3,2,3,Football League Second Division,2,A
+1975-12-27,1975/1976,Walsall,Wrexham,2-2,2,2,Football League Third Division,3,D
+1975-12-27,1975/1976,Chesterfield,Southend United,1-2,1,2,Football League Third Division,3,A
+1975-12-27,1975/1976,Colchester United,Grimsby Town,1-0,1,0,Football League Third Division,3,H
+1975-12-27,1975/1976,Gillingham,Brighton & Hove Albion,1-0,1,0,Football League Third Division,3,H
+1975-12-27,1975/1976,Millwall,Swindon Town,0-0,0,0,Football League Third Division,3,D
+1975-12-27,1975/1976,Port Vale,Bury,2-1,2,1,Football League Third Division,3,H
+1975-12-27,1975/1976,Rotherham United,Halifax Town,0-1,0,1,Football League Third Division,3,A
+1975-12-27,1975/1976,Sheffield Wednesday,Mansfield Town,0-0,0,0,Football League Third Division,3,D
+1975-12-27,1975/1976,Shrewsbury Town,Hereford United,2-1,2,1,Football League Third Division,3,H
+1975-12-27,1975/1976,Chester,Preston North End,3-0,3,0,Football League Third Division,3,H
+1975-12-27,1975/1976,Cardiff City,Peterborough United,5-2,5,2,Football League Third Division,3,H
+1975-12-27,1975/1976,Aldershot,Crystal Palace,1-0,1,0,Football League Third Division,3,H
+1975-12-30,1975/1976,Torquay United,AFC Bournemouth,2-1,2,1,Football League Fourth Division,4,H
+1975-12-30,1975/1976,Brighton & Hove Albion,Aldershot,4-1,4,1,Football League Third Division,3,H
+1975-12-30,1975/1976,Crystal Palace,Gillingham,0-1,0,1,Football League Third Division,3,A
+1976-01-01,1975/1976,Stockport County,Cambridge United,0-1,0,1,Football League Fourth Division,4,A
+1976-01-02,1975/1976,Exeter City,AFC Bournemouth,1-0,1,0,Football League Fourth Division,4,H
+1976-01-03,1975/1976,Reading,Northampton Town,1-0,1,0,Football League Fourth Division,4,H
+1976-01-03,1975/1976,Torquay United,Watford,1-0,1,0,Football League Fourth Division,4,H
+1976-01-03,1975/1976,Swansea City,Crewe Alexandra,4-0,4,0,Football League Fourth Division,4,H
+1976-01-03,1975/1976,Newport County,Tranmere Rovers,1-5,1,5,Football League Fourth Division,4,A
+1976-01-03,1975/1976,Barnsley,Scunthorpe United,1-0,1,0,Football League Fourth Division,4,H
+1976-01-03,1975/1976,Darlington,Southport,2-0,2,0,Football League Fourth Division,4,H
+1976-01-03,1975/1976,Wrexham,Millwall,1-1,1,1,Football League Third Division,3,D
+1976-01-03,1975/1976,Mansfield Town,Port Vale,3-1,3,1,Football League Third Division,3,H
+1976-01-03,1975/1976,Grimsby Town,Chesterfield,3-0,3,0,Football League Third Division,3,H
+1976-01-06,1975/1976,Crystal Palace,Walsall,0-1,0,1,Football League Third Division,3,A
+1976-01-09,1975/1976,Tranmere Rovers,Exeter City,1-1,1,1,Football League Fourth Division,4,D
+1976-01-09,1975/1976,Workington,Southport,2-1,2,1,Football League Fourth Division,4,H
+1976-01-10,1975/1976,Arsenal,Aston Villa,0-0,0,0,Football League First Division,1,D
+1976-01-10,1975/1976,Birmingham City,Wolverhampton Wanderers,0-1,0,1,Football League First Division,1,A
+1976-01-10,1975/1976,Coventry City,Sheffield United,1-0,1,0,Football League First Division,1,H
+1976-01-10,1975/1976,Derby County,Tottenham Hotspur,2-3,2,3,Football League First Division,1,A
+1976-01-10,1975/1976,Leeds United,Stoke City,2-0,2,0,Football League First Division,1,H
+1976-01-10,1975/1976,Liverpool,Ipswich Town,3-3,3,3,Football League First Division,1,D
+1976-01-10,1975/1976,Manchester United,Queens Park Rangers,2-1,2,1,Football League First Division,1,H
+1976-01-10,1975/1976,Middlesbrough,Manchester City,1-0,1,0,Football League First Division,1,H
+1976-01-10,1975/1976,Norwich City,Burnley,3-1,3,1,Football League First Division,1,H
+1976-01-10,1975/1976,Newcastle United,Everton,5-0,5,0,Football League First Division,1,H
+1976-01-10,1975/1976,West Ham United,Leicester City,1-1,1,1,Football League First Division,1,D
+1976-01-10,1975/1976,Crewe Alexandra,Doncaster Rovers,1-2,1,2,Football League Fourth Division,4,A
+1976-01-10,1975/1976,Brentford,Torquay United,1-1,1,1,Football League Fourth Division,4,D
+1976-01-10,1975/1976,Cambridge United,Swansea City,3-1,3,1,Football League Fourth Division,4,H
+1976-01-10,1975/1976,Lincoln City,Hartlepool United,3-0,3,0,Football League Fourth Division,4,H
+1976-01-10,1975/1976,Northampton Town,Barnsley,5-0,5,0,Football League Fourth Division,4,H
+1976-01-10,1975/1976,Scunthorpe United,Newport County,1-2,1,2,Football League Fourth Division,4,A
+1976-01-10,1975/1976,Southport,Reading,1-2,1,2,Football League Fourth Division,4,A
+1976-01-10,1975/1976,Watford,Darlington,2-0,2,0,Football League Fourth Division,4,H
+1976-01-10,1975/1976,Workington,Stockport County,1-2,1,2,Football League Fourth Division,4,A
+1976-01-10,1975/1976,AFC Bournemouth,Bradford City,2-1,2,1,Football League Fourth Division,4,H
+1976-01-10,1975/1976,Hull City,Nottingham Forest,1-0,1,0,Football League Second Division,2,H
+1976-01-10,1975/1976,West Bromwich Albion,Sunderland,0-0,0,0,Football League Second Division,2,D
+1976-01-10,1975/1976,Blackpool,Charlton Athletic,2-1,2,1,Football League Second Division,2,H
+1976-01-10,1975/1976,Bristol Rovers,Fulham,1-0,1,0,Football League Second Division,2,H
+1976-01-10,1975/1976,Chelsea,Oldham Athletic,0-3,0,3,Football League Second Division,2,A
+1976-01-10,1975/1976,Notts County,York City,4-0,4,0,Football League Second Division,2,H
+1976-01-10,1975/1976,Oxford United,Bristol City,1-1,1,1,Football League Second Division,2,D
+1976-01-10,1975/1976,Plymouth Argyle,Leyton Orient,3-0,3,0,Football League Second Division,2,H
+1976-01-10,1975/1976,Portsmouth,Carlisle United,1-0,1,0,Football League Second Division,2,H
+1976-01-10,1975/1976,Chesterfield,Wrexham,1-1,1,1,Football League Third Division,3,D
+1976-01-10,1975/1976,Colchester United,Crystal Palace,0-3,0,3,Football League Third Division,3,A
+1976-01-10,1975/1976,Gillingham,Swindon Town,3-2,3,2,Football League Third Division,3,H
+1976-01-10,1975/1976,Millwall,Preston North End,2-0,2,0,Football League Third Division,3,H
+1976-01-10,1975/1976,Port Vale,Peterborough United,2-0,2,0,Football League Third Division,3,H
+1976-01-10,1975/1976,Rotherham United,Southend United,2-0,2,0,Football League Third Division,3,H
+1976-01-10,1975/1976,Sheffield Wednesday,Hereford United,1-2,1,2,Football League Third Division,3,A
+1976-01-10,1975/1976,Shrewsbury Town,Grimsby Town,1-0,1,0,Football League Third Division,3,H
+1976-01-10,1975/1976,Walsall,Halifax Town,2-0,2,0,Football League Third Division,3,H
+1976-01-10,1975/1976,Chester,Mansfield Town,1-1,1,1,Football League Third Division,3,D
+1976-01-10,1975/1976,Cardiff City,Brighton & Hove Albion,0-1,0,1,Football League Third Division,3,A
+1976-01-10,1975/1976,Aldershot,Bury,1-1,1,1,Football League Third Division,3,D
+1976-01-13,1975/1976,Preston North End,Rotherham United,3-2,3,2,Football League Third Division,3,H
+1976-01-14,1975/1976,Bradford City,Workington,1-0,1,0,Football League Fourth Division,4,H
+1976-01-14,1975/1976,Peterborough United,Colchester United,3-1,3,1,Football League Third Division,3,H
+1976-01-16,1975/1976,Swansea City,Northampton Town,1-1,1,1,Football League Fourth Division,4,D
+1976-01-16,1975/1976,Stockport County,Brentford,2-0,2,0,Football League Fourth Division,4,H
+1976-01-16,1975/1976,Southend United,Millwall,0-0,0,0,Football League Third Division,3,D
+1976-01-17,1975/1976,Burnley,Derby County,1-2,1,2,Football League First Division,1,A
+1976-01-17,1975/1976,Everton,Norwich City,1-1,1,1,Football League First Division,1,D
+1976-01-17,1975/1976,Ipswich Town,Coventry City,1-1,1,1,Football League First Division,1,D
+1976-01-17,1975/1976,Leicester City,Arsenal,2-1,2,1,Football League First Division,1,H
+1976-01-17,1975/1976,Manchester City,West Ham United,3-0,3,0,Football League First Division,1,H
+1976-01-17,1975/1976,Queens Park Rangers,Birmingham City,2-1,2,1,Football League First Division,1,H
+1976-01-17,1975/1976,Sheffield United,Liverpool,0-0,0,0,Football League First Division,1,D
+1976-01-17,1975/1976,Stoke City,Middlesbrough,1-0,1,0,Football League First Division,1,H
+1976-01-17,1975/1976,Tottenham Hotspur,Manchester United,1-1,1,1,Football League First Division,1,D
+1976-01-17,1975/1976,Wolverhampton Wanderers,Leeds United,1-1,1,1,Football League First Division,1,D
+1976-01-17,1975/1976,Aston Villa,Newcastle United,1-1,1,1,Football League First Division,1,D
+1976-01-17,1975/1976,Barnsley,Tranmere Rovers,1-0,1,0,Football League Fourth Division,4,H
+1976-01-17,1975/1976,Darlington,Crewe Alexandra,0-0,0,0,Football League Fourth Division,4,D
+1976-01-17,1975/1976,Doncaster Rovers,Watford,1-2,1,2,Football League Fourth Division,4,A
+1976-01-17,1975/1976,Exeter City,Lincoln City,0-0,0,0,Football League Fourth Division,4,D
+1976-01-17,1975/1976,Hartlepool United,Southport,0-0,0,0,Football League Fourth Division,4,D
+1976-01-17,1975/1976,Huddersfield Town,Cambridge United,2-0,2,0,Football League Fourth Division,4,H
+1976-01-17,1975/1976,Newport County,AFC Bournemouth,3-1,3,1,Football League Fourth Division,4,H
+1976-01-17,1975/1976,Reading,Workington,1-0,1,0,Football League Fourth Division,4,H
+1976-01-17,1975/1976,Torquay United,Scunthorpe United,1-0,1,0,Football League Fourth Division,4,H
+1976-01-17,1975/1976,Bradford City,Rochdale,3-0,3,0,Football League Fourth Division,4,H
+1976-01-17,1975/1976,Bristol City,Blackburn Rovers,1-0,1,0,Football League Second Division,2,H
+1976-01-17,1975/1976,Sunderland,Plymouth Argyle,2-1,2,1,Football League Second Division,2,H
+1976-01-17,1975/1976,York City,West Bromwich Albion,0-1,0,1,Football League Second Division,2,A
+1976-01-17,1975/1976,Carlisle United,Notts County,1-2,1,2,Football League Second Division,2,A
+1976-01-17,1975/1976,Charlton Athletic,Bristol Rovers,3-0,3,0,Football League Second Division,2,H
+1976-01-17,1975/1976,Fulham,Oxford United,1-1,1,1,Football League Second Division,2,D
+1976-01-17,1975/1976,Leyton Orient,Hull City,1-0,1,0,Football League Second Division,2,H
+1976-01-17,1975/1976,Luton Town,Portsmouth,3-1,3,1,Football League Second Division,2,H
+1976-01-17,1975/1976,Nottingham Forest,Chelsea,1-3,1,3,Football League Second Division,2,A
+1976-01-17,1975/1976,Oldham Athletic,Blackpool,1-0,1,0,Football League Second Division,2,H
+1976-01-17,1975/1976,Southampton,Bolton Wanderers,0-0,0,0,Football League Second Division,2,D
+1976-01-17,1975/1976,Bury,Walsall,1-1,1,1,Football League Third Division,3,D
+1976-01-17,1975/1976,Crystal Palace,Shrewsbury Town,1-1,1,1,Football League Third Division,3,D
+1976-01-17,1975/1976,Grimsby Town,Sheffield Wednesday,1-1,1,1,Football League Third Division,3,D
+1976-01-17,1975/1976,Halifax Town,Cardiff City,1-1,1,1,Football League Third Division,3,D
+1976-01-17,1975/1976,Hereford United,Chesterfield,4-2,4,2,Football League Third Division,3,H
+1976-01-17,1975/1976,Mansfield Town,Gillingham,1-1,1,1,Football League Third Division,3,D
+1976-01-17,1975/1976,Peterborough United,Chester,3-0,3,0,Football League Third Division,3,H
+1976-01-17,1975/1976,Preston North End,Aldershot,1-0,1,0,Football League Third Division,3,H
+1976-01-17,1975/1976,Swindon Town,Port Vale,2-1,2,1,Football League Third Division,3,H
+1976-01-17,1975/1976,Wrexham,Rotherham United,3-0,3,0,Football League Third Division,3,H
+1976-01-17,1975/1976,Brighton & Hove Albion,Colchester United,6-0,6,0,Football League Third Division,3,H
+1976-01-20,1975/1976,Doncaster Rovers,Rochdale,1-2,1,2,Football League Fourth Division,4,A
+1976-01-20,1975/1976,Cardiff City,Mansfield Town,1-0,1,0,Football League Third Division,3,H
+1976-01-23,1975/1976,Crewe Alexandra,Barnsley,1-1,1,1,Football League Fourth Division,4,D
+1976-01-24,1975/1976,West Ham United,Queens Park Rangers,1-0,1,0,Football League First Division,1,H
+1976-01-24,1975/1976,Watford,Reading,2-1,2,1,Football League Fourth Division,4,H
+1976-01-24,1975/1976,Southport,Newport County,3-0,3,0,Football League Fourth Division,4,H
+1976-01-24,1975/1976,Rochdale,Torquay United,2-2,2,2,Football League Fourth Division,4,D
+1976-01-24,1975/1976,Northampton Town,Darlington,3-2,3,2,Football League Fourth Division,4,H
+1976-01-24,1975/1976,Cambridge United,Exeter City,0-1,0,1,Football League Fourth Division,4,A
+1976-01-24,1975/1976,Brentford,Doncaster Rovers,0-1,0,1,Football League Fourth Division,4,A
+1976-01-24,1975/1976,AFC Bournemouth,Stockport County,2-0,2,0,Football League Fourth Division,4,H
+1976-01-24,1975/1976,Workington,Swansea City,1-1,1,1,Football League Fourth Division,4,D
+1976-01-24,1975/1976,Plymouth Argyle,Bristol City,0-0,0,0,Football League Second Division,2,D
+1976-01-24,1975/1976,Walsall,Preston North End,3-1,3,1,Football League Third Division,3,H
+1976-01-24,1975/1976,Shrewsbury Town,Halifax Town,2-0,2,0,Football League Third Division,3,H
+1976-01-24,1975/1976,Sheffield Wednesday,Swindon Town,0-2,0,2,Football League Third Division,3,A
+1976-01-24,1975/1976,Millwall,Grimsby Town,1-1,1,1,Football League Third Division,3,D
+1976-01-24,1975/1976,Gillingham,Wrexham,1-1,1,1,Football League Third Division,3,D
+1976-01-24,1975/1976,Colchester United,Hereford United,1-4,1,4,Football League Third Division,3,A
+1976-01-24,1975/1976,Chesterfield,Port Vale,0-1,0,1,Football League Third Division,3,A
+1976-01-24,1975/1976,Chester,Brighton & Hove Albion,3-0,3,0,Football League Third Division,3,H
+1976-01-26,1975/1976,Southend United,Hereford United,1-3,1,3,Football League Third Division,3,A
+1976-01-27,1975/1976,Huddersfield Town,Crewe Alexandra,1-0,1,0,Football League Fourth Division,4,H
+1976-01-27,1975/1976,Bolton Wanderers,Luton Town,3-0,3,0,Football League Second Division,2,H
+1976-01-28,1975/1976,Blackburn Rovers,Southampton,1-1,1,1,Football League Second Division,2,D
+1976-01-30,1975/1976,Doncaster Rovers,Bradford City,1-1,1,1,Football League Fourth Division,4,D
+1976-01-30,1975/1976,Stockport County,Hartlepool United,2-0,2,0,Football League Fourth Division,4,H
+1976-01-31,1975/1976,Arsenal,Sheffield United,1-0,1,0,Football League First Division,1,H
+1976-01-31,1975/1976,Aston Villa,Queens Park Rangers,0-2,0,2,Football League First Division,1,A
+1976-01-31,1975/1976,Derby County,Coventry City,2-0,2,0,Football League First Division,1,H
+1976-01-31,1975/1976,Everton,Burnley,2-3,2,3,Football League First Division,1,A
+1976-01-31,1975/1976,Ipswich Town,Tottenham Hotspur,1-2,1,2,Football League First Division,1,A
+1976-01-31,1975/1976,Leeds United,Norwich City,0-3,0,3,Football League First Division,1,A
+1976-01-31,1975/1976,Manchester United,Birmingham City,3-1,3,1,Football League First Division,1,H
+1976-01-31,1975/1976,Leicester City,Manchester City,1-0,1,0,Football League First Division,1,H
+1976-01-31,1975/1976,West Ham United,Liverpool,0-4,0,4,Football League First Division,1,A
+1976-01-31,1975/1976,Wolverhampton Wanderers,Stoke City,2-1,2,1,Football League First Division,1,H
+1976-01-31,1975/1976,Middlesbrough,Newcastle United,3-3,3,3,Football League First Division,1,D
+1976-01-31,1975/1976,Brentford,Northampton Town,2-1,2,1,Football League Fourth Division,4,H
+1976-01-31,1975/1976,Crewe Alexandra,Workington,0-0,0,0,Football League Fourth Division,4,D
+1976-01-31,1975/1976,Exeter City,Barnsley,2-0,2,0,Football League Fourth Division,4,H
+1976-01-31,1975/1976,Lincoln City,Cambridge United,3-0,3,0,Football League Fourth Division,4,H
+1976-01-31,1975/1976,Southport,Tranmere Rovers,0-0,0,0,Football League Fourth Division,4,D
+1976-01-31,1975/1976,Southampton,Oldham Athletic,3-2,3,2,Football League Second Division,2,H
+1976-01-31,1975/1976,Luton Town,Nottingham Forest,1-1,1,1,Football League Second Division,2,D
+1976-01-31,1975/1976,Chelsea,West Bromwich Albion,1-2,1,2,Football League Second Division,2,A
+1976-01-31,1975/1976,Blackburn Rovers,Plymouth Argyle,3-1,3,1,Football League Second Division,2,H
+1976-01-31,1975/1976,Blackpool,Hull City,2-2,2,2,Football League Second Division,2,D
+1976-01-31,1975/1976,Bristol Rovers,Portsmouth,2-0,2,0,Football League Second Division,2,H
+1976-01-31,1975/1976,Carlisle United,Fulham,2-2,2,2,Football League Second Division,2,D
+1976-01-31,1975/1976,Charlton Athletic,York City,3-2,3,2,Football League Second Division,2,H
+1976-01-31,1975/1976,Cardiff City,Aldershot,1-0,1,0,Football League Third Division,3,H
+1976-01-31,1975/1976,Chesterfield,Gillingham,0-1,0,1,Football League Third Division,3,A
+1976-01-31,1975/1976,Hereford United,Crystal Palace,1-1,1,1,Football League Third Division,3,D
+1976-01-31,1975/1976,Millwall,Walsall,2-1,2,1,Football League Third Division,3,H
+1976-01-31,1975/1976,Peterborough United,Preston North End,2-0,2,0,Football League Third Division,3,H
+1976-01-31,1975/1976,Port Vale,Shrewsbury Town,0-0,0,0,Football League Third Division,3,D
+1976-01-31,1975/1976,Rotherham United,Colchester United,2-0,2,0,Football League Third Division,3,H
+1976-01-31,1975/1976,Brighton & Hove Albion,Mansfield Town,1-0,1,0,Football League Third Division,3,H
+1976-01-31,1975/1976,Wrexham,Grimsby Town,1-0,1,0,Football League Third Division,3,H
+1976-01-31,1975/1976,Sheffield Wednesday,Chester,2-0,2,0,Football League Third Division,3,H
+1976-01-31,1975/1976,Swindon Town,Bury,2-1,2,1,Football League Third Division,3,H
+1976-02-03,1975/1976,Rotherham United,Crystal Palace,4-1,4,1,Football League Third Division,3,H
+1976-02-03,1975/1976,Brighton & Hove Albion,Millwall,1-0,1,0,Football League Third Division,3,H
+1976-02-03,1975/1976,Preston North End,Shrewsbury Town,0-2,0,2,Football League Third Division,3,A
+1976-02-04,1975/1976,Hereford United,Cardiff City,4-1,4,1,Football League Third Division,3,H
+1976-02-06,1975/1976,Tranmere Rovers,Lincoln City,2-0,2,0,Football League Fourth Division,4,H
+1976-02-06,1975/1976,Swansea City,Reading,5-1,5,1,Football League Fourth Division,4,H
+1976-02-06,1975/1976,Hull City,Blackburn Rovers,0-1,0,1,Football League Second Division,2,A
+1976-02-06,1975/1976,Southend United,Wrexham,2-1,2,1,Football League Third Division,3,H
+1976-02-07,1975/1976,Coventry City,Manchester United,1-1,1,1,Football League First Division,1,D
+1976-02-07,1975/1976,Liverpool,Leeds United,2-0,2,0,Football League First Division,1,H
+1976-02-07,1975/1976,Manchester City,Aston Villa,2-1,2,1,Football League First Division,1,H
+1976-02-07,1975/1976,Newcastle United,Derby County,4-3,4,3,Football League First Division,1,H
+1976-02-07,1975/1976,Norwich City,Arsenal,3-1,3,1,Football League First Division,1,H
+1976-02-07,1975/1976,Queens Park Rangers,Wolverhampton Wanderers,4-2,4,2,Football League First Division,1,H
+1976-02-07,1975/1976,Sheffield United,Everton,0-0,0,0,Football League First Division,1,D
+1976-02-07,1975/1976,Stoke City,Leicester City,1-2,1,2,Football League First Division,1,A
+1976-02-07,1975/1976,Tottenham Hotspur,West Ham United,1-1,1,1,Football League First Division,1,D
+1976-02-07,1975/1976,Burnley,Ipswich Town,0-1,0,1,Football League First Division,1,A
+1976-02-07,1975/1976,Birmingham City,Middlesbrough,2-1,2,1,Football League First Division,1,H
+1976-02-07,1975/1976,Bradford City,Exeter City,0-0,0,0,Football League Fourth Division,4,D
+1976-02-07,1975/1976,Cambridge United,Scunthorpe United,2-2,2,2,Football League Fourth Division,4,D
+1976-02-07,1975/1976,Hartlepool United,Darlington,2-3,2,3,Football League Fourth Division,4,A
+1976-02-07,1975/1976,Huddersfield Town,Doncaster Rovers,1-2,1,2,Football League Fourth Division,4,A
+1976-02-07,1975/1976,Newport County,Stockport County,2-2,2,2,Football League Fourth Division,4,D
+1976-02-07,1975/1976,Northampton Town,Rochdale,1-1,1,1,Football League Fourth Division,4,D
+1976-02-07,1975/1976,Watford,Southport,2-0,2,0,Football League Fourth Division,4,H
+1976-02-07,1975/1976,Workington,Brentford,1-1,1,1,Football League Fourth Division,4,D
+1976-02-07,1975/1976,Barnsley,Torquay United,0-0,0,0,Football League Fourth Division,4,D
+1976-02-07,1975/1976,AFC Bournemouth,Crewe Alexandra,1-0,1,0,Football League Fourth Division,4,H
+1976-02-07,1975/1976,West Bromwich Albion,Bristol Rovers,3-0,3,0,Football League Second Division,2,H
+1976-02-07,1975/1976,York City,Luton Town,2-3,2,3,Football League Second Division,2,A
+1976-02-07,1975/1976,Bristol City,Southampton,1-1,1,1,Football League Second Division,2,D
+1976-02-07,1975/1976,Fulham,Sunderland,2-0,2,0,Football League Second Division,2,H
+1976-02-07,1975/1976,Nottingham Forest,Blackpool,3-0,3,0,Football League Second Division,2,H
+1976-02-07,1975/1976,Oldham Athletic,Carlisle United,2-2,2,2,Football League Second Division,2,D
+1976-02-07,1975/1976,Oxford United,Chelsea,1-1,1,1,Football League Second Division,2,D
+1976-02-07,1975/1976,Plymouth Argyle,Notts County,1-3,1,3,Football League Second Division,2,A
+1976-02-07,1975/1976,Portsmouth,Bolton Wanderers,0-1,0,1,Football League Second Division,2,A
+1976-02-07,1975/1976,Chester,Rotherham United,3-1,3,1,Football League Third Division,3,H
+1976-02-07,1975/1976,Colchester United,Chesterfield,2-3,2,3,Football League Third Division,3,A
+1976-02-07,1975/1976,Crystal Palace,Swindon Town,3-3,3,3,Football League Third Division,3,D
+1976-02-07,1975/1976,Gillingham,Sheffield Wednesday,0-0,0,0,Football League Third Division,3,D
+1976-02-07,1975/1976,Grimsby Town,Peterborough United,1-1,1,1,Football League Third Division,3,D
+1976-02-07,1975/1976,Mansfield Town,Hereford United,2-2,2,2,Football League Third Division,3,D
+1976-02-07,1975/1976,Preston North End,Halifax Town,2-1,2,1,Football League Third Division,3,H
+1976-02-07,1975/1976,Shrewsbury Town,Millwall,1-0,1,0,Football League Third Division,3,H
+1976-02-07,1975/1976,Bury,Brighton & Hove Albion,1-1,1,1,Football League Third Division,3,D
+1976-02-07,1975/1976,Walsall,Cardiff City,2-3,2,3,Football League Third Division,3,A
+1976-02-07,1975/1976,Aldershot,Port Vale,2-0,2,0,Football League Third Division,3,H
+1976-02-09,1975/1976,Wrexham,Shrewsbury Town,2-3,2,3,Football League Third Division,3,A
+1976-02-09,1975/1976,Port Vale,Southend United,1-1,1,1,Football League Third Division,3,D
+1976-02-10,1975/1976,Rochdale,AFC Bournemouth,2-2,2,2,Football League Fourth Division,4,D
+1976-02-10,1975/1976,Scunthorpe United,Watford,0-1,0,1,Football League Fourth Division,4,A
+1976-02-10,1975/1976,Swindon Town,Aldershot,6-3,6,3,Football League Third Division,3,H
+1976-02-11,1975/1976,Chesterfield,Bury,3-2,3,2,Football League Third Division,3,H
+1976-02-11,1975/1976,Hereford United,Mansfield Town,1-0,1,0,Football League Third Division,3,H
+1976-02-13,1975/1976,Crewe Alexandra,Southport,4-0,4,0,Football League Fourth Division,4,H
+1976-02-13,1975/1976,Exeter City,Reading,4-1,4,1,Football League Fourth Division,4,H
+1976-02-13,1975/1976,Walsall,Rotherham United,5-1,5,1,Football League Third Division,3,H
+1976-02-14,1975/1976,Tottenham Hotspur,Queens Park Rangers,0-3,0,3,Football League First Division,1,A
+1976-02-14,1975/1976,Birmingham City,Manchester City,2-1,2,1,Football League First Division,1,H
+1976-02-14,1975/1976,Coventry City,West Ham United,2-0,2,0,Football League First Division,1,H
+1976-02-14,1975/1976,Sheffield United,Aston Villa,2-1,2,1,Football League First Division,1,H
+1976-02-14,1975/1976,Middlesbrough,Burnley,1-1,1,1,Football League First Division,1,D
+1976-02-14,1975/1976,AFC Bournemouth,Watford,4-1,4,1,Football League Fourth Division,4,H
+1976-02-14,1975/1976,Barnsley,Darlington,1-0,1,0,Football League Fourth Division,4,H
+1976-02-14,1975/1976,Brentford,Tranmere Rovers,0-1,0,1,Football League Fourth Division,4,A
+1976-02-14,1975/1976,Torquay United,Swansea City,0-2,0,2,Football League Fourth Division,4,A
+1976-02-14,1975/1976,Huddersfield Town,Stockport County,2-2,2,2,Football League Fourth Division,4,D
+1976-02-14,1975/1976,Northampton Town,Cambridge United,4-2,4,2,Football League Fourth Division,4,H
+1976-02-14,1975/1976,Rochdale,Lincoln City,0-0,0,0,Football League Fourth Division,4,D
+1976-02-14,1975/1976,Workington,Scunthorpe United,2-3,2,3,Football League Fourth Division,4,A
+1976-02-14,1975/1976,Doncaster Rovers,Hartlepool United,3-0,3,0,Football League Fourth Division,4,H
+1976-02-14,1975/1976,Bristol Rovers,Notts County,0-0,0,0,Football League Second Division,2,D
+1976-02-14,1975/1976,Oxford United,Oldham Athletic,1-1,1,1,Football League Second Division,2,D
+1976-02-14,1975/1976,Portsmouth,Plymouth Argyle,2-0,2,0,Football League Second Division,2,H
+1976-02-14,1975/1976,York City,Carlisle United,1-2,1,2,Football League Second Division,2,A
+1976-02-14,1975/1976,Leyton Orient,Bristol City,0-1,0,1,Football League Second Division,2,A
+1976-02-14,1975/1976,Preston North End,Swindon Town,4-2,4,2,Football League Third Division,3,H
+1976-02-14,1975/1976,Shrewsbury Town,Colchester United,1-0,1,0,Football League Third Division,3,H
+1976-02-14,1975/1976,Wrexham,Bury,2-1,2,1,Football League Third Division,3,H
+1976-02-14,1975/1976,Millwall,Chester,1-0,1,0,Football League Third Division,3,H
+1976-02-14,1975/1976,Grimsby Town,Hereford United,1-0,1,0,Football League Third Division,3,H
+1976-02-14,1975/1976,Halifax Town,Mansfield Town,1-2,1,2,Football League Third Division,3,A
+1976-02-14,1975/1976,Aldershot,Chesterfield,3-1,3,1,Football League Third Division,3,H
+1976-02-14,1975/1976,Cardiff City,Gillingham,4-1,4,1,Football League Third Division,3,H
+1976-02-16,1975/1976,Port Vale,Sheffield Wednesday,1-0,1,0,Football League Third Division,3,H
+1976-02-17,1975/1976,Burnley,Leicester City,1-0,1,0,Football League First Division,1,H
+1976-02-17,1975/1976,Ipswich Town,Wolverhampton Wanderers,3-0,3,0,Football League First Division,1,H
+1976-02-17,1975/1976,Torquay United,Huddersfield Town,1-3,1,3,Football League Fourth Division,4,A
+1976-02-17,1975/1976,Charlton Athletic,Fulham,3-2,3,2,Football League Second Division,2,H
+1976-02-17,1975/1976,Southend United,Brighton & Hove Albion,4-0,4,0,Football League Third Division,3,H
+1976-02-18,1975/1976,Derby County,Arsenal,2-0,2,0,Football League First Division,1,H
+1976-02-18,1975/1976,Manchester United,Liverpool,0-0,0,0,Football League First Division,1,D
+1976-02-18,1975/1976,Hartlepool United,Cambridge United,2-2,2,2,Football League Fourth Division,4,D
+1976-02-18,1975/1976,Chelsea,Hull City,0-0,0,0,Football League Second Division,2,D
+1976-02-18,1975/1976,Peterborough United,Crystal Palace,2-0,2,0,Football League Third Division,3,H
+1976-02-20,1975/1976,Stockport County,Barnsley,1-1,1,1,Football League Fourth Division,4,D
+1976-02-20,1975/1976,Swansea City,Exeter City,0-3,0,3,Football League Fourth Division,4,A
+1976-02-20,1975/1976,Tranmere Rovers,Crewe Alexandra,2-1,2,1,Football League Fourth Division,4,H
+1976-02-21,1975/1976,Manchester City,Everton,3-0,3,0,Football League First Division,1,H
+1976-02-21,1975/1976,Arsenal,Birmingham City,1-0,1,0,Football League First Division,1,H
+1976-02-21,1975/1976,Aston Villa,Manchester United,2-1,2,1,Football League First Division,1,H
+1976-02-21,1975/1976,Leicester City,Sheffield United,1-1,1,1,Football League First Division,1,D
+1976-02-21,1975/1976,Liverpool,Newcastle United,2-0,2,0,Football League First Division,1,H
+1976-02-21,1975/1976,Norwich City,Coventry City,0-3,0,3,Football League First Division,1,A
+1976-02-21,1975/1976,Queens Park Rangers,Ipswich Town,3-1,3,1,Football League First Division,1,H
+1976-02-21,1975/1976,Stoke City,Tottenham Hotspur,1-2,1,2,Football League First Division,1,A
+1976-02-21,1975/1976,West Ham United,Derby County,1-2,1,2,Football League First Division,1,A
+1976-02-21,1975/1976,Leeds United,Middlesbrough,0-2,0,2,Football League First Division,1,A
+1976-02-21,1975/1976,Wolverhampton Wanderers,Burnley,3-2,3,2,Football League First Division,1,H
+1976-02-21,1975/1976,Darlington,Huddersfield Town,0-3,0,3,Football League Fourth Division,4,A
+1976-02-21,1975/1976,Cambridge United,Rochdale,0-0,0,0,Football League Fourth Division,4,D
+1976-02-21,1975/1976,Hartlepool United,Bradford City,2-2,2,2,Football League Fourth Division,4,D
+1976-02-21,1975/1976,Lincoln City,Workington,4-1,4,1,Football League Fourth Division,4,H
+1976-02-21,1975/1976,Newport County,Doncaster Rovers,2-3,2,3,Football League Fourth Division,4,A
+1976-02-21,1975/1976,Reading,Torquay United,0-0,0,0,Football League Fourth Division,4,D
+1976-02-21,1975/1976,Scunthorpe United,AFC Bournemouth,2-0,2,0,Football League Fourth Division,4,H
+1976-02-21,1975/1976,Southport,Northampton Town,0-1,0,1,Football League Fourth Division,4,A
+1976-02-21,1975/1976,Watford,Brentford,3-2,3,2,Football League Fourth Division,4,H
+1976-02-21,1975/1976,Southampton,Leyton Orient,3-0,3,0,Football League Second Division,2,H
+1976-02-21,1975/1976,Sunderland,Charlton Athletic,4-1,4,1,Football League Second Division,2,H
+1976-02-21,1975/1976,Blackburn Rovers,Portsmouth,0-3,0,3,Football League Second Division,2,A
+1976-02-21,1975/1976,Blackpool,Oxford United,2-0,2,0,Football League Second Division,2,H
+1976-02-21,1975/1976,Bristol City,Nottingham Forest,0-2,0,2,Football League Second Division,2,A
+1976-02-21,1975/1976,Carlisle United,Bolton Wanderers,3-2,3,2,Football League Second Division,2,H
+1976-02-21,1975/1976,Plymouth Argyle,Bristol Rovers,3-0,3,0,Football League Second Division,2,H
+1976-02-21,1975/1976,Fulham,York City,2-0,2,0,Football League Second Division,2,H
+1976-02-21,1975/1976,Hull City,West Bromwich Albion,2-1,2,1,Football League Second Division,2,H
+1976-02-21,1975/1976,Notts County,Chelsea,3-2,3,2,Football League Second Division,2,H
+1976-02-21,1975/1976,Oldham Athletic,Luton Town,1-1,1,1,Football League Second Division,2,D
+1976-02-21,1975/1976,Chester,Port Vale,1-0,1,0,Football League Third Division,3,H
+1976-02-21,1975/1976,Chesterfield,Walsall,2-1,2,1,Football League Third Division,3,H
+1976-02-21,1975/1976,Colchester United,Cardiff City,3-2,3,2,Football League Third Division,3,H
+1976-02-21,1975/1976,Crystal Palace,Wrexham,1-1,1,1,Football League Third Division,3,D
+1976-02-21,1975/1976,Gillingham,Millwall,3-1,3,1,Football League Third Division,3,H
+1976-02-21,1975/1976,Hereford United,Southend United,2-1,2,1,Football League Third Division,3,H
+1976-02-21,1975/1976,Mansfield Town,Grimsby Town,1-0,1,0,Football League Third Division,3,H
+1976-02-21,1975/1976,Rotherham United,Shrewsbury Town,0-1,0,1,Football League Third Division,3,A
+1976-02-21,1975/1976,Sheffield Wednesday,Aldershot,3-1,3,1,Football League Third Division,3,H
+1976-02-21,1975/1976,Bury,Preston North End,2-0,2,0,Football League Third Division,3,H
+1976-02-21,1975/1976,Swindon Town,Peterborough United,0-3,0,3,Football League Third Division,3,A
+1976-02-21,1975/1976,Brighton & Hove Albion,Halifax Town,1-0,1,0,Football League Third Division,3,H
+1976-02-23,1975/1976,West Ham United,Leeds United,1-1,1,1,Football League First Division,1,D
+1976-02-23,1975/1976,Newport County,Swansea City,1-2,1,2,Football League Fourth Division,4,A
+1976-02-23,1975/1976,Darlington,Stockport County,0-1,0,1,Football League Fourth Division,4,A
+1976-02-23,1975/1976,Brentford,AFC Bournemouth,1-2,1,2,Football League Fourth Division,4,A
+1976-02-23,1975/1976,Mansfield Town,Bury,1-1,1,1,Football League Third Division,3,D
+1976-02-23,1975/1976,Wrexham,Peterborough United,3-0,3,0,Football League Third Division,3,H
+1976-02-24,1975/1976,Middlesbrough,Coventry City,2-0,2,0,Football League First Division,1,H
+1976-02-24,1975/1976,Everton,Tottenham Hotspur,1-0,1,0,Football League First Division,1,H
+1976-02-24,1975/1976,Burnley,Sheffield United,3-1,3,1,Football League First Division,1,H
+1976-02-24,1975/1976,Aston Villa,Wolverhampton Wanderers,1-1,1,1,Football League First Division,1,D
+1976-02-24,1975/1976,Arsenal,Liverpool,1-0,1,0,Football League First Division,1,H
+1976-02-24,1975/1976,Scunthorpe United,Tranmere Rovers,2-2,2,2,Football League Fourth Division,4,D
+1976-02-24,1975/1976,Doncaster Rovers,Barnsley,2-2,2,2,Football League Fourth Division,4,D
+1976-02-24,1975/1976,Watford,Cambridge United,1-0,1,0,Football League Fourth Division,4,H
+1976-02-24,1975/1976,York City,Leyton Orient,0-2,0,2,Football League Second Division,2,A
+1976-02-24,1975/1976,Southampton,Fulham,2-1,2,1,Football League Second Division,2,H
+1976-02-24,1975/1976,Notts County,Hull City,1-2,1,2,Football League Second Division,2,A
+1976-02-24,1975/1976,Charlton Athletic,Nottingham Forest,2-2,2,2,Football League Second Division,2,D
+1976-02-24,1975/1976,Carlisle United,Sunderland,2-2,2,2,Football League Second Division,2,D
+1976-02-24,1975/1976,Bristol City,Oldham Athletic,1-0,1,0,Football League Second Division,2,H
+1976-02-24,1975/1976,Blackpool,Blackburn Rovers,1-1,1,1,Football League Second Division,2,D
+1976-02-24,1975/1976,Plymouth Argyle,Luton Town,3-0,3,0,Football League Second Division,2,H
+1976-02-24,1975/1976,Swindon Town,Hereford United,0-1,0,1,Football League Third Division,3,A
+1976-02-24,1975/1976,Shrewsbury Town,Walsall,1-1,1,1,Football League Third Division,3,D
+1976-02-24,1975/1976,Rotherham United,Gillingham,2-0,2,0,Football League Third Division,3,H
+1976-02-24,1975/1976,Preston North End,Southend United,5-1,5,1,Football League Third Division,3,H
+1976-02-24,1975/1976,Halifax Town,Grimsby Town,2-1,2,1,Football League Third Division,3,H
+1976-02-24,1975/1976,Colchester United,Chester,1-0,1,0,Football League Third Division,3,H
+1976-02-24,1975/1976,Brighton & Hove Albion,Crystal Palace,2-0,2,0,Football League Third Division,3,H
+1976-02-25,1975/1976,Leicester City,Queens Park Rangers,0-1,0,1,Football League First Division,1,A
+1976-02-25,1975/1976,Manchester United,Derby County,1-1,1,1,Football League First Division,1,D
+1976-02-25,1975/1976,Workington,Northampton Town,1-0,1,0,Football League Fourth Division,4,H
+1976-02-25,1975/1976,Reading,Hartlepool United,1-0,1,0,Football League Fourth Division,4,H
+1976-02-25,1975/1976,Lincoln City,Southport,6-0,6,0,Football League Fourth Division,4,H
+1976-02-25,1975/1976,Exeter City,Torquay United,0-0,0,0,Football League Fourth Division,4,D
+1976-02-25,1975/1976,West Bromwich Albion,Oxford United,2-0,2,0,Football League Second Division,2,H
+1976-02-25,1975/1976,Chelsea,Portsmouth,2-0,2,0,Football League Second Division,2,H
+1976-02-25,1975/1976,Millwall,Aldershot,4-1,4,1,Football League Third Division,3,H
+1976-02-25,1975/1976,Cardiff City,Port Vale,1-1,1,1,Football League Third Division,3,D
+1976-02-27,1975/1976,Doncaster Rovers,Darlington,3-2,3,2,Football League Fourth Division,4,H
+1976-02-27,1975/1976,Northampton Town,Scunthorpe United,2-1,2,1,Football League Fourth Division,4,H
+1976-02-27,1975/1976,Charlton Athletic,Carlisle United,4-2,4,2,Football League Second Division,2,H
+1976-02-27,1975/1976,Walsall,Gillingham,4-0,4,0,Football League Third Division,3,H
+1976-02-27,1975/1976,Peterborough United,Hereford United,0-3,0,3,Football League Third Division,3,A
+1976-02-27,1975/1976,Southend United,Crystal Palace,1-2,1,2,Football League Third Division,3,A
+1976-02-28,1975/1976,Birmingham City,Norwich City,1-1,1,1,Football League First Division,1,D
+1976-02-28,1975/1976,Burnley,Aston Villa,2-2,2,2,Football League First Division,1,D
+1976-02-28,1975/1976,Coventry City,Leeds United,0-1,0,1,Football League First Division,1,A
+1976-02-28,1975/1976,Derby County,Liverpool,1-1,1,1,Football League First Division,1,D
+1976-02-28,1975/1976,Everton,Wolverhampton Wanderers,3-0,3,0,Football League First Division,1,H
+1976-02-28,1975/1976,Manchester United,West Ham United,4-0,4,0,Football League First Division,1,H
+1976-02-28,1975/1976,Middlesbrough,Arsenal,0-1,0,1,Football League First Division,1,A
+1976-02-28,1975/1976,Tottenham Hotspur,Leicester City,1-1,1,1,Football League First Division,1,D
+1976-02-28,1975/1976,Sheffield United,Queens Park Rangers,0-0,0,0,Football League First Division,1,D
+1976-02-28,1975/1976,Barnsley,Hartlepool United,3-1,3,1,Football League Fourth Division,4,H
+1976-02-28,1975/1976,Brentford,Cambridge United,0-0,0,0,Football League Fourth Division,4,D
+1976-02-28,1975/1976,Exeter City,Newport County,3-0,3,0,Football League Fourth Division,4,H
+1976-02-28,1975/1976,Huddersfield Town,Reading,3-0,3,0,Football League Fourth Division,4,H
+1976-02-28,1975/1976,Rochdale,Southport,2-0,2,0,Football League Fourth Division,4,H
+1976-02-28,1975/1976,Torquay United,Stockport County,4-1,4,1,Football League Fourth Division,4,H
+1976-02-28,1975/1976,Bradford City,Swansea City,0-0,0,0,Football League Fourth Division,4,D
+1976-02-28,1975/1976,Workington,Tranmere Rovers,0-1,0,1,Football League Fourth Division,4,A
+1976-02-28,1975/1976,York City,Southampton,2-1,2,1,Football League Second Division,2,H
+1976-02-28,1975/1976,Oxford United,Plymouth Argyle,2-2,2,2,Football League Second Division,2,D
+1976-02-28,1975/1976,Portsmouth,Notts County,1-3,1,3,Football League Second Division,2,A
+1976-02-28,1975/1976,Nottingham Forest,Oldham Athletic,4-3,4,3,Football League Second Division,2,H
+1976-02-28,1975/1976,Luton Town,Sunderland,2-0,2,0,Football League Second Division,2,H
+1976-02-28,1975/1976,Leyton Orient,Fulham,2-0,2,0,Football League Second Division,2,H
+1976-02-28,1975/1976,Bristol Rovers,Blackpool,1-1,1,1,Football League Second Division,2,D
+1976-02-28,1975/1976,Bolton Wanderers,Hull City,1-0,1,0,Football League Second Division,2,H
+1976-02-28,1975/1976,Chelsea,Blackburn Rovers,3-1,3,1,Football League Second Division,2,H
+1976-02-28,1975/1976,Cardiff City,Chester,2-0,2,0,Football League Third Division,3,H
+1976-02-28,1975/1976,Grimsby Town,Swindon Town,1-0,1,0,Football League Third Division,3,H
+1976-02-28,1975/1976,Halifax Town,Bury,0-2,0,2,Football League Third Division,3,A
+1976-02-28,1975/1976,Millwall,Chesterfield,2-0,2,0,Football League Third Division,3,H
+1976-02-28,1975/1976,Port Vale,Colchester United,3-2,3,2,Football League Third Division,3,H
+1976-02-28,1975/1976,Preston North End,Mansfield Town,0-2,0,2,Football League Third Division,3,A
+1976-02-28,1975/1976,Wrexham,Brighton & Hove Albion,3-0,3,0,Football League Third Division,3,H
+1976-02-28,1975/1976,Aldershot,Rotherham United,3-0,3,0,Football League Third Division,3,H
+1976-03-01,1975/1976,Rochdale,Huddersfield Town,0-0,0,0,Football League Fourth Division,4,D
+1976-03-01,1975/1976,Mansfield Town,Brighton & Hove Albion,1-0,1,0,Football League Third Division,3,H
+1976-03-01,1975/1976,Southend United,Gillingham,2-2,2,2,Football League Third Division,3,D
+1976-03-02,1975/1976,Leeds United,Derby County,1-1,1,1,Football League First Division,1,D
+1976-03-02,1975/1976,Scunthorpe United,Hartlepool United,5-1,5,1,Football League Fourth Division,4,H
+1976-03-02,1975/1976,Reading,Newport County,1-0,1,0,Football League Fourth Division,4,H
+1976-03-02,1975/1976,Leyton Orient,Charlton Athletic,0-1,0,1,Football League Second Division,2,A
+1976-03-02,1975/1976,Bolton Wanderers,Oxford United,0-1,0,1,Football League Second Division,2,A
+1976-03-02,1975/1976,Luton Town,Southampton,1-0,1,0,Football League Second Division,2,H
+1976-03-02,1975/1976,Halifax Town,Sheffield Wednesday,0-0,0,0,Football League Third Division,3,D
+1976-03-03,1975/1976,Newcastle United,Stoke City,0-1,0,1,Football League First Division,1,A
+1976-03-03,1975/1976,Crewe Alexandra,Watford,2-2,2,2,Football League Fourth Division,4,D
+1976-03-05,1975/1976,Swansea City,Barnsley,3-1,3,1,Football League Fourth Division,4,H
+1976-03-05,1975/1976,Stockport County,Exeter City,2-1,2,1,Football League Fourth Division,4,H
+1976-03-05,1975/1976,Southport,Workington,2-1,2,1,Football League Fourth Division,4,H
+1976-03-05,1975/1976,Newport County,Torquay United,0-2,0,2,Football League Fourth Division,4,A
+1976-03-06,1975/1976,Aston Villa,Ipswich Town,0-0,0,0,Football League First Division,1,D
+1976-03-06,1975/1976,Leicester City,Everton,1-0,1,0,Football League First Division,1,H
+1976-03-06,1975/1976,Liverpool,Middlesbrough,0-2,0,2,Football League First Division,1,A
+1976-03-06,1975/1976,Manchester City,Sheffield United,4-0,4,0,Football League First Division,1,H
+1976-03-06,1975/1976,Norwich City,Tottenham Hotspur,3-1,3,1,Football League First Division,1,H
+1976-03-06,1975/1976,Queens Park Rangers,Coventry City,4-1,4,1,Football League First Division,1,H
+1976-03-06,1975/1976,West Ham United,Birmingham City,1-2,1,2,Football League First Division,1,A
+1976-03-06,1975/1976,Stoke City,Burnley,4-1,4,1,Football League First Division,1,H
+1976-03-06,1975/1976,Tranmere Rovers,Rochdale,0-1,0,1,Football League Fourth Division,4,A
+1976-03-06,1975/1976,Scunthorpe United,Brentford,2-1,2,1,Football League Fourth Division,4,H
+1976-03-06,1975/1976,Watford,Northampton Town,0-1,0,1,Football League Fourth Division,4,A
+1976-03-06,1975/1976,Lincoln City,Crewe Alexandra,2-0,2,0,Football League Fourth Division,4,H
+1976-03-06,1975/1976,Cambridge United,AFC Bournemouth,0-1,0,1,Football League Fourth Division,4,A
+1976-03-06,1975/1976,Reading,Doncaster Rovers,0-1,0,1,Football League Fourth Division,4,A
+1976-03-06,1975/1976,Hartlepool United,Huddersfield Town,1-1,1,1,Football League Fourth Division,4,D
+1976-03-06,1975/1976,Plymouth Argyle,Chelsea,0-3,0,3,Football League Second Division,2,A
+1976-03-06,1975/1976,Notts County,West Bromwich Albion,0-2,0,2,Football League Second Division,2,A
+1976-03-06,1975/1976,Oldham Athletic,Leyton Orient,1-1,1,1,Football League Second Division,2,D
+1976-03-06,1975/1976,Blackburn Rovers,Bristol Rovers,1-2,1,2,Football League Second Division,2,A
+1976-03-06,1975/1976,Blackpool,Bolton Wanderers,1-1,1,1,Football League Second Division,2,D
+1976-03-06,1975/1976,Bristol City,Luton Town,3-0,3,0,Football League Second Division,2,H
+1976-03-06,1975/1976,Carlisle United,Nottingham Forest,1-1,1,1,Football League Second Division,2,D
+1976-03-06,1975/1976,Fulham,Portsmouth,0-1,0,1,Football League Second Division,2,A
+1976-03-06,1975/1976,Hull City,Oxford United,2-0,2,0,Football League Second Division,2,H
+1976-03-06,1975/1976,Swindon Town,Southend United,0-0,0,0,Football League Third Division,3,D
+1976-03-06,1975/1976,Sheffield Wednesday,Walsall,2-1,2,1,Football League Third Division,3,H
+1976-03-06,1975/1976,Rotherham United,Port Vale,1-2,1,2,Football League Third Division,3,A
+1976-03-06,1975/1976,Mansfield Town,Wrexham,0-0,0,0,Football League Third Division,3,D
+1976-03-06,1975/1976,Gillingham,Aldershot,1-1,1,1,Football League Third Division,3,D
+1976-03-06,1975/1976,Chesterfield,Cardiff City,1-1,1,1,Football League Third Division,3,D
+1976-03-06,1975/1976,Chester,Shrewsbury Town,1-0,1,0,Football League Third Division,3,H
+1976-03-06,1975/1976,Bury,Grimsby Town,1-1,1,1,Football League Third Division,3,D
+1976-03-06,1975/1976,Brighton & Hove Albion,Peterborough United,5-0,5,0,Football League Third Division,3,H
+1976-03-08,1975/1976,Newport County,Brentford,1-0,1,0,Football League Fourth Division,4,H
+1976-03-08,1975/1976,Wrexham,Cardiff City,1-1,1,1,Football League Third Division,3,D
+1976-03-08,1975/1976,Mansfield Town,Millwall,1-1,1,1,Football League Third Division,3,D
+1976-03-08,1975/1976,Southend United,Aldershot,0-2,0,2,Football League Third Division,3,A
+1976-03-09,1975/1976,Leeds United,West Ham United,1-1,1,1,Football League First Division,1,D
+1976-03-09,1975/1976,Barnsley,AFC Bournemouth,2-0,2,0,Football League Fourth Division,4,H
+1976-03-09,1975/1976,Swansea City,Lincoln City,2-2,2,2,Football League Fourth Division,4,D
+1976-03-09,1975/1976,Exeter City,Rochdale,1-0,1,0,Football League Fourth Division,4,H
+1976-03-09,1975/1976,Doncaster Rovers,Northampton Town,0-4,0,4,Football League Fourth Division,4,A
+1976-03-09,1975/1976,Huddersfield Town,Workington,2-0,2,0,Football League Fourth Division,4,H
+1976-03-09,1975/1976,Fulham,Southampton,1-0,1,0,Football League Second Division,2,H
+1976-03-09,1975/1976,Swindon Town,Rotherham United,1-1,1,1,Football League Third Division,3,D
+1976-03-09,1975/1976,Halifax Town,Gillingham,1-1,1,1,Football League Third Division,3,D
+1976-03-09,1975/1976,Grimsby Town,Walsall,1-2,1,2,Football League Third Division,3,A
+1976-03-09,1975/1976,Crystal Palace,Port Vale,2-2,2,2,Football League Third Division,3,D
+1976-03-09,1975/1976,Preston North End,Chesterfield,3-1,3,1,Football League Third Division,3,H
+1976-03-10,1975/1976,Torquay United,Tranmere Rovers,2-1,2,1,Football League Fourth Division,4,H
+1976-03-10,1975/1976,Hartlepool United,Crewe Alexandra,1-3,1,3,Football League Fourth Division,4,A
+1976-03-10,1975/1976,Bradford City,Southport,1-1,1,1,Football League Fourth Division,4,D
+1976-03-10,1975/1976,Peterborough United,Sheffield Wednesday,2-2,2,2,Football League Third Division,3,D
+1976-03-10,1975/1976,Hereford United,Chester,5-0,5,0,Football League Third Division,3,H
+1976-03-10,1975/1976,Brighton & Hove Albion,Shrewsbury Town,2-2,2,2,Football League Third Division,3,D
+1976-03-12,1975/1976,Northampton Town,Tranmere Rovers,1-1,1,1,Football League Fourth Division,4,D
+1976-03-12,1975/1976,Rochdale,Scunthorpe United,1-1,1,1,Football League Fourth Division,4,D
+1976-03-12,1975/1976,Charlton Athletic,Bristol City,2-2,2,2,Football League Second Division,2,D
+1976-03-13,1975/1976,Birmingham City,Liverpool,0-1,0,1,Football League First Division,1,A
+1976-03-13,1975/1976,Burnley,Manchester City,0-0,0,0,Football League First Division,1,D
+1976-03-13,1975/1976,Coventry City,Arsenal,1-1,1,1,Football League First Division,1,D
+1976-03-13,1975/1976,Derby County,Norwich City,3-1,3,1,Football League First Division,1,H
+1976-03-13,1975/1976,Everton,Queens Park Rangers,0-2,0,2,Football League First Division,1,A
+1976-03-13,1975/1976,Ipswich Town,Stoke City,1-1,1,1,Football League First Division,1,D
+1976-03-13,1975/1976,Manchester United,Leeds United,3-2,3,2,Football League First Division,1,H
+1976-03-13,1975/1976,Middlesbrough,Leicester City,0-1,0,1,Football League First Division,1,A
+1976-03-13,1975/1976,Newcastle United,West Ham United,2-1,2,1,Football League First Division,1,H
+1976-03-13,1975/1976,Tottenham Hotspur,Aston Villa,5-2,5,2,Football League First Division,1,H
+1976-03-13,1975/1976,Sheffield United,Wolverhampton Wanderers,1-4,1,4,Football League First Division,1,A
+1976-03-13,1975/1976,Barnsley,Newport County,3-1,3,1,Football League Fourth Division,4,H
+1976-03-13,1975/1976,AFC Bournemouth,Southport,3-3,3,3,Football League Fourth Division,4,D
+1976-03-13,1975/1976,Bradford City,Reading,1-1,1,1,Football League Fourth Division,4,D
+1976-03-13,1975/1976,Brentford,Lincoln City,1-0,1,0,Football League Fourth Division,4,H
+1976-03-13,1975/1976,Crewe Alexandra,Cambridge United,1-2,1,2,Football League Fourth Division,4,A
+1976-03-13,1975/1976,Doncaster Rovers,Stockport County,3-1,3,1,Football League Fourth Division,4,H
+1976-03-13,1975/1976,Workington,Watford,1-3,1,3,Football League Fourth Division,4,A
+1976-03-13,1975/1976,Huddersfield Town,Swansea City,2-0,2,0,Football League Fourth Division,4,H
+1976-03-13,1975/1976,Torquay United,Hartlepool United,1-1,1,1,Football League Fourth Division,4,D
+1976-03-13,1975/1976,Exeter City,Darlington,1-1,1,1,Football League Fourth Division,4,D
+1976-03-13,1975/1976,York City,Oldham Athletic,1-0,1,0,Football League Second Division,2,H
+1976-03-13,1975/1976,West Bromwich Albion,Blackburn Rovers,2-2,2,2,Football League Second Division,2,D
+1976-03-13,1975/1976,Nottingham Forest,Fulham,1-0,1,0,Football League Second Division,2,H
+1976-03-13,1975/1976,Bolton Wanderers,Plymouth Argyle,0-0,0,0,Football League Second Division,2,D
+1976-03-13,1975/1976,Bristol Rovers,Hull City,0-1,0,1,Football League Second Division,2,A
+1976-03-13,1975/1976,Chelsea,Southampton,1-1,1,1,Football League Second Division,2,D
+1976-03-13,1975/1976,Leyton Orient,Sunderland,0-2,0,2,Football League Second Division,2,A
+1976-03-13,1975/1976,Luton Town,Carlisle United,3-0,3,0,Football League Second Division,2,H
+1976-03-13,1975/1976,Oxford United,Notts County,2-1,2,1,Football League Second Division,2,H
+1976-03-13,1975/1976,Portsmouth,Blackpool,2-0,2,0,Football League Second Division,2,H
+1976-03-13,1975/1976,Grimsby Town,Crystal Palace,1-2,1,2,Football League Third Division,3,A
+1976-03-13,1975/1976,Halifax Town,Swindon Town,0-2,0,2,Football League Third Division,3,A
+1976-03-13,1975/1976,Millwall,Sheffield Wednesday,1-0,1,0,Football League Third Division,3,H
+1976-03-13,1975/1976,Peterborough United,Mansfield Town,0-3,0,3,Football League Third Division,3,A
+1976-03-13,1975/1976,Port Vale,Gillingham,1-1,1,1,Football League Third Division,3,D
+1976-03-13,1975/1976,Preston North End,Brighton & Hove Albion,1-0,1,0,Football League Third Division,3,H
+1976-03-13,1975/1976,Shrewsbury Town,Chesterfield,0-2,0,2,Football League Third Division,3,A
+1976-03-13,1975/1976,Southend United,Bury,2-0,2,0,Football League Third Division,3,H
+1976-03-13,1975/1976,Walsall,Colchester United,1-1,1,1,Football League Third Division,3,D
+1976-03-13,1975/1976,Cardiff City,Rotherham United,1-1,1,1,Football League Third Division,3,D
+1976-03-13,1975/1976,Wrexham,Hereford United,2-1,2,1,Football League Third Division,3,H
+1976-03-13,1975/1976,Aldershot,Chester,1-1,1,1,Football League Third Division,3,D
+1976-03-15,1975/1976,Tranmere Rovers,AFC Bournemouth,2-0,2,0,Football League Fourth Division,4,H
+1976-03-15,1975/1976,Stockport County,Bradford City,2-1,2,1,Football League Fourth Division,4,H
+1976-03-15,1975/1976,Darlington,Torquay United,1-0,1,0,Football League Fourth Division,4,H
+1976-03-15,1975/1976,Mansfield Town,Southend United,3-1,3,1,Football League Third Division,3,H
+1976-03-16,1975/1976,Wolverhampton Wanderers,Tottenham Hotspur,0-1,0,1,Football League First Division,1,A
+1976-03-16,1975/1976,Arsenal,Newcastle United,0-0,0,0,Football League First Division,1,D
+1976-03-16,1975/1976,Cambridge United,Workington,4-1,4,1,Football League Fourth Division,4,H
+1976-03-16,1975/1976,Watford,Rochdale,3-0,3,0,Football League Fourth Division,4,H
+1976-03-16,1975/1976,Swansea City,Doncaster Rovers,2-1,2,1,Football League Fourth Division,4,H
+1976-03-16,1975/1976,Southport,Brentford,2-0,2,0,Football League Fourth Division,4,H
+1976-03-16,1975/1976,Scunthorpe United,Crewe Alexandra,1-0,1,0,Football League Fourth Division,4,H
+1976-03-16,1975/1976,Rotherham United,Millwall,1-2,1,2,Football League Third Division,3,A
+1976-03-16,1975/1976,Crystal Palace,Preston North End,2-0,2,0,Football League Third Division,3,H
+1976-03-16,1975/1976,Colchester United,Aldershot,2-0,2,0,Football League Third Division,3,H
+1976-03-16,1975/1976,Chester,Walsall,1-1,1,1,Football League Third Division,3,D
+1976-03-16,1975/1976,Bury,Peterborough United,2-1,2,1,Football League Third Division,3,H
+1976-03-16,1975/1976,Gillingham,Shrewsbury Town,2-1,2,1,Football League Third Division,3,H
+1976-03-17,1975/1976,Norwich City,Manchester United,1-1,1,1,Football League First Division,1,D
+1976-03-17,1975/1976,Lincoln City,Northampton Town,3-1,3,1,Football League Fourth Division,4,H
+1976-03-17,1975/1976,Reading,Barnsley,0-0,0,0,Football League Fourth Division,4,D
+1976-03-17,1975/1976,Newport County,Huddersfield Town,1-2,1,2,Football League Fourth Division,4,A
+1976-03-17,1975/1976,West Bromwich Albion,Bristol City,0-1,0,1,Football League Second Division,2,A
+1976-03-17,1975/1976,Nottingham Forest,Sunderland,2-1,2,1,Football League Second Division,2,H
+1976-03-17,1975/1976,Sheffield Wednesday,Cardiff City,1-3,1,3,Football League Third Division,3,A
+1976-03-17,1975/1976,Brighton & Hove Albion,Grimsby Town,4-2,4,2,Football League Third Division,3,H
+1976-03-17,1975/1976,Hereford United,Halifax Town,1-2,1,2,Football League Third Division,3,A
+1976-03-19,1975/1976,Swansea City,Stockport County,5-0,5,0,Football League Fourth Division,4,H
+1976-03-19,1975/1976,Southend United,Peterborough United,0-0,0,0,Football League Third Division,3,D
+1976-03-20,1975/1976,Newcastle United,Manchester United,3-4,3,4,Football League First Division,1,A
+1976-03-20,1975/1976,Arsenal,West Ham United,6-1,6,1,Football League First Division,1,H
+1976-03-20,1975/1976,Burnley,Tottenham Hotspur,1-2,1,2,Football League First Division,1,A
+1976-03-20,1975/1976,Everton,Leeds United,1-3,1,3,Football League First Division,1,A
+1976-03-20,1975/1976,Leicester City,Aston Villa,2-2,2,2,Football League First Division,1,D
+1976-03-20,1975/1976,Middlesbrough,Derby County,0-2,0,2,Football League First Division,1,A
+1976-03-20,1975/1976,Norwich City,Liverpool,0-1,0,1,Football League First Division,1,A
+1976-03-20,1975/1976,Sheffield United,Ipswich Town,1-2,1,2,Football League First Division,1,A
+1976-03-20,1975/1976,Stoke City,Queens Park Rangers,0-1,0,1,Football League First Division,1,A
+1976-03-20,1975/1976,Manchester City,Wolverhampton Wanderers,3-2,3,2,Football League First Division,1,H
+1976-03-20,1975/1976,Birmingham City,Coventry City,1-1,1,1,Football League First Division,1,D
+1976-03-20,1975/1976,Workington,Rochdale,0-0,0,0,Football League Fourth Division,4,D
+1976-03-20,1975/1976,Brentford,Crewe Alexandra,0-0,0,0,Football League Fourth Division,4,D
+1976-03-20,1975/1976,Cambridge United,Southport,2-2,2,2,Football League Fourth Division,4,D
+1976-03-20,1975/1976,Doncaster Rovers,Exeter City,0-0,0,0,Football League Fourth Division,4,D
+1976-03-20,1975/1976,Huddersfield Town,Barnsley,1-2,1,2,Football League Fourth Division,4,A
+1976-03-20,1975/1976,Newport County,Hartlepool United,0-1,0,1,Football League Fourth Division,4,A
+1976-03-20,1975/1976,Northampton Town,AFC Bournemouth,6-0,6,0,Football League Fourth Division,4,H
+1976-03-20,1975/1976,Reading,Darlington,4-1,4,1,Football League Fourth Division,4,H
+1976-03-20,1975/1976,Watford,Tranmere Rovers,2-2,2,2,Football League Fourth Division,4,D
+1976-03-20,1975/1976,Scunthorpe United,Lincoln City,0-2,0,2,Football League Fourth Division,4,A
+1976-03-20,1975/1976,Bradford City,Torquay United,3-1,3,1,Football League Fourth Division,4,H
+1976-03-20,1975/1976,West Bromwich Albion,Bolton Wanderers,2-0,2,0,Football League Second Division,2,H
+1976-03-20,1975/1976,York City,Nottingham Forest,3-2,3,2,Football League Second Division,2,H
+1976-03-20,1975/1976,Charlton Athletic,Blackburn Rovers,2-1,2,1,Football League Second Division,2,H
+1976-03-20,1975/1976,Bristol City,Fulham,0-0,0,0,Football League Second Division,2,D
+1976-03-20,1975/1976,Southampton,Carlisle United,1-1,1,1,Football League Second Division,2,D
+1976-03-20,1975/1976,Plymouth Argyle,Hull City,1-1,1,1,Football League Second Division,2,D
+1976-03-20,1975/1976,Oxford United,Portsmouth,1-0,1,0,Football League Second Division,2,H
+1976-03-20,1975/1976,Notts County,Blackpool,1-2,1,2,Football League Second Division,2,A
+1976-03-20,1975/1976,Leyton Orient,Luton Town,3-0,3,0,Football League Second Division,2,H
+1976-03-20,1975/1976,Chelsea,Bristol Rovers,0-0,0,0,Football League Second Division,2,D
+1976-03-20,1975/1976,Oldham Athletic,Sunderland,1-1,1,1,Football League Second Division,2,D
+1976-03-20,1975/1976,Bury,Hereford United,2-3,2,3,Football League Third Division,3,A
+1976-03-20,1975/1976,Chester,Chesterfield,2-1,2,1,Football League Third Division,3,H
+1976-03-20,1975/1976,Colchester United,Gillingham,2-2,2,2,Football League Third Division,3,D
+1976-03-20,1975/1976,Halifax Town,Wrexham,0-1,0,1,Football League Third Division,3,A
+1976-03-20,1975/1976,Mansfield Town,Crystal Palace,1-1,1,1,Football League Third Division,3,D
+1976-03-20,1975/1976,Millwall,Port Vale,1-0,1,0,Football League Third Division,3,H
+1976-03-20,1975/1976,Preston North End,Grimsby Town,0-0,0,0,Football League Third Division,3,D
+1976-03-20,1975/1976,Rotherham United,Sheffield Wednesday,1-0,1,0,Football League Third Division,3,H
+1976-03-20,1975/1976,Shrewsbury Town,Cardiff City,3-1,3,1,Football League Third Division,3,H
+1976-03-20,1975/1976,Walsall,Aldershot,4-1,4,1,Football League Third Division,3,H
+1976-03-20,1975/1976,Brighton & Hove Albion,Swindon Town,2-0,2,0,Football League Third Division,3,H
+1976-03-22,1975/1976,Darlington,Bradford City,2-2,2,2,Football League Fourth Division,4,D
+1976-03-22,1975/1976,Rochdale,Crewe Alexandra,0-1,0,1,Football League Fourth Division,4,A
+1976-03-23,1975/1976,Lincoln City,Huddersfield Town,0-0,0,0,Football League Fourth Division,4,D
+1976-03-23,1975/1976,Bolton Wanderers,Blackburn Rovers,0-1,0,1,Football League Second Division,2,A
+1976-03-23,1975/1976,Charlton Athletic,Leyton Orient,1-1,1,1,Football League Second Division,2,D
+1976-03-23,1975/1976,Sunderland,Bristol City,1-1,1,1,Football League Second Division,2,D
+1976-03-23,1975/1976,Colchester United,Millwall,0-1,0,1,Football League Third Division,3,A
+1976-03-23,1975/1976,Halifax Town,Southend United,1-0,1,0,Football League Third Division,3,H
+1976-03-24,1975/1976,Derby County,Stoke City,1-1,1,1,Football League First Division,1,D
+1976-03-24,1975/1976,Sheffield Wednesday,Chesterfield,1-3,1,3,Football League Third Division,3,A
+1976-03-24,1975/1976,Aldershot,Peterborough United,1-0,1,0,Football League Third Division,3,H
+1976-03-26,1975/1976,Lincoln City,Watford,5-1,5,1,Football League Fourth Division,4,H
+1976-03-26,1975/1976,Southport,Scunthorpe United,1-1,1,1,Football League Fourth Division,4,D
+1976-03-26,1975/1976,Stockport County,Reading,1-1,1,1,Football League Fourth Division,4,D
+1976-03-26,1975/1976,Tranmere Rovers,Cambridge United,3-2,3,2,Football League Fourth Division,4,H
+1976-03-27,1975/1976,Coventry City,Newcastle United,1-1,1,1,Football League First Division,1,D
+1976-03-27,1975/1976,Derby County,Birmingham City,4-2,4,2,Football League First Division,1,H
+1976-03-27,1975/1976,Ipswich Town,Everton,1-0,1,0,Football League First Division,1,H
+1976-03-27,1975/1976,Leeds United,Arsenal,3-0,3,0,Football League First Division,1,H
+1976-03-27,1975/1976,Aston Villa,Stoke City,0-0,0,0,Football League First Division,1,D
+1976-03-27,1975/1976,Manchester United,Middlesbrough,3-0,3,0,Football League First Division,1,H
+1976-03-27,1975/1976,Queens Park Rangers,Manchester City,1-0,1,0,Football League First Division,1,H
+1976-03-27,1975/1976,Tottenham Hotspur,Sheffield United,5-0,5,0,Football League First Division,1,H
+1976-03-27,1975/1976,Liverpool,Burnley,2-0,2,0,Football League First Division,1,H
+1976-03-27,1975/1976,Wolverhampton Wanderers,Leicester City,2-2,2,2,Football League First Division,1,D
+1976-03-27,1975/1976,West Ham United,Norwich City,0-1,0,1,Football League First Division,1,A
+1976-03-27,1975/1976,Torquay United,Doncaster Rovers,2-2,2,2,Football League Fourth Division,4,D
+1976-03-27,1975/1976,AFC Bournemouth,Workington,1-0,1,0,Football League Fourth Division,4,H
+1976-03-27,1975/1976,Barnsley,Bradford City,1-1,1,1,Football League Fourth Division,4,D
+1976-03-27,1975/1976,Darlington,Newport County,4-0,4,0,Football League Fourth Division,4,H
+1976-03-27,1975/1976,Exeter City,Huddersfield Town,4-1,4,1,Football League Fourth Division,4,H
+1976-03-27,1975/1976,Hartlepool United,Swansea City,1-0,1,0,Football League Fourth Division,4,H
+1976-03-27,1975/1976,Rochdale,Brentford,1-2,1,2,Football League Fourth Division,4,A
+1976-03-27,1975/1976,Crewe Alexandra,Northampton Town,0-1,0,1,Football League Fourth Division,4,A
+1976-03-27,1975/1976,Sunderland,Southampton,3-0,3,0,Football League Second Division,2,H
+1976-03-27,1975/1976,Nottingham Forest,Leyton Orient,1-0,1,0,Football League Second Division,2,H
+1976-03-27,1975/1976,Portsmouth,West Bromwich Albion,0-1,0,1,Football League Second Division,2,A
+1976-03-27,1975/1976,Blackburn Rovers,Notts County,2-1,2,1,Football League Second Division,2,H
+1976-03-27,1975/1976,Blackpool,Plymouth Argyle,0-0,0,0,Football League Second Division,2,D
+1976-03-27,1975/1976,Bolton Wanderers,Chelsea,2-1,2,1,Football League Second Division,2,H
+1976-03-27,1975/1976,Bristol Rovers,Oxford United,0-1,0,1,Football League Second Division,2,A
+1976-03-27,1975/1976,Carlisle United,Bristol City,0-1,0,1,Football League Second Division,2,A
+1976-03-27,1975/1976,Fulham,Oldham Athletic,1-0,1,0,Football League Second Division,2,H
+1976-03-27,1975/1976,Hull City,York City,1-1,1,1,Football League Second Division,2,D
+1976-03-27,1975/1976,Luton Town,Charlton Athletic,1-1,1,1,Football League Second Division,2,D
+1976-03-27,1975/1976,Cardiff City,Millwall,0-0,0,0,Football League Third Division,3,D
+1976-03-27,1975/1976,Chesterfield,Rotherham United,1-0,1,0,Football League Third Division,3,H
+1976-03-27,1975/1976,Crystal Palace,Bury,1-0,1,0,Football League Third Division,3,H
+1976-03-27,1975/1976,Gillingham,Chester,2-0,2,0,Football League Third Division,3,H
+1976-03-27,1975/1976,Grimsby Town,Southend United,2-2,2,2,Football League Third Division,3,D
+1976-03-27,1975/1976,Hereford United,Brighton & Hove Albion,1-1,1,1,Football League Third Division,3,D
+1976-03-27,1975/1976,Peterborough United,Halifax Town,1-0,1,0,Football League Third Division,3,H
+1976-03-27,1975/1976,Port Vale,Walsall,1-2,1,2,Football League Third Division,3,A
+1976-03-27,1975/1976,Wrexham,Preston North End,1-2,1,2,Football League Third Division,3,A
+1976-03-27,1975/1976,Swindon Town,Mansfield Town,0-2,0,2,Football League Third Division,3,A
+1976-03-27,1975/1976,Aldershot,Shrewsbury Town,1-1,1,1,Football League Third Division,3,D
+1976-03-27,1975/1976,Sheffield Wednesday,Colchester United,1-0,1,0,Football League Third Division,3,H
+1976-03-29,1975/1976,Darlington,Brentford,2-0,2,0,Football League Fourth Division,4,H
+1976-03-29,1975/1976,Stockport County,Scunthorpe United,0-0,0,0,Football League Fourth Division,4,D
+1976-03-29,1975/1976,Mansfield Town,Rotherham United,1-1,1,1,Football League Third Division,3,D
+1976-03-29,1975/1976,Southend United,Cardiff City,0-2,0,2,Football League Third Division,3,A
+1976-03-30,1975/1976,Huddersfield Town,AFC Bournemouth,0-0,0,0,Football League Fourth Division,4,D
+1976-03-30,1975/1976,Doncaster Rovers,Workington,1-0,1,0,Football League Fourth Division,4,H
+1976-03-30,1975/1976,Barnsley,Cambridge United,4-0,4,0,Football League Fourth Division,4,H
+1976-03-30,1975/1976,Sunderland,York City,1-0,1,0,Football League Second Division,2,H
+1976-03-30,1975/1976,Swindon Town,Chester,2-1,2,1,Football League Third Division,3,H
+1976-03-30,1975/1976,Preston North End,Sheffield Wednesday,4-2,4,2,Football League Third Division,3,H
+1976-03-30,1975/1976,Grimsby Town,Port Vale,1-1,1,1,Football League Third Division,3,D
+1976-03-30,1975/1976,Crystal Palace,Millwall,0-0,0,0,Football League Third Division,3,D
+1976-03-30,1975/1976,Bury,Shrewsbury Town,2-1,2,1,Football League Third Division,3,H
+1976-03-30,1975/1976,Halifax Town,Chesterfield,1-0,1,0,Football League Third Division,3,H
+1976-03-31,1975/1976,Norwich City,Ipswich Town,1-0,1,0,Football League First Division,1,H
+1976-03-31,1975/1976,Newcastle United,Leeds United,2-3,2,3,Football League First Division,1,A
+1976-03-31,1975/1976,Torquay United,Southport,2-1,2,1,Football League Fourth Division,4,H
+1976-03-31,1975/1976,Newport County,Watford,0-2,0,2,Football League Fourth Division,4,A
+1976-03-31,1975/1976,Hartlepool United,Rochdale,3-0,3,0,Football League Fourth Division,4,H
+1976-03-31,1975/1976,Bradford City,Lincoln City,1-5,1,5,Football League Fourth Division,4,A
+1976-03-31,1975/1976,Reading,Tranmere Rovers,5-0,5,0,Football League Fourth Division,4,H
+1976-03-31,1975/1976,West Bromwich Albion,Blackpool,0-0,0,0,Football League Second Division,2,D
+1976-03-31,1975/1976,Hereford United,Aldershot,2-1,2,1,Football League Third Division,3,H
+1976-03-31,1975/1976,Peterborough United,Gillingham,1-1,1,1,Football League Third Division,3,D
+1976-04-02,1975/1976,Stoke City,Manchester City,0-0,0,0,Football League First Division,1,D
+1976-04-02,1975/1976,Southport,Exeter City,1-0,1,0,Football League Fourth Division,4,H
+1976-04-02,1975/1976,Tranmere Rovers,Swansea City,3-0,3,0,Football League Fourth Division,4,H
+1976-04-02,1975/1976,Shrewsbury Town,Mansfield Town,1-2,1,2,Football League Third Division,3,A
+1976-04-03,1975/1976,Arsenal,Tottenham Hotspur,0-2,0,2,Football League First Division,1,A
+1976-04-03,1975/1976,Birmingham City,Aston Villa,3-2,3,2,Football League First Division,1,H
+1976-04-03,1975/1976,Coventry City,Leicester City,0-2,0,2,Football League First Division,1,A
+1976-04-03,1975/1976,Leeds United,Burnley,2-1,2,1,Football League First Division,1,H
+1976-04-03,1975/1976,Middlesbrough,Ipswich Town,2-0,2,0,Football League First Division,1,H
+1976-04-03,1975/1976,Newcastle United,Queens Park Rangers,1-2,1,2,Football League First Division,1,A
+1976-04-03,1975/1976,Norwich City,Sheffield United,1-3,1,3,Football League First Division,1,A
+1976-04-03,1975/1976,Liverpool,Everton,1-0,1,0,Football League First Division,1,H
+1976-04-03,1975/1976,West Ham United,Wolverhampton Wanderers,0-0,0,0,Football League First Division,1,D
+1976-04-03,1975/1976,AFC Bournemouth,Hartlepool United,4-2,4,2,Football League Fourth Division,4,H
+1976-04-03,1975/1976,Northampton Town,Huddersfield Town,1-1,1,1,Football League Fourth Division,4,D
+1976-04-03,1975/1976,Crewe Alexandra,Stockport County,3-1,3,1,Football League Fourth Division,4,H
+1976-04-03,1975/1976,Lincoln City,Newport County,4-1,4,1,Football League Fourth Division,4,H
+1976-04-03,1975/1976,Rochdale,Reading,0-0,0,0,Football League Fourth Division,4,D
+1976-04-03,1975/1976,Scunthorpe United,Darlington,2-1,2,1,Football League Fourth Division,4,H
+1976-04-03,1975/1976,Watford,Barnsley,1-0,1,0,Football League Fourth Division,4,H
+1976-04-03,1975/1976,Workington,Torquay United,1-3,1,3,Football League Fourth Division,4,A
+1976-04-03,1975/1976,Brentford,Bradford City,2-2,2,2,Football League Fourth Division,4,D
+1976-04-03,1975/1976,Cambridge United,Doncaster Rovers,3-3,3,3,Football League Fourth Division,4,D
+1976-04-03,1975/1976,Plymouth Argyle,Oldham Athletic,2-1,2,1,Football League Second Division,2,H
+1976-04-03,1975/1976,West Bromwich Albion,Carlisle United,3-0,3,0,Football League Second Division,2,H
+1976-04-03,1975/1976,Blackburn Rovers,Luton Town,3-0,3,0,Football League Second Division,2,H
+1976-04-03,1975/1976,Blackpool,Bristol City,2-1,2,1,Football League Second Division,2,H
+1976-04-03,1975/1976,Bolton Wanderers,Nottingham Forest,0-0,0,0,Football League Second Division,2,D
+1976-04-03,1975/1976,Bristol Rovers,Leyton Orient,1-1,1,1,Football League Second Division,2,D
+1976-04-03,1975/1976,Hull City,Charlton Athletic,2-2,2,2,Football League Second Division,2,D
+1976-04-03,1975/1976,Notts County,Sunderland,0-0,0,0,Football League Second Division,2,D
+1976-04-03,1975/1976,Oxford United,York City,1-0,1,0,Football League Second Division,2,H
+1976-04-03,1975/1976,Chesterfield,Swindon Town,4-0,4,0,Football League Third Division,3,H
+1976-04-03,1975/1976,Colchester United,Preston North End,1-1,1,1,Football League Third Division,3,D
+1976-04-03,1975/1976,Gillingham,Bury,2-0,2,0,Football League Third Division,3,H
+1976-04-03,1975/1976,Millwall,Halifax Town,1-0,1,0,Football League Third Division,3,H
+1976-04-03,1975/1976,Port Vale,Hereford United,1-1,1,1,Football League Third Division,3,D
+1976-04-03,1975/1976,Walsall,Peterborough United,2-2,2,2,Football League Third Division,3,D
+1976-04-03,1975/1976,Rotherham United,Brighton & Hove Albion,1-1,1,1,Football League Third Division,3,D
+1976-04-03,1975/1976,Cardiff City,Grimsby Town,2-1,2,1,Football League Third Division,3,H
+1976-04-03,1975/1976,Aldershot,Wrexham,2-3,2,3,Football League Third Division,3,A
+1976-04-05,1975/1976,Rochdale,Stockport County,2-3,2,3,Football League Fourth Division,4,A
+1976-04-05,1975/1976,Brentford,Huddersfield Town,0-0,0,0,Football League Fourth Division,4,D
+1976-04-05,1975/1976,Port Vale,Wrexham,3-1,3,1,Football League Third Division,3,H
+1976-04-06,1975/1976,Middlesbrough,Norwich City,0-1,0,1,Football League First Division,1,A
+1976-04-06,1975/1976,Liverpool,Leicester City,1-0,1,0,Football League First Division,1,H
+1976-04-06,1975/1976,Tranmere Rovers,Hartlepool United,1-2,1,2,Football League Fourth Division,4,A
+1976-04-06,1975/1976,Southport,Doncaster Rovers,1-1,1,1,Football League Fourth Division,4,D
+1976-04-06,1975/1976,Scunthorpe United,Swansea City,1-1,1,1,Football League Fourth Division,4,D
+1976-04-06,1975/1976,Northampton Town,Torquay United,2-2,2,2,Football League Fourth Division,4,D
+1976-04-06,1975/1976,Cambridge United,Newport County,0-1,0,1,Football League Fourth Division,4,A
+1976-04-06,1975/1976,Watford,Bradford City,3-0,3,0,Football League Fourth Division,4,H
+1976-04-06,1975/1976,Portsmouth,Southampton,0-1,0,1,Football League Second Division,2,A
+1976-04-06,1975/1976,Chelsea,Fulham,0-0,0,0,Football League Second Division,2,D
+1976-04-06,1975/1976,Walsall,Mansfield Town,0-1,0,1,Football League Third Division,3,A
+1976-04-06,1975/1976,Shrewsbury Town,Southend United,3-1,3,1,Football League Third Division,3,H
+1976-04-06,1975/1976,Gillingham,Hereford United,3-4,3,4,Football League Third Division,3,A
+1976-04-06,1975/1976,Colchester United,Swindon Town,1-2,1,2,Football League Third Division,3,A
+1976-04-06,1975/1976,Rotherham United,Peterborough United,1-1,1,1,Football League Third Division,3,D
+1976-04-07,1975/1976,Newcastle United,Birmingham City,4-0,4,0,Football League First Division,1,H
+1976-04-07,1975/1976,Ipswich Town,Manchester City,2-1,2,1,Football League First Division,1,H
+1976-04-07,1975/1976,Everton,Stoke City,2-1,2,1,Football League First Division,1,H
+1976-04-07,1975/1976,Crewe Alexandra,Exeter City,0-0,0,0,Football League Fourth Division,4,D
+1976-04-07,1975/1976,AFC Bournemouth,Reading,0-1,0,1,Football League Fourth Division,4,A
+1976-04-07,1975/1976,Lincoln City,Darlington,2-1,2,1,Football League Fourth Division,4,H
+1976-04-07,1975/1976,Workington,Barnsley,1-7,1,7,Football League Fourth Division,4,A
+1976-04-07,1975/1976,Sheffield Wednesday,Crystal Palace,1-0,1,0,Football League Third Division,3,H
+1976-04-07,1975/1976,Millwall,Bury,0-0,0,0,Football League Third Division,3,D
+1976-04-07,1975/1976,Chesterfield,Brighton & Hove Albion,2-1,2,1,Football League Third Division,3,H
+1976-04-07,1975/1976,Cardiff City,Preston North End,1-0,1,0,Football League Third Division,3,H
+1976-04-07,1975/1976,Aldershot,Grimsby Town,0-3,0,3,Football League Third Division,3,A
+1976-04-07,1975/1976,Chester,Halifax Town,2-1,2,1,Football League Third Division,3,H
+1976-04-09,1975/1976,Charlton Athletic,West Bromwich Albion,2-1,2,1,Football League Second Division,2,H
+1976-04-09,1975/1976,Southend United,Walsall,2-2,2,2,Football League Third Division,3,D
+1976-04-10,1975/1976,Queens Park Rangers,Middlesbrough,4-2,4,2,Football League First Division,1,H
+1976-04-10,1975/1976,Aston Villa,Liverpool,0-0,0,0,Football League First Division,1,D
+1976-04-10,1975/1976,Burnley,Birmingham City,1-0,1,0,Football League First Division,1,H
+1976-04-10,1975/1976,Everton,Arsenal,0-0,0,0,Football League First Division,1,D
+1976-04-10,1975/1976,Ipswich Town,Manchester United,3-0,3,0,Football League First Division,1,H
+1976-04-10,1975/1976,Leicester City,Norwich City,0-0,0,0,Football League First Division,1,D
+1976-04-10,1975/1976,Manchester City,Derby County,4-3,4,3,Football League First Division,1,H
+1976-04-10,1975/1976,Sheffield United,West Ham United,3-2,3,2,Football League First Division,1,H
+1976-04-10,1975/1976,Stoke City,Coventry City,0-1,0,1,Football League First Division,1,A
+1976-04-10,1975/1976,Tottenham Hotspur,Leeds United,0-0,0,0,Football League First Division,1,D
+1976-04-10,1975/1976,Wolverhampton Wanderers,Newcastle United,5-0,5,0,Football League First Division,1,H
+1976-04-10,1975/1976,Barnsley,Brentford,1-1,1,1,Football League Fourth Division,4,D
+1976-04-10,1975/1976,Bradford City,Northampton Town,1-2,1,2,Football League Fourth Division,4,A
+1976-04-10,1975/1976,Doncaster Rovers,AFC Bournemouth,1-1,1,1,Football League Fourth Division,4,D
+1976-04-10,1975/1976,Torquay United,Crewe Alexandra,2-1,2,1,Football League Fourth Division,4,H
+1976-04-10,1975/1976,Exeter City,Workington,1-0,1,0,Football League Fourth Division,4,H
+1976-04-10,1975/1976,Hartlepool United,Watford,2-1,2,1,Football League Fourth Division,4,H
+1976-04-10,1975/1976,Huddersfield Town,Scunthorpe United,1-1,1,1,Football League Fourth Division,4,D
+1976-04-10,1975/1976,Newport County,Rochdale,1-1,1,1,Football League Fourth Division,4,D
+1976-04-10,1975/1976,Reading,Lincoln City,1-1,1,1,Football League Fourth Division,4,D
+1976-04-10,1975/1976,Swansea City,Southport,2-0,2,0,Football League Fourth Division,4,H
+1976-04-10,1975/1976,Darlington,Tranmere Rovers,2-0,2,0,Football League Fourth Division,4,H
+1976-04-10,1975/1976,Sunderland,Blackburn Rovers,3-0,3,0,Football League Second Division,2,H
+1976-04-10,1975/1976,Bristol City,Chelsea,2-2,2,2,Football League Second Division,2,D
+1976-04-10,1975/1976,Carlisle United,Bristol Rovers,4-2,4,2,Football League Second Division,2,H
+1976-04-10,1975/1976,Fulham,Hull City,1-1,1,1,Football League Second Division,2,D
+1976-04-10,1975/1976,Leyton Orient,Bolton Wanderers,0-0,0,0,Football League Second Division,2,D
+1976-04-10,1975/1976,Luton Town,Notts County,1-1,1,1,Football League Second Division,2,D
+1976-04-10,1975/1976,Nottingham Forest,Oxford United,4-0,4,0,Football League Second Division,2,H
+1976-04-10,1975/1976,Oldham Athletic,Portsmouth,5-2,5,2,Football League Second Division,2,H
+1976-04-10,1975/1976,Southampton,Blackpool,3-1,3,1,Football League Second Division,2,H
+1976-04-10,1975/1976,York City,Plymouth Argyle,3-1,3,1,Football League Second Division,2,H
+1976-04-10,1975/1976,Bury,Rotherham United,4-0,4,0,Football League Third Division,3,H
+1976-04-10,1975/1976,Crystal Palace,Cardiff City,0-1,0,1,Football League Third Division,3,A
+1976-04-10,1975/1976,Grimsby Town,Chester,2-0,2,0,Football League Third Division,3,H
+1976-04-10,1975/1976,Hereford United,Millwall,0-0,0,0,Football League Third Division,3,D
+1976-04-10,1975/1976,Mansfield Town,Aldershot,1-0,1,0,Football League Third Division,3,H
+1976-04-10,1975/1976,Peterborough United,Chesterfield,0-1,0,1,Football League Third Division,3,A
+1976-04-10,1975/1976,Preston North End,Gillingham,4-0,4,0,Football League Third Division,3,H
+1976-04-10,1975/1976,Swindon Town,Shrewsbury Town,3-0,3,0,Football League Third Division,3,H
+1976-04-10,1975/1976,Wrexham,Sheffield Wednesday,3-0,3,0,Football League Third Division,3,H
+1976-04-10,1975/1976,Brighton & Hove Albion,Port Vale,3-0,3,0,Football League Third Division,3,H
+1976-04-12,1975/1976,Stockport County,Lincoln City,0-3,0,3,Football League Fourth Division,4,A
+1976-04-12,1975/1976,Southampton,Charlton Athletic,3-2,3,2,Football League Second Division,2,H
+1976-04-12,1975/1976,Bury,Colchester United,0-0,0,0,Football League Third Division,3,D
+1976-04-13,1975/1976,Arsenal,Wolverhampton Wanderers,2-1,2,1,Football League First Division,1,H
+1976-04-13,1975/1976,Birmingham City,Ipswich Town,3-0,3,0,Football League First Division,1,H
+1976-04-13,1975/1976,Coventry City,Aston Villa,1-1,1,1,Football League First Division,1,D
+1976-04-13,1975/1976,Bolton Wanderers,York City,1-2,1,2,Football League Second Division,2,A
+1976-04-13,1975/1976,Notts County,Nottingham Forest,0-0,0,0,Football League Second Division,2,D
+1976-04-13,1975/1976,Portsmouth,Leyton Orient,2-1,2,1,Football League Second Division,2,H
+1976-04-13,1975/1976,Gillingham,Southend United,1-2,1,2,Football League Third Division,3,A
+1976-04-13,1975/1976,Crystal Palace,Halifax Town,1-1,1,1,Football League Third Division,3,D
+1976-04-13,1975/1976,Shrewsbury Town,Sheffield Wednesday,0-0,0,0,Football League Third Division,3,D
+1976-04-14,1975/1976,Leeds United,Sheffield United,0-1,0,1,Football League First Division,1,A
+1976-04-14,1975/1976,Newcastle United,Manchester City,2-1,2,1,Football League First Division,1,H
+1976-04-14,1975/1976,Crewe Alexandra,Huddersfield Town,0-2,0,2,Football League Fourth Division,4,A
+1976-04-14,1975/1976,Tranmere Rovers,Newport County,3-1,3,1,Football League Fourth Division,4,H
+1976-04-14,1975/1976,West Bromwich Albion,Fulham,3-1,3,1,Football League Second Division,2,H
+1976-04-14,1975/1976,Cardiff City,Hereford United,2-0,2,0,Football League Third Division,3,H
+1976-04-14,1975/1976,Aldershot,Swindon Town,0-1,0,1,Football League Third Division,3,A
+1976-04-15,1975/1976,Northampton Town,Reading,4-1,4,1,Football League Fourth Division,4,H
+1976-04-16,1975/1976,Cambridge United,Hartlepool United,4-0,4,0,Football League Fourth Division,4,H
+1976-04-16,1975/1976,Brentford,Swansea City,1-0,1,0,Football League Fourth Division,4,H
+1976-04-16,1975/1976,Lincoln City,Stockport County,2-0,2,0,Football League Fourth Division,4,H
+1976-04-16,1975/1976,AFC Bournemouth,Exeter City,1-0,1,0,Football League Fourth Division,4,H
+1976-04-16,1975/1976,Southport,Darlington,2-0,2,0,Football League Fourth Division,4,H
+1976-04-16,1975/1976,Watford,Torquay United,0-0,0,0,Football League Fourth Division,4,D
+1976-04-16,1975/1976,Workington,Bradford City,0-3,0,3,Football League Fourth Division,4,A
+1976-04-16,1975/1976,Rochdale,Doncaster Rovers,1-0,1,0,Football League Fourth Division,4,H
+1976-04-16,1975/1976,Plymouth Argyle,Southampton,1-0,1,0,Football League Second Division,2,H
+1976-04-16,1975/1976,Oxford United,Charlton Athletic,1-0,1,0,Football League Second Division,2,H
+1976-04-16,1975/1976,Hull City,Oldham Athletic,3-0,3,0,Football League Second Division,2,H
+1976-04-16,1975/1976,Chelsea,Luton Town,2-2,2,2,Football League Second Division,2,D
+1976-04-16,1975/1976,Bristol Rovers,Bristol City,0-0,0,0,Football League Second Division,2,D
+1976-04-16,1975/1976,Blackburn Rovers,Carlisle United,1-0,1,0,Football League Second Division,2,H
+1976-04-16,1975/1976,Millwall,Brighton & Hove Albion,3-1,3,1,Football League Third Division,3,H
+1976-04-16,1975/1976,Chesterfield,Grimsby Town,4-3,4,3,Football League Third Division,3,H
+1976-04-16,1975/1976,Chester,Bury,0-0,0,0,Football League Third Division,3,D
+1976-04-16,1975/1976,Colchester United,Peterborough United,1-1,1,1,Football League Third Division,3,D
+1976-04-17,1975/1976,Arsenal,Ipswich Town,1-2,1,2,Football League First Division,1,A
+1976-04-17,1975/1976,Birmingham City,Tottenham Hotspur,3-1,3,1,Football League First Division,1,H
+1976-04-17,1975/1976,Derby County,Leicester City,2-2,2,2,Football League First Division,1,D
+1976-04-17,1975/1976,Leeds United,Manchester City,2-1,2,1,Football League First Division,1,H
+1976-04-17,1975/1976,Liverpool,Stoke City,5-3,5,3,Football League First Division,1,H
+1976-04-17,1975/1976,Manchester United,Everton,2-1,2,1,Football League First Division,1,H
+1976-04-17,1975/1976,Middlesbrough,Sheffield United,3-0,3,0,Football League First Division,1,H
+1976-04-17,1975/1976,Newcastle United,Burnley,0-1,0,1,Football League First Division,1,A
+1976-04-17,1975/1976,Norwich City,Queens Park Rangers,3-2,3,2,Football League First Division,1,H
+1976-04-17,1975/1976,Coventry City,Wolverhampton Wanderers,3-1,3,1,Football League First Division,1,H
+1976-04-17,1975/1976,West Ham United,Aston Villa,2-2,2,2,Football League First Division,1,D
+1976-04-17,1975/1976,Lincoln City,Doncaster Rovers,5-0,5,0,Football League Fourth Division,4,H
+1976-04-17,1975/1976,Brentford,Exeter City,5-1,5,1,Football League Fourth Division,4,H
+1976-04-17,1975/1976,Crewe Alexandra,Newport County,4-0,4,0,Football League Fourth Division,4,H
+1976-04-17,1975/1976,Northampton Town,Hartlepool United,5-2,5,2,Football League Fourth Division,4,H
+1976-04-17,1975/1976,Rochdale,Barnsley,0-0,0,0,Football League Fourth Division,4,D
+1976-04-17,1975/1976,Southport,Stockport County,2-0,2,0,Football League Fourth Division,4,H
+1976-04-17,1975/1976,Tranmere Rovers,Huddersfield Town,3-0,3,0,Football League Fourth Division,4,H
+1976-04-17,1975/1976,Watford,Swansea City,2-1,2,1,Football League Fourth Division,4,H
+1976-04-17,1975/1976,Workington,Darlington,0-0,0,0,Football League Fourth Division,4,D
+1976-04-17,1975/1976,AFC Bournemouth,Torquay United,0-0,0,0,Football League Fourth Division,4,D
+1976-04-17,1975/1976,Scunthorpe United,Bradford City,2-0,2,0,Football League Fourth Division,4,H
+1976-04-17,1975/1976,West Bromwich Albion,Nottingham Forest,2-0,2,0,Football League Second Division,2,H
+1976-04-17,1975/1976,Blackburn Rovers,York City,4-0,4,0,Football League Second Division,2,H
+1976-04-17,1975/1976,Portsmouth,Charlton Athletic,2-2,2,2,Football League Second Division,2,D
+1976-04-17,1975/1976,Oxford United,Luton Town,1-3,1,3,Football League Second Division,2,A
+1976-04-17,1975/1976,Hull City,Sunderland,1-4,1,4,Football League Second Division,2,A
+1976-04-17,1975/1976,Notts County,Fulham,4-0,4,0,Football League Second Division,2,H
+1976-04-17,1975/1976,Chelsea,Leyton Orient,0-2,0,2,Football League Second Division,2,A
+1976-04-17,1975/1976,Bristol Rovers,Southampton,2-0,2,0,Football League Second Division,2,H
+1976-04-17,1975/1976,Bolton Wanderers,Oldham Athletic,4-0,4,0,Football League Second Division,2,H
+1976-04-17,1975/1976,Blackpool,Carlisle United,2-1,2,1,Football League Second Division,2,H
+1976-04-17,1975/1976,Sheffield Wednesday,Bury,1-0,1,0,Football League Third Division,3,H
+1976-04-17,1975/1976,Rotherham United,Grimsby Town,3-0,3,0,Football League Third Division,3,H
+1976-04-17,1975/1976,Port Vale,Halifax Town,1-1,1,1,Football League Third Division,3,D
+1976-04-17,1975/1976,Chesterfield,Mansfield Town,1-2,1,2,Football League Third Division,3,A
+1976-04-17,1975/1976,Gillingham,Crystal Palace,1-2,1,2,Football League Third Division,3,A
+1976-04-17,1975/1976,Colchester United,Southend United,2-1,2,1,Football League Third Division,3,H
+1976-04-17,1975/1976,Shrewsbury Town,Preston North End,1-0,1,0,Football League Third Division,3,H
+1976-04-17,1975/1976,Millwall,Peterborough United,2-0,2,0,Football League Third Division,3,H
+1976-04-17,1975/1976,Walsall,Hereford United,0-0,0,0,Football League Third Division,3,D
+1976-04-17,1975/1976,Chester,Wrexham,1-3,1,3,Football League Third Division,3,A
+1976-04-17,1975/1976,Cardiff City,Swindon Town,0-0,0,0,Football League Third Division,3,D
+1976-04-17,1975/1976,Aldershot,Brighton & Hove Albion,1-1,1,1,Football League Third Division,3,D
+1976-04-19,1975/1976,Aston Villa,Derby County,1-0,1,0,Football League First Division,1,H
+1976-04-19,1975/1976,Burnley,Manchester United,0-1,0,1,Football League First Division,1,A
+1976-04-19,1975/1976,Everton,Middlesbrough,3-1,3,1,Football League First Division,1,H
+1976-04-19,1975/1976,Manchester City,Liverpool,0-3,0,3,Football League First Division,1,A
+1976-04-19,1975/1976,Queens Park Rangers,Arsenal,2-1,2,1,Football League First Division,1,H
+1976-04-19,1975/1976,Sheffield United,Newcastle United,1-0,1,0,Football League First Division,1,H
+1976-04-19,1975/1976,Ipswich Town,West Ham United,4-0,4,0,Football League First Division,1,H
+1976-04-19,1975/1976,Tottenham Hotspur,Coventry City,4-1,4,1,Football League First Division,1,H
+1976-04-19,1975/1976,Wolverhampton Wanderers,Norwich City,1-0,1,0,Football League First Division,1,H
+1976-04-19,1975/1976,Stoke City,Birmingham City,1-0,1,0,Football League First Division,1,H
+1976-04-19,1975/1976,Exeter City,Watford,1-3,1,3,Football League Fourth Division,4,A
+1976-04-19,1975/1976,Bradford City,Crewe Alexandra,4-1,4,1,Football League Fourth Division,4,H
+1976-04-19,1975/1976,Doncaster Rovers,Scunthorpe United,0-1,0,1,Football League Fourth Division,4,A
+1976-04-19,1975/1976,Huddersfield Town,Southport,1-2,1,2,Football League Fourth Division,4,A
+1976-04-19,1975/1976,Reading,Brentford,1-0,1,0,Football League Fourth Division,4,H
+1976-04-19,1975/1976,Stockport County,Tranmere Rovers,0-2,0,2,Football League Fourth Division,4,A
+1976-04-19,1975/1976,Torquay United,Cambridge United,0-0,0,0,Football League Fourth Division,4,D
+1976-04-19,1975/1976,Barnsley,Lincoln City,0-1,0,1,Football League Fourth Division,4,A
+1976-04-19,1975/1976,Charlton Athletic,Chelsea,1-1,1,1,Football League Second Division,2,D
+1976-04-19,1975/1976,York City,Blackpool,1-1,1,1,Football League Second Division,2,D
+1976-04-19,1975/1976,Fulham,Plymouth Argyle,0-0,0,0,Football League Second Division,2,D
+1976-04-19,1975/1976,Luton Town,Bristol Rovers,3-1,3,1,Football League Second Division,2,H
+1976-04-19,1975/1976,Oldham Athletic,Notts County,2-2,2,2,Football League Second Division,2,D
+1976-04-19,1975/1976,Southampton,Oxford United,2-1,2,1,Football League Second Division,2,H
+1976-04-19,1975/1976,Sunderland,Bolton Wanderers,2-1,2,1,Football League Second Division,2,H
+1976-04-19,1975/1976,Hereford United,Shrewsbury Town,3-1,3,1,Football League Third Division,3,H
+1976-04-19,1975/1976,Southend United,Chesterfield,1-1,1,1,Football League Third Division,3,D
+1976-04-19,1975/1976,Mansfield Town,Sheffield Wednesday,3-0,3,0,Football League Third Division,3,H
+1976-04-19,1975/1976,Peterborough United,Cardiff City,0-0,0,0,Football League Third Division,3,D
+1976-04-19,1975/1976,Preston North End,Chester,0-0,0,0,Football League Third Division,3,D
+1976-04-19,1975/1976,Halifax Town,Rotherham United,0-1,0,1,Football League Third Division,3,A
+1976-04-19,1975/1976,Wrexham,Walsall,0-3,0,3,Football League Third Division,3,A
+1976-04-19,1975/1976,Grimsby Town,Colchester United,0-1,0,1,Football League Third Division,3,A
+1976-04-19,1975/1976,Bury,Port Vale,1-2,1,2,Football League Third Division,3,A
+1976-04-19,1975/1976,Brighton & Hove Albion,Gillingham,1-1,1,1,Football League Third Division,3,D
+1976-04-20,1975/1976,Leicester City,Leeds United,2-1,2,1,Football League First Division,1,H
+1976-04-20,1975/1976,Swansea City,AFC Bournemouth,1-1,1,1,Football League Fourth Division,4,D
+1976-04-20,1975/1976,Scunthorpe United,Barnsley,1-0,1,0,Football League Fourth Division,4,H
+1976-04-20,1975/1976,Newport County,Northampton Town,1-1,1,1,Football League Fourth Division,4,D
+1976-04-20,1975/1976,Hartlepool United,Workington,0-2,0,2,Football League Fourth Division,4,A
+1976-04-20,1975/1976,Darlington,Rochdale,4-0,4,0,Football League Fourth Division,4,H
+1976-04-20,1975/1976,Nottingham Forest,Blackburn Rovers,1-0,1,0,Football League Second Division,2,H
+1976-04-20,1975/1976,Leyton Orient,West Bromwich Albion,0-0,0,0,Football League Second Division,2,D
+1976-04-20,1975/1976,Carlisle United,Hull City,0-0,0,0,Football League Second Division,2,D
+1976-04-20,1975/1976,Bristol City,Portsmouth,1-0,1,0,Football League Second Division,2,H
+1976-04-20,1975/1976,Blackpool,Sunderland,1-0,1,0,Football League Second Division,2,H
+1976-04-20,1975/1976,Sheffield Wednesday,Halifax Town,1-0,1,0,Football League Third Division,3,H
+1976-04-20,1975/1976,Swindon Town,Millwall,0-2,0,2,Football League Third Division,3,A
+1976-04-20,1975/1976,Rotherham United,Preston North End,1-1,1,1,Football League Third Division,3,D
+1976-04-20,1975/1976,Port Vale,Mansfield Town,2-2,2,2,Football League Third Division,3,D
+1976-04-20,1975/1976,Crystal Palace,Aldershot,0-0,0,0,Football League Third Division,3,D
+1976-04-21,1975/1976,Derby County,Everton,1-3,1,3,Football League First Division,1,A
+1976-04-21,1975/1976,Manchester United,Stoke City,0-1,0,1,Football League First Division,1,A
+1976-04-21,1975/1976,Cambridge United,Reading,2-2,2,2,Football League Fourth Division,4,D
+1976-04-21,1975/1976,Shrewsbury Town,Wrexham,1-2,1,2,Football League Third Division,3,A
+1976-04-23,1975/1976,Exeter City,Scunthorpe United,5-4,5,4,Football League Fourth Division,4,H
+1976-04-23,1975/1976,Northampton Town,Stockport County,4-0,4,0,Football League Fourth Division,4,H
+1976-04-23,1975/1976,Swansea City,Rochdale,1-1,1,1,Football League Fourth Division,4,D
+1976-04-23,1975/1976,Southend United,Chester,2-0,2,0,Football League Third Division,3,H
+1976-04-24,1975/1976,Aston Villa,Middlesbrough,2-1,2,1,Football League First Division,1,H
+1976-04-24,1975/1976,Burnley,Coventry City,1-3,1,3,Football League First Division,1,A
+1976-04-24,1975/1976,Everton,West Ham United,2-0,2,0,Football League First Division,1,H
+1976-04-24,1975/1976,Leicester City,Manchester United,2-1,2,1,Football League First Division,1,H
+1976-04-24,1975/1976,Manchester City,Arsenal,3-1,3,1,Football League First Division,1,H
+1976-04-24,1975/1976,Queens Park Rangers,Leeds United,2-0,2,0,Football League First Division,1,H
+1976-04-24,1975/1976,Stoke City,Norwich City,0-2,0,2,Football League First Division,1,A
+1976-04-24,1975/1976,Ipswich Town,Derby County,2-6,2,6,Football League First Division,1,A
+1976-04-24,1975/1976,Tottenham Hotspur,Newcastle United,0-3,0,3,Football League First Division,1,A
+1976-04-24,1975/1976,Torquay United,Lincoln City,2-2,2,2,Football League Fourth Division,4,D
+1976-04-24,1975/1976,Barnsley,Southport,2-0,2,0,Football League Fourth Division,4,H
+1976-04-24,1975/1976,Bradford City,Cambridge United,1-2,1,2,Football League Fourth Division,4,A
+1976-04-24,1975/1976,Darlington,AFC Bournemouth,2-0,2,0,Football League Fourth Division,4,H
+1976-04-24,1975/1976,Huddersfield Town,Watford,1-0,1,0,Football League Fourth Division,4,H
+1976-04-24,1975/1976,Newport County,Workington,2-3,2,3,Football League Fourth Division,4,A
+1976-04-24,1975/1976,Reading,Crewe Alexandra,3-1,3,1,Football League Fourth Division,4,H
+1976-04-24,1975/1976,Hartlepool United,Brentford,1-0,1,0,Football League Fourth Division,4,H
+1976-04-24,1975/1976,York City,Chelsea,2-2,2,2,Football League Second Division,2,D
+1976-04-24,1975/1976,Sunderland,Portsmouth,2-0,2,0,Football League Second Division,2,H
+1976-04-24,1975/1976,Oldham Athletic,West Bromwich Albion,0-1,0,1,Football League Second Division,2,A
+1976-04-24,1975/1976,Bristol City,Notts County,1-2,1,2,Football League Second Division,2,A
+1976-04-24,1975/1976,Nottingham Forest,Bristol Rovers,3-0,3,0,Football League Second Division,2,H
+1976-04-24,1975/1976,Luton Town,Blackpool,3-0,3,0,Football League Second Division,2,H
+1976-04-24,1975/1976,Leyton Orient,Oxford United,2-1,2,1,Football League Second Division,2,H
+1976-04-24,1975/1976,Southampton,Hull City,1-0,1,0,Football League Second Division,2,H
+1976-04-24,1975/1976,Fulham,Blackburn Rovers,1-1,1,1,Football League Second Division,2,D
+1976-04-24,1975/1976,Charlton Athletic,Bolton Wanderers,0-4,0,4,Football League Second Division,2,A
+1976-04-24,1975/1976,Carlisle United,Plymouth Argyle,2-0,2,0,Football League Second Division,2,H
+1976-04-24,1975/1976,Peterborough United,Shrewsbury Town,3-2,3,2,Football League Third Division,3,H
+1976-04-24,1975/1976,Brighton & Hove Albion,Sheffield Wednesday,1-1,1,1,Football League Third Division,3,D
+1976-04-24,1975/1976,Grimsby Town,Gillingham,2-1,2,1,Football League Third Division,3,H
+1976-04-24,1975/1976,Halifax Town,Aldershot,1-3,1,3,Football League Third Division,3,A
+1976-04-24,1975/1976,Hereford United,Rotherham United,3-2,3,2,Football League Third Division,3,H
+1976-04-24,1975/1976,Mansfield Town,Colchester United,0-0,0,0,Football League Third Division,3,D
+1976-04-24,1975/1976,Preston North End,Port Vale,3-0,3,0,Football League Third Division,3,H
+1976-04-24,1975/1976,Swindon Town,Walsall,5-1,5,1,Football League Third Division,3,H
+1976-04-26,1975/1976,Swansea City,Brentford,2-2,2,2,Football League Fourth Division,4,D
+1976-04-26,1975/1976,Tranmere Rovers,Bradford City,3-3,3,3,Football League Fourth Division,4,D
+1976-04-26,1975/1976,AFC Bournemouth,Lincoln City,1-1,1,1,Football League Fourth Division,4,D
+1976-04-26,1975/1976,Halifax Town,Colchester United,1-1,1,1,Football League Third Division,3,D
+1976-04-27,1975/1976,Notts County,Leyton Orient,2-0,2,0,Football League Second Division,2,H
+1976-04-27,1975/1976,Bury,Chester,1-0,1,0,Football League Third Division,3,H
+1976-04-27,1975/1976,Wrexham,Southend United,2-2,2,2,Football League Third Division,3,D
+1976-04-28,1975/1976,Darlington,Swansea City,1-1,1,1,Football League Fourth Division,4,D
+1976-04-28,1975/1976,Bolton Wanderers,Bristol Rovers,3-1,3,1,Football League Second Division,2,H
+1976-04-28,1975/1976,Crystal Palace,Chesterfield,0-0,0,0,Football League Third Division,3,D
+1976-04-28,1975/1976,Hereford United,Preston North End,3-1,3,1,Football League Third Division,3,H
+1976-04-29,1975/1976,Huddersfield Town,Bradford City,0-0,0,0,Football League Fourth Division,4,D
+1976-04-29,1975/1976,Sheffield Wednesday,Southend United,2-1,2,1,Football League Third Division,3,H
+1976-04-29,1975/1976,Swindon Town,Wrexham,2-2,2,2,Football League Third Division,3,D
+1976-05-03,1975/1976,Bradford City,Newport County,3-0,3,0,Football League Fourth Division,4,H
+1976-05-04,1975/1976,Manchester United,Manchester City,2-0,2,0,Football League First Division,1,H
+1976-05-04,1975/1976,Sheffield United,Birmingham City,1-1,1,1,Football League First Division,1,D
+1976-05-04,1975/1976,Wolverhampton Wanderers,Liverpool,1-3,1,3,Football League First Division,1,A
+1976-05-04,1975/1976,Bury,Cardiff City,0-1,0,1,Football League Third Division,3,A
+1976-05-04,1975/1976,Chester,Crystal Palace,2-1,2,1,Football League Third Division,3,H

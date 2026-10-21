@@ -1,0 +1,613 @@
+Date,Season,HomeTeam,AwayTeam,Score,hGoal,aGoal,Division,Tier,Result
+1899-09-02,1899/1900,Stoke City,Liverpool,3-2,3,2,Football League First Division,1,H
+1899-09-02,1899/1900,Sunderland,Aston Villa,0-1,0,1,Football League First Division,1,A
+1899-09-02,1899/1900,Nottingham Forest,Preston North End,3-1,3,1,Football League First Division,1,H
+1899-09-02,1899/1900,Glossop North End,Burnley,2-0,2,0,Football League First Division,1,H
+1899-09-02,1899/1900,Everton,Sheffield United,1-2,1,2,Football League First Division,1,A
+1899-09-02,1899/1900,Derby County,Notts County,0-1,0,1,Football League First Division,1,A
+1899-09-02,1899/1900,Bury,Wolverhampton Wanderers,3-0,3,0,Football League First Division,1,H
+1899-09-02,1899/1900,Blackburn Rovers,Manchester City,4-3,4,3,Football League First Division,1,H
+1899-09-02,1899/1900,West Bromwich Albion,Newcastle United,1-1,1,1,Football League First Division,1,D
+1899-09-02,1899/1900,Barnsley,Burton Swifts,4-1,4,1,Football League Second Division,2,H
+1899-09-02,1899/1900,New Brighton Tower,Port Vale,2-0,2,0,Football League Second Division,2,H
+1899-09-02,1899/1900,Manchester United,Gainsborough Trinity,2-2,2,2,Football League Second Division,2,D
+1899-09-02,1899/1900,Loughborough,Bolton Wanderers,2-3,2,3,Football League Second Division,2,A
+1899-09-02,1899/1900,Lincoln City,Middlesbrough,3-0,3,0,Football League Second Division,2,H
+1899-09-02,1899/1900,Grimsby Town,Luton Town,3-3,3,3,Football League Second Division,2,D
+1899-09-02,1899/1900,Birmingham City,Walsall,3-2,3,2,Football League Second Division,2,H
+1899-09-02,1899/1900,Sheffield Wednesday,Chesterfield,5-1,5,1,Football League Second Division,2,H
+1899-09-02,1899/1900,Arsenal,Leicester City,0-2,0,2,Football League Second Division,2,A
+1899-09-04,1899/1900,Aston Villa,Glossop North End,9-0,9,0,Football League First Division,1,H
+1899-09-04,1899/1900,Port Vale,Middlesbrough,3-1,3,1,Football League Second Division,2,H
+1899-09-09,1899/1900,Sheffield United,Blackburn Rovers,3-0,3,0,Football League First Division,1,H
+1899-09-09,1899/1900,Aston Villa,West Bromwich Albion,0-2,0,2,Football League First Division,1,A
+1899-09-09,1899/1900,Burnley,Stoke City,2-2,2,2,Football League First Division,1,D
+1899-09-09,1899/1900,Liverpool,Sunderland,0-2,0,2,Football League First Division,1,A
+1899-09-09,1899/1900,Wolverhampton Wanderers,Nottingham Forest,2-2,2,2,Football League First Division,1,D
+1899-09-09,1899/1900,Newcastle United,Everton,2-0,2,0,Football League First Division,1,H
+1899-09-09,1899/1900,Notts County,Bury,2-2,2,2,Football League First Division,1,D
+1899-09-09,1899/1900,Preston North End,Glossop North End,1-0,1,0,Football League First Division,1,H
+1899-09-09,1899/1900,Manchester City,Derby County,4-0,4,0,Football League First Division,1,H
+1899-09-09,1899/1900,Port Vale,Grimsby Town,2-3,2,3,Football League Second Division,2,A
+1899-09-09,1899/1900,Middlesbrough,Birmingham City,1-3,1,3,Football League Second Division,2,A
+1899-09-09,1899/1900,Luton Town,Arsenal,1-2,1,2,Football League Second Division,2,A
+1899-09-09,1899/1900,Leicester City,Barnsley,1-0,1,0,Football League Second Division,2,H
+1899-09-09,1899/1900,Walsall,New Brighton Tower,2-1,2,1,Football League Second Division,2,H
+1899-09-09,1899/1900,Chesterfield,Lincoln City,2-2,2,2,Football League Second Division,2,D
+1899-09-09,1899/1900,Burton Swifts,Loughborough,3-1,3,1,Football League Second Division,2,H
+1899-09-09,1899/1900,Bolton Wanderers,Manchester United,2-1,2,1,Football League Second Division,2,H
+1899-09-09,1899/1900,Gainsborough Trinity,Sheffield Wednesday,0-2,0,2,Football League Second Division,2,A
+1899-09-16,1899/1900,Sunderland,Burnley,2-1,2,1,Football League First Division,1,H
+1899-09-16,1899/1900,Blackburn Rovers,Newcastle United,2-3,2,3,Football League First Division,1,A
+1899-09-16,1899/1900,Bury,Manchester City,1-4,1,4,Football League First Division,1,A
+1899-09-16,1899/1900,Derby County,Sheffield United,0-1,0,1,Football League First Division,1,A
+1899-09-16,1899/1900,West Bromwich Albion,Liverpool,2-0,2,0,Football League First Division,1,H
+1899-09-16,1899/1900,Glossop North End,Nottingham Forest,3-0,3,0,Football League First Division,1,H
+1899-09-16,1899/1900,Notts County,Wolverhampton Wanderers,0-0,0,0,Football League First Division,1,D
+1899-09-16,1899/1900,Stoke City,Preston North End,3-1,3,1,Football League First Division,1,H
+1899-09-16,1899/1900,Everton,Aston Villa,1-2,1,2,Football League First Division,1,A
+1899-09-16,1899/1900,Barnsley,Luton Town,2-1,2,1,Football League Second Division,2,H
+1899-09-16,1899/1900,New Brighton Tower,Middlesbrough,1-1,1,1,Football League Second Division,2,D
+1899-09-16,1899/1900,Manchester United,Loughborough,4-0,4,0,Football League Second Division,2,H
+1899-09-16,1899/1900,Lincoln City,Gainsborough Trinity,2-1,2,1,Football League Second Division,2,H
+1899-09-16,1899/1900,Leicester City,Burton Swifts,1-0,1,0,Football League Second Division,2,H
+1899-09-16,1899/1900,Grimsby Town,Walsall,4-2,4,2,Football League Second Division,2,H
+1899-09-16,1899/1900,Birmingham City,Chesterfield,5-3,5,3,Football League Second Division,2,H
+1899-09-16,1899/1900,Arsenal,Port Vale,1-0,1,0,Football League Second Division,2,H
+1899-09-16,1899/1900,Sheffield Wednesday,Bolton Wanderers,2-1,2,1,Football League Second Division,2,H
+1899-09-18,1899/1900,Stoke City,Wolverhampton Wanderers,1-3,1,3,Football League First Division,1,A
+1899-09-23,1899/1900,Sheffield United,Bury,4-0,4,0,Football League First Division,1,H
+1899-09-23,1899/1900,Preston North End,Sunderland,0-1,0,1,Football League First Division,1,A
+1899-09-23,1899/1900,Nottingham Forest,Stoke City,1-0,1,0,Football League First Division,1,H
+1899-09-23,1899/1900,Newcastle United,Derby County,2-0,2,0,Football League First Division,1,H
+1899-09-23,1899/1900,Manchester City,Notts County,5-1,5,1,Football League First Division,1,H
+1899-09-23,1899/1900,Liverpool,Everton,1-2,1,2,Football League First Division,1,A
+1899-09-23,1899/1900,Burnley,West Bromwich Albion,2-0,2,0,Football League First Division,1,H
+1899-09-23,1899/1900,Aston Villa,Blackburn Rovers,3-1,3,1,Football League First Division,1,H
+1899-09-23,1899/1900,Wolverhampton Wanderers,Glossop North End,4-0,4,0,Football League First Division,1,H
+1899-09-23,1899/1900,Bolton Wanderers,Lincoln City,4-0,4,0,Football League Second Division,2,H
+1899-09-23,1899/1900,Port Vale,Barnsley,3-1,3,1,Football League Second Division,2,H
+1899-09-23,1899/1900,Middlesbrough,Grimsby Town,1-0,1,0,Football League Second Division,2,H
+1899-09-23,1899/1900,Luton Town,Leicester City,0-0,0,0,Football League Second Division,2,D
+1899-09-23,1899/1900,Loughborough,Sheffield Wednesday,0-0,0,0,Football League Second Division,2,D
+1899-09-23,1899/1900,Gainsborough Trinity,Birmingham City,1-4,1,4,Football League Second Division,2,A
+1899-09-23,1899/1900,Burton Swifts,Manchester United,0-0,0,0,Football League Second Division,2,D
+1899-09-23,1899/1900,Walsall,Arsenal,2-0,2,0,Football League Second Division,2,H
+1899-09-25,1899/1900,Walsall,Leicester City,1-2,1,2,Football League Second Division,2,A
+1899-09-30,1899/1900,West Bromwich Albion,Preston North End,1-0,1,0,Football League First Division,1,H
+1899-09-30,1899/1900,Stoke City,Glossop North End,1-0,1,0,Football League First Division,1,H
+1899-09-30,1899/1900,Notts County,Sheffield United,1-2,1,2,Football League First Division,1,A
+1899-09-30,1899/1900,Manchester City,Wolverhampton Wanderers,1-1,1,1,Football League First Division,1,D
+1899-09-30,1899/1900,Everton,Burnley,2-0,2,0,Football League First Division,1,H
+1899-09-30,1899/1900,Derby County,Aston Villa,2-0,2,0,Football League First Division,1,H
+1899-09-30,1899/1900,Bury,Newcastle United,2-1,2,1,Football League First Division,1,H
+1899-09-30,1899/1900,Blackburn Rovers,Liverpool,2-0,2,0,Football League First Division,1,H
+1899-09-30,1899/1900,Sunderland,Nottingham Forest,1-0,1,0,Football League First Division,1,H
+1899-09-30,1899/1900,Luton Town,Burton Swifts,5-2,5,2,Football League Second Division,2,H
+1899-09-30,1899/1900,Lincoln City,Loughborough,3-2,3,2,Football League Second Division,2,H
+1899-09-30,1899/1900,Leicester City,Port Vale,2-0,2,0,Football League Second Division,2,H
+1899-09-30,1899/1900,Birmingham City,Bolton Wanderers,0-0,0,0,Football League Second Division,2,D
+1899-09-30,1899/1900,Barnsley,Walsall,2-2,2,2,Football League Second Division,2,D
+1899-09-30,1899/1900,Arsenal,Middlesbrough,3-0,3,0,Football League Second Division,2,H
+1899-09-30,1899/1900,Sheffield Wednesday,Manchester United,2-1,2,1,Football League Second Division,2,H
+1899-10-02,1899/1900,Sheffield United,Sunderland,2-2,2,2,Football League First Division,1,D
+1899-10-02,1899/1900,Birmingham City,Lincoln City,5-0,5,0,Football League Second Division,2,H
+1899-10-05,1899/1900,Notts County,Liverpool,2-1,2,1,Football League First Division,1,H
+1899-10-07,1899/1900,Wolverhampton Wanderers,Stoke City,0-2,0,2,Football League First Division,1,A
+1899-10-07,1899/1900,Preston North End,Everton,1-1,1,1,Football League First Division,1,D
+1899-10-07,1899/1900,Nottingham Forest,West Bromwich Albion,6-1,6,1,Football League First Division,1,H
+1899-10-07,1899/1900,Newcastle United,Notts County,6-0,6,0,Football League First Division,1,H
+1899-10-07,1899/1900,Liverpool,Derby County,0-2,0,2,Football League First Division,1,A
+1899-10-07,1899/1900,Glossop North End,Sunderland,0-2,0,2,Football League First Division,1,A
+1899-10-07,1899/1900,Burnley,Blackburn Rovers,1-0,1,0,Football League First Division,1,H
+1899-10-07,1899/1900,Aston Villa,Bury,2-1,2,1,Football League First Division,1,H
+1899-10-07,1899/1900,Sheffield United,Manchester City,3-0,3,0,Football League First Division,1,H
+1899-10-07,1899/1900,Burton Swifts,Sheffield Wednesday,0-5,0,5,Football League Second Division,2,A
+1899-10-07,1899/1900,Port Vale,Luton Town,1-0,1,0,Football League Second Division,2,H
+1899-10-07,1899/1900,Manchester United,Lincoln City,1-0,1,0,Football League Second Division,2,H
+1899-10-07,1899/1900,Loughborough,Birmingham City,1-2,1,2,Football League Second Division,2,A
+1899-10-07,1899/1900,Gainsborough Trinity,Grimsby Town,2-3,2,3,Football League Second Division,2,A
+1899-10-07,1899/1900,Chesterfield,Arsenal,3-1,3,1,Football League Second Division,2,H
+1899-10-07,1899/1900,Middlesbrough,Barnsley,3-0,3,0,Football League Second Division,2,H
+1899-10-14,1899/1900,West Bromwich Albion,Glossop North End,3-3,3,3,Football League First Division,1,D
+1899-10-14,1899/1900,Sunderland,Stoke City,3-0,3,0,Football League First Division,1,H
+1899-10-14,1899/1900,Notts County,Aston Villa,1-4,1,4,Football League First Division,1,A
+1899-10-14,1899/1900,Manchester City,Newcastle United,1-0,1,0,Football League First Division,1,H
+1899-10-14,1899/1900,Everton,Nottingham Forest,2-1,2,1,Football League First Division,1,H
+1899-10-14,1899/1900,Derby County,Burnley,4-1,4,1,Football League First Division,1,H
+1899-10-14,1899/1900,Bury,Liverpool,2-1,2,1,Football League First Division,1,H
+1899-10-14,1899/1900,Blackburn Rovers,Preston North End,3-0,3,0,Football League First Division,1,H
+1899-10-14,1899/1900,Sheffield United,Wolverhampton Wanderers,5-2,5,2,Football League First Division,1,H
+1899-10-14,1899/1900,Port Vale,Burton Swifts,2-1,2,1,Football League Second Division,2,H
+1899-10-14,1899/1900,Luton Town,Walsall,4-0,4,0,Football League Second Division,2,H
+1899-10-14,1899/1900,Lincoln City,Sheffield Wednesday,1-2,1,2,Football League Second Division,2,A
+1899-10-14,1899/1900,Leicester City,Middlesbrough,4-1,4,1,Football League Second Division,2,H
+1899-10-14,1899/1900,Grimsby Town,Bolton Wanderers,0-0,0,0,Football League Second Division,2,D
+1899-10-14,1899/1900,Birmingham City,Manchester United,1-0,1,0,Football League Second Division,2,H
+1899-10-14,1899/1900,Arsenal,Gainsborough Trinity,2-1,2,1,Football League Second Division,2,H
+1899-10-21,1899/1900,Liverpool,Notts County,3-1,3,1,Football League First Division,1,H
+1899-10-21,1899/1900,Stoke City,West Bromwich Albion,1-0,1,0,Football League First Division,1,H
+1899-10-21,1899/1900,Burnley,Bury,1-0,1,0,Football League First Division,1,H
+1899-10-21,1899/1900,Glossop North End,Everton,1-1,1,1,Football League First Division,1,D
+1899-10-21,1899/1900,Aston Villa,Manchester City,2-1,2,1,Football League First Division,1,H
+1899-10-21,1899/1900,Newcastle United,Sheffield United,0-0,0,0,Football League First Division,1,D
+1899-10-21,1899/1900,Nottingham Forest,Blackburn Rovers,3-2,3,2,Football League First Division,1,H
+1899-10-21,1899/1900,Preston North End,Derby County,0-0,0,0,Football League First Division,1,D
+1899-10-21,1899/1900,Chesterfield,Leicester City,0-0,0,0,Football League Second Division,2,D
+1899-10-21,1899/1900,Walsall,Port Vale,0-1,0,1,Football League Second Division,2,A
+1899-10-21,1899/1900,Sheffield Wednesday,Birmingham City,4-0,4,0,Football League Second Division,2,H
+1899-10-21,1899/1900,Middlesbrough,Luton Town,0-0,0,0,Football League Second Division,2,D
+1899-10-21,1899/1900,Manchester United,New Brighton Tower,2-1,2,1,Football League Second Division,2,H
+1899-10-21,1899/1900,Loughborough,Grimsby Town,0-0,0,0,Football League Second Division,2,D
+1899-10-21,1899/1900,Gainsborough Trinity,Barnsley,1-0,1,0,Football League Second Division,2,H
+1899-10-21,1899/1900,Burton Swifts,Lincoln City,0-0,0,0,Football League Second Division,2,D
+1899-10-21,1899/1900,Bolton Wanderers,Arsenal,1-0,1,0,Football League Second Division,2,H
+1899-10-28,1899/1900,West Bromwich Albion,Sunderland,1-0,1,0,Football League First Division,1,H
+1899-10-28,1899/1900,Sheffield United,Aston Villa,2-1,2,1,Football League First Division,1,H
+1899-10-28,1899/1900,Notts County,Burnley,6-1,6,1,Football League First Division,1,H
+1899-10-28,1899/1900,Stoke City,Everton,1-1,1,1,Football League First Division,1,D
+1899-10-28,1899/1900,Manchester City,Liverpool,0-1,0,1,Football League First Division,1,A
+1899-10-28,1899/1900,Derby County,Nottingham Forest,2-2,2,2,Football League First Division,1,D
+1899-10-28,1899/1900,Bury,Preston North End,2-0,2,0,Football League First Division,1,H
+1899-10-28,1899/1900,Newcastle United,Wolverhampton Wanderers,0-1,0,1,Football League First Division,1,A
+1899-10-28,1899/1900,New Brighton Tower,Gainsborough Trinity,5-0,5,0,Football League Second Division,2,H
+1899-11-04,1899/1900,Wolverhampton Wanderers,West Bromwich Albion,2-0,2,0,Football League First Division,1,H
+1899-11-04,1899/1900,Sunderland,Everton,1-0,1,0,Football League First Division,1,H
+1899-11-04,1899/1900,Stoke City,Blackburn Rovers,2-0,2,0,Football League First Division,1,H
+1899-11-04,1899/1900,Preston North End,Notts County,4-3,4,3,Football League First Division,1,H
+1899-11-04,1899/1900,Nottingham Forest,Bury,2-2,2,2,Football League First Division,1,D
+1899-11-04,1899/1900,Liverpool,Sheffield United,2-2,2,2,Football League First Division,1,D
+1899-11-04,1899/1900,Burnley,Manchester City,2-0,2,0,Football League First Division,1,H
+1899-11-04,1899/1900,Aston Villa,Newcastle United,2-1,2,1,Football League First Division,1,H
+1899-11-04,1899/1900,Burton Swifts,Birmingham City,0-3,0,3,Football League Second Division,2,A
+1899-11-04,1899/1900,Middlesbrough,Walsall,1-1,1,1,Football League Second Division,2,D
+1899-11-04,1899/1900,Manchester United,Arsenal,2-0,2,0,Football League Second Division,2,H
+1899-11-04,1899/1900,Loughborough,Barnsley,0-0,0,0,Football League Second Division,2,D
+1899-11-04,1899/1900,Lincoln City,New Brighton Tower,0-0,0,0,Football League Second Division,2,D
+1899-11-04,1899/1900,Gainsborough Trinity,Luton Town,2-2,2,2,Football League Second Division,2,D
+1899-11-04,1899/1900,Chesterfield,Port Vale,0-4,0,4,Football League Second Division,2,A
+1899-11-04,1899/1900,Bolton Wanderers,Leicester City,2-2,2,2,Football League Second Division,2,D
+1899-11-06,1899/1900,West Bromwich Albion,Sheffield United,1-2,1,2,Football League First Division,1,A
+1899-11-06,1899/1900,New Brighton Tower,Chesterfield,2-3,2,3,Football League Second Division,2,A
+1899-11-11,1899/1900,Aston Villa,Wolverhampton Wanderers,0-0,0,0,Football League First Division,1,D
+1899-11-11,1899/1900,Notts County,Nottingham Forest,1-2,1,2,Football League First Division,1,A
+1899-11-11,1899/1900,Newcastle United,Liverpool,1-1,1,1,Football League First Division,1,D
+1899-11-11,1899/1900,Manchester City,Preston North End,3-1,3,1,Football League First Division,1,H
+1899-11-11,1899/1900,Everton,West Bromwich Albion,1-3,1,3,Football League First Division,1,A
+1899-11-11,1899/1900,Derby County,Stoke City,2-0,2,0,Football League First Division,1,H
+1899-11-11,1899/1900,Bury,Glossop North End,2-1,2,1,Football League First Division,1,H
+1899-11-11,1899/1900,Blackburn Rovers,Sunderland,1-2,1,2,Football League First Division,1,A
+1899-11-11,1899/1900,Sheffield United,Burnley,0-0,0,0,Football League First Division,1,D
+1899-11-11,1899/1900,Barnsley,Manchester United,0-0,0,0,Football League Second Division,2,D
+1899-11-11,1899/1900,Walsall,Chesterfield,6-3,6,3,Football League Second Division,2,H
+1899-11-11,1899/1900,Port Vale,Gainsborough Trinity,1-0,1,0,Football League Second Division,2,H
+1899-11-11,1899/1900,New Brighton Tower,Birmingham City,2-2,2,2,Football League Second Division,2,D
+1899-11-11,1899/1900,Middlesbrough,Burton Swifts,8-1,8,1,Football League Second Division,2,H
+1899-11-11,1899/1900,Luton Town,Bolton Wanderers,0-2,0,2,Football League Second Division,2,A
+1899-11-11,1899/1900,Loughborough,Leicester City,0-2,0,2,Football League Second Division,2,A
+1899-11-11,1899/1900,Grimsby Town,Lincoln City,5-2,5,2,Football League Second Division,2,H
+1899-11-11,1899/1900,Arsenal,Sheffield Wednesday,1-2,1,2,Football League Second Division,2,A
+1899-11-13,1899/1900,Stoke City,Aston Villa,0-2,0,2,Football League First Division,1,A
+1899-11-18,1899/1900,Preston North End,Sheffield United,0-1,0,1,Football League First Division,1,A
+1899-11-18,1899/1900,Liverpool,Aston Villa,3-3,3,3,Football League First Division,1,D
+1899-11-18,1899/1900,Glossop North End,Notts County,0-0,0,0,Football League First Division,1,D
+1899-11-18,1899/1900,Burnley,Newcastle United,1-3,1,3,Football League First Division,1,A
+1899-11-25,1899/1900,Aston Villa,Burnley,2-0,2,0,Football League First Division,1,H
+1899-11-25,1899/1900,Notts County,Stoke City,1-3,1,3,Football League First Division,1,A
+1899-11-25,1899/1900,Newcastle United,Preston North End,0-0,0,0,Football League First Division,1,D
+1899-11-25,1899/1900,Manchester City,Glossop North End,4-1,4,1,Football League First Division,1,H
+1899-11-25,1899/1900,Liverpool,Wolverhampton Wanderers,1-1,1,1,Football League First Division,1,D
+1899-11-25,1899/1900,Derby County,West Bromwich Albion,4-1,4,1,Football League First Division,1,H
+1899-11-25,1899/1900,Bury,Sunderland,2-0,2,0,Football League First Division,1,H
+1899-11-25,1899/1900,Blackburn Rovers,Everton,3-1,3,1,Football League First Division,1,H
+1899-11-25,1899/1900,Sheffield United,Nottingham Forest,3-0,3,0,Football League First Division,1,H
+1899-11-25,1899/1900,Barnsley,Lincoln City,0-4,0,4,Football League Second Division,2,A
+1899-11-25,1899/1900,Walsall,Bolton Wanderers,2-2,2,2,Football League Second Division,2,D
+1899-11-25,1899/1900,Port Vale,Loughborough,3-1,3,1,Football League Second Division,2,H
+1899-11-25,1899/1900,Middlesbrough,Gainsborough Trinity,0-0,0,0,Football League Second Division,2,D
+1899-11-25,1899/1900,Luton Town,Manchester United,0-1,0,1,Football League Second Division,2,A
+1899-11-25,1899/1900,Leicester City,Sheffield Wednesday,0-0,0,0,Football League Second Division,2,D
+1899-11-25,1899/1900,Grimsby Town,New Brighton Tower,1-2,1,2,Football League Second Division,2,A
+1899-11-25,1899/1900,Chesterfield,Burton Swifts,0-4,0,4,Football League Second Division,2,A
+1899-11-25,1899/1900,Arsenal,Birmingham City,3-0,3,0,Football League Second Division,2,H
+1899-12-02,1899/1900,West Bromwich Albion,Bury,0-1,0,1,Football League First Division,1,A
+1899-12-02,1899/1900,Sunderland,Notts County,5-0,5,0,Football League First Division,1,H
+1899-12-02,1899/1900,Stoke City,Manchester City,1-0,1,0,Football League First Division,1,H
+1899-12-02,1899/1900,Preston North End,Aston Villa,0-5,0,5,Football League First Division,1,A
+1899-12-02,1899/1900,Nottingham Forest,Newcastle United,1-0,1,0,Football League First Division,1,H
+1899-12-02,1899/1900,Glossop North End,Sheffield United,2-2,2,2,Football League First Division,1,D
+1899-12-02,1899/1900,Everton,Derby County,3-0,3,0,Football League First Division,1,H
+1899-12-02,1899/1900,Burnley,Liverpool,2-1,2,1,Football League First Division,1,H
+1899-12-02,1899/1900,Wolverhampton Wanderers,Blackburn Rovers,4-0,4,0,Football League First Division,1,H
+1899-12-02,1899/1900,Sheffield Wednesday,Luton Town,6-0,6,0,Football League Second Division,2,H
+1899-12-02,1899/1900,New Brighton Tower,Arsenal,0-2,0,2,Football League Second Division,2,A
+1899-12-02,1899/1900,Manchester United,Port Vale,3-0,3,0,Football League Second Division,2,H
+1899-12-02,1899/1900,Lincoln City,Leicester City,2-0,2,0,Football League Second Division,2,H
+1899-12-02,1899/1900,Gainsborough Trinity,Chesterfield,3-5,3,5,Football League Second Division,2,A
+1899-12-02,1899/1900,Burton Swifts,Grimsby Town,1-2,1,2,Football League Second Division,2,A
+1899-12-02,1899/1900,Bolton Wanderers,Middlesbrough,3-0,3,0,Football League Second Division,2,H
+1899-12-02,1899/1900,Birmingham City,Barnsley,5-0,5,0,Football League Second Division,2,H
+1899-12-02,1899/1900,Loughborough,Walsall,0-0,0,0,Football League Second Division,2,D
+1899-12-09,1899/1900,Sheffield United,Stoke City,1-0,1,0,Football League First Division,1,H
+1899-12-09,1899/1900,Notts County,West Bromwich Albion,1-2,1,2,Football League First Division,1,A
+1899-12-09,1899/1900,Manchester City,Sunderland,2-1,2,1,Football League First Division,1,H
+1899-12-09,1899/1900,Liverpool,Preston North End,1-0,1,0,Football League First Division,1,H
+1899-12-09,1899/1900,Bury,Everton,4-1,4,1,Football League First Division,1,H
+1899-12-09,1899/1900,Burnley,Wolverhampton Wanderers,0-1,0,1,Football League First Division,1,A
+1899-12-09,1899/1900,Aston Villa,Nottingham Forest,2-2,2,2,Football League First Division,1,D
+1899-12-09,1899/1900,Derby County,Blackburn Rovers,0-2,0,2,Football League First Division,1,A
+1899-12-09,1899/1900,Middlesbrough,Loughborough,3-0,3,0,Football League Second Division,2,H
+1899-12-09,1899/1900,Barnsley,New Brighton Tower,1-1,1,1,Football League Second Division,2,D
+1899-12-12,1899/1900,Chesterfield,Bolton Wanderers,3-3,3,3,Football League Second Division,2,D
+1899-12-16,1899/1900,Derby County,Wolverhampton Wanderers,0-2,0,2,Football League First Division,1,A
+1899-12-16,1899/1900,Sunderland,Sheffield United,1-1,1,1,Football League First Division,1,D
+1899-12-16,1899/1900,Stoke City,Newcastle United,2-2,2,2,Football League First Division,1,D
+1899-12-16,1899/1900,Preston North End,Burnley,1-1,1,1,Football League First Division,1,D
+1899-12-16,1899/1900,Nottingham Forest,Liverpool,1-0,1,0,Football League First Division,1,H
+1899-12-16,1899/1900,Glossop North End,Aston Villa,1-0,1,0,Football League First Division,1,H
+1899-12-16,1899/1900,Everton,Notts County,0-2,0,2,Football League First Division,1,A
+1899-12-16,1899/1900,West Bromwich Albion,Manchester City,0-0,0,0,Football League First Division,1,D
+1899-12-16,1899/1900,Blackburn Rovers,Bury,3-2,3,2,Football League First Division,1,H
+1899-12-16,1899/1900,Birmingham City,Luton Town,3-0,3,0,Football League Second Division,2,H
+1899-12-16,1899/1900,Sheffield Wednesday,Walsall,2-0,2,0,Football League Second Division,2,H
+1899-12-16,1899/1900,New Brighton Tower,Leicester City,2-2,2,2,Football League Second Division,2,D
+1899-12-16,1899/1900,Manchester United,Middlesbrough,2-1,2,1,Football League Second Division,2,H
+1899-12-16,1899/1900,Lincoln City,Port Vale,1-1,1,1,Football League Second Division,2,D
+1899-12-16,1899/1900,Grimsby Town,Barnsley,8-1,8,1,Football League Second Division,2,H
+1899-12-16,1899/1900,Gainsborough Trinity,Bolton Wanderers,1-1,1,1,Football League Second Division,2,D
+1899-12-16,1899/1900,Arsenal,Burton Swifts,1-1,1,1,Football League Second Division,2,D
+1899-12-23,1899/1900,Wolverhampton Wanderers,Preston North End,1-3,1,3,Football League First Division,1,A
+1899-12-23,1899/1900,Notts County,Blackburn Rovers,5-1,5,1,Football League First Division,1,H
+1899-12-23,1899/1900,Newcastle United,Sunderland,2-4,2,4,Football League First Division,1,A
+1899-12-23,1899/1900,Manchester City,Everton,1-2,1,2,Football League First Division,1,A
+1899-12-23,1899/1900,Liverpool,Glossop North End,5-2,5,2,Football League First Division,1,H
+1899-12-23,1899/1900,Bury,Derby County,1-1,1,1,Football League First Division,1,D
+1899-12-23,1899/1900,Burnley,Nottingham Forest,2-2,2,2,Football League First Division,1,D
+1899-12-23,1899/1900,Aston Villa,Stoke City,4-1,4,1,Football League First Division,1,H
+1899-12-23,1899/1900,Sheffield United,West Bromwich Albion,1-1,1,1,Football League First Division,1,D
+1899-12-23,1899/1900,Port Vale,Birmingham City,3-0,3,0,Football League Second Division,2,H
+1899-12-23,1899/1900,Middlesbrough,Sheffield Wednesday,1-2,1,2,Football League Second Division,2,A
+1899-12-23,1899/1900,Luton Town,New Brighton Tower,1-4,1,4,Football League Second Division,2,A
+1899-12-23,1899/1900,Leicester City,Grimsby Town,3-0,3,0,Football League Second Division,2,H
+1899-12-23,1899/1900,Gainsborough Trinity,Loughborough,4-2,4,2,Football League Second Division,2,H
+1899-12-23,1899/1900,Chesterfield,Manchester United,2-1,2,1,Football League Second Division,2,H
+1899-12-23,1899/1900,Burton Swifts,Bolton Wanderers,2-5,2,5,Football League Second Division,2,A
+1899-12-23,1899/1900,Walsall,Lincoln City,3-1,3,1,Football League Second Division,2,H
+1899-12-25,1899/1900,Everton,Stoke City,2-0,2,0,Football League First Division,1,H
+1899-12-25,1899/1900,Derby County,Liverpool,3-2,3,2,Football League First Division,1,H
+1899-12-25,1899/1900,Bury,Nottingham Forest,2-1,2,1,Football League First Division,1,H
+1899-12-25,1899/1900,Manchester City,Sheffield United,1-2,1,2,Football League First Division,1,A
+1899-12-25,1899/1900,Walsall,Barnsley,4-2,4,2,Football League Second Division,2,H
+1899-12-25,1899/1900,Lincoln City,Arsenal,5-0,5,0,Football League Second Division,2,H
+1899-12-25,1899/1900,Leicester City,Loughborough,5-0,5,0,Football League Second Division,2,H
+1899-12-25,1899/1900,Grimsby Town,Chesterfield,0-3,0,3,Football League Second Division,2,A
+1899-12-25,1899/1900,New Brighton Tower,Sheffield Wednesday,2-2,2,2,Football League Second Division,2,D
+1899-12-26,1899/1900,West Bromwich Albion,Everton,0-0,0,0,Football League First Division,1,D
+1899-12-26,1899/1900,Stoke City,Burnley,3-0,3,0,Football League First Division,1,H
+1899-12-26,1899/1900,Derby County,Glossop North End,4-1,4,1,Football League First Division,1,H
+1899-12-26,1899/1900,Wolverhampton Wanderers,Sunderland,1-0,1,0,Football League First Division,1,H
+1899-12-26,1899/1900,Luton Town,Chesterfield,0-3,0,3,Football League Second Division,2,A
+1899-12-26,1899/1900,Lincoln City,Walsall,3-1,3,1,Football League Second Division,2,H
+1899-12-26,1899/1900,Grimsby Town,Manchester United,0-7,0,7,Football League Second Division,2,A
+1899-12-26,1899/1900,Barnsley,Bolton Wanderers,1-6,1,6,Football League Second Division,2,A
+1899-12-26,1899/1900,Gainsborough Trinity,Burton Swifts,4-1,4,1,Football League Second Division,2,H
+1899-12-27,1899/1900,Nottingham Forest,Manchester City,2-0,2,0,Football League First Division,1,H
+1899-12-27,1899/1900,Leicester City,Walsall,2-1,2,1,Football League Second Division,2,H
+1899-12-29,1899/1900,Wolverhampton Wanderers,Bury,1-0,1,0,Football League First Division,1,H
+1899-12-29,1899/1900,Sheffield United,Everton,5-0,5,0,Football League First Division,1,H
+1899-12-29,1899/1900,Preston North End,Nottingham Forest,3-0,3,0,Football League First Division,1,H
+1899-12-29,1899/1900,Notts County,Derby County,0-0,0,0,Football League First Division,1,D
+1899-12-29,1899/1900,Liverpool,Stoke City,0-0,0,0,Football League First Division,1,D
+1899-12-29,1899/1900,Manchester City,Blackburn Rovers,1-1,1,1,Football League First Division,1,D
+1899-12-29,1899/1900,Burnley,Glossop North End,3-1,3,1,Football League First Division,1,H
+1899-12-29,1899/1900,Aston Villa,Sunderland,4-2,4,2,Football League First Division,1,H
+1899-12-29,1899/1900,Newcastle United,West Bromwich Albion,4-2,4,2,Football League First Division,1,H
+1899-12-30,1899/1900,Bolton Wanderers,Loughborough,7-0,7,0,Football League Second Division,2,H
+1899-12-30,1899/1900,Burton Swifts,Barnsley,4-0,4,0,Football League Second Division,2,H
+1899-12-30,1899/1900,Chesterfield,Sheffield Wednesday,1-0,1,0,Football League Second Division,2,H
+1899-12-30,1899/1900,Gainsborough Trinity,Manchester United,0-1,0,1,Football League Second Division,2,A
+1899-12-30,1899/1900,Leicester City,Arsenal,0-0,0,0,Football League Second Division,2,D
+1899-12-30,1899/1900,Luton Town,Grimsby Town,0-4,0,4,Football League Second Division,2,A
+1899-12-30,1899/1900,Middlesbrough,Lincoln City,1-1,1,1,Football League Second Division,2,D
+1899-12-30,1899/1900,Port Vale,New Brighton Tower,1-1,1,1,Football League Second Division,2,D
+1899-12-30,1899/1900,Walsall,Birmingham City,1-0,1,0,Football League Second Division,2,H
+1900-01-01,1899/1900,Sunderland,Wolverhampton Wanderers,1-2,1,2,Football League First Division,1,A
+1900-01-01,1899/1900,Blackburn Rovers,Burnley,2-0,2,0,Football League First Division,1,H
+1900-01-01,1899/1900,Bury,Aston Villa,2-0,2,0,Football League First Division,1,H
+1900-01-01,1899/1900,Everton,Preston North End,1-0,1,0,Football League First Division,1,H
+1900-01-01,1899/1900,Sheffield Wednesday,Grimsby Town,2-1,2,1,Football League Second Division,2,H
+1900-01-01,1899/1900,Bolton Wanderers,New Brighton Tower,2-1,2,1,Football League Second Division,2,H
+1900-01-02,1899/1900,Bolton Wanderers,Port Vale,5-0,5,0,Football League Second Division,2,H
+1900-01-06,1899/1900,Everton,Newcastle United,3-2,3,2,Football League First Division,1,H
+1900-01-06,1899/1900,West Bromwich Albion,Aston Villa,0-2,0,2,Football League First Division,1,A
+1900-01-06,1899/1900,Sunderland,Liverpool,1-0,1,0,Football League First Division,1,H
+1900-01-06,1899/1900,Nottingham Forest,Wolverhampton Wanderers,0-0,0,0,Football League First Division,1,D
+1900-01-06,1899/1900,Glossop North End,Preston North End,0-2,0,2,Football League First Division,1,A
+1900-01-06,1899/1900,Derby County,Manchester City,0-0,0,0,Football League First Division,1,D
+1900-01-06,1899/1900,Bury,Notts County,0-1,0,1,Football League First Division,1,A
+1900-01-06,1899/1900,Birmingham City,Middlesbrough,5-1,5,1,Football League Second Division,2,H
+1900-01-06,1899/1900,New Brighton Tower,Walsall,0-1,0,1,Football League Second Division,2,A
+1900-01-06,1899/1900,Manchester United,Bolton Wanderers,1-2,1,2,Football League Second Division,2,A
+1900-01-06,1899/1900,Sheffield Wednesday,Gainsborough Trinity,5-1,5,1,Football League Second Division,2,H
+1900-01-06,1899/1900,Loughborough,Burton Swifts,2-1,2,1,Football League Second Division,2,H
+1900-01-06,1899/1900,Lincoln City,Chesterfield,2-0,2,0,Football League Second Division,2,H
+1900-01-06,1899/1900,Grimsby Town,Port Vale,1-1,1,1,Football League Second Division,2,D
+1900-01-06,1899/1900,Barnsley,Leicester City,1-2,1,2,Football League Second Division,2,A
+1900-01-06,1899/1900,Arsenal,Luton Town,3-1,3,1,Football League Second Division,2,H
+1900-01-13,1899/1900,Aston Villa,Everton,1-1,1,1,Football League First Division,1,D
+1900-01-13,1899/1900,Sheffield United,Derby County,1-1,1,1,Football League First Division,1,D
+1900-01-13,1899/1900,Preston North End,Stoke City,3-0,3,0,Football League First Division,1,H
+1900-01-13,1899/1900,Nottingham Forest,Glossop North End,5-0,5,0,Football League First Division,1,H
+1900-01-13,1899/1900,Newcastle United,Blackburn Rovers,4-1,4,1,Football League First Division,1,H
+1900-01-13,1899/1900,Manchester City,Bury,2-2,2,2,Football League First Division,1,D
+1900-01-13,1899/1900,Liverpool,West Bromwich Albion,2-0,2,0,Football League First Division,1,H
+1900-01-13,1899/1900,Burnley,Sunderland,3-1,3,1,Football League First Division,1,H
+1900-01-13,1899/1900,Wolverhampton Wanderers,Notts County,2-2,2,2,Football League First Division,1,D
+1900-01-13,1899/1900,Burton Swifts,Leicester City,2-0,2,0,Football League Second Division,2,H
+1900-01-13,1899/1900,Walsall,Grimsby Town,1-1,1,1,Football League Second Division,2,D
+1900-01-13,1899/1900,Port Vale,Arsenal,1-1,1,1,Football League Second Division,2,D
+1900-01-13,1899/1900,Middlesbrough,New Brighton Tower,5-2,5,2,Football League Second Division,2,H
+1900-01-13,1899/1900,Luton Town,Barnsley,3-0,3,0,Football League Second Division,2,H
+1900-01-13,1899/1900,Loughborough,Manchester United,0-2,0,2,Football League Second Division,2,A
+1900-01-13,1899/1900,Gainsborough Trinity,Lincoln City,3-1,3,1,Football League Second Division,2,H
+1900-01-13,1899/1900,Chesterfield,Birmingham City,0-0,0,0,Football League Second Division,2,D
+1900-01-13,1899/1900,Bolton Wanderers,Sheffield Wednesday,1-0,1,0,Football League Second Division,2,H
+1900-01-20,1899/1900,Sunderland,Preston North End,1-0,1,0,Football League First Division,1,H
+1900-01-20,1899/1900,Stoke City,Nottingham Forest,0-0,0,0,Football League First Division,1,D
+1900-01-20,1899/1900,Notts County,Manchester City,1-1,1,1,Football League First Division,1,D
+1900-01-20,1899/1900,Glossop North End,Wolverhampton Wanderers,2-3,2,3,Football League First Division,1,A
+1900-01-20,1899/1900,Everton,Liverpool,3-1,3,1,Football League First Division,1,H
+1900-01-20,1899/1900,West Bromwich Albion,Burnley,2-0,2,0,Football League First Division,1,H
+1900-01-20,1899/1900,Derby County,Newcastle United,2-1,2,1,Football League First Division,1,H
+1900-01-20,1899/1900,Bury,Sheffield United,2-1,2,1,Football League First Division,1,H
+1900-01-20,1899/1900,Blackburn Rovers,Aston Villa,0-4,0,4,Football League First Division,1,A
+1900-01-20,1899/1900,Sheffield Wednesday,Loughborough,5-0,5,0,Football League Second Division,2,H
+1900-01-20,1899/1900,Manchester United,Burton Swifts,4-0,4,0,Football League Second Division,2,H
+1900-01-20,1899/1900,Lincoln City,Bolton Wanderers,1-0,1,0,Football League Second Division,2,H
+1900-01-20,1899/1900,Grimsby Town,Middlesbrough,2-0,2,0,Football League Second Division,2,H
+1900-01-20,1899/1900,Chesterfield,New Brighton Tower,5-2,5,2,Football League Second Division,2,H
+1900-01-20,1899/1900,Birmingham City,Gainsborough Trinity,8-1,8,1,Football League Second Division,2,H
+1900-01-20,1899/1900,Barnsley,Port Vale,3-0,3,0,Football League Second Division,2,H
+1900-01-20,1899/1900,Arsenal,Walsall,3-1,3,1,Football League Second Division,2,H
+1900-01-20,1899/1900,Leicester City,Luton Town,2-2,2,2,Football League Second Division,2,D
+1900-01-27,1899/1900,New Brighton Tower,Loughborough,3-0,3,0,Football League Second Division,2,H
+1900-01-27,1899/1900,Birmingham City,Port Vale,2-1,2,1,Football League Second Division,2,H
+1900-01-27,1899/1900,Chesterfield,Middlesbrough,7-1,7,1,Football League Second Division,2,H
+1900-02-03,1899/1900,Wolverhampton Wanderers,Manchester City,1-1,1,1,Football League First Division,1,D
+1900-02-03,1899/1900,Glossop North End,Stoke City,1-2,1,2,Football League First Division,1,A
+1900-02-03,1899/1900,Preston North End,West Bromwich Albion,5-2,5,2,Football League First Division,1,H
+1900-02-03,1899/1900,Newcastle United,Bury,2-1,2,1,Football League First Division,1,H
+1900-02-03,1899/1900,Liverpool,Blackburn Rovers,3-1,3,1,Football League First Division,1,H
+1900-02-03,1899/1900,Burnley,Everton,3-1,3,1,Football League First Division,1,H
+1900-02-03,1899/1900,Aston Villa,Derby County,3-2,3,2,Football League First Division,1,H
+1900-02-03,1899/1900,Sheffield United,Notts County,1-1,1,1,Football League First Division,1,D
+1900-02-03,1899/1900,Bolton Wanderers,Birmingham City,1-1,1,1,Football League Second Division,2,D
+1900-02-03,1899/1900,Middlesbrough,Arsenal,1-0,1,0,Football League Second Division,2,H
+1900-02-03,1899/1900,Manchester United,Sheffield Wednesday,1-0,1,0,Football League Second Division,2,H
+1900-02-03,1899/1900,Port Vale,Leicester City,0-2,0,2,Football League Second Division,2,A
+1900-02-03,1899/1900,Chesterfield,Grimsby Town,3-1,3,1,Football League Second Division,2,H
+1900-02-03,1899/1900,Burton Swifts,Luton Town,3-1,3,1,Football League Second Division,2,H
+1900-02-10,1899/1900,Grimsby Town,Gainsborough Trinity,3-0,3,0,Football League Second Division,2,H
+1900-02-10,1899/1900,Luton Town,Port Vale,1-1,1,1,Football League Second Division,2,D
+1900-02-10,1899/1900,Burton Swifts,New Brighton Tower,2-2,2,2,Football League Second Division,2,D
+1900-02-10,1899/1900,Lincoln City,Manchester United,1-0,1,0,Football League Second Division,2,H
+1900-02-10,1899/1900,Barnsley,Middlesbrough,5-2,5,2,Football League Second Division,2,H
+1900-02-10,1899/1900,Birmingham City,Loughborough,6-0,6,0,Football League Second Division,2,H
+1900-02-10,1899/1900,Arsenal,Chesterfield,2-0,2,0,Football League Second Division,2,H
+1900-02-12,1899/1900,Birmingham City,Grimsby Town,0-1,0,1,Football League Second Division,2,A
+1900-02-12,1899/1900,Port Vale,Sheffield Wednesday,0-3,0,3,Football League Second Division,2,A
+1900-02-17,1899/1900,Nottingham Forest,Everton,4-2,4,2,Football League First Division,1,H
+1900-02-17,1899/1900,Burnley,Derby County,1-2,1,2,Football League First Division,1,A
+1900-02-17,1899/1900,Aston Villa,Notts County,6-2,6,2,Football League First Division,1,H
+1900-02-17,1899/1900,Walsall,Luton Town,7-3,7,3,Football League Second Division,2,H
+1900-02-17,1899/1900,Middlesbrough,Leicester City,0-1,0,1,Football League Second Division,2,A
+1900-02-17,1899/1900,Manchester United,Birmingham City,3-2,3,2,Football League Second Division,2,H
+1900-02-17,1899/1900,Loughborough,New Brighton Tower,1-2,1,2,Football League Second Division,2,A
+1900-02-17,1899/1900,Gainsborough Trinity,Arsenal,1-1,1,1,Football League Second Division,2,D
+1900-02-17,1899/1900,Burton Swifts,Port Vale,2-2,2,2,Football League Second Division,2,D
+1900-02-17,1899/1900,Bolton Wanderers,Grimsby Town,1-2,1,2,Football League Second Division,2,A
+1900-02-17,1899/1900,Chesterfield,Barnsley,2-1,2,1,Football League Second Division,2,H
+1900-02-24,1899/1900,Sunderland,Glossop North End,0-0,0,0,Football League First Division,1,D
+1900-02-24,1899/1900,Lincoln City,Burton Swifts,3-0,3,0,Football League Second Division,2,H
+1900-02-24,1899/1900,Port Vale,Walsall,1-0,1,0,Football League Second Division,2,H
+1900-02-24,1899/1900,Luton Town,Middlesbrough,1-1,1,1,Football League Second Division,2,D
+1900-02-24,1899/1900,Leicester City,Chesterfield,2-2,2,2,Football League Second Division,2,D
+1900-02-24,1899/1900,New Brighton Tower,Manchester United,1-4,1,4,Football League Second Division,2,A
+1900-02-24,1899/1900,Birmingham City,Sheffield Wednesday,4-1,4,1,Football League Second Division,2,H
+1900-02-24,1899/1900,Barnsley,Gainsborough Trinity,5-0,5,0,Football League Second Division,2,H
+1900-02-24,1899/1900,Arsenal,Bolton Wanderers,0-1,0,1,Football League Second Division,2,A
+1900-02-24,1899/1900,Grimsby Town,Loughborough,3-0,3,0,Football League Second Division,2,H
+1900-02-27,1899/1900,Glossop North End,Blackburn Rovers,4-2,4,2,Football League First Division,1,H
+1900-02-27,1899/1900,Sheffield Wednesday,Barnsley,5-1,5,1,Football League Second Division,2,H
+1900-03-03,1899/1900,Wolverhampton Wanderers,Newcastle United,1-1,1,1,Football League First Division,1,D
+1900-03-03,1899/1900,Preston North End,Bury,1-0,1,0,Football League First Division,1,H
+1900-03-03,1899/1900,Nottingham Forest,Derby County,4-1,4,1,Football League First Division,1,H
+1900-03-03,1899/1900,Liverpool,Manchester City,5-2,5,2,Football League First Division,1,H
+1900-03-03,1899/1900,Burnley,Notts County,3-0,3,0,Football League First Division,1,H
+1900-03-03,1899/1900,Blackburn Rovers,Glossop North End,2-2,2,2,Football League First Division,1,D
+1900-03-03,1899/1900,Aston Villa,Sheffield United,1-1,1,1,Football League First Division,1,D
+1900-03-03,1899/1900,Sunderland,West Bromwich Albion,3-1,3,1,Football League First Division,1,H
+1900-03-03,1899/1900,Sheffield Wednesday,New Brighton Tower,4-0,4,0,Football League Second Division,2,H
+1900-03-03,1899/1900,Middlesbrough,Port Vale,1-0,1,0,Football League Second Division,2,H
+1900-03-03,1899/1900,Manchester United,Grimsby Town,1-0,1,0,Football League Second Division,2,H
+1900-03-03,1899/1900,Loughborough,Arsenal,2-3,2,3,Football League Second Division,2,A
+1900-03-03,1899/1900,Lincoln City,Luton Town,2-0,2,0,Football League Second Division,2,H
+1900-03-03,1899/1900,Gainsborough Trinity,Leicester City,3-0,3,0,Football League Second Division,2,H
+1900-03-05,1899/1900,Blackburn Rovers,Nottingham Forest,2-1,2,1,Football League First Division,1,H
+1900-03-10,1899/1900,Manchester City,Burnley,1-0,1,0,Football League First Division,1,H
+1900-03-10,1899/1900,West Bromwich Albion,Wolverhampton Wanderers,3-2,3,2,Football League First Division,1,H
+1900-03-10,1899/1900,Sheffield United,Liverpool,1-2,1,2,Football League First Division,1,A
+1900-03-10,1899/1900,Notts County,Preston North End,3-0,3,0,Football League First Division,1,H
+1900-03-10,1899/1900,Newcastle United,Aston Villa,3-2,3,2,Football League First Division,1,H
+1900-03-10,1899/1900,Everton,Sunderland,1-0,1,0,Football League First Division,1,H
+1900-03-10,1899/1900,Blackburn Rovers,Stoke City,3-0,3,0,Football League First Division,1,H
+1900-03-10,1899/1900,Birmingham City,Burton Swifts,2-0,2,0,Football League Second Division,2,H
+1900-03-10,1899/1900,Port Vale,Chesterfield,2-0,2,0,Football League Second Division,2,H
+1900-03-10,1899/1900,New Brighton Tower,Lincoln City,3-0,3,0,Football League Second Division,2,H
+1900-03-10,1899/1900,Walsall,Middlesbrough,1-1,1,1,Football League Second Division,2,D
+1900-03-10,1899/1900,Luton Town,Gainsborough Trinity,4-0,4,0,Football League Second Division,2,H
+1900-03-10,1899/1900,Leicester City,Bolton Wanderers,0-0,0,0,Football League Second Division,2,D
+1900-03-10,1899/1900,Barnsley,Loughborough,7-0,7,0,Football League Second Division,2,H
+1900-03-10,1899/1900,Arsenal,Manchester United,2-1,2,1,Football League Second Division,2,H
+1900-03-12,1899/1900,Arsenal,Loughborough,12-0,12,0,Football League Second Division,2,H
+1900-03-12,1899/1900,Sheffield Wednesday,Burton Swifts,6-0,6,0,Football League Second Division,2,H
+1900-03-14,1899/1900,Bury,Burnley,1-1,1,1,Football League First Division,1,D
+1900-03-14,1899/1900,Newcastle United,Glossop North End,1-0,1,0,Football League First Division,1,H
+1900-03-17,1899/1900,Wolverhampton Wanderers,Everton,2-1,2,1,Football League First Division,1,H
+1900-03-17,1899/1900,Stoke City,Derby County,1-1,1,1,Football League First Division,1,D
+1900-03-17,1899/1900,Nottingham Forest,Notts County,0-3,0,3,Football League First Division,1,A
+1900-03-17,1899/1900,Liverpool,Newcastle United,2-0,2,0,Football League First Division,1,H
+1900-03-17,1899/1900,Glossop North End,Bury,0-0,0,0,Football League First Division,1,D
+1900-03-17,1899/1900,Sheffield Wednesday,Arsenal,3-1,3,1,Football League Second Division,2,H
+1900-03-17,1899/1900,Manchester United,Barnsley,3-0,3,0,Football League Second Division,2,H
+1900-03-17,1899/1900,Chesterfield,Walsall,1-3,1,3,Football League Second Division,2,A
+1900-03-17,1899/1900,Burton Swifts,Middlesbrough,5-0,5,0,Football League Second Division,2,H
+1900-03-17,1899/1900,Bolton Wanderers,Luton Town,3-0,3,0,Football League Second Division,2,H
+1900-03-17,1899/1900,Gainsborough Trinity,Port Vale,4-0,4,0,Football League Second Division,2,H
+1900-03-17,1899/1900,Birmingham City,New Brighton Tower,2-0,2,0,Football League Second Division,2,H
+1900-03-19,1899/1900,Manchester City,Aston Villa,0-2,0,2,Football League First Division,1,A
+1900-03-19,1899/1900,West Bromwich Albion,Stoke City,4-0,4,0,Football League First Division,1,H
+1900-03-21,1899/1900,Sunderland,Derby County,2-0,2,0,Football League First Division,1,H
+1900-03-24,1899/1900,Everton,Wolverhampton Wanderers,0-1,0,1,Football League First Division,1,A
+1900-03-24,1899/1900,Notts County,Glossop North End,0-0,0,0,Football League First Division,1,D
+1900-03-24,1899/1900,Newcastle United,Burnley,2-0,2,0,Football League First Division,1,H
+1900-03-24,1899/1900,Derby County,Sunderland,2-0,2,0,Football League First Division,1,H
+1900-03-24,1899/1900,Blackburn Rovers,West Bromwich Albion,2-0,2,0,Football League First Division,1,H
+1900-03-24,1899/1900,Aston Villa,Liverpool,1-0,1,0,Football League First Division,1,H
+1900-03-24,1899/1900,Sheffield United,Preston North End,1-0,1,0,Football League First Division,1,H
+1900-03-24,1899/1900,New Brighton Tower,Burton Swifts,5-0,5,0,Football League Second Division,2,H
+1900-03-24,1899/1900,Middlesbrough,Chesterfield,0-1,0,1,Football League Second Division,2,A
+1900-03-24,1899/1900,Luton Town,Loughborough,4-0,4,0,Football League Second Division,2,H
+1900-03-24,1899/1900,Leicester City,Manchester United,2-0,2,0,Football League Second Division,2,H
+1900-03-24,1899/1900,Grimsby Town,Birmingham City,2-0,2,0,Football League Second Division,2,H
+1900-03-24,1899/1900,Barnsley,Sheffield Wednesday,1-0,1,0,Football League Second Division,2,H
+1900-03-24,1899/1900,Arsenal,Lincoln City,2-1,2,1,Football League Second Division,2,H
+1900-03-24,1899/1900,Walsall,Gainsborough Trinity,1-0,1,0,Football League Second Division,2,H
+1900-03-26,1899/1900,Stoke City,Sunderland,1-2,1,2,Football League First Division,1,A
+1900-03-26,1899/1900,Sheffield United,Newcastle United,3-1,3,1,Football League First Division,1,H
+1900-03-26,1899/1900,Chesterfield,Luton Town,2-0,2,0,Football League Second Division,2,H
+1900-03-31,1899/1900,Wolverhampton Wanderers,Liverpool,0-1,0,1,Football League First Division,1,A
+1900-03-31,1899/1900,West Bromwich Albion,Derby County,0-0,0,0,Football League First Division,1,D
+1900-03-31,1899/1900,Sunderland,Bury,1-0,1,0,Football League First Division,1,H
+1900-03-31,1899/1900,Stoke City,Notts County,1-0,1,0,Football League First Division,1,H
+1900-03-31,1899/1900,Preston North End,Newcastle United,4-1,4,1,Football League First Division,1,H
+1900-03-31,1899/1900,Nottingham Forest,Sheffield United,4-0,4,0,Football League First Division,1,H
+1900-03-31,1899/1900,Glossop North End,Manchester City,0-2,0,2,Football League First Division,1,A
+1900-03-31,1899/1900,Everton,Blackburn Rovers,0-0,0,0,Football League First Division,1,D
+1900-03-31,1899/1900,Burnley,Aston Villa,1-2,1,2,Football League First Division,1,A
+1900-03-31,1899/1900,Lincoln City,Barnsley,1-1,1,1,Football League Second Division,2,D
+1900-03-31,1899/1900,New Brighton Tower,Grimsby Town,2-1,2,1,Football League Second Division,2,H
+1900-03-31,1899/1900,Manchester United,Luton Town,5-0,5,0,Football League Second Division,2,H
+1900-03-31,1899/1900,Loughborough,Port Vale,1-2,1,2,Football League Second Division,2,A
+1900-03-31,1899/1900,Gainsborough Trinity,Middlesbrough,5-0,5,0,Football League Second Division,2,H
+1900-03-31,1899/1900,Burton Swifts,Chesterfield,2-1,2,1,Football League Second Division,2,H
+1900-03-31,1899/1900,Bolton Wanderers,Walsall,2-0,2,0,Football League Second Division,2,H
+1900-03-31,1899/1900,Birmingham City,Arsenal,3-1,3,1,Football League Second Division,2,H
+1900-03-31,1899/1900,Sheffield Wednesday,Leicester City,2-0,2,0,Football League Second Division,2,H
+1900-04-02,1899/1900,West Bromwich Albion,Blackburn Rovers,1-0,1,0,Football League First Division,1,H
+1900-04-04,1899/1900,Derby County,Preston North End,2-0,2,0,Football League First Division,1,H
+1900-04-07,1899/1900,Blackburn Rovers,Wolverhampton Wanderers,2-1,2,1,Football League First Division,1,H
+1900-04-07,1899/1900,Notts County,Sunderland,3-1,3,1,Football League First Division,1,H
+1900-04-07,1899/1900,Newcastle United,Nottingham Forest,3-1,3,1,Football League First Division,1,H
+1900-04-07,1899/1900,Manchester City,Stoke City,1-0,1,0,Football League First Division,1,H
+1900-04-07,1899/1900,Liverpool,Burnley,0-1,0,1,Football League First Division,1,A
+1900-04-07,1899/1900,Derby County,Everton,2-1,2,1,Football League First Division,1,H
+1900-04-07,1899/1900,Bury,West Bromwich Albion,1-0,1,0,Football League First Division,1,H
+1900-04-07,1899/1900,Aston Villa,Preston North End,3-1,3,1,Football League First Division,1,H
+1900-04-07,1899/1900,Sheffield United,Glossop North End,4-0,4,0,Football League First Division,1,H
+1900-04-07,1899/1900,Port Vale,Manchester United,1-0,1,0,Football League Second Division,2,H
+1900-04-07,1899/1900,Barnsley,Birmingham City,1-1,1,1,Football League Second Division,2,D
+1900-04-07,1899/1900,Middlesbrough,Bolton Wanderers,0-3,0,3,Football League Second Division,2,A
+1900-04-07,1899/1900,Luton Town,Sheffield Wednesday,0-1,0,1,Football League Second Division,2,A
+1900-04-07,1899/1900,Leicester City,Lincoln City,2-0,2,0,Football League Second Division,2,H
+1900-04-07,1899/1900,Grimsby Town,Burton Swifts,6-0,6,0,Football League Second Division,2,H
+1900-04-07,1899/1900,Chesterfield,Gainsborough Trinity,3-1,3,1,Football League Second Division,2,H
+1900-04-07,1899/1900,Walsall,Loughborough,1-0,1,0,Football League Second Division,2,H
+1900-04-07,1899/1900,Arsenal,New Brighton Tower,5-0,5,0,Football League Second Division,2,H
+1900-04-09,1899/1900,Manchester City,Nottingham Forest,2-0,2,0,Football League First Division,1,H
+1900-04-09,1899/1900,Liverpool,Bury,2-0,2,0,Football League First Division,1,H
+1900-04-13,1899/1900,Glossop North End,Derby County,1-3,1,3,Football League First Division,1,A
+1900-04-13,1899/1900,Newcastle United,Manchester City,0-0,0,0,Football League First Division,1,D
+1900-04-13,1899/1900,Bury,Stoke City,0-1,0,1,Football League First Division,1,A
+1900-04-13,1899/1900,Blackburn Rovers,Sheffield United,3-3,3,3,Football League First Division,1,D
+1900-04-13,1899/1900,Chesterfield,Loughborough,1-0,1,0,Football League Second Division,2,H
+1900-04-13,1899/1900,Burton Swifts,Walsall,2-1,2,1,Football League Second Division,2,H
+1900-04-13,1899/1900,Lincoln City,Birmingham City,0-0,0,0,Football League Second Division,2,D
+1900-04-13,1899/1900,Bolton Wanderers,Barnsley,2-0,2,0,Football League Second Division,2,H
+1900-04-13,1899/1900,Manchester United,Leicester City,3-2,3,2,Football League Second Division,2,H
+1900-04-13,1899/1900,Grimsby Town,Sheffield Wednesday,1-2,1,2,Football League Second Division,2,A
+1900-04-14,1899/1900,Wolverhampton Wanderers,Burnley,3-0,3,0,Football League First Division,1,H
+1900-04-14,1899/1900,Sunderland,Manchester City,3-1,3,1,Football League First Division,1,H
+1900-04-14,1899/1900,Stoke City,Sheffield United,1-1,1,1,Football League First Division,1,D
+1900-04-14,1899/1900,Preston North End,Liverpool,1-3,1,3,Football League First Division,1,A
+1900-04-14,1899/1900,Nottingham Forest,Aston Villa,1-1,1,1,Football League First Division,1,D
+1900-04-14,1899/1900,Glossop North End,Newcastle United,0-0,0,0,Football League First Division,1,D
+1900-04-14,1899/1900,Everton,Bury,2-0,2,0,Football League First Division,1,H
+1900-04-14,1899/1900,Blackburn Rovers,Derby County,2-0,2,0,Football League First Division,1,H
+1900-04-14,1899/1900,West Bromwich Albion,Notts County,0-0,0,0,Football League First Division,1,D
+1900-04-14,1899/1900,Sheffield Wednesday,Port Vale,4-0,4,0,Football League Second Division,2,H
+1900-04-14,1899/1900,Manchester United,Walsall,5-0,5,0,Football League Second Division,2,H
+1900-04-14,1899/1900,Loughborough,Middlesbrough,1-1,1,1,Football League Second Division,2,D
+1900-04-14,1899/1900,Grimsby Town,Arsenal,1-0,1,0,Football League Second Division,2,H
+1900-04-14,1899/1900,Burton Swifts,Gainsborough Trinity,1-1,1,1,Football League Second Division,2,D
+1900-04-14,1899/1900,Bolton Wanderers,Chesterfield,3-0,3,0,Football League Second Division,2,H
+1900-04-14,1899/1900,Birmingham City,Leicester City,4-1,4,1,Football League Second Division,2,H
+1900-04-16,1899/1900,Sunderland,Blackburn Rovers,1-0,1,0,Football League First Division,1,H
+1900-04-16,1899/1900,West Bromwich Albion,Nottingham Forest,8-0,8,0,Football League First Division,1,H
+1900-04-16,1899/1900,Stoke City,Bury,2-0,2,0,Football League First Division,1,H
+1900-04-16,1899/1900,Preston North End,Manchester City,0-2,0,2,Football League First Division,1,A
+1900-04-16,1899/1900,Notts County,Newcastle United,0-0,0,0,Football League First Division,1,D
+1900-04-16,1899/1900,Everton,Glossop North End,4-1,4,1,Football League First Division,1,H
+1900-04-16,1899/1900,Wolverhampton Wanderers,Aston Villa,0-1,0,1,Football League First Division,1,A
+1900-04-16,1899/1900,Leicester City,Gainsborough Trinity,5-0,5,0,Football League Second Division,2,H
+1900-04-16,1899/1900,Walsall,Burton Swifts,2-0,2,0,Football League Second Division,2,H
+1900-04-16,1899/1900,New Brighton Tower,Bolton Wanderers,3-1,3,1,Football League Second Division,2,H
+1900-04-16,1899/1900,Luton Town,Lincoln City,0-2,0,2,Football League Second Division,2,A
+1900-04-16,1899/1900,Loughborough,Chesterfield,0-4,0,4,Football League Second Division,2,A
+1900-04-16,1899/1900,Arsenal,Grimsby Town,2-0,2,0,Football League Second Division,2,H
+1900-04-17,1899/1900,Wolverhampton Wanderers,Sheffield United,1-2,1,2,Football League First Division,1,A
+1900-04-17,1899/1900,Nottingham Forest,Sunderland,1-3,1,3,Football League First Division,1,A
+1900-04-17,1899/1900,Walsall,Manchester United,0-0,0,0,Football League Second Division,2,D
+1900-04-17,1899/1900,Sheffield Wednesday,Lincoln City,1-0,1,0,Football League Second Division,2,H
+1900-04-17,1899/1900,Loughborough,Luton Town,1-1,1,1,Football League Second Division,2,D
+1900-04-17,1899/1900,Leicester City,Birmingham City,2-0,2,0,Football League Second Division,2,H
+1900-04-17,1899/1900,Barnsley,Chesterfield,0-0,0,0,Football League Second Division,2,D
+1900-04-18,1899/1900,Gainsborough Trinity,New Brighton Tower,1-1,1,1,Football League Second Division,2,D
+1900-04-21,1899/1900,Wolverhampton Wanderers,Derby County,3-0,3,0,Football League First Division,1,H
+1900-04-21,1899/1900,Notts County,Everton,2-2,2,2,Football League First Division,1,D
+1900-04-21,1899/1900,Newcastle United,Stoke City,2-2,2,2,Football League First Division,1,D
+1900-04-21,1899/1900,Manchester City,West Bromwich Albion,4-0,4,0,Football League First Division,1,H
+1900-04-21,1899/1900,Liverpool,Nottingham Forest,1-0,1,0,Football League First Division,1,H
+1900-04-21,1899/1900,Burnley,Preston North End,0-1,0,1,Football League First Division,1,A
+1900-04-21,1899/1900,Burton Swifts,Arsenal,2-0,2,0,Football League Second Division,2,H
+1900-04-21,1899/1900,Walsall,Sheffield Wednesday,1-1,1,1,Football League Second Division,2,D
+1900-04-21,1899/1900,Port Vale,Lincoln City,2-0,2,0,Football League Second Division,2,H
+1900-04-21,1899/1900,Middlesbrough,Manchester United,2-0,2,0,Football League Second Division,2,H
+1900-04-21,1899/1900,Luton Town,Birmingham City,1-2,1,2,Football League Second Division,2,A
+1900-04-21,1899/1900,Bolton Wanderers,Gainsborough Trinity,3-0,3,0,Football League Second Division,2,H
+1900-04-21,1899/1900,Leicester City,New Brighton Tower,1-2,1,2,Football League Second Division,2,A
+1900-04-21,1899/1900,Barnsley,Grimsby Town,0-1,0,1,Football League Second Division,2,A
+1900-04-23,1899/1900,Burnley,Sheffield United,1-0,1,0,Football League First Division,1,H
+1900-04-23,1899/1900,Loughborough,Lincoln City,0-1,0,1,Football League Second Division,2,A
+1900-04-23,1899/1900,Port Vale,Bolton Wanderers,0-2,0,2,Football League Second Division,2,A
+1900-04-23,1899/1900,Barnsley,Arsenal,3-2,3,2,Football League Second Division,2,H
+1900-04-24,1899/1900,Glossop North End,West Bromwich Albion,1-1,1,1,Football League First Division,1,D
+1900-04-25,1899/1900,Bury,Blackburn Rovers,2-0,2,0,Football League First Division,1,H
+1900-04-25,1899/1900,New Brighton Tower,Barnsley,6-2,6,2,Football League Second Division,2,H
+1900-04-27,1899/1900,Lincoln City,Grimsby Town,1-1,1,1,Football League Second Division,2,D
+1900-04-28,1899/1900,Preston North End,Wolverhampton Wanderers,2-0,2,0,Football League First Division,1,H
+1900-04-28,1899/1900,Nottingham Forest,Burnley,4-0,4,0,Football League First Division,1,H
+1900-04-28,1899/1900,Glossop North End,Liverpool,1-2,1,2,Football League First Division,1,A
+1900-04-28,1899/1900,Everton,Manchester City,4-0,4,0,Football League First Division,1,H
+1900-04-28,1899/1900,Derby County,Bury,3-0,3,0,Football League First Division,1,H
+1900-04-28,1899/1900,Blackburn Rovers,Notts County,2-0,2,0,Football League First Division,1,H
+1900-04-28,1899/1900,Sunderland,Newcastle United,1-2,1,2,Football League First Division,1,A
+1900-04-28,1899/1900,Bolton Wanderers,Burton Swifts,5-0,5,0,Football League Second Division,2,H
+1900-04-28,1899/1900,New Brighton Tower,Luton Town,5-1,5,1,Football League Second Division,2,H
+1900-04-28,1899/1900,Manchester United,Chesterfield,2-1,2,1,Football League Second Division,2,H
+1900-04-28,1899/1900,Sheffield Wednesday,Middlesbrough,3-0,3,0,Football League Second Division,2,H
+1900-04-28,1899/1900,Grimsby Town,Leicester City,6-1,6,1,Football League Second Division,2,H
+1900-04-28,1899/1900,Arsenal,Barnsley,5-1,5,1,Football League Second Division,2,H
+1900-04-28,1899/1900,Loughborough,Gainsborough Trinity,1-2,1,2,Football League Second Division,2,A
+1900-04-30,1899/1900,Preston North End,Blackburn Rovers,2-0,2,0,Football League First Division,1,H
+1900-04-30,1899/1900,Gainsborough Trinity,Walsall,2-0,2,0,Football League Second Division,2,H

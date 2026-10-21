@@ -1,0 +1,761 @@
+Date,Season,HomeTeam,AwayTeam,Score,hGoal,aGoal,Division,Tier,Result
+1910-09-01,1910/1911,Sunderland,Newcastle United,2-1,2,1,Football League First Division,1,H
+1910-09-01,1910/1911,Preston North End,Nottingham Forest,0-2,0,2,Football League First Division,1,A
+1910-09-01,1910/1911,Everton,Tottenham Hotspur,2-0,2,0,Football League First Division,1,H
+1910-09-01,1910/1911,Blackburn Rovers,Notts County,1-1,1,1,Football League First Division,1,D
+1910-09-01,1910/1911,Arsenal,Manchester United,1-2,1,2,Football League First Division,1,A
+1910-09-01,1910/1911,Manchester City,Bury,5-1,5,1,Football League First Division,1,H
+1910-09-01,1910/1911,Lincoln City,Bradford Park Avenue,0-0,0,0,Football League Second Division,2,D
+1910-09-01,1910/1911,Bolton Wanderers,Stockport County,2-2,2,2,Football League Second Division,2,D
+1910-09-03,1910/1911,Preston North End,Manchester City,1-1,1,1,Football League First Division,1,D
+1910-09-03,1910/1911,Sheffield United,Sunderland,1-2,1,2,Football League First Division,1,A
+1910-09-03,1910/1911,Notts County,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1910-09-03,1910/1911,Newcastle United,Bristol City,0-1,0,1,Football League First Division,1,A
+1910-09-03,1910/1911,Middlesbrough,Everton,1-0,1,0,Football League First Division,1,H
+1910-09-03,1910/1911,Manchester United,Blackburn Rovers,3-2,3,2,Football League First Division,1,H
+1910-09-03,1910/1911,Liverpool,Bradford City,1-2,1,2,Football League First Division,1,A
+1910-09-03,1910/1911,Bury,Arsenal,1-1,1,1,Football League First Division,1,D
+1910-09-03,1910/1911,Aston Villa,Oldham Athletic,1-1,1,1,Football League First Division,1,D
+1910-09-03,1910/1911,Tottenham Hotspur,Sheffield Wednesday,3-1,3,1,Football League First Division,1,H
+1910-09-03,1910/1911,Bradford Park Avenue,Huddersfield Town,0-1,0,1,Football League Second Division,2,A
+1910-09-03,1910/1911,Stockport County,Leyton Orient,0-3,0,3,Football League Second Division,2,A
+1910-09-03,1910/1911,Leicester City,Bolton Wanderers,5-0,5,0,Football League Second Division,2,H
+1910-09-03,1910/1911,Leeds City,Blackpool,1-2,1,2,Football League Second Division,2,A
+1910-09-03,1910/1911,Hull City,West Bromwich Albion,1-1,1,1,Football League Second Division,2,D
+1910-09-03,1910/1911,Gainsborough Trinity,Glossop North End,3-0,3,0,Football League Second Division,2,H
+1910-09-03,1910/1911,Fulham,Birmingham City,3-0,3,0,Football League Second Division,2,H
+1910-09-03,1910/1911,Derby County,Chelsea,1-4,1,4,Football League Second Division,2,A
+1910-09-03,1910/1911,Burnley,Lincoln City,3-1,3,1,Football League Second Division,2,H
+1910-09-03,1910/1911,Barnsley,Wolverhampton Wanderers,2-2,2,2,Football League Second Division,2,D
+1910-09-05,1910/1911,Wolverhampton Wanderers,Derby County,1-2,1,2,Football League Second Division,2,A
+1910-09-05,1910/1911,Burnley,Glossop North End,0-0,0,0,Football League Second Division,2,D
+1910-09-05,1910/1911,Bolton Wanderers,West Bromwich Albion,3-1,3,1,Football League Second Division,2,H
+1910-09-10,1910/1911,Sheffield Wednesday,Middlesbrough,1-1,1,1,Football League First Division,1,D
+1910-09-10,1910/1911,Oldham Athletic,Newcastle United,0-2,0,2,Football League First Division,1,A
+1910-09-10,1910/1911,Nottingham Forest,Manchester United,2-1,2,1,Football League First Division,1,H
+1910-09-10,1910/1911,Manchester City,Notts County,0-1,0,1,Football League First Division,1,A
+1910-09-10,1910/1911,Everton,Preston North End,2-0,2,0,Football League First Division,1,H
+1910-09-10,1910/1911,Bristol City,Tottenham Hotspur,0-2,0,2,Football League First Division,1,A
+1910-09-10,1910/1911,Bradford City,Bury,2-2,2,2,Football League First Division,1,D
+1910-09-10,1910/1911,Blackburn Rovers,Liverpool,1-2,1,2,Football League First Division,1,A
+1910-09-10,1910/1911,Arsenal,Sheffield United,0-0,0,0,Football League First Division,1,D
+1910-09-10,1910/1911,Sunderland,Aston Villa,3-2,3,2,Football League First Division,1,H
+1910-09-10,1910/1911,Wolverhampton Wanderers,Leicester City,1-0,1,0,Football League Second Division,2,H
+1910-09-10,1910/1911,West Bromwich Albion,Fulham,2-1,2,1,Football League Second Division,2,H
+1910-09-10,1910/1911,Lincoln City,Gainsborough Trinity,0-0,0,0,Football League Second Division,2,D
+1910-09-10,1910/1911,Leyton Orient,Derby County,1-0,1,0,Football League Second Division,2,H
+1910-09-10,1910/1911,Huddersfield Town,Burnley,0-1,0,1,Football League Second Division,2,A
+1910-09-10,1910/1911,Glossop North End,Leeds City,2-1,2,1,Football League Second Division,2,H
+1910-09-10,1910/1911,Chelsea,Barnsley,3-1,3,1,Football League Second Division,2,H
+1910-09-10,1910/1911,Bolton Wanderers,Hull City,2-1,2,1,Football League Second Division,2,H
+1910-09-10,1910/1911,Blackpool,Stockport County,2-1,2,1,Football League Second Division,2,H
+1910-09-10,1910/1911,Birmingham City,Bradford Park Avenue,1-0,1,0,Football League Second Division,2,H
+1910-09-14,1910/1911,Lincoln City,Glossop North End,2-2,2,2,Football League Second Division,2,D
+1910-09-17,1910/1911,Sunderland,Oldham Athletic,2-1,2,1,Football League First Division,1,H
+1910-09-17,1910/1911,Sheffield United,Bradford City,0-1,0,1,Football League First Division,1,A
+1910-09-17,1910/1911,Preston North End,Sheffield Wednesday,1-3,1,3,Football League First Division,1,A
+1910-09-17,1910/1911,Notts County,Everton,0-0,0,0,Football League First Division,1,D
+1910-09-17,1910/1911,Tottenham Hotspur,Newcastle United,1-2,1,2,Football League First Division,1,A
+1910-09-17,1910/1911,Middlesbrough,Bristol City,3-0,3,0,Football League First Division,1,H
+1910-09-17,1910/1911,Manchester United,Manchester City,2-1,2,1,Football League First Division,1,H
+1910-09-17,1910/1911,Liverpool,Nottingham Forest,2-3,2,3,Football League First Division,1,A
+1910-09-17,1910/1911,Bury,Blackburn Rovers,2-2,2,2,Football League First Division,1,D
+1910-09-17,1910/1911,Aston Villa,Arsenal,3-0,3,0,Football League First Division,1,H
+1910-09-17,1910/1911,Wolverhampton Wanderers,Bolton Wanderers,3-0,3,0,Football League Second Division,2,H
+1910-09-17,1910/1911,Stockport County,Glossop North End,2-1,2,1,Football League Second Division,2,H
+1910-09-17,1910/1911,Leicester City,Chelsea,1-0,1,0,Football League Second Division,2,H
+1910-09-17,1910/1911,Leeds City,Lincoln City,0-1,0,1,Football League Second Division,2,A
+1910-09-17,1910/1911,Gainsborough Trinity,Huddersfield Town,3-1,3,1,Football League Second Division,2,H
+1910-09-17,1910/1911,Derby County,Blackpool,1-1,1,1,Football League Second Division,2,D
+1910-09-17,1910/1911,Burnley,Birmingham City,2-2,2,2,Football League Second Division,2,D
+1910-09-17,1910/1911,Bradford Park Avenue,West Bromwich Albion,3-3,3,3,Football League Second Division,2,D
+1910-09-17,1910/1911,Barnsley,Leyton Orient,1-2,1,2,Football League Second Division,2,A
+1910-09-17,1910/1911,Fulham,Hull City,0-1,0,1,Football League Second Division,2,A
+1910-09-19,1910/1911,Sheffield United,Liverpool,2-0,2,0,Football League First Division,1,H
+1910-09-24,1910/1911,Oldham Athletic,Tottenham Hotspur,2-0,2,0,Football League First Division,1,H
+1910-09-24,1910/1911,Arsenal,Sunderland,0-0,0,0,Football League First Division,1,D
+1910-09-24,1910/1911,Nottingham Forest,Bury,1-2,1,2,Football League First Division,1,A
+1910-09-24,1910/1911,Newcastle United,Middlesbrough,0-0,0,0,Football League First Division,1,D
+1910-09-24,1910/1911,Manchester City,Liverpool,1-2,1,2,Football League First Division,1,A
+1910-09-24,1910/1911,Everton,Manchester United,0-1,0,1,Football League First Division,1,A
+1910-09-24,1910/1911,Bristol City,Preston North End,0-0,0,0,Football League First Division,1,D
+1910-09-24,1910/1911,Bradford City,Aston Villa,1-2,1,2,Football League First Division,1,A
+1910-09-24,1910/1911,Blackburn Rovers,Sheffield United,1-2,1,2,Football League First Division,1,A
+1910-09-24,1910/1911,Sheffield Wednesday,Notts County,1-3,1,3,Football League First Division,1,A
+1910-09-24,1910/1911,West Bromwich Albion,Burnley,2-1,2,1,Football League Second Division,2,H
+1910-09-24,1910/1911,Lincoln City,Stockport County,2-0,2,0,Football League Second Division,2,H
+1910-09-24,1910/1911,Leyton Orient,Leicester City,3-1,3,1,Football League Second Division,2,H
+1910-09-24,1910/1911,Hull City,Bradford Park Avenue,2-2,2,2,Football League Second Division,2,D
+1910-09-24,1910/1911,Huddersfield Town,Leeds City,3-2,3,2,Football League Second Division,2,H
+1910-09-24,1910/1911,Glossop North End,Derby County,2-2,2,2,Football League Second Division,2,D
+1910-09-24,1910/1911,Chelsea,Wolverhampton Wanderers,2-0,2,0,Football League Second Division,2,H
+1910-09-24,1910/1911,Bolton Wanderers,Fulham,2-0,2,0,Football League Second Division,2,H
+1910-09-24,1910/1911,Blackpool,Barnsley,1-0,1,0,Football League Second Division,2,H
+1910-09-24,1910/1911,Birmingham City,Gainsborough Trinity,1-1,1,1,Football League Second Division,2,D
+1910-10-01,1910/1911,Sunderland,Bradford City,1-1,1,1,Football League First Division,1,D
+1910-10-01,1910/1911,Preston North End,Newcastle United,2-1,2,1,Football League First Division,1,H
+1910-10-01,1910/1911,Notts County,Bristol City,2-0,2,0,Football League First Division,1,H
+1910-10-01,1910/1911,Middlesbrough,Tottenham Hotspur,2-0,2,0,Football League First Division,1,H
+1910-10-01,1910/1911,Manchester United,Sheffield Wednesday,3-2,3,2,Football League First Division,1,H
+1910-10-01,1910/1911,Liverpool,Everton,0-2,0,2,Football League First Division,1,A
+1910-10-01,1910/1911,Bury,Manchester City,5-2,5,2,Football League First Division,1,H
+1910-10-01,1910/1911,Aston Villa,Blackburn Rovers,2-2,2,2,Football League First Division,1,D
+1910-10-01,1910/1911,Arsenal,Oldham Athletic,0-0,0,0,Football League First Division,1,D
+1910-10-01,1910/1911,Sheffield United,Nottingham Forest,0-1,0,1,Football League First Division,1,A
+1910-10-01,1910/1911,Bradford Park Avenue,Fulham,1-0,1,0,Football League Second Division,2,H
+1910-10-01,1910/1911,Burnley,Hull City,0-0,0,0,Football League Second Division,2,D
+1910-10-01,1910/1911,Chelsea,Bolton Wanderers,3-0,3,0,Football League Second Division,2,H
+1910-10-01,1910/1911,Barnsley,Glossop North End,4-0,4,0,Football League Second Division,2,H
+1910-10-01,1910/1911,Gainsborough Trinity,West Bromwich Albion,1-1,1,1,Football League Second Division,2,D
+1910-10-01,1910/1911,Leeds City,Birmingham City,1-1,1,1,Football League Second Division,2,D
+1910-10-01,1910/1911,Leicester City,Blackpool,2-0,2,0,Football League Second Division,2,H
+1910-10-01,1910/1911,Derby County,Lincoln City,5-0,5,0,Football League Second Division,2,H
+1910-10-01,1910/1911,Wolverhampton Wanderers,Leyton Orient,1-0,1,0,Football League Second Division,2,H
+1910-10-03,1910/1911,Stockport County,Huddersfield Town,1-0,1,0,Football League Second Division,2,H
+1910-10-06,1910/1911,Nottingham Forest,Preston North End,1-3,1,3,Football League First Division,1,A
+1910-10-08,1910/1911,Sheffield Wednesday,Liverpool,1-0,1,0,Football League First Division,1,H
+1910-10-08,1910/1911,Blackburn Rovers,Sunderland,0-1,0,1,Football League First Division,1,A
+1910-10-08,1910/1911,Bradford City,Arsenal,3-0,3,0,Football League First Division,1,H
+1910-10-08,1910/1911,Bristol City,Manchester United,0-1,0,1,Football League First Division,1,A
+1910-10-08,1910/1911,Everton,Bury,2-1,2,1,Football League First Division,1,H
+1910-10-08,1910/1911,Tottenham Hotspur,Preston North End,1-1,1,1,Football League First Division,1,D
+1910-10-08,1910/1911,Newcastle United,Notts County,2-0,2,0,Football League First Division,1,H
+1910-10-08,1910/1911,Nottingham Forest,Aston Villa,3-1,3,1,Football League First Division,1,H
+1910-10-08,1910/1911,Oldham Athletic,Middlesbrough,1-1,1,1,Football League First Division,1,D
+1910-10-08,1910/1911,Manchester City,Sheffield United,0-4,0,4,Football League First Division,1,A
+1910-10-08,1910/1911,West Bromwich Albion,Leeds City,2-0,2,0,Football League Second Division,2,H
+1910-10-08,1910/1911,Leyton Orient,Chelsea,0-0,0,0,Football League Second Division,2,D
+1910-10-08,1910/1911,Hull City,Gainsborough Trinity,3-2,3,2,Football League Second Division,2,H
+1910-10-08,1910/1911,Glossop North End,Leicester City,1-0,1,0,Football League Second Division,2,H
+1910-10-08,1910/1911,Fulham,Burnley,3-0,3,0,Football League Second Division,2,H
+1910-10-08,1910/1911,Derby County,Huddersfield Town,1-1,1,1,Football League Second Division,2,D
+1910-10-08,1910/1911,Bolton Wanderers,Bradford Park Avenue,1-0,1,0,Football League Second Division,2,H
+1910-10-08,1910/1911,Blackpool,Wolverhampton Wanderers,2-0,2,0,Football League Second Division,2,H
+1910-10-08,1910/1911,Birmingham City,Stockport County,1-3,1,3,Football League Second Division,2,A
+1910-10-08,1910/1911,Lincoln City,Barnsley,1-0,1,0,Football League Second Division,2,H
+1910-10-15,1910/1911,Sheffield United,Everton,0-1,0,1,Football League First Division,1,A
+1910-10-15,1910/1911,Preston North End,Middlesbrough,1-1,1,1,Football League First Division,1,D
+1910-10-15,1910/1911,Notts County,Tottenham Hotspur,1-0,1,0,Football League First Division,1,H
+1910-10-15,1910/1911,Manchester United,Newcastle United,2-0,2,0,Football League First Division,1,H
+1910-10-15,1910/1911,Liverpool,Bristol City,4-0,4,0,Football League First Division,1,H
+1910-10-15,1910/1911,Bury,Sheffield Wednesday,1-1,1,1,Football League First Division,1,D
+1910-10-15,1910/1911,Bradford City,Oldham Athletic,1-2,1,2,Football League First Division,1,A
+1910-10-15,1910/1911,Aston Villa,Manchester City,2-1,2,1,Football League First Division,1,H
+1910-10-15,1910/1911,Arsenal,Blackburn Rovers,4-1,4,1,Football League First Division,1,H
+1910-10-15,1910/1911,Sunderland,Nottingham Forest,2-2,2,2,Football League First Division,1,D
+1910-10-15,1910/1911,Burnley,Bradford Park Avenue,1-1,1,1,Football League Second Division,2,D
+1910-10-15,1910/1911,Stockport County,West Bromwich Albion,0-1,0,1,Football League Second Division,2,A
+1910-10-15,1910/1911,Leyton Orient,Bolton Wanderers,0-0,0,0,Football League Second Division,2,D
+1910-10-15,1910/1911,Leicester City,Lincoln City,2-0,2,0,Football League Second Division,2,H
+1910-10-15,1910/1911,Leeds City,Hull City,1-0,1,0,Football League Second Division,2,H
+1910-10-15,1910/1911,Gainsborough Trinity,Fulham,0-1,0,1,Football League Second Division,2,A
+1910-10-15,1910/1911,Derby County,Birmingham City,1-0,1,0,Football League Second Division,2,H
+1910-10-15,1910/1911,Chelsea,Blackpool,0-0,0,0,Football League Second Division,2,D
+1910-10-15,1910/1911,Wolverhampton Wanderers,Glossop North End,2-0,2,0,Football League Second Division,2,H
+1910-10-22,1910/1911,Tottenham Hotspur,Manchester United,2-2,2,2,Football League First Division,1,D
+1910-10-22,1910/1911,Oldham Athletic,Preston North End,2-1,2,1,Football League First Division,1,H
+1910-10-22,1910/1911,Sheffield Wednesday,Sheffield United,2-0,2,0,Football League First Division,1,H
+1910-10-22,1910/1911,Blackburn Rovers,Bradford City,3-0,3,0,Football League First Division,1,H
+1910-10-22,1910/1911,Bristol City,Bury,2-0,2,0,Football League First Division,1,H
+1910-10-22,1910/1911,Everton,Aston Villa,0-1,0,1,Football League First Division,1,A
+1910-10-22,1910/1911,Middlesbrough,Notts County,4-1,4,1,Football League First Division,1,H
+1910-10-22,1910/1911,Manchester City,Sunderland,3-3,3,3,Football League First Division,1,D
+1910-10-22,1910/1911,Newcastle United,Liverpool,6-1,6,1,Football League First Division,1,H
+1910-10-22,1910/1911,Nottingham Forest,Arsenal,2-3,2,3,Football League First Division,1,A
+1910-10-22,1910/1911,Blackpool,Leyton Orient,1-1,1,1,Football League Second Division,2,D
+1910-10-22,1910/1911,Bolton Wanderers,Burnley,1-1,1,1,Football League Second Division,2,D
+1910-10-22,1910/1911,Bradford Park Avenue,Gainsborough Trinity,5-0,5,0,Football League Second Division,2,H
+1910-10-22,1910/1911,Birmingham City,Barnsley,1-0,1,0,Football League Second Division,2,H
+1910-10-22,1910/1911,Glossop North End,Chelsea,2-1,2,1,Football League Second Division,2,H
+1910-10-22,1910/1911,Huddersfield Town,Leicester City,1-2,1,2,Football League Second Division,2,A
+1910-10-22,1910/1911,Lincoln City,Wolverhampton Wanderers,1-5,1,5,Football League Second Division,2,A
+1910-10-22,1910/1911,Fulham,Leeds City,2-1,2,1,Football League Second Division,2,H
+1910-10-22,1910/1911,West Bromwich Albion,Derby County,1-1,1,1,Football League Second Division,2,D
+1910-10-22,1910/1911,Hull City,Stockport County,4-1,4,1,Football League Second Division,2,H
+1910-10-26,1910/1911,Gainsborough Trinity,Barnsley,1-1,1,1,Football League Second Division,2,D
+1910-10-29,1910/1911,Sheffield United,Bristol City,0-4,0,4,Football League First Division,1,A
+1910-10-29,1910/1911,Sunderland,Everton,4-0,4,0,Football League First Division,1,H
+1910-10-29,1910/1911,Aston Villa,Sheffield Wednesday,2-1,2,1,Football League First Division,1,H
+1910-10-29,1910/1911,Blackburn Rovers,Oldham Athletic,1-0,1,0,Football League First Division,1,H
+1910-10-29,1910/1911,Bradford City,Nottingham Forest,2-1,2,1,Football League First Division,1,H
+1910-10-29,1910/1911,Arsenal,Manchester City,0-1,0,1,Football League First Division,1,A
+1910-10-29,1910/1911,Liverpool,Tottenham Hotspur,1-2,1,2,Football League First Division,1,A
+1910-10-29,1910/1911,Manchester United,Middlesbrough,1-2,1,2,Football League First Division,1,A
+1910-10-29,1910/1911,Notts County,Preston North End,3-3,3,3,Football League First Division,1,D
+1910-10-29,1910/1911,Bury,Newcastle United,1-1,1,1,Football League First Division,1,D
+1910-10-29,1910/1911,Wolverhampton Wanderers,Huddersfield Town,0-3,0,3,Football League Second Division,2,A
+1910-10-29,1910/1911,Stockport County,Fulham,1-1,1,1,Football League Second Division,2,D
+1910-10-29,1910/1911,Leyton Orient,Glossop North End,4-0,4,0,Football League Second Division,2,H
+1910-10-29,1910/1911,Leicester City,Birmingham City,2-0,2,0,Football League Second Division,2,H
+1910-10-29,1910/1911,Leeds City,Bradford Park Avenue,2-0,2,0,Football League Second Division,2,H
+1910-10-29,1910/1911,Gainsborough Trinity,Burnley,1-2,1,2,Football League Second Division,2,A
+1910-10-29,1910/1911,Derby County,Hull City,2-3,2,3,Football League Second Division,2,A
+1910-10-29,1910/1911,Chelsea,Lincoln City,7-0,7,0,Football League Second Division,2,H
+1910-10-29,1910/1911,Barnsley,West Bromwich Albion,1-1,1,1,Football League Second Division,2,D
+1910-10-29,1910/1911,Blackpool,Bolton Wanderers,1-1,1,1,Football League Second Division,2,D
+1910-11-05,1910/1911,Everton,Arsenal,2-0,2,0,Football League First Division,1,H
+1910-11-05,1910/1911,Sheffield Wednesday,Sunderland,1-1,1,1,Football League First Division,1,D
+1910-11-05,1910/1911,Preston North End,Manchester United,0-2,0,2,Football League First Division,1,A
+1910-11-05,1910/1911,Oldham Athletic,Notts County,2-1,2,1,Football League First Division,1,H
+1910-11-05,1910/1911,Nottingham Forest,Blackburn Rovers,5-2,5,2,Football League First Division,1,H
+1910-11-05,1910/1911,Newcastle United,Sheffield United,1-1,1,1,Football League First Division,1,D
+1910-11-05,1910/1911,Middlesbrough,Liverpool,2-2,2,2,Football League First Division,1,D
+1910-11-05,1910/1911,Manchester City,Bradford City,1-3,1,3,Football League First Division,1,A
+1910-11-05,1910/1911,Bristol City,Aston Villa,1-2,1,2,Football League First Division,1,A
+1910-11-05,1910/1911,Tottenham Hotspur,Bury,5-0,5,0,Football League First Division,1,H
+1910-11-05,1910/1911,Bolton Wanderers,Gainsborough Trinity,3-0,3,0,Football League Second Division,2,H
+1910-11-05,1910/1911,West Bromwich Albion,Leicester City,5-1,5,1,Football League Second Division,2,H
+1910-11-05,1910/1911,Lincoln City,Leyton Orient,0-0,0,0,Football League Second Division,2,D
+1910-11-05,1910/1911,Hull City,Barnsley,5-1,5,1,Football League Second Division,2,H
+1910-11-05,1910/1911,Glossop North End,Blackpool,3-1,3,1,Football League Second Division,2,H
+1910-11-05,1910/1911,Fulham,Derby County,3-1,3,1,Football League Second Division,2,H
+1910-11-05,1910/1911,Burnley,Leeds City,4-1,4,1,Football League Second Division,2,H
+1910-11-05,1910/1911,Bradford Park Avenue,Stockport County,3-2,3,2,Football League Second Division,2,H
+1910-11-05,1910/1911,Birmingham City,Wolverhampton Wanderers,1-3,1,3,Football League Second Division,2,A
+1910-11-12,1910/1911,Aston Villa,Newcastle United,3-2,3,2,Football League First Division,1,H
+1910-11-12,1910/1911,Sheffield United,Tottenham Hotspur,3-0,3,0,Football League First Division,1,H
+1910-11-12,1910/1911,Blackburn Rovers,Manchester City,2-0,2,0,Football League First Division,1,H
+1910-11-12,1910/1911,Bradford City,Everton,3-1,3,1,Football League First Division,1,H
+1910-11-12,1910/1911,Bury,Middlesbrough,4-2,4,2,Football League First Division,1,H
+1910-11-12,1910/1911,Arsenal,Sheffield Wednesday,1-0,1,0,Football League First Division,1,H
+1910-11-12,1910/1911,Manchester United,Notts County,0-0,0,0,Football League First Division,1,D
+1910-11-12,1910/1911,Nottingham Forest,Oldham Athletic,4-1,4,1,Football League First Division,1,H
+1910-11-12,1910/1911,Liverpool,Preston North End,3-0,3,0,Football League First Division,1,H
+1910-11-12,1910/1911,Sunderland,Bristol City,3-1,3,1,Football League First Division,1,H
+1910-11-12,1910/1911,Chelsea,Birmingham City,2-2,2,2,Football League Second Division,2,D
+1910-11-12,1910/1911,Derby County,Bradford Park Avenue,4-2,4,2,Football League Second Division,2,H
+1910-11-12,1910/1911,Glossop North End,Bolton Wanderers,1-2,1,2,Football League Second Division,2,A
+1910-11-12,1910/1911,Leeds City,Gainsborough Trinity,4-0,4,0,Football League Second Division,2,H
+1910-11-12,1910/1911,Wolverhampton Wanderers,West Bromwich Albion,2-3,2,3,Football League Second Division,2,A
+1910-11-12,1910/1911,Leyton Orient,Huddersfield Town,2-0,2,0,Football League Second Division,2,H
+1910-11-12,1910/1911,Stockport County,Burnley,4-2,4,2,Football League Second Division,2,H
+1910-11-12,1910/1911,Blackpool,Lincoln City,5-1,5,1,Football League Second Division,2,H
+1910-11-12,1910/1911,Leicester City,Hull City,0-2,0,2,Football League Second Division,2,A
+1910-11-12,1910/1911,Barnsley,Fulham,4-2,4,2,Football League Second Division,2,H
+1910-11-17,1910/1911,Barnsley,Huddersfield Town,1-2,1,2,Football League Second Division,2,A
+1910-11-19,1910/1911,Tottenham Hotspur,Aston Villa,1-2,1,2,Football League First Division,1,A
+1910-11-19,1910/1911,Preston North End,Bury,2-0,2,0,Football League First Division,1,H
+1910-11-19,1910/1911,Oldham Athletic,Manchester United,1-3,1,3,Football League First Division,1,A
+1910-11-19,1910/1911,Notts County,Liverpool,1-0,1,0,Football League First Division,1,H
+1910-11-19,1910/1911,Newcastle United,Sunderland,1-1,1,1,Football League First Division,1,D
+1910-11-19,1910/1911,Middlesbrough,Sheffield United,3-1,3,1,Football League First Division,1,H
+1910-11-19,1910/1911,Manchester City,Nottingham Forest,1-0,1,0,Football League First Division,1,H
+1910-11-19,1910/1911,Everton,Blackburn Rovers,6-1,6,1,Football League First Division,1,H
+1910-11-19,1910/1911,Bristol City,Arsenal,0-1,0,1,Football League First Division,1,A
+1910-11-19,1910/1911,Sheffield Wednesday,Bradford City,0-1,0,1,Football League First Division,1,A
+1910-11-19,1910/1911,West Bromwich Albion,Chelsea,1-3,1,3,Football League Second Division,2,A
+1910-11-19,1910/1911,Hull City,Wolverhampton Wanderers,2-2,2,2,Football League Second Division,2,D
+1910-11-19,1910/1911,Fulham,Leicester City,3-1,3,1,Football League Second Division,2,H
+1910-11-19,1910/1911,Burnley,Derby County,2-1,2,1,Football League Second Division,2,H
+1910-11-19,1910/1911,Bradford Park Avenue,Barnsley,2-3,2,3,Football League Second Division,2,A
+1910-11-19,1910/1911,Bolton Wanderers,Leeds City,3-0,3,0,Football League Second Division,2,H
+1910-11-19,1910/1911,Birmingham City,Leyton Orient,0-1,0,1,Football League Second Division,2,A
+1910-11-26,1910/1911,Sheffield United,Preston North End,5-0,5,0,Football League First Division,1,H
+1910-11-26,1910/1911,Arsenal,Newcastle United,1-2,1,2,Football League First Division,1,A
+1910-11-26,1910/1911,Aston Villa,Middlesbrough,5-0,5,0,Football League First Division,1,H
+1910-11-26,1910/1911,Blackburn Rovers,Sheffield Wednesday,6-1,6,1,Football League First Division,1,H
+1910-11-26,1910/1911,Bradford City,Bristol City,3-1,3,1,Football League First Division,1,H
+1910-11-26,1910/1911,Sunderland,Tottenham Hotspur,4-0,4,0,Football League First Division,1,H
+1910-11-26,1910/1911,Liverpool,Manchester United,3-2,3,2,Football League First Division,1,H
+1910-11-26,1910/1911,Manchester City,Oldham Athletic,2-0,2,0,Football League First Division,1,H
+1910-11-26,1910/1911,Nottingham Forest,Everton,1-1,1,1,Football League First Division,1,D
+1910-11-26,1910/1911,Bury,Notts County,0-0,0,0,Football League First Division,1,D
+1910-11-26,1910/1911,Chelsea,Hull City,2-0,2,0,Football League Second Division,2,H
+1910-11-26,1910/1911,Derby County,Gainsborough Trinity,4-0,4,0,Football League Second Division,2,H
+1910-11-26,1910/1911,Glossop North End,Huddersfield Town,5-2,5,2,Football League Second Division,2,H
+1910-11-26,1910/1911,Stockport County,Leeds City,0-4,0,4,Football League Second Division,2,A
+1910-11-26,1910/1911,Leyton Orient,West Bromwich Albion,0-0,0,0,Football League Second Division,2,D
+1910-11-26,1910/1911,Wolverhampton Wanderers,Fulham,5-1,5,1,Football League Second Division,2,H
+1910-11-26,1910/1911,Blackpool,Birmingham City,3-1,3,1,Football League Second Division,2,H
+1910-11-26,1910/1911,Leicester City,Bradford Park Avenue,2-0,2,0,Football League Second Division,2,H
+1910-11-26,1910/1911,Barnsley,Burnley,0-1,0,1,Football League Second Division,2,A
+1910-11-26,1910/1911,Lincoln City,Bolton Wanderers,1-3,1,3,Football League Second Division,2,A
+1910-12-03,1910/1911,Tottenham Hotspur,Arsenal,3-1,3,1,Football League First Division,1,H
+1910-12-03,1910/1911,Bristol City,Blackburn Rovers,1-0,1,0,Football League First Division,1,H
+1910-12-03,1910/1911,Preston North End,Aston Villa,0-1,0,1,Football League First Division,1,A
+1910-12-03,1910/1911,Oldham Athletic,Liverpool,3-1,3,1,Football League First Division,1,H
+1910-12-03,1910/1911,Notts County,Sheffield United,0-3,0,3,Football League First Division,1,A
+1910-12-03,1910/1911,Newcastle United,Bradford City,6-1,6,1,Football League First Division,1,H
+1910-12-03,1910/1911,Middlesbrough,Sunderland,1-0,1,0,Football League First Division,1,H
+1910-12-03,1910/1911,Manchester United,Bury,3-2,3,2,Football League First Division,1,H
+1910-12-03,1910/1911,Everton,Manchester City,1-0,1,0,Football League First Division,1,H
+1910-12-03,1910/1911,Sheffield Wednesday,Nottingham Forest,5-2,5,2,Football League First Division,1,H
+1910-12-03,1910/1911,Birmingham City,Glossop North End,1-2,1,2,Football League Second Division,2,A
+1910-12-03,1910/1911,West Bromwich Albion,Blackpool,0-1,0,1,Football League Second Division,2,A
+1910-12-03,1910/1911,Leeds City,Derby County,3-2,3,2,Football League Second Division,2,H
+1910-12-03,1910/1911,Hull City,Leyton Orient,1-2,1,2,Football League Second Division,2,A
+1910-12-03,1910/1911,Fulham,Chelsea,1-0,1,0,Football League Second Division,2,H
+1910-12-03,1910/1911,Burnley,Leicester City,2-1,2,1,Football League Second Division,2,H
+1910-12-03,1910/1911,Bradford Park Avenue,Wolverhampton Wanderers,1-0,1,0,Football League Second Division,2,H
+1910-12-03,1910/1911,Bolton Wanderers,Huddersfield Town,3-1,3,1,Football League Second Division,2,H
+1910-12-10,1910/1911,Arsenal,Middlesbrough,0-2,0,2,Football League First Division,1,A
+1910-12-10,1910/1911,Sheffield United,Manchester United,2-0,2,0,Football League First Division,1,H
+1910-12-10,1910/1911,Nottingham Forest,Bristol City,3-3,3,3,Football League First Division,1,D
+1910-12-10,1910/1911,Manchester City,Sheffield Wednesday,1-2,1,2,Football League First Division,1,A
+1910-12-10,1910/1911,Everton,Oldham Athletic,1-0,1,0,Football League First Division,1,H
+1910-12-10,1910/1911,Bury,Liverpool,3-0,3,0,Football League First Division,1,H
+1910-12-10,1910/1911,Bradford City,Tottenham Hotspur,3-0,3,0,Football League First Division,1,H
+1910-12-10,1910/1911,Blackburn Rovers,Newcastle United,3-1,3,1,Football League First Division,1,H
+1910-12-10,1910/1911,Aston Villa,Notts County,3-1,3,1,Football League First Division,1,H
+1910-12-10,1910/1911,Sunderland,Preston North End,1-1,1,1,Football League First Division,1,D
+1910-12-10,1910/1911,Derby County,Stockport County,4-1,4,1,Football League Second Division,2,H
+1910-12-10,1910/1911,Glossop North End,West Bromwich Albion,0-2,0,2,Football League Second Division,2,A
+1910-12-10,1910/1911,Huddersfield Town,Bolton Wanderers,1-1,1,1,Football League Second Division,2,D
+1910-12-10,1910/1911,Wolverhampton Wanderers,Burnley,1-0,1,0,Football League Second Division,2,H
+1910-12-10,1910/1911,Leyton Orient,Fulham,1-0,1,0,Football League Second Division,2,H
+1910-12-10,1910/1911,Lincoln City,Birmingham City,0-1,0,1,Football League Second Division,2,A
+1910-12-10,1910/1911,Chelsea,Bradford Park Avenue,3-0,3,0,Football League Second Division,2,H
+1910-12-10,1910/1911,Leicester City,Gainsborough Trinity,1-0,1,0,Football League Second Division,2,H
+1910-12-10,1910/1911,Blackpool,Hull City,2-0,2,0,Football League Second Division,2,H
+1910-12-10,1910/1911,Barnsley,Leeds City,4-0,4,0,Football League Second Division,2,H
+1910-12-17,1910/1911,Sheffield Wednesday,Everton,0-2,0,2,Football League First Division,1,A
+1910-12-17,1910/1911,Preston North End,Arsenal,4-1,4,1,Football League First Division,1,H
+1910-12-17,1910/1911,Notts County,Sunderland,1-1,1,1,Football League First Division,1,D
+1910-12-17,1910/1911,Newcastle United,Nottingham Forest,4-1,4,1,Football League First Division,1,H
+1910-12-17,1910/1911,Middlesbrough,Bradford City,3-2,3,2,Football League First Division,1,H
+1910-12-17,1910/1911,Manchester United,Aston Villa,2-0,2,0,Football League First Division,1,H
+1910-12-17,1910/1911,Liverpool,Sheffield United,2-0,2,0,Football League First Division,1,H
+1910-12-17,1910/1911,Bury,Oldham Athletic,2-2,2,2,Football League First Division,1,D
+1910-12-17,1910/1911,Bristol City,Manchester City,2-1,2,1,Football League First Division,1,H
+1910-12-17,1910/1911,Tottenham Hotspur,Blackburn Rovers,2-2,2,2,Football League First Division,1,D
+1910-12-17,1910/1911,Burnley,Chelsea,1-1,1,1,Football League Second Division,2,D
+1910-12-17,1910/1911,Derby County,Bolton Wanderers,2-2,2,2,Football League Second Division,2,D
+1910-12-17,1910/1911,Fulham,Blackpool,2-1,2,1,Football League Second Division,2,H
+1910-12-17,1910/1911,Bradford Park Avenue,Leyton Orient,3-0,3,0,Football League Second Division,2,H
+1910-12-17,1910/1911,Hull City,Glossop North End,1-0,1,0,Football League Second Division,2,H
+1910-12-17,1910/1911,Leeds City,Leicester City,2-3,2,3,Football League Second Division,2,A
+1910-12-17,1910/1911,West Bromwich Albion,Lincoln City,3-0,3,0,Football League Second Division,2,H
+1910-12-17,1910/1911,Gainsborough Trinity,Wolverhampton Wanderers,1-3,1,3,Football League Second Division,2,A
+1910-12-17,1910/1911,Birmingham City,Huddersfield Town,2-1,2,1,Football League Second Division,2,H
+1910-12-17,1910/1911,Stockport County,Barnsley,2-2,2,2,Football League Second Division,2,D
+1910-12-24,1910/1911,Sheffield United,Bury,3-0,3,0,Football League First Division,1,H
+1910-12-24,1910/1911,Oldham Athletic,Sheffield Wednesday,1-0,1,0,Football League First Division,1,H
+1910-12-24,1910/1911,Nottingham Forest,Tottenham Hotspur,1-2,1,2,Football League First Division,1,A
+1910-12-24,1910/1911,Manchester City,Newcastle United,2-0,2,0,Football League First Division,1,H
+1910-12-24,1910/1911,Everton,Bristol City,4-3,4,3,Football League First Division,1,H
+1910-12-24,1910/1911,Bradford City,Preston North End,1-0,1,0,Football League First Division,1,H
+1910-12-24,1910/1911,Blackburn Rovers,Middlesbrough,5-1,5,1,Football League First Division,1,H
+1910-12-24,1910/1911,Aston Villa,Liverpool,1-1,1,1,Football League First Division,1,D
+1910-12-24,1910/1911,Arsenal,Notts County,2-1,2,1,Football League First Division,1,H
+1910-12-24,1910/1911,Sunderland,Manchester United,1-2,1,2,Football League First Division,1,A
+1910-12-24,1910/1911,Bolton Wanderers,Birmingham City,5-1,5,1,Football League Second Division,2,H
+1910-12-24,1910/1911,Chelsea,Gainsborough Trinity,3-0,3,0,Football League Second Division,2,H
+1910-12-24,1910/1911,Glossop North End,Fulham,2-1,2,1,Football League Second Division,2,H
+1910-12-24,1910/1911,Wolverhampton Wanderers,Leeds City,3-1,3,1,Football League Second Division,2,H
+1910-12-24,1910/1911,Leicester City,Stockport County,5-1,5,1,Football League Second Division,2,H
+1910-12-24,1910/1911,Lincoln City,Hull City,1-4,1,4,Football League Second Division,2,A
+1910-12-24,1910/1911,Blackpool,Bradford Park Avenue,4-1,4,1,Football League Second Division,2,H
+1910-12-24,1910/1911,Huddersfield Town,West Bromwich Albion,0-2,0,2,Football League Second Division,2,A
+1910-12-24,1910/1911,Barnsley,Derby County,0-2,0,2,Football League Second Division,2,A
+1910-12-24,1910/1911,Leyton Orient,Burnley,0-2,0,2,Football League Second Division,2,A
+1910-12-26,1910/1911,Preston North End,Blackburn Rovers,0-0,0,0,Football League First Division,1,D
+1910-12-26,1910/1911,Sheffield United,Oldham Athletic,1-2,1,2,Football League First Division,1,A
+1910-12-26,1910/1911,Notts County,Bradford City,1-1,1,1,Football League First Division,1,D
+1910-12-26,1910/1911,Newcastle United,Everton,1-0,1,0,Football League First Division,1,H
+1910-12-26,1910/1911,Middlesbrough,Manchester City,0-0,0,0,Football League First Division,1,D
+1910-12-26,1910/1911,Manchester United,Arsenal,5-0,5,0,Football League First Division,1,H
+1910-12-26,1910/1911,Liverpool,Sunderland,1-2,1,2,Football League First Division,1,A
+1910-12-26,1910/1911,Bristol City,Sheffield Wednesday,2-2,2,2,Football League First Division,1,D
+1910-12-26,1910/1911,Aston Villa,Bury,4-1,4,1,Football League First Division,1,H
+1910-12-26,1910/1911,Tottenham Hotspur,Nottingham Forest,1-4,1,4,Football League First Division,1,A
+1910-12-26,1910/1911,Burnley,Blackpool,1-1,1,1,Football League Second Division,2,D
+1910-12-26,1910/1911,Derby County,Leicester City,3-0,3,0,Football League Second Division,2,H
+1910-12-26,1910/1911,Fulham,Huddersfield Town,2-1,2,1,Football League Second Division,2,H
+1910-12-26,1910/1911,Wolverhampton Wanderers,Stockport County,0-0,0,0,Football League Second Division,2,D
+1910-12-26,1910/1911,Leeds City,Chelsea,3-3,3,3,Football League Second Division,2,D
+1910-12-26,1910/1911,Leyton Orient,Gainsborough Trinity,1-0,1,0,Football League Second Division,2,H
+1910-12-26,1910/1911,West Bromwich Albion,Bolton Wanderers,2-0,2,0,Football League Second Division,2,H
+1910-12-26,1910/1911,Hull City,Birmingham City,4-1,4,1,Football League Second Division,2,H
+1910-12-26,1910/1911,Bradford Park Avenue,Glossop North End,6-0,6,0,Football League Second Division,2,H
+1910-12-27,1910/1911,Sheffield Wednesday,Newcastle United,0-2,0,2,Football League First Division,1,A
+1910-12-27,1910/1911,Bradford City,Manchester United,1-0,1,0,Football League First Division,1,H
+1910-12-27,1910/1911,Bristol City,Oldham Athletic,3-2,3,2,Football League First Division,1,H
+1910-12-27,1910/1911,Tottenham Hotspur,Manchester City,1-1,1,1,Football League First Division,1,D
+1910-12-27,1910/1911,Nottingham Forest,Middlesbrough,1-1,1,1,Football League First Division,1,D
+1910-12-27,1910/1911,Everton,Liverpool,0-1,0,1,Football League First Division,1,A
+1910-12-27,1910/1911,Chelsea,Stockport County,2-0,2,0,Football League Second Division,2,H
+1910-12-27,1910/1911,Leicester City,Barnsley,1-1,1,1,Football League Second Division,2,D
+1910-12-27,1910/1911,Leeds City,Leyton Orient,1-0,1,0,Football League Second Division,2,H
+1910-12-27,1910/1911,Hull City,Burnley,3-0,3,0,Football League Second Division,2,H
+1910-12-27,1910/1911,Gainsborough Trinity,Blackpool,2-0,2,0,Football League Second Division,2,H
+1910-12-27,1910/1911,Derby County,Wolverhampton Wanderers,2-0,2,0,Football League Second Division,2,H
+1910-12-27,1910/1911,Lincoln City,Huddersfield Town,2-2,2,2,Football League Second Division,2,D
+1910-12-27,1910/1911,Birmingham City,West Bromwich Albion,1-1,1,1,Football League Second Division,2,D
+1910-12-28,1910/1911,Sheffield United,Aston Villa,2-1,2,1,Football League First Division,1,H
+1910-12-31,1910/1911,Sheffield Wednesday,Tottenham Hotspur,2-1,2,1,Football League First Division,1,H
+1910-12-31,1910/1911,Oldham Athletic,Aston Villa,1-1,1,1,Football League First Division,1,D
+1910-12-31,1910/1911,Nottingham Forest,Notts County,0-2,0,2,Football League First Division,1,A
+1910-12-31,1910/1911,Manchester City,Preston North End,0-2,0,2,Football League First Division,1,A
+1910-12-31,1910/1911,Everton,Middlesbrough,2-0,2,0,Football League First Division,1,H
+1910-12-31,1910/1911,Bristol City,Newcastle United,1-0,1,0,Football League First Division,1,H
+1910-12-31,1910/1911,Bradford City,Liverpool,1-3,1,3,Football League First Division,1,A
+1910-12-31,1910/1911,Blackburn Rovers,Manchester United,1-0,1,0,Football League First Division,1,H
+1910-12-31,1910/1911,Arsenal,Bury,3-2,3,2,Football League First Division,1,H
+1910-12-31,1910/1911,Sunderland,Sheffield United,0-2,0,2,Football League First Division,1,A
+1910-12-31,1910/1911,Wolverhampton Wanderers,Barnsley,1-0,1,0,Football League Second Division,2,H
+1910-12-31,1910/1911,West Bromwich Albion,Hull City,0-2,0,2,Football League Second Division,2,A
+1910-12-31,1910/1911,Lincoln City,Burnley,1-0,1,0,Football League Second Division,2,H
+1910-12-31,1910/1911,Leyton Orient,Stockport County,1-0,1,0,Football League Second Division,2,H
+1910-12-31,1910/1911,Huddersfield Town,Bradford Park Avenue,0-0,0,0,Football League Second Division,2,D
+1910-12-31,1910/1911,Glossop North End,Gainsborough Trinity,3-1,3,1,Football League Second Division,2,H
+1910-12-31,1910/1911,Chelsea,Derby County,3-2,3,2,Football League Second Division,2,H
+1910-12-31,1910/1911,Blackpool,Leeds City,1-2,1,2,Football League Second Division,2,A
+1910-12-31,1910/1911,Birmingham City,Fulham,1-1,1,1,Football League Second Division,2,D
+1910-12-31,1910/1911,Bolton Wanderers,Leicester City,6-2,6,2,Football League Second Division,2,H
+1911-01-02,1910/1911,Bury,Aston Villa,1-0,1,0,Football League First Division,1,H
+1911-01-02,1910/1911,Sheffield Wednesday,Bristol City,2-1,2,1,Football League First Division,1,H
+1911-01-02,1910/1911,Middlesbrough,Nottingham Forest,2-2,2,2,Football League First Division,1,D
+1911-01-02,1910/1911,Manchester United,Bradford City,1-0,1,0,Football League First Division,1,H
+1911-01-02,1910/1911,Everton,Newcastle United,1-5,1,5,Football League First Division,1,A
+1911-01-02,1910/1911,Blackburn Rovers,Preston North End,0-1,0,1,Football League First Division,1,A
+1911-01-02,1910/1911,Sunderland,Liverpool,4-0,4,0,Football League First Division,1,H
+1911-01-02,1910/1911,Bolton Wanderers,Barnsley,4-0,4,0,Football League Second Division,2,H
+1911-01-02,1910/1911,Stockport County,Chelsea,2-2,2,2,Football League Second Division,2,D
+1911-01-02,1910/1911,Huddersfield Town,Hull City,2-0,2,0,Football League Second Division,2,H
+1911-01-02,1910/1911,Glossop North End,Burnley,1-1,1,1,Football League Second Division,2,D
+1911-01-02,1910/1911,Bradford Park Avenue,Lincoln City,6-0,6,0,Football League Second Division,2,H
+1911-01-02,1910/1911,Blackpool,Gainsborough Trinity,1-1,1,1,Football League Second Division,2,D
+1911-01-03,1910/1911,Manchester City,Tottenham Hotspur,2-1,2,1,Football League First Division,1,H
+1911-01-03,1910/1911,Newcastle United,Preston North End,1-1,1,1,Football League First Division,1,D
+1911-01-07,1910/1911,Tottenham Hotspur,Bristol City,3-2,3,2,Football League First Division,1,H
+1911-01-07,1910/1911,Preston North End,Everton,0-2,0,2,Football League First Division,1,A
+1911-01-07,1910/1911,Sheffield United,Arsenal,3-2,3,2,Football League First Division,1,H
+1911-01-07,1910/1911,Aston Villa,Sunderland,2-1,2,1,Football League First Division,1,H
+1911-01-07,1910/1911,Bury,Bradford City,0-1,0,1,Football League First Division,1,A
+1911-01-07,1910/1911,Liverpool,Blackburn Rovers,2-2,2,2,Football League First Division,1,D
+1911-01-07,1910/1911,Manchester United,Nottingham Forest,4-2,4,2,Football League First Division,1,H
+1911-01-07,1910/1911,Newcastle United,Oldham Athletic,3-0,3,0,Football League First Division,1,H
+1911-01-07,1910/1911,Notts County,Manchester City,0-1,0,1,Football League First Division,1,A
+1911-01-07,1910/1911,Middlesbrough,Sheffield Wednesday,0-1,0,1,Football League First Division,1,A
+1911-01-07,1910/1911,Derby County,Leyton Orient,3-1,3,1,Football League Second Division,2,H
+1911-01-07,1910/1911,Fulham,West Bromwich Albion,0-1,0,1,Football League Second Division,2,A
+1911-01-07,1910/1911,Gainsborough Trinity,Lincoln City,1-0,1,0,Football League Second Division,2,H
+1911-01-07,1910/1911,Stockport County,Blackpool,1-3,1,3,Football League Second Division,2,A
+1911-01-07,1910/1911,Leeds City,Glossop North End,0-2,0,2,Football League Second Division,2,A
+1911-01-07,1910/1911,Leicester City,Wolverhampton Wanderers,2-3,2,3,Football League Second Division,2,A
+1911-01-07,1910/1911,Barnsley,Chelsea,3-2,3,2,Football League Second Division,2,H
+1911-01-07,1910/1911,Hull City,Bolton Wanderers,1-1,1,1,Football League Second Division,2,D
+1911-01-07,1910/1911,Burnley,Huddersfield Town,2-1,2,1,Football League Second Division,2,H
+1911-01-07,1910/1911,Bradford Park Avenue,Birmingham City,2-2,2,2,Football League Second Division,2,D
+1911-01-14,1910/1911,Huddersfield Town,Stockport County,4-1,4,1,Football League Second Division,2,H
+1911-01-21,1910/1911,Oldham Athletic,Sunderland,2-1,2,1,Football League First Division,1,H
+1911-01-21,1910/1911,Sheffield Wednesday,Preston North End,0-0,0,0,Football League First Division,1,D
+1911-01-21,1910/1911,Blackburn Rovers,Bury,6-2,6,2,Football League First Division,1,H
+1911-01-21,1910/1911,Bradford City,Sheffield United,0-1,0,1,Football League First Division,1,A
+1911-01-21,1910/1911,Bristol City,Middlesbrough,3-2,3,2,Football League First Division,1,H
+1911-01-21,1910/1911,Everton,Notts County,5-0,5,0,Football League First Division,1,H
+1911-01-21,1910/1911,Manchester City,Manchester United,1-1,1,1,Football League First Division,1,D
+1911-01-21,1910/1911,Newcastle United,Tottenham Hotspur,1-1,1,1,Football League First Division,1,D
+1911-01-21,1910/1911,Nottingham Forest,Liverpool,2-0,2,0,Football League First Division,1,H
+1911-01-21,1910/1911,Lincoln City,Leeds City,1-1,1,1,Football League Second Division,2,D
+1911-01-21,1910/1911,Leyton Orient,Barnsley,3-0,3,0,Football League Second Division,2,H
+1911-01-21,1910/1911,Hull City,Fulham,0-0,0,0,Football League Second Division,2,D
+1911-01-21,1910/1911,Glossop North End,Stockport County,3-0,3,0,Football League Second Division,2,H
+1911-01-21,1910/1911,Chelsea,Leicester City,2-0,2,0,Football League Second Division,2,H
+1911-01-21,1910/1911,Bolton Wanderers,Wolverhampton Wanderers,4-1,4,1,Football League Second Division,2,H
+1911-01-21,1910/1911,Blackpool,Derby County,0-1,0,1,Football League Second Division,2,A
+1911-01-21,1910/1911,Birmingham City,Burnley,1-1,1,1,Football League Second Division,2,D
+1911-01-21,1910/1911,West Bromwich Albion,Bradford Park Avenue,3-0,3,0,Football League Second Division,2,H
+1911-01-21,1910/1911,Huddersfield Town,Gainsborough Trinity,2-1,2,1,Football League Second Division,2,H
+1911-01-28,1910/1911,Sunderland,Arsenal,2-2,2,2,Football League First Division,1,D
+1911-01-28,1910/1911,Sheffield United,Blackburn Rovers,1-1,1,1,Football League First Division,1,D
+1911-01-28,1910/1911,Preston North End,Bristol City,4-0,4,0,Football League First Division,1,H
+1911-01-28,1910/1911,Middlesbrough,Newcastle United,0-2,0,2,Football League First Division,1,A
+1911-01-28,1910/1911,Manchester United,Everton,2-2,2,2,Football League First Division,1,D
+1911-01-28,1910/1911,Liverpool,Manchester City,1-1,1,1,Football League First Division,1,D
+1911-01-28,1910/1911,Bury,Nottingham Forest,1-0,1,0,Football League First Division,1,H
+1911-01-28,1910/1911,Aston Villa,Bradford City,4-1,4,1,Football League First Division,1,H
+1911-01-28,1910/1911,Notts County,Sheffield Wednesday,2-0,2,0,Football League First Division,1,H
+1911-01-28,1910/1911,Wolverhampton Wanderers,Chelsea,0-0,0,0,Football League Second Division,2,D
+1911-01-28,1910/1911,Stockport County,Lincoln City,3-2,3,2,Football League Second Division,2,H
+1911-01-28,1910/1911,Leicester City,Leyton Orient,2-1,2,1,Football League Second Division,2,H
+1911-01-28,1910/1911,Leeds City,Huddersfield Town,5-2,5,2,Football League Second Division,2,H
+1911-01-28,1910/1911,Gainsborough Trinity,Birmingham City,1-0,1,0,Football League Second Division,2,H
+1911-01-28,1910/1911,Fulham,Bolton Wanderers,2-0,2,0,Football League Second Division,2,H
+1911-01-28,1910/1911,Derby County,Glossop North End,2-1,2,1,Football League Second Division,2,H
+1911-01-28,1910/1911,Burnley,West Bromwich Albion,2-0,2,0,Football League Second Division,2,H
+1911-01-28,1910/1911,Bradford Park Avenue,Hull City,2-0,2,0,Football League Second Division,2,H
+1911-01-28,1910/1911,Barnsley,Blackpool,1-2,1,2,Football League Second Division,2,A
+1911-02-04,1910/1911,Sunderland,Bury,4-1,4,1,Football League First Division,1,H
+1911-02-04,1910/1911,Bristol City,Notts County,1-0,1,0,Football League First Division,1,H
+1911-02-04,1910/1911,Nottingham Forest,Sheffield United,1-2,1,2,Football League First Division,1,A
+1911-02-04,1910/1911,Birmingham City,Leeds City,2-1,2,1,Football League Second Division,2,H
+1911-02-04,1910/1911,Huddersfield Town,Blackpool,2-2,2,2,Football League Second Division,2,D
+1911-02-04,1910/1911,Gainsborough Trinity,Stockport County,0-0,0,0,Football League Second Division,2,D
+1911-02-08,1910/1911,Lincoln City,Derby County,0-2,0,2,Football League Second Division,2,A
+1911-02-11,1910/1911,Sunderland,Blackburn Rovers,2-2,2,2,Football League First Division,1,D
+1911-02-11,1910/1911,Preston North End,Tottenham Hotspur,2-0,2,0,Football League First Division,1,H
+1911-02-11,1910/1911,Notts County,Newcastle United,2-2,2,2,Football League First Division,1,D
+1911-02-11,1910/1911,Middlesbrough,Oldham Athletic,1-2,1,2,Football League First Division,1,A
+1911-02-11,1910/1911,Manchester United,Bristol City,3-1,3,1,Football League First Division,1,H
+1911-02-11,1910/1911,Liverpool,Sheffield Wednesday,3-0,3,0,Football League First Division,1,H
+1911-02-11,1910/1911,Bury,Everton,0-0,0,0,Football League First Division,1,D
+1911-02-11,1910/1911,Aston Villa,Nottingham Forest,3-1,3,1,Football League First Division,1,H
+1911-02-11,1910/1911,Arsenal,Bradford City,0-0,0,0,Football League First Division,1,D
+1911-02-11,1910/1911,Sheffield United,Manchester City,2-2,2,2,Football League First Division,1,D
+1911-02-11,1910/1911,Wolverhampton Wanderers,Blackpool,0-3,0,3,Football League Second Division,2,A
+1911-02-11,1910/1911,Leicester City,Glossop North End,1-1,1,1,Football League Second Division,2,D
+1911-02-11,1910/1911,Leeds City,West Bromwich Albion,3-1,3,1,Football League Second Division,2,H
+1911-02-11,1910/1911,Huddersfield Town,Derby County,0-3,0,3,Football League Second Division,2,A
+1911-02-11,1910/1911,Chelsea,Leyton Orient,1-0,1,0,Football League Second Division,2,H
+1911-02-11,1910/1911,Burnley,Fulham,1-0,1,0,Football League Second Division,2,H
+1911-02-11,1910/1911,Bradford Park Avenue,Bolton Wanderers,1-1,1,1,Football League Second Division,2,D
+1911-02-11,1910/1911,Barnsley,Lincoln City,2-2,2,2,Football League Second Division,2,D
+1911-02-11,1910/1911,Gainsborough Trinity,Hull City,1-1,1,1,Football League Second Division,2,D
+1911-02-13,1910/1911,Tottenham Hotspur,Middlesbrough,6-2,6,2,Football League First Division,1,H
+1911-02-13,1910/1911,Stockport County,Birmingham City,3-1,3,1,Football League Second Division,2,H
+1911-02-13,1910/1911,Fulham,Bradford Park Avenue,4-0,4,0,Football League Second Division,2,H
+1911-02-18,1910/1911,Blackburn Rovers,Arsenal,1-0,1,0,Football League First Division,1,H
+1911-02-18,1910/1911,Sheffield Wednesday,Bury,1-0,1,0,Football League First Division,1,H
+1911-02-18,1910/1911,Oldham Athletic,Bradford City,1-0,1,0,Football League First Division,1,H
+1911-02-18,1910/1911,Nottingham Forest,Sunderland,1-3,1,3,Football League First Division,1,A
+1911-02-18,1910/1911,Newcastle United,Manchester United,0-1,0,1,Football League First Division,1,A
+1911-02-18,1910/1911,Middlesbrough,Preston North End,2-0,2,0,Football League First Division,1,H
+1911-02-18,1910/1911,Manchester City,Aston Villa,1-1,1,1,Football League First Division,1,D
+1911-02-18,1910/1911,Everton,Sheffield United,1-0,1,0,Football League First Division,1,H
+1911-02-18,1910/1911,Bristol City,Liverpool,1-1,1,1,Football League First Division,1,D
+1911-02-18,1910/1911,Tottenham Hotspur,Notts County,3-0,3,0,Football League First Division,1,H
+1911-02-18,1910/1911,Blackpool,Chelsea,0-2,0,2,Football League Second Division,2,A
+1911-02-18,1910/1911,West Bromwich Albion,Stockport County,4-2,4,2,Football League Second Division,2,H
+1911-02-18,1910/1911,Lincoln City,Leicester City,2-0,2,0,Football League Second Division,2,H
+1911-02-18,1910/1911,Hull City,Leeds City,1-1,1,1,Football League Second Division,2,D
+1911-02-18,1910/1911,Huddersfield Town,Barnsley,2-0,2,0,Football League Second Division,2,H
+1911-02-18,1910/1911,Glossop North End,Wolverhampton Wanderers,5-1,5,1,Football League Second Division,2,H
+1911-02-18,1910/1911,Fulham,Gainsborough Trinity,1-0,1,0,Football League Second Division,2,H
+1911-02-18,1910/1911,Bradford Park Avenue,Burnley,1-1,1,1,Football League Second Division,2,D
+1911-02-18,1910/1911,Bolton Wanderers,Leyton Orient,2-0,2,0,Football League Second Division,2,H
+1911-02-18,1910/1911,Birmingham City,Derby County,2-0,2,0,Football League Second Division,2,H
+1911-02-25,1910/1911,Sheffield United,Sheffield Wednesday,0-1,0,1,Football League First Division,1,A
+1911-02-25,1910/1911,Preston North End,Oldham Athletic,1-1,1,1,Football League First Division,1,D
+1911-02-25,1910/1911,Bury,Bristol City,2-1,2,1,Football League First Division,1,H
+1911-02-25,1910/1911,Aston Villa,Tottenham Hotspur,4-0,4,0,Football League First Division,1,H
+1911-02-25,1910/1911,Arsenal,Nottingham Forest,3-2,3,2,Football League First Division,1,H
+1911-02-25,1910/1911,Sunderland,Manchester City,4-0,4,0,Football League First Division,1,H
+1911-02-25,1910/1911,Stockport County,Bolton Wanderers,0-1,0,1,Football League Second Division,2,A
+1911-02-25,1910/1911,Leyton Orient,Blackpool,2-1,2,1,Football League Second Division,2,H
+1911-02-25,1910/1911,Leicester City,Huddersfield Town,2-1,2,1,Football League Second Division,2,H
+1911-02-25,1910/1911,Leeds City,Fulham,3-1,3,1,Football League Second Division,2,H
+1911-02-25,1910/1911,Gainsborough Trinity,Bradford Park Avenue,1-2,1,2,Football League Second Division,2,A
+1911-02-25,1910/1911,Barnsley,Birmingham City,2-3,2,3,Football League Second Division,2,A
+1911-02-27,1910/1911,Liverpool,Newcastle United,3-0,3,0,Football League First Division,1,H
+1911-02-28,1910/1911,Bradford City,Blackburn Rovers,1-0,1,0,Football League First Division,1,H
+1911-02-28,1910/1911,Huddersfield Town,Fulham,1-2,1,2,Football League Second Division,2,A
+1911-03-01,1910/1911,Derby County,West Bromwich Albion,1-3,1,3,Football League Second Division,2,A
+1911-03-04,1910/1911,Sheffield Wednesday,Aston Villa,1-0,1,0,Football League First Division,1,H
+1911-03-04,1910/1911,Preston North End,Notts County,2-0,2,0,Football League First Division,1,H
+1911-03-04,1910/1911,Oldham Athletic,Blackburn Rovers,2-0,2,0,Football League First Division,1,H
+1911-03-04,1910/1911,Nottingham Forest,Bradford City,0-2,0,2,Football League First Division,1,A
+1911-03-04,1910/1911,Newcastle United,Bury,5-1,5,1,Football League First Division,1,H
+1911-03-04,1910/1911,Middlesbrough,Manchester United,2-2,2,2,Football League First Division,1,D
+1911-03-04,1910/1911,Manchester City,Arsenal,1-1,1,1,Football League First Division,1,D
+1911-03-04,1910/1911,Everton,Sunderland,2-2,2,2,Football League First Division,1,D
+1911-03-04,1910/1911,Bristol City,Sheffield United,0-2,0,2,Football League First Division,1,A
+1911-03-04,1910/1911,Tottenham Hotspur,Liverpool,1-0,1,0,Football League First Division,1,H
+1911-03-04,1910/1911,Lincoln City,Chelsea,0-0,0,0,Football League Second Division,2,D
+1911-03-04,1910/1911,Hull City,Derby County,2-0,2,0,Football League Second Division,2,H
+1911-03-04,1910/1911,Huddersfield Town,Wolverhampton Wanderers,3-1,3,1,Football League Second Division,2,H
+1911-03-04,1910/1911,Glossop North End,Leyton Orient,1-3,1,3,Football League Second Division,2,A
+1911-03-04,1910/1911,West Bromwich Albion,Barnsley,3-3,3,3,Football League Second Division,2,D
+1911-03-04,1910/1911,Burnley,Gainsborough Trinity,1-1,1,1,Football League Second Division,2,D
+1911-03-04,1910/1911,Bradford Park Avenue,Leeds City,0-2,0,2,Football League Second Division,2,A
+1911-03-04,1910/1911,Bolton Wanderers,Blackpool,1-0,1,0,Football League Second Division,2,H
+1911-03-04,1910/1911,Birmingham City,Leicester City,1-0,1,0,Football League Second Division,2,H
+1911-03-04,1910/1911,Fulham,Stockport County,6-2,6,2,Football League Second Division,2,H
+1911-03-06,1910/1911,Oldham Athletic,Arsenal,3-0,3,0,Football League First Division,1,H
+1911-03-06,1910/1911,Chelsea,Glossop North End,2-0,2,0,Football League Second Division,2,H
+1911-03-11,1910/1911,Aston Villa,Bristol City,2-0,2,0,Football League First Division,1,H
+1911-03-11,1910/1911,Notts County,Oldham Athletic,1-0,1,0,Football League First Division,1,H
+1911-03-11,1910/1911,Manchester United,Preston North End,5-0,5,0,Football League First Division,1,H
+1911-03-11,1910/1911,Liverpool,Middlesbrough,3-0,3,0,Football League First Division,1,H
+1911-03-11,1910/1911,Bury,Tottenham Hotspur,2-1,2,1,Football League First Division,1,H
+1911-03-11,1910/1911,Arsenal,Everton,1-0,1,0,Football League First Division,1,H
+1911-03-11,1910/1911,Sunderland,Sheffield Wednesday,1-2,1,2,Football League First Division,1,A
+1911-03-11,1910/1911,Gainsborough Trinity,Bolton Wanderers,1-0,1,0,Football League Second Division,2,H
+1911-03-11,1910/1911,Leicester City,West Bromwich Albion,2-3,2,3,Football League Second Division,2,A
+1911-03-11,1910/1911,Wolverhampton Wanderers,Birmingham City,3-1,3,1,Football League Second Division,2,H
+1911-03-11,1910/1911,Stockport County,Bradford Park Avenue,1-0,1,0,Football League Second Division,2,H
+1911-03-11,1910/1911,Blackpool,Glossop North End,1-0,1,0,Football League Second Division,2,H
+1911-03-11,1910/1911,Leyton Orient,Lincoln City,2-0,2,0,Football League Second Division,2,H
+1911-03-11,1910/1911,Barnsley,Hull City,0-1,0,1,Football League Second Division,2,A
+1911-03-14,1910/1911,Bradford City,Manchester City,1-0,1,0,Football League First Division,1,H
+1911-03-15,1910/1911,Arsenal,Aston Villa,1-1,1,1,Football League First Division,1,D
+1911-03-15,1910/1911,Manchester United,Tottenham Hotspur,3-2,3,2,Football League First Division,1,H
+1911-03-15,1910/1911,Derby County,Fulham,2-2,2,2,Football League Second Division,2,D
+1911-03-18,1910/1911,Tottenham Hotspur,Sheffield United,2-1,2,1,Football League First Division,1,H
+1911-03-18,1910/1911,Sheffield Wednesday,Arsenal,0-0,0,0,Football League First Division,1,D
+1911-03-18,1910/1911,Preston North End,Liverpool,2-1,2,1,Football League First Division,1,H
+1911-03-18,1910/1911,Oldham Athletic,Nottingham Forest,2-0,2,0,Football League First Division,1,H
+1911-03-18,1910/1911,Notts County,Manchester United,1-0,1,0,Football League First Division,1,H
+1911-03-18,1910/1911,Newcastle United,Aston Villa,1-0,1,0,Football League First Division,1,H
+1911-03-18,1910/1911,Middlesbrough,Bury,2-1,2,1,Football League First Division,1,H
+1911-03-18,1910/1911,Manchester City,Blackburn Rovers,0-0,0,0,Football League First Division,1,D
+1911-03-18,1910/1911,Everton,Bradford City,0-0,0,0,Football League First Division,1,D
+1911-03-18,1910/1911,Bristol City,Sunderland,1-1,1,1,Football League First Division,1,D
+1911-03-18,1910/1911,Fulham,Barnsley,0-2,0,2,Football League Second Division,2,A
+1911-03-18,1910/1911,Lincoln City,Blackpool,0-1,0,1,Football League Second Division,2,A
+1911-03-18,1910/1911,Hull City,Leicester City,2-2,2,2,Football League Second Division,2,D
+1911-03-18,1910/1911,Huddersfield Town,Leyton Orient,2-0,2,0,Football League Second Division,2,H
+1911-03-18,1910/1911,Gainsborough Trinity,Leeds City,1-2,1,2,Football League Second Division,2,A
+1911-03-18,1910/1911,Burnley,Stockport County,5-3,5,3,Football League Second Division,2,H
+1911-03-18,1910/1911,Bradford Park Avenue,Derby County,2-1,2,1,Football League Second Division,2,H
+1911-03-18,1910/1911,Bolton Wanderers,Glossop North End,4-0,4,0,Football League Second Division,2,H
+1911-03-18,1910/1911,Birmingham City,Chelsea,2-1,2,1,Football League Second Division,2,H
+1911-03-18,1910/1911,West Bromwich Albion,Wolverhampton Wanderers,2-1,2,1,Football League Second Division,2,H
+1911-03-20,1910/1911,Leyton Orient,Wolverhampton Wanderers,3-1,3,1,Football League Second Division,2,H
+1911-03-20,1910/1911,Burnley,Bolton Wanderers,1-3,1,3,Football League Second Division,2,A
+1911-03-20,1910/1911,Chelsea,Huddersfield Town,2-0,2,0,Football League Second Division,2,H
+1911-03-25,1910/1911,Manchester United,Oldham Athletic,0-0,0,0,Football League First Division,1,D
+1911-03-25,1910/1911,Nottingham Forest,Manchester City,0-0,0,0,Football League First Division,1,D
+1911-03-25,1910/1911,Liverpool,Notts County,2-1,2,1,Football League First Division,1,H
+1911-03-25,1910/1911,Bury,Preston North End,1-0,1,0,Football League First Division,1,H
+1911-03-25,1910/1911,Arsenal,Bristol City,3-0,3,0,Football League First Division,1,H
+1911-03-25,1910/1911,Wolverhampton Wanderers,Hull City,0-0,0,0,Football League Second Division,2,D
+1911-03-25,1910/1911,Stockport County,Gainsborough Trinity,1-0,1,0,Football League Second Division,2,H
+1911-03-25,1910/1911,Leyton Orient,Birmingham City,2-1,2,1,Football League Second Division,2,H
+1911-03-25,1910/1911,Leicester City,Fulham,3-2,3,2,Football League Second Division,2,H
+1911-03-25,1910/1911,Glossop North End,Lincoln City,2-0,2,0,Football League Second Division,2,H
+1911-03-25,1910/1911,Leeds City,Bolton Wanderers,1-0,1,0,Football League Second Division,2,H
+1911-03-25,1910/1911,Derby County,Burnley,3-0,3,0,Football League Second Division,2,H
+1911-03-25,1910/1911,Barnsley,Bradford Park Avenue,7-0,7,0,Football League Second Division,2,H
+1911-03-25,1910/1911,Blackpool,Huddersfield Town,1-1,1,1,Football League Second Division,2,D
+1911-03-27,1910/1911,Aston Villa,Everton,2-1,2,1,Football League First Division,1,H
+1911-03-27,1910/1911,Blackburn Rovers,Nottingham Forest,4-1,4,1,Football League First Division,1,H
+1911-03-27,1910/1911,Sheffield United,Middlesbrough,2-1,2,1,Football League First Division,1,H
+1911-03-27,1910/1911,Tottenham Hotspur,Oldham Athletic,2-0,2,0,Football League First Division,1,H
+1911-03-27,1910/1911,Leeds City,Burnley,0-0,0,0,Football League Second Division,2,D
+1911-03-28,1910/1911,Glossop North End,Barnsley,1-1,1,1,Football League Second Division,2,D
+1911-03-29,1910/1911,Chelsea,West Bromwich Albion,2-1,2,1,Football League Second Division,2,H
+1911-03-29,1910/1911,Blackpool,Leicester City,2-0,2,0,Football League Second Division,2,H
+1911-04-01,1910/1911,Manchester United,Liverpool,2-0,2,0,Football League First Division,1,H
+1911-04-01,1910/1911,Tottenham Hotspur,Sunderland,1-1,1,1,Football League First Division,1,D
+1911-04-01,1910/1911,Sheffield Wednesday,Blackburn Rovers,1-0,1,0,Football League First Division,1,H
+1911-04-01,1910/1911,Preston North End,Sheffield United,1-1,1,1,Football League First Division,1,D
+1911-04-01,1910/1911,Oldham Athletic,Manchester City,1-1,1,1,Football League First Division,1,D
+1911-04-01,1910/1911,Notts County,Bury,1-0,1,0,Football League First Division,1,H
+1911-04-01,1910/1911,Newcastle United,Arsenal,0-1,0,1,Football League First Division,1,A
+1911-04-01,1910/1911,Middlesbrough,Aston Villa,0-1,0,1,Football League First Division,1,A
+1911-04-01,1910/1911,Bristol City,Bradford City,0-2,0,2,Football League First Division,1,A
+1911-04-01,1910/1911,West Bromwich Albion,Leyton Orient,3-0,3,0,Football League Second Division,2,H
+1911-04-01,1910/1911,Leeds City,Stockport County,4-0,4,0,Football League Second Division,2,H
+1911-04-01,1910/1911,Bradford Park Avenue,Leicester City,3-1,3,1,Football League Second Division,2,H
+1911-04-01,1910/1911,Hull City,Chelsea,1-1,1,1,Football League Second Division,2,D
+1911-04-01,1910/1911,Huddersfield Town,Glossop North End,1-0,1,0,Football League Second Division,2,H
+1911-04-01,1910/1911,Gainsborough Trinity,Derby County,0-0,0,0,Football League Second Division,2,D
+1911-04-01,1910/1911,Fulham,Wolverhampton Wanderers,0-1,0,1,Football League Second Division,2,A
+1911-04-01,1910/1911,Burnley,Barnsley,0-0,0,0,Football League Second Division,2,D
+1911-04-01,1910/1911,Bolton Wanderers,Lincoln City,3-1,3,1,Football League Second Division,2,H
+1911-04-01,1910/1911,Birmingham City,Blackpool,2-0,2,0,Football League Second Division,2,H
+1911-04-03,1910/1911,Sheffield United,Newcastle United,0-0,0,0,Football League First Division,1,D
+1911-04-04,1910/1911,Bradford City,Sheffield Wednesday,5-2,5,2,Football League First Division,1,H
+1911-04-05,1910/1911,Nottingham Forest,Newcastle United,0-1,0,1,Football League First Division,1,A
+1911-04-06,1910/1911,Blackburn Rovers,Everton,0-1,0,1,Football League First Division,1,A
+1911-04-08,1910/1911,Bury,Manchester United,0-3,0,3,Football League First Division,1,A
+1911-04-08,1910/1911,Sheffield United,Notts County,0-2,0,2,Football League First Division,1,A
+1911-04-08,1910/1911,Nottingham Forest,Sheffield Wednesday,0-1,0,1,Football League First Division,1,A
+1911-04-08,1910/1911,Manchester City,Everton,2-1,2,1,Football League First Division,1,H
+1911-04-08,1910/1911,Liverpool,Oldham Athletic,1-0,1,0,Football League First Division,1,H
+1911-04-08,1910/1911,Bradford City,Newcastle United,1-0,1,0,Football League First Division,1,H
+1911-04-08,1910/1911,Blackburn Rovers,Bristol City,2-0,2,0,Football League First Division,1,H
+1911-04-08,1910/1911,Aston Villa,Preston North End,0-2,0,2,Football League First Division,1,A
+1911-04-08,1910/1911,Arsenal,Tottenham Hotspur,2-0,2,0,Football League First Division,1,H
+1911-04-08,1910/1911,Sunderland,Middlesbrough,3-1,3,1,Football League First Division,1,H
+1911-04-08,1910/1911,Leyton Orient,Hull City,1-1,1,1,Football League Second Division,2,D
+1911-04-08,1910/1911,Leicester City,Burnley,1-1,1,1,Football League Second Division,2,D
+1911-04-08,1910/1911,Huddersfield Town,Lincoln City,1-1,1,1,Football League Second Division,2,D
+1911-04-08,1910/1911,Glossop North End,Birmingham City,2-1,2,1,Football League Second Division,2,H
+1911-04-08,1910/1911,Wolverhampton Wanderers,Bradford Park Avenue,0-0,0,0,Football League Second Division,2,D
+1911-04-08,1910/1911,Derby County,Leeds City,2-2,2,2,Football League Second Division,2,D
+1911-04-08,1910/1911,Chelsea,Fulham,2-0,2,0,Football League Second Division,2,H
+1911-04-08,1910/1911,Blackpool,West Bromwich Albion,0-0,0,0,Football League Second Division,2,D
+1911-04-08,1910/1911,Barnsley,Gainsborough Trinity,2-2,2,2,Football League Second Division,2,D
+1911-04-11,1910/1911,Bradford City,Sunderland,3-0,3,0,Football League First Division,1,H
+1911-04-14,1910/1911,Notts County,Blackburn Rovers,2-0,2,0,Football League First Division,1,H
+1911-04-14,1910/1911,Newcastle United,Sheffield Wednesday,0-2,0,2,Football League First Division,1,A
+1911-04-14,1910/1911,Manchester City,Middlesbrough,2-1,2,1,Football League First Division,1,H
+1911-04-14,1910/1911,Everton,Nottingham Forest,2-1,2,1,Football League First Division,1,H
+1911-04-14,1910/1911,Bury,Sunderland,0-0,0,0,Football League First Division,1,D
+1911-04-14,1910/1911,Aston Villa,Sheffield United,3-0,3,0,Football League First Division,1,H
+1911-04-14,1910/1911,Arsenal,Liverpool,0-0,0,0,Football League First Division,1,D
+1911-04-14,1910/1911,Oldham Athletic,Bristol City,1-0,1,0,Football League First Division,1,H
+1911-04-14,1910/1911,Gainsborough Trinity,Leyton Orient,3-1,3,1,Football League Second Division,2,H
+1911-04-14,1910/1911,Glossop North End,Bradford Park Avenue,0-1,0,1,Football League Second Division,2,A
+1911-04-14,1910/1911,Chelsea,Leeds City,4-1,4,1,Football League Second Division,2,H
+1911-04-14,1910/1911,Stockport County,Wolverhampton Wanderers,1-0,1,0,Football League Second Division,2,H
+1911-04-14,1910/1911,Birmingham City,Hull City,1-0,1,0,Football League Second Division,2,H
+1911-04-14,1910/1911,Lincoln City,Fulham,1-0,1,0,Football League Second Division,2,H
+1911-04-14,1910/1911,Barnsley,Leicester City,1-1,1,1,Football League Second Division,2,D
+1911-04-14,1910/1911,Blackpool,Burnley,1-0,1,0,Football League Second Division,2,H
+1911-04-15,1910/1911,Tottenham Hotspur,Bradford City,2-0,2,0,Football League First Division,1,H
+1911-04-15,1910/1911,Preston North End,Sunderland,0-2,0,2,Football League First Division,1,A
+1911-04-15,1910/1911,Oldham Athletic,Everton,2-0,2,0,Football League First Division,1,H
+1911-04-15,1910/1911,Notts County,Aston Villa,1-2,1,2,Football League First Division,1,A
+1911-04-15,1910/1911,Newcastle United,Blackburn Rovers,2-2,2,2,Football League First Division,1,D
+1911-04-15,1910/1911,Middlesbrough,Arsenal,1-1,1,1,Football League First Division,1,D
+1911-04-15,1910/1911,Manchester United,Sheffield United,1-1,1,1,Football League First Division,1,D
+1911-04-15,1910/1911,Liverpool,Bury,2-0,2,0,Football League First Division,1,H
+1911-04-15,1910/1911,Bristol City,Nottingham Forest,5-1,5,1,Football League First Division,1,H
+1911-04-15,1910/1911,Sheffield Wednesday,Manchester City,4-1,4,1,Football League First Division,1,H
+1911-04-15,1910/1911,Bradford Park Avenue,Chelsea,2-1,2,1,Football League Second Division,2,H
+1911-04-15,1910/1911,Burnley,Wolverhampton Wanderers,1-1,1,1,Football League Second Division,2,D
+1911-04-15,1910/1911,Fulham,Leyton Orient,1-1,1,1,Football League Second Division,2,D
+1911-04-15,1910/1911,Stockport County,Derby County,3-2,3,2,Football League Second Division,2,H
+1911-04-15,1910/1911,Hull City,Blackpool,1-1,1,1,Football League Second Division,2,D
+1911-04-15,1910/1911,Birmingham City,Lincoln City,0-1,0,1,Football League Second Division,2,A
+1911-04-15,1910/1911,West Bromwich Albion,Glossop North End,3-1,3,1,Football League Second Division,2,H
+1911-04-15,1910/1911,Gainsborough Trinity,Leicester City,2-0,2,0,Football League Second Division,2,H
+1911-04-15,1910/1911,Leeds City,Barnsley,0-0,0,0,Football League Second Division,2,D
+1911-04-17,1910/1911,Sheffield Wednesday,Manchester United,0-0,0,0,Football League First Division,1,D
+1911-04-17,1910/1911,Oldham Athletic,Sheffield United,3-0,3,0,Football League First Division,1,H
+1911-04-17,1910/1911,Liverpool,Arsenal,1-1,1,1,Football League First Division,1,D
+1911-04-17,1910/1911,Bradford City,Notts County,0-1,0,1,Football League First Division,1,A
+1911-04-17,1910/1911,Tottenham Hotspur,Everton,0-1,0,1,Football League First Division,1,A
+1911-04-17,1910/1911,West Bromwich Albion,Birmingham City,1-0,1,0,Football League Second Division,2,H
+1911-04-17,1910/1911,Leyton Orient,Leeds City,1-0,1,0,Football League Second Division,2,H
+1911-04-17,1910/1911,Leicester City,Derby County,1-2,1,2,Football League Second Division,2,A
+1911-04-17,1910/1911,Hull City,Huddersfield Town,2-2,2,2,Football League Second Division,2,D
+1911-04-17,1910/1911,Barnsley,Bolton Wanderers,0-0,0,0,Football League Second Division,2,D
+1911-04-17,1910/1911,Fulham,Lincoln City,0-0,0,0,Football League Second Division,2,D
+1911-04-18,1910/1911,Notts County,Middlesbrough,1-0,1,0,Football League First Division,1,H
+1911-04-18,1910/1911,Huddersfield Town,Chelsea,3-1,3,1,Football League Second Division,2,H
+1911-04-18,1910/1911,West Bromwich Albion,Gainsborough Trinity,2-1,2,1,Football League Second Division,2,H
+1911-04-22,1910/1911,Sunderland,Notts County,1-1,1,1,Football League First Division,1,D
+1911-04-22,1910/1911,Oldham Athletic,Bury,0-0,0,0,Football League First Division,1,D
+1911-04-22,1910/1911,Manchester City,Bristol City,1-2,1,2,Football League First Division,1,A
+1911-04-22,1910/1911,Everton,Sheffield Wednesday,1-1,1,1,Football League First Division,1,D
+1911-04-22,1910/1911,Blackburn Rovers,Tottenham Hotspur,3-0,3,0,Football League First Division,1,H
+1911-04-22,1910/1911,Aston Villa,Manchester United,4-2,4,2,Football League First Division,1,H
+1911-04-22,1910/1911,Arsenal,Preston North End,2-0,2,0,Football League First Division,1,H
+1911-04-22,1910/1911,Wolverhampton Wanderers,Gainsborough Trinity,1-1,1,1,Football League Second Division,2,D
+1911-04-22,1910/1911,Lincoln City,West Bromwich Albion,1-2,1,2,Football League Second Division,2,A
+1911-04-22,1910/1911,Leyton Orient,Bradford Park Avenue,1-0,1,0,Football League Second Division,2,H
+1911-04-22,1910/1911,Leicester City,Leeds City,2-1,2,1,Football League Second Division,2,H
+1911-04-22,1910/1911,Huddersfield Town,Birmingham City,7-1,7,1,Football League Second Division,2,H
+1911-04-22,1910/1911,Glossop North End,Hull City,0-0,0,0,Football League Second Division,2,D
+1911-04-22,1910/1911,Chelsea,Burnley,3-0,3,0,Football League Second Division,2,H
+1911-04-22,1910/1911,Blackpool,Fulham,1-2,1,2,Football League Second Division,2,A
+1911-04-22,1910/1911,Bolton Wanderers,Derby County,2-1,2,1,Football League Second Division,2,H
+1911-04-22,1910/1911,Barnsley,Stockport County,1-1,1,1,Football League Second Division,2,D
+1911-04-24,1910/1911,Blackburn Rovers,Aston Villa,0-0,0,0,Football League First Division,1,D
+1911-04-24,1910/1911,Stockport County,Hull City,1-1,1,1,Football League Second Division,2,D
+1911-04-24,1910/1911,Wolverhampton Wanderers,Lincoln City,2-1,2,1,Football League Second Division,2,H
+1911-04-26,1910/1911,Bolton Wanderers,Chelsea,2-0,2,0,Football League Second Division,2,H
+1911-04-27,1910/1911,Bradford City,Middlesbrough,1-0,1,0,Football League First Division,1,H
+1911-04-29,1910/1911,Preston North End,Bradford City,2-0,2,0,Football League First Division,1,H
+1911-04-29,1910/1911,Notts County,Arsenal,0-2,0,2,Football League First Division,1,A
+1911-04-29,1910/1911,Newcastle United,Manchester City,3-3,3,3,Football League First Division,1,D
+1911-04-29,1910/1911,Middlesbrough,Blackburn Rovers,2-3,2,3,Football League First Division,1,A
+1911-04-29,1910/1911,Manchester United,Sunderland,5-1,5,1,Football League First Division,1,H
+1911-04-29,1910/1911,Liverpool,Aston Villa,3-1,3,1,Football League First Division,1,H
+1911-04-29,1910/1911,Bury,Sheffield United,1-1,1,1,Football League First Division,1,D
+1911-04-29,1910/1911,Bristol City,Everton,0-1,0,1,Football League First Division,1,A
+1911-04-29,1910/1911,Sheffield Wednesday,Oldham Athletic,2-0,2,0,Football League First Division,1,H
+1911-04-29,1910/1911,Bradford Park Avenue,Blackpool,1-0,1,0,Football League Second Division,2,H
+1911-04-29,1910/1911,Stockport County,Leicester City,1-0,1,0,Football League Second Division,2,H
+1911-04-29,1910/1911,Leeds City,Wolverhampton Wanderers,1-0,1,0,Football League Second Division,2,H
+1911-04-29,1910/1911,Hull City,Lincoln City,2-1,2,1,Football League Second Division,2,H
+1911-04-29,1910/1911,Gainsborough Trinity,Chelsea,3-1,3,1,Football League Second Division,2,H
+1911-04-29,1910/1911,Fulham,Glossop North End,2-2,2,2,Football League Second Division,2,D
+1911-04-29,1910/1911,West Bromwich Albion,Huddersfield Town,1-0,1,0,Football League Second Division,2,H
+1911-04-29,1910/1911,Burnley,Leyton Orient,2-0,2,0,Football League Second Division,2,H
+1911-04-29,1910/1911,Birmingham City,Bolton Wanderers,2-1,2,1,Football League Second Division,2,H
+1911-04-29,1910/1911,Derby County,Barnsley,5-1,5,1,Football League Second Division,2,H

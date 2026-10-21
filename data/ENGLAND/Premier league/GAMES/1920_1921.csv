@@ -1,0 +1,1387 @@
+Date,Season,HomeTeam,AwayTeam,Score,hGoal,aGoal,Division,Tier,Result
+1920-08-28,1920/1921,Aston Villa,Arsenal,5-0,5,0,Football League First Division,1,H
+1920-08-28,1920/1921,Bradford Park Avenue,Everton,3-3,3,3,Football League First Division,1,D
+1920-08-28,1920/1921,Derby County,Chelsea,0-0,0,0,Football League First Division,1,D
+1920-08-28,1920/1921,Liverpool,Manchester City,4-2,4,2,Football League First Division,1,H
+1920-08-28,1920/1921,Manchester United,Bolton Wanderers,2-3,2,3,Football League First Division,1,A
+1920-08-28,1920/1921,Middlesbrough,Oldham Athletic,1-2,1,2,Football League First Division,1,A
+1920-08-28,1920/1921,Burnley,Bradford City,1-4,1,4,Football League First Division,1,A
+1920-08-28,1920/1921,Preston North End,Huddersfield Town,0-1,0,1,Football League First Division,1,A
+1920-08-28,1920/1921,Sheffield United,Sunderland,1-1,1,1,Football League First Division,1,D
+1920-08-28,1920/1921,Tottenham Hotspur,Blackburn Rovers,1-2,1,2,Football League First Division,1,A
+1920-08-28,1920/1921,Newcastle United,West Bromwich Albion,1-1,1,1,Football League First Division,1,D
+1920-08-28,1920/1921,Rotherham County,Coventry City,2-3,2,3,Football League Second Division,2,A
+1920-08-28,1920/1921,South Shields,Birmingham City,3-0,3,0,Football League Second Division,2,H
+1920-08-28,1920/1921,Stockport County,Cardiff City,2-5,2,5,Football League Second Division,2,A
+1920-08-28,1920/1921,West Ham United,Hull City,1-1,1,1,Football League Second Division,2,D
+1920-08-28,1920/1921,Port Vale,Leeds United,2-0,2,0,Football League Second Division,2,H
+1920-08-28,1920/1921,Nottingham Forest,Stoke City,2-2,2,2,Football League Second Division,2,D
+1920-08-28,1920/1921,Fulham,Wolverhampton Wanderers,2-0,2,0,Football League Second Division,2,H
+1920-08-28,1920/1921,Leyton Orient,Leicester City,2-0,2,0,Football League Second Division,2,H
+1920-08-28,1920/1921,Barnsley,Sheffield Wednesday,0-0,0,0,Football League Second Division,2,D
+1920-08-28,1920/1921,Bristol City,Notts County,0-1,0,1,Football League Second Division,2,A
+1920-08-28,1920/1921,Bury,Blackpool,2-2,2,2,Football League Second Division,2,D
+1920-08-28,1920/1921,Gillingham,Southampton,1-1,1,1,Football League Third Division,3,D
+1920-08-28,1920/1921,Exeter City,Brentford,3-0,3,0,Football League Third Division,3,H
+1920-08-28,1920/1921,Grimsby Town,Northampton Town,2-0,2,0,Football League Third Division,3,H
+1920-08-28,1920/1921,Portsmouth,Swansea City,3-0,3,0,Football League Third Division,3,H
+1920-08-28,1920/1921,Swindon Town,Luton Town,9-1,9,1,Football League Third Division,3,H
+1920-08-28,1920/1921,Newport County,Reading,0-1,0,1,Football League Third Division,3,A
+1920-08-28,1920/1921,Plymouth Argyle,Norwich City,1-1,1,1,Football League Third Division,3,D
+1920-08-28,1920/1921,Queens Park Rangers,Watford,1-2,1,2,Football League Third Division,3,A
+1920-08-28,1920/1921,Southend United,Brighton & Hove Albion,2-0,2,0,Football League Third Division,3,H
+1920-08-28,1920/1921,Merthyr Town,Crystal Palace,2-1,2,1,Football League Third Division,3,H
+1920-08-28,1920/1921,Millwall,Bristol Rovers,2-0,2,0,Football League Third Division,3,H
+1920-08-30,1920/1921,Oldham Athletic,Blackburn Rovers,1-0,1,0,Football League First Division,1,H
+1920-08-30,1920/1921,Middlesbrough,Preston North End,0-0,0,0,Football League First Division,1,D
+1920-08-30,1920/1921,Manchester City,Aston Villa,3-1,3,1,Football League First Division,1,H
+1920-08-30,1920/1921,Huddersfield Town,Burnley,1-0,1,0,Football League First Division,1,H
+1920-08-30,1920/1921,Derby County,Tottenham Hotspur,2-2,2,2,Football League First Division,1,D
+1920-08-30,1920/1921,Bradford City,Sheffield United,4-0,4,0,Football League First Division,1,H
+1920-08-30,1920/1921,Arsenal,Manchester United,2-0,2,0,Football League First Division,1,H
+1920-08-30,1920/1921,Fulham,Stockport County,3-1,3,1,Football League Second Division,2,H
+1920-08-30,1920/1921,Wolverhampton Wanderers,West Ham United,1-2,1,2,Football League Second Division,2,A
+1920-08-30,1920/1921,Stoke City,Rotherham County,2-0,2,0,Football League Second Division,2,H
+1920-08-30,1920/1921,Sheffield Wednesday,Nottingham Forest,0-0,0,0,Football League Second Division,2,D
+1920-08-30,1920/1921,Notts County,Barnsley,1-0,1,0,Football League Second Division,2,H
+1920-08-30,1920/1921,Coventry City,Port Vale,0-0,0,0,Football League Second Division,2,D
+1920-08-30,1920/1921,Blackpool,Bristol City,1-2,1,2,Football League Second Division,2,A
+1920-08-30,1920/1921,Birmingham City,Hull City,5-1,5,1,Football League Second Division,2,H
+1920-08-30,1920/1921,Cardiff City,Leyton Orient,0-0,0,0,Football League Second Division,2,D
+1920-08-30,1920/1921,Southampton,Swindon Town,4-0,4,0,Football League Third Division,3,H
+1920-08-30,1920/1921,Luton Town,Portsmouth,2-2,2,2,Football League Third Division,3,D
+1920-08-30,1920/1921,Grimsby Town,Southend United,1-0,1,0,Football League Third Division,3,H
+1920-08-30,1920/1921,Brentford,Millwall,1-0,1,0,Football League Third Division,3,H
+1920-09-01,1920/1921,West Bromwich Albion,Liverpool,1-1,1,1,Football League First Division,1,D
+1920-09-01,1920/1921,Sunderland,Bradford Park Avenue,5-1,5,1,Football League First Division,1,H
+1920-09-01,1920/1921,Everton,Newcastle United,3-1,3,1,Football League First Division,1,H
+1920-09-01,1920/1921,Chelsea,Bolton Wanderers,1-0,1,0,Football League First Division,1,H
+1920-09-01,1920/1921,Leeds United,South Shields,1-2,1,2,Football League Second Division,2,A
+1920-09-01,1920/1921,Exeter City,Norwich City,1-1,1,1,Football League Third Division,3,D
+1920-09-01,1920/1921,Crystal Palace,Plymouth Argyle,0-0,0,0,Football League Third Division,3,D
+1920-09-01,1920/1921,Bristol Rovers,Newport County,3-2,3,2,Football League Third Division,3,H
+1920-09-01,1920/1921,Brighton & Hove Albion,Merthyr Town,0-0,0,0,Football League Third Division,3,D
+1920-09-01,1920/1921,Reading,Gillingham,1-2,1,2,Football League Third Division,3,A
+1920-09-02,1920/1921,Leicester City,Bury,4-0,4,0,Football League Second Division,2,H
+1920-09-02,1920/1921,Queens Park Rangers,Northampton Town,1-2,1,2,Football League Third Division,3,A
+1920-09-02,1920/1921,Swansea City,Watford,2-1,2,1,Football League Third Division,3,H
+1920-09-04,1920/1921,Bradford City,Burnley,2-0,2,0,Football League First Division,1,H
+1920-09-04,1920/1921,Arsenal,Aston Villa,0-1,0,1,Football League First Division,1,A
+1920-09-04,1920/1921,Blackburn Rovers,Tottenham Hotspur,1-1,1,1,Football League First Division,1,D
+1920-09-04,1920/1921,Chelsea,Derby County,1-1,1,1,Football League First Division,1,D
+1920-09-04,1920/1921,Everton,Bradford Park Avenue,1-1,1,1,Football League First Division,1,D
+1920-09-04,1920/1921,Huddersfield Town,Preston North End,1-0,1,0,Football League First Division,1,H
+1920-09-04,1920/1921,Manchester City,Liverpool,3-2,3,2,Football League First Division,1,H
+1920-09-04,1920/1921,Bolton Wanderers,Manchester United,1-1,1,1,Football League First Division,1,D
+1920-09-04,1920/1921,Sunderland,Sheffield United,3-1,3,1,Football League First Division,1,H
+1920-09-04,1920/1921,West Bromwich Albion,Newcastle United,0-0,0,0,Football League First Division,1,D
+1920-09-04,1920/1921,Oldham Athletic,Middlesbrough,3-3,3,3,Football League First Division,1,D
+1920-09-04,1920/1921,Sheffield Wednesday,Barnsley,0-0,0,0,Football League Second Division,2,D
+1920-09-04,1920/1921,Stoke City,Nottingham Forest,4-0,4,0,Football League Second Division,2,H
+1920-09-04,1920/1921,Wolverhampton Wanderers,Fulham,1-0,1,0,Football League Second Division,2,H
+1920-09-04,1920/1921,Notts County,Bristol City,2-2,2,2,Football League Second Division,2,D
+1920-09-04,1920/1921,Leicester City,Leyton Orient,2-1,2,1,Football League Second Division,2,H
+1920-09-04,1920/1921,Hull City,West Ham United,2-1,2,1,Football League Second Division,2,H
+1920-09-04,1920/1921,Leeds United,Port Vale,3-1,3,1,Football League Second Division,2,H
+1920-09-04,1920/1921,Birmingham City,South Shields,1-1,1,1,Football League Second Division,2,D
+1920-09-04,1920/1921,Blackpool,Bury,0-1,0,1,Football League Second Division,2,A
+1920-09-04,1920/1921,Cardiff City,Stockport County,3-0,3,0,Football League Second Division,2,H
+1920-09-04,1920/1921,Coventry City,Rotherham County,0-1,0,1,Football League Second Division,2,A
+1920-09-04,1920/1921,Brentford,Exeter City,0-0,0,0,Football League Third Division,3,D
+1920-09-04,1920/1921,Brighton & Hove Albion,Southend United,1-0,1,0,Football League Third Division,3,H
+1920-09-04,1920/1921,Bristol Rovers,Millwall,1-2,1,2,Football League Third Division,3,A
+1920-09-04,1920/1921,Crystal Palace,Merthyr Town,3-0,3,0,Football League Third Division,3,H
+1920-09-04,1920/1921,Watford,Queens Park Rangers,0-2,0,2,Football League Third Division,3,A
+1920-09-04,1920/1921,Northampton Town,Grimsby Town,4-1,4,1,Football League Third Division,3,H
+1920-09-04,1920/1921,Norwich City,Plymouth Argyle,0-0,0,0,Football League Third Division,3,D
+1920-09-04,1920/1921,Reading,Newport County,4-0,4,0,Football League Third Division,3,H
+1920-09-04,1920/1921,Southampton,Gillingham,3-0,3,0,Football League Third Division,3,H
+1920-09-04,1920/1921,Swansea City,Portsmouth,0-0,0,0,Football League Third Division,3,D
+1920-09-04,1920/1921,Luton Town,Swindon Town,2-0,2,0,Football League Third Division,3,H
+1920-09-06,1920/1921,Liverpool,West Bromwich Albion,0-0,0,0,Football League First Division,1,D
+1920-09-06,1920/1921,Tottenham Hotspur,Derby County,2-0,2,0,Football League First Division,1,H
+1920-09-06,1920/1921,Sheffield United,Bradford City,4-1,4,1,Football League First Division,1,H
+1920-09-06,1920/1921,Preston North End,Middlesbrough,2-0,2,0,Football League First Division,1,H
+1920-09-06,1920/1921,Manchester United,Arsenal,1-1,1,1,Football League First Division,1,D
+1920-09-06,1920/1921,Burnley,Huddersfield Town,3-0,3,0,Football League First Division,1,H
+1920-09-06,1920/1921,Bolton Wanderers,Chelsea,3-1,3,1,Football League First Division,1,H
+1920-09-06,1920/1921,Aston Villa,Manchester City,3-1,3,1,Football League First Division,1,H
+1920-09-06,1920/1921,Port Vale,Coventry City,0-0,0,0,Football League Second Division,2,D
+1920-09-06,1920/1921,West Ham United,Wolverhampton Wanderers,1-0,1,0,Football League Second Division,2,H
+1920-09-06,1920/1921,Rotherham County,Stoke City,1-1,1,1,Football League Second Division,2,D
+1920-09-06,1920/1921,Leyton Orient,Cardiff City,2-0,2,0,Football League Second Division,2,H
+1920-09-06,1920/1921,Barnsley,Notts County,2-2,2,2,Football League Second Division,2,D
+1920-09-06,1920/1921,Hull City,Birmingham City,1-0,1,0,Football League Second Division,2,H
+1920-09-06,1920/1921,Swindon Town,Southampton,3-2,3,2,Football League Third Division,3,H
+1920-09-06,1920/1921,Southend United,Grimsby Town,3-1,3,1,Football League Third Division,3,H
+1920-09-06,1920/1921,Northampton Town,Queens Park Rangers,0-3,0,3,Football League Third Division,3,A
+1920-09-06,1920/1921,Millwall,Brentford,0-0,0,0,Football League Third Division,3,D
+1920-09-06,1920/1921,Merthyr Town,Brighton & Hove Albion,4-1,4,1,Football League Third Division,3,H
+1920-09-08,1920/1921,Newcastle United,Everton,2-0,2,0,Football League First Division,1,H
+1920-09-08,1920/1921,Bradford Park Avenue,Sunderland,1-1,1,1,Football League First Division,1,D
+1920-09-08,1920/1921,Bury,Leicester City,4-0,4,0,Football League Second Division,2,H
+1920-09-08,1920/1921,Bristol City,Blackpool,1-1,1,1,Football League Second Division,2,D
+1920-09-08,1920/1921,South Shields,Leeds United,3-0,3,0,Football League Second Division,2,H
+1920-09-08,1920/1921,Norwich City,Exeter City,0-0,0,0,Football League Third Division,3,D
+1920-09-08,1920/1921,Watford,Swansea City,3-0,3,0,Football League Third Division,3,H
+1920-09-08,1920/1921,Portsmouth,Luton Town,3-0,3,0,Football League Third Division,3,H
+1920-09-08,1920/1921,Plymouth Argyle,Crystal Palace,0-1,0,1,Football League Third Division,3,A
+1920-09-08,1920/1921,Gillingham,Reading,1-0,1,0,Football League Third Division,3,H
+1920-09-09,1920/1921,Newport County,Bristol Rovers,0-2,0,2,Football League Third Division,3,A
+1920-09-11,1920/1921,Arsenal,Manchester City,2-1,2,1,Football League First Division,1,H
+1920-09-11,1920/1921,Aston Villa,Tottenham Hotspur,4-2,4,2,Football League First Division,1,H
+1920-09-11,1920/1921,Blackburn Rovers,Sunderland,2-0,2,0,Football League First Division,1,H
+1920-09-11,1920/1921,Bolton Wanderers,West Bromwich Albion,3-0,3,0,Football League First Division,1,H
+1920-09-11,1920/1921,Bradford Park Avenue,Sheffield United,2-0,2,0,Football League First Division,1,H
+1920-09-11,1920/1921,Derby County,Everton,2-4,2,4,Football League First Division,1,A
+1920-09-11,1920/1921,Huddersfield Town,Bradford City,1-0,1,0,Football League First Division,1,H
+1920-09-11,1920/1921,Burnley,Middlesbrough,2-1,2,1,Football League First Division,1,H
+1920-09-11,1920/1921,Manchester United,Chelsea,3-1,3,1,Football League First Division,1,H
+1920-09-11,1920/1921,Newcastle United,Preston North End,4-2,4,2,Football League First Division,1,H
+1920-09-11,1920/1921,Liverpool,Oldham Athletic,5-2,5,2,Football League First Division,1,H
+1920-09-11,1920/1921,South Shields,Barnsley,3-2,3,2,Football League Second Division,2,H
+1920-09-11,1920/1921,Stockport County,Leyton Orient,6-0,6,0,Football League Second Division,2,H
+1920-09-11,1920/1921,Wolverhampton Wanderers,Bury,2-1,2,1,Football League Second Division,2,H
+1920-09-11,1920/1921,Sheffield Wednesday,Stoke City,1-3,1,3,Football League Second Division,2,A
+1920-09-11,1920/1921,Port Vale,Rotherham County,1-1,1,1,Football League Second Division,2,D
+1920-09-11,1920/1921,Nottingham Forest,Notts County,1-0,1,0,Football League Second Division,2,H
+1920-09-11,1920/1921,Leicester City,Leeds United,1-1,1,1,Football League Second Division,2,D
+1920-09-11,1920/1921,Blackpool,Coventry City,4-0,4,0,Football League Second Division,2,H
+1920-09-11,1920/1921,Cardiff City,Birmingham City,2-1,2,1,Football League Second Division,2,H
+1920-09-11,1920/1921,Fulham,West Ham United,0-0,0,0,Football League Second Division,2,D
+1920-09-11,1920/1921,Hull City,Bristol City,2-0,2,0,Football League Second Division,2,H
+1920-09-11,1920/1921,Exeter City,Millwall,4-0,4,0,Football League Third Division,3,H
+1920-09-11,1920/1921,Brentford,Brighton & Hove Albion,2-0,2,0,Football League Third Division,3,H
+1920-09-11,1920/1921,Bristol Rovers,Grimsby Town,2-0,2,0,Football League Third Division,3,H
+1920-09-11,1920/1921,Gillingham,Merthyr Town,0-0,0,0,Football League Third Division,3,D
+1920-09-11,1920/1921,Northampton Town,Watford,0-1,0,1,Football League Third Division,3,A
+1920-09-11,1920/1921,Norwich City,Crystal Palace,0-1,0,1,Football League Third Division,3,A
+1920-09-11,1920/1921,Plymouth Argyle,Newport County,5-1,5,1,Football League Third Division,3,H
+1920-09-11,1920/1921,Queens Park Rangers,Reading,2-0,2,0,Football League Third Division,3,H
+1920-09-11,1920/1921,Southampton,Portsmouth,2-0,2,0,Football League Third Division,3,H
+1920-09-11,1920/1921,Southend United,Swindon Town,1-3,1,3,Football League Third Division,3,A
+1920-09-11,1920/1921,Luton Town,Swansea City,3-0,3,0,Football League Third Division,3,H
+1920-09-13,1920/1921,Blackpool,Leyton Orient,2-2,2,2,Football League Second Division,2,D
+1920-09-13,1920/1921,Stockport County,Fulham,1-1,1,1,Football League Second Division,2,D
+1920-09-13,1920/1921,Northampton Town,Millwall,0-2,0,2,Football League Third Division,3,A
+1920-09-15,1920/1921,Bolton Wanderers,Aston Villa,5-0,5,0,Football League First Division,1,H
+1920-09-15,1920/1921,Gillingham,Portsmouth,1-1,1,1,Football League Third Division,3,D
+1920-09-16,1920/1921,Swansea City,Norwich City,5-2,5,2,Football League Third Division,3,H
+1920-09-18,1920/1921,Manchester City,Arsenal,3-1,3,1,Football League First Division,1,H
+1920-09-18,1920/1921,Bradford City,Huddersfield Town,0-2,0,2,Football League First Division,1,A
+1920-09-18,1920/1921,Chelsea,Manchester United,1-2,1,2,Football League First Division,1,A
+1920-09-18,1920/1921,Everton,Derby County,3-1,3,1,Football League First Division,1,H
+1920-09-18,1920/1921,Middlesbrough,Burnley,0-0,0,0,Football League First Division,1,D
+1920-09-18,1920/1921,Preston North End,Newcastle United,3-2,3,2,Football League First Division,1,H
+1920-09-18,1920/1921,Sheffield United,Bradford Park Avenue,2-0,2,0,Football League First Division,1,H
+1920-09-18,1920/1921,Oldham Athletic,Liverpool,0-0,0,0,Football League First Division,1,D
+1920-09-18,1920/1921,Tottenham Hotspur,Aston Villa,1-2,1,2,Football League First Division,1,A
+1920-09-18,1920/1921,West Bromwich Albion,Bolton Wanderers,2-1,2,1,Football League First Division,1,H
+1920-09-18,1920/1921,Sunderland,Blackburn Rovers,2-0,2,0,Football League First Division,1,H
+1920-09-18,1920/1921,West Ham United,Fulham,2-0,2,0,Football League Second Division,2,H
+1920-09-18,1920/1921,Stoke City,Sheffield Wednesday,0-1,0,1,Football League Second Division,2,A
+1920-09-18,1920/1921,Rotherham County,Port Vale,1-1,1,1,Football League Second Division,2,D
+1920-09-18,1920/1921,Notts County,Nottingham Forest,2-0,2,0,Football League Second Division,2,H
+1920-09-18,1920/1921,Leyton Orient,Stockport County,5-0,5,0,Football League Second Division,2,H
+1920-09-18,1920/1921,Coventry City,Blackpool,0-2,0,2,Football League Second Division,2,A
+1920-09-18,1920/1921,Leeds United,Leicester City,3-1,3,1,Football League Second Division,2,H
+1920-09-18,1920/1921,Barnsley,South Shields,1-1,1,1,Football League Second Division,2,D
+1920-09-18,1920/1921,Birmingham City,Cardiff City,1-1,1,1,Football League Second Division,2,D
+1920-09-18,1920/1921,Bristol City,Hull City,2-1,2,1,Football League Second Division,2,H
+1920-09-18,1920/1921,Bury,Wolverhampton Wanderers,3-1,3,1,Football League Second Division,2,H
+1920-09-18,1920/1921,Watford,Northampton Town,7-1,7,1,Football League Third Division,3,H
+1920-09-18,1920/1921,Swindon Town,Southend United,3-0,3,0,Football League Third Division,3,H
+1920-09-18,1920/1921,Swansea City,Luton Town,1-1,1,1,Football League Third Division,3,D
+1920-09-18,1920/1921,Reading,Queens Park Rangers,0-0,0,0,Football League Third Division,3,D
+1920-09-18,1920/1921,Portsmouth,Southampton,0-1,0,1,Football League Third Division,3,A
+1920-09-18,1920/1921,Newport County,Plymouth Argyle,0-0,0,0,Football League Third Division,3,D
+1920-09-18,1920/1921,Millwall,Exeter City,2-0,2,0,Football League Third Division,3,H
+1920-09-18,1920/1921,Merthyr Town,Gillingham,6-1,6,1,Football League Third Division,3,H
+1920-09-18,1920/1921,Grimsby Town,Bristol Rovers,3-1,3,1,Football League Third Division,3,H
+1920-09-18,1920/1921,Crystal Palace,Norwich City,1-0,1,0,Football League Third Division,3,H
+1920-09-18,1920/1921,Brighton & Hove Albion,Brentford,4-0,4,0,Football League Third Division,3,H
+1920-09-20,1920/1921,Blackburn Rovers,Oldham Athletic,5-1,5,1,Football League First Division,1,H
+1920-09-20,1920/1921,Rotherham County,Bristol City,0-0,0,0,Football League Second Division,2,D
+1920-09-22,1920/1921,Everton,Sheffield United,3-0,3,0,Football League First Division,1,H
+1920-09-25,1920/1921,Arsenal,Middlesbrough,2-2,2,2,Football League First Division,1,D
+1920-09-25,1920/1921,Newcastle United,Sheffield United,3-0,3,0,Football League First Division,1,H
+1920-09-25,1920/1921,Manchester United,Tottenham Hotspur,0-1,0,1,Football League First Division,1,A
+1920-09-25,1920/1921,Liverpool,Preston North End,6-0,6,0,Football League First Division,1,H
+1920-09-25,1920/1921,Huddersfield Town,Sunderland,0-0,0,0,Football League First Division,1,D
+1920-09-25,1920/1921,Derby County,West Bromwich Albion,1-1,1,1,Football League First Division,1,D
+1920-09-25,1920/1921,Burnley,Chelsea,4-0,4,0,Football League First Division,1,H
+1920-09-25,1920/1921,Bradford Park Avenue,Bradford City,1-2,1,2,Football League First Division,1,A
+1920-09-25,1920/1921,Bolton Wanderers,Manchester City,3-0,3,0,Football League First Division,1,H
+1920-09-25,1920/1921,Blackburn Rovers,Everton,0-0,0,0,Football League First Division,1,D
+1920-09-25,1920/1921,Aston Villa,Oldham Athletic,3-0,3,0,Football League First Division,1,H
+1920-09-25,1920/1921,Stockport County,Bury,1-2,1,2,Football League Second Division,2,A
+1920-09-25,1920/1921,Wolverhampton Wanderers,Bristol City,0-0,0,0,Football League Second Division,2,D
+1920-09-25,1920/1921,South Shields,Rotherham County,1-0,1,0,Football League Second Division,2,H
+1920-09-25,1920/1921,Sheffield Wednesday,Coventry City,3-0,3,0,Football League Second Division,2,H
+1920-09-25,1920/1921,Port Vale,Stoke City,2-1,2,1,Football League Second Division,2,H
+1920-09-25,1920/1921,Hull City,Barnsley,3-0,3,0,Football League Second Division,2,H
+1920-09-25,1920/1921,Leicester City,Birmingham City,3-0,3,0,Football League Second Division,2,H
+1920-09-25,1920/1921,Nottingham Forest,Leyton Orient,1-1,1,1,Football League Second Division,2,D
+1920-09-25,1920/1921,Fulham,Notts County,3-1,3,1,Football League Second Division,2,H
+1920-09-25,1920/1921,Cardiff City,West Ham United,0-0,0,0,Football League Second Division,2,D
+1920-09-25,1920/1921,Blackpool,Leeds United,1-0,1,0,Football League Second Division,2,H
+1920-09-25,1920/1921,Exeter City,Newport County,0-1,0,1,Football League Third Division,3,A
+1920-09-25,1920/1921,Bristol Rovers,Brighton & Hove Albion,3-1,3,1,Football League Third Division,3,H
+1920-09-25,1920/1921,Northampton Town,Swansea City,2-0,2,0,Football League Third Division,3,H
+1920-09-25,1920/1921,Brentford,Crystal Palace,0-4,0,4,Football League Third Division,3,A
+1920-09-25,1920/1921,Norwich City,Southampton,0-1,0,1,Football League Third Division,3,A
+1920-09-25,1920/1921,Portsmouth,Millwall,0-0,0,0,Football League Third Division,3,D
+1920-09-25,1920/1921,Queens Park Rangers,Luton Town,4-1,4,1,Football League Third Division,3,H
+1920-09-25,1920/1921,Reading,Grimsby Town,4-1,4,1,Football League Third Division,3,H
+1920-09-25,1920/1921,Swindon Town,Merthyr Town,3-0,3,0,Football League Third Division,3,H
+1920-09-25,1920/1921,Watford,Southend United,3-0,3,0,Football League Third Division,3,H
+1920-09-25,1920/1921,Plymouth Argyle,Gillingham,3-1,3,1,Football League Third Division,3,H
+1920-09-29,1920/1921,Brighton & Hove Albion,Grimsby Town,1-3,1,3,Football League Third Division,3,A
+1920-10-02,1920/1921,West Bromwich Albion,Derby County,3-0,3,0,Football League First Division,1,H
+1920-10-02,1920/1921,Tottenham Hotspur,Manchester United,4-1,4,1,Football League First Division,1,H
+1920-10-02,1920/1921,Sunderland,Huddersfield Town,2-1,2,1,Football League First Division,1,H
+1920-10-02,1920/1921,Sheffield United,Newcastle United,0-3,0,3,Football League First Division,1,A
+1920-10-02,1920/1921,Preston North End,Liverpool,2-3,2,3,Football League First Division,1,A
+1920-10-02,1920/1921,Oldham Athletic,Aston Villa,1-1,1,1,Football League First Division,1,D
+1920-10-02,1920/1921,Middlesbrough,Arsenal,2-1,2,1,Football League First Division,1,H
+1920-10-02,1920/1921,Manchester City,Bolton Wanderers,3-1,3,1,Football League First Division,1,H
+1920-10-02,1920/1921,Everton,Blackburn Rovers,2-1,2,1,Football League First Division,1,H
+1920-10-02,1920/1921,Chelsea,Burnley,1-1,1,1,Football League First Division,1,D
+1920-10-02,1920/1921,Bradford City,Bradford Park Avenue,2-1,2,1,Football League First Division,1,H
+1920-10-02,1920/1921,West Ham United,Cardiff City,1-1,1,1,Football League Second Division,2,D
+1920-10-02,1920/1921,Stoke City,Port Vale,0-1,0,1,Football League Second Division,2,A
+1920-10-02,1920/1921,Rotherham County,South Shields,5-4,5,4,Football League Second Division,2,H
+1920-10-02,1920/1921,Notts County,Fulham,2-1,2,1,Football League Second Division,2,H
+1920-10-02,1920/1921,Leyton Orient,Nottingham Forest,2-1,2,1,Football League Second Division,2,H
+1920-10-02,1920/1921,Leeds United,Blackpool,2-0,2,0,Football League Second Division,2,H
+1920-10-02,1920/1921,Bury,Stockport County,1-1,1,1,Football League Second Division,2,D
+1920-10-02,1920/1921,Bristol City,Wolverhampton Wanderers,2-0,2,0,Football League Second Division,2,H
+1920-10-02,1920/1921,Birmingham City,Leicester City,5-0,5,0,Football League Second Division,2,H
+1920-10-02,1920/1921,Barnsley,Hull City,0-0,0,0,Football League Second Division,2,D
+1920-10-02,1920/1921,Coventry City,Sheffield Wednesday,2-3,2,3,Football League Second Division,2,A
+1920-10-02,1920/1921,Southend United,Watford,4-1,4,1,Football League Third Division,3,H
+1920-10-02,1920/1921,Southampton,Norwich City,1-0,1,0,Football League Third Division,3,H
+1920-10-02,1920/1921,Swansea City,Northampton Town,2-2,2,2,Football League Third Division,3,D
+1920-10-02,1920/1921,Millwall,Portsmouth,1-0,1,0,Football League Third Division,3,H
+1920-10-02,1920/1921,Merthyr Town,Swindon Town,2-2,2,2,Football League Third Division,3,D
+1920-10-02,1920/1921,Luton Town,Queens Park Rangers,2-1,2,1,Football League Third Division,3,H
+1920-10-02,1920/1921,Grimsby Town,Reading,2-0,2,0,Football League Third Division,3,H
+1920-10-02,1920/1921,Gillingham,Plymouth Argyle,0-1,0,1,Football League Third Division,3,A
+1920-10-02,1920/1921,Crystal Palace,Brentford,4-2,4,2,Football League Third Division,3,H
+1920-10-02,1920/1921,Brighton & Hove Albion,Bristol Rovers,2-0,2,0,Football League Third Division,3,H
+1920-10-02,1920/1921,Newport County,Exeter City,2-0,2,0,Football League Third Division,3,H
+1920-10-04,1920/1921,Sheffield United,Everton,2-0,2,0,Football League First Division,1,H
+1920-10-04,1920/1921,Coventry City,West Ham United,0-1,0,1,Football League Second Division,2,A
+1920-10-07,1920/1921,Nottingham Forest,Sheffield Wednesday,4-2,4,2,Football League Second Division,2,H
+1920-10-09,1920/1921,Tottenham Hotspur,Chelsea,5-0,5,0,Football League First Division,1,H
+1920-10-09,1920/1921,Arsenal,Bolton Wanderers,0-0,0,0,Football League First Division,1,D
+1920-10-09,1920/1921,Aston Villa,Preston North End,1-0,1,0,Football League First Division,1,H
+1920-10-09,1920/1921,Blackburn Rovers,West Bromwich Albion,5-1,5,1,Football League First Division,1,H
+1920-10-09,1920/1921,Derby County,Manchester City,3-0,3,0,Football League First Division,1,H
+1920-10-09,1920/1921,Huddersfield Town,Everton,0-1,0,1,Football League First Division,1,A
+1920-10-09,1920/1921,Liverpool,Sheffield United,2-2,2,2,Football League First Division,1,D
+1920-10-09,1920/1921,Bradford Park Avenue,Burnley,1-3,1,3,Football League First Division,1,A
+1920-10-09,1920/1921,Middlesbrough,Bradford City,2-1,2,1,Football League First Division,1,H
+1920-10-09,1920/1921,Newcastle United,Sunderland,6-1,6,1,Football League First Division,1,H
+1920-10-09,1920/1921,Manchester United,Oldham Athletic,4-1,4,1,Football League First Division,1,H
+1920-10-09,1920/1921,South Shields,Coventry City,4-1,4,1,Football League Second Division,2,H
+1920-10-09,1920/1921,Stockport County,Bristol City,0-2,0,2,Football League Second Division,2,A
+1920-10-09,1920/1921,Stoke City,Notts County,1-0,1,0,Football League Second Division,2,H
+1920-10-09,1920/1921,Wolverhampton Wanderers,Barnsley,1-1,1,1,Football League Second Division,2,D
+1920-10-09,1920/1921,Sheffield Wednesday,Leeds United,2-0,2,0,Football League Second Division,2,H
+1920-10-09,1920/1921,Leicester City,West Ham United,1-0,1,0,Football League Second Division,2,H
+1920-10-09,1920/1921,Nottingham Forest,Port Vale,1-4,1,4,Football League Second Division,2,A
+1920-10-09,1920/1921,Blackpool,Birmingham City,3-0,3,0,Football League Second Division,2,H
+1920-10-09,1920/1921,Bury,Leyton Orient,0-1,0,1,Football League Second Division,2,A
+1920-10-09,1920/1921,Fulham,Cardiff City,0-3,0,3,Football League Second Division,2,A
+1920-10-09,1920/1921,Hull City,Rotherham County,1-1,1,1,Football League Second Division,2,D
+1920-10-09,1920/1921,Southampton,Swansea City,3-0,3,0,Football League Third Division,3,H
+1920-10-09,1920/1921,Bristol Rovers,Crystal Palace,2-1,2,1,Football League Third Division,3,H
+1920-10-09,1920/1921,Exeter City,Gillingham,2-1,2,1,Football League Third Division,3,H
+1920-10-09,1920/1921,Merthyr Town,Watford,2-0,2,0,Football League Third Division,3,H
+1920-10-09,1920/1921,Newport County,Millwall,3-1,3,1,Football League Third Division,3,H
+1920-10-09,1920/1921,Northampton Town,Portsmouth,1-0,1,0,Football League Third Division,3,H
+1920-10-09,1920/1921,Norwich City,Brentford,0-0,0,0,Football League Third Division,3,D
+1920-10-09,1920/1921,Plymouth Argyle,Swindon Town,0-0,0,0,Football League Third Division,3,D
+1920-10-09,1920/1921,Queens Park Rangers,Southend United,2-0,2,0,Football League Third Division,3,H
+1920-10-09,1920/1921,Reading,Brighton & Hove Albion,0-1,0,1,Football League Third Division,3,A
+1920-10-09,1920/1921,Luton Town,Grimsby Town,3-1,3,1,Football League Third Division,3,H
+1920-10-16,1920/1921,West Bromwich Albion,Blackburn Rovers,1-1,1,1,Football League First Division,1,D
+1920-10-16,1920/1921,Bolton Wanderers,Arsenal,1-1,1,1,Football League First Division,1,D
+1920-10-16,1920/1921,Sunderland,Newcastle United,0-2,0,2,Football League First Division,1,A
+1920-10-16,1920/1921,Sheffield United,Liverpool,0-1,0,1,Football League First Division,1,A
+1920-10-16,1920/1921,Preston North End,Aston Villa,6-1,6,1,Football League First Division,1,H
+1920-10-16,1920/1921,Oldham Athletic,Manchester United,2-2,2,2,Football League First Division,1,D
+1920-10-16,1920/1921,Manchester City,Derby County,0-0,0,0,Football League First Division,1,D
+1920-10-16,1920/1921,Everton,Huddersfield Town,0-0,0,0,Football League First Division,1,D
+1920-10-16,1920/1921,Chelsea,Tottenham Hotspur,0-4,0,4,Football League First Division,1,A
+1920-10-16,1920/1921,Burnley,Bradford Park Avenue,1-0,1,0,Football League First Division,1,H
+1920-10-16,1920/1921,Bradford City,Middlesbrough,0-1,0,1,Football League First Division,1,A
+1920-10-16,1920/1921,Port Vale,Nottingham Forest,0-1,0,1,Football League Second Division,2,A
+1920-10-16,1920/1921,Rotherham County,Hull City,1-1,1,1,Football League Second Division,2,D
+1920-10-16,1920/1921,West Ham United,Leicester City,0-1,0,1,Football League Second Division,2,A
+1920-10-16,1920/1921,Coventry City,South Shields,1-0,1,0,Football League Second Division,2,H
+1920-10-16,1920/1921,Notts County,Stoke City,3-0,3,0,Football League Second Division,2,H
+1920-10-16,1920/1921,Leyton Orient,Bury,1-0,1,0,Football League Second Division,2,H
+1920-10-16,1920/1921,Cardiff City,Fulham,3-0,3,0,Football League Second Division,2,H
+1920-10-16,1920/1921,Bristol City,Stockport County,5-1,5,1,Football League Second Division,2,H
+1920-10-16,1920/1921,Birmingham City,Blackpool,3-0,3,0,Football League Second Division,2,H
+1920-10-16,1920/1921,Barnsley,Wolverhampton Wanderers,3-2,3,2,Football League Second Division,2,H
+1920-10-16,1920/1921,Leeds United,Sheffield Wednesday,2-0,2,0,Football League Second Division,2,H
+1920-10-16,1920/1921,Crystal Palace,Bristol Rovers,3-0,3,0,Football League Third Division,3,H
+1920-10-16,1920/1921,Brentford,Norwich City,3-1,3,1,Football League Third Division,3,H
+1920-10-16,1920/1921,Brighton & Hove Albion,Reading,2-2,2,2,Football League Third Division,3,D
+1920-10-16,1920/1921,Gillingham,Exeter City,2-1,2,1,Football League Third Division,3,H
+1920-10-16,1920/1921,Millwall,Newport County,1-0,1,0,Football League Third Division,3,H
+1920-10-16,1920/1921,Portsmouth,Northampton Town,2-0,2,0,Football League Third Division,3,H
+1920-10-16,1920/1921,Southend United,Queens Park Rangers,1-0,1,0,Football League Third Division,3,H
+1920-10-16,1920/1921,Swansea City,Southampton,1-1,1,1,Football League Third Division,3,D
+1920-10-16,1920/1921,Swindon Town,Plymouth Argyle,1-1,1,1,Football League Third Division,3,D
+1920-10-16,1920/1921,Watford,Merthyr Town,1-0,1,0,Football League Third Division,3,H
+1920-10-16,1920/1921,Grimsby Town,Luton Town,0-1,0,1,Football League Third Division,3,A
+1920-10-20,1920/1921,Exeter City,Southend United,0-0,0,0,Football League Third Division,3,D
+1920-10-21,1920/1921,Newport County,Swindon Town,0-1,0,1,Football League Third Division,3,A
+1920-10-23,1920/1921,Blackburn Rovers,Manchester City,0-2,0,2,Football League First Division,1,A
+1920-10-23,1920/1921,Bradford City,Sunderland,2-2,2,2,Football League First Division,1,D
+1920-10-23,1920/1921,Chelsea,Oldham Athletic,1-1,1,1,Football League First Division,1,D
+1920-10-23,1920/1921,Derby County,Arsenal,1-1,1,1,Football League First Division,1,D
+1920-10-23,1920/1921,Huddersfield Town,West Bromwich Albion,5-1,5,1,Football League First Division,1,H
+1920-10-23,1920/1921,Liverpool,Everton,1-0,1,0,Football League First Division,1,H
+1920-10-23,1920/1921,Aston Villa,Sheffield United,4-0,4,0,Football League First Division,1,H
+1920-10-23,1920/1921,Middlesbrough,Bolton Wanderers,4-1,4,1,Football League First Division,1,H
+1920-10-23,1920/1921,Newcastle United,Bradford Park Avenue,2-1,2,1,Football League First Division,1,H
+1920-10-23,1920/1921,Tottenham Hotspur,Burnley,1-2,1,2,Football League First Division,1,A
+1920-10-23,1920/1921,Manchester United,Preston North End,1-0,1,0,Football League First Division,1,H
+1920-10-23,1920/1921,Wolverhampton Wanderers,Rotherham County,3-0,3,0,Football League Second Division,2,H
+1920-10-23,1920/1921,Stoke City,Coventry City,4-1,4,1,Football League Second Division,2,H
+1920-10-23,1920/1921,Stockport County,Barnsley,3-2,3,2,Football League Second Division,2,H
+1920-10-23,1920/1921,South Shields,Port Vale,6-1,6,1,Football League Second Division,2,H
+1920-10-23,1920/1921,Sheffield Wednesday,Birmingham City,1-2,1,2,Football League Second Division,2,A
+1920-10-23,1920/1921,Notts County,Cardiff City,1-2,1,2,Football League Second Division,2,A
+1920-10-23,1920/1921,Leicester City,Fulham,1-1,1,1,Football League Second Division,2,D
+1920-10-23,1920/1921,Leyton Orient,Bristol City,0-0,0,0,Football League Second Division,2,D
+1920-10-23,1920/1921,Blackpool,West Ham United,1-0,1,0,Football League Second Division,2,H
+1920-10-23,1920/1921,Bury,Nottingham Forest,2-2,2,2,Football League Second Division,2,D
+1920-10-23,1920/1921,Hull City,Leeds United,0-1,0,1,Football League Second Division,2,A
+1920-10-23,1920/1921,Swansea City,Queens Park Rangers,1-3,1,3,Football League Third Division,3,A
+1920-10-23,1920/1921,Southend United,Northampton Town,1-2,1,2,Football League Third Division,3,A
+1920-10-23,1920/1921,Southampton,Brentford,3-0,3,0,Football League Third Division,3,H
+1920-10-23,1920/1921,Reading,Crystal Palace,1-0,1,0,Football League Third Division,3,H
+1920-10-23,1920/1921,Newport County,Portsmouth,1-0,1,0,Football League Third Division,3,H
+1920-10-23,1920/1921,Millwall,Gillingham,4-0,4,0,Football League Third Division,3,H
+1920-10-23,1920/1921,Merthyr Town,Grimsby Town,3-1,3,1,Football League Third Division,3,H
+1920-10-23,1920/1921,Luton Town,Brighton & Hove Albion,3-2,3,2,Football League Third Division,3,H
+1920-10-23,1920/1921,Exeter City,Swindon Town,1-0,1,0,Football League Third Division,3,H
+1920-10-23,1920/1921,Bristol Rovers,Norwich City,2-2,2,2,Football League Third Division,3,D
+1920-10-23,1920/1921,Plymouth Argyle,Watford,0-2,0,2,Football League Third Division,3,A
+1920-10-30,1920/1921,Bolton Wanderers,Middlesbrough,6-2,6,2,Football League First Division,1,H
+1920-10-30,1920/1921,Bradford Park Avenue,Newcastle United,0-2,0,2,Football League First Division,1,A
+1920-10-30,1920/1921,Everton,Liverpool,0-3,0,3,Football League First Division,1,A
+1920-10-30,1920/1921,Manchester City,Blackburn Rovers,0-0,0,0,Football League First Division,1,D
+1920-10-30,1920/1921,Oldham Athletic,Chelsea,1-2,1,2,Football League First Division,1,A
+1920-10-30,1920/1921,Burnley,Tottenham Hotspur,2-0,2,0,Football League First Division,1,H
+1920-10-30,1920/1921,Sheffield United,Aston Villa,0-0,0,0,Football League First Division,1,D
+1920-10-30,1920/1921,Sunderland,Bradford City,0-0,0,0,Football League First Division,1,D
+1920-10-30,1920/1921,West Bromwich Albion,Huddersfield Town,3-0,3,0,Football League First Division,1,H
+1920-10-30,1920/1921,Preston North End,Manchester United,0-0,0,0,Football League First Division,1,D
+1920-10-30,1920/1921,Arsenal,Derby County,2-0,2,0,Football League First Division,1,H
+1920-10-30,1920/1921,Port Vale,South Shields,0-2,0,2,Football League Second Division,2,A
+1920-10-30,1920/1921,Rotherham County,Wolverhampton Wanderers,1-0,1,0,Football League Second Division,2,H
+1920-10-30,1920/1921,West Ham United,Blackpool,1-1,1,1,Football League Second Division,2,D
+1920-10-30,1920/1921,Nottingham Forest,Bury,4-2,4,2,Football League Second Division,2,H
+1920-10-30,1920/1921,Leeds United,Hull City,1-1,1,1,Football League Second Division,2,D
+1920-10-30,1920/1921,Birmingham City,Sheffield Wednesday,4-0,4,0,Football League Second Division,2,H
+1920-10-30,1920/1921,Coventry City,Stoke City,1-0,1,0,Football League Second Division,2,H
+1920-10-30,1920/1921,Fulham,Leicester City,1-1,1,1,Football League Second Division,2,D
+1920-10-30,1920/1921,Barnsley,Stockport County,2-0,2,0,Football League Second Division,2,H
+1920-10-30,1920/1921,Bristol City,Leyton Orient,2-0,2,0,Football League Second Division,2,H
+1920-10-30,1920/1921,Cardiff City,Notts County,1-1,1,1,Football League Second Division,2,D
+1920-10-30,1920/1921,Brentford,Southampton,1-1,1,1,Football League Third Division,3,D
+1920-10-30,1920/1921,Brighton & Hove Albion,Luton Town,1-1,1,1,Football League Third Division,3,D
+1920-10-30,1920/1921,Crystal Palace,Reading,2-0,2,0,Football League Third Division,3,H
+1920-10-30,1920/1921,Northampton Town,Southend United,1-0,1,0,Football League Third Division,3,H
+1920-10-30,1920/1921,Grimsby Town,Merthyr Town,1-1,1,1,Football League Third Division,3,D
+1920-10-30,1920/1921,Norwich City,Bristol Rovers,1-1,1,1,Football League Third Division,3,D
+1920-10-30,1920/1921,Portsmouth,Newport County,0-2,0,2,Football League Third Division,3,A
+1920-10-30,1920/1921,Queens Park Rangers,Swansea City,1-1,1,1,Football League Third Division,3,D
+1920-10-30,1920/1921,Swindon Town,Exeter City,1-1,1,1,Football League Third Division,3,D
+1920-10-30,1920/1921,Watford,Plymouth Argyle,1-1,1,1,Football League Third Division,3,D
+1920-10-30,1920/1921,Gillingham,Millwall,0-0,0,0,Football League Third Division,3,D
+1920-11-01,1920/1921,Rotherham County,Sheffield Wednesday,2-0,2,0,Football League Second Division,2,H
+1920-11-03,1920/1921,Crystal Palace,Southend United,2-3,2,3,Football League Third Division,3,A
+1920-11-06,1920/1921,Middlesbrough,Sunderland,2-0,2,0,Football League First Division,1,H
+1920-11-06,1920/1921,Huddersfield Town,Manchester City,0-1,0,1,Football League First Division,1,A
+1920-11-06,1920/1921,Aston Villa,West Bromwich Albion,0-0,0,0,Football League First Division,1,D
+1920-11-06,1920/1921,Blackburn Rovers,Arsenal,2-2,2,2,Football League First Division,1,D
+1920-11-06,1920/1921,Bradford City,Everton,2-2,2,2,Football League First Division,1,D
+1920-11-06,1920/1921,Derby County,Bolton Wanderers,0-0,0,0,Football League First Division,1,D
+1920-11-06,1920/1921,Liverpool,Bradford Park Avenue,0-1,0,1,Football League First Division,1,A
+1920-11-06,1920/1921,Manchester United,Sheffield United,2-1,2,1,Football League First Division,1,H
+1920-11-06,1920/1921,Chelsea,Preston North End,1-1,1,1,Football League First Division,1,D
+1920-11-06,1920/1921,Tottenham Hotspur,Oldham Athletic,5-1,5,1,Football League First Division,1,H
+1920-11-06,1920/1921,Newcastle United,Burnley,1-2,1,2,Football League First Division,1,A
+1920-11-06,1920/1921,Wolverhampton Wanderers,Birmingham City,0-3,0,3,Football League Second Division,2,A
+1920-11-06,1920/1921,Stoke City,Leeds United,4-0,4,0,Football League Second Division,2,H
+1920-11-06,1920/1921,Stockport County,Rotherham County,0-1,0,1,Football League Second Division,2,A
+1920-11-06,1920/1921,South Shields,Nottingham Forest,0-1,0,1,Football League Second Division,2,A
+1920-11-06,1920/1921,Notts County,Coventry City,1-1,1,1,Football League Second Division,2,D
+1920-11-06,1920/1921,Blackpool,Fulham,1-0,1,0,Football League Second Division,2,H
+1920-11-06,1920/1921,Bury,Bristol City,2-0,2,0,Football League Second Division,2,H
+1920-11-06,1920/1921,Hull City,Port Vale,1-1,1,1,Football League Second Division,2,D
+1920-11-06,1920/1921,Leicester City,Cardiff City,2-0,2,0,Football League Second Division,2,H
+1920-11-06,1920/1921,Sheffield Wednesday,West Ham United,0-1,0,1,Football League Second Division,2,A
+1920-11-06,1920/1921,Merthyr Town,Northampton Town,1-0,1,0,Football League Third Division,3,H
+1920-11-06,1920/1921,Bristol Rovers,Brentford,2-1,2,1,Football League Third Division,3,H
+1920-11-06,1920/1921,Exeter City,Watford,1-2,1,2,Football League Third Division,3,A
+1920-11-06,1920/1921,Luton Town,Crystal Palace,2-2,2,2,Football League Third Division,3,D
+1920-11-06,1920/1921,Newport County,Gillingham,1-0,1,0,Football League Third Division,3,H
+1920-11-06,1920/1921,Plymouth Argyle,Brighton & Hove Albion,5-0,5,0,Football League Third Division,3,H
+1920-11-06,1920/1921,Reading,Norwich City,0-1,0,1,Football League Third Division,3,A
+1920-11-06,1920/1921,Southampton,Queens Park Rangers,2-2,2,2,Football League Third Division,3,D
+1920-11-06,1920/1921,Southend United,Portsmouth,2-1,2,1,Football League Third Division,3,H
+1920-11-06,1920/1921,Swansea City,Grimsby Town,3-1,3,1,Football League Third Division,3,H
+1920-11-06,1920/1921,Millwall,Swindon Town,5-0,5,0,Football League Third Division,3,H
+1920-11-13,1920/1921,Bolton Wanderers,Derby County,1-0,1,0,Football League First Division,1,H
+1920-11-13,1920/1921,Bradford Park Avenue,Liverpool,1-3,1,3,Football League First Division,1,A
+1920-11-13,1920/1921,Burnley,Newcastle United,3-1,3,1,Football League First Division,1,H
+1920-11-13,1920/1921,Everton,Bradford City,2-2,2,2,Football League First Division,1,D
+1920-11-13,1920/1921,Manchester City,Huddersfield Town,3-2,3,2,Football League First Division,1,H
+1920-11-13,1920/1921,Oldham Athletic,Tottenham Hotspur,2-5,2,5,Football League First Division,1,A
+1920-11-13,1920/1921,Arsenal,Blackburn Rovers,2-0,2,0,Football League First Division,1,H
+1920-11-13,1920/1921,Sheffield United,Manchester United,0-0,0,0,Football League First Division,1,D
+1920-11-13,1920/1921,Sunderland,Middlesbrough,1-2,1,2,Football League First Division,1,A
+1920-11-13,1920/1921,West Bromwich Albion,Aston Villa,2-1,2,1,Football League First Division,1,H
+1920-11-13,1920/1921,Preston North End,Chelsea,0-1,0,1,Football League First Division,1,A
+1920-11-13,1920/1921,Nottingham Forest,South Shields,1-2,1,2,Football League Second Division,2,A
+1920-11-13,1920/1921,Port Vale,Hull City,4-0,4,0,Football League Second Division,2,H
+1920-11-13,1920/1921,Rotherham County,Stockport County,1-0,1,0,Football League Second Division,2,H
+1920-11-13,1920/1921,West Ham United,Sheffield Wednesday,4-0,4,0,Football League Second Division,2,H
+1920-11-13,1920/1921,Leeds United,Stoke City,0-0,0,0,Football League Second Division,2,D
+1920-11-13,1920/1921,Fulham,Blackpool,1-2,1,2,Football League Second Division,2,A
+1920-11-13,1920/1921,Cardiff City,Leicester City,2-0,2,0,Football League Second Division,2,H
+1920-11-13,1920/1921,Coventry City,Notts County,1-1,1,1,Football League Second Division,2,D
+1920-11-13,1920/1921,Barnsley,Leyton Orient,1-0,1,0,Football League Second Division,2,H
+1920-11-13,1920/1921,Birmingham City,Wolverhampton Wanderers,4-1,4,1,Football League Second Division,2,H
+1920-11-13,1920/1921,Bristol City,Bury,1-0,1,0,Football League Second Division,2,H
+1920-11-13,1920/1921,Brighton & Hove Albion,Plymouth Argyle,1-0,1,0,Football League Third Division,3,H
+1920-11-13,1920/1921,Brentford,Bristol Rovers,0-0,0,0,Football League Third Division,3,D
+1920-11-13,1920/1921,Swindon Town,Millwall,4-1,4,1,Football League Third Division,3,H
+1920-11-13,1920/1921,Grimsby Town,Swansea City,0-2,0,2,Football League Third Division,3,A
+1920-11-13,1920/1921,Northampton Town,Merthyr Town,2-2,2,2,Football League Third Division,3,D
+1920-11-13,1920/1921,Norwich City,Reading,2-0,2,0,Football League Third Division,3,H
+1920-11-13,1920/1921,Portsmouth,Southend United,3-0,3,0,Football League Third Division,3,H
+1920-11-13,1920/1921,Queens Park Rangers,Southampton,0-0,0,0,Football League Third Division,3,D
+1920-11-13,1920/1921,Watford,Exeter City,0-0,0,0,Football League Third Division,3,D
+1920-11-13,1920/1921,Gillingham,Newport County,1-4,1,4,Football League Third Division,3,A
+1920-11-13,1920/1921,Crystal Palace,Luton Town,2-1,2,1,Football League Third Division,3,H
+1920-11-20,1920/1921,Newcastle United,Liverpool,2-0,2,0,Football League First Division,1,H
+1920-11-20,1920/1921,Aston Villa,Bradford Park Avenue,4-1,4,1,Football League First Division,1,H
+1920-11-20,1920/1921,Blackburn Rovers,Bolton Wanderers,2-2,2,2,Football League First Division,1,D
+1920-11-20,1920/1921,Chelsea,Sheffield United,2-1,2,1,Football League First Division,1,H
+1920-11-20,1920/1921,Huddersfield Town,Arsenal,0-4,0,4,Football League First Division,1,A
+1920-11-20,1920/1921,Everton,Sunderland,1-1,1,1,Football League First Division,1,D
+1920-11-20,1920/1921,Middlesbrough,Derby County,1-0,1,0,Football League First Division,1,H
+1920-11-20,1920/1921,Oldham Athletic,Burnley,2-2,2,2,Football League First Division,1,D
+1920-11-20,1920/1921,Tottenham Hotspur,Preston North End,1-2,1,2,Football League First Division,1,A
+1920-11-20,1920/1921,Manchester United,Manchester City,1-1,1,1,Football League First Division,1,D
+1920-11-20,1920/1921,South Shields,Hull City,0-0,0,0,Football League Second Division,2,D
+1920-11-20,1920/1921,Stockport County,West Ham United,2-0,2,0,Football League Second Division,2,H
+1920-11-20,1920/1921,Stoke City,Birmingham City,1-2,1,2,Football League Second Division,2,A
+1920-11-20,1920/1921,Wolverhampton Wanderers,Port Vale,2-2,2,2,Football League Second Division,2,D
+1920-11-20,1920/1921,Sheffield Wednesday,Fulham,3-0,3,0,Football League Second Division,2,H
+1920-11-20,1920/1921,Notts County,Leicester City,1-1,1,1,Football League Second Division,2,D
+1920-11-20,1920/1921,Bury,Barnsley,0-0,0,0,Football League Second Division,2,D
+1920-11-20,1920/1921,Leyton Orient,Rotherham County,2-0,2,0,Football League Second Division,2,H
+1920-11-20,1920/1921,Blackpool,Cardiff City,2-4,2,4,Football League Second Division,2,A
+1920-11-20,1920/1921,Bristol City,Nottingham Forest,1-0,1,0,Football League Second Division,2,H
+1920-11-20,1920/1921,Exeter City,Crystal Palace,1-1,1,1,Football League Third Division,3,D
+1920-11-20,1920/1921,Millwall,Watford,1-0,1,0,Football League Third Division,3,H
+1920-11-20,1920/1921,Luton Town,Norwich City,4-0,4,0,Football League Third Division,3,H
+1920-11-20,1920/1921,Plymouth Argyle,Northampton Town,0-2,0,2,Football League Third Division,3,A
+1920-11-20,1920/1921,Reading,Brentford,2-1,2,1,Football League Third Division,3,H
+1920-11-20,1920/1921,Southampton,Bristol Rovers,4-0,4,0,Football League Third Division,3,H
+1920-11-20,1920/1921,Swansea City,Brighton & Hove Albion,0-0,0,0,Football League Third Division,3,D
+1920-11-20,1920/1921,Grimsby Town,Queens Park Rangers,2-1,2,1,Football League Third Division,3,H
+1920-11-22,1920/1921,Merthyr Town,Southend United,2-0,2,0,Football League Third Division,3,H
+1920-11-25,1920/1921,Leyton Orient,Barnsley,3-2,3,2,Football League Second Division,2,H
+1920-11-27,1920/1921,Bradford Park Avenue,Aston Villa,4-0,4,0,Football League First Division,1,H
+1920-11-27,1920/1921,Burnley,Oldham Athletic,7-1,7,1,Football League First Division,1,H
+1920-11-27,1920/1921,Derby County,Middlesbrough,0-1,0,1,Football League First Division,1,A
+1920-11-27,1920/1921,Liverpool,Newcastle United,0-1,0,1,Football League First Division,1,A
+1920-11-27,1920/1921,Manchester City,Manchester United,3-0,3,0,Football League First Division,1,H
+1920-11-27,1920/1921,Preston North End,Tottenham Hotspur,4-1,4,1,Football League First Division,1,H
+1920-11-27,1920/1921,Sheffield United,Chelsea,0-1,0,1,Football League First Division,1,A
+1920-11-27,1920/1921,Bolton Wanderers,Blackburn Rovers,2-1,2,1,Football League First Division,1,H
+1920-11-27,1920/1921,West Bromwich Albion,Bradford City,2-0,2,0,Football League First Division,1,H
+1920-11-27,1920/1921,Arsenal,Huddersfield Town,2-0,2,0,Football League First Division,1,H
+1920-11-27,1920/1921,Sunderland,Everton,0-2,0,2,Football League First Division,1,A
+1920-11-27,1920/1921,Port Vale,Wolverhampton Wanderers,2-3,2,3,Football League Second Division,2,A
+1920-11-27,1920/1921,Rotherham County,Leyton Orient,0-0,0,0,Football League Second Division,2,D
+1920-11-27,1920/1921,West Ham United,Stockport County,5-0,5,0,Football League Second Division,2,H
+1920-11-27,1920/1921,Leicester City,Notts County,0-3,0,3,Football League Second Division,2,A
+1920-11-27,1920/1921,Hull City,South Shields,0-2,0,2,Football League Second Division,2,A
+1920-11-27,1920/1921,Nottingham Forest,Bristol City,0-1,0,1,Football League Second Division,2,A
+1920-11-27,1920/1921,Coventry City,Leeds United,1-1,1,1,Football League Second Division,2,D
+1920-11-27,1920/1921,Fulham,Sheffield Wednesday,2-0,2,0,Football League Second Division,2,H
+1920-11-27,1920/1921,Barnsley,Bury,5-0,5,0,Football League Second Division,2,H
+1920-11-27,1920/1921,Birmingham City,Stoke City,3-0,3,0,Football League Second Division,2,H
+1920-11-27,1920/1921,Cardiff City,Blackpool,0-0,0,0,Football League Second Division,2,D
+1920-11-27,1920/1921,Bristol Rovers,Southampton,1-2,1,2,Football League Third Division,3,A
+1920-11-27,1920/1921,Brentford,Reading,3-2,3,2,Football League Third Division,3,H
+1920-11-27,1920/1921,Crystal Palace,Exeter City,2-1,2,1,Football League Third Division,3,H
+1920-11-27,1920/1921,Northampton Town,Plymouth Argyle,1-1,1,1,Football League Third Division,3,D
+1920-11-27,1920/1921,Brighton & Hove Albion,Swansea City,1-1,1,1,Football League Third Division,3,D
+1920-11-27,1920/1921,Portsmouth,Gillingham,2-2,2,2,Football League Third Division,3,D
+1920-11-27,1920/1921,Queens Park Rangers,Grimsby Town,2-0,2,0,Football League Third Division,3,H
+1920-11-27,1920/1921,Southend United,Merthyr Town,0-1,0,1,Football League Third Division,3,A
+1920-11-27,1920/1921,Swindon Town,Newport County,5-0,5,0,Football League Third Division,3,H
+1920-11-27,1920/1921,Watford,Millwall,1-0,1,0,Football League Third Division,3,H
+1920-11-27,1920/1921,Norwich City,Luton Town,3-0,3,0,Football League Third Division,3,H
+1920-12-01,1920/1921,Leeds United,Coventry City,4-0,4,0,Football League Second Division,2,H
+1920-12-04,1920/1921,Blackburn Rovers,Derby County,2-0,2,0,Football League First Division,1,H
+1920-12-04,1920/1921,Bradford City,Manchester City,1-2,1,2,Football League First Division,1,A
+1920-12-04,1920/1921,Chelsea,Arsenal,1-2,1,2,Football League First Division,1,A
+1920-12-04,1920/1921,Liverpool,Burnley,0-0,0,0,Football League First Division,1,D
+1920-12-04,1920/1921,Manchester United,Bradford Park Avenue,5-1,5,1,Football League First Division,1,H
+1920-12-04,1920/1921,Huddersfield Town,Bolton Wanderers,0-0,0,0,Football League First Division,1,D
+1920-12-04,1920/1921,Newcastle United,Aston Villa,2-1,2,1,Football League First Division,1,H
+1920-12-04,1920/1921,Oldham Athletic,Preston North End,0-2,0,2,Football League First Division,1,A
+1920-12-04,1920/1921,Tottenham Hotspur,Sheffield United,4-1,4,1,Football League First Division,1,H
+1920-12-04,1920/1921,West Bromwich Albion,Sunderland,4-1,4,1,Football League First Division,1,H
+1920-12-04,1920/1921,Middlesbrough,Everton,3-1,3,1,Football League First Division,1,H
+1920-12-04,1920/1921,Notts County,Leeds United,1-2,1,2,Football League Second Division,2,A
+1920-12-04,1920/1921,Sheffield Wednesday,Cardiff City,0-1,0,1,Football League Second Division,2,A
+1920-12-04,1920/1921,South Shields,Wolverhampton Wanderers,1-2,1,2,Football League Second Division,2,A
+1920-12-04,1920/1921,Stockport County,Port Vale,0-0,0,0,Football League Second Division,2,D
+1920-12-04,1920/1921,Stoke City,West Ham United,1-0,1,0,Football League Second Division,2,H
+1920-12-04,1920/1921,Leyton Orient,Fulham,3-0,3,0,Football League Second Division,2,H
+1920-12-04,1920/1921,Hull City,Nottingham Forest,0-3,0,3,Football League Second Division,2,A
+1920-12-04,1920/1921,Bristol City,Barnsley,1-0,1,0,Football League Second Division,2,H
+1920-12-04,1920/1921,Bury,Rotherham County,1-0,1,0,Football League Second Division,2,H
+1920-12-04,1920/1921,Birmingham City,Coventry City,3-2,3,2,Football League Second Division,2,H
+1920-12-04,1920/1921,Blackpool,Leicester City,2-0,2,0,Football League Second Division,2,H
+1920-12-04,1920/1921,Brighton & Hove Albion,Queens Park Rangers,2-1,2,1,Football League Third Division,3,H
+1920-12-04,1920/1921,Norwich City,Millwall,2-0,2,0,Football League Third Division,3,H
+1920-12-04,1920/1921,Luton Town,Brentford,2-0,2,0,Football League Third Division,3,H
+1920-12-04,1920/1921,Newport County,Watford,0-2,0,2,Football League Third Division,3,A
+1920-12-04,1920/1921,Reading,Bristol Rovers,2-1,2,1,Football League Third Division,3,H
+1920-12-04,1920/1921,Southend United,Plymouth Argyle,2-1,2,1,Football League Third Division,3,H
+1920-12-04,1920/1921,Swansea City,Crystal Palace,0-0,0,0,Football League Third Division,3,D
+1920-12-04,1920/1921,Exeter City,Northampton Town,4-0,4,0,Football League Third Division,3,H
+1920-12-04,1920/1921,Southampton,Grimsby Town,0-1,0,1,Football League Third Division,3,A
+1920-12-11,1920/1921,Arsenal,Chelsea,1-1,1,1,Football League First Division,1,D
+1920-12-11,1920/1921,Bolton Wanderers,Huddersfield Town,3-1,3,1,Football League First Division,1,H
+1920-12-11,1920/1921,Bradford Park Avenue,Manchester United,2-4,2,4,Football League First Division,1,A
+1920-12-11,1920/1921,Burnley,Liverpool,1-0,1,0,Football League First Division,1,H
+1920-12-11,1920/1921,Derby County,Blackburn Rovers,0-1,0,1,Football League First Division,1,A
+1920-12-11,1920/1921,Everton,Middlesbrough,2-1,2,1,Football League First Division,1,H
+1920-12-11,1920/1921,Aston Villa,Newcastle United,0-0,0,0,Football League First Division,1,D
+1920-12-11,1920/1921,Preston North End,Oldham Athletic,4-0,4,0,Football League First Division,1,H
+1920-12-11,1920/1921,Sheffield United,Tottenham Hotspur,1-1,1,1,Football League First Division,1,D
+1920-12-11,1920/1921,Sunderland,West Bromwich Albion,3-0,3,0,Football League First Division,1,H
+1920-12-11,1920/1921,Manchester City,Bradford City,1-0,1,0,Football League First Division,1,H
+1920-12-11,1920/1921,Port Vale,Stockport County,6-1,6,1,Football League Second Division,2,H
+1920-12-11,1920/1921,Rotherham County,Bury,0-5,0,5,Football League Second Division,2,A
+1920-12-11,1920/1921,West Ham United,Stoke City,1-0,1,0,Football League Second Division,2,H
+1920-12-11,1920/1921,Wolverhampton Wanderers,South Shields,3-0,3,0,Football League Second Division,2,H
+1920-12-11,1920/1921,Nottingham Forest,Hull City,2-0,2,0,Football League Second Division,2,H
+1920-12-11,1920/1921,Fulham,Leyton Orient,1-0,1,0,Football League Second Division,2,H
+1920-12-11,1920/1921,Leeds United,Notts County,3-0,3,0,Football League Second Division,2,H
+1920-12-11,1920/1921,Leicester City,Blackpool,0-1,0,1,Football League Second Division,2,A
+1920-12-11,1920/1921,Barnsley,Bristol City,1-1,1,1,Football League Second Division,2,D
+1920-12-11,1920/1921,Cardiff City,Sheffield Wednesday,1-0,1,0,Football League Second Division,2,H
+1920-12-11,1920/1921,Coventry City,Birmingham City,0-4,0,4,Football League Second Division,2,A
+1920-12-11,1920/1921,Bristol Rovers,Reading,3-2,3,2,Football League Third Division,3,H
+1920-12-11,1920/1921,Brentford,Luton Town,1-0,1,0,Football League Third Division,3,H
+1920-12-11,1920/1921,Crystal Palace,Swansea City,0-1,0,1,Football League Third Division,3,A
+1920-12-11,1920/1921,Swindon Town,Gillingham,1-1,1,1,Football League Third Division,3,D
+1920-12-11,1920/1921,Millwall,Norwich City,2-0,2,0,Football League Third Division,3,H
+1920-12-11,1920/1921,Northampton Town,Exeter City,3-3,3,3,Football League Third Division,3,D
+1920-12-11,1920/1921,Plymouth Argyle,Southend United,0-0,0,0,Football League Third Division,3,D
+1920-12-11,1920/1921,Portsmouth,Merthyr Town,0-0,0,0,Football League Third Division,3,D
+1920-12-11,1920/1921,Queens Park Rangers,Brighton & Hove Albion,4-0,4,0,Football League Third Division,3,H
+1920-12-11,1920/1921,Watford,Newport County,5-1,5,1,Football League Third Division,3,H
+1920-12-11,1920/1921,Grimsby Town,Southampton,3-0,3,0,Football League Third Division,3,H
+1920-12-18,1920/1921,West Bromwich Albion,Everton,1-2,1,2,Football League First Division,1,A
+1920-12-18,1920/1921,Blackburn Rovers,Middlesbrough,3-2,3,2,Football League First Division,1,H
+1920-12-18,1920/1921,Bradford City,Arsenal,3-1,3,1,Football League First Division,1,H
+1920-12-18,1920/1921,Chelsea,Bradford Park Avenue,4-1,4,1,Football League First Division,1,H
+1920-12-18,1920/1921,Huddersfield Town,Derby County,2-0,2,0,Football League First Division,1,H
+1920-12-18,1920/1921,Liverpool,Aston Villa,4-1,4,1,Football League First Division,1,H
+1920-12-18,1920/1921,Burnley,Preston North End,2-0,2,0,Football League First Division,1,H
+1920-12-18,1920/1921,Oldham Athletic,Sheffield United,0-0,0,0,Football League First Division,1,D
+1920-12-18,1920/1921,Sunderland,Manchester City,1-0,1,0,Football League First Division,1,H
+1920-12-18,1920/1921,Tottenham Hotspur,Bolton Wanderers,5-2,5,2,Football League First Division,1,H
+1920-12-18,1920/1921,Manchester United,Newcastle United,2-0,2,0,Football League First Division,1,H
+1920-12-18,1920/1921,Nottingham Forest,Barnsley,0-0,0,0,Football League Second Division,2,D
+1920-12-18,1920/1921,Sheffield Wednesday,Leicester City,0-0,0,0,Football League Second Division,2,D
+1920-12-18,1920/1921,Stockport County,South Shields,0-0,0,0,Football League Second Division,2,D
+1920-12-18,1920/1921,Stoke City,Fulham,1-2,1,2,Football League Second Division,2,A
+1920-12-18,1920/1921,Hull City,Wolverhampton Wanderers,0-1,0,1,Football League Second Division,2,A
+1920-12-18,1920/1921,Blackpool,Notts County,0-2,0,2,Football League Second Division,2,A
+1920-12-18,1920/1921,Cardiff City,Bury,2-1,2,1,Football League Second Division,2,H
+1920-12-18,1920/1921,Birmingham City,Leeds United,1-0,1,0,Football League Second Division,2,H
+1920-12-18,1920/1921,Queens Park Rangers,Crystal Palace,3-0,3,0,Football League Third Division,3,H
+1920-12-18,1920/1921,Merthyr Town,Plymouth Argyle,0-0,0,0,Football League Third Division,3,D
+1920-12-18,1920/1921,Portsmouth,Swindon Town,1-1,1,1,Football League Third Division,3,D
+1920-12-18,1920/1921,Reading,Southampton,0-4,0,4,Football League Third Division,3,A
+1920-12-18,1920/1921,Brentford,Newport County,2-2,2,2,Football League Third Division,3,D
+1920-12-25,1920/1921,Blackburn Rovers,Preston North End,2-2,2,2,Football League First Division,1,D
+1920-12-25,1920/1921,Bolton Wanderers,Sunderland,6-2,6,2,Football League First Division,1,H
+1920-12-25,1920/1921,Bradford City,Derby County,2-2,2,2,Football League First Division,1,D
+1920-12-25,1920/1921,Burnley,Sheffield United,6-0,6,0,Football League First Division,1,H
+1920-12-25,1920/1921,Chelsea,Liverpool,1-1,1,1,Football League First Division,1,D
+1920-12-25,1920/1921,Everton,Arsenal,2-4,2,4,Football League First Division,1,A
+1920-12-25,1920/1921,Aston Villa,Manchester United,3-4,3,4,Football League First Division,1,A
+1920-12-25,1920/1921,Middlesbrough,Huddersfield Town,2-0,2,0,Football League First Division,1,H
+1920-12-25,1920/1921,Newcastle United,Tottenham Hotspur,1-1,1,1,Football League First Division,1,D
+1920-12-25,1920/1921,Oldham Athletic,Bradford Park Avenue,1-0,1,0,Football League First Division,1,H
+1920-12-25,1920/1921,Manchester City,West Bromwich Albion,4-0,4,0,Football League First Division,1,H
+1920-12-25,1920/1921,Sheffield Wednesday,Notts County,1-1,1,1,Football League Second Division,2,D
+1920-12-25,1920/1921,Stockport County,Wolverhampton Wanderers,1-2,1,2,Football League Second Division,2,A
+1920-12-25,1920/1921,West Ham United,Birmingham City,1-1,1,1,Football League Second Division,2,D
+1920-12-25,1920/1921,Nottingham Forest,Rotherham County,6-1,6,1,Football League Second Division,2,H
+1920-12-25,1920/1921,Leyton Orient,Hull City,1-1,1,1,Football League Second Division,2,D
+1920-12-25,1920/1921,Port Vale,Bristol City,0-2,0,2,Football League Second Division,2,A
+1920-12-25,1920/1921,Leeds United,Fulham,0-0,0,0,Football League Second Division,2,D
+1920-12-25,1920/1921,Leicester City,Stoke City,3-1,3,1,Football League Second Division,2,H
+1920-12-25,1920/1921,Blackpool,Barnsley,1-0,1,0,Football League Second Division,2,H
+1920-12-25,1920/1921,Bury,South Shields,1-0,1,0,Football League Second Division,2,H
+1920-12-25,1920/1921,Coventry City,Cardiff City,2-4,2,4,Football League Second Division,2,A
+1920-12-25,1920/1921,Bristol Rovers,Swansea City,1-2,1,2,Football League Third Division,3,A
+1920-12-25,1920/1921,Brentford,Queens Park Rangers,0-2,0,2,Football League Third Division,3,A
+1920-12-25,1920/1921,Brighton & Hove Albion,Crystal Palace,0-2,0,2,Football League Third Division,3,A
+1920-12-25,1920/1921,Gillingham,Northampton Town,2-5,2,5,Football League Third Division,3,A
+1920-12-25,1920/1921,Reading,Swindon Town,2-3,2,3,Football League Third Division,3,A
+1920-12-25,1920/1921,Luton Town,Southampton,1-1,1,1,Football League Third Division,3,D
+1920-12-25,1920/1921,Millwall,Merthyr Town,0-0,0,0,Football League Third Division,3,D
+1920-12-25,1920/1921,Newport County,Southend United,1-1,1,1,Football League Third Division,3,D
+1920-12-25,1920/1921,Plymouth Argyle,Exeter City,0-0,0,0,Football League Third Division,3,D
+1920-12-25,1920/1921,Watford,Portsmouth,3-2,3,2,Football League Third Division,3,H
+1920-12-25,1920/1921,Grimsby Town,Norwich City,1-1,1,1,Football League Third Division,3,D
+1920-12-27,1920/1921,Derby County,Bradford City,1-1,1,1,Football League First Division,1,D
+1920-12-27,1920/1921,West Bromwich Albion,Manchester City,2-2,2,2,Football League First Division,1,D
+1920-12-27,1920/1921,Tottenham Hotspur,Newcastle United,2-0,2,0,Football League First Division,1,H
+1920-12-27,1920/1921,Sunderland,Bolton Wanderers,0-0,0,0,Football League First Division,1,D
+1920-12-27,1920/1921,Sheffield United,Burnley,1-1,1,1,Football League First Division,1,D
+1920-12-27,1920/1921,Preston North End,Blackburn Rovers,4-2,4,2,Football League First Division,1,H
+1920-12-27,1920/1921,Manchester United,Aston Villa,1-3,1,3,Football League First Division,1,A
+1920-12-27,1920/1921,Liverpool,Chelsea,2-1,2,1,Football League First Division,1,H
+1920-12-27,1920/1921,Huddersfield Town,Middlesbrough,0-1,0,1,Football League First Division,1,A
+1920-12-27,1920/1921,Bradford Park Avenue,Oldham Athletic,2-1,2,1,Football League First Division,1,H
+1920-12-27,1920/1921,Arsenal,Everton,1-1,1,1,Football League First Division,1,D
+1920-12-27,1920/1921,South Shields,Bury,2-0,2,0,Football League Second Division,2,H
+1920-12-27,1920/1921,Stoke City,Leicester City,1-1,1,1,Football League Second Division,2,D
+1920-12-27,1920/1921,Wolverhampton Wanderers,Stockport County,2-0,2,0,Football League Second Division,2,H
+1920-12-27,1920/1921,Rotherham County,Nottingham Forest,0-0,0,0,Football League Second Division,2,D
+1920-12-27,1920/1921,Notts County,Sheffield Wednesday,3-0,3,0,Football League Second Division,2,H
+1920-12-27,1920/1921,Fulham,Leeds United,1-0,1,0,Football League Second Division,2,H
+1920-12-27,1920/1921,Cardiff City,Coventry City,0-1,0,1,Football League Second Division,2,A
+1920-12-27,1920/1921,Bristol City,Port Vale,3-0,3,0,Football League Second Division,2,H
+1920-12-27,1920/1921,Birmingham City,West Ham United,2-1,2,1,Football League Second Division,2,H
+1920-12-27,1920/1921,Barnsley,Blackpool,0-1,0,1,Football League Second Division,2,A
+1920-12-27,1920/1921,Hull City,Leyton Orient,3-0,3,0,Football League Second Division,2,H
+1920-12-27,1920/1921,Crystal Palace,Brighton & Hove Albion,3-2,3,2,Football League Third Division,3,H
+1920-12-27,1920/1921,Exeter City,Plymouth Argyle,1-1,1,1,Football League Third Division,3,D
+1920-12-27,1920/1921,Merthyr Town,Millwall,0-1,0,1,Football League Third Division,3,A
+1920-12-27,1920/1921,Northampton Town,Gillingham,2-0,2,0,Football League Third Division,3,H
+1920-12-27,1920/1921,Queens Park Rangers,Brentford,1-0,1,0,Football League Third Division,3,H
+1920-12-27,1920/1921,Portsmouth,Watford,1-0,1,0,Football League Third Division,3,H
+1920-12-27,1920/1921,Southampton,Luton Town,1-1,1,1,Football League Third Division,3,D
+1920-12-27,1920/1921,Swindon Town,Reading,2-0,2,0,Football League Third Division,3,H
+1920-12-27,1920/1921,Southend United,Newport County,2-1,2,1,Football League Third Division,3,H
+1920-12-27,1920/1921,Swansea City,Bristol Rovers,2-2,2,2,Football League Third Division,3,D
+1920-12-27,1920/1921,Norwich City,Grimsby Town,0-0,0,0,Football League Third Division,3,D
+1920-12-28,1920/1921,Luton Town,Gillingham,5-0,5,0,Football League Third Division,3,H
+1920-12-29,1920/1921,Sheffield United,Huddersfield Town,1-1,1,1,Football League First Division,1,D
+1921-01-01,1920/1921,Sheffield United,Oldham Athletic,3-0,3,0,Football League First Division,1,H
+1921-01-01,1920/1921,Preston North End,Burnley,0-3,0,3,Football League First Division,1,A
+1921-01-01,1920/1921,Newcastle United,Manchester United,6-3,6,3,Football League First Division,1,H
+1921-01-01,1920/1921,Middlesbrough,Blackburn Rovers,1-1,1,1,Football League First Division,1,D
+1921-01-01,1920/1921,Manchester City,Sunderland,3-1,3,1,Football League First Division,1,H
+1921-01-01,1920/1921,Everton,West Bromwich Albion,2-2,2,2,Football League First Division,1,D
+1921-01-01,1920/1921,Derby County,Huddersfield Town,2-1,2,1,Football League First Division,1,H
+1921-01-01,1920/1921,Bradford Park Avenue,Chelsea,0-2,0,2,Football League First Division,1,A
+1921-01-01,1920/1921,Bolton Wanderers,Tottenham Hotspur,1-0,1,0,Football League First Division,1,H
+1921-01-01,1920/1921,Aston Villa,Liverpool,0-2,0,2,Football League First Division,1,A
+1921-01-01,1920/1921,Arsenal,Bradford City,1-2,1,2,Football League First Division,1,A
+1921-01-01,1920/1921,Port Vale,Leyton Orient,4-0,4,0,Football League Second Division,2,H
+1921-01-01,1920/1921,South Shields,Stockport County,3-1,3,1,Football League Second Division,2,H
+1921-01-01,1920/1921,West Ham United,Coventry City,7-0,7,0,Football League Second Division,2,H
+1921-01-01,1920/1921,Wolverhampton Wanderers,Hull City,1-3,1,3,Football League Second Division,2,A
+1921-01-01,1920/1921,Notts County,Blackpool,1-2,1,2,Football League Second Division,2,A
+1921-01-01,1920/1921,Leicester City,Sheffield Wednesday,2-1,2,1,Football League Second Division,2,H
+1921-01-01,1920/1921,Fulham,Stoke City,1-3,1,3,Football League Second Division,2,A
+1921-01-01,1920/1921,Bury,Cardiff City,3-1,3,1,Football League Second Division,2,H
+1921-01-01,1920/1921,Bristol City,Rotherham County,2-4,2,4,Football League Second Division,2,A
+1921-01-01,1920/1921,Barnsley,Nottingham Forest,0-0,0,0,Football League Second Division,2,D
+1921-01-01,1920/1921,Leeds United,Birmingham City,1-0,1,0,Football League Second Division,2,H
+1921-01-01,1920/1921,Crystal Palace,Queens Park Rangers,0-0,0,0,Football League Third Division,3,D
+1921-01-01,1920/1921,Grimsby Town,Brighton & Hove Albion,2-2,2,2,Football League Third Division,3,D
+1921-01-01,1920/1921,Luton Town,Bristol Rovers,1-2,1,2,Football League Third Division,3,A
+1921-01-01,1920/1921,Newport County,Brentford,3-1,3,1,Football League Third Division,3,H
+1921-01-01,1920/1921,Watford,Gillingham,3-1,3,1,Football League Third Division,3,H
+1921-01-01,1920/1921,Plymouth Argyle,Merthyr Town,2-1,2,1,Football League Third Division,3,H
+1921-01-01,1920/1921,Southampton,Reading,1-2,1,2,Football League Third Division,3,A
+1921-01-01,1920/1921,Southend United,Exeter City,0-0,0,0,Football League Third Division,3,D
+1921-01-01,1920/1921,Swindon Town,Portsmouth,5-2,5,2,Football League Third Division,3,H
+1921-01-01,1920/1921,Millwall,Northampton Town,1-0,1,0,Football League Third Division,3,H
+1921-01-01,1920/1921,Norwich City,Swansea City,1-1,1,1,Football League Third Division,3,D
+1921-01-08,1920/1921,Leeds United,Rotherham County,1-0,1,0,Football League Second Division,2,H
+1921-01-13,1920/1921,Newport County,Norwich City,2-0,2,0,Football League Third Division,3,H
+1921-01-15,1920/1921,Liverpool,Sunderland,0-0,0,0,Football League First Division,1,D
+1921-01-15,1920/1921,Aston Villa,Everton,1-3,1,3,Football League First Division,1,A
+1921-01-15,1920/1921,Bradford Park Avenue,Huddersfield Town,1-1,1,1,Football League First Division,1,D
+1921-01-15,1920/1921,Burnley,Blackburn Rovers,4-1,4,1,Football League First Division,1,H
+1921-01-15,1920/1921,Chelsea,Manchester City,2-1,2,1,Football League First Division,1,H
+1921-01-15,1920/1921,Manchester United,West Bromwich Albion,1-4,1,4,Football League First Division,1,A
+1921-01-15,1920/1921,Newcastle United,Bradford City,4-0,4,0,Football League First Division,1,H
+1921-01-15,1920/1921,Preston North End,Derby County,2-1,2,1,Football League First Division,1,H
+1921-01-15,1920/1921,Sheffield United,Middlesbrough,1-1,1,1,Football League First Division,1,D
+1921-01-15,1920/1921,Tottenham Hotspur,Arsenal,2-1,2,1,Football League First Division,1,H
+1921-01-15,1920/1921,Oldham Athletic,Bolton Wanderers,0-0,0,0,Football League First Division,1,D
+1921-01-15,1920/1921,Rotherham County,Notts County,0-0,0,0,Football League Second Division,2,D
+1921-01-15,1920/1921,South Shields,Stoke City,1-1,1,1,Football League Second Division,2,D
+1921-01-15,1920/1921,Stockport County,Birmingham City,0-3,0,3,Football League Second Division,2,A
+1921-01-15,1920/1921,Wolverhampton Wanderers,Leeds United,3-0,3,0,Football League Second Division,2,H
+1921-01-15,1920/1921,Port Vale,Sheffield Wednesday,1-0,1,0,Football League Second Division,2,H
+1921-01-15,1920/1921,Nottingham Forest,Blackpool,3-1,3,1,Football League Second Division,2,H
+1921-01-15,1920/1921,Hull City,Coventry City,1-1,1,1,Football League Second Division,2,D
+1921-01-15,1920/1921,Leyton Orient,West Ham United,0-1,0,1,Football League Second Division,2,A
+1921-01-15,1920/1921,Barnsley,Leicester City,2-1,2,1,Football League Second Division,2,H
+1921-01-15,1920/1921,Bristol City,Cardiff City,0-0,0,0,Football League Second Division,2,D
+1921-01-15,1920/1921,Bury,Fulham,1-1,1,1,Football League Second Division,2,D
+1921-01-15,1920/1921,Exeter City,Brighton & Hove Albion,1-0,1,0,Football League Third Division,3,H
+1921-01-15,1920/1921,Gillingham,Brentford,1-3,1,3,Football League Third Division,3,A
+1921-01-15,1920/1921,Merthyr Town,Queens Park Rangers,3-1,3,1,Football League Third Division,3,H
+1921-01-15,1920/1921,Northampton Town,Luton Town,1-0,1,0,Football League Third Division,3,H
+1921-01-15,1920/1921,Plymouth Argyle,Grimsby Town,0-0,0,0,Football League Third Division,3,D
+1921-01-15,1920/1921,Portsmouth,Reading,2-2,2,2,Football League Third Division,3,D
+1921-01-15,1920/1921,Southend United,Swansea City,1-2,1,2,Football League Third Division,3,A
+1921-01-15,1920/1921,Swindon Town,Bristol Rovers,2-1,2,1,Football League Third Division,3,H
+1921-01-15,1920/1921,Watford,Southampton,0-0,0,0,Football League Third Division,3,D
+1921-01-15,1920/1921,Millwall,Crystal Palace,0-1,0,1,Football League Third Division,3,A
+1921-01-22,1920/1921,Everton,Aston Villa,1-1,1,1,Football League First Division,1,D
+1921-01-22,1920/1921,Arsenal,Tottenham Hotspur,3-2,3,2,Football League First Division,1,H
+1921-01-22,1920/1921,Blackburn Rovers,Burnley,1-3,1,3,Football League First Division,1,A
+1921-01-22,1920/1921,Bolton Wanderers,Oldham Athletic,1-1,1,1,Football League First Division,1,D
+1921-01-22,1920/1921,Bradford City,Newcastle United,1-1,1,1,Football League First Division,1,D
+1921-01-22,1920/1921,Derby County,Preston North End,1-1,1,1,Football League First Division,1,D
+1921-01-22,1920/1921,Manchester City,Chelsea,1-0,1,0,Football League First Division,1,H
+1921-01-22,1920/1921,Huddersfield Town,Bradford Park Avenue,0-0,0,0,Football League First Division,1,D
+1921-01-22,1920/1921,Sunderland,Liverpool,2-1,2,1,Football League First Division,1,H
+1921-01-22,1920/1921,West Bromwich Albion,Manchester United,0-2,0,2,Football League First Division,1,A
+1921-01-22,1920/1921,Middlesbrough,Sheffield United,2-2,2,2,Football League First Division,1,D
+1921-01-22,1920/1921,West Ham United,Leyton Orient,1-0,1,0,Football League Second Division,2,H
+1921-01-22,1920/1921,Notts County,Rotherham County,1-0,1,0,Football League Second Division,2,H
+1921-01-22,1920/1921,Sheffield Wednesday,Port Vale,1-0,1,0,Football League Second Division,2,H
+1921-01-22,1920/1921,Stoke City,South Shields,0-0,0,0,Football League Second Division,2,D
+1921-01-22,1920/1921,Leicester City,Barnsley,2-0,2,0,Football League Second Division,2,H
+1921-01-22,1920/1921,Fulham,Bury,0-0,0,0,Football League Second Division,2,D
+1921-01-22,1920/1921,Leeds United,Wolverhampton Wanderers,3-0,3,0,Football League Second Division,2,H
+1921-01-22,1920/1921,Birmingham City,Stockport County,5-0,5,0,Football League Second Division,2,H
+1921-01-22,1920/1921,Blackpool,Nottingham Forest,1-0,1,0,Football League Second Division,2,H
+1921-01-22,1920/1921,Cardiff City,Bristol City,1-0,1,0,Football League Second Division,2,H
+1921-01-22,1920/1921,Coventry City,Hull City,3-2,3,2,Football League Second Division,2,H
+1921-01-22,1920/1921,Brentford,Gillingham,3-3,3,3,Football League Third Division,3,D
+1921-01-22,1920/1921,Brighton & Hove Albion,Exeter City,1-1,1,1,Football League Third Division,3,D
+1921-01-22,1920/1921,Bristol Rovers,Swindon Town,3-1,3,1,Football League Third Division,3,H
+1921-01-22,1920/1921,Swansea City,Southend United,2-0,2,0,Football League Third Division,3,H
+1921-01-22,1920/1921,Grimsby Town,Plymouth Argyle,1-1,1,1,Football League Third Division,3,D
+1921-01-22,1920/1921,Luton Town,Northampton Town,3-1,3,1,Football League Third Division,3,H
+1921-01-22,1920/1921,Norwich City,Newport County,3-0,3,0,Football League Third Division,3,H
+1921-01-22,1920/1921,Queens Park Rangers,Merthyr Town,4-2,4,2,Football League Third Division,3,H
+1921-01-22,1920/1921,Reading,Portsmouth,1-0,1,0,Football League Third Division,3,H
+1921-01-22,1920/1921,Southampton,Watford,4-1,4,1,Football League Third Division,3,H
+1921-01-22,1920/1921,Crystal Palace,Millwall,3-2,3,2,Football League Third Division,3,H
+1921-01-29,1920/1921,Middlesbrough,West Bromwich Albion,0-1,0,1,Football League First Division,1,A
+1921-01-29,1920/1921,Arsenal,Sunderland,1-2,1,2,Football League First Division,1,A
+1921-01-29,1920/1921,Leeds United,West Ham United,1-2,1,2,Football League Second Division,2,A
+1921-01-29,1920/1921,Bristol City,Leicester City,1-0,1,0,Football League Second Division,2,H
+1921-01-29,1920/1921,Barnsley,Rotherham County,2-1,2,1,Football League Second Division,2,H
+1921-01-29,1920/1921,Bury,Port Vale,1-0,1,0,Football League Second Division,2,H
+1921-01-29,1920/1921,Reading,Millwall,0-1,0,1,Football League Third Division,3,A
+1921-01-29,1920/1921,Newport County,Northampton Town,1-1,1,1,Football League Third Division,3,D
+1921-01-29,1920/1921,Merthyr Town,Exeter City,7-1,7,1,Football League Third Division,3,H
+1921-01-29,1920/1921,Gillingham,Bristol Rovers,1-0,1,0,Football League Third Division,3,H
+1921-02-02,1920/1921,South Shields,Leyton Orient,3-0,3,0,Football League Second Division,2,H
+1921-02-03,1920/1921,Tottenham Hotspur,Bradford Park Avenue,2-0,2,0,Football League First Division,1,H
+1921-02-03,1920/1921,Hull City,Stockport County,1-1,1,1,Football League Second Division,2,D
+1921-02-05,1920/1921,Sunderland,Arsenal,5-1,5,1,Football League First Division,1,H
+1921-02-05,1920/1921,Bolton Wanderers,Bradford City,1-1,1,1,Football League First Division,1,D
+1921-02-05,1920/1921,Bradford Park Avenue,Tottenham Hotspur,1-1,1,1,Football League First Division,1,D
+1921-02-05,1920/1921,Burnley,Aston Villa,7-1,7,1,Football League First Division,1,H
+1921-02-05,1920/1921,Chelsea,Newcastle United,2-0,2,0,Football League First Division,1,H
+1921-02-05,1920/1921,Everton,Manchester City,3-0,3,0,Football League First Division,1,H
+1921-02-05,1920/1921,Huddersfield Town,Blackburn Rovers,0-0,0,0,Football League First Division,1,D
+1921-02-05,1920/1921,Derby County,Oldham Athletic,3-3,3,3,Football League First Division,1,D
+1921-02-05,1920/1921,Sheffield United,Preston North End,1-0,1,0,Football League First Division,1,H
+1921-02-05,1920/1921,West Bromwich Albion,Middlesbrough,0-1,0,1,Football League First Division,1,A
+1921-02-05,1920/1921,Manchester United,Liverpool,1-1,1,1,Football League First Division,1,D
+1921-02-05,1920/1921,Rotherham County,Barnsley,1-0,1,0,Football League Second Division,2,H
+1921-02-05,1920/1921,Stockport County,Hull City,2-2,2,2,Football League Second Division,2,D
+1921-02-05,1920/1921,West Ham United,Leeds United,3-0,3,0,Football League Second Division,2,H
+1921-02-05,1920/1921,Port Vale,Bury,3-0,3,0,Football League Second Division,2,H
+1921-02-05,1920/1921,Nottingham Forest,Wolverhampton Wanderers,1-1,1,1,Football League Second Division,2,D
+1921-02-05,1920/1921,Leicester City,Bristol City,0-0,0,0,Football League Second Division,2,D
+1921-02-05,1920/1921,Leyton Orient,South Shields,1-0,1,0,Football League Second Division,2,H
+1921-02-05,1920/1921,Birmingham City,Notts County,2-1,2,1,Football League Second Division,2,H
+1921-02-05,1920/1921,Blackpool,Sheffield Wednesday,1-1,1,1,Football League Second Division,2,D
+1921-02-05,1920/1921,Cardiff City,Stoke City,0-1,0,1,Football League Second Division,2,A
+1921-02-05,1920/1921,Coventry City,Fulham,0-2,0,2,Football League Second Division,2,A
+1921-02-05,1920/1921,Brentford,Swansea City,1-2,1,2,Football League Third Division,3,A
+1921-02-05,1920/1921,Watford,Swindon Town,0-1,0,1,Football League Third Division,3,A
+1921-02-05,1920/1921,Brighton & Hove Albion,Southampton,1-1,1,1,Football League Third Division,3,D
+1921-02-05,1920/1921,Bristol Rovers,Gillingham,2-0,2,0,Football League Third Division,3,H
+1921-02-05,1920/1921,Northampton Town,Newport County,0-2,0,2,Football League Third Division,3,A
+1921-02-05,1920/1921,Grimsby Town,Crystal Palace,1-0,1,0,Football League Third Division,3,H
+1921-02-05,1920/1921,Millwall,Southend United,4-2,4,2,Football League Third Division,3,H
+1921-02-05,1920/1921,Norwich City,Queens Park Rangers,2-0,2,0,Football League Third Division,3,H
+1921-02-05,1920/1921,Portsmouth,Plymouth Argyle,1-1,1,1,Football League Third Division,3,D
+1921-02-05,1920/1921,Reading,Luton Town,0-1,0,1,Football League Third Division,3,A
+1921-02-05,1920/1921,Exeter City,Merthyr Town,3-3,3,3,Football League Third Division,3,D
+1921-02-07,1920/1921,Preston North End,Sheffield United,2-0,2,0,Football League First Division,1,H
+1921-02-07,1920/1921,Sheffield Wednesday,Blackpool,0-1,0,1,Football League Second Division,2,A
+1921-02-09,1920/1921,Newcastle United,Chelsea,1-0,1,0,Football League First Division,1,H
+1921-02-09,1920/1921,Liverpool,Manchester United,2-0,2,0,Football League First Division,1,H
+1921-02-09,1920/1921,Bradford City,West Bromwich Albion,1-1,1,1,Football League First Division,1,D
+1921-02-09,1920/1921,Aston Villa,Burnley,0-0,0,0,Football League First Division,1,D
+1921-02-09,1920/1921,Crystal Palace,Grimsby Town,2-0,2,0,Football League Third Division,3,H
+1921-02-09,1920/1921,Luton Town,Reading,6-0,6,0,Football League Third Division,3,H
+1921-02-10,1920/1921,Blackburn Rovers,Huddersfield Town,1-2,1,2,Football League First Division,1,A
+1921-02-12,1920/1921,Aston Villa,Sunderland,1-5,1,5,Football League First Division,1,A
+1921-02-12,1920/1921,Bradford Park Avenue,Middlesbrough,3-0,3,0,Football League First Division,1,H
+1921-02-12,1920/1921,Chelsea,West Bromwich Albion,3-0,3,0,Football League First Division,1,H
+1921-02-12,1920/1921,Liverpool,Bradford City,2-1,2,1,Football League First Division,1,H
+1921-02-12,1920/1921,Manchester United,Everton,1-2,1,2,Football League First Division,1,A
+1921-02-12,1920/1921,Newcastle United,Huddersfield Town,1-0,1,0,Football League First Division,1,H
+1921-02-12,1920/1921,Burnley,Derby County,2-1,2,1,Football League First Division,1,H
+1921-02-12,1920/1921,Preston North End,Bolton Wanderers,1-2,1,2,Football League First Division,1,A
+1921-02-12,1920/1921,Sheffield United,Blackburn Rovers,1-1,1,1,Football League First Division,1,D
+1921-02-12,1920/1921,Tottenham Hotspur,Manchester City,2-0,2,0,Football League First Division,1,H
+1921-02-12,1920/1921,Oldham Athletic,Arsenal,1-1,1,1,Football League First Division,1,D
+1921-02-12,1920/1921,Rotherham County,Blackpool,0-2,0,2,Football League Second Division,2,A
+1921-02-12,1920/1921,South Shields,Sheffield Wednesday,2-3,2,3,Football League Second Division,2,A
+1921-02-12,1920/1921,Stockport County,Leeds United,3-1,3,1,Football League Second Division,2,H
+1921-02-12,1920/1921,Wolverhampton Wanderers,Coventry City,1-0,1,0,Football League Second Division,2,H
+1921-02-12,1920/1921,Port Vale,Notts County,1-2,1,2,Football League Second Division,2,A
+1921-02-12,1920/1921,Nottingham Forest,Leicester City,1-2,1,2,Football League Second Division,2,A
+1921-02-12,1920/1921,Hull City,Stoke City,1-1,1,1,Football League Second Division,2,D
+1921-02-12,1920/1921,Leyton Orient,Birmingham City,1-1,1,1,Football League Second Division,2,D
+1921-02-12,1920/1921,Barnsley,Cardiff City,0-2,0,2,Football League Second Division,2,A
+1921-02-12,1920/1921,Bristol City,Fulham,2-0,2,0,Football League Second Division,2,H
+1921-02-12,1920/1921,Bury,West Ham United,1-0,1,0,Football League Second Division,2,H
+1921-02-12,1920/1921,Exeter City,Grimsby Town,1-1,1,1,Football League Third Division,3,D
+1921-02-12,1920/1921,Watford,Reading,1-2,1,2,Football League Third Division,3,A
+1921-02-12,1920/1921,Merthyr Town,Swansea City,0-3,0,3,Football League Third Division,3,A
+1921-02-12,1920/1921,Millwall,Brighton & Hove Albion,0-1,0,1,Football League Third Division,3,A
+1921-02-12,1920/1921,Newport County,Crystal Palace,0-1,0,1,Football League Third Division,3,A
+1921-02-12,1920/1921,Northampton Town,Southampton,2-0,2,0,Football League Third Division,3,H
+1921-02-12,1920/1921,Plymouth Argyle,Queens Park Rangers,1-0,1,0,Football League Third Division,3,H
+1921-02-12,1920/1921,Portsmouth,Bristol Rovers,1-0,1,0,Football League Third Division,3,H
+1921-02-12,1920/1921,Southend United,Luton Town,1-1,1,1,Football League Third Division,3,D
+1921-02-12,1920/1921,Swindon Town,Brentford,1-0,1,0,Football League Third Division,3,H
+1921-02-12,1920/1921,Gillingham,Norwich City,0-0,0,0,Football League Third Division,3,D
+1921-02-14,1920/1921,Oldham Athletic,Derby County,2-1,2,1,Football League First Division,1,H
+1921-02-14,1920/1921,Stoke City,Cardiff City,0-0,0,0,Football League Second Division,2,D
+1921-02-14,1920/1921,Wolverhampton Wanderers,Nottingham Forest,2-1,2,1,Football League Second Division,2,H
+1921-02-16,1920/1921,Bradford City,Bolton Wanderers,2-2,2,2,Football League First Division,1,D
+1921-02-16,1920/1921,Notts County,Birmingham City,0-0,0,0,Football League Second Division,2,D
+1921-02-17,1920/1921,Queens Park Rangers,Norwich City,2-0,2,0,Football League Third Division,3,H
+1921-02-19,1920/1921,Middlesbrough,Bradford Park Avenue,2-1,2,1,Football League First Division,1,H
+1921-02-19,1920/1921,Bradford City,Liverpool,0-0,0,0,Football League First Division,1,D
+1921-02-19,1920/1921,Blackburn Rovers,Sheffield United,1-1,1,1,Football League First Division,1,D
+1921-02-19,1920/1921,Arsenal,Oldham Athletic,2-2,2,2,Football League First Division,1,D
+1921-02-19,1920/1921,West Ham United,Bury,0-1,0,1,Football League Second Division,2,A
+1921-02-19,1920/1921,Blackpool,Rotherham County,0-1,0,1,Football League Second Division,2,A
+1921-02-19,1920/1921,Notts County,Port Vale,0-1,0,1,Football League Second Division,2,A
+1921-02-19,1920/1921,Leicester City,Nottingham Forest,2-0,2,0,Football League Second Division,2,H
+1921-02-19,1920/1921,Leeds United,Stockport County,0-2,0,2,Football League Second Division,2,A
+1921-02-19,1920/1921,Birmingham City,Leyton Orient,0-0,0,0,Football League Second Division,2,D
+1921-02-19,1920/1921,Sheffield Wednesday,South Shields,1-1,1,1,Football League Second Division,2,D
+1921-02-19,1920/1921,Bristol Rovers,Portsmouth,2-2,2,2,Football League Third Division,3,D
+1921-02-19,1920/1921,Brighton & Hove Albion,Millwall,1-0,1,0,Football League Third Division,3,H
+1921-02-19,1920/1921,Crystal Palace,Newport County,2-0,2,0,Football League Third Division,3,H
+1921-02-19,1920/1921,Swansea City,Merthyr Town,1-0,1,0,Football League Third Division,3,H
+1921-02-19,1920/1921,Norwich City,Gillingham,2-1,2,1,Football League Third Division,3,H
+1921-02-19,1920/1921,Reading,Watford,0-0,0,0,Football League Third Division,3,D
+1921-02-19,1920/1921,Brentford,Swindon Town,0-1,0,1,Football League Third Division,3,A
+1921-02-19,1920/1921,Grimsby Town,Exeter City,2-0,2,0,Football League Third Division,3,H
+1921-02-21,1920/1921,Merthyr Town,Portsmouth,2-1,2,1,Football League Third Division,3,H
+1921-02-23,1920/1921,West Bromwich Albion,Tottenham Hotspur,3-1,3,1,Football League First Division,1,H
+1921-02-23,1920/1921,Sunderland,Aston Villa,0-1,0,1,Football League First Division,1,A
+1921-02-23,1920/1921,Huddersfield Town,Newcastle United,1-3,1,3,Football League First Division,1,A
+1921-02-23,1920/1921,Derby County,Burnley,0-0,0,0,Football League First Division,1,D
+1921-02-23,1920/1921,Manchester City,Everton,2-0,2,0,Football League First Division,1,H
+1921-02-23,1920/1921,Southampton,Brighton & Hove Albion,1-0,1,0,Football League Third Division,3,H
+1921-02-24,1920/1921,Coventry City,Wolverhampton Wanderers,4-0,4,0,Football League Second Division,2,H
+1921-02-26,1920/1921,Tottenham Hotspur,West Bromwich Albion,1-0,1,0,Football League First Division,1,H
+1921-02-26,1920/1921,Bradford Park Avenue,Blackburn Rovers,1-1,1,1,Football League First Division,1,D
+1921-02-26,1920/1921,Chelsea,Everton,0-1,0,1,Football League First Division,1,A
+1921-02-26,1920/1921,Liverpool,Huddersfield Town,4-1,4,1,Football League First Division,1,H
+1921-02-26,1920/1921,Manchester United,Sunderland,3-0,3,0,Football League First Division,1,H
+1921-02-26,1920/1921,Newcastle United,Middlesbrough,2-0,2,0,Football League First Division,1,H
+1921-02-26,1920/1921,Oldham Athletic,Manchester City,2-0,2,0,Football League First Division,1,H
+1921-02-26,1920/1921,Burnley,Bolton Wanderers,3-1,3,1,Football League First Division,1,H
+1921-02-26,1920/1921,Sheffield United,Derby County,0-1,0,1,Football League First Division,1,A
+1921-02-26,1920/1921,Aston Villa,Bradford City,1-2,1,2,Football League First Division,1,A
+1921-02-26,1920/1921,Preston North End,Arsenal,0-1,0,1,Football League First Division,1,A
+1921-02-26,1920/1921,South Shields,Notts County,1-0,1,0,Football League Second Division,2,H
+1921-02-26,1920/1921,Stockport County,Coventry City,3-0,3,0,Football League Second Division,2,H
+1921-02-26,1920/1921,Wolverhampton Wanderers,Stoke City,3-3,3,3,Football League Second Division,2,D
+1921-02-26,1920/1921,Nottingham Forest,Cardiff City,1-2,1,2,Football League Second Division,2,A
+1921-02-26,1920/1921,Rotherham County,Leicester City,1-1,1,1,Football League Second Division,2,D
+1921-02-26,1920/1921,Port Vale,Blackpool,0-1,0,1,Football League Second Division,2,A
+1921-02-26,1920/1921,Leyton Orient,Leeds United,1-0,1,0,Football League Second Division,2,H
+1921-02-26,1920/1921,Barnsley,Fulham,3-1,3,1,Football League Second Division,2,H
+1921-02-26,1920/1921,Bristol City,West Ham United,1-0,1,0,Football League Second Division,2,H
+1921-02-26,1920/1921,Bury,Birmingham City,0-1,0,1,Football League Second Division,2,A
+1921-02-26,1920/1921,Hull City,Sheffield Wednesday,1-1,1,1,Football League Second Division,2,D
+1921-02-26,1920/1921,Merthyr Town,Luton Town,4-1,4,1,Football League Third Division,3,H
+1921-02-26,1920/1921,Exeter City,Queens Park Rangers,0-1,0,1,Football League Third Division,3,A
+1921-02-26,1920/1921,Gillingham,Crystal Palace,0-1,0,1,Football League Third Division,3,A
+1921-02-26,1920/1921,Millwall,Grimsby Town,0-1,0,1,Football League Third Division,3,A
+1921-02-26,1920/1921,Northampton Town,Reading,1-0,1,0,Football League Third Division,3,H
+1921-02-26,1920/1921,Plymouth Argyle,Swansea City,1-0,1,0,Football League Third Division,3,H
+1921-02-26,1920/1921,Portsmouth,Brentford,0-2,0,2,Football League Third Division,3,A
+1921-02-26,1920/1921,Southend United,Southampton,1-0,1,0,Football League Third Division,3,H
+1921-02-26,1920/1921,Swindon Town,Norwich City,4-2,4,2,Football League Third Division,3,H
+1921-02-26,1920/1921,Watford,Bristol Rovers,2-1,2,1,Football League Third Division,3,H
+1921-02-26,1920/1921,Newport County,Brighton & Hove Albion,0-4,0,4,Football League Third Division,3,A
+1921-02-28,1920/1921,Fulham,Bristol City,3-0,3,0,Football League Second Division,2,H
+1921-03-05,1920/1921,Sunderland,Manchester United,2-3,2,3,Football League First Division,1,A
+1921-03-05,1920/1921,Middlesbrough,Newcastle United,0-0,0,0,Football League First Division,1,D
+1921-03-05,1920/1921,Manchester City,Oldham Athletic,3-1,3,1,Football League First Division,1,H
+1921-03-05,1920/1921,Huddersfield Town,Liverpool,1-2,1,2,Football League First Division,1,A
+1921-03-05,1920/1921,Derby County,Sheffield United,1-1,1,1,Football League First Division,1,D
+1921-03-05,1920/1921,Bolton Wanderers,Burnley,1-1,1,1,Football League First Division,1,D
+1921-03-05,1920/1921,Blackburn Rovers,Bradford Park Avenue,1-0,1,0,Football League First Division,1,H
+1921-03-05,1920/1921,West Ham United,Bristol City,1-0,1,0,Football League Second Division,2,H
+1921-03-05,1920/1921,Notts County,South Shields,2-0,2,0,Football League Second Division,2,H
+1921-03-05,1920/1921,Leeds United,Leyton Orient,2-1,2,1,Football League Second Division,2,H
+1921-03-05,1920/1921,Fulham,Barnsley,1-0,1,0,Football League Second Division,2,H
+1921-03-05,1920/1921,Leicester City,Rotherham County,1-1,1,1,Football League Second Division,2,D
+1921-03-05,1920/1921,Coventry City,Stockport County,1-1,1,1,Football League Second Division,2,D
+1921-03-05,1920/1921,Blackpool,Port Vale,1-0,1,0,Football League Second Division,2,H
+1921-03-05,1920/1921,Birmingham City,Bury,4-0,4,0,Football League Second Division,2,H
+1921-03-05,1920/1921,Brighton & Hove Albion,Newport County,1-0,1,0,Football League Third Division,3,H
+1921-03-05,1920/1921,Bristol Rovers,Watford,2-0,2,0,Football League Third Division,3,H
+1921-03-05,1920/1921,Crystal Palace,Gillingham,4-1,4,1,Football League Third Division,3,H
+1921-03-05,1920/1921,Grimsby Town,Millwall,0-2,0,2,Football League Third Division,3,A
+1921-03-05,1920/1921,Luton Town,Merthyr Town,1-0,1,0,Football League Third Division,3,H
+1921-03-05,1920/1921,Southampton,Southend United,3-0,3,0,Football League Third Division,3,H
+1921-03-05,1920/1921,Queens Park Rangers,Exeter City,2-1,2,1,Football League Third Division,3,H
+1921-03-05,1920/1921,Reading,Northampton Town,4-0,4,0,Football League Third Division,3,H
+1921-03-05,1920/1921,Swansea City,Plymouth Argyle,3-0,3,0,Football League Third Division,3,H
+1921-03-05,1920/1921,Norwich City,Swindon Town,3-2,3,2,Football League Third Division,3,H
+1921-03-05,1920/1921,Brentford,Portsmouth,1-2,1,2,Football League Third Division,3,A
+1921-03-07,1920/1921,Bradford City,Aston Villa,3-0,3,0,Football League First Division,1,H
+1921-03-09,1920/1921,Everton,Manchester United,2-0,2,0,Football League First Division,1,H
+1921-03-09,1920/1921,Manchester City,Tottenham Hotspur,2-0,2,0,Football League First Division,1,H
+1921-03-09,1920/1921,Cardiff City,Barnsley,3-2,3,2,Football League Second Division,2,H
+1921-03-09,1920/1921,Southampton,Northampton Town,3-1,3,1,Football League Third Division,3,H
+1921-03-10,1920/1921,Stoke City,Wolverhampton Wanderers,1-0,1,0,Football League Second Division,2,H
+1921-03-12,1920/1921,Bradford Park Avenue,Derby County,2-1,2,1,Football League First Division,1,H
+1921-03-12,1920/1921,Burnley,Arsenal,1-0,1,0,Football League First Division,1,H
+1921-03-12,1920/1921,Chelsea,Sunderland,3-1,3,1,Football League First Division,1,H
+1921-03-12,1920/1921,Liverpool,Middlesbrough,0-0,0,0,Football League First Division,1,D
+1921-03-12,1920/1921,Manchester United,Bradford City,1-1,1,1,Football League First Division,1,D
+1921-03-12,1920/1921,Newcastle United,Blackburn Rovers,1-2,1,2,Football League First Division,1,A
+1921-03-12,1920/1921,Aston Villa,Huddersfield Town,0-0,0,0,Football League First Division,1,D
+1921-03-12,1920/1921,Oldham Athletic,West Bromwich Albion,0-3,0,3,Football League First Division,1,A
+1921-03-12,1920/1921,Sheffield United,Bolton Wanderers,2-2,2,2,Football League First Division,1,D
+1921-03-12,1920/1921,Tottenham Hotspur,Everton,2-0,2,0,Football League First Division,1,H
+1921-03-12,1920/1921,Preston North End,Manchester City,0-1,0,1,Football League First Division,1,A
+1921-03-12,1920/1921,South Shields,Blackpool,1-0,1,0,Football League Second Division,2,H
+1921-03-12,1920/1921,Stockport County,Stoke City,2-0,2,0,Football League Second Division,2,H
+1921-03-12,1920/1921,Wolverhampton Wanderers,Sheffield Wednesday,1-2,1,2,Football League Second Division,2,A
+1921-03-12,1920/1921,Rotherham County,Cardiff City,2-0,2,0,Football League Second Division,2,H
+1921-03-12,1920/1921,Port Vale,Leicester City,0-0,0,0,Football League Second Division,2,D
+1921-03-12,1920/1921,Leyton Orient,Coventry City,0-0,0,0,Football League Second Division,2,D
+1921-03-12,1920/1921,Barnsley,West Ham United,1-1,1,1,Football League Second Division,2,D
+1921-03-12,1920/1921,Bristol City,Birmingham City,0-1,0,1,Football League Second Division,2,A
+1921-03-12,1920/1921,Bury,Leeds United,1-1,1,1,Football League Second Division,2,D
+1921-03-12,1920/1921,Hull City,Notts County,1-1,1,1,Football League Second Division,2,D
+1921-03-12,1920/1921,Nottingham Forest,Fulham,5-1,5,1,Football League Second Division,2,H
+1921-03-12,1920/1921,Exeter City,Swansea City,1-2,1,2,Football League Third Division,3,A
+1921-03-12,1920/1921,Gillingham,Brighton & Hove Albion,1-0,1,0,Football League Third Division,3,H
+1921-03-12,1920/1921,Merthyr Town,Southampton,1-1,1,1,Football League Third Division,3,D
+1921-03-12,1920/1921,Millwall,Queens Park Rangers,0-0,0,0,Football League Third Division,3,D
+1921-03-12,1920/1921,Newport County,Grimsby Town,2-1,2,1,Football League Third Division,3,H
+1921-03-12,1920/1921,Plymouth Argyle,Luton Town,1-0,1,0,Football League Third Division,3,H
+1921-03-12,1920/1921,Portsmouth,Norwich City,2-1,2,1,Football League Third Division,3,H
+1921-03-12,1920/1921,Southend United,Reading,1-0,1,0,Football League Third Division,3,H
+1921-03-12,1920/1921,Swindon Town,Crystal Palace,1-3,1,3,Football League Third Division,3,A
+1921-03-12,1920/1921,Watford,Brentford,1-0,1,0,Football League Third Division,3,H
+1921-03-12,1920/1921,Northampton Town,Bristol Rovers,1-2,1,2,Football League Third Division,3,A
+1921-03-14,1920/1921,West Bromwich Albion,Chelsea,1-1,1,1,Football League First Division,1,D
+1921-03-14,1920/1921,Fulham,Coventry City,2-0,2,0,Football League Second Division,2,H
+1921-03-16,1920/1921,Gillingham,Watford,1-1,1,1,Football League Third Division,3,D
+1921-03-17,1920/1921,Queens Park Rangers,Plymouth Argyle,4-0,4,0,Football League Third Division,3,H
+1921-03-19,1920/1921,West Bromwich Albion,Oldham Athletic,0-0,0,0,Football League First Division,1,D
+1921-03-19,1920/1921,Blackburn Rovers,Newcastle United,3-3,3,3,Football League First Division,1,D
+1921-03-19,1920/1921,Bolton Wanderers,Sheffield United,2-2,2,2,Football League First Division,1,D
+1921-03-19,1920/1921,Bradford City,Manchester United,1-1,1,1,Football League First Division,1,D
+1921-03-19,1920/1921,Derby County,Bradford Park Avenue,1-0,1,0,Football League First Division,1,H
+1921-03-19,1920/1921,Huddersfield Town,Aston Villa,1-0,1,0,Football League First Division,1,H
+1921-03-19,1920/1921,Middlesbrough,Liverpool,0-1,0,1,Football League First Division,1,A
+1921-03-19,1920/1921,Arsenal,Burnley,1-1,1,1,Football League First Division,1,D
+1921-03-19,1920/1921,Sunderland,Chelsea,1-0,1,0,Football League First Division,1,H
+1921-03-19,1920/1921,West Ham United,Barnsley,2-1,2,1,Football League Second Division,2,H
+1921-03-19,1920/1921,Stoke City,Stockport County,1-0,1,0,Football League Second Division,2,H
+1921-03-19,1920/1921,Notts County,Hull City,4-1,4,1,Football League Second Division,2,H
+1921-03-19,1920/1921,Leeds United,Bury,1-0,1,0,Football League Second Division,2,H
+1921-03-19,1920/1921,Leicester City,Port Vale,0-0,0,0,Football League Second Division,2,D
+1921-03-19,1920/1921,Birmingham City,Bristol City,0-0,0,0,Football League Second Division,2,D
+1921-03-19,1920/1921,Blackpool,South Shields,3-2,3,2,Football League Second Division,2,H
+1921-03-19,1920/1921,Coventry City,Leyton Orient,1-1,1,1,Football League Second Division,2,D
+1921-03-19,1920/1921,Fulham,Nottingham Forest,2-1,2,1,Football League Second Division,2,H
+1921-03-19,1920/1921,Swansea City,Exeter City,2-1,2,1,Football League Third Division,3,H
+1921-03-19,1920/1921,Southampton,Merthyr Town,5-0,5,0,Football League Third Division,3,H
+1921-03-19,1920/1921,Reading,Southend United,1-1,1,1,Football League Third Division,3,D
+1921-03-19,1920/1921,Queens Park Rangers,Millwall,0-0,0,0,Football League Third Division,3,D
+1921-03-19,1920/1921,Norwich City,Portsmouth,2-2,2,2,Football League Third Division,3,D
+1921-03-19,1920/1921,Luton Town,Plymouth Argyle,1-1,1,1,Football League Third Division,3,D
+1921-03-19,1920/1921,Grimsby Town,Newport County,1-1,1,1,Football League Third Division,3,D
+1921-03-19,1920/1921,Crystal Palace,Swindon Town,1-0,1,0,Football League Third Division,3,H
+1921-03-19,1920/1921,Bristol Rovers,Northampton Town,4-2,4,2,Football League Third Division,3,H
+1921-03-19,1920/1921,Brighton & Hove Albion,Gillingham,1-0,1,0,Football League Third Division,3,H
+1921-03-19,1920/1921,Brentford,Watford,1-0,1,0,Football League Third Division,3,H
+1921-03-21,1920/1921,Sheffield Wednesday,Hull City,3-0,3,0,Football League Second Division,2,H
+1921-03-25,1920/1921,Blackburn Rovers,Bradford City,2-3,2,3,Football League First Division,1,A
+1921-03-25,1920/1921,Bolton Wanderers,Everton,4-2,4,2,Football League First Division,1,H
+1921-03-25,1920/1921,Liverpool,Tottenham Hotspur,1-1,1,1,Football League First Division,1,D
+1921-03-25,1920/1921,Manchester City,Middlesbrough,2-1,2,1,Football League First Division,1,H
+1921-03-25,1920/1921,Newcastle United,Oldham Athletic,1-2,1,2,Football League First Division,1,A
+1921-03-25,1920/1921,Burnley,Manchester United,1-0,1,0,Football League First Division,1,H
+1921-03-25,1920/1921,Sunderland,Derby County,3-0,3,0,Football League First Division,1,H
+1921-03-25,1920/1921,Preston North End,Bradford Park Avenue,3-3,3,3,Football League First Division,1,D
+1921-03-25,1920/1921,West Ham United,Notts County,0-2,0,2,Football League Second Division,2,A
+1921-03-25,1920/1921,South Shields,Bristol City,0-0,0,0,Football League Second Division,2,D
+1921-03-25,1920/1921,Port Vale,Barnsley,1-1,1,1,Football League Second Division,2,D
+1921-03-25,1920/1921,Nottingham Forest,Stockport County,1-1,1,1,Football League Second Division,2,D
+1921-03-25,1920/1921,Leyton Orient,Wolverhampton Wanderers,0-1,0,1,Football League Second Division,2,A
+1921-03-25,1920/1921,Blackpool,Stoke City,3-1,3,1,Football League Second Division,2,H
+1921-03-25,1920/1921,Bury,Hull City,0-0,0,0,Football League Second Division,2,D
+1921-03-25,1920/1921,Fulham,Birmingham City,5-0,5,0,Football League Second Division,2,H
+1921-03-25,1920/1921,Brighton & Hove Albion,Norwich City,2-0,2,0,Football League Third Division,3,H
+1921-03-25,1920/1921,Bristol Rovers,Queens Park Rangers,3-0,3,0,Football League Third Division,3,H
+1921-03-25,1920/1921,Gillingham,Southend United,1-1,1,1,Football League Third Division,3,D
+1921-03-25,1920/1921,Grimsby Town,Brentford,2-0,2,0,Football League Third Division,3,H
+1921-03-25,1920/1921,Portsmouth,Exeter City,2-1,2,1,Football League Third Division,3,H
+1921-03-25,1920/1921,Plymouth Argyle,Millwall,0-2,0,2,Football League Third Division,3,A
+1921-03-25,1920/1921,Swansea City,Reading,2-1,2,1,Football League Third Division,3,H
+1921-03-25,1920/1921,Watford,Luton Town,1-0,1,0,Football League Third Division,3,H
+1921-03-25,1920/1921,Newport County,Merthyr Town,0-3,0,3,Football League Third Division,3,A
+1921-03-26,1920/1921,Bradford City,Chelsea,1-1,1,1,Football League First Division,1,D
+1921-03-26,1920/1921,Blackburn Rovers,Liverpool,1-1,1,1,Football League First Division,1,D
+1921-03-26,1920/1921,Bolton Wanderers,Bradford Park Avenue,2-0,2,0,Football League First Division,1,H
+1921-03-26,1920/1921,Derby County,Newcastle United,0-1,0,1,Football League First Division,1,A
+1921-03-26,1920/1921,Everton,Oldham Athletic,5-2,5,2,Football League First Division,1,H
+1921-03-26,1920/1921,Huddersfield Town,Manchester United,5-2,5,2,Football League First Division,1,H
+1921-03-26,1920/1921,Manchester City,Burnley,3-0,3,0,Football League First Division,1,H
+1921-03-26,1920/1921,Arsenal,Sheffield United,2-6,2,6,Football League First Division,1,A
+1921-03-26,1920/1921,Sunderland,Tottenham Hotspur,0-1,0,1,Football League First Division,1,A
+1921-03-26,1920/1921,West Bromwich Albion,Preston North End,0-3,0,3,Football League First Division,1,A
+1921-03-26,1920/1921,Middlesbrough,Aston Villa,1-4,1,4,Football League First Division,1,A
+1921-03-26,1920/1921,Sheffield Wednesday,Stockport County,2-1,2,1,Football League Second Division,2,H
+1921-03-26,1920/1921,Stoke City,Leyton Orient,0-1,0,1,Football League Second Division,2,A
+1921-03-26,1920/1921,West Ham United,Nottingham Forest,3-0,3,0,Football League Second Division,2,H
+1921-03-26,1920/1921,Notts County,Wolverhampton Wanderers,2-1,2,1,Football League Second Division,2,H
+1921-03-26,1920/1921,Leicester City,South Shields,2-0,2,0,Football League Second Division,2,H
+1921-03-26,1920/1921,Fulham,Rotherham County,1-0,1,0,Football League Second Division,2,H
+1921-03-26,1920/1921,Leeds United,Bristol City,0-1,0,1,Football League Second Division,2,A
+1921-03-26,1920/1921,Birmingham City,Barnsley,1-3,1,3,Football League Second Division,2,A
+1921-03-26,1920/1921,Blackpool,Hull City,1-2,1,2,Football League Second Division,2,A
+1921-03-26,1920/1921,Cardiff City,Port Vale,1-2,1,2,Football League Second Division,2,A
+1921-03-26,1920/1921,Coventry City,Bury,1-0,1,0,Football League Second Division,2,H
+1921-03-26,1920/1921,Bristol Rovers,Southend United,2-1,2,1,Football League Third Division,3,H
+1921-03-26,1920/1921,Brentford,Northampton Town,1-1,1,1,Football League Third Division,3,D
+1921-03-26,1920/1921,Brighton & Hove Albion,Swindon Town,0-3,0,3,Football League Third Division,3,A
+1921-03-26,1920/1921,Crystal Palace,Portsmouth,3-0,3,0,Football League Third Division,3,H
+1921-03-26,1920/1921,Reading,Merthyr Town,2-0,2,0,Football League Third Division,3,H
+1921-03-26,1920/1921,Luton Town,Exeter City,3-0,3,0,Football League Third Division,3,H
+1921-03-26,1920/1921,Norwich City,Watford,1-1,1,1,Football League Third Division,3,D
+1921-03-26,1920/1921,Swansea City,Millwall,0-0,0,0,Football League Third Division,3,D
+1921-03-26,1920/1921,Queens Park Rangers,Newport County,2-0,2,0,Football League Third Division,3,H
+1921-03-26,1920/1921,Southampton,Plymouth Argyle,1-0,1,0,Football League Third Division,3,H
+1921-03-26,1920/1921,Grimsby Town,Gillingham,2-0,2,0,Football League Third Division,3,H
+1921-03-28,1920/1921,Arsenal,West Bromwich Albion,2-1,2,1,Football League First Division,1,H
+1921-03-28,1920/1921,Aston Villa,Chelsea,3-0,3,0,Football League First Division,1,H
+1921-03-28,1920/1921,Bradford Park Avenue,Preston North End,1-3,1,3,Football League First Division,1,A
+1921-03-28,1920/1921,Derby County,Sunderland,0-1,0,1,Football League First Division,1,A
+1921-03-28,1920/1921,Manchester United,Burnley,0-3,0,3,Football League First Division,1,A
+1921-03-28,1920/1921,Everton,Bolton Wanderers,2-3,2,3,Football League First Division,1,A
+1921-03-28,1920/1921,Oldham Athletic,Newcastle United,0-0,0,0,Football League First Division,1,D
+1921-03-28,1920/1921,Tottenham Hotspur,Liverpool,1-0,1,0,Football League First Division,1,H
+1921-03-28,1920/1921,Middlesbrough,Manchester City,3-1,3,1,Football League First Division,1,H
+1921-03-28,1920/1921,Stoke City,Blackpool,1-1,1,1,Football League Second Division,2,D
+1921-03-28,1920/1921,Wolverhampton Wanderers,Leyton Orient,0-2,0,2,Football League Second Division,2,A
+1921-03-28,1920/1921,Stockport County,Nottingham Forest,1-0,1,0,Football League Second Division,2,H
+1921-03-28,1920/1921,Sheffield Wednesday,Rotherham County,2-0,2,0,Football League Second Division,2,H
+1921-03-28,1920/1921,Leicester City,Coventry City,0-1,0,1,Football League Second Division,2,A
+1921-03-28,1920/1921,Notts County,West Ham United,1-1,1,1,Football League Second Division,2,D
+1921-03-28,1920/1921,Barnsley,Port Vale,3-0,3,0,Football League Second Division,2,H
+1921-03-28,1920/1921,Bristol City,South Shields,4-2,4,2,Football League Second Division,2,H
+1921-03-28,1920/1921,Cardiff City,Leeds United,1-0,1,0,Football League Second Division,2,H
+1921-03-28,1920/1921,Hull City,Bury,1-1,1,1,Football League Second Division,2,D
+1921-03-28,1920/1921,Brentford,Grimsby Town,5-0,5,0,Football League Third Division,3,H
+1921-03-28,1920/1921,Exeter City,Portsmouth,0-0,0,0,Football League Third Division,3,D
+1921-03-28,1920/1921,Luton Town,Watford,1-0,1,0,Football League Third Division,3,H
+1921-03-28,1920/1921,Merthyr Town,Newport County,1-2,1,2,Football League Third Division,3,A
+1921-03-28,1920/1921,Queens Park Rangers,Bristol Rovers,2-1,2,1,Football League Third Division,3,H
+1921-03-28,1920/1921,Norwich City,Brighton & Hove Albion,3-0,3,0,Football League Third Division,3,H
+1921-03-28,1920/1921,Reading,Swansea City,1-3,1,3,Football League Third Division,3,A
+1921-03-28,1920/1921,Southampton,Crystal Palace,1-1,1,1,Football League Third Division,3,D
+1921-03-28,1920/1921,Southend United,Gillingham,1-0,1,0,Football League Third Division,3,H
+1921-03-28,1920/1921,Millwall,Plymouth Argyle,0-0,0,0,Football League Third Division,3,D
+1921-03-28,1920/1921,Swindon Town,Northampton Town,2-1,2,1,Football League Third Division,3,H
+1921-03-29,1920/1921,West Bromwich Albion,Arsenal,3-4,3,4,Football League First Division,1,A
+1921-03-29,1920/1921,Huddersfield Town,Sheffield United,1-0,1,0,Football League First Division,1,H
+1921-03-29,1920/1921,Chelsea,Aston Villa,5-1,5,1,Football League First Division,1,H
+1921-03-29,1920/1921,Bradford City,Blackburn Rovers,3-4,3,4,Football League First Division,1,A
+1921-03-29,1920/1921,Leeds United,Cardiff City,1-2,1,2,Football League Second Division,2,A
+1921-03-29,1920/1921,Coventry City,Leicester City,1-0,1,0,Football League Second Division,2,H
+1921-03-29,1920/1921,Birmingham City,Fulham,1-0,1,0,Football League Second Division,2,H
+1921-03-29,1920/1921,Bristol Rovers,Luton Town,5-0,5,0,Football League Third Division,3,H
+1921-03-29,1920/1921,Northampton Town,Swindon Town,1-2,1,2,Football League Third Division,3,A
+1921-03-29,1920/1921,Crystal Palace,Southampton,1-1,1,1,Football League Third Division,3,D
+1921-04-02,1920/1921,Aston Villa,Middlesbrough,0-1,0,1,Football League First Division,1,A
+1921-04-02,1920/1921,Bradford Park Avenue,Bolton Wanderers,2-1,2,1,Football League First Division,1,H
+1921-04-02,1920/1921,Burnley,Manchester City,2-1,2,1,Football League First Division,1,H
+1921-04-02,1920/1921,Chelsea,Bradford City,3-1,3,1,Football League First Division,1,H
+1921-04-02,1920/1921,Liverpool,Blackburn Rovers,2-0,2,0,Football League First Division,1,H
+1921-04-02,1920/1921,Manchester United,Huddersfield Town,2-0,2,0,Football League First Division,1,H
+1921-04-02,1920/1921,Newcastle United,Derby County,0-1,0,1,Football League First Division,1,A
+1921-04-02,1920/1921,Preston North End,West Bromwich Albion,2-1,2,1,Football League First Division,1,H
+1921-04-02,1920/1921,Sheffield United,Arsenal,1-1,1,1,Football League First Division,1,D
+1921-04-02,1920/1921,Tottenham Hotspur,Sunderland,0-0,0,0,Football League First Division,1,D
+1921-04-02,1920/1921,Oldham Athletic,Everton,0-1,0,1,Football League First Division,1,A
+1921-04-02,1920/1921,Port Vale,Cardiff City,0-0,0,0,Football League Second Division,2,D
+1921-04-02,1920/1921,Rotherham County,Fulham,2-0,2,0,Football League Second Division,2,H
+1921-04-02,1920/1921,South Shields,Leicester City,4-3,4,3,Football League Second Division,2,H
+1921-04-02,1920/1921,Stockport County,Sheffield Wednesday,0-1,0,1,Football League Second Division,2,A
+1921-04-02,1920/1921,Wolverhampton Wanderers,Notts County,1-0,1,0,Football League Second Division,2,H
+1921-04-02,1920/1921,Nottingham Forest,West Ham United,1-0,1,0,Football League Second Division,2,H
+1921-04-02,1920/1921,Hull City,Blackpool,2-1,2,1,Football League Second Division,2,H
+1921-04-02,1920/1921,Leyton Orient,Stoke City,3-2,3,2,Football League Second Division,2,H
+1921-04-02,1920/1921,Barnsley,Birmingham City,1-1,1,1,Football League Second Division,2,D
+1921-04-02,1920/1921,Bristol City,Leeds United,0-0,0,0,Football League Second Division,2,D
+1921-04-02,1920/1921,Bury,Coventry City,2-0,2,0,Football League Second Division,2,H
+1921-04-02,1920/1921,Exeter City,Luton Town,1-0,1,0,Football League Third Division,3,H
+1921-04-02,1920/1921,Gillingham,Grimsby Town,2-1,2,1,Football League Third Division,3,H
+1921-04-02,1920/1921,Newport County,Queens Park Rangers,1-3,1,3,Football League Third Division,3,A
+1921-04-02,1920/1921,Millwall,Swansea City,0-2,0,2,Football League Third Division,3,A
+1921-04-02,1920/1921,Northampton Town,Brentford,6-2,6,2,Football League Third Division,3,H
+1921-04-02,1920/1921,Plymouth Argyle,Southampton,0-0,0,0,Football League Third Division,3,D
+1921-04-02,1920/1921,Portsmouth,Crystal Palace,0-0,0,0,Football League Third Division,3,D
+1921-04-02,1920/1921,Southend United,Bristol Rovers,1-0,1,0,Football League Third Division,3,H
+1921-04-02,1920/1921,Swindon Town,Brighton & Hove Albion,2-0,2,0,Football League Third Division,3,H
+1921-04-02,1920/1921,Merthyr Town,Reading,1-0,1,0,Football League Third Division,3,H
+1921-04-02,1920/1921,Watford,Norwich City,2-0,2,0,Football League Third Division,3,H
+1921-04-04,1920/1921,Bolton Wanderers,Preston North End,3-0,3,0,Football League First Division,1,H
+1921-04-04,1920/1921,Cardiff City,Nottingham Forest,3-0,3,0,Football League Second Division,2,H
+1921-04-06,1920/1921,Everton,Chelsea,5-1,5,1,Football League First Division,1,H
+1921-04-06,1920/1921,Southend United,Millwall,1-2,1,2,Football League Third Division,3,A
+1921-04-09,1920/1921,Arsenal,Bradford Park Avenue,2-1,2,1,Football League First Division,1,H
+1921-04-09,1920/1921,Blackburn Rovers,Aston Villa,0-1,0,1,Football League First Division,1,A
+1921-04-09,1920/1921,Bolton Wanderers,Newcastle United,3-1,3,1,Football League First Division,1,H
+1921-04-09,1920/1921,Bradford City,Tottenham Hotspur,1-0,1,0,Football League First Division,1,H
+1921-04-09,1920/1921,Derby County,Liverpool,0-0,0,0,Football League First Division,1,D
+1921-04-09,1920/1921,Everton,Preston North End,0-1,0,1,Football League First Division,1,A
+1921-04-09,1920/1921,Huddersfield Town,Chelsea,2-0,2,0,Football League First Division,1,H
+1921-04-09,1920/1921,Middlesbrough,Manchester United,2-4,2,4,Football League First Division,1,A
+1921-04-09,1920/1921,Sunderland,Oldham Athletic,1-1,1,1,Football League First Division,1,D
+1921-04-09,1920/1921,West Bromwich Albion,Burnley,2-0,2,0,Football League First Division,1,H
+1921-04-09,1920/1921,Manchester City,Sheffield United,2-1,2,1,Football League First Division,1,H
+1921-04-09,1920/1921,Leicester City,Hull City,0-0,0,0,Football League Second Division,2,D
+1921-04-09,1920/1921,Notts County,Stockport County,3-0,3,0,Football League Second Division,2,H
+1921-04-09,1920/1921,Sheffield Wednesday,Leyton Orient,1-1,1,1,Football League Second Division,2,D
+1921-04-09,1920/1921,Stoke City,Bury,0-1,0,1,Football League Second Division,2,A
+1921-04-09,1920/1921,West Ham United,Rotherham County,1-0,1,0,Football League Second Division,2,H
+1921-04-09,1920/1921,Leeds United,Barnsley,0-0,0,0,Football League Second Division,2,D
+1921-04-09,1920/1921,Coventry City,Bristol City,2-1,2,1,Football League Second Division,2,H
+1921-04-09,1920/1921,Fulham,Port Vale,1-0,1,0,Football League Second Division,2,H
+1921-04-09,1920/1921,Birmingham City,Nottingham Forest,3-0,3,0,Football League Second Division,2,H
+1921-04-09,1920/1921,Blackpool,Wolverhampton Wanderers,3-0,3,0,Football League Second Division,2,H
+1921-04-09,1920/1921,Cardiff City,South Shields,1-0,1,0,Football League Second Division,2,H
+1921-04-09,1920/1921,Brentford,Southend United,2-2,2,2,Football League Third Division,3,D
+1921-04-09,1920/1921,Brighton & Hove Albion,Portsmouth,3-0,3,0,Football League Third Division,3,H
+1921-04-09,1920/1921,Crystal Palace,Watford,2-2,2,2,Football League Third Division,3,D
+1921-04-09,1920/1921,Grimsby Town,Swindon Town,3-0,3,0,Football League Third Division,3,H
+1921-04-09,1920/1921,Luton Town,Millwall,0-0,0,0,Football League Third Division,3,D
+1921-04-09,1920/1921,Newport County,Swansea City,1-1,1,1,Football League Third Division,3,D
+1921-04-09,1920/1921,Southampton,Exeter City,3-0,3,0,Football League Third Division,3,H
+1921-04-09,1920/1921,Queens Park Rangers,Gillingham,0-1,0,1,Football League Third Division,3,A
+1921-04-09,1920/1921,Reading,Plymouth Argyle,1-1,1,1,Football League Third Division,3,D
+1921-04-09,1920/1921,Bristol Rovers,Merthyr Town,1-1,1,1,Football League Third Division,3,D
+1921-04-09,1920/1921,Norwich City,Northampton Town,3-3,3,3,Football League Third Division,3,D
+1921-04-11,1920/1921,Sheffield Wednesday,Wolverhampton Wanderers,6-0,6,0,Football League Second Division,2,H
+1921-04-11,1920/1921,Stoke City,Hull City,1-3,1,3,Football League Second Division,2,A
+1921-04-11,1920/1921,Cardiff City,Rotherham County,1-0,1,0,Football League Second Division,2,H
+1921-04-13,1920/1921,Gillingham,Swindon Town,1-1,1,1,Football League Third Division,3,D
+1921-04-13,1920/1921,Plymouth Argyle,Portsmouth,2-0,2,0,Football League Third Division,3,H
+1921-04-16,1920/1921,Preston North End,Everton,1-0,1,0,Football League First Division,1,H
+1921-04-16,1920/1921,Aston Villa,Blackburn Rovers,3-0,3,0,Football League First Division,1,H
+1921-04-16,1920/1921,Bradford Park Avenue,Arsenal,0-1,0,1,Football League First Division,1,A
+1921-04-16,1920/1921,Burnley,West Bromwich Albion,1-1,1,1,Football League First Division,1,D
+1921-04-16,1920/1921,Chelsea,Huddersfield Town,1-1,1,1,Football League First Division,1,D
+1921-04-16,1920/1921,Liverpool,Derby County,1-1,1,1,Football League First Division,1,D
+1921-04-16,1920/1921,Manchester United,Middlesbrough,0-1,0,1,Football League First Division,1,A
+1921-04-16,1920/1921,Newcastle United,Bolton Wanderers,1-0,1,0,Football League First Division,1,H
+1921-04-16,1920/1921,Sheffield United,Manchester City,1-1,1,1,Football League First Division,1,D
+1921-04-16,1920/1921,Tottenham Hotspur,Bradford City,2-0,2,0,Football League First Division,1,H
+1921-04-16,1920/1921,Oldham Athletic,Sunderland,2-1,2,1,Football League First Division,1,H
+1921-04-16,1920/1921,Rotherham County,West Ham United,2-0,2,0,Football League Second Division,2,H
+1921-04-16,1920/1921,South Shields,Cardiff City,0-1,0,1,Football League Second Division,2,A
+1921-04-16,1920/1921,Stockport County,Notts County,1-0,1,0,Football League Second Division,2,H
+1921-04-16,1920/1921,Wolverhampton Wanderers,Blackpool,3-1,3,1,Football League Second Division,2,H
+1921-04-16,1920/1921,Port Vale,Fulham,0-0,0,0,Football League Second Division,2,D
+1921-04-16,1920/1921,Leyton Orient,Sheffield Wednesday,1-0,1,0,Football League Second Division,2,H
+1921-04-16,1920/1921,Nottingham Forest,Birmingham City,1-1,1,1,Football League Second Division,2,D
+1921-04-16,1920/1921,Barnsley,Leeds United,1-1,1,1,Football League Second Division,2,D
+1921-04-16,1920/1921,Bristol City,Coventry City,2-0,2,0,Football League Second Division,2,H
+1921-04-16,1920/1921,Bury,Stoke City,3-0,3,0,Football League Second Division,2,H
+1921-04-16,1920/1921,Hull City,Leicester City,1-1,1,1,Football League Second Division,2,D
+1921-04-16,1920/1921,Exeter City,Southampton,1-0,1,0,Football League Third Division,3,H
+1921-04-16,1920/1921,Gillingham,Queens Park Rangers,1-2,1,2,Football League Third Division,3,A
+1921-04-16,1920/1921,Watford,Crystal Palace,1-1,1,1,Football League Third Division,3,D
+1921-04-16,1920/1921,Millwall,Luton Town,0-0,0,0,Football League Third Division,3,D
+1921-04-16,1920/1921,Northampton Town,Norwich City,1-0,1,0,Football League Third Division,3,H
+1921-04-16,1920/1921,Plymouth Argyle,Reading,1-1,1,1,Football League Third Division,3,D
+1921-04-16,1920/1921,Portsmouth,Brighton & Hove Albion,3-0,3,0,Football League Third Division,3,H
+1921-04-16,1920/1921,Southend United,Brentford,4-1,4,1,Football League Third Division,3,H
+1921-04-16,1920/1921,Swansea City,Newport County,1-2,1,2,Football League Third Division,3,A
+1921-04-16,1920/1921,Swindon Town,Grimsby Town,0-0,0,0,Football League Third Division,3,D
+1921-04-16,1920/1921,Merthyr Town,Bristol Rovers,2-2,2,2,Football League Third Division,3,D
+1921-04-20,1920/1921,Manchester City,Preston North End,5-1,5,1,Football League First Division,1,H
+1921-04-20,1920/1921,Swindon Town,Watford,2-0,2,0,Football League Third Division,3,H
+1921-04-23,1920/1921,West Bromwich Albion,Sheffield United,1-1,1,1,Football League First Division,1,D
+1921-04-23,1920/1921,Sunderland,Preston North End,2-2,2,2,Football League First Division,1,D
+1921-04-23,1920/1921,Middlesbrough,Chelsea,0-0,0,0,Football League First Division,1,D
+1921-04-23,1920/1921,Everton,Burnley,1-1,1,1,Football League First Division,1,D
+1921-04-23,1920/1921,Derby County,Aston Villa,2-3,2,3,Football League First Division,1,A
+1921-04-23,1920/1921,Bradford City,Oldham Athletic,1-3,1,3,Football League First Division,1,A
+1921-04-23,1920/1921,Bolton Wanderers,Liverpool,1-0,1,0,Football League First Division,1,H
+1921-04-23,1920/1921,Blackburn Rovers,Manchester United,2-0,2,0,Football League First Division,1,H
+1921-04-23,1920/1921,Arsenal,Newcastle United,1-1,1,1,Football League First Division,1,D
+1921-04-23,1920/1921,Manchester City,Bradford Park Avenue,1-0,1,0,Football League First Division,1,H
+1921-04-23,1920/1921,Sheffield Wednesday,Bury,2-0,2,0,Football League Second Division,2,H
+1921-04-23,1920/1921,Stoke City,Bristol City,0-0,0,0,Football League Second Division,2,D
+1921-04-23,1920/1921,West Ham United,Port Vale,1-1,1,1,Football League Second Division,2,D
+1921-04-23,1920/1921,Notts County,Leyton Orient,3-1,3,1,Football League Second Division,2,H
+1921-04-23,1920/1921,Leeds United,Nottingham Forest,1-1,1,1,Football League Second Division,2,D
+1921-04-23,1920/1921,Birmingham City,Rotherham County,3-2,3,2,Football League Second Division,2,H
+1921-04-23,1920/1921,Coventry City,Barnsley,3-1,3,1,Football League Second Division,2,H
+1921-04-23,1920/1921,Cardiff City,Hull City,0-0,0,0,Football League Second Division,2,D
+1921-04-23,1920/1921,Blackpool,Stockport County,1-1,1,1,Football League Second Division,2,D
+1921-04-23,1920/1921,Fulham,South Shields,0-0,0,0,Football League Second Division,2,D
+1921-04-23,1920/1921,Brighton & Hove Albion,Watford,0-3,0,3,Football League Third Division,3,A
+1921-04-23,1920/1921,Bristol Rovers,Plymouth Argyle,2-0,2,0,Football League Third Division,3,H
+1921-04-23,1920/1921,Norwich City,Southend United,3-1,3,1,Football League Third Division,3,H
+1921-04-23,1920/1921,Grimsby Town,Portsmouth,0-3,0,3,Football League Third Division,3,A
+1921-04-23,1920/1921,Luton Town,Newport County,2-2,2,2,Football League Third Division,3,D
+1921-04-23,1920/1921,Queens Park Rangers,Swindon Town,1-0,1,0,Football League Third Division,3,H
+1921-04-23,1920/1921,Reading,Exeter City,0-1,0,1,Football League Third Division,3,A
+1921-04-23,1920/1921,Southampton,Millwall,1-1,1,1,Football League Third Division,3,D
+1921-04-23,1920/1921,Crystal Palace,Northampton Town,5-1,5,1,Football League Third Division,3,H
+1921-04-23,1920/1921,Swansea City,Gillingham,2-0,2,0,Football League Third Division,3,H
+1921-04-25,1920/1921,Arsenal,Preston North End,2-1,2,1,Football League First Division,1,H
+1921-04-25,1920/1921,Huddersfield Town,Tottenham Hotspur,2-0,2,0,Football League First Division,1,H
+1921-04-25,1920/1921,Leyton Orient,Port Vale,0-0,0,0,Football League Second Division,2,D
+1921-04-25,1920/1921,Brentford,Merthyr Town,0-0,0,0,Football League Third Division,3,D
+1921-04-27,1920/1921,Everton,Tottenham Hotspur,0-0,0,0,Football League First Division,1,D
+1921-04-28,1920/1921,Leicester City,Wolverhampton Wanderers,0-0,0,0,Football League Second Division,2,D
+1921-04-28,1920/1921,Swansea City,Brentford,1-1,1,1,Football League Third Division,3,D
+1921-04-30,1920/1921,Bradford Park Avenue,Manchester City,1-2,1,2,Football League First Division,1,A
+1921-04-30,1920/1921,Burnley,Everton,1-1,1,1,Football League First Division,1,D
+1921-04-30,1920/1921,Chelsea,Middlesbrough,1-1,1,1,Football League First Division,1,D
+1921-04-30,1920/1921,Liverpool,Bolton Wanderers,2-3,2,3,Football League First Division,1,A
+1921-04-30,1920/1921,Manchester United,Blackburn Rovers,0-1,0,1,Football League First Division,1,A
+1921-04-30,1920/1921,Newcastle United,Arsenal,1-0,1,0,Football League First Division,1,H
+1921-04-30,1920/1921,Aston Villa,Derby County,1-0,1,0,Football League First Division,1,H
+1921-04-30,1920/1921,Preston North End,Sunderland,1-1,1,1,Football League First Division,1,D
+1921-04-30,1920/1921,Sheffield United,West Bromwich Albion,0-2,0,2,Football League First Division,1,A
+1921-04-30,1920/1921,Tottenham Hotspur,Huddersfield Town,1-0,1,0,Football League First Division,1,H
+1921-04-30,1920/1921,Oldham Athletic,Bradford City,2-0,2,0,Football League First Division,1,H
+1921-04-30,1920/1921,Rotherham County,Birmingham City,1-1,1,1,Football League Second Division,2,D
+1921-04-30,1920/1921,South Shields,Fulham,3-0,3,0,Football League Second Division,2,H
+1921-04-30,1920/1921,Wolverhampton Wanderers,Leicester City,3-0,3,0,Football League Second Division,2,H
+1921-04-30,1920/1921,Port Vale,West Ham United,1-2,1,2,Football League Second Division,2,A
+1921-04-30,1920/1921,Nottingham Forest,Leeds United,1-0,1,0,Football League Second Division,2,H
+1921-04-30,1920/1921,Stockport County,Blackpool,2-2,2,2,Football League Second Division,2,D
+1921-04-30,1920/1921,Hull City,Cardiff City,2-0,2,0,Football League Second Division,2,H
+1921-04-30,1920/1921,Leyton Orient,Notts County,3-0,3,0,Football League Second Division,2,H
+1921-04-30,1920/1921,Barnsley,Coventry City,2-2,2,2,Football League Second Division,2,D
+1921-04-30,1920/1921,Bristol City,Stoke City,5-0,5,0,Football League Second Division,2,H
+1921-04-30,1920/1921,Bury,Sheffield Wednesday,1-1,1,1,Football League Second Division,2,D
+1921-04-30,1920/1921,Exeter City,Reading,0-1,0,1,Football League Third Division,3,A
+1921-04-30,1920/1921,Gillingham,Swansea City,2-1,2,1,Football League Third Division,3,H
+1921-04-30,1920/1921,Merthyr Town,Brentford,3-1,3,1,Football League Third Division,3,H
+1921-04-30,1920/1921,Newport County,Luton Town,2-0,2,0,Football League Third Division,3,H
+1921-04-30,1920/1921,Northampton Town,Crystal Palace,2-2,2,2,Football League Third Division,3,D
+1921-04-30,1920/1921,Plymouth Argyle,Bristol Rovers,2-1,2,1,Football League Third Division,3,H
+1921-04-30,1920/1921,Portsmouth,Grimsby Town,2-1,2,1,Football League Third Division,3,H
+1921-04-30,1920/1921,Southend United,Norwich City,3-1,3,1,Football League Third Division,3,H
+1921-04-30,1920/1921,Swindon Town,Queens Park Rangers,0-1,0,1,Football League Third Division,3,A
+1921-04-30,1920/1921,Watford,Brighton & Hove Albion,1-0,1,0,Football League Third Division,3,H
+1921-04-30,1920/1921,Millwall,Southampton,0-1,0,1,Football League Third Division,3,A
+1921-05-02,1920/1921,Huddersfield Town,Oldham Athletic,3-1,3,1,Football League First Division,1,H
+1921-05-02,1920/1921,Arsenal,Liverpool,0-0,0,0,Football League First Division,1,D
+1921-05-02,1920/1921,Blackburn Rovers,Chelsea,0-0,0,0,Football League First Division,1,D
+1921-05-02,1920/1921,Bradford City,Preston North End,6-2,6,2,Football League First Division,1,H
+1921-05-02,1920/1921,Manchester City,Newcastle United,3-1,3,1,Football League First Division,1,H
+1921-05-02,1920/1921,Derby County,Manchester United,1-1,1,1,Football League First Division,1,D
+1921-05-02,1920/1921,Sunderland,Burnley,1-0,1,0,Football League First Division,1,H
+1921-05-02,1920/1921,West Bromwich Albion,Bradford Park Avenue,0-1,0,1,Football League First Division,1,A
+1921-05-02,1920/1921,Middlesbrough,Tottenham Hotspur,1-0,1,0,Football League First Division,1,H
+1921-05-02,1920/1921,Stoke City,Barnsley,3-2,3,2,Football League Second Division,2,H
+1921-05-02,1920/1921,West Ham United,South Shields,2-1,2,1,Football League Second Division,2,H
+1921-05-02,1920/1921,Sheffield Wednesday,Bristol City,2-2,2,2,Football League Second Division,2,D
+1921-05-02,1920/1921,Notts County,Bury,2-1,2,1,Football League Second Division,2,H
+1921-05-02,1920/1921,Fulham,Hull City,3-0,3,0,Football League Second Division,2,H
+1921-05-02,1920/1921,Leicester City,Stockport County,0-0,0,0,Football League Second Division,2,D
+1921-05-02,1920/1921,Birmingham City,Port Vale,4-0,4,0,Football League Second Division,2,H
+1921-05-02,1920/1921,Cardiff City,Wolverhampton Wanderers,2-0,2,0,Football League Second Division,2,H
+1921-05-02,1920/1921,Coventry City,Nottingham Forest,0-0,0,0,Football League Second Division,2,D
+1921-05-02,1920/1921,Brentford,Plymouth Argyle,0-0,0,0,Football League Third Division,3,D
+1921-05-02,1920/1921,Bristol Rovers,Exeter City,5-0,5,0,Football League Third Division,3,H
+1921-05-02,1920/1921,Grimsby Town,Watford,3-0,3,0,Football League Third Division,3,H
+1921-05-02,1920/1921,Queens Park Rangers,Portsmouth,0-0,0,0,Football League Third Division,3,D
+1921-05-02,1920/1921,Northampton Town,Brighton & Hove Albion,1-0,1,0,Football League Third Division,3,H
+1921-05-02,1920/1921,Norwich City,Merthyr Town,0-0,0,0,Football League Third Division,3,D
+1921-05-02,1920/1921,Southampton,Newport County,0-0,0,0,Football League Third Division,3,D
+1921-05-02,1920/1921,Swansea City,Swindon Town,1-1,1,1,Football League Third Division,3,D
+1921-05-02,1920/1921,Luton Town,Southend United,4-0,4,0,Football League Third Division,3,H
+1921-05-07,1920/1921,Aston Villa,Bolton Wanderers,2-0,2,0,Football League First Division,1,H
+1921-05-07,1920/1921,Bradford Park Avenue,West Bromwich Albion,0-3,0,3,Football League First Division,1,A
+1921-05-07,1920/1921,Burnley,Sunderland,2-2,2,2,Football League First Division,1,D
+1921-05-07,1920/1921,Liverpool,Arsenal,3-0,3,0,Football League First Division,1,H
+1921-05-07,1920/1921,Manchester United,Derby County,3-0,3,0,Football League First Division,1,H
+1921-05-07,1920/1921,Newcastle United,Manchester City,1-1,1,1,Football League First Division,1,D
+1921-05-07,1920/1921,Chelsea,Blackburn Rovers,1-2,1,2,Football League First Division,1,A
+1921-05-07,1920/1921,Preston North End,Bradford City,1-1,1,1,Football League First Division,1,D
+1921-05-07,1920/1921,Tottenham Hotspur,Middlesbrough,2-2,2,2,Football League First Division,1,D
+1921-05-07,1920/1921,Oldham Athletic,Huddersfield Town,1-2,1,2,Football League First Division,1,A
+1921-05-07,1920/1921,South Shields,West Ham United,0-0,0,0,Football League Second Division,2,D
+1921-05-07,1920/1921,Wolverhampton Wanderers,Cardiff City,1-3,1,3,Football League Second Division,2,A
+1921-05-07,1920/1921,Rotherham County,Leeds United,0-2,0,2,Football League Second Division,2,A
+1921-05-07,1920/1921,Port Vale,Birmingham City,0-2,0,2,Football League Second Division,2,A
+1921-05-07,1920/1921,Stockport County,Leicester City,0-0,0,0,Football League Second Division,2,D
+1921-05-07,1920/1921,Leyton Orient,Blackpool,0-0,0,0,Football League Second Division,2,D
+1921-05-07,1920/1921,Nottingham Forest,Coventry City,0-2,0,2,Football League Second Division,2,A
+1921-05-07,1920/1921,Barnsley,Stoke City,1-0,1,0,Football League Second Division,2,H
+1921-05-07,1920/1921,Bristol City,Sheffield Wednesday,0-1,0,1,Football League Second Division,2,A
+1921-05-07,1920/1921,Bury,Notts County,0-1,0,1,Football League Second Division,2,A
+1921-05-07,1920/1921,Hull City,Fulham,0-0,0,0,Football League Second Division,2,D
+1921-05-07,1920/1921,Gillingham,Luton Town,0-0,0,0,Football League Third Division,3,D
+1921-05-07,1920/1921,Brighton & Hove Albion,Northampton Town,3-2,3,2,Football League Third Division,3,H
+1921-05-07,1920/1921,Exeter City,Bristol Rovers,1-0,1,0,Football League Third Division,3,H
+1921-05-07,1920/1921,Merthyr Town,Norwich City,0-0,0,0,Football League Third Division,3,D
+1921-05-07,1920/1921,Watford,Grimsby Town,4-2,4,2,Football League Third Division,3,H
+1921-05-07,1920/1921,Newport County,Southampton,0-0,0,0,Football League Third Division,3,D
+1921-05-07,1920/1921,Plymouth Argyle,Brentford,1-0,1,0,Football League Third Division,3,H
+1921-05-07,1920/1921,Portsmouth,Queens Park Rangers,0-0,0,0,Football League Third Division,3,D
+1921-05-07,1920/1921,Southend United,Crystal Palace,0-2,0,2,Football League Third Division,3,A
+1921-05-07,1920/1921,Swindon Town,Swansea City,0-0,0,0,Football League Third Division,3,D
+1921-05-07,1920/1921,Millwall,Reading,2-0,2,0,Football League Third Division,3,H

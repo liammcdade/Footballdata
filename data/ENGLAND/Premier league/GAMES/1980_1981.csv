@@ -1,0 +1,2029 @@
+Date,Season,HomeTeam,AwayTeam,Score,hGoal,aGoal,Division,Tier,Result
+1980-08-16,1980/1981,Southampton,Manchester City,2-0,2,0,Football League First Division,1,H
+1980-08-16,1980/1981,Birmingham City,Coventry City,3-1,3,1,Football League First Division,1,H
+1980-08-16,1980/1981,Brighton & Hove Albion,Wolverhampton Wanderers,2-0,2,0,Football League First Division,1,H
+1980-08-16,1980/1981,Leeds United,Aston Villa,1-2,1,2,Football League First Division,1,A
+1980-08-16,1980/1981,Leicester City,Ipswich Town,0-1,0,1,Football League First Division,1,A
+1980-08-16,1980/1981,Liverpool,Crystal Palace,3-0,3,0,Football League First Division,1,H
+1980-08-16,1980/1981,Manchester United,Middlesbrough,3-0,3,0,Football League First Division,1,H
+1980-08-16,1980/1981,Norwich City,Stoke City,5-1,5,1,Football League First Division,1,H
+1980-08-16,1980/1981,Sunderland,Everton,3-1,3,1,Football League First Division,1,H
+1980-08-16,1980/1981,Tottenham Hotspur,Nottingham Forest,2-0,2,0,Football League First Division,1,H
+1980-08-16,1980/1981,West Bromwich Albion,Arsenal,0-1,0,1,Football League First Division,1,A
+1980-08-16,1980/1981,Bury,Southend United,1-2,1,2,Football League Fourth Division,4,A
+1980-08-16,1980/1981,York City,AFC Bournemouth,4-0,4,0,Football League Fourth Division,4,H
+1980-08-16,1980/1981,Darlington,Northampton Town,1-0,1,0,Football League Fourth Division,4,H
+1980-08-16,1980/1981,Halifax Town,Mansfield Town,0-2,0,2,Football League Fourth Division,4,A
+1980-08-16,1980/1981,Hereford United,Tranmere Rovers,1-1,1,1,Football League Fourth Division,4,D
+1980-08-16,1980/1981,Lincoln City,Peterborough United,1-1,1,1,Football League Fourth Division,4,D
+1980-08-16,1980/1981,Port Vale,Doncaster Rovers,3-0,3,0,Football League Fourth Division,4,H
+1980-08-16,1980/1981,Scunthorpe United,Aldershot,2-2,2,2,Football League Fourth Division,4,D
+1980-08-16,1980/1981,Stockport County,Rochdale,2-2,2,2,Football League Fourth Division,4,D
+1980-08-16,1980/1981,Wigan Athletic,Hartlepool United,0-3,0,3,Football League Fourth Division,4,A
+1980-08-16,1980/1981,Wimbledon,Bradford City,2-2,2,2,Football League Fourth Division,4,D
+1980-08-16,1980/1981,Crewe Alexandra,Torquay United,0-1,0,1,Football League Fourth Division,4,A
+1980-08-16,1980/1981,West Ham United,Luton Town,1-2,1,2,Football League Second Division,2,A
+1980-08-16,1980/1981,Cambridge United,Derby County,3-0,3,0,Football League Second Division,2,H
+1980-08-16,1980/1981,Cardiff City,Blackburn Rovers,1-2,1,2,Football League Second Division,2,A
+1980-08-16,1980/1981,Chelsea,Wrexham,2-2,2,2,Football League Second Division,2,D
+1980-08-16,1980/1981,Notts County,Bolton Wanderers,2-1,2,1,Football League Second Division,2,H
+1980-08-16,1980/1981,Oldham Athletic,Queens Park Rangers,1-0,1,0,Football League Second Division,2,H
+1980-08-16,1980/1981,Preston North End,Bristol City,1-1,1,1,Football League Second Division,2,D
+1980-08-16,1980/1981,Sheffield Wednesday,Newcastle United,2-0,2,0,Football League Second Division,2,H
+1980-08-16,1980/1981,Shrewsbury Town,Grimsby Town,1-1,1,1,Football League Second Division,2,D
+1980-08-16,1980/1981,Watford,Swansea City,2-1,2,1,Football League Second Division,2,H
+1980-08-16,1980/1981,Bristol Rovers,Leyton Orient,1-1,1,1,Football League Second Division,2,D
+1980-08-16,1980/1981,Rotherham United,Fulham,2-2,2,2,Football League Third Division,3,D
+1980-08-16,1980/1981,Reading,Walsall,2-0,2,0,Football League Third Division,3,H
+1980-08-16,1980/1981,Millwall,Hull City,1-1,1,1,Football League Third Division,3,D
+1980-08-16,1980/1981,Chesterfield,Huddersfield Town,2-1,2,1,Football League Third Division,3,H
+1980-08-16,1980/1981,Colchester United,Plymouth Argyle,2-2,2,2,Football League Third Division,3,D
+1980-08-16,1980/1981,Swindon Town,Blackpool,1-2,1,2,Football League Third Division,3,A
+1980-08-16,1980/1981,Chester,Oxford United,0-1,0,1,Football League Third Division,3,A
+1980-08-16,1980/1981,Charlton Athletic,Brentford,3-1,3,1,Football League Third Division,3,H
+1980-08-16,1980/1981,Exeter City,Gillingham,2-1,2,1,Football League Third Division,3,H
+1980-08-16,1980/1981,Carlisle United,Sheffield United,0-3,0,3,Football League Third Division,3,A
+1980-08-16,1980/1981,Burnley,Newport County,1-1,1,1,Football League Third Division,3,D
+1980-08-16,1980/1981,Barnsley,Portsmouth,1-2,1,2,Football League Third Division,3,A
+1980-08-18,1980/1981,Tranmere Rovers,Crewe Alexandra,0-1,0,1,Football League Fourth Division,4,A
+1980-08-18,1980/1981,Southend United,Port Vale,5-1,5,1,Football League Fourth Division,4,H
+1980-08-18,1980/1981,Mansfield Town,York City,0-1,0,1,Football League Fourth Division,4,A
+1980-08-18,1980/1981,Brentford,Millwall,1-0,1,0,Football League Third Division,3,H
+1980-08-19,1980/1981,Crystal Palace,Tottenham Hotspur,3-4,3,4,Football League First Division,1,A
+1980-08-19,1980/1981,Arsenal,Southampton,1-1,1,1,Football League First Division,1,D
+1980-08-19,1980/1981,Coventry City,Liverpool,0-0,0,0,Football League First Division,1,D
+1980-08-19,1980/1981,Everton,Leicester City,1-0,1,0,Football League First Division,1,H
+1980-08-19,1980/1981,Middlesbrough,Leeds United,3-0,3,0,Football League First Division,1,H
+1980-08-19,1980/1981,Wolverhampton Wanderers,Manchester United,1-0,1,0,Football League First Division,1,H
+1980-08-19,1980/1981,Ipswich Town,Brighton & Hove Albion,2-0,2,0,Football League First Division,1,H
+1980-08-19,1980/1981,Rochdale,Scunthorpe United,4-0,4,0,Football League Fourth Division,4,H
+1980-08-19,1980/1981,Hartlepool United,Bury,1-2,1,2,Football League Fourth Division,4,A
+1980-08-19,1980/1981,Doncaster Rovers,Darlington,2-0,2,0,Football League Fourth Division,4,H
+1980-08-19,1980/1981,Aldershot,Wimbledon,2-0,2,0,Football League Fourth Division,4,H
+1980-08-19,1980/1981,AFC Bournemouth,Hereford United,1-0,1,0,Football League Fourth Division,4,H
+1980-08-19,1980/1981,Wrexham,Cardiff City,0-1,0,1,Football League Second Division,2,A
+1980-08-19,1980/1981,Queens Park Rangers,Bristol Rovers,4-0,4,0,Football League Second Division,2,H
+1980-08-19,1980/1981,Swansea City,Shrewsbury Town,2-1,2,1,Football League Second Division,2,H
+1980-08-19,1980/1981,Bristol City,West Ham United,1-1,1,1,Football League Second Division,2,D
+1980-08-19,1980/1981,Grimsby Town,Preston North End,0-0,0,0,Football League Second Division,2,D
+1980-08-19,1980/1981,Leyton Orient,Cambridge United,3-0,3,0,Football League Second Division,2,H
+1980-08-19,1980/1981,Luton Town,Watford,1-0,1,0,Football League Second Division,2,H
+1980-08-19,1980/1981,Bolton Wanderers,Sheffield Wednesday,0-0,0,0,Football League Second Division,2,D
+1980-08-19,1980/1981,Sheffield United,Chesterfield,2-0,2,0,Football League Third Division,3,H
+1980-08-19,1980/1981,Portsmouth,Swindon Town,1-0,1,0,Football League Third Division,3,H
+1980-08-19,1980/1981,Plymouth Argyle,Chester,2-0,2,0,Football League Third Division,3,H
+1980-08-19,1980/1981,Newport County,Charlton Athletic,1-2,1,2,Football League Third Division,3,A
+1980-08-19,1980/1981,Hull City,Barnsley,1-2,1,2,Football League Third Division,3,A
+1980-08-19,1980/1981,Gillingham,Reading,2-0,2,0,Football League Third Division,3,H
+1980-08-19,1980/1981,Huddersfield Town,Carlisle United,1-1,1,1,Football League Third Division,3,D
+1980-08-20,1980/1981,Stoke City,West Bromwich Albion,0-0,0,0,Football League First Division,1,D
+1980-08-20,1980/1981,Nottingham Forest,Birmingham City,2-1,2,1,Football League First Division,1,H
+1980-08-20,1980/1981,Manchester City,Sunderland,0-4,0,4,Football League First Division,1,A
+1980-08-20,1980/1981,Aston Villa,Norwich City,1-0,1,0,Football League First Division,1,H
+1980-08-20,1980/1981,Torquay United,Lincoln City,1-2,1,2,Football League Fourth Division,4,A
+1980-08-20,1980/1981,Southend United,Tranmere Rovers,2-0,2,0,Football League Fourth Division,4,H
+1980-08-20,1980/1981,Peterborough United,Halifax Town,2-2,2,2,Football League Fourth Division,4,D
+1980-08-20,1980/1981,Bradford City,Stockport County,1-1,1,1,Football League Fourth Division,4,D
+1980-08-20,1980/1981,Blackburn Rovers,Oldham Athletic,1-0,1,0,Football League Second Division,2,H
+1980-08-20,1980/1981,Newcastle United,Notts County,1-1,1,1,Football League Second Division,2,D
+1980-08-20,1980/1981,Derby County,Chelsea,3-2,3,2,Football League Second Division,2,H
+1980-08-20,1980/1981,Oxford United,Exeter City,1-2,1,2,Football League Third Division,3,A
+1980-08-20,1980/1981,Walsall,Burnley,3-1,3,1,Football League Third Division,3,H
+1980-08-20,1980/1981,Fulham,Colchester United,1-0,1,0,Football League Third Division,3,H
+1980-08-20,1980/1981,Blackpool,Rotherham United,0-0,0,0,Football League Third Division,3,D
+1980-08-23,1980/1981,Coventry City,Arsenal,3-1,3,1,Football League First Division,1,H
+1980-08-23,1980/1981,Crystal Palace,Middlesbrough,5-2,5,2,Football League First Division,1,H
+1980-08-23,1980/1981,Everton,Nottingham Forest,0-0,0,0,Football League First Division,1,D
+1980-08-23,1980/1981,Leicester City,Liverpool,2-0,2,0,Football League First Division,1,H
+1980-08-23,1980/1981,Manchester City,Aston Villa,2-2,2,2,Football League First Division,1,D
+1980-08-23,1980/1981,Norwich City,Leeds United,2-3,2,3,Football League First Division,1,A
+1980-08-23,1980/1981,Stoke City,Ipswich Town,2-2,2,2,Football League First Division,1,D
+1980-08-23,1980/1981,Sunderland,Southampton,1-2,1,2,Football League First Division,1,A
+1980-08-23,1980/1981,Tottenham Hotspur,Brighton & Hove Albion,2-2,2,2,Football League First Division,1,D
+1980-08-23,1980/1981,Birmingham City,Manchester United,0-0,0,0,Football League First Division,1,D
+1980-08-23,1980/1981,West Bromwich Albion,Wolverhampton Wanderers,1-1,1,1,Football League First Division,1,D
+1980-08-23,1980/1981,AFC Bournemouth,Northampton Town,0-0,0,0,Football League Fourth Division,4,D
+1980-08-23,1980/1981,Darlington,Stockport County,2-2,2,2,Football League Fourth Division,4,D
+1980-08-23,1980/1981,Bradford City,Scunthorpe United,0-0,0,0,Football League Fourth Division,4,D
+1980-08-23,1980/1981,Doncaster Rovers,Peterborough United,0-4,0,4,Football League Fourth Division,4,A
+1980-08-23,1980/1981,Halifax Town,Bury,4-2,4,2,Football League Fourth Division,4,H
+1980-08-23,1980/1981,Lincoln City,Wigan Athletic,2-0,2,0,Football League Fourth Division,4,H
+1980-08-23,1980/1981,Mansfield Town,Hereford United,4-0,4,0,Football League Fourth Division,4,H
+1980-08-23,1980/1981,Rochdale,Hartlepool United,1-1,1,1,Football League Fourth Division,4,D
+1980-08-23,1980/1981,Wimbledon,Port Vale,1-0,1,0,Football League Fourth Division,4,H
+1980-08-23,1980/1981,York City,Torquay United,0-0,0,0,Football League Fourth Division,4,D
+1980-08-23,1980/1981,Aldershot,Crewe Alexandra,2-0,2,0,Football League Fourth Division,4,H
+1980-08-23,1980/1981,Bristol City,Bristol Rovers,0-0,0,0,Football League Second Division,2,D
+1980-08-23,1980/1981,Shrewsbury Town,Chelsea,2-2,2,2,Football League Second Division,2,D
+1980-08-23,1980/1981,Cambridge United,Watford,3-1,3,1,Football League Second Division,2,H
+1980-08-23,1980/1981,Grimsby Town,Wrexham,1-0,1,0,Football League Second Division,2,H
+1980-08-23,1980/1981,Leyton Orient,Blackburn Rovers,1-1,1,1,Football League Second Division,2,D
+1980-08-23,1980/1981,Luton Town,Derby County,1-2,1,2,Football League Second Division,2,A
+1980-08-23,1980/1981,Notts County,Sheffield Wednesday,2-0,2,0,Football League Second Division,2,H
+1980-08-23,1980/1981,Oldham Athletic,Cardiff City,2-0,2,0,Football League Second Division,2,H
+1980-08-23,1980/1981,Preston North End,West Ham United,0-0,0,0,Football League Second Division,2,D
+1980-08-23,1980/1981,Queens Park Rangers,Swansea City,0-0,0,0,Football League Second Division,2,D
+1980-08-23,1980/1981,Bolton Wanderers,Newcastle United,4-0,4,0,Football League Second Division,2,H
+1980-08-23,1980/1981,Sheffield United,Oxford United,1-0,1,0,Football League Third Division,3,H
+1980-08-23,1980/1981,Portsmouth,Rotherham United,3-1,3,1,Football League Third Division,3,H
+1980-08-23,1980/1981,Plymouth Argyle,Charlton Athletic,1-1,1,1,Football League Third Division,3,D
+1980-08-23,1980/1981,Huddersfield Town,Blackpool,1-1,1,1,Football League Third Division,3,D
+1980-08-23,1980/1981,Hull City,Exeter City,3-3,3,3,Football League Third Division,3,D
+1980-08-23,1980/1981,Swindon Town,Fulham,3-4,3,4,Football League Third Division,3,A
+1980-08-23,1980/1981,Gillingham,Barnsley,1-1,1,1,Football League Third Division,3,D
+1980-08-23,1980/1981,Colchester United,Walsall,1-1,1,1,Football League Third Division,3,D
+1980-08-23,1980/1981,Newport County,Millwall,2-1,2,1,Football League Third Division,3,H
+1980-08-23,1980/1981,Chester,Carlisle United,1-0,1,0,Football League Third Division,3,H
+1980-08-23,1980/1981,Burnley,Chesterfield,1-0,1,0,Football League Third Division,3,H
+1980-08-23,1980/1981,Brentford,Reading,1-2,1,2,Football League Third Division,3,A
+1980-08-29,1980/1981,Tranmere Rovers,Rochdale,3-1,3,1,Football League Fourth Division,4,H
+1980-08-29,1980/1981,Stockport County,Halifax Town,1-1,1,1,Football League Fourth Division,4,D
+1980-08-29,1980/1981,Fulham,Hull City,0-0,0,0,Football League Third Division,3,D
+1980-08-30,1980/1981,Southampton,Birmingham City,3-1,3,1,Football League First Division,1,H
+1980-08-30,1980/1981,Arsenal,Tottenham Hotspur,2-0,2,0,Football League First Division,1,H
+1980-08-30,1980/1981,Aston Villa,Coventry City,1-0,1,0,Football League First Division,1,H
+1980-08-30,1980/1981,Brighton & Hove Albion,West Bromwich Albion,1-2,1,2,Football League First Division,1,A
+1980-08-30,1980/1981,Ipswich Town,Everton,4-0,4,0,Football League First Division,1,H
+1980-08-30,1980/1981,Leeds United,Leicester City,1-2,1,2,Football League First Division,1,A
+1980-08-30,1980/1981,Liverpool,Norwich City,4-1,4,1,Football League First Division,1,H
+1980-08-30,1980/1981,Manchester United,Sunderland,1-1,1,1,Football League First Division,1,D
+1980-08-30,1980/1981,Middlesbrough,Manchester City,2-2,2,2,Football League First Division,1,D
+1980-08-30,1980/1981,Nottingham Forest,Stoke City,5-0,5,0,Football League First Division,1,H
+1980-08-30,1980/1981,Wolverhampton Wanderers,Crystal Palace,2-0,2,0,Football League First Division,1,H
+1980-08-30,1980/1981,Wigan Athletic,Aldershot,1-0,1,0,Football League Fourth Division,4,H
+1980-08-30,1980/1981,Bury,Darlington,1-2,1,2,Football League Fourth Division,4,A
+1980-08-30,1980/1981,Crewe Alexandra,Lincoln City,0-3,0,3,Football League Fourth Division,4,A
+1980-08-30,1980/1981,Hartlepool United,Doncaster Rovers,1-0,1,0,Football League Fourth Division,4,H
+1980-08-30,1980/1981,Hereford United,York City,1-1,1,1,Football League Fourth Division,4,D
+1980-08-30,1980/1981,Peterborough United,Bradford City,2-2,2,2,Football League Fourth Division,4,D
+1980-08-30,1980/1981,Port Vale,Mansfield Town,0-0,0,0,Football League Fourth Division,4,D
+1980-08-30,1980/1981,Scunthorpe United,Wimbledon,1-2,1,2,Football League Fourth Division,4,A
+1980-08-30,1980/1981,Torquay United,AFC Bournemouth,2-0,2,0,Football League Fourth Division,4,H
+1980-08-30,1980/1981,Wrexham,Oldham Athletic,3-2,3,2,Football League Second Division,2,H
+1980-08-30,1980/1981,Watford,Bristol City,1-0,1,0,Football League Second Division,2,H
+1980-08-30,1980/1981,West Ham United,Notts County,4-0,4,0,Football League Second Division,2,H
+1980-08-30,1980/1981,Blackburn Rovers,Shrewsbury Town,2-0,2,0,Football League Second Division,2,H
+1980-08-30,1980/1981,Bristol Rovers,Grimsby Town,2-2,2,2,Football League Second Division,2,D
+1980-08-30,1980/1981,Cardiff City,Leyton Orient,4-2,4,2,Football League Second Division,2,H
+1980-08-30,1980/1981,Chelsea,Queens Park Rangers,1-1,1,1,Football League Second Division,2,D
+1980-08-30,1980/1981,Derby County,Bolton Wanderers,1-0,1,0,Football League Second Division,2,H
+1980-08-30,1980/1981,Newcastle United,Luton Town,2-1,2,1,Football League Second Division,2,H
+1980-08-30,1980/1981,Sheffield Wednesday,Preston North End,3-0,3,0,Football League Second Division,2,H
+1980-08-30,1980/1981,Swansea City,Cambridge United,1-1,1,1,Football League Second Division,2,D
+1980-08-30,1980/1981,Barnsley,Sheffield United,2-1,2,1,Football League Third Division,3,H
+1980-08-30,1980/1981,Blackpool,Portsmouth,0-2,0,2,Football League Third Division,3,A
+1980-08-30,1980/1981,Carlisle United,Newport County,1-4,1,4,Football League Third Division,3,A
+1980-08-30,1980/1981,Charlton Athletic,Burnley,2-0,2,0,Football League Third Division,3,H
+1980-08-30,1980/1981,Chesterfield,Gillingham,2-0,2,0,Football League Third Division,3,H
+1980-08-30,1980/1981,Exeter City,Colchester United,4-0,4,0,Football League Third Division,3,H
+1980-08-30,1980/1981,Millwall,Chester,1-0,1,0,Football League Third Division,3,H
+1980-08-30,1980/1981,Oxford United,Plymouth Argyle,0-0,0,0,Football League Third Division,3,D
+1980-08-30,1980/1981,Reading,Swindon Town,4-1,4,1,Football League Third Division,3,H
+1980-08-30,1980/1981,Rotherham United,Huddersfield Town,0-0,0,0,Football League Third Division,3,D
+1980-08-30,1980/1981,Walsall,Brentford,2-3,2,3,Football League Third Division,3,A
+1980-09-05,1980/1981,Tranmere Rovers,Peterborough United,1-2,1,2,Football League Fourth Division,4,A
+1980-09-05,1980/1981,Southend United,York City,3-0,3,0,Football League Fourth Division,4,H
+1980-09-05,1980/1981,Aldershot,Bury,1-0,1,0,Football League Fourth Division,4,H
+1980-09-05,1980/1981,Fulham,Blackpool,1-2,1,2,Football League Third Division,3,A
+1980-09-06,1980/1981,Birmingham City,Liverpool,1-1,1,1,Football League First Division,1,D
+1980-09-06,1980/1981,Coventry City,Crystal Palace,3-1,3,1,Football League First Division,1,H
+1980-09-06,1980/1981,Everton,Wolverhampton Wanderers,2-0,2,0,Football League First Division,1,H
+1980-09-06,1980/1981,Ipswich Town,Aston Villa,1-0,1,0,Football League First Division,1,H
+1980-09-06,1980/1981,Manchester City,Arsenal,1-1,1,1,Football League First Division,1,D
+1980-09-06,1980/1981,Middlesbrough,Nottingham Forest,0-0,0,0,Football League First Division,1,D
+1980-09-06,1980/1981,Southampton,Brighton & Hove Albion,3-1,3,1,Football League First Division,1,H
+1980-09-06,1980/1981,Stoke City,Leeds United,3-0,3,0,Football League First Division,1,H
+1980-09-06,1980/1981,Leicester City,Sunderland,0-1,0,1,Football League First Division,1,A
+1980-09-06,1980/1981,West Bromwich Albion,Norwich City,3-0,3,0,Football League First Division,1,H
+1980-09-06,1980/1981,Tottenham Hotspur,Manchester United,0-0,0,0,Football League First Division,1,D
+1980-09-06,1980/1981,Bradford City,AFC Bournemouth,1-1,1,1,Football League Fourth Division,4,D
+1980-09-06,1980/1981,Doncaster Rovers,Hereford United,5-1,5,1,Football League Fourth Division,4,H
+1980-09-06,1980/1981,Hartlepool United,Northampton Town,2-3,2,3,Football League Fourth Division,4,A
+1980-09-06,1980/1981,Lincoln City,Halifax Town,3-0,3,0,Football League Fourth Division,4,H
+1980-09-06,1980/1981,Wimbledon,Stockport County,1-2,1,2,Football League Fourth Division,4,A
+1980-09-06,1980/1981,Rochdale,Torquay United,2-1,2,1,Football League Fourth Division,4,H
+1980-09-06,1980/1981,Scunthorpe United,Crewe Alexandra,1-1,1,1,Football League Fourth Division,4,D
+1980-09-06,1980/1981,Wigan Athletic,Port Vale,1-0,1,0,Football League Fourth Division,4,H
+1980-09-06,1980/1981,Mansfield Town,Darlington,1-0,1,0,Football League Fourth Division,4,H
+1980-09-06,1980/1981,Shrewsbury Town,Watford,2-1,2,1,Football League Second Division,2,H
+1980-09-06,1980/1981,Preston North End,Cambridge United,2-0,2,0,Football League Second Division,2,H
+1980-09-06,1980/1981,Notts County,Queens Park Rangers,2-1,2,1,Football League Second Division,2,H
+1980-09-06,1980/1981,Oldham Athletic,Sheffield Wednesday,2-0,2,0,Football League Second Division,2,H
+1980-09-06,1980/1981,Bolton Wanderers,Bristol Rovers,2-0,2,0,Football League Second Division,2,H
+1980-09-06,1980/1981,Bristol City,Swansea City,0-1,0,1,Football League Second Division,2,A
+1980-09-06,1980/1981,Chelsea,West Ham United,0-1,0,1,Football League Second Division,2,A
+1980-09-06,1980/1981,Derby County,Blackburn Rovers,2-2,2,2,Football League Second Division,2,D
+1980-09-06,1980/1981,Leyton Orient,Grimsby Town,2-0,2,0,Football League Second Division,2,H
+1980-09-06,1980/1981,Luton Town,Wrexham,1-1,1,1,Football League Second Division,2,D
+1980-09-06,1980/1981,Newcastle United,Cardiff City,2-1,2,1,Football League Second Division,2,H
+1980-09-06,1980/1981,Burnley,Colchester United,1-0,1,0,Football League Third Division,3,H
+1980-09-06,1980/1981,Chester,Exeter City,1-0,1,0,Football League Third Division,3,H
+1980-09-06,1980/1981,Gillingham,Newport County,3-2,3,2,Football League Third Division,3,H
+1980-09-06,1980/1981,Huddersfield Town,Reading,4-1,4,1,Football League Third Division,3,H
+1980-09-06,1980/1981,Hull City,Walsall,0-1,0,1,Football League Third Division,3,A
+1980-09-06,1980/1981,Millwall,Charlton Athletic,2-0,2,0,Football League Third Division,3,H
+1980-09-06,1980/1981,Oxford United,Chesterfield,0-3,0,3,Football League Third Division,3,A
+1980-09-06,1980/1981,Plymouth Argyle,Carlisle United,4-1,4,1,Football League Third Division,3,H
+1980-09-06,1980/1981,Portsmouth,Brentford,0-2,0,2,Football League Third Division,3,A
+1980-09-06,1980/1981,Rotherham United,Barnsley,2-0,2,0,Football League Third Division,3,H
+1980-09-06,1980/1981,Sheffield United,Swindon Town,3-0,3,0,Football League Third Division,3,H
+1980-09-13,1980/1981,Arsenal,Stoke City,2-0,2,0,Football League First Division,1,H
+1980-09-13,1980/1981,Aston Villa,Everton,0-2,0,2,Football League First Division,1,A
+1980-09-13,1980/1981,Brighton & Hove Albion,Birmingham City,2-2,2,2,Football League First Division,1,D
+1980-09-13,1980/1981,Crystal Palace,Ipswich Town,1-2,1,2,Football League First Division,1,A
+1980-09-13,1980/1981,Leeds United,Tottenham Hotspur,0-0,0,0,Football League First Division,1,D
+1980-09-13,1980/1981,Liverpool,West Bromwich Albion,4-0,4,0,Football League First Division,1,H
+1980-09-13,1980/1981,Manchester United,Leicester City,5-0,5,0,Football League First Division,1,H
+1980-09-13,1980/1981,Norwich City,Southampton,1-0,1,0,Football League First Division,1,H
+1980-09-13,1980/1981,Nottingham Forest,Manchester City,3-2,3,2,Football League First Division,1,H
+1980-09-13,1980/1981,Sunderland,Middlesbrough,0-1,0,1,Football League First Division,1,A
+1980-09-13,1980/1981,Wolverhampton Wanderers,Coventry City,0-1,0,1,Football League First Division,1,A
+1980-09-13,1980/1981,Stockport County,Lincoln City,0-0,0,0,Football League Fourth Division,4,D
+1980-09-13,1980/1981,Bury,Mansfield Town,4-1,4,1,Football League Fourth Division,4,H
+1980-09-13,1980/1981,Crewe Alexandra,Wimbledon,0-3,0,3,Football League Fourth Division,4,A
+1980-09-13,1980/1981,Darlington,Wigan Athletic,3-1,3,1,Football League Fourth Division,4,H
+1980-09-13,1980/1981,Halifax Town,Scunthorpe United,1-0,1,0,Football League Fourth Division,4,H
+1980-09-13,1980/1981,Hereford United,Southend United,0-0,0,0,Football League Fourth Division,4,D
+1980-09-13,1980/1981,Northampton Town,Doncaster Rovers,0-2,0,2,Football League Fourth Division,4,A
+1980-09-13,1980/1981,Peterborough United,Rochdale,2-2,2,2,Football League Fourth Division,4,D
+1980-09-13,1980/1981,Port Vale,Aldershot,0-1,0,1,Football League Fourth Division,4,A
+1980-09-13,1980/1981,Torquay United,Bradford City,2-0,2,0,Football League Fourth Division,4,H
+1980-09-13,1980/1981,York City,Hartlepool United,0-1,0,1,Football League Fourth Division,4,A
+1980-09-13,1980/1981,AFC Bournemouth,Tranmere Rovers,1-0,1,0,Football League Fourth Division,4,H
+1980-09-13,1980/1981,West Ham United,Shrewsbury Town,3-0,3,0,Football League Second Division,2,H
+1980-09-13,1980/1981,Wrexham,Leyton Orient,3-1,3,1,Football League Second Division,2,H
+1980-09-13,1980/1981,Blackburn Rovers,Luton Town,3-0,3,0,Football League Second Division,2,H
+1980-09-13,1980/1981,Bristol Rovers,Oldham Athletic,0-0,0,0,Football League Second Division,2,D
+1980-09-13,1980/1981,Cambridge United,Chelsea,0-1,0,1,Football League Second Division,2,A
+1980-09-13,1980/1981,Cardiff City,Bolton Wanderers,1-1,1,1,Football League Second Division,2,D
+1980-09-13,1980/1981,Grimsby Town,Derby County,0-1,0,1,Football League Second Division,2,A
+1980-09-13,1980/1981,Queens Park Rangers,Newcastle United,1-2,1,2,Football League Second Division,2,A
+1980-09-13,1980/1981,Sheffield Wednesday,Bristol City,2-1,2,1,Football League Second Division,2,H
+1980-09-13,1980/1981,Swansea City,Notts County,1-1,1,1,Football League Second Division,2,D
+1980-09-13,1980/1981,Watford,Preston North End,2-1,2,1,Football League Second Division,2,H
+1980-09-13,1980/1981,Reading,Sheffield United,1-0,1,0,Football League Third Division,3,H
+1980-09-13,1980/1981,Newport County,Oxford United,0-1,0,1,Football League Third Division,3,A
+1980-09-13,1980/1981,Exeter City,Burnley,0-0,0,0,Football League Third Division,3,D
+1980-09-13,1980/1981,Colchester United,Millwall,3-0,3,0,Football League Third Division,3,H
+1980-09-13,1980/1981,Carlisle United,Gillingham,0-0,0,0,Football League Third Division,3,D
+1980-09-13,1980/1981,Charlton Athletic,Chester,1-0,1,0,Football League Third Division,3,H
+1980-09-13,1980/1981,Brentford,Fulham,1-3,1,3,Football League Third Division,3,A
+1980-09-13,1980/1981,Swindon Town,Rotherham United,2-1,2,1,Football League Third Division,3,H
+1980-09-13,1980/1981,Chesterfield,Plymouth Argyle,2-2,2,2,Football League Third Division,3,D
+1980-09-13,1980/1981,Walsall,Portsmouth,2-0,2,0,Football League Third Division,3,H
+1980-09-13,1980/1981,Blackpool,Hull City,2-2,2,2,Football League Third Division,3,D
+1980-09-13,1980/1981,Barnsley,Huddersfield Town,1-0,1,0,Football League Third Division,3,H
+1980-09-15,1980/1981,Stockport County,Port Vale,2-1,2,1,Football League Fourth Division,4,H
+1980-09-15,1980/1981,Southend United,Peterborough United,1-0,1,0,Football League Fourth Division,4,H
+1980-09-15,1980/1981,Mansfield Town,Wimbledon,1-0,1,0,Football League Fourth Division,4,H
+1980-09-15,1980/1981,Brentford,Barnsley,1-1,1,1,Football League Third Division,3,D
+1980-09-16,1980/1981,Bury,Crewe Alexandra,1-3,1,3,Football League Fourth Division,4,A
+1980-09-16,1980/1981,Torquay United,Doncaster Rovers,2-3,2,3,Football League Fourth Division,4,A
+1980-09-16,1980/1981,Halifax Town,Wigan Athletic,0-1,0,1,Football League Fourth Division,4,A
+1980-09-16,1980/1981,Darlington,Scunthorpe United,0-1,0,1,Football League Fourth Division,4,A
+1980-09-16,1980/1981,AFC Bournemouth,Hartlepool United,1-0,1,0,Football League Fourth Division,4,H
+1980-09-16,1980/1981,Walsall,Rotherham United,0-2,0,2,Football League Third Division,3,A
+1980-09-16,1980/1981,Swindon Town,Oxford United,1-0,1,0,Football League Third Division,3,H
+1980-09-16,1980/1981,Portsmouth,Charlton Athletic,1-0,1,0,Football League Third Division,3,H
+1980-09-16,1980/1981,Gillingham,Huddersfield Town,0-0,0,0,Football League Third Division,3,D
+1980-09-16,1980/1981,Colchester United,Chesterfield,1-1,1,1,Football League Third Division,3,D
+1980-09-16,1980/1981,Carlisle United,Millwall,2-1,2,1,Football League Third Division,3,H
+1980-09-16,1980/1981,Burnley,Hull City,2-0,2,0,Football League Third Division,3,H
+1980-09-16,1980/1981,Sheffield United,Blackpool,4-2,4,2,Football League Third Division,3,H
+1980-09-17,1980/1981,Hereford United,Rochdale,3-0,3,0,Football League Fourth Division,4,H
+1980-09-17,1980/1981,Bradford City,Northampton Town,3-1,3,1,Football League Fourth Division,4,H
+1980-09-17,1980/1981,Lincoln City,Aldershot,0-1,0,1,Football League Fourth Division,4,A
+1980-09-17,1980/1981,Exeter City,Fulham,1-0,1,0,Football League Third Division,3,H
+1980-09-17,1980/1981,Reading,Plymouth Argyle,1-1,1,1,Football League Third Division,3,D
+1980-09-19,1980/1981,Tranmere Rovers,Torquay United,1-0,1,0,Football League Fourth Division,4,H
+1980-09-19,1980/1981,Scunthorpe United,Stockport County,2-0,2,0,Football League Fourth Division,4,H
+1980-09-19,1980/1981,Doncaster Rovers,Southend United,1-0,1,0,Football League Fourth Division,4,H
+1980-09-19,1980/1981,Northampton Town,York City,2-0,2,0,Football League Fourth Division,4,H
+1980-09-20,1980/1981,Aston Villa,Wolverhampton Wanderers,2-1,2,1,Football League First Division,1,H
+1980-09-20,1980/1981,Birmingham City,West Bromwich Albion,1-1,1,1,Football League First Division,1,D
+1980-09-20,1980/1981,Brighton & Hove Albion,Norwich City,2-0,2,0,Football League First Division,1,H
+1980-09-20,1980/1981,Everton,Crystal Palace,5-0,5,0,Football League First Division,1,H
+1980-09-20,1980/1981,Ipswich Town,Coventry City,2-0,2,0,Football League First Division,1,H
+1980-09-20,1980/1981,Leeds United,Manchester United,0-0,0,0,Football League First Division,1,D
+1980-09-20,1980/1981,Manchester City,Stoke City,1-2,1,2,Football League First Division,1,A
+1980-09-20,1980/1981,Middlesbrough,Arsenal,2-1,2,1,Football League First Division,1,H
+1980-09-20,1980/1981,Nottingham Forest,Leicester City,5-0,5,0,Football League First Division,1,H
+1980-09-20,1980/1981,Tottenham Hotspur,Sunderland,0-0,0,0,Football League First Division,1,D
+1980-09-20,1980/1981,Southampton,Liverpool,2-2,2,2,Football League First Division,1,D
+1980-09-20,1980/1981,Wigan Athletic,Bury,2-1,2,1,Football League Fourth Division,4,H
+1980-09-20,1980/1981,Aldershot,Mansfield Town,1-0,1,0,Football League Fourth Division,4,H
+1980-09-20,1980/1981,Crewe Alexandra,Halifax Town,2-1,2,1,Football League Fourth Division,4,H
+1980-09-20,1980/1981,Hartlepool United,Hereford United,2-0,2,0,Football League Fourth Division,4,H
+1980-09-20,1980/1981,Peterborough United,AFC Bournemouth,1-0,1,0,Football League Fourth Division,4,H
+1980-09-20,1980/1981,Port Vale,Darlington,4-2,4,2,Football League Fourth Division,4,H
+1980-09-20,1980/1981,Rochdale,Bradford City,0-2,0,2,Football League Fourth Division,4,A
+1980-09-20,1980/1981,Wimbledon,Lincoln City,0-1,0,1,Football League Fourth Division,4,A
+1980-09-20,1980/1981,West Ham United,Watford,3-2,3,2,Football League Second Division,2,H
+1980-09-20,1980/1981,Shrewsbury Town,Cambridge United,2-1,2,1,Football League Second Division,2,H
+1980-09-20,1980/1981,Newcastle United,Oldham Athletic,0-0,0,0,Football League Second Division,2,D
+1980-09-20,1980/1981,Sheffield Wednesday,Queens Park Rangers,1-0,1,0,Football League Second Division,2,H
+1980-09-20,1980/1981,Blackburn Rovers,Grimsby Town,2-0,2,0,Football League Second Division,2,H
+1980-09-20,1980/1981,Bolton Wanderers,Swansea City,1-4,1,4,Football League Second Division,2,A
+1980-09-20,1980/1981,Bristol City,Notts County,0-1,0,1,Football League Second Division,2,A
+1980-09-20,1980/1981,Cardiff City,Bristol Rovers,2-1,2,1,Football League Second Division,2,H
+1980-09-20,1980/1981,Chelsea,Preston North End,1-1,1,1,Football League Second Division,2,D
+1980-09-20,1980/1981,Derby County,Wrexham,0-1,0,1,Football League Second Division,2,A
+1980-09-20,1980/1981,Luton Town,Leyton Orient,2-1,2,1,Football League Second Division,2,H
+1980-09-20,1980/1981,Barnsley,Swindon Town,2-0,2,0,Football League Third Division,3,H
+1980-09-20,1980/1981,Blackpool,Brentford,0-3,0,3,Football League Third Division,3,A
+1980-09-20,1980/1981,Charlton Athletic,Colchester United,1-2,1,2,Football League Third Division,3,A
+1980-09-20,1980/1981,Chester,Burnley,0-0,0,0,Football League Third Division,3,D
+1980-09-20,1980/1981,Chesterfield,Newport County,3-2,3,2,Football League Third Division,3,H
+1980-09-20,1980/1981,Fulham,Walsall,2-1,2,1,Football League Third Division,3,H
+1980-09-20,1980/1981,Huddersfield Town,Sheffield United,1-0,1,0,Football League Third Division,3,H
+1980-09-20,1980/1981,Hull City,Portsmouth,2-1,2,1,Football League Third Division,3,H
+1980-09-20,1980/1981,Plymouth Argyle,Gillingham,4-1,4,1,Football League Third Division,3,H
+1980-09-20,1980/1981,Rotherham United,Reading,2-0,2,0,Football League Third Division,3,H
+1980-09-20,1980/1981,Oxford United,Carlisle United,1-2,1,2,Football League Third Division,3,A
+1980-09-20,1980/1981,Millwall,Exeter City,1-0,1,0,Football League Third Division,3,H
+1980-09-23,1980/1981,York City,Tranmere Rovers,4-1,4,1,Football League Fourth Division,4,H
+1980-09-23,1980/1981,Northampton Town,Southend United,2-0,2,0,Football League Fourth Division,4,H
+1980-09-26,1980/1981,Southend United,Hartlepool United,4-0,4,0,Football League Fourth Division,4,H
+1980-09-26,1980/1981,Stockport County,Crewe Alexandra,1-3,1,3,Football League Fourth Division,4,A
+1980-09-27,1980/1981,Arsenal,Nottingham Forest,1-0,1,0,Football League First Division,1,H
+1980-09-27,1980/1981,Coventry City,Everton,0-5,0,5,Football League First Division,1,A
+1980-09-27,1980/1981,Crystal Palace,Aston Villa,0-1,0,1,Football League First Division,1,A
+1980-09-27,1980/1981,Leicester City,Tottenham Hotspur,2-1,2,1,Football League First Division,1,H
+1980-09-27,1980/1981,Liverpool,Brighton & Hove Albion,4-1,4,1,Football League First Division,1,H
+1980-09-27,1980/1981,Manchester United,Manchester City,2-2,2,2,Football League First Division,1,D
+1980-09-27,1980/1981,Norwich City,Birmingham City,2-2,2,2,Football League First Division,1,D
+1980-09-27,1980/1981,Stoke City,Middlesbrough,1-0,1,0,Football League First Division,1,H
+1980-09-27,1980/1981,West Bromwich Albion,Southampton,2-1,2,1,Football League First Division,1,H
+1980-09-27,1980/1981,Sunderland,Leeds United,4-1,4,1,Football League First Division,1,H
+1980-09-27,1980/1981,Wolverhampton Wanderers,Ipswich Town,0-2,0,2,Football League First Division,1,A
+1980-09-27,1980/1981,York City,Doncaster Rovers,0-1,0,1,Football League Fourth Division,4,A
+1980-09-27,1980/1981,AFC Bournemouth,Rochdale,2-1,2,1,Football League Fourth Division,4,H
+1980-09-27,1980/1981,Bradford City,Tranmere Rovers,0-3,0,3,Football League Fourth Division,4,A
+1980-09-27,1980/1981,Bury,Port Vale,2-1,2,1,Football League Fourth Division,4,H
+1980-09-27,1980/1981,Halifax Town,Wimbledon,0-1,0,1,Football League Fourth Division,4,A
+1980-09-27,1980/1981,Hereford United,Northampton Town,4-1,4,1,Football League Fourth Division,4,H
+1980-09-27,1980/1981,Lincoln City,Scunthorpe United,2-2,2,2,Football League Fourth Division,4,D
+1980-09-27,1980/1981,Mansfield Town,Wigan Athletic,3-1,3,1,Football League Fourth Division,4,H
+1980-09-27,1980/1981,Torquay United,Peterborough United,2-0,2,0,Football League Fourth Division,4,H
+1980-09-27,1980/1981,Darlington,Aldershot,1-2,1,2,Football League Fourth Division,4,A
+1980-09-27,1980/1981,Watford,Chelsea,2-3,2,3,Football League Second Division,2,A
+1980-09-27,1980/1981,Wrexham,Blackburn Rovers,0-1,0,1,Football League Second Division,2,A
+1980-09-27,1980/1981,Bristol Rovers,Newcastle United,0-0,0,0,Football League Second Division,2,D
+1980-09-27,1980/1981,Cambridge United,West Ham United,1-2,1,2,Football League Second Division,2,A
+1980-09-27,1980/1981,Grimsby Town,Luton Town,0-0,0,0,Football League Second Division,2,D
+1980-09-27,1980/1981,Leyton Orient,Derby County,1-0,1,0,Football League Second Division,2,H
+1980-09-27,1980/1981,Notts County,Cardiff City,4-2,4,2,Football League Second Division,2,H
+1980-09-27,1980/1981,Oldham Athletic,Bolton Wanderers,1-1,1,1,Football League Second Division,2,D
+1980-09-27,1980/1981,Preston North End,Shrewsbury Town,0-0,0,0,Football League Second Division,2,D
+1980-09-27,1980/1981,Queens Park Rangers,Bristol City,4-0,4,0,Football League Second Division,2,H
+1980-09-27,1980/1981,Swansea City,Sheffield Wednesday,2-3,2,3,Football League Second Division,2,A
+1980-09-27,1980/1981,Carlisle United,Chesterfield,2-6,2,6,Football League Third Division,3,A
+1980-09-27,1980/1981,Colchester United,Chester,1-1,1,1,Football League Third Division,3,D
+1980-09-27,1980/1981,Exeter City,Charlton Athletic,4-3,4,3,Football League Third Division,3,H
+1980-09-27,1980/1981,Gillingham,Oxford United,1-1,1,1,Football League Third Division,3,D
+1980-09-27,1980/1981,Newport County,Plymouth Argyle,0-2,0,2,Football League Third Division,3,A
+1980-09-27,1980/1981,Portsmouth,Fulham,1-0,1,0,Football League Third Division,3,H
+1980-09-27,1980/1981,Reading,Barnsley,3-2,3,2,Football League Third Division,3,H
+1980-09-27,1980/1981,Sheffield United,Rotherham United,1-2,1,2,Football League Third Division,3,A
+1980-09-27,1980/1981,Swindon Town,Huddersfield Town,1-0,1,0,Football League Third Division,3,H
+1980-09-27,1980/1981,Burnley,Millwall,5-0,5,0,Football League Third Division,3,H
+1980-09-27,1980/1981,Walsall,Blackpool,2-2,2,2,Football League Third Division,3,D
+1980-09-27,1980/1981,Brentford,Hull City,2-2,2,2,Football League Third Division,3,D
+1980-09-29,1980/1981,Port Vale,Stockport County,2-0,2,0,Football League Fourth Division,4,H
+1980-09-29,1980/1981,Tranmere Rovers,York City,5-0,5,0,Football League Fourth Division,4,H
+1980-09-30,1980/1981,Hartlepool United,AFC Bournemouth,1-0,1,0,Football League Fourth Division,4,H
+1980-09-30,1980/1981,Northampton Town,Bradford City,0-1,0,1,Football League Fourth Division,4,A
+1980-09-30,1980/1981,Wimbledon,Mansfield Town,2-1,2,1,Football League Fourth Division,4,H
+1980-09-30,1980/1981,Scunthorpe United,Darlington,3-0,3,0,Football League Fourth Division,4,H
+1980-09-30,1980/1981,Doncaster Rovers,Torquay United,2-0,2,0,Football League Fourth Division,4,H
+1980-09-30,1980/1981,Rochdale,Hereford United,0-0,0,0,Football League Fourth Division,4,D
+1980-09-30,1980/1981,Aldershot,Lincoln City,0-0,0,0,Football League Fourth Division,4,D
+1980-09-30,1980/1981,Hull City,Burnley,0-0,0,0,Football League Third Division,3,D
+1980-09-30,1980/1981,Plymouth Argyle,Reading,2-1,2,1,Football League Third Division,3,H
+1980-09-30,1980/1981,Millwall,Carlisle United,3-0,3,0,Football League Third Division,3,H
+1980-09-30,1980/1981,Huddersfield Town,Gillingham,1-0,1,0,Football League Third Division,3,H
+1980-09-30,1980/1981,Chesterfield,Colchester United,3-0,3,0,Football League Third Division,3,H
+1980-09-30,1980/1981,Barnsley,Brentford,0-1,0,1,Football League Third Division,3,A
+1980-09-30,1980/1981,Rotherham United,Walsall,2-1,2,1,Football League Third Division,3,H
+1980-10-01,1980/1981,Peterborough United,Southend United,5-2,5,2,Football League Fourth Division,4,H
+1980-10-01,1980/1981,Crewe Alexandra,Bury,2-2,2,2,Football League Fourth Division,4,D
+1980-10-01,1980/1981,Wigan Athletic,Halifax Town,4-1,4,1,Football League Fourth Division,4,H
+1980-10-01,1980/1981,Fulham,Exeter City,0-1,0,1,Football League Third Division,3,A
+1980-10-01,1980/1981,Blackpool,Sheffield United,2-1,2,1,Football League Third Division,3,H
+1980-10-01,1980/1981,Oxford United,Swindon Town,0-0,0,0,Football League Third Division,3,D
+1980-10-03,1980/1981,Northampton Town,Stockport County,0-1,0,1,Football League Fourth Division,4,A
+1980-10-03,1980/1981,Southend United,Mansfield Town,2-0,2,0,Football League Fourth Division,4,H
+1980-10-03,1980/1981,Tranmere Rovers,Wimbledon,3-0,3,0,Football League Fourth Division,4,H
+1980-10-04,1980/1981,Arsenal,Leicester City,1-0,1,0,Football League First Division,1,H
+1980-10-04,1980/1981,Coventry City,Brighton & Hove Albion,3-3,3,3,Football League First Division,1,D
+1980-10-04,1980/1981,Crystal Palace,West Bromwich Albion,0-1,0,1,Football League First Division,1,A
+1980-10-04,1980/1981,Everton,Southampton,2-1,2,1,Football League First Division,1,H
+1980-10-04,1980/1981,Ipswich Town,Leeds United,1-1,1,1,Football League First Division,1,D
+1980-10-04,1980/1981,Manchester City,Liverpool,0-3,0,3,Football League First Division,1,A
+1980-10-04,1980/1981,Middlesbrough,Norwich City,6-1,6,1,Football League First Division,1,H
+1980-10-04,1980/1981,Nottingham Forest,Manchester United,1-2,1,2,Football League First Division,1,A
+1980-10-04,1980/1981,Aston Villa,Sunderland,4-0,4,0,Football League First Division,1,H
+1980-10-04,1980/1981,Wolverhampton Wanderers,Birmingham City,1-0,1,0,Football League First Division,1,H
+1980-10-04,1980/1981,Stoke City,Tottenham Hotspur,2-3,2,3,Football League First Division,1,A
+1980-10-04,1980/1981,AFC Bournemouth,Scunthorpe United,2-2,2,2,Football League Fourth Division,4,D
+1980-10-04,1980/1981,Bradford City,Crewe Alexandra,2-2,2,2,Football League Fourth Division,4,D
+1980-10-04,1980/1981,Doncaster Rovers,Lincoln City,0-1,0,1,Football League Fourth Division,4,A
+1980-10-04,1980/1981,Hartlepool United,Aldershot,1-0,1,0,Football League Fourth Division,4,H
+1980-10-04,1980/1981,Hereford United,Darlington,0-1,0,1,Football League Fourth Division,4,A
+1980-10-04,1980/1981,Peterborough United,Bury,2-0,2,0,Football League Fourth Division,4,H
+1980-10-04,1980/1981,York City,Port Vale,4-1,4,1,Football League Fourth Division,4,H
+1980-10-04,1980/1981,Torquay United,Halifax Town,1-0,1,0,Football League Fourth Division,4,H
+1980-10-04,1980/1981,Rochdale,Wigan Athletic,3-0,3,0,Football League Fourth Division,4,H
+1980-10-04,1980/1981,Wrexham,Swansea City,1-1,1,1,Football League Second Division,2,D
+1980-10-04,1980/1981,Newcastle United,West Ham United,0-0,0,0,Football League Second Division,2,D
+1980-10-04,1980/1981,Oldham Athletic,Shrewsbury Town,0-0,0,0,Football League Second Division,2,D
+1980-10-04,1980/1981,Leyton Orient,Preston North End,4-0,4,0,Football League Second Division,2,H
+1980-10-04,1980/1981,Grimsby Town,Bristol City,1-0,1,0,Football League Second Division,2,H
+1980-10-04,1980/1981,Derby County,Sheffield Wednesday,3-1,3,1,Football League Second Division,2,H
+1980-10-04,1980/1981,Luton Town,Notts County,0-1,0,1,Football League Second Division,2,A
+1980-10-04,1980/1981,Bristol Rovers,Cambridge United,0-1,0,1,Football League Second Division,2,A
+1980-10-04,1980/1981,Bolton Wanderers,Chelsea,2-3,2,3,Football League Second Division,2,A
+1980-10-04,1980/1981,Blackburn Rovers,Queens Park Rangers,2-1,2,1,Football League Second Division,2,H
+1980-10-04,1980/1981,Cardiff City,Watford,1-0,1,0,Football League Second Division,2,H
+1980-10-04,1980/1981,Rotherham United,Exeter City,3-1,3,1,Football League Third Division,3,H
+1980-10-04,1980/1981,Blackpool,Gillingham,4-0,4,0,Football League Third Division,3,H
+1980-10-04,1980/1981,Brentford,Newport County,0-1,0,1,Football League Third Division,3,A
+1980-10-04,1980/1981,Fulham,Burnley,0-2,0,2,Football League Third Division,3,A
+1980-10-04,1980/1981,Huddersfield Town,Colchester United,2-0,2,0,Football League Third Division,3,H
+1980-10-04,1980/1981,Hull City,Oxford United,0-1,0,1,Football League Third Division,3,A
+1980-10-04,1980/1981,Portsmouth,Chesterfield,1-0,1,0,Football League Third Division,3,H
+1980-10-04,1980/1981,Reading,Millwall,4-1,4,1,Football League Third Division,3,H
+1980-10-04,1980/1981,Sheffield United,Plymouth Argyle,0-0,0,0,Football League Third Division,3,D
+1980-10-04,1980/1981,Barnsley,Charlton Athletic,0-0,0,0,Football League Third Division,3,D
+1980-10-04,1980/1981,Walsall,Carlisle United,4-3,4,3,Football League Third Division,3,H
+1980-10-04,1980/1981,Swindon Town,Chester,1-2,1,2,Football League Third Division,3,A
+1980-10-06,1980/1981,Mansfield Town,Tranmere Rovers,1-1,1,1,Football League Fourth Division,4,D
+1980-10-06,1980/1981,Port Vale,Torquay United,3-1,3,1,Football League Fourth Division,4,H
+1980-10-06,1980/1981,Stockport County,Peterborough United,3-4,3,4,Football League Fourth Division,4,A
+1980-10-07,1980/1981,Birmingham City,Arsenal,3-1,3,1,Football League First Division,1,H
+1980-10-07,1980/1981,Brighton & Hove Albion,Everton,1-3,1,3,Football League First Division,1,A
+1980-10-07,1980/1981,Liverpool,Middlesbrough,4-2,4,2,Football League First Division,1,H
+1980-10-07,1980/1981,Southampton,Wolverhampton Wanderers,4-2,4,2,Football League First Division,1,H
+1980-10-07,1980/1981,Aldershot,AFC Bournemouth,0-0,0,0,Football League Fourth Division,4,D
+1980-10-07,1980/1981,Wimbledon,Southend United,0-1,0,1,Football League Fourth Division,4,A
+1980-10-07,1980/1981,Crewe Alexandra,Hereford United,5-0,5,0,Football League Fourth Division,4,H
+1980-10-07,1980/1981,Darlington,Bradford City,2-1,2,1,Football League Fourth Division,4,H
+1980-10-07,1980/1981,Halifax Town,York City,3-1,3,1,Football League Fourth Division,4,H
+1980-10-07,1980/1981,Scunthorpe United,Hartlepool United,3-3,3,3,Football League Fourth Division,4,D
+1980-10-07,1980/1981,Bury,Northampton Town,1-2,1,2,Football League Fourth Division,4,A
+1980-10-07,1980/1981,West Ham United,Cardiff City,1-0,1,0,Football League Second Division,2,H
+1980-10-07,1980/1981,Bristol City,Luton Town,2-1,2,1,Football League Second Division,2,H
+1980-10-07,1980/1981,Notts County,Grimsby Town,0-0,0,0,Football League Second Division,2,D
+1980-10-07,1980/1981,Cambridge United,Wrexham,1-0,1,0,Football League Second Division,2,H
+1980-10-07,1980/1981,Queens Park Rangers,Leyton Orient,0-0,0,0,Football League Second Division,2,D
+1980-10-07,1980/1981,Sheffield Wednesday,Blackburn Rovers,2-1,2,1,Football League Second Division,2,H
+1980-10-07,1980/1981,Shrewsbury Town,Bolton Wanderers,1-2,1,2,Football League Second Division,2,A
+1980-10-07,1980/1981,Swansea City,Oldham Athletic,3-0,3,0,Football League Second Division,2,H
+1980-10-07,1980/1981,Watford,Derby County,1-1,1,1,Football League Second Division,2,D
+1980-10-07,1980/1981,Preston North End,Newcastle United,2-3,2,3,Football League Second Division,2,A
+1980-10-07,1980/1981,Chesterfield,Rotherham United,2-0,2,0,Football League Third Division,3,H
+1980-10-07,1980/1981,Plymouth Argyle,Fulham,2-1,2,1,Football League Third Division,3,H
+1980-10-07,1980/1981,Colchester United,Portsmouth,1-0,1,0,Football League Third Division,3,H
+1980-10-07,1980/1981,Millwall,Blackpool,0-0,0,0,Football League Third Division,3,D
+1980-10-07,1980/1981,Newport County,Reading,0-0,0,0,Football League Third Division,3,D
+1980-10-07,1980/1981,Charlton Athletic,Walsall,2-0,2,0,Football League Third Division,3,H
+1980-10-07,1980/1981,Carlisle United,Barnsley,2-2,2,2,Football League Third Division,3,D
+1980-10-07,1980/1981,Gillingham,Swindon Town,0-0,0,0,Football League Third Division,3,D
+1980-10-07,1980/1981,Burnley,Sheffield United,3-2,3,2,Football League Third Division,3,H
+1980-10-08,1980/1981,Sunderland,Nottingham Forest,2-2,2,2,Football League First Division,1,D
+1980-10-08,1980/1981,Manchester United,Aston Villa,3-3,3,3,Football League First Division,1,D
+1980-10-08,1980/1981,Leicester City,Stoke City,1-1,1,1,Football League First Division,1,D
+1980-10-08,1980/1981,Leeds United,Manchester City,1-0,1,0,Football League First Division,1,H
+1980-10-08,1980/1981,West Bromwich Albion,Coventry City,1-0,1,0,Football League First Division,1,H
+1980-10-08,1980/1981,Wigan Athletic,Doncaster Rovers,3-0,3,0,Football League Fourth Division,4,H
+1980-10-08,1980/1981,Lincoln City,Rochdale,3-0,3,0,Football League Fourth Division,4,H
+1980-10-08,1980/1981,Chelsea,Bristol Rovers,2-0,2,0,Football League Second Division,2,H
+1980-10-08,1980/1981,Chester,Hull City,4-1,4,1,Football League Third Division,3,H
+1980-10-08,1980/1981,Oxford United,Huddersfield Town,0-2,0,2,Football League Third Division,3,A
+1980-10-08,1980/1981,Exeter City,Brentford,0-0,0,0,Football League Third Division,3,D
+1980-10-10,1980/1981,Stockport County,Hereford United,0-0,0,0,Football League Fourth Division,4,D
+1980-10-11,1980/1981,Birmingham City,Aston Villa,1-2,1,2,Football League First Division,1,A
+1980-10-11,1980/1981,Brighton & Hove Albion,Nottingham Forest,0-1,0,1,Football League First Division,1,A
+1980-10-11,1980/1981,Leeds United,Everton,1-0,1,0,Football League First Division,1,H
+1980-10-11,1980/1981,Leicester City,Coventry City,1-3,1,3,Football League First Division,1,A
+1980-10-11,1980/1981,Liverpool,Ipswich Town,1-1,1,1,Football League First Division,1,D
+1980-10-11,1980/1981,Manchester United,Arsenal,0-0,0,0,Football League First Division,1,D
+1980-10-11,1980/1981,Norwich City,Wolverhampton Wanderers,1-1,1,1,Football League First Division,1,D
+1980-10-11,1980/1981,Southampton,Stoke City,1-2,1,2,Football League First Division,1,A
+1980-10-11,1980/1981,Tottenham Hotspur,Middlesbrough,3-2,3,2,Football League First Division,1,H
+1980-10-11,1980/1981,Sunderland,Crystal Palace,1-0,1,0,Football League First Division,1,H
+1980-10-11,1980/1981,West Bromwich Albion,Manchester City,3-1,3,1,Football League First Division,1,H
+1980-10-11,1980/1981,Crewe Alexandra,Doncaster Rovers,0-0,0,0,Football League Fourth Division,4,D
+1980-10-11,1980/1981,Bury,Torquay United,3-0,3,0,Football League Fourth Division,4,H
+1980-10-11,1980/1981,Darlington,AFC Bournemouth,1-2,1,2,Football League Fourth Division,4,A
+1980-10-11,1980/1981,Halifax Town,Southend United,1-5,1,5,Football League Fourth Division,4,A
+1980-10-11,1980/1981,Lincoln City,York City,1-1,1,1,Football League Fourth Division,4,D
+1980-10-11,1980/1981,Mansfield Town,Bradford City,1-0,1,0,Football League Fourth Division,4,H
+1980-10-11,1980/1981,Port Vale,Tranmere Rovers,5-1,5,1,Football League Fourth Division,4,H
+1980-10-11,1980/1981,Scunthorpe United,Northampton Town,0-2,0,2,Football League Fourth Division,4,A
+1980-10-11,1980/1981,Wigan Athletic,Peterborough United,1-1,1,1,Football League Fourth Division,4,D
+1980-10-11,1980/1981,Aldershot,Rochdale,0-0,0,0,Football League Fourth Division,4,D
+1980-10-11,1980/1981,Wimbledon,Hartlepool United,5-0,5,0,Football League Fourth Division,4,H
+1980-10-11,1980/1981,Watford,Wrexham,1-0,1,0,Football League Second Division,2,H
+1980-10-11,1980/1981,West Ham United,Blackburn Rovers,2-0,2,0,Football League Second Division,2,H
+1980-10-11,1980/1981,Bristol City,Newcastle United,2-0,2,0,Football League Second Division,2,H
+1980-10-11,1980/1981,Cambridge United,Oldham Athletic,3-1,3,1,Football League Second Division,2,H
+1980-10-11,1980/1981,Chelsea,Grimsby Town,3-0,3,0,Football League Second Division,2,H
+1980-10-11,1980/1981,Notts County,Bristol Rovers,3-1,3,1,Football League Second Division,2,H
+1980-10-11,1980/1981,Preston North End,Luton Town,1-0,1,0,Football League Second Division,2,H
+1980-10-11,1980/1981,Queens Park Rangers,Bolton Wanderers,3-1,3,1,Football League Second Division,2,H
+1980-10-11,1980/1981,Sheffield Wednesday,Cardiff City,2-0,2,0,Football League Second Division,2,H
+1980-10-11,1980/1981,Shrewsbury Town,Leyton Orient,1-2,1,2,Football League Second Division,2,A
+1980-10-11,1980/1981,Swansea City,Derby County,3-1,3,1,Football League Second Division,2,H
+1980-10-11,1980/1981,Charlton Athletic,Sheffield United,2-0,2,0,Football League Third Division,3,H
+1980-10-11,1980/1981,Chester,Reading,1-0,1,0,Football League Third Division,3,H
+1980-10-11,1980/1981,Chesterfield,Hull City,1-0,1,0,Football League Third Division,3,H
+1980-10-11,1980/1981,Colchester United,Barnsley,2-2,2,2,Football League Third Division,3,D
+1980-10-11,1980/1981,Exeter City,Huddersfield Town,1-4,1,4,Football League Third Division,3,A
+1980-10-11,1980/1981,Gillingham,Fulham,1-0,1,0,Football League Third Division,3,H
+1980-10-11,1980/1981,Millwall,Swindon Town,3-1,3,1,Football League Third Division,3,H
+1980-10-11,1980/1981,Newport County,Portsmouth,2-1,2,1,Football League Third Division,3,H
+1980-10-11,1980/1981,Oxford United,Walsall,1-1,1,1,Football League Third Division,3,D
+1980-10-11,1980/1981,Plymouth Argyle,Blackpool,0-2,0,2,Football League Third Division,3,A
+1980-10-11,1980/1981,Carlisle United,Brentford,1-2,1,2,Football League Third Division,3,A
+1980-10-11,1980/1981,Burnley,Rotherham United,1-1,1,1,Football League Third Division,3,D
+1980-10-14,1980/1981,Sheffield United,Newport County,2-0,2,0,Football League Third Division,3,H
+1980-10-17,1980/1981,Tranmere Rovers,Aldershot,3-1,3,1,Football League Fourth Division,4,H
+1980-10-17,1980/1981,Southend United,Scunthorpe United,2-0,2,0,Football League Fourth Division,4,H
+1980-10-17,1980/1981,Northampton Town,Crewe Alexandra,4-1,4,1,Football League Fourth Division,4,H
+1980-10-17,1980/1981,Cardiff City,Cambridge United,1-2,1,2,Football League Second Division,2,A
+1980-10-18,1980/1981,Arsenal,Sunderland,2-2,2,2,Football League First Division,1,D
+1980-10-18,1980/1981,Aston Villa,Tottenham Hotspur,3-0,3,0,Football League First Division,1,H
+1980-10-18,1980/1981,Crystal Palace,Leicester City,2-1,2,1,Football League First Division,1,H
+1980-10-18,1980/1981,Everton,Liverpool,2-2,2,2,Football League First Division,1,D
+1980-10-18,1980/1981,Ipswich Town,Manchester United,1-1,1,1,Football League First Division,1,D
+1980-10-18,1980/1981,Manchester City,Birmingham City,0-1,0,1,Football League First Division,1,A
+1980-10-18,1980/1981,Middlesbrough,Southampton,1-1,1,1,Football League First Division,1,D
+1980-10-18,1980/1981,Nottingham Forest,West Bromwich Albion,2-1,2,1,Football League First Division,1,H
+1980-10-18,1980/1981,Coventry City,Norwich City,0-1,0,1,Football League First Division,1,A
+1980-10-18,1980/1981,Wolverhampton Wanderers,Leeds United,2-1,2,1,Football League First Division,1,H
+1980-10-18,1980/1981,Stoke City,Brighton & Hove Albion,0-0,0,0,Football League First Division,1,D
+1980-10-18,1980/1981,AFC Bournemouth,Mansfield Town,0-1,0,1,Football League Fourth Division,4,A
+1980-10-18,1980/1981,Bradford City,Port Vale,2-1,2,1,Football League Fourth Division,4,H
+1980-10-18,1980/1981,Doncaster Rovers,Halifax Town,0-0,0,0,Football League Fourth Division,4,D
+1980-10-18,1980/1981,Hartlepool United,Lincoln City,2-0,2,0,Football League Fourth Division,4,H
+1980-10-18,1980/1981,Hereford United,Wimbledon,1-1,1,1,Football League Fourth Division,4,D
+1980-10-18,1980/1981,Peterborough United,Darlington,1-0,1,0,Football League Fourth Division,4,H
+1980-10-18,1980/1981,York City,Stockport County,1-0,1,0,Football League Fourth Division,4,H
+1980-10-18,1980/1981,Torquay United,Wigan Athletic,2-0,2,0,Football League Fourth Division,4,H
+1980-10-18,1980/1981,Rochdale,Bury,2-1,2,1,Football League Fourth Division,4,H
+1980-10-18,1980/1981,Oldham Athletic,West Ham United,0-0,0,0,Football League Second Division,2,D
+1980-10-18,1980/1981,Wrexham,Preston North End,0-1,0,1,Football League Second Division,2,A
+1980-10-18,1980/1981,Blackburn Rovers,Chelsea,1-1,1,1,Football League Second Division,2,D
+1980-10-18,1980/1981,Bolton Wanderers,Bristol City,1-1,1,1,Football League Second Division,2,D
+1980-10-18,1980/1981,Bristol Rovers,Sheffield Wednesday,3-3,3,3,Football League Second Division,2,D
+1980-10-18,1980/1981,Derby County,Queens Park Rangers,3-3,3,3,Football League Second Division,2,D
+1980-10-18,1980/1981,Grimsby Town,Watford,1-1,1,1,Football League Second Division,2,D
+1980-10-18,1980/1981,Newcastle United,Swansea City,1-2,1,2,Football League Second Division,2,A
+1980-10-18,1980/1981,Leyton Orient,Notts County,0-2,0,2,Football League Second Division,2,A
+1980-10-18,1980/1981,Luton Town,Shrewsbury Town,1-1,1,1,Football League Second Division,2,D
+1980-10-18,1980/1981,Blackpool,Colchester United,1-1,1,1,Football League Third Division,3,D
+1980-10-18,1980/1981,Brentford,Chester,0-1,0,1,Football League Third Division,3,A
+1980-10-18,1980/1981,Fulham,Oxford United,0-4,0,4,Football League Third Division,3,A
+1980-10-18,1980/1981,Huddersfield Town,Plymouth Argyle,2-0,2,0,Football League Third Division,3,H
+1980-10-18,1980/1981,Hull City,Charlton Athletic,0-2,0,2,Football League Third Division,3,A
+1980-10-18,1980/1981,Portsmouth,Burnley,4-2,4,2,Football League Third Division,3,H
+1980-10-18,1980/1981,Reading,Chesterfield,2-3,2,3,Football League Third Division,3,A
+1980-10-18,1980/1981,Rotherham United,Gillingham,2-0,2,0,Football League Third Division,3,H
+1980-10-18,1980/1981,Sheffield United,Exeter City,3-1,3,1,Football League Third Division,3,H
+1980-10-18,1980/1981,Swindon Town,Carlisle United,1-1,1,1,Football League Third Division,3,D
+1980-10-18,1980/1981,Walsall,Newport County,1-0,1,0,Football League Third Division,3,H
+1980-10-18,1980/1981,Barnsley,Millwall,2-0,2,0,Football League Third Division,3,H
+1980-10-20,1980/1981,Tranmere Rovers,Halifax Town,2-0,2,0,Football League Fourth Division,4,H
+1980-10-20,1980/1981,Southend United,Wigan Athletic,1-0,1,0,Football League Fourth Division,4,H
+1980-10-20,1980/1981,Brentford,Gillingham,3-3,3,3,Football League Third Division,3,D
+1980-10-21,1980/1981,Arsenal,Norwich City,3-1,3,1,Football League First Division,1,H
+1980-10-21,1980/1981,Coventry City,Sunderland,2-1,2,1,Football League First Division,1,H
+1980-10-21,1980/1981,Everton,West Bromwich Albion,1-1,1,1,Football League First Division,1,D
+1980-10-21,1980/1981,Middlesbrough,Leicester City,1-0,1,0,Football League First Division,1,H
+1980-10-21,1980/1981,Crystal Palace,Southampton,3-2,3,2,Football League First Division,1,H
+1980-10-21,1980/1981,York City,Darlington,1-2,1,2,Football League Fourth Division,4,A
+1980-10-21,1980/1981,Rochdale,Wimbledon,2-0,2,0,Football League Fourth Division,4,H
+1980-10-21,1980/1981,Northampton Town,Aldershot,2-0,2,0,Football League Fourth Division,4,H
+1980-10-21,1980/1981,Hartlepool United,Mansfield Town,0-1,0,1,Football League Fourth Division,4,A
+1980-10-21,1980/1981,Doncaster Rovers,Bury,1-0,1,0,Football League Fourth Division,4,H
+1980-10-21,1980/1981,AFC Bournemouth,Crewe Alexandra,0-0,0,0,Football League Fourth Division,4,D
+1980-10-21,1980/1981,Wrexham,Bristol City,1-0,1,0,Football League Second Division,2,H
+1980-10-21,1980/1981,Grimsby Town,Sheffield Wednesday,0-0,0,0,Football League Second Division,2,D
+1980-10-21,1980/1981,Leyton Orient,Chelsea,0-1,0,1,Football League Second Division,2,A
+1980-10-21,1980/1981,Luton Town,Swansea City,2-2,2,2,Football League Second Division,2,D
+1980-10-21,1980/1981,Oldham Athletic,Notts County,0-1,0,1,Football League Second Division,2,A
+1980-10-21,1980/1981,Bolton Wanderers,Preston North End,2-1,2,1,Football League Second Division,2,H
+1980-10-21,1980/1981,Hull City,Carlisle United,0-1,0,1,Football League Third Division,3,A
+1980-10-21,1980/1981,Walsall,Exeter City,1-3,1,3,Football League Third Division,3,A
+1980-10-21,1980/1981,Swindon Town,Charlton Athletic,0-3,0,3,Football League Third Division,3,A
+1980-10-21,1980/1981,Rotherham United,Chester,0-0,0,0,Football League Third Division,3,D
+1980-10-21,1980/1981,Portsmouth,Plymouth Argyle,1-3,1,3,Football League Third Division,3,A
+1980-10-21,1980/1981,Huddersfield Town,Burnley,0-0,0,0,Football League Third Division,3,D
+1980-10-21,1980/1981,Barnsley,Oxford United,1-1,1,1,Football League Third Division,3,D
+1980-10-22,1980/1981,Stoke City,Manchester United,1-2,1,2,Football League First Division,1,A
+1980-10-22,1980/1981,Nottingham Forest,Leeds United,2-1,2,1,Football League First Division,1,H
+1980-10-22,1980/1981,Manchester City,Tottenham Hotspur,3-1,3,1,Football League First Division,1,H
+1980-10-22,1980/1981,Aston Villa,Brighton & Hove Albion,4-1,4,1,Football League First Division,1,H
+1980-10-22,1980/1981,Torquay United,Stockport County,1-2,1,2,Football League Fourth Division,4,A
+1980-10-22,1980/1981,Hereford United,Port Vale,2-3,2,3,Football League Fourth Division,4,A
+1980-10-22,1980/1981,Bradford City,Lincoln City,1-2,1,2,Football League Fourth Division,4,A
+1980-10-22,1980/1981,Peterborough United,Scunthorpe United,0-2,0,2,Football League Fourth Division,4,A
+1980-10-22,1980/1981,Cardiff City,Queens Park Rangers,1-0,1,0,Football League Second Division,2,H
+1980-10-22,1980/1981,Blackburn Rovers,Cambridge United,2-0,2,0,Football League Second Division,2,H
+1980-10-22,1980/1981,Newcastle United,Shrewsbury Town,1-0,1,0,Football League Second Division,2,H
+1980-10-22,1980/1981,Fulham,Millwall,1-1,1,1,Football League Third Division,3,D
+1980-10-22,1980/1981,Reading,Colchester United,1-0,1,0,Football League Third Division,3,H
+1980-10-22,1980/1981,Blackpool,Chesterfield,0-3,0,3,Football League Third Division,3,A
+1980-10-24,1980/1981,Stockport County,AFC Bournemouth,2-1,2,1,Football League Fourth Division,4,H
+1980-10-24,1980/1981,Swansea City,Grimsby Town,1-0,1,0,Football League Second Division,2,H
+1980-10-25,1980/1981,Birmingham City,Stoke City,1-1,1,1,Football League First Division,1,D
+1980-10-25,1980/1981,Brighton & Hove Albion,Manchester City,1-2,1,2,Football League First Division,1,A
+1980-10-25,1980/1981,Leeds United,Crystal Palace,1-0,1,0,Football League First Division,1,H
+1980-10-25,1980/1981,Leicester City,Wolverhampton Wanderers,2-0,2,0,Football League First Division,1,H
+1980-10-25,1980/1981,Liverpool,Arsenal,1-1,1,1,Football League First Division,1,D
+1980-10-25,1980/1981,Norwich City,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1980-10-25,1980/1981,Southampton,Aston Villa,1-2,1,2,Football League First Division,1,A
+1980-10-25,1980/1981,Sunderland,Ipswich Town,0-2,0,2,Football League First Division,1,A
+1980-10-25,1980/1981,Manchester United,Everton,2-0,2,0,Football League First Division,1,H
+1980-10-25,1980/1981,West Bromwich Albion,Middlesbrough,3-0,3,0,Football League First Division,1,H
+1980-10-25,1980/1981,Tottenham Hotspur,Coventry City,4-1,4,1,Football League First Division,1,H
+1980-10-25,1980/1981,Halifax Town,Hereford United,0-0,0,0,Football League Fourth Division,4,D
+1980-10-25,1980/1981,Bury,Bradford City,2-2,2,2,Football League Fourth Division,4,D
+1980-10-25,1980/1981,Crewe Alexandra,Rochdale,1-0,1,0,Football League Fourth Division,4,H
+1980-10-25,1980/1981,Darlington,Southend United,0-2,0,2,Football League Fourth Division,4,A
+1980-10-25,1980/1981,Lincoln City,Northampton Town,8-0,8,0,Football League Fourth Division,4,H
+1980-10-25,1980/1981,Mansfield Town,Peterborough United,2-1,2,1,Football League Fourth Division,4,H
+1980-10-25,1980/1981,Port Vale,Hartlepool United,1-1,1,1,Football League Fourth Division,4,D
+1980-10-25,1980/1981,Scunthorpe United,Torquay United,0-2,0,2,Football League Fourth Division,4,A
+1980-10-25,1980/1981,Wigan Athletic,Tranmere Rovers,1-1,1,1,Football League Fourth Division,4,D
+1980-10-25,1980/1981,Wimbledon,York City,3-0,3,0,Football League Fourth Division,4,H
+1980-10-25,1980/1981,Aldershot,Doncaster Rovers,1-0,1,0,Football League Fourth Division,4,H
+1980-10-25,1980/1981,Watford,Oldham Athletic,2-1,2,1,Football League Second Division,2,H
+1980-10-25,1980/1981,West Ham United,Bolton Wanderers,2-1,2,1,Football League Second Division,2,H
+1980-10-25,1980/1981,Sheffield Wednesday,Leyton Orient,2-2,2,2,Football League Second Division,2,D
+1980-10-25,1980/1981,Queens Park Rangers,Wrexham,0-1,0,1,Football League Second Division,2,A
+1980-10-25,1980/1981,Preston North End,Bristol Rovers,0-0,0,0,Football League Second Division,2,D
+1980-10-25,1980/1981,Shrewsbury Town,Cardiff City,2-0,2,0,Football League Second Division,2,H
+1980-10-25,1980/1981,Chelsea,Newcastle United,6-0,6,0,Football League Second Division,2,H
+1980-10-25,1980/1981,Cambridge United,Luton Town,1-3,1,3,Football League Second Division,2,A
+1980-10-25,1980/1981,Bristol City,Derby County,2-2,2,2,Football League Second Division,2,D
+1980-10-25,1980/1981,Notts County,Blackburn Rovers,2-0,2,0,Football League Second Division,2,H
+1980-10-25,1980/1981,Oxford United,Portsmouth,1-2,1,2,Football League Third Division,3,A
+1980-10-25,1980/1981,Chesterfield,Walsall,1-2,1,2,Football League Third Division,3,A
+1980-10-25,1980/1981,Colchester United,Rotherham United,0-0,0,0,Football League Third Division,3,D
+1980-10-25,1980/1981,Exeter City,Swindon Town,3-4,3,4,Football League Third Division,3,A
+1980-10-25,1980/1981,Gillingham,Hull City,2-0,2,0,Football League Third Division,3,H
+1980-10-25,1980/1981,Millwall,Sheffield United,1-4,1,4,Football League Third Division,3,A
+1980-10-25,1980/1981,Chester,Fulham,0-1,0,1,Football League Third Division,3,A
+1980-10-25,1980/1981,Newport County,Huddersfield Town,3-2,3,2,Football League Third Division,3,H
+1980-10-25,1980/1981,Plymouth Argyle,Barnsley,1-3,1,3,Football League Third Division,3,A
+1980-10-25,1980/1981,Charlton Athletic,Blackpool,2-1,2,1,Football League Third Division,3,H
+1980-10-25,1980/1981,Burnley,Brentford,2-0,2,0,Football League Third Division,3,H
+1980-10-27,1980/1981,Mansfield Town,Northampton Town,2-0,2,0,Football League Fourth Division,4,H
+1980-10-27,1980/1981,Port Vale,AFC Bournemouth,0-2,0,2,Football League Fourth Division,4,A
+1980-10-27,1980/1981,Stockport County,Hartlepool United,0-2,0,2,Football League Fourth Division,4,A
+1980-10-28,1980/1981,Aldershot,Torquay United,2-1,2,1,Football League Fourth Division,4,H
+1980-10-28,1980/1981,Wimbledon,Peterborough United,2-1,2,1,Football League Fourth Division,4,H
+1980-10-28,1980/1981,Scunthorpe United,Doncaster Rovers,1-1,1,1,Football League Fourth Division,4,D
+1980-10-28,1980/1981,Halifax Town,Bradford City,2-0,2,0,Football League Fourth Division,4,H
+1980-10-28,1980/1981,Bury,Hereford United,2-1,2,1,Football League Fourth Division,4,H
+1980-10-28,1980/1981,Darlington,Rochdale,4-4,4,4,Football League Fourth Division,4,D
+1980-10-28,1980/1981,Plymouth Argyle,Brentford,0-1,0,1,Football League Third Division,3,A
+1980-10-28,1980/1981,Millwall,Walsall,0-1,0,1,Football League Third Division,3,A
+1980-10-28,1980/1981,Gillingham,Sheffield United,2-2,2,2,Football League Third Division,3,D
+1980-10-28,1980/1981,Newport County,Fulham,2-1,2,1,Football League Third Division,3,H
+1980-10-28,1980/1981,Colchester United,Hull City,2-0,2,0,Football League Third Division,3,H
+1980-10-28,1980/1981,Charlton Athletic,Reading,4-2,4,2,Football League Third Division,3,H
+1980-10-28,1980/1981,Carlisle United,Blackpool,2-0,2,0,Football League Third Division,3,H
+1980-10-29,1980/1981,Norwich City,Crystal Palace,1-1,1,1,Football League First Division,1,D
+1980-10-29,1980/1981,Crewe Alexandra,Southend United,1-1,1,1,Football League Fourth Division,4,D
+1980-10-29,1980/1981,Lincoln City,Tranmere Rovers,2-0,2,0,Football League Fourth Division,4,H
+1980-10-29,1980/1981,Wigan Athletic,York City,1-0,1,0,Football League Fourth Division,4,H
+1980-10-29,1980/1981,Chester,Huddersfield Town,0-2,0,2,Football League Third Division,3,A
+1980-10-29,1980/1981,Oxford United,Rotherham United,1-1,1,1,Football League Third Division,3,D
+1980-10-31,1980/1981,Tranmere Rovers,Bury,3-1,3,1,Football League Fourth Division,4,H
+1980-10-31,1980/1981,Southend United,Stockport County,2-0,2,0,Football League Fourth Division,4,H
+1980-10-31,1980/1981,Northampton Town,Halifax Town,2-1,2,1,Football League Fourth Division,4,H
+1980-10-31,1980/1981,Cardiff City,Chelsea,0-1,0,1,Football League Second Division,2,A
+1980-11-01,1980/1981,Middlesbrough,Birmingham City,1-2,1,2,Football League First Division,1,A
+1980-11-01,1980/1981,Aston Villa,Leicester City,2-0,2,0,Football League First Division,1,H
+1980-11-01,1980/1981,Coventry City,Leeds United,2-1,2,1,Football League First Division,1,H
+1980-11-01,1980/1981,Crystal Palace,Manchester United,1-0,1,0,Football League First Division,1,H
+1980-11-01,1980/1981,Everton,Tottenham Hotspur,2-2,2,2,Football League First Division,1,D
+1980-11-01,1980/1981,Ipswich Town,West Bromwich Albion,0-0,0,0,Football League First Division,1,D
+1980-11-01,1980/1981,Manchester City,Norwich City,1-0,1,0,Football League First Division,1,H
+1980-11-01,1980/1981,Nottingham Forest,Southampton,2-1,2,1,Football League First Division,1,H
+1980-11-01,1980/1981,Arsenal,Brighton & Hove Albion,2-0,2,0,Football League First Division,1,H
+1980-11-01,1980/1981,Stoke City,Liverpool,2-2,2,2,Football League First Division,1,D
+1980-11-01,1980/1981,Wolverhampton Wanderers,Sunderland,2-1,2,1,Football League First Division,1,H
+1980-11-01,1980/1981,Rochdale,Mansfield Town,1-4,1,4,Football League Fourth Division,4,A
+1980-11-01,1980/1981,AFC Bournemouth,Wigan Athletic,3-0,3,0,Football League Fourth Division,4,H
+1980-11-01,1980/1981,Bradford City,Aldershot,1-0,1,0,Football League Fourth Division,4,H
+1980-11-01,1980/1981,Doncaster Rovers,Wimbledon,2-1,2,1,Football League Fourth Division,4,H
+1980-11-01,1980/1981,Hartlepool United,Crewe Alexandra,6-2,6,2,Football League Fourth Division,4,H
+1980-11-01,1980/1981,Hereford United,Lincoln City,0-2,0,2,Football League Fourth Division,4,A
+1980-11-01,1980/1981,Peterborough United,Port Vale,1-1,1,1,Football League Fourth Division,4,D
+1980-11-01,1980/1981,Torquay United,Darlington,0-2,0,2,Football League Fourth Division,4,A
+1980-11-01,1980/1981,York City,Scunthorpe United,1-0,1,0,Football League Fourth Division,4,H
+1980-11-01,1980/1981,Oldham Athletic,Preston North End,1-1,1,1,Football League Second Division,2,D
+1980-11-01,1980/1981,Blackburn Rovers,Swansea City,0-0,0,0,Football League Second Division,2,D
+1980-11-01,1980/1981,Bolton Wanderers,Cambridge United,6-1,6,1,Football League Second Division,2,H
+1980-11-01,1980/1981,Bristol Rovers,West Ham United,0-1,0,1,Football League Second Division,2,A
+1980-11-01,1980/1981,Derby County,Shrewsbury Town,1-1,1,1,Football League Second Division,2,D
+1980-11-01,1980/1981,Grimsby Town,Queens Park Rangers,0-0,0,0,Football League Second Division,2,D
+1980-11-01,1980/1981,Leyton Orient,Bristol City,3-1,3,1,Football League Second Division,2,H
+1980-11-01,1980/1981,Luton Town,Sheffield Wednesday,3-0,3,0,Football League Second Division,2,H
+1980-11-01,1980/1981,Newcastle United,Watford,2-1,2,1,Football League Second Division,2,H
+1980-11-01,1980/1981,Wrexham,Notts County,1-1,1,1,Football League Second Division,2,D
+1980-11-01,1980/1981,Sheffield United,Colchester United,3-0,3,0,Football League Third Division,3,H
+1980-11-01,1980/1981,Fulham,Chesterfield,1-1,1,1,Football League Third Division,3,D
+1980-11-01,1980/1981,Huddersfield Town,Charlton Athletic,0-1,0,1,Football League Third Division,3,A
+1980-11-01,1980/1981,Brentford,Oxford United,3-0,3,0,Football League Third Division,3,H
+1980-11-01,1980/1981,Hull City,Plymouth Argyle,1-0,1,0,Football League Third Division,3,H
+1980-11-01,1980/1981,Portsmouth,Carlisle United,2-1,2,1,Football League Third Division,3,H
+1980-11-01,1980/1981,Reading,Exeter City,2-1,2,1,Football League Third Division,3,H
+1980-11-01,1980/1981,Rotherham United,Millwall,3-0,3,0,Football League Third Division,3,H
+1980-11-01,1980/1981,Swindon Town,Burnley,0-3,0,3,Football League Third Division,3,A
+1980-11-01,1980/1981,Blackpool,Newport County,2-4,2,4,Football League Third Division,3,A
+1980-11-01,1980/1981,Walsall,Gillingham,3-3,3,3,Football League Third Division,3,D
+1980-11-01,1980/1981,Barnsley,Chester,2-0,2,0,Football League Third Division,3,H
+1980-11-03,1980/1981,Tranmere Rovers,Mansfield Town,1-0,1,0,Football League Fourth Division,4,H
+1980-11-03,1980/1981,Southend United,Wimbledon,1-0,1,0,Football League Fourth Division,4,H
+1980-11-03,1980/1981,Brentford,Exeter City,0-1,0,1,Football League Third Division,3,A
+1980-11-04,1980/1981,Rochdale,Lincoln City,1-0,1,0,Football League Fourth Division,4,H
+1980-11-04,1980/1981,Peterborough United,Stockport County,1-2,1,2,Football League Fourth Division,4,A
+1980-11-04,1980/1981,Northampton Town,Bury,5-3,5,3,Football League Fourth Division,4,H
+1980-11-04,1980/1981,Hartlepool United,Scunthorpe United,2-0,2,0,Football League Fourth Division,4,H
+1980-11-04,1980/1981,Doncaster Rovers,Wigan Athletic,1-1,1,1,Football League Fourth Division,4,D
+1980-11-04,1980/1981,Bradford City,Darlington,3-0,3,0,Football League Fourth Division,4,H
+1980-11-04,1980/1981,AFC Bournemouth,Aldershot,0-2,0,2,Football League Fourth Division,4,A
+1980-11-04,1980/1981,York City,Halifax Town,1-1,1,1,Football League Fourth Division,4,D
+1980-11-04,1980/1981,Bristol Rovers,Watford,3-1,3,1,Football League Second Division,2,H
+1980-11-04,1980/1981,Walsall,Charlton Athletic,2-2,2,2,Football League Third Division,3,D
+1980-11-04,1980/1981,Swindon Town,Gillingham,0-0,0,0,Football League Third Division,3,D
+1980-11-04,1980/1981,Rotherham United,Chesterfield,0-0,0,0,Football League Third Division,3,D
+1980-11-04,1980/1981,Portsmouth,Colchester United,2-1,2,1,Football League Third Division,3,H
+1980-11-04,1980/1981,Hull City,Chester,0-0,0,0,Football League Third Division,3,D
+1980-11-04,1980/1981,Huddersfield Town,Oxford United,2-0,2,0,Football League Third Division,3,H
+1980-11-04,1980/1981,Fulham,Plymouth Argyle,0-0,0,0,Football League Third Division,3,D
+1980-11-04,1980/1981,Barnsley,Carlisle United,3-1,3,1,Football League Third Division,3,H
+1980-11-04,1980/1981,Sheffield United,Burnley,0-0,0,0,Football League Third Division,3,D
+1980-11-05,1980/1981,Torquay United,Port Vale,4-0,4,0,Football League Fourth Division,4,H
+1980-11-05,1980/1981,Hereford United,Crewe Alexandra,0-0,0,0,Football League Fourth Division,4,D
+1980-11-07,1980/1981,Stockport County,Doncaster Rovers,2-1,2,1,Football League Fourth Division,4,H
+1980-11-08,1980/1981,Birmingham City,Crystal Palace,1-0,1,0,Football League First Division,1,H
+1980-11-08,1980/1981,Brighton & Hove Albion,Middlesbrough,0-1,0,1,Football League First Division,1,A
+1980-11-08,1980/1981,Leeds United,Arsenal,0-5,0,5,Football League First Division,1,A
+1980-11-08,1980/1981,Leicester City,Manchester City,1-1,1,1,Football League First Division,1,D
+1980-11-08,1980/1981,Liverpool,Nottingham Forest,0-0,0,0,Football League First Division,1,D
+1980-11-08,1980/1981,Manchester United,Coventry City,0-0,0,0,Football League First Division,1,D
+1980-11-08,1980/1981,Norwich City,Everton,2-1,2,1,Football League First Division,1,H
+1980-11-08,1980/1981,Southampton,Ipswich Town,3-3,3,3,Football League First Division,1,D
+1980-11-08,1980/1981,Tottenham Hotspur,Wolverhampton Wanderers,2-2,2,2,Football League First Division,1,D
+1980-11-08,1980/1981,West Bromwich Albion,Aston Villa,0-0,0,0,Football League First Division,1,D
+1980-11-08,1980/1981,Sunderland,Stoke City,0-0,0,0,Football League First Division,1,D
+1980-11-08,1980/1981,Aldershot,Peterborough United,0-0,0,0,Football League Fourth Division,4,D
+1980-11-08,1980/1981,Bury,AFC Bournemouth,3-0,3,0,Football League Fourth Division,4,H
+1980-11-08,1980/1981,Crewe Alexandra,York City,1-1,1,1,Football League Fourth Division,4,D
+1980-11-08,1980/1981,Darlington,Tranmere Rovers,2-0,2,0,Football League Fourth Division,4,H
+1980-11-08,1980/1981,Halifax Town,Hartlepool United,1-2,1,2,Football League Fourth Division,4,A
+1980-11-08,1980/1981,Lincoln City,Southend United,2-1,2,1,Football League Fourth Division,4,H
+1980-11-08,1980/1981,Mansfield Town,Torquay United,1-1,1,1,Football League Fourth Division,4,D
+1980-11-08,1980/1981,Port Vale,Rochdale,1-1,1,1,Football League Fourth Division,4,D
+1980-11-08,1980/1981,Scunthorpe United,Hereford United,3-1,3,1,Football League Fourth Division,4,H
+1980-11-08,1980/1981,Wigan Athletic,Bradford City,0-1,0,1,Football League Fourth Division,4,A
+1980-11-08,1980/1981,Wimbledon,Northampton Town,1-0,1,0,Football League Fourth Division,4,H
+1980-11-08,1980/1981,Watford,Bolton Wanderers,3-1,3,1,Football League Second Division,2,H
+1980-11-08,1980/1981,West Ham United,Grimsby Town,2-1,2,1,Football League Second Division,2,H
+1980-11-08,1980/1981,Cambridge United,Newcastle United,2-1,2,1,Football League Second Division,2,H
+1980-11-08,1980/1981,Swansea City,Leyton Orient,0-2,0,2,Football League Second Division,2,A
+1980-11-08,1980/1981,Bristol City,Blackburn Rovers,2-0,2,0,Football League Second Division,2,H
+1980-11-08,1980/1981,Shrewsbury Town,Bristol Rovers,3-1,3,1,Football League Second Division,2,H
+1980-11-08,1980/1981,Sheffield Wednesday,Wrexham,2-1,2,1,Football League Second Division,2,H
+1980-11-08,1980/1981,Preston North End,Cardiff City,3-1,3,1,Football League Second Division,2,H
+1980-11-08,1980/1981,Notts County,Derby County,0-0,0,0,Football League Second Division,2,D
+1980-11-08,1980/1981,Chelsea,Oldham Athletic,1-0,1,0,Football League Second Division,2,H
+1980-11-08,1980/1981,Queens Park Rangers,Luton Town,3-2,3,2,Football League Second Division,2,H
+1980-11-08,1980/1981,Chester,Sheffield United,3-2,3,2,Football League Third Division,3,H
+1980-11-08,1980/1981,Chesterfield,Brentford,2-1,2,1,Football League Third Division,3,H
+1980-11-08,1980/1981,Colchester United,Swindon Town,1-0,1,0,Football League Third Division,3,H
+1980-11-08,1980/1981,Exeter City,Barnsley,0-1,0,1,Football League Third Division,3,A
+1980-11-08,1980/1981,Millwall,Huddersfield Town,2-1,2,1,Football League Third Division,3,H
+1980-11-08,1980/1981,Newport County,Hull City,4-0,4,0,Football League Third Division,3,H
+1980-11-08,1980/1981,Oxford United,Blackpool,0-2,0,2,Football League Third Division,3,A
+1980-11-08,1980/1981,Plymouth Argyle,Walsall,2-0,2,0,Football League Third Division,3,H
+1980-11-08,1980/1981,Carlisle United,Fulham,2-2,2,2,Football League Third Division,3,D
+1980-11-08,1980/1981,Burnley,Reading,1-2,1,2,Football League Third Division,3,A
+1980-11-08,1980/1981,Gillingham,Portsmouth,0-1,0,1,Football League Third Division,3,A
+1980-11-08,1980/1981,Charlton Athletic,Rotherham United,2-0,2,0,Football League Third Division,3,H
+1980-11-10,1980/1981,Port Vale,Southend United,1-0,1,0,Football League Fourth Division,4,H
+1980-11-10,1980/1981,Stockport County,Bradford City,1-2,1,2,Football League Fourth Division,4,A
+1980-11-11,1980/1981,Birmingham City,Nottingham Forest,2-0,2,0,Football League First Division,1,H
+1980-11-11,1980/1981,Brighton & Hove Albion,Ipswich Town,1-0,1,0,Football League First Division,1,H
+1980-11-11,1980/1981,Southampton,Arsenal,3-1,3,1,Football League First Division,1,H
+1980-11-11,1980/1981,Liverpool,Coventry City,2-1,2,1,Football League First Division,1,H
+1980-11-11,1980/1981,Darlington,Doncaster Rovers,5-0,5,0,Football League Fourth Division,4,H
+1980-11-11,1980/1981,Halifax Town,Peterborough United,2-3,2,3,Football League Fourth Division,4,A
+1980-11-11,1980/1981,Scunthorpe United,Rochdale,1-1,1,1,Football League Fourth Division,4,D
+1980-11-11,1980/1981,Wimbledon,Aldershot,4-0,4,0,Football League Fourth Division,4,H
+1980-11-11,1980/1981,York City,Mansfield Town,2-0,2,0,Football League Fourth Division,4,H
+1980-11-11,1980/1981,Bury,Hartlepool United,0-0,0,0,Football League Fourth Division,4,D
+1980-11-11,1980/1981,Notts County,Newcastle United,0-0,0,0,Football League Second Division,2,D
+1980-11-11,1980/1981,Bristol Rovers,Queens Park Rangers,1-2,1,2,Football League Second Division,2,A
+1980-11-11,1980/1981,Cambridge United,Leyton Orient,1-0,1,0,Football League Second Division,2,H
+1980-11-11,1980/1981,Sheffield Wednesday,Bolton Wanderers,2-0,2,0,Football League Second Division,2,H
+1980-11-11,1980/1981,Shrewsbury Town,Swansea City,0-0,0,0,Football League Second Division,2,D
+1980-11-11,1980/1981,Watford,Luton Town,0-1,0,1,Football League Second Division,2,A
+1980-11-11,1980/1981,West Ham United,Bristol City,5-0,5,0,Football League Second Division,2,H
+1980-11-11,1980/1981,Oldham Athletic,Blackburn Rovers,1-0,1,0,Football League Second Division,2,H
+1980-11-11,1980/1981,Chesterfield,Sheffield United,1-0,1,0,Football League Third Division,3,H
+1980-11-11,1980/1981,Colchester United,Fulham,3-2,3,2,Football League Third Division,3,H
+1980-11-11,1980/1981,Millwall,Brentford,2-2,2,2,Football League Third Division,3,D
+1980-11-11,1980/1981,Rotherham United,Blackpool,4-0,4,0,Football League Third Division,3,H
+1980-11-11,1980/1981,Swindon Town,Portsmouth,0-2,0,2,Football League Third Division,3,A
+1980-11-11,1980/1981,Charlton Athletic,Newport County,3-0,3,0,Football League Third Division,3,H
+1980-11-11,1980/1981,Carlisle United,Huddersfield Town,1-1,1,1,Football League Third Division,3,D
+1980-11-11,1980/1981,Barnsley,Hull City,5-0,5,0,Football League Third Division,3,H
+1980-11-11,1980/1981,Burnley,Walsall,0-0,0,0,Football League Third Division,3,D
+1980-11-12,1980/1981,Tottenham Hotspur,Crystal Palace,4-2,4,2,Football League First Division,1,H
+1980-11-12,1980/1981,Sunderland,Manchester City,2-0,2,0,Football League First Division,1,H
+1980-11-12,1980/1981,Norwich City,Aston Villa,1-3,1,3,Football League First Division,1,A
+1980-11-12,1980/1981,Manchester United,Wolverhampton Wanderers,0-0,0,0,Football League First Division,1,D
+1980-11-12,1980/1981,Leicester City,Everton,0-1,0,1,Football League First Division,1,A
+1980-11-12,1980/1981,Leeds United,Middlesbrough,2-1,2,1,Football League First Division,1,H
+1980-11-12,1980/1981,Wigan Athletic,Northampton Town,3-0,3,0,Football League Fourth Division,4,H
+1980-11-12,1980/1981,Lincoln City,Torquay United,5-0,5,0,Football League Fourth Division,4,H
+1980-11-12,1980/1981,Hereford United,AFC Bournemouth,1-0,1,0,Football League Fourth Division,4,H
+1980-11-12,1980/1981,Crewe Alexandra,Tranmere Rovers,3-0,3,0,Football League Fourth Division,4,H
+1980-11-12,1980/1981,Cardiff City,Wrexham,1-0,1,0,Football League Second Division,2,H
+1980-11-12,1980/1981,Chelsea,Derby County,1-3,1,3,Football League Second Division,2,A
+1980-11-12,1980/1981,Reading,Gillingham,0-1,0,1,Football League Third Division,3,A
+1980-11-12,1980/1981,Exeter City,Oxford United,1-1,1,1,Football League Third Division,3,D
+1980-11-12,1980/1981,Chester,Plymouth Argyle,1-0,1,0,Football League Third Division,3,H
+1980-11-15,1980/1981,Crystal Palace,Liverpool,2-2,2,2,Football League First Division,1,D
+1980-11-15,1980/1981,Arsenal,West Bromwich Albion,2-2,2,2,Football League First Division,1,D
+1980-11-15,1980/1981,Aston Villa,Leeds United,1-1,1,1,Football League First Division,1,D
+1980-11-15,1980/1981,Coventry City,Birmingham City,2-1,2,1,Football League First Division,1,H
+1980-11-15,1980/1981,Everton,Sunderland,2-1,2,1,Football League First Division,1,H
+1980-11-15,1980/1981,Manchester City,Southampton,3-0,3,0,Football League First Division,1,H
+1980-11-15,1980/1981,Middlesbrough,Manchester United,1-1,1,1,Football League First Division,1,D
+1980-11-15,1980/1981,Nottingham Forest,Tottenham Hotspur,0-3,0,3,Football League First Division,1,A
+1980-11-15,1980/1981,Stoke City,Norwich City,3-1,3,1,Football League First Division,1,H
+1980-11-15,1980/1981,Ipswich Town,Leicester City,3-1,3,1,Football League First Division,1,H
+1980-11-15,1980/1981,Wolverhampton Wanderers,Brighton & Hove Albion,0-2,0,2,Football League First Division,1,A
+1980-11-15,1980/1981,Aldershot,Scunthorpe United,0-0,0,0,Football League Fourth Division,4,D
+1980-11-15,1980/1981,Bradford City,Wimbledon,2-0,2,0,Football League Fourth Division,4,H
+1980-11-15,1980/1981,Doncaster Rovers,Port Vale,2-0,2,0,Football League Fourth Division,4,H
+1980-11-15,1980/1981,Hartlepool United,Wigan Athletic,3-1,3,1,Football League Fourth Division,4,H
+1980-11-15,1980/1981,Mansfield Town,Halifax Town,0-1,0,1,Football League Fourth Division,4,A
+1980-11-15,1980/1981,Northampton Town,Darlington,2-2,2,2,Football League Fourth Division,4,D
+1980-11-15,1980/1981,Peterborough United,Lincoln City,1-0,1,0,Football League Fourth Division,4,H
+1980-11-15,1980/1981,Southend United,Bury,1-0,1,0,Football League Fourth Division,4,H
+1980-11-15,1980/1981,Torquay United,Crewe Alexandra,1-0,1,0,Football League Fourth Division,4,H
+1980-11-15,1980/1981,AFC Bournemouth,York City,1-1,1,1,Football League Fourth Division,4,D
+1980-11-15,1980/1981,Wrexham,Chelsea,0-4,0,4,Football League Second Division,2,A
+1980-11-15,1980/1981,Blackburn Rovers,Cardiff City,2-3,2,3,Football League Second Division,2,A
+1980-11-15,1980/1981,Bristol City,Preston North End,0-0,0,0,Football League Second Division,2,D
+1980-11-15,1980/1981,Derby County,Cambridge United,0-3,0,3,Football League Second Division,2,A
+1980-11-15,1980/1981,Grimsby Town,Shrewsbury Town,1-0,1,0,Football League Second Division,2,H
+1980-11-15,1980/1981,Leyton Orient,Bristol Rovers,2-2,2,2,Football League Second Division,2,D
+1980-11-15,1980/1981,Luton Town,West Ham United,3-2,3,2,Football League Second Division,2,H
+1980-11-15,1980/1981,Newcastle United,Sheffield Wednesday,1-0,1,0,Football League Second Division,2,H
+1980-11-15,1980/1981,Queens Park Rangers,Oldham Athletic,2-0,2,0,Football League Second Division,2,H
+1980-11-15,1980/1981,Sheffield United,Carlisle United,2-2,2,2,Football League Third Division,3,D
+1980-11-15,1980/1981,Gillingham,Exeter City,1-5,1,5,Football League Third Division,3,A
+1980-11-15,1980/1981,Huddersfield Town,Chesterfield,2-0,2,0,Football League Third Division,3,H
+1980-11-15,1980/1981,Hull City,Millwall,3-1,3,1,Football League Third Division,3,H
+1980-11-15,1980/1981,Newport County,Burnley,1-2,1,2,Football League Third Division,3,A
+1980-11-15,1980/1981,Oxford United,Chester,1-0,1,0,Football League Third Division,3,H
+1980-11-15,1980/1981,Plymouth Argyle,Colchester United,1-1,1,1,Football League Third Division,3,D
+1980-11-15,1980/1981,Portsmouth,Barnsley,0-1,0,1,Football League Third Division,3,A
+1980-11-15,1980/1981,Walsall,Reading,2-2,2,2,Football League Third Division,3,D
+1980-11-15,1980/1981,Fulham,Rotherham United,1-1,1,1,Football League Third Division,3,D
+1980-11-15,1980/1981,Brentford,Charlton Athletic,0-1,0,1,Football League Third Division,3,A
+1980-11-15,1980/1981,Blackpool,Swindon Town,1-1,1,1,Football League Third Division,3,D
+1980-11-22,1980/1981,Stoke City,Crystal Palace,1-0,1,0,Football League First Division,1,H
+1980-11-22,1980/1981,Southampton,Leeds United,2-1,2,1,Football League First Division,1,H
+1980-11-22,1980/1981,West Bromwich Albion,Leicester City,3-1,3,1,Football League First Division,1,H
+1980-11-22,1980/1981,Nottingham Forest,Ipswich Town,1-2,1,2,Football League First Division,1,A
+1980-11-22,1980/1981,Norwich City,Sunderland,1-0,1,0,Football League First Division,1,H
+1980-11-22,1980/1981,Middlesbrough,Wolverhampton Wanderers,2-0,2,0,Football League First Division,1,H
+1980-11-22,1980/1981,Manchester City,Coventry City,3-0,3,0,Football League First Division,1,H
+1980-11-22,1980/1981,Liverpool,Aston Villa,2-1,2,1,Football League First Division,1,H
+1980-11-22,1980/1981,Brighton & Hove Albion,Manchester United,1-4,1,4,Football League First Division,1,A
+1980-11-22,1980/1981,Birmingham City,Tottenham Hotspur,2-1,2,1,Football League First Division,1,H
+1980-11-22,1980/1981,Arsenal,Everton,2-1,2,1,Football League First Division,1,H
+1980-11-22,1980/1981,Cardiff City,Luton Town,1-0,1,0,Football League Second Division,2,H
+1980-11-22,1980/1981,Chelsea,Sheffield Wednesday,2-0,2,0,Football League Second Division,2,H
+1980-11-22,1980/1981,Newcastle United,Wrexham,0-1,0,1,Football League Second Division,2,A
+1980-11-22,1980/1981,Oldham Athletic,Leyton Orient,0-1,0,1,Football League Second Division,2,A
+1980-11-22,1980/1981,West Ham United,Swansea City,2-0,2,0,Football League Second Division,2,H
+1980-11-22,1980/1981,Shrewsbury Town,Notts County,1-1,1,1,Football League Second Division,2,D
+1980-11-22,1980/1981,Watford,Blackburn Rovers,1-1,1,1,Football League Second Division,2,D
+1980-11-22,1980/1981,Bristol Rovers,Derby County,1-1,1,1,Football League Second Division,2,D
+1980-11-22,1980/1981,Preston North End,Queens Park Rangers,3-2,3,2,Football League Second Division,2,H
+1980-11-22,1980/1981,Bolton Wanderers,Grimsby Town,1-1,1,1,Football League Second Division,2,D
+1980-11-22,1980/1981,Cambridge United,Bristol City,2-1,2,1,Football League Second Division,2,H
+1980-11-25,1980/1981,Wolverhampton Wanderers,Liverpool,4-1,4,1,Football League First Division,1,H
+1980-11-25,1980/1981,West Bromwich Albion,Stoke City,0-0,0,0,Football League First Division,1,D
+1980-11-25,1980/1981,Bolton Wanderers,Notts County,3-0,3,0,Football League Second Division,2,H
+1980-11-26,1980/1981,Derby County,West Ham United,2-0,2,0,Football League Second Division,2,H
+1980-11-28,1980/1981,Swansea City,Preston North End,3-0,3,0,Football League Second Division,2,H
+1980-11-29,1980/1981,Wolverhampton Wanderers,Stoke City,1-0,1,0,Football League First Division,1,H
+1980-11-29,1980/1981,Aston Villa,Arsenal,1-1,1,1,Football League First Division,1,D
+1980-11-29,1980/1981,Coventry City,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1980-11-29,1980/1981,Crystal Palace,Manchester City,2-3,2,3,Football League First Division,1,A
+1980-11-29,1980/1981,Everton,Birmingham City,1-1,1,1,Football League First Division,1,D
+1980-11-29,1980/1981,Leeds United,Brighton & Hove Albion,1-0,1,0,Football League First Division,1,H
+1980-11-29,1980/1981,Leicester City,Norwich City,1-2,1,2,Football League First Division,1,A
+1980-11-29,1980/1981,Manchester United,Southampton,1-1,1,1,Football League First Division,1,D
+1980-11-29,1980/1981,Tottenham Hotspur,West Bromwich Albion,2-3,2,3,Football League First Division,1,A
+1980-11-29,1980/1981,Sunderland,Liverpool,2-4,2,4,Football League First Division,1,A
+1980-11-29,1980/1981,Northampton Town,Tranmere Rovers,3-1,3,1,Football League Fourth Division,4,H
+1980-11-29,1980/1981,Bury,Wimbledon,1-0,1,0,Football League Fourth Division,4,H
+1980-11-29,1980/1981,Crewe Alexandra,Mansfield Town,1-2,1,2,Football League Fourth Division,4,A
+1980-11-29,1980/1981,Doncaster Rovers,Rochdale,1-2,1,2,Football League Fourth Division,4,A
+1980-11-29,1980/1981,Halifax Town,AFC Bournemouth,1-2,1,2,Football League Fourth Division,4,A
+1980-11-29,1980/1981,Hartlepool United,Torquay United,0-2,0,2,Football League Fourth Division,4,A
+1980-11-29,1980/1981,Hereford United,Wigan Athletic,1-1,1,1,Football League Fourth Division,4,D
+1980-11-29,1980/1981,Stockport County,Aldershot,1-0,1,0,Football League Fourth Division,4,H
+1980-11-29,1980/1981,Sheffield Wednesday,Watford,1-0,1,0,Football League Second Division,2,H
+1980-11-29,1980/1981,Blackburn Rovers,Bristol Rovers,2-0,2,0,Football League Second Division,2,H
+1980-11-29,1980/1981,Bristol City,Oldham Athletic,1-1,1,1,Football League Second Division,2,D
+1980-11-29,1980/1981,Derby County,Cardiff City,1-1,1,1,Football League Second Division,2,D
+1980-11-29,1980/1981,Grimsby Town,Cambridge United,3-1,3,1,Football League Second Division,2,H
+1980-11-29,1980/1981,Leyton Orient,Newcastle United,1-1,1,1,Football League Second Division,2,D
+1980-11-29,1980/1981,Luton Town,Bolton Wanderers,2-2,2,2,Football League Second Division,2,D
+1980-11-29,1980/1981,Notts County,Chelsea,1-1,1,1,Football League Second Division,2,D
+1980-11-29,1980/1981,Queens Park Rangers,Shrewsbury Town,0-0,0,0,Football League Second Division,2,D
+1980-11-29,1980/1981,Wrexham,West Ham United,2-2,2,2,Football League Second Division,2,D
+1980-11-29,1980/1981,Colchester United,Oxford United,3-0,3,0,Football League Third Division,3,H
+1980-11-29,1980/1981,Charlton Athletic,Chesterfield,1-0,1,0,Football League Third Division,3,H
+1980-11-29,1980/1981,Exeter City,Carlisle United,2-0,2,0,Football League Third Division,3,H
+1980-11-29,1980/1981,Huddersfield Town,Brentford,3-0,3,0,Football League Third Division,3,H
+1980-11-29,1980/1981,Millwall,Plymouth Argyle,1-1,1,1,Football League Third Division,3,D
+1980-11-29,1980/1981,Portsmouth,Chester,2-0,2,0,Football League Third Division,3,H
+1980-11-29,1980/1981,Reading,Blackpool,3-0,3,0,Football League Third Division,3,H
+1980-11-29,1980/1981,Rotherham United,Newport County,1-0,1,0,Football League Third Division,3,H
+1980-11-29,1980/1981,Swindon Town,Hull City,3-1,3,1,Football League Third Division,3,H
+1980-11-29,1980/1981,Burnley,Gillingham,3-2,3,2,Football League Third Division,3,H
+1980-11-29,1980/1981,Walsall,Sheffield United,4-4,4,4,Football League Third Division,3,D
+1980-11-29,1980/1981,Barnsley,Fulham,2-2,2,2,Football League Third Division,3,D
+1980-12-02,1980/1981,Preston North End,Grimsby Town,2-4,2,4,Football League Second Division,2,A
+1980-12-02,1980/1981,Burnley,Barnsley,0-1,0,1,Football League Third Division,3,A
+1980-12-03,1980/1981,Chester,Newport County,1-1,1,1,Football League Third Division,3,D
+1980-12-05,1980/1981,Tranmere Rovers,Hartlepool United,2-2,2,2,Football League Fourth Division,4,D
+1980-12-05,1980/1981,Port Vale,Crewe Alexandra,2-2,2,2,Football League Fourth Division,4,D
+1980-12-06,1980/1981,Birmingham City,Leicester City,1-2,1,2,Football League First Division,1,A
+1980-12-06,1980/1981,Arsenal,Wolverhampton Wanderers,1-1,1,1,Football League First Division,1,D
+1980-12-06,1980/1981,Brighton & Hove Albion,Sunderland,2-1,2,1,Football League First Division,1,H
+1980-12-06,1980/1981,Liverpool,Tottenham Hotspur,2-1,2,1,Football League First Division,1,H
+1980-12-06,1980/1981,Middlesbrough,Aston Villa,2-1,2,1,Football League First Division,1,H
+1980-12-06,1980/1981,Norwich City,Manchester United,2-2,2,2,Football League First Division,1,D
+1980-12-06,1980/1981,Nottingham Forest,Crystal Palace,3-0,3,0,Football League First Division,1,H
+1980-12-06,1980/1981,Southampton,Coventry City,1-0,1,0,Football League First Division,1,H
+1980-12-06,1980/1981,Stoke City,Everton,2-2,2,2,Football League First Division,1,D
+1980-12-06,1980/1981,Manchester City,Ipswich Town,1-1,1,1,Football League First Division,1,D
+1980-12-06,1980/1981,West Bromwich Albion,Leeds United,1-2,1,2,Football League First Division,1,A
+1980-12-06,1980/1981,Wigan Athletic,Scunthorpe United,1-1,1,1,Football League Fourth Division,4,D
+1980-12-06,1980/1981,Aldershot,Halifax Town,2-1,2,1,Football League Fourth Division,4,H
+1980-12-06,1980/1981,Bradford City,York City,1-1,1,1,Football League Fourth Division,4,D
+1980-12-06,1980/1981,Lincoln City,Bury,2-1,2,1,Football League Fourth Division,4,H
+1980-12-06,1980/1981,Mansfield Town,Stockport County,1-0,1,0,Football League Fourth Division,4,H
+1980-12-06,1980/1981,Peterborough United,Hereford United,3-0,3,0,Football League Fourth Division,4,H
+1980-12-06,1980/1981,Rochdale,Southend United,0-2,0,2,Football League Fourth Division,4,A
+1980-12-06,1980/1981,Torquay United,Northampton Town,3-3,3,3,Football League Fourth Division,4,D
+1980-12-06,1980/1981,Wimbledon,Darlington,1-1,1,1,Football League Fourth Division,4,D
+1980-12-06,1980/1981,AFC Bournemouth,Doncaster Rovers,1-2,1,2,Football League Fourth Division,4,A
+1980-12-06,1980/1981,West Ham United,Sheffield Wednesday,2-1,2,1,Football League Second Division,2,H
+1980-12-06,1980/1981,Bolton Wanderers,Leyton Orient,3-1,3,1,Football League Second Division,2,H
+1980-12-06,1980/1981,Bristol Rovers,Wrexham,0-1,0,1,Football League Second Division,2,A
+1980-12-06,1980/1981,Cambridge United,Queens Park Rangers,1-0,1,0,Football League Second Division,2,H
+1980-12-06,1980/1981,Cardiff City,Grimsby Town,1-1,1,1,Football League Second Division,2,D
+1980-12-06,1980/1981,Chelsea,Swansea City,0-0,0,0,Football League Second Division,2,D
+1980-12-06,1980/1981,Watford,Notts County,2-0,2,0,Football League Second Division,2,H
+1980-12-06,1980/1981,Oldham Athletic,Luton Town,0-0,0,0,Football League Second Division,2,D
+1980-12-06,1980/1981,Preston North End,Derby County,0-3,0,3,Football League Second Division,2,A
+1980-12-06,1980/1981,Shrewsbury Town,Bristol City,4-0,4,0,Football League Second Division,2,H
+1980-12-06,1980/1981,Chester,Walsall,1-0,1,0,Football League Third Division,3,H
+1980-12-06,1980/1981,Chesterfield,Millwall,3-0,3,0,Football League Third Division,3,H
+1980-12-06,1980/1981,Fulham,Huddersfield Town,2-2,2,2,Football League Third Division,3,D
+1980-12-06,1980/1981,Gillingham,Charlton Athletic,0-1,0,1,Football League Third Division,3,A
+1980-12-06,1980/1981,Hull City,Reading,2-0,2,0,Football League Third Division,3,H
+1980-12-06,1980/1981,Newport County,Barnsley,0-0,0,0,Football League Third Division,3,D
+1980-12-06,1980/1981,Oxford United,Burnley,0-2,0,2,Football League Third Division,3,A
+1980-12-06,1980/1981,Plymouth Argyle,Rotherham United,3-1,3,1,Football League Third Division,3,H
+1980-12-06,1980/1981,Carlisle United,Colchester United,4-0,4,0,Football League Third Division,3,H
+1980-12-06,1980/1981,Sheffield United,Portsmouth,1-0,1,0,Football League Third Division,3,H
+1980-12-06,1980/1981,Brentford,Swindon Town,1-1,1,1,Football League Third Division,3,D
+1980-12-06,1980/1981,Blackpool,Exeter City,0-0,0,0,Football League Third Division,3,D
+1980-12-12,1980/1981,Southend United,Bradford City,3-1,3,1,Football League Fourth Division,4,H
+1980-12-12,1980/1981,Rochdale,Stockport County,2-1,2,1,Football League Fourth Division,4,H
+1980-12-13,1980/1981,Tottenham Hotspur,Manchester City,2-1,2,1,Football League First Division,1,H
+1980-12-13,1980/1981,Sunderland,Arsenal,2-0,2,0,Football League First Division,1,H
+1980-12-13,1980/1981,Manchester United,Stoke City,2-2,2,2,Football League First Division,1,D
+1980-12-13,1980/1981,Leicester City,Middlesbrough,1-0,1,0,Football League First Division,1,H
+1980-12-13,1980/1981,Leeds United,Nottingham Forest,1-0,1,0,Football League First Division,1,H
+1980-12-13,1980/1981,Ipswich Town,Liverpool,1-1,1,1,Football League First Division,1,D
+1980-12-13,1980/1981,Everton,Brighton & Hove Albion,4-3,4,3,Football League First Division,1,H
+1980-12-13,1980/1981,Crystal Palace,Norwich City,4-1,4,1,Football League First Division,1,H
+1980-12-13,1980/1981,Coventry City,West Bromwich Albion,3-0,3,0,Football League First Division,1,H
+1980-12-13,1980/1981,Aston Villa,Birmingham City,3-0,3,0,Football League First Division,1,H
+1980-12-13,1980/1981,Wolverhampton Wanderers,Southampton,1-1,1,1,Football League First Division,1,D
+1980-12-13,1980/1981,Crewe Alexandra,Wigan Athletic,1-2,1,2,Football League Fourth Division,4,A
+1980-12-13,1980/1981,Wrexham,Cambridge United,0-0,0,0,Football League Second Division,2,D
+1980-12-13,1980/1981,Swansea City,Newcastle United,4-0,4,0,Football League Second Division,2,H
+1980-12-13,1980/1981,Sheffield Wednesday,Bristol Rovers,4-1,4,1,Football League Second Division,2,H
+1980-12-13,1980/1981,Notts County,Oldham Athletic,0-2,0,2,Football League Second Division,2,A
+1980-12-13,1980/1981,Luton Town,Preston North End,4-2,4,2,Football League Second Division,2,H
+1980-12-13,1980/1981,Leyton Orient,Shrewsbury Town,1-0,1,0,Football League Second Division,2,H
+1980-12-13,1980/1981,Grimsby Town,Chelsea,2-0,2,0,Football League Second Division,2,H
+1980-12-13,1980/1981,Bristol City,Bolton Wanderers,3-1,3,1,Football League Second Division,2,H
+1980-12-13,1980/1981,Blackburn Rovers,West Ham United,0-0,0,0,Football League Second Division,2,D
+1980-12-13,1980/1981,Derby County,Watford,1-1,1,1,Football League Second Division,2,D
+1980-12-13,1980/1981,Newport County,Chester,1-1,1,1,Football League Third Division,3,D
+1980-12-16,1980/1981,Swansea City,Watford,1-0,1,0,Football League Second Division,2,H
+1980-12-17,1980/1981,Tottenham Hotspur,Ipswich Town,5-3,5,3,Football League First Division,1,H
+1980-12-19,1980/1981,Stockport County,Bury,1-2,1,2,Football League Fourth Division,4,A
+1980-12-19,1980/1981,Doncaster Rovers,Mansfield Town,2-1,2,1,Football League Fourth Division,4,H
+1980-12-19,1980/1981,Southend United,Torquay United,3-1,3,1,Football League Fourth Division,4,H
+1980-12-19,1980/1981,Bristol Rovers,Notts County,1-1,1,1,Football League Second Division,2,D
+1980-12-19,1980/1981,Bolton Wanderers,Queens Park Rangers,1-2,1,2,Football League Second Division,2,A
+1980-12-19,1980/1981,Shrewsbury Town,Luton Town,0-1,0,1,Football League Second Division,2,A
+1980-12-19,1980/1981,Swindon Town,Walsall,3-1,3,1,Football League Third Division,3,H
+1980-12-20,1980/1981,Arsenal,Manchester United,2-1,2,1,Football League First Division,1,H
+1980-12-20,1980/1981,Birmingham City,Ipswich Town,1-3,1,3,Football League First Division,1,A
+1980-12-20,1980/1981,Liverpool,Wolverhampton Wanderers,1-0,1,0,Football League First Division,1,H
+1980-12-20,1980/1981,Manchester City,Leeds United,1-0,1,0,Football League First Division,1,H
+1980-12-20,1980/1981,Middlesbrough,Tottenham Hotspur,4-1,4,1,Football League First Division,1,H
+1980-12-20,1980/1981,Norwich City,Coventry City,2-0,2,0,Football League First Division,1,H
+1980-12-20,1980/1981,Brighton & Hove Albion,Aston Villa,1-0,1,0,Football League First Division,1,H
+1980-12-20,1980/1981,Southampton,Crystal Palace,4-2,4,2,Football League First Division,1,H
+1980-12-20,1980/1981,Stoke City,Leicester City,1-0,1,0,Football League First Division,1,H
+1980-12-20,1980/1981,Nottingham Forest,Sunderland,3-1,3,1,Football League First Division,1,H
+1980-12-20,1980/1981,York City,Aldershot,4-1,4,1,Football League Fourth Division,4,H
+1980-12-20,1980/1981,Halifax Town,Port Vale,2-2,2,2,Football League Fourth Division,4,D
+1980-12-20,1980/1981,Hartlepool United,Peterborough United,1-1,1,1,Football League Fourth Division,4,D
+1980-12-20,1980/1981,Hereford United,Bradford City,4-0,4,0,Football League Fourth Division,4,H
+1980-12-20,1980/1981,Lincoln City,AFC Bournemouth,2-0,2,0,Football League Fourth Division,4,H
+1980-12-20,1980/1981,Northampton Town,Rochdale,3-2,3,2,Football League Fourth Division,4,H
+1980-12-20,1980/1981,Scunthorpe United,Tranmere Rovers,2-0,2,0,Football League Fourth Division,4,H
+1980-12-20,1980/1981,Crewe Alexandra,Darlington,1-1,1,1,Football League Fourth Division,4,D
+1980-12-20,1980/1981,Oldham Athletic,Swansea City,2-2,2,2,Football League Second Division,2,D
+1980-12-20,1980/1981,West Ham United,Derby County,3-1,3,1,Football League Second Division,2,H
+1980-12-20,1980/1981,Cambridge United,Blackburn Rovers,0-0,0,0,Football League Second Division,2,D
+1980-12-20,1980/1981,Chelsea,Leyton Orient,0-1,0,1,Football League Second Division,2,A
+1980-12-20,1980/1981,Newcastle United,Bristol City,0-0,0,0,Football League Second Division,2,D
+1980-12-20,1980/1981,Preston North End,Wrexham,1-1,1,1,Football League Second Division,2,D
+1980-12-20,1980/1981,Watford,Grimsby Town,3-1,3,1,Football League Second Division,2,H
+1980-12-20,1980/1981,Chester,Gillingham,1-2,1,2,Football League Third Division,3,A
+1980-12-20,1980/1981,Colchester United,Newport County,1-0,1,0,Football League Third Division,3,H
+1980-12-20,1980/1981,Exeter City,Chesterfield,2-2,2,2,Football League Third Division,3,D
+1980-12-20,1980/1981,Huddersfield Town,Portsmouth,0-0,0,0,Football League Third Division,3,D
+1980-12-20,1980/1981,Millwall,Oxford United,2-1,2,1,Football League Third Division,3,H
+1980-12-20,1980/1981,Reading,Fulham,0-0,0,0,Football League Third Division,3,D
+1980-12-20,1980/1981,Rotherham United,Brentford,4-1,4,1,Football League Third Division,3,H
+1980-12-20,1980/1981,Sheffield United,Hull City,3-1,3,1,Football League Third Division,3,H
+1980-12-20,1980/1981,Charlton Athletic,Carlisle United,2-1,2,1,Football League Third Division,3,H
+1980-12-20,1980/1981,Burnley,Plymouth Argyle,2-1,2,1,Football League Third Division,3,H
+1980-12-20,1980/1981,Barnsley,Blackpool,2-0,2,0,Football League Third Division,3,H
+1980-12-26,1980/1981,Coventry City,Middlesbrough,1-0,1,0,Football League First Division,1,H
+1980-12-26,1980/1981,Crystal Palace,Arsenal,2-2,2,2,Football League First Division,1,D
+1980-12-26,1980/1981,Everton,Manchester City,0-2,0,2,Football League First Division,1,A
+1980-12-26,1980/1981,Ipswich Town,Norwich City,2-0,2,0,Football League First Division,1,H
+1980-12-26,1980/1981,Leeds United,Birmingham City,0-0,0,0,Football League First Division,1,D
+1980-12-26,1980/1981,Leicester City,Brighton & Hove Albion,0-1,0,1,Football League First Division,1,A
+1980-12-26,1980/1981,Manchester United,Liverpool,0-0,0,0,Football League First Division,1,D
+1980-12-26,1980/1981,Sunderland,West Bromwich Albion,0-0,0,0,Football League First Division,1,D
+1980-12-26,1980/1981,Tottenham Hotspur,Southampton,4-4,4,4,Football League First Division,1,D
+1980-12-26,1980/1981,Aston Villa,Stoke City,1-0,1,0,Football League First Division,1,H
+1980-12-26,1980/1981,Wolverhampton Wanderers,Nottingham Forest,1-4,1,4,Football League First Division,1,A
+1980-12-26,1980/1981,AFC Bournemouth,Southend United,2-1,2,1,Football League Fourth Division,4,H
+1980-12-26,1980/1981,Aldershot,Hereford United,4-0,4,0,Football League Fourth Division,4,H
+1980-12-26,1980/1981,Torquay United,Wimbledon,2-3,2,3,Football League Fourth Division,4,A
+1980-12-26,1980/1981,Bury,York City,2-0,2,0,Football League Fourth Division,4,H
+1980-12-26,1980/1981,Darlington,Hartlepool United,3-0,3,0,Football League Fourth Division,4,H
+1980-12-26,1980/1981,Mansfield Town,Scunthorpe United,1-0,1,0,Football League Fourth Division,4,H
+1980-12-26,1980/1981,Peterborough United,Northampton Town,3-0,3,0,Football League Fourth Division,4,H
+1980-12-26,1980/1981,Port Vale,Lincoln City,0-1,0,1,Football League Fourth Division,4,A
+1980-12-26,1980/1981,Rochdale,Halifax Town,1-1,1,1,Football League Fourth Division,4,D
+1980-12-26,1980/1981,Tranmere Rovers,Stockport County,1-0,1,0,Football League Fourth Division,4,H
+1980-12-26,1980/1981,Wigan Athletic,Crewe Alexandra,0-0,0,0,Football League Fourth Division,4,D
+1980-12-26,1980/1981,Bradford City,Doncaster Rovers,1-1,1,1,Football League Fourth Division,4,D
+1980-12-26,1980/1981,Wrexham,Bolton Wanderers,0-1,0,1,Football League Second Division,2,A
+1980-12-26,1980/1981,Blackburn Rovers,Preston North End,0-0,0,0,Football League Second Division,2,D
+1980-12-26,1980/1981,Bristol City,Cardiff City,0-0,0,0,Football League Second Division,2,D
+1980-12-26,1980/1981,Derby County,Oldham Athletic,4-1,4,1,Football League Second Division,2,H
+1980-12-26,1980/1981,Grimsby Town,Newcastle United,0-0,0,0,Football League Second Division,2,D
+1980-12-26,1980/1981,Leyton Orient,Watford,1-1,1,1,Football League Second Division,2,D
+1980-12-26,1980/1981,Luton Town,Chelsea,2-0,2,0,Football League Second Division,2,H
+1980-12-26,1980/1981,Queens Park Rangers,West Ham United,3-0,3,0,Football League Second Division,2,H
+1980-12-26,1980/1981,Sheffield Wednesday,Shrewsbury Town,1-1,1,1,Football League Second Division,2,D
+1980-12-26,1980/1981,Swansea City,Bristol Rovers,2-1,2,1,Football League Second Division,2,H
+1980-12-26,1980/1981,Walsall,Huddersfield Town,2-2,2,2,Football League Third Division,3,D
+1980-12-26,1980/1981,Portsmouth,Reading,0-0,0,0,Football League Third Division,3,D
+1980-12-26,1980/1981,Plymouth Argyle,Exeter City,0-2,0,2,Football League Third Division,3,A
+1980-12-26,1980/1981,Oxford United,Charlton Athletic,1-0,1,0,Football League Third Division,3,H
+1980-12-26,1980/1981,Fulham,Sheffield United,2-1,2,1,Football League Third Division,3,H
+1980-12-26,1980/1981,Hull City,Rotherham United,1-2,1,2,Football League Third Division,3,A
+1980-12-26,1980/1981,Gillingham,Millwall,1-2,1,2,Football League Third Division,3,A
+1980-12-26,1980/1981,Newport County,Swindon Town,0-2,0,2,Football League Third Division,3,A
+1980-12-26,1980/1981,Carlisle United,Burnley,3-2,3,2,Football League Third Division,3,H
+1980-12-26,1980/1981,Brentford,Colchester United,2-1,2,1,Football League Third Division,3,H
+1980-12-26,1980/1981,Chesterfield,Barnsley,0-0,0,0,Football League Third Division,3,D
+1980-12-26,1980/1981,Blackpool,Chester,2-3,2,3,Football League Third Division,3,A
+1980-12-27,1980/1981,Arsenal,Ipswich Town,1-1,1,1,Football League First Division,1,D
+1980-12-27,1980/1981,Birmingham City,Sunderland,3-2,3,2,Football League First Division,1,H
+1980-12-27,1980/1981,Brighton & Hove Albion,Crystal Palace,3-2,3,2,Football League First Division,1,H
+1980-12-27,1980/1981,Liverpool,Leeds United,0-0,0,0,Football League First Division,1,D
+1980-12-27,1980/1981,Manchester City,Wolverhampton Wanderers,4-0,4,0,Football League First Division,1,H
+1980-12-27,1980/1981,Middlesbrough,Everton,1-0,1,0,Football League First Division,1,H
+1980-12-27,1980/1981,Norwich City,Tottenham Hotspur,2-2,2,2,Football League First Division,1,D
+1980-12-27,1980/1981,Southampton,Leicester City,4-0,4,0,Football League First Division,1,H
+1980-12-27,1980/1981,Stoke City,Coventry City,2-2,2,2,Football League First Division,1,D
+1980-12-27,1980/1981,Nottingham Forest,Aston Villa,2-2,2,2,Football League First Division,1,D
+1980-12-27,1980/1981,West Bromwich Albion,Manchester United,3-1,3,1,Football League First Division,1,H
+1980-12-27,1980/1981,Crewe Alexandra,Peterborough United,1-0,1,0,Football League Fourth Division,4,H
+1980-12-27,1980/1981,Lincoln City,Mansfield Town,1-1,1,1,Football League Fourth Division,4,D
+1980-12-27,1980/1981,Halifax Town,Darlington,1-2,1,2,Football League Fourth Division,4,A
+1980-12-27,1980/1981,Hartlepool United,Bradford City,2-2,2,2,Football League Fourth Division,4,D
+1980-12-27,1980/1981,Hereford United,Torquay United,0-1,0,1,Football League Fourth Division,4,A
+1980-12-27,1980/1981,Northampton Town,Port Vale,5-1,5,1,Football League Fourth Division,4,H
+1980-12-27,1980/1981,Southend United,Aldershot,3-0,3,0,Football League Fourth Division,4,H
+1980-12-27,1980/1981,Stockport County,Wigan Athletic,0-1,0,1,Football League Fourth Division,4,A
+1980-12-27,1980/1981,Wimbledon,AFC Bournemouth,2-0,2,0,Football League Fourth Division,4,H
+1980-12-27,1980/1981,York City,Rochdale,1-2,1,2,Football League Fourth Division,4,A
+1980-12-27,1980/1981,Doncaster Rovers,Tranmere Rovers,1-0,1,0,Football League Fourth Division,4,H
+1980-12-27,1980/1981,Scunthorpe United,Bury,2-2,2,2,Football League Fourth Division,4,D
+1980-12-27,1980/1981,West Ham United,Leyton Orient,2-1,2,1,Football League Second Division,2,H
+1980-12-27,1980/1981,Bolton Wanderers,Blackburn Rovers,1-2,1,2,Football League Second Division,2,A
+1980-12-27,1980/1981,Bristol Rovers,Luton Town,2-4,2,4,Football League Second Division,2,A
+1980-12-27,1980/1981,Cardiff City,Swansea City,3-3,3,3,Football League Second Division,2,D
+1980-12-27,1980/1981,Chelsea,Bristol City,0-0,0,0,Football League Second Division,2,D
+1980-12-27,1980/1981,Newcastle United,Derby County,0-2,0,2,Football League Second Division,2,A
+1980-12-27,1980/1981,Oldham Athletic,Grimsby Town,1-2,1,2,Football League Second Division,2,A
+1980-12-27,1980/1981,Preston North End,Notts County,2-2,2,2,Football League Second Division,2,D
+1980-12-27,1980/1981,Shrewsbury Town,Wrexham,1-2,1,2,Football League Second Division,2,A
+1980-12-27,1980/1981,Watford,Queens Park Rangers,1-1,1,1,Football League Second Division,2,D
+1980-12-27,1980/1981,Sheffield United,Brentford,0-0,0,0,Football League Third Division,3,D
+1980-12-27,1980/1981,Rotherham United,Carlisle United,3-0,3,0,Football League Third Division,3,H
+1980-12-27,1980/1981,Reading,Oxford United,0-1,0,1,Football League Third Division,3,A
+1980-12-27,1980/1981,Chester,Chesterfield,2-1,2,1,Football League Third Division,3,H
+1980-12-27,1980/1981,Huddersfield Town,Hull City,5-0,5,0,Football League Third Division,3,H
+1980-12-27,1980/1981,Exeter City,Newport County,2-2,2,2,Football League Third Division,3,D
+1980-12-27,1980/1981,Colchester United,Gillingham,2-1,2,1,Football League Third Division,3,H
+1980-12-27,1980/1981,Swindon Town,Plymouth Argyle,3-0,3,0,Football League Third Division,3,H
+1980-12-27,1980/1981,Millwall,Portsmouth,0-0,0,0,Football League Third Division,3,D
+1980-12-27,1980/1981,Charlton Athletic,Fulham,1-1,1,1,Football League Third Division,3,D
+1980-12-27,1980/1981,Burnley,Blackpool,4-1,4,1,Football League Third Division,3,H
+1980-12-27,1980/1981,Barnsley,Walsall,3-0,3,0,Football League Third Division,3,H
+1981-01-02,1980/1981,Reading,Chester,3-0,3,0,Football League Third Division,3,H
+1981-01-03,1980/1981,Darlington,York City,0-0,0,0,Football League Fourth Division,4,D
+1981-01-03,1980/1981,Wigan Athletic,Southend United,0-1,0,1,Football League Fourth Division,4,A
+1981-01-03,1980/1981,Rochdale,Crewe Alexandra,2-0,2,0,Football League Fourth Division,4,H
+1981-01-03,1980/1981,Aldershot,Northampton Town,0-0,0,0,Football League Fourth Division,4,D
+1981-01-03,1980/1981,AFC Bournemouth,Stockport County,0-1,0,1,Football League Fourth Division,4,A
+1981-01-03,1980/1981,Walsall,Millwall,0-0,0,0,Football League Third Division,3,D
+1981-01-03,1980/1981,Newport County,Sheffield United,4-0,4,0,Football League Third Division,3,H
+1981-01-03,1980/1981,Gillingham,Rotherham United,0-0,0,0,Football League Third Division,3,D
+1981-01-03,1980/1981,Brentford,Burnley,0-0,0,0,Football League Third Division,3,D
+1981-01-09,1980/1981,Southend United,Darlington,1-0,1,0,Football League Fourth Division,4,H
+1981-01-10,1980/1981,Aston Villa,Liverpool,2-0,2,0,Football League First Division,1,H
+1981-01-10,1980/1981,Coventry City,Manchester City,1-1,1,1,Football League First Division,1,D
+1981-01-10,1980/1981,Crystal Palace,Stoke City,1-1,1,1,Football League First Division,1,D
+1981-01-10,1980/1981,Everton,Arsenal,1-2,1,2,Football League First Division,1,A
+1981-01-10,1980/1981,Leeds United,Southampton,0-3,0,3,Football League First Division,1,A
+1981-01-10,1980/1981,Leicester City,West Bromwich Albion,0-2,0,2,Football League First Division,1,A
+1981-01-10,1980/1981,Manchester United,Brighton & Hove Albion,2-1,2,1,Football League First Division,1,H
+1981-01-10,1980/1981,Sunderland,Norwich City,3-0,3,0,Football League First Division,1,H
+1981-01-10,1980/1981,Ipswich Town,Nottingham Forest,2-0,2,0,Football League First Division,1,H
+1981-01-10,1980/1981,Wolverhampton Wanderers,Middlesbrough,3-0,3,0,Football League First Division,1,H
+1981-01-10,1980/1981,Tottenham Hotspur,Birmingham City,1-0,1,0,Football League First Division,1,H
+1981-01-10,1980/1981,York City,Wigan Athletic,2-1,2,1,Football League Fourth Division,4,H
+1981-01-10,1980/1981,Crewe Alexandra,AFC Bournemouth,0-2,0,2,Football League Fourth Division,4,A
+1981-01-10,1980/1981,Doncaster Rovers,Aldershot,3-1,3,1,Football League Fourth Division,4,H
+1981-01-10,1980/1981,Halifax Town,Tranmere Rovers,1-1,1,1,Football League Fourth Division,4,D
+1981-01-10,1980/1981,Hartlepool United,Port Vale,3-0,3,0,Football League Fourth Division,4,H
+1981-01-10,1980/1981,Hereford United,Bury,0-1,0,1,Football League Fourth Division,4,A
+1981-01-10,1980/1981,Lincoln City,Bradford City,1-1,1,1,Football League Fourth Division,4,D
+1981-01-10,1980/1981,Northampton Town,Mansfield Town,0-1,0,1,Football League Fourth Division,4,A
+1981-01-10,1980/1981,Scunthorpe United,Peterborough United,1-1,1,1,Football League Fourth Division,4,D
+1981-01-10,1980/1981,Wrexham,Newcastle United,0-0,0,0,Football League Second Division,2,D
+1981-01-10,1980/1981,Sheffield Wednesday,Chelsea,0-0,0,0,Football League Second Division,2,D
+1981-01-10,1980/1981,Swansea City,West Ham United,1-3,1,3,Football League Second Division,2,A
+1981-01-10,1980/1981,Blackburn Rovers,Watford,0-0,0,0,Football League Second Division,2,D
+1981-01-10,1980/1981,Bristol City,Cambridge United,0-1,0,1,Football League Second Division,2,A
+1981-01-10,1980/1981,Derby County,Bristol Rovers,2-1,2,1,Football League Second Division,2,H
+1981-01-10,1980/1981,Grimsby Town,Bolton Wanderers,4-0,4,0,Football League Second Division,2,H
+1981-01-10,1980/1981,Leyton Orient,Oldham Athletic,2-3,2,3,Football League Second Division,2,A
+1981-01-10,1980/1981,Luton Town,Cardiff City,2-2,2,2,Football League Second Division,2,D
+1981-01-10,1980/1981,Notts County,Shrewsbury Town,0-0,0,0,Football League Second Division,2,D
+1981-01-10,1980/1981,Queens Park Rangers,Preston North End,1-1,1,1,Football League Second Division,2,D
+1981-01-10,1980/1981,Barnsley,Plymouth Argyle,2-1,2,1,Football League Third Division,3,H
+1981-01-10,1980/1981,Charlton Athletic,Hull City,3-2,3,2,Football League Third Division,3,H
+1981-01-10,1980/1981,Chester,Brentford,0-0,0,0,Football League Third Division,3,D
+1981-01-10,1980/1981,Colchester United,Blackpool,3-2,3,2,Football League Third Division,3,H
+1981-01-10,1980/1981,Exeter City,Walsall,0-3,0,3,Football League Third Division,3,A
+1981-01-10,1980/1981,Millwall,Fulham,3-1,3,1,Football League Third Division,3,H
+1981-01-10,1980/1981,Portsmouth,Sheffield United,1-0,1,0,Football League Third Division,3,H
+1981-01-10,1980/1981,Reading,Carlisle United,3-1,3,1,Football League Third Division,3,H
+1981-01-10,1980/1981,Swindon Town,Chesterfield,0-1,0,1,Football League Third Division,3,A
+1981-01-10,1980/1981,Rotherham United,Oxford United,0-0,0,0,Football League Third Division,3,D
+1981-01-10,1980/1981,Huddersfield Town,Newport County,4-1,4,1,Football League Third Division,3,H
+1981-01-13,1980/1981,Ipswich Town,Birmingham City,5-1,5,1,Football League First Division,1,H
+1981-01-14,1980/1981,Exeter City,Portsmouth,2-0,2,0,Football League Third Division,3,H
+1981-01-16,1980/1981,Tranmere Rovers,Northampton Town,3-2,3,2,Football League Fourth Division,4,H
+1981-01-16,1980/1981,Fulham,Barnsley,2-3,2,3,Football League Third Division,3,A
+1981-01-16,1980/1981,Newport County,Rotherham United,0-1,0,1,Football League Third Division,3,A
+1981-01-17,1980/1981,Tottenham Hotspur,Arsenal,2-0,2,0,Football League First Division,1,H
+1981-01-17,1980/1981,Coventry City,Aston Villa,1-2,1,2,Football League First Division,1,A
+1981-01-17,1980/1981,Crystal Palace,Wolverhampton Wanderers,0-0,0,0,Football League First Division,1,D
+1981-01-17,1980/1981,Everton,Ipswich Town,0-0,0,0,Football League First Division,1,D
+1981-01-17,1980/1981,Leicester City,Leeds United,0-1,0,1,Football League First Division,1,A
+1981-01-17,1980/1981,Manchester City,Middlesbrough,3-2,3,2,Football League First Division,1,H
+1981-01-17,1980/1981,Birmingham City,Southampton,0-3,0,3,Football League First Division,1,A
+1981-01-17,1980/1981,West Bromwich Albion,Brighton & Hove Albion,2-0,2,0,Football League First Division,1,H
+1981-01-17,1980/1981,Norwich City,Liverpool,0-1,0,1,Football League First Division,1,A
+1981-01-17,1980/1981,Torquay United,Hartlepool United,2-1,2,1,Football League Fourth Division,4,H
+1981-01-17,1980/1981,AFC Bournemouth,Halifax Town,2-1,2,1,Football League Fourth Division,4,H
+1981-01-17,1980/1981,Aldershot,Stockport County,3-0,3,0,Football League Fourth Division,4,H
+1981-01-17,1980/1981,Mansfield Town,Crewe Alexandra,4-1,4,1,Football League Fourth Division,4,H
+1981-01-17,1980/1981,Peterborough United,York City,3-0,3,0,Football League Fourth Division,4,H
+1981-01-17,1980/1981,Rochdale,Doncaster Rovers,2-2,2,2,Football League Fourth Division,4,D
+1981-01-17,1980/1981,Shrewsbury Town,Blackburn Rovers,1-1,1,1,Football League Second Division,2,D
+1981-01-17,1980/1981,Queens Park Rangers,Chelsea,1-0,1,0,Football League Second Division,2,H
+1981-01-17,1980/1981,Luton Town,Newcastle United,0-1,0,1,Football League Second Division,2,A
+1981-01-17,1980/1981,Notts County,West Ham United,1-1,1,1,Football League Second Division,2,D
+1981-01-17,1980/1981,Bristol City,Watford,0-0,0,0,Football League Second Division,2,D
+1981-01-17,1980/1981,Cambridge United,Swansea City,3-1,3,1,Football League Second Division,2,H
+1981-01-17,1980/1981,Grimsby Town,Bristol Rovers,2-0,2,0,Football League Second Division,2,H
+1981-01-17,1980/1981,Leyton Orient,Cardiff City,2-2,2,2,Football League Second Division,2,D
+1981-01-17,1980/1981,Brentford,Huddersfield Town,0-0,0,0,Football League Third Division,3,D
+1981-01-17,1980/1981,Chesterfield,Charlton Athletic,0-1,0,1,Football League Third Division,3,A
+1981-01-17,1980/1981,Oxford United,Colchester United,2-1,2,1,Football League Third Division,3,H
+1981-01-17,1980/1981,Plymouth Argyle,Millwall,2-0,2,0,Football League Third Division,3,H
+1981-01-17,1980/1981,Blackpool,Reading,0-0,0,0,Football League Third Division,3,D
+1981-01-17,1980/1981,Sheffield United,Gillingham,0-1,0,1,Football League Third Division,3,A
+1981-01-17,1980/1981,Walsall,Chester,2-1,2,1,Football League Third Division,3,H
+1981-01-19,1980/1981,Wimbledon,Scunthorpe United,2-2,2,2,Football League Fourth Division,4,D
+1981-01-23,1980/1981,Southend United,Northampton Town,0-0,0,0,Football League Fourth Division,4,D
+1981-01-24,1980/1981,Darlington,Bury,2-1,2,1,Football League Fourth Division,4,H
+1981-01-24,1980/1981,Doncaster Rovers,Hartlepool United,1-2,1,2,Football League Fourth Division,4,A
+1981-01-24,1980/1981,Halifax Town,Stockport County,2-0,2,0,Football League Fourth Division,4,H
+1981-01-24,1980/1981,Rochdale,Tranmere Rovers,3-1,3,1,Football League Fourth Division,4,H
+1981-01-24,1980/1981,Lincoln City,Crewe Alexandra,2-1,2,1,Football League Fourth Division,4,H
+1981-01-24,1980/1981,Mansfield Town,Port Vale,5-0,5,0,Football League Fourth Division,4,H
+1981-01-24,1980/1981,Aldershot,Wigan Athletic,0-1,0,1,Football League Fourth Division,4,A
+1981-01-24,1980/1981,York City,Hereford United,1-2,1,2,Football League Fourth Division,4,A
+1981-01-24,1980/1981,AFC Bournemouth,Torquay United,1-1,1,1,Football League Fourth Division,4,D
+1981-01-24,1980/1981,Cambridge United,Sheffield Wednesday,0-2,0,2,Football League Second Division,2,A
+1981-01-24,1980/1981,Bolton Wanderers,Derby County,3-1,3,1,Football League Second Division,2,H
+1981-01-24,1980/1981,Chester,Millwall,0-1,0,1,Football League Third Division,3,A
+1981-01-24,1980/1981,Portsmouth,Blackpool,3-3,3,3,Football League Third Division,3,D
+1981-01-24,1980/1981,Plymouth Argyle,Oxford United,3-0,3,0,Football League Third Division,3,H
+1981-01-24,1980/1981,Huddersfield Town,Rotherham United,1-0,1,0,Football League Third Division,3,H
+1981-01-24,1980/1981,Gillingham,Chesterfield,1-0,1,0,Football League Third Division,3,H
+1981-01-24,1980/1981,Brentford,Walsall,4-0,4,0,Football League Third Division,3,H
+1981-01-24,1980/1981,Swindon Town,Reading,3-1,3,1,Football League Third Division,3,H
+1981-01-27,1980/1981,Burnley,Portsmouth,1-3,1,3,Football League Third Division,3,A
+1981-01-28,1980/1981,Sunderland,Manchester United,2-0,2,0,Football League First Division,1,H
+1981-01-28,1980/1981,Bradford City,Peterborough United,1-1,1,1,Football League Fourth Division,4,D
+1981-01-30,1980/1981,Stockport County,Darlington,0-1,0,1,Football League Fourth Division,4,A
+1981-01-30,1980/1981,Tranmere Rovers,Southend United,2-2,2,2,Football League Fourth Division,4,D
+1981-01-31,1980/1981,Arsenal,Coventry City,2-2,2,2,Football League First Division,1,D
+1981-01-31,1980/1981,Aston Villa,Manchester City,1-0,1,0,Football League First Division,1,H
+1981-01-31,1980/1981,Brighton & Hove Albion,Tottenham Hotspur,0-2,0,2,Football League First Division,1,A
+1981-01-31,1980/1981,Ipswich Town,Stoke City,4-0,4,0,Football League First Division,1,H
+1981-01-31,1980/1981,Leeds United,Norwich City,1-0,1,0,Football League First Division,1,H
+1981-01-31,1980/1981,Liverpool,Leicester City,1-2,1,2,Football League First Division,1,A
+1981-01-31,1980/1981,Manchester United,Birmingham City,2-0,2,0,Football League First Division,1,H
+1981-01-31,1980/1981,Middlesbrough,Crystal Palace,2-0,2,0,Football League First Division,1,H
+1981-01-31,1980/1981,Nottingham Forest,Everton,1-0,1,0,Football League First Division,1,H
+1981-01-31,1980/1981,Southampton,Sunderland,2-1,2,1,Football League First Division,1,H
+1981-01-31,1980/1981,Wolverhampton Wanderers,West Bromwich Albion,2-0,2,0,Football League First Division,1,H
+1981-01-31,1980/1981,Peterborough United,Doncaster Rovers,0-1,0,1,Football League Fourth Division,4,A
+1981-01-31,1980/1981,Bury,Halifax Town,0-0,0,0,Football League Fourth Division,4,D
+1981-01-31,1980/1981,Crewe Alexandra,Aldershot,0-0,0,0,Football League Fourth Division,4,D
+1981-01-31,1980/1981,Hartlepool United,Rochdale,2-2,2,2,Football League Fourth Division,4,D
+1981-01-31,1980/1981,Hereford United,Mansfield Town,2-1,2,1,Football League Fourth Division,4,H
+1981-01-31,1980/1981,Northampton Town,AFC Bournemouth,0-1,0,1,Football League Fourth Division,4,A
+1981-01-31,1980/1981,Port Vale,Wimbledon,2-3,2,3,Football League Fourth Division,4,A
+1981-01-31,1980/1981,Scunthorpe United,Bradford City,1-0,1,0,Football League Fourth Division,4,H
+1981-01-31,1980/1981,Wigan Athletic,Lincoln City,0-2,0,2,Football League Fourth Division,4,A
+1981-01-31,1980/1981,Wrexham,Grimsby Town,0-2,0,2,Football League Second Division,2,A
+1981-01-31,1980/1981,Watford,Cambridge United,0-0,0,0,Football League Second Division,2,D
+1981-01-31,1980/1981,Blackburn Rovers,Leyton Orient,2-0,2,0,Football League Second Division,2,H
+1981-01-31,1980/1981,Bristol Rovers,Bristol City,0-0,0,0,Football League Second Division,2,D
+1981-01-31,1980/1981,Cardiff City,Oldham Athletic,0-2,0,2,Football League Second Division,2,A
+1981-01-31,1980/1981,West Ham United,Preston North End,5-0,5,0,Football League Second Division,2,H
+1981-01-31,1980/1981,Chelsea,Shrewsbury Town,3-0,3,0,Football League Second Division,2,H
+1981-01-31,1980/1981,Derby County,Luton Town,2-2,2,2,Football League Second Division,2,D
+1981-01-31,1980/1981,Newcastle United,Bolton Wanderers,2-1,2,1,Football League Second Division,2,H
+1981-01-31,1980/1981,Sheffield Wednesday,Notts County,1-2,1,2,Football League Second Division,2,A
+1981-01-31,1980/1981,Swansea City,Queens Park Rangers,1-2,1,2,Football League Second Division,2,A
+1981-01-31,1980/1981,Reading,Brentford,0-0,0,0,Football League Third Division,3,D
+1981-01-31,1980/1981,Blackpool,Huddersfield Town,1-2,1,2,Football League Third Division,3,A
+1981-01-31,1980/1981,Carlisle United,Chester,3-0,3,0,Football League Third Division,3,H
+1981-01-31,1980/1981,Charlton Athletic,Plymouth Argyle,1-1,1,1,Football League Third Division,3,D
+1981-01-31,1980/1981,Chesterfield,Burnley,3-0,3,0,Football League Third Division,3,H
+1981-01-31,1980/1981,Exeter City,Hull City,1-3,1,3,Football League Third Division,3,A
+1981-01-31,1980/1981,Millwall,Newport County,0-0,0,0,Football League Third Division,3,D
+1981-01-31,1980/1981,Oxford United,Sheffield United,2-0,2,0,Football League Third Division,3,H
+1981-01-31,1980/1981,Rotherham United,Portsmouth,3-0,3,0,Football League Third Division,3,H
+1981-01-31,1980/1981,Barnsley,Gillingham,3-3,3,3,Football League Third Division,3,D
+1981-01-31,1980/1981,Walsall,Colchester United,3-1,3,1,Football League Third Division,3,H
+1981-01-31,1980/1981,Fulham,Swindon Town,2-0,2,0,Football League Third Division,3,H
+1981-02-03,1980/1981,Northampton Town,Wigan Athletic,1-1,1,1,Football League Fourth Division,4,D
+1981-02-03,1980/1981,Queens Park Rangers,Cardiff City,2-0,2,0,Football League Second Division,2,H
+1981-02-03,1980/1981,Colchester United,Exeter City,1-2,1,2,Football League Third Division,3,A
+1981-02-04,1980/1981,Torquay United,Scunthorpe United,2-1,2,1,Football League Fourth Division,4,H
+1981-02-06,1980/1981,Doncaster Rovers,Northampton Town,1-1,1,1,Football League Fourth Division,4,D
+1981-02-06,1980/1981,Southend United,Hereford United,2-0,2,0,Football League Fourth Division,4,H
+1981-02-06,1980/1981,Tranmere Rovers,AFC Bournemouth,0-1,0,1,Football League Fourth Division,4,A
+1981-02-07,1980/1981,Coventry City,Wolverhampton Wanderers,2-2,2,2,Football League First Division,1,D
+1981-02-07,1980/1981,Everton,Aston Villa,1-3,1,3,Football League First Division,1,A
+1981-02-07,1980/1981,Ipswich Town,Crystal Palace,3-2,3,2,Football League First Division,1,H
+1981-02-07,1980/1981,Leicester City,Manchester United,1-0,1,0,Football League First Division,1,H
+1981-02-07,1980/1981,Manchester City,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1981-02-07,1980/1981,Middlesbrough,Sunderland,1-0,1,0,Football League First Division,1,H
+1981-02-07,1980/1981,Southampton,Norwich City,2-1,2,1,Football League First Division,1,H
+1981-02-07,1980/1981,Stoke City,Arsenal,1-1,1,1,Football League First Division,1,D
+1981-02-07,1980/1981,Birmingham City,Brighton & Hove Albion,2-1,2,1,Football League First Division,1,H
+1981-02-07,1980/1981,West Bromwich Albion,Liverpool,2-0,2,0,Football League First Division,1,H
+1981-02-07,1980/1981,Tottenham Hotspur,Leeds United,1-1,1,1,Football League First Division,1,D
+1981-02-07,1980/1981,Wimbledon,Crewe Alexandra,2-0,2,0,Football League Fourth Division,4,H
+1981-02-07,1980/1981,Aldershot,Port Vale,0-0,0,0,Football League Fourth Division,4,D
+1981-02-07,1980/1981,Bradford City,Torquay United,2-0,2,0,Football League Fourth Division,4,H
+1981-02-07,1980/1981,Hartlepool United,York City,1-0,1,0,Football League Fourth Division,4,H
+1981-02-07,1980/1981,Lincoln City,Stockport County,1-0,1,0,Football League Fourth Division,4,H
+1981-02-07,1980/1981,Mansfield Town,Bury,2-0,2,0,Football League Fourth Division,4,H
+1981-02-07,1980/1981,Rochdale,Peterborough United,2-3,2,3,Football League Fourth Division,4,A
+1981-02-07,1980/1981,Scunthorpe United,Halifax Town,2-2,2,2,Football League Fourth Division,4,D
+1981-02-07,1980/1981,Wigan Athletic,Darlington,3-1,3,1,Football League Fourth Division,4,H
+1981-02-07,1980/1981,Shrewsbury Town,West Ham United,0-2,0,2,Football League Second Division,2,A
+1981-02-07,1980/1981,Oldham Athletic,Bristol Rovers,1-0,1,0,Football League Second Division,2,H
+1981-02-07,1980/1981,Preston North End,Watford,2-1,2,1,Football League Second Division,2,H
+1981-02-07,1980/1981,Bolton Wanderers,Cardiff City,4-2,4,2,Football League Second Division,2,H
+1981-02-07,1980/1981,Bristol City,Sheffield Wednesday,1-0,1,0,Football League Second Division,2,H
+1981-02-07,1980/1981,Chelsea,Cambridge United,3-0,3,0,Football League Second Division,2,H
+1981-02-07,1980/1981,Derby County,Grimsby Town,2-1,2,1,Football League Second Division,2,H
+1981-02-07,1980/1981,Leyton Orient,Wrexham,2-1,2,1,Football League Second Division,2,H
+1981-02-07,1980/1981,Luton Town,Blackburn Rovers,3-1,3,1,Football League Second Division,2,H
+1981-02-07,1980/1981,Newcastle United,Queens Park Rangers,1-0,1,0,Football League Second Division,2,H
+1981-02-07,1980/1981,Notts County,Swansea City,2-1,2,1,Football League Second Division,2,H
+1981-02-07,1980/1981,Chester,Charlton Athletic,4-0,4,0,Football League Third Division,3,H
+1981-02-07,1980/1981,Fulham,Brentford,1-1,1,1,Football League Third Division,3,D
+1981-02-07,1980/1981,Gillingham,Carlisle United,0-1,0,1,Football League Third Division,3,A
+1981-02-07,1980/1981,Huddersfield Town,Barnsley,1-0,1,0,Football League Third Division,3,H
+1981-02-07,1980/1981,Hull City,Blackpool,2-1,2,1,Football League Third Division,3,H
+1981-02-07,1980/1981,Millwall,Colchester United,3-1,3,1,Football League Third Division,3,H
+1981-02-07,1980/1981,Oxford United,Newport County,0-1,0,1,Football League Third Division,3,A
+1981-02-07,1980/1981,Plymouth Argyle,Chesterfield,1-0,1,0,Football League Third Division,3,H
+1981-02-07,1980/1981,Portsmouth,Walsall,2-0,2,0,Football League Third Division,3,H
+1981-02-07,1980/1981,Burnley,Exeter City,1-0,1,0,Football League Third Division,3,H
+1981-02-07,1980/1981,Rotherham United,Swindon Town,1-0,1,0,Football League Third Division,3,H
+1981-02-07,1980/1981,Sheffield United,Reading,2-0,2,0,Football League Third Division,3,H
+1981-02-10,1980/1981,Carlisle United,Reading,0-0,0,0,Football League Third Division,3,D
+1981-02-10,1980/1981,Portsmouth,Exeter City,5-0,5,0,Football League Third Division,3,H
+1981-02-11,1980/1981,Bradford City,Halifax Town,0-0,0,0,Football League Fourth Division,4,D
+1981-02-11,1980/1981,Wigan Athletic,Hereford United,1-0,1,0,Football League Fourth Division,4,H
+1981-02-13,1980/1981,Stockport County,Wimbledon,0-0,0,0,Football League Fourth Division,4,D
+1981-02-14,1980/1981,Leeds United,Stoke City,1-3,1,3,Football League First Division,1,A
+1981-02-14,1980/1981,Liverpool,Birmingham City,2-2,2,2,Football League First Division,1,D
+1981-02-14,1980/1981,Sunderland,Leicester City,1-0,1,0,Football League First Division,1,H
+1981-02-14,1980/1981,Norwich City,West Bromwich Albion,0-2,0,2,Football League First Division,1,A
+1981-02-14,1980/1981,Port Vale,Wigan Athletic,3-0,3,0,Football League Fourth Division,4,H
+1981-02-14,1980/1981,Northampton Town,Hartlepool United,3-1,3,1,Football League Fourth Division,4,H
+1981-02-14,1980/1981,Hereford United,Doncaster Rovers,1-3,1,3,Football League Fourth Division,4,A
+1981-02-14,1980/1981,Halifax Town,Lincoln City,1-3,1,3,Football League Fourth Division,4,A
+1981-02-14,1980/1981,Crewe Alexandra,Scunthorpe United,1-0,1,0,Football League Fourth Division,4,H
+1981-02-14,1980/1981,Bury,Aldershot,0-0,0,0,Football League Fourth Division,4,D
+1981-02-14,1980/1981,AFC Bournemouth,Bradford City,4-0,4,0,Football League Fourth Division,4,H
+1981-02-14,1980/1981,York City,Southend United,0-1,0,1,Football League Fourth Division,4,A
+1981-02-14,1980/1981,Torquay United,Rochdale,2-0,2,0,Football League Fourth Division,4,H
+1981-02-14,1980/1981,Blackburn Rovers,Derby County,1-0,1,0,Football League Second Division,2,H
+1981-02-14,1980/1981,Bristol Rovers,Bolton Wanderers,2-1,2,1,Football League Second Division,2,H
+1981-02-14,1980/1981,Grimsby Town,Leyton Orient,2-0,2,0,Football League Second Division,2,H
+1981-02-14,1980/1981,Queens Park Rangers,Notts County,1-1,1,1,Football League Second Division,2,D
+1981-02-14,1980/1981,Sheffield Wednesday,Oldham Athletic,3-0,3,0,Football League Second Division,2,H
+1981-02-14,1980/1981,Watford,Shrewsbury Town,1-0,1,0,Football League Second Division,2,H
+1981-02-14,1980/1981,West Ham United,Chelsea,4-0,4,0,Football League Second Division,2,H
+1981-02-14,1980/1981,Cambridge United,Preston North End,1-0,1,0,Football League Second Division,2,H
+1981-02-14,1980/1981,Colchester United,Burnley,2-1,2,1,Football League Third Division,3,H
+1981-02-14,1980/1981,Walsall,Hull City,1-1,1,1,Football League Third Division,3,D
+1981-02-14,1980/1981,Swindon Town,Sheffield United,5-2,5,2,Football League Third Division,3,H
+1981-02-14,1980/1981,Reading,Huddersfield Town,2-1,2,1,Football League Third Division,3,H
+1981-02-14,1980/1981,Newport County,Gillingham,1-1,1,1,Football League Third Division,3,D
+1981-02-14,1980/1981,Chesterfield,Oxford United,2-1,2,1,Football League Third Division,3,H
+1981-02-14,1980/1981,Brentford,Portsmouth,2-2,2,2,Football League Third Division,3,D
+1981-02-14,1980/1981,Carlisle United,Plymouth Argyle,2-0,2,0,Football League Third Division,3,H
+1981-02-14,1980/1981,Blackpool,Fulham,0-2,0,2,Football League Third Division,3,A
+1981-02-15,1980/1981,Darlington,Mansfield Town,2-2,2,2,Football League Fourth Division,4,D
+1981-02-16,1980/1981,Stockport County,Torquay United,4-1,4,1,Football League Fourth Division,4,H
+1981-02-17,1980/1981,Crystal Palace,Coventry City,0-3,0,3,Football League First Division,1,A
+1981-02-17,1980/1981,Ipswich Town,Middlesbrough,1-0,1,0,Football League First Division,1,H
+1981-02-17,1980/1981,Manchester United,Tottenham Hotspur,0-0,0,0,Football League First Division,1,D
+1981-02-17,1980/1981,Oldham Athletic,Wrexham,1-3,1,3,Football League Second Division,2,A
+1981-02-17,1980/1981,Burnley,Charlton Athletic,0-1,0,1,Football League Third Division,3,A
+1981-02-18,1980/1981,Stoke City,Nottingham Forest,1-2,1,2,Football League First Division,1,A
+1981-02-18,1980/1981,Reading,Newport County,1-1,1,1,Football League Third Division,3,D
+1981-02-20,1980/1981,Birmingham City,Norwich City,4-0,4,0,Football League First Division,1,H
+1981-02-20,1980/1981,Doncaster Rovers,York City,3-2,3,2,Football League Fourth Division,4,H
+1981-02-20,1980/1981,Cardiff City,Notts County,0-1,0,1,Football League Second Division,2,A
+1981-02-21,1980/1981,Middlesbrough,Stoke City,3-1,3,1,Football League First Division,1,H
+1981-02-21,1980/1981,Aston Villa,Crystal Palace,2-1,2,1,Football League First Division,1,H
+1981-02-21,1980/1981,Brighton & Hove Albion,Liverpool,2-2,2,2,Football League First Division,1,D
+1981-02-21,1980/1981,Everton,Coventry City,3-0,3,0,Football League First Division,1,H
+1981-02-21,1980/1981,Ipswich Town,Wolverhampton Wanderers,3-1,3,1,Football League First Division,1,H
+1981-02-21,1980/1981,Leeds United,Sunderland,1-0,1,0,Football League First Division,1,H
+1981-02-21,1980/1981,Manchester City,Manchester United,1-0,1,0,Football League First Division,1,H
+1981-02-21,1980/1981,Nottingham Forest,Arsenal,3-1,3,1,Football League First Division,1,H
+1981-02-21,1980/1981,Southampton,West Bromwich Albion,2-2,2,2,Football League First Division,1,D
+1981-02-21,1980/1981,Tottenham Hotspur,Leicester City,1-2,1,2,Football League First Division,1,A
+1981-02-21,1980/1981,Aldershot,Darlington,2-1,2,1,Football League Fourth Division,4,H
+1981-02-21,1980/1981,Wigan Athletic,Mansfield Town,2-0,2,0,Football League Fourth Division,4,H
+1981-02-21,1980/1981,Crewe Alexandra,Stockport County,2-0,2,0,Football League Fourth Division,4,H
+1981-02-21,1980/1981,Hartlepool United,Southend United,1-3,1,3,Football League Fourth Division,4,A
+1981-02-21,1980/1981,Peterborough United,Torquay United,1-3,1,3,Football League Fourth Division,4,A
+1981-02-21,1980/1981,Port Vale,Bury,1-3,1,3,Football League Fourth Division,4,A
+1981-02-21,1980/1981,Rochdale,AFC Bournemouth,0-0,0,0,Football League Fourth Division,4,D
+1981-02-21,1980/1981,Scunthorpe United,Lincoln City,2-2,2,2,Football League Fourth Division,4,D
+1981-02-21,1980/1981,Wimbledon,Halifax Town,3-0,3,0,Football League Fourth Division,4,H
+1981-02-21,1980/1981,West Ham United,Cambridge United,4-2,4,2,Football League Second Division,2,H
+1981-02-21,1980/1981,Blackburn Rovers,Wrexham,1-1,1,1,Football League Second Division,2,D
+1981-02-21,1980/1981,Bristol City,Queens Park Rangers,0-1,0,1,Football League Second Division,2,A
+1981-02-21,1980/1981,Chelsea,Watford,0-1,0,1,Football League Second Division,2,A
+1981-02-21,1980/1981,Derby County,Leyton Orient,1-1,1,1,Football League Second Division,2,D
+1981-02-21,1980/1981,Luton Town,Grimsby Town,0-2,0,2,Football League Second Division,2,A
+1981-02-21,1980/1981,Newcastle United,Bristol Rovers,0-0,0,0,Football League Second Division,2,D
+1981-02-21,1980/1981,Sheffield Wednesday,Swansea City,2-0,2,0,Football League Second Division,2,H
+1981-02-21,1980/1981,Shrewsbury Town,Preston North End,3-0,3,0,Football League Second Division,2,H
+1981-02-21,1980/1981,Chester,Colchester United,0-0,0,0,Football League Third Division,3,D
+1981-02-21,1980/1981,Chesterfield,Carlisle United,1-0,1,0,Football League Third Division,3,H
+1981-02-21,1980/1981,Fulham,Portsmouth,3-0,3,0,Football League Third Division,3,H
+1981-02-21,1980/1981,Huddersfield Town,Swindon Town,0-2,0,2,Football League Third Division,3,A
+1981-02-21,1980/1981,Hull City,Brentford,0-0,0,0,Football League Third Division,3,D
+1981-02-21,1980/1981,Millwall,Burnley,2-2,2,2,Football League Third Division,3,D
+1981-02-21,1980/1981,Oxford United,Gillingham,1-1,1,1,Football League Third Division,3,D
+1981-02-21,1980/1981,Plymouth Argyle,Newport County,3-2,3,2,Football League Third Division,3,H
+1981-02-21,1980/1981,Charlton Athletic,Exeter City,1-0,1,0,Football League Third Division,3,H
+1981-02-21,1980/1981,Rotherham United,Sheffield United,2-1,2,1,Football League Third Division,3,H
+1981-02-21,1980/1981,Blackpool,Walsall,1-0,1,0,Football League Third Division,3,H
+1981-02-21,1980/1981,Barnsley,Reading,2-3,2,3,Football League Third Division,3,A
+1981-02-24,1980/1981,Arsenal,Manchester City,2-0,2,0,Football League First Division,1,H
+1981-02-24,1980/1981,Brighton & Hove Albion,Southampton,2-0,2,0,Football League First Division,1,H
+1981-02-24,1980/1981,Scunthorpe United,Port Vale,1-1,1,1,Football League Fourth Division,4,D
+1981-02-24,1980/1981,Bolton Wanderers,Oldham Athletic,2-0,2,0,Football League Second Division,2,H
+1981-02-25,1980/1981,Cardiff City,Newcastle United,1-0,1,0,Football League Second Division,2,H
+1981-02-27,1980/1981,Southend United,Doncaster Rovers,0-0,0,0,Football League Fourth Division,4,D
+1981-02-27,1980/1981,Stockport County,Scunthorpe United,2-0,2,0,Football League Fourth Division,4,H
+1981-02-28,1980/1981,Arsenal,Middlesbrough,2-2,2,2,Football League First Division,1,D
+1981-02-28,1980/1981,Coventry City,Ipswich Town,0-4,0,4,Football League First Division,1,A
+1981-02-28,1980/1981,Crystal Palace,Everton,2-3,2,3,Football League First Division,1,A
+1981-02-28,1980/1981,Leicester City,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1981-02-28,1980/1981,Liverpool,Southampton,2-0,2,0,Football League First Division,1,H
+1981-02-28,1980/1981,Norwich City,Brighton & Hove Albion,3-1,3,1,Football League First Division,1,H
+1981-02-28,1980/1981,Manchester United,Leeds United,0-1,0,1,Football League First Division,1,A
+1981-02-28,1980/1981,West Bromwich Albion,Birmingham City,2-2,2,2,Football League First Division,1,D
+1981-02-28,1980/1981,Wolverhampton Wanderers,Aston Villa,0-1,0,1,Football League First Division,1,A
+1981-02-28,1980/1981,Sunderland,Tottenham Hotspur,1-1,1,1,Football League First Division,1,D
+1981-02-28,1980/1981,AFC Bournemouth,Peterborough United,4-1,4,1,Football League Fourth Division,4,H
+1981-02-28,1980/1981,Bury,Wigan Athletic,0-0,0,0,Football League Fourth Division,4,D
+1981-02-28,1980/1981,Hereford United,Hartlepool United,3-0,3,0,Football League Fourth Division,4,H
+1981-02-28,1980/1981,Lincoln City,Wimbledon,0-0,0,0,Football League Fourth Division,4,D
+1981-02-28,1980/1981,Wrexham,Derby County,2-2,2,2,Football League Second Division,2,D
+1981-02-28,1980/1981,Watford,West Ham United,1-2,1,2,Football League Second Division,2,A
+1981-02-28,1980/1981,Swansea City,Bolton Wanderers,3-0,3,0,Football League Second Division,2,H
+1981-02-28,1980/1981,Preston North End,Chelsea,1-0,1,0,Football League Second Division,2,H
+1981-02-28,1980/1981,Queens Park Rangers,Sheffield Wednesday,1-2,1,2,Football League Second Division,2,A
+1981-02-28,1980/1981,Bristol Rovers,Cardiff City,0-1,0,1,Football League Second Division,2,A
+1981-02-28,1980/1981,Cambridge United,Shrewsbury Town,3-1,3,1,Football League Second Division,2,H
+1981-02-28,1980/1981,Grimsby Town,Blackburn Rovers,0-0,0,0,Football League Second Division,2,D
+1981-02-28,1980/1981,Notts County,Bristol City,2-1,2,1,Football League Second Division,2,H
+1981-02-28,1980/1981,Oldham Athletic,Newcastle United,0-0,0,0,Football League Second Division,2,D
+1981-02-28,1980/1981,Brentford,Blackpool,2-0,2,0,Football League Third Division,3,H
+1981-02-28,1980/1981,Burnley,Chester,1-0,1,0,Football League Third Division,3,H
+1981-02-28,1980/1981,Carlisle United,Oxford United,0-0,0,0,Football League Third Division,3,D
+1981-02-28,1980/1981,Colchester United,Charlton Athletic,2-0,2,0,Football League Third Division,3,H
+1981-02-28,1980/1981,Exeter City,Millwall,2-0,2,0,Football League Third Division,3,H
+1981-02-28,1980/1981,Gillingham,Plymouth Argyle,0-1,0,1,Football League Third Division,3,A
+1981-02-28,1980/1981,Reading,Rotherham United,1-1,1,1,Football League Third Division,3,D
+1981-02-28,1980/1981,Portsmouth,Hull City,2-1,2,1,Football League Third Division,3,H
+1981-02-28,1980/1981,Swindon Town,Barnsley,2-0,2,0,Football League Third Division,3,H
+1981-02-28,1980/1981,Newport County,Chesterfield,5-1,5,1,Football League Third Division,3,H
+1981-02-28,1980/1981,Sheffield United,Huddersfield Town,2-2,2,2,Football League Third Division,3,D
+1981-03-01,1980/1981,Torquay United,Tranmere Rovers,2-1,2,1,Football League Fourth Division,4,H
+1981-03-01,1980/1981,Leyton Orient,Luton Town,0-0,0,0,Football League Second Division,2,D
+1981-03-01,1980/1981,Walsall,Fulham,1-2,1,2,Football League Third Division,3,A
+1981-03-03,1980/1981,Nottingham Forest,Middlesbrough,1-0,1,0,Football League First Division,1,H
+1981-03-03,1980/1981,Port Vale,Scunthorpe United,2-2,2,2,Football League Fourth Division,4,D
+1981-03-03,1980/1981,Tranmere Rovers,Lincoln City,0-0,0,0,Football League Fourth Division,4,D
+1981-03-04,1980/1981,Bradford City,Southend United,2-1,2,1,Football League Fourth Division,4,H
+1981-03-04,1980/1981,Peterborough United,Wimbledon,1-1,1,1,Football League Fourth Division,4,D
+1981-03-04,1980/1981,Cardiff City,Sheffield Wednesday,0-0,0,0,Football League Second Division,2,D
+1981-03-04,1980/1981,Blackpool,Millwall,0-0,0,0,Football League Third Division,3,D
+1981-03-06,1980/1981,Scunthorpe United,AFC Bournemouth,1-1,1,1,Football League Fourth Division,4,D
+1981-03-06,1980/1981,Stockport County,Northampton Town,1-2,1,2,Football League Fourth Division,4,A
+1981-03-06,1980/1981,Swansea City,Wrexham,3-1,3,1,Football League Second Division,2,H
+1981-03-07,1980/1981,Leicester City,Arsenal,1-0,1,0,Football League First Division,1,H
+1981-03-07,1980/1981,Brighton & Hove Albion,Coventry City,4-1,4,1,Football League First Division,1,H
+1981-03-07,1980/1981,Southampton,Manchester United,1-0,1,0,Football League First Division,1,H
+1981-03-07,1980/1981,Sunderland,Aston Villa,1-2,1,2,Football League First Division,1,A
+1981-03-07,1980/1981,West Bromwich Albion,Crystal Palace,1-0,1,0,Football League First Division,1,H
+1981-03-07,1980/1981,Aldershot,Hartlepool United,2-1,2,1,Football League Fourth Division,4,H
+1981-03-07,1980/1981,Mansfield Town,Southend United,0-1,0,1,Football League Fourth Division,4,A
+1981-03-07,1980/1981,Crewe Alexandra,Bradford City,1-0,1,0,Football League Fourth Division,4,H
+1981-03-07,1980/1981,Halifax Town,Torquay United,2-1,2,1,Football League Fourth Division,4,H
+1981-03-07,1980/1981,Lincoln City,Doncaster Rovers,1-1,1,1,Football League Fourth Division,4,D
+1981-03-07,1980/1981,Port Vale,York City,2-0,2,0,Football League Fourth Division,4,H
+1981-03-07,1980/1981,Wigan Athletic,Rochdale,0-1,0,1,Football League Fourth Division,4,A
+1981-03-07,1980/1981,Wimbledon,Tranmere Rovers,2-1,2,1,Football League Fourth Division,4,H
+1981-03-07,1980/1981,Bury,Peterborough United,1-1,1,1,Football League Fourth Division,4,D
+1981-03-07,1980/1981,Chelsea,Bolton Wanderers,2-0,2,0,Football League Second Division,2,H
+1981-03-07,1980/1981,Notts County,Luton Town,0-1,0,1,Football League Second Division,2,A
+1981-03-07,1980/1981,Cambridge United,Bristol Rovers,1-3,1,3,Football League Second Division,2,A
+1981-03-07,1980/1981,Queens Park Rangers,Blackburn Rovers,1-1,1,1,Football League Second Division,2,D
+1981-03-07,1980/1981,Sheffield Wednesday,Derby County,0-0,0,0,Football League Second Division,2,D
+1981-03-07,1980/1981,Shrewsbury Town,Oldham Athletic,2-2,2,2,Football League Second Division,2,D
+1981-03-07,1980/1981,Watford,Cardiff City,4-2,4,2,Football League Second Division,2,H
+1981-03-07,1980/1981,West Ham United,Newcastle United,1-0,1,0,Football League Second Division,2,H
+1981-03-07,1980/1981,Preston North End,Leyton Orient,3-0,3,0,Football League Second Division,2,H
+1981-03-07,1980/1981,Chester,Swindon Town,1-0,1,0,Football League Third Division,3,H
+1981-03-07,1980/1981,Chesterfield,Portsmouth,3-0,3,0,Football League Third Division,3,H
+1981-03-07,1980/1981,Colchester United,Huddersfield Town,1-2,1,2,Football League Third Division,3,A
+1981-03-07,1980/1981,Gillingham,Blackpool,3-1,3,1,Football League Third Division,3,H
+1981-03-07,1980/1981,Newport County,Brentford,1-1,1,1,Football League Third Division,3,D
+1981-03-07,1980/1981,Oxford United,Hull City,1-1,1,1,Football League Third Division,3,D
+1981-03-07,1980/1981,Charlton Athletic,Barnsley,1-1,1,1,Football League Third Division,3,D
+1981-03-07,1980/1981,Burnley,Fulham,3-0,3,0,Football League Third Division,3,H
+1981-03-07,1980/1981,Carlisle United,Walsall,1-1,1,1,Football League Third Division,3,D
+1981-03-08,1980/1981,Darlington,Hereford United,2-1,2,1,Football League Fourth Division,4,H
+1981-03-08,1980/1981,Bradford City,Rochdale,2-1,2,1,Football League Fourth Division,4,H
+1981-03-08,1980/1981,Millwall,Reading,2-1,2,1,Football League Third Division,3,H
+1981-03-10,1980/1981,Tranmere Rovers,Bradford City,1-1,1,1,Football League Fourth Division,4,D
+1981-03-10,1980/1981,Darlington,Lincoln City,0-0,0,0,Football League Fourth Division,4,D
+1981-03-10,1980/1981,Bristol City,Grimsby Town,1-1,1,1,Football League Second Division,2,D
+1981-03-11,1980/1981,Tottenham Hotspur,Stoke City,2-2,2,2,Football League First Division,1,D
+1981-03-13,1980/1981,Doncaster Rovers,Crewe Alexandra,1-1,1,1,Football League Fourth Division,4,D
+1981-03-13,1980/1981,Northampton Town,Scunthorpe United,3-3,3,3,Football League Fourth Division,4,D
+1981-03-13,1980/1981,Peterborough United,Wigan Athletic,0-0,0,0,Football League Fourth Division,4,D
+1981-03-13,1980/1981,Southend United,Halifax Town,5-1,5,1,Football League Fourth Division,4,H
+1981-03-14,1980/1981,Wolverhampton Wanderers,Norwich City,3-0,3,0,Football League First Division,1,H
+1981-03-14,1980/1981,Aston Villa,Manchester United,3-3,3,3,Football League First Division,1,D
+1981-03-14,1980/1981,Coventry City,Leicester City,4-1,4,1,Football League First Division,1,H
+1981-03-14,1980/1981,Crystal Palace,Sunderland,0-1,0,1,Football League First Division,1,A
+1981-03-14,1980/1981,Everton,Leeds United,1-2,1,2,Football League First Division,1,A
+1981-03-14,1980/1981,Ipswich Town,Tottenham Hotspur,3-0,3,0,Football League First Division,1,H
+1981-03-14,1980/1981,Manchester City,West Bromwich Albion,2-1,2,1,Football League First Division,1,H
+1981-03-14,1980/1981,Stoke City,Southampton,1-2,1,2,Football League First Division,1,A
+1981-03-14,1980/1981,Nottingham Forest,Brighton & Hove Albion,4-1,4,1,Football League First Division,1,H
+1981-03-14,1980/1981,Hartlepool United,Wimbledon,2-3,2,3,Football League Fourth Division,4,A
+1981-03-14,1980/1981,AFC Bournemouth,Darlington,3-3,3,3,Football League Fourth Division,4,D
+1981-03-14,1980/1981,Bradford City,Mansfield Town,0-2,0,2,Football League Fourth Division,4,A
+1981-03-14,1980/1981,Rochdale,Aldershot,0-2,0,2,Football League Fourth Division,4,A
+1981-03-14,1980/1981,Torquay United,Bury,3-1,3,1,Football League Fourth Division,4,H
+1981-03-14,1980/1981,York City,Lincoln City,1-0,1,0,Football League Fourth Division,4,H
+1981-03-14,1980/1981,Luton Town,Bristol City,3-1,3,1,Football League Second Division,2,H
+1981-03-14,1980/1981,Newcastle United,Preston North End,2-0,2,0,Football League Second Division,2,H
+1981-03-14,1980/1981,Blackburn Rovers,Sheffield Wednesday,3-1,3,1,Football League Second Division,2,H
+1981-03-14,1980/1981,Bolton Wanderers,Shrewsbury Town,0-2,0,2,Football League Second Division,2,A
+1981-03-14,1980/1981,Bristol Rovers,Chelsea,1-0,1,0,Football League Second Division,2,H
+1981-03-14,1980/1981,Grimsby Town,Notts County,2-1,2,1,Football League Second Division,2,H
+1981-03-14,1980/1981,Brentford,Carlisle United,1-1,1,1,Football League Third Division,3,D
+1981-03-14,1980/1981,Fulham,Gillingham,3-2,3,2,Football League Third Division,3,H
+1981-03-14,1980/1981,Hull City,Chesterfield,0-0,0,0,Football League Third Division,3,D
+1981-03-14,1980/1981,Portsmouth,Newport County,0-0,0,0,Football League Third Division,3,D
+1981-03-14,1980/1981,Sheffield United,Charlton Athletic,3-2,3,2,Football League Third Division,3,H
+1981-03-14,1980/1981,Swindon Town,Millwall,0-0,0,0,Football League Third Division,3,D
+1981-03-14,1980/1981,Walsall,Oxford United,0-3,0,3,Football League Third Division,3,A
+1981-03-14,1980/1981,Blackpool,Plymouth Argyle,1-0,1,0,Football League Third Division,3,H
+1981-03-15,1980/1981,Oldham Athletic,Cambridge United,2-2,2,2,Football League Second Division,2,D
+1981-03-16,1980/1981,Mansfield Town,Hartlepool United,0-1,0,1,Football League Fourth Division,4,A
+1981-03-16,1980/1981,Port Vale,Hereford United,4-0,4,0,Football League Fourth Division,4,H
+1981-03-17,1980/1981,Southampton,Everton,3-0,3,0,Football League First Division,1,H
+1981-03-17,1980/1981,Norwich City,Middlesbrough,2-0,2,0,Football League First Division,1,H
+1981-03-17,1980/1981,Birmingham City,Wolverhampton Wanderers,1-0,1,0,Football League First Division,1,H
+1981-03-17,1980/1981,Darlington,Wimbledon,4-1,4,1,Football League Fourth Division,4,H
+1981-03-17,1980/1981,Swansea City,Bristol City,0-0,0,0,Football League Second Division,2,D
+1981-03-17,1980/1981,Plymouth Argyle,Huddersfield Town,0-0,0,0,Football League Third Division,3,D
+1981-03-17,1980/1981,Fulham,Chester,0-1,0,1,Football League Third Division,3,A
+1981-03-17,1980/1981,Charlton Athletic,Millwall,0-0,0,0,Football League Third Division,3,D
+1981-03-17,1980/1981,Hull City,Colchester United,0-1,0,1,Football League Third Division,3,A
+1981-03-17,1980/1981,Carlisle United,Swindon Town,2-1,2,1,Football League Third Division,3,H
+1981-03-18,1980/1981,Stoke City,Manchester City,2-1,2,1,Football League First Division,1,H
+1981-03-18,1980/1981,Manchester United,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1981-03-18,1980/1981,Peterborough United,Tranmere Rovers,4-1,4,1,Football League Fourth Division,4,H
+1981-03-18,1980/1981,Exeter City,Rotherham United,2-1,2,1,Football League Third Division,3,H
+1981-03-20,1980/1981,Stockport County,York City,2-0,2,0,Football League Fourth Division,4,H
+1981-03-21,1980/1981,Birmingham City,Manchester City,2-0,2,0,Football League First Division,1,H
+1981-03-21,1980/1981,Brighton & Hove Albion,Stoke City,1-1,1,1,Football League First Division,1,D
+1981-03-21,1980/1981,Leeds United,Wolverhampton Wanderers,1-3,1,3,Football League First Division,1,A
+1981-03-21,1980/1981,Leicester City,Crystal Palace,1-1,1,1,Football League First Division,1,D
+1981-03-21,1980/1981,Manchester United,Ipswich Town,2-1,2,1,Football League First Division,1,H
+1981-03-21,1980/1981,Norwich City,Arsenal,1-1,1,1,Football League First Division,1,D
+1981-03-21,1980/1981,Liverpool,Everton,1-0,1,0,Football League First Division,1,H
+1981-03-21,1980/1981,Sunderland,Coventry City,3-0,3,0,Football League First Division,1,H
+1981-03-21,1980/1981,Tottenham Hotspur,Aston Villa,2-0,2,0,Football League First Division,1,H
+1981-03-21,1980/1981,West Bromwich Albion,Nottingham Forest,2-1,2,1,Football League First Division,1,H
+1981-03-21,1980/1981,Southampton,Middlesbrough,1-0,1,0,Football League First Division,1,H
+1981-03-21,1980/1981,Bury,Rochdale,3-1,3,1,Football League Fourth Division,4,H
+1981-03-21,1980/1981,Crewe Alexandra,Northampton Town,3-1,3,1,Football League Fourth Division,4,H
+1981-03-21,1980/1981,Halifax Town,Doncaster Rovers,0-3,0,3,Football League Fourth Division,4,A
+1981-03-21,1980/1981,Lincoln City,Hartlepool United,2-0,2,0,Football League Fourth Division,4,H
+1981-03-21,1980/1981,Mansfield Town,AFC Bournemouth,1-1,1,1,Football League Fourth Division,4,D
+1981-03-21,1980/1981,Wigan Athletic,Torquay United,2-0,2,0,Football League Fourth Division,4,H
+1981-03-21,1980/1981,Darlington,Peterborough United,2-0,2,0,Football League Fourth Division,4,H
+1981-03-21,1980/1981,West Ham United,Oldham Athletic,1-1,1,1,Football League Second Division,2,D
+1981-03-21,1980/1981,Watford,Bristol Rovers,3-1,3,1,Football League Second Division,2,H
+1981-03-21,1980/1981,Queens Park Rangers,Derby County,3-1,3,1,Football League Second Division,2,H
+1981-03-21,1980/1981,Shrewsbury Town,Newcastle United,1-0,1,0,Football League Second Division,2,H
+1981-03-21,1980/1981,Bristol City,Wrexham,0-2,0,2,Football League Second Division,2,A
+1981-03-21,1980/1981,Cambridge United,Cardiff City,2-0,2,0,Football League Second Division,2,H
+1981-03-21,1980/1981,Chelsea,Blackburn Rovers,0-0,0,0,Football League Second Division,2,D
+1981-03-21,1980/1981,Notts County,Leyton Orient,1-0,1,0,Football League Second Division,2,H
+1981-03-21,1980/1981,Carlisle United,Hull City,2-0,2,0,Football League Third Division,3,H
+1981-03-21,1980/1981,Charlton Athletic,Swindon Town,0-0,0,0,Football League Third Division,3,D
+1981-03-21,1980/1981,Chester,Rotherham United,0-1,0,1,Football League Third Division,3,A
+1981-03-21,1980/1981,Chesterfield,Blackpool,3-2,3,2,Football League Third Division,3,H
+1981-03-21,1980/1981,Exeter City,Sheffield United,1-1,1,1,Football League Third Division,3,D
+1981-03-21,1980/1981,Gillingham,Brentford,2-0,2,0,Football League Third Division,3,H
+1981-03-21,1980/1981,Millwall,Barnsley,1-1,1,1,Football League Third Division,3,D
+1981-03-21,1980/1981,Oxford United,Fulham,2-0,2,0,Football League Third Division,3,H
+1981-03-21,1980/1981,Plymouth Argyle,Portsmouth,1-0,1,0,Football League Third Division,3,H
+1981-03-22,1980/1981,Aldershot,Tranmere Rovers,3-2,3,2,Football League Fourth Division,4,H
+1981-03-22,1980/1981,Scunthorpe United,Southend United,2-1,2,1,Football League Fourth Division,4,H
+1981-03-22,1980/1981,Wimbledon,Hereford United,0-0,0,0,Football League Fourth Division,4,D
+1981-03-22,1980/1981,Colchester United,Reading,1-2,1,2,Football League Third Division,3,A
+1981-03-24,1980/1981,York City,Peterborough United,1-2,1,2,Football League Fourth Division,4,A
+1981-03-24,1980/1981,Halifax Town,Crewe Alexandra,1-0,1,0,Football League Fourth Division,4,H
+1981-03-24,1980/1981,Tranmere Rovers,Port Vale,1-2,1,2,Football League Fourth Division,4,A
+1981-03-24,1980/1981,Preston North End,Bolton Wanderers,1-2,1,2,Football League Second Division,2,A
+1981-03-24,1980/1981,Oxford United,Barnsley,1-1,1,1,Football League Third Division,3,D
+1981-03-25,1980/1981,Blackpool,Charlton Athletic,0-2,0,2,Football League Third Division,3,A
+1981-03-27,1980/1981,Doncaster Rovers,Scunthorpe United,1-0,1,0,Football League Fourth Division,4,H
+1981-03-27,1980/1981,Southend United,Crewe Alexandra,3-0,3,0,Football League Fourth Division,4,H
+1981-03-28,1980/1981,Arsenal,Liverpool,1-0,1,0,Football League First Division,1,H
+1981-03-28,1980/1981,Aston Villa,Southampton,2-1,2,1,Football League First Division,1,H
+1981-03-28,1980/1981,Coventry City,Tottenham Hotspur,0-1,0,1,Football League First Division,1,A
+1981-03-28,1980/1981,Crystal Palace,Leeds United,0-1,0,1,Football League First Division,1,A
+1981-03-28,1980/1981,Everton,Manchester United,0-1,0,1,Football League First Division,1,A
+1981-03-28,1980/1981,Ipswich Town,Sunderland,4-1,4,1,Football League First Division,1,H
+1981-03-28,1980/1981,Middlesbrough,West Bromwich Albion,2-1,2,1,Football League First Division,1,H
+1981-03-28,1980/1981,Nottingham Forest,Norwich City,2-1,2,1,Football League First Division,1,H
+1981-03-28,1980/1981,Stoke City,Birmingham City,0-0,0,0,Football League First Division,1,D
+1981-03-28,1980/1981,Manchester City,Brighton & Hove Albion,1-1,1,1,Football League First Division,1,D
+1981-03-28,1980/1981,Wolverhampton Wanderers,Leicester City,0-1,0,1,Football League First Division,1,A
+1981-03-28,1980/1981,AFC Bournemouth,Port Vale,0-0,0,0,Football League Fourth Division,4,D
+1981-03-28,1980/1981,Bradford City,Bury,0-2,0,2,Football League Fourth Division,4,A
+1981-03-28,1980/1981,Hartlepool United,Stockport County,1-0,1,0,Football League Fourth Division,4,H
+1981-03-28,1980/1981,Hereford United,Halifax Town,0-1,0,1,Football League Fourth Division,4,A
+1981-03-28,1980/1981,Northampton Town,Lincoln City,1-1,1,1,Football League Fourth Division,4,D
+1981-03-28,1980/1981,Peterborough United,Mansfield Town,1-0,1,0,Football League Fourth Division,4,H
+1981-03-28,1980/1981,Rochdale,Darlington,0-0,0,0,Football League Fourth Division,4,D
+1981-03-28,1980/1981,York City,Wimbledon,0-1,0,1,Football League Fourth Division,4,A
+1981-03-28,1980/1981,Wrexham,Queens Park Rangers,1-1,1,1,Football League Second Division,2,D
+1981-03-28,1980/1981,Leyton Orient,Sheffield Wednesday,2-0,2,0,Football League Second Division,2,H
+1981-03-28,1980/1981,Newcastle United,Chelsea,1-0,1,0,Football League Second Division,2,H
+1981-03-28,1980/1981,Blackburn Rovers,Notts County,0-0,0,0,Football League Second Division,2,D
+1981-03-28,1980/1981,Oldham Athletic,Watford,2-1,2,1,Football League Second Division,2,H
+1981-03-28,1980/1981,Grimsby Town,Swansea City,1-0,1,0,Football League Second Division,2,H
+1981-03-28,1980/1981,Derby County,Bristol City,1-0,1,0,Football League Second Division,2,H
+1981-03-28,1980/1981,Luton Town,Cambridge United,0-0,0,0,Football League Second Division,2,D
+1981-03-28,1980/1981,Bristol Rovers,Preston North End,2-0,2,0,Football League Second Division,2,H
+1981-03-28,1980/1981,Bolton Wanderers,West Ham United,1-1,1,1,Football League Second Division,2,D
+1981-03-28,1980/1981,Cardiff City,Shrewsbury Town,2-2,2,2,Football League Second Division,2,D
+1981-03-28,1980/1981,Blackpool,Carlisle United,0-1,0,1,Football League Third Division,3,A
+1981-03-28,1980/1981,Brentford,Plymouth Argyle,0-1,0,1,Football League Third Division,3,A
+1981-03-28,1980/1981,Fulham,Newport County,2-1,2,1,Football League Third Division,3,H
+1981-03-28,1980/1981,Huddersfield Town,Chester,0-0,0,0,Football League Third Division,3,D
+1981-03-28,1980/1981,Hull City,Gillingham,2-2,2,2,Football League Third Division,3,D
+1981-03-28,1980/1981,Reading,Charlton Athletic,1-3,1,3,Football League Third Division,3,A
+1981-03-28,1980/1981,Rotherham United,Colchester United,2-0,2,0,Football League Third Division,3,H
+1981-03-28,1980/1981,Sheffield United,Millwall,2-3,2,3,Football League Third Division,3,A
+1981-03-28,1980/1981,Swindon Town,Exeter City,2-2,2,2,Football League Third Division,3,D
+1981-03-28,1980/1981,Barnsley,Burnley,3-2,3,2,Football League Third Division,3,H
+1981-03-28,1980/1981,Walsall,Chesterfield,4-3,4,3,Football League Third Division,3,H
+1981-03-29,1980/1981,Torquay United,Aldershot,2-0,2,0,Football League Fourth Division,4,H
+1981-03-29,1980/1981,Tranmere Rovers,Wigan Athletic,2-3,2,3,Football League Fourth Division,4,A
+1981-03-29,1980/1981,Portsmouth,Oxford United,1-1,1,1,Football League Third Division,3,D
+1981-03-31,1980/1981,West Bromwich Albion,Everton,2-0,2,0,Football League First Division,1,H
+1981-03-31,1980/1981,Manchester City,Leicester City,3-3,3,3,Football League First Division,1,D
+1981-03-31,1980/1981,Leeds United,Ipswich Town,3-0,3,0,Football League First Division,1,H
+1981-03-31,1980/1981,Arsenal,Birmingham City,2-1,2,1,Football League First Division,1,H
+1981-03-31,1980/1981,Wimbledon,Wigan Athletic,1-0,1,0,Football League Fourth Division,4,H
+1981-03-31,1980/1981,Bury,Doncaster Rovers,2-0,2,0,Football League Fourth Division,4,H
+1981-03-31,1980/1981,Wrexham,Luton Town,0-0,0,0,Football League Second Division,2,D
+1981-03-31,1980/1981,Derby County,Swansea City,0-1,0,1,Football League Second Division,2,A
+1981-03-31,1980/1981,Leyton Orient,Queens Park Rangers,4-0,4,0,Football League Second Division,2,H
+1981-03-31,1980/1981,Rotherham United,Burnley,1-0,1,0,Football League Third Division,3,H
+1981-03-31,1980/1981,Sheffield United,Barnsley,1-1,1,1,Football League Third Division,3,D
+1981-03-31,1980/1981,Carlisle United,Exeter City,1-1,1,1,Football League Third Division,3,D
+1981-04-03,1980/1981,Liverpool,Stoke City,3-0,3,0,Football League First Division,1,H
+1981-04-03,1980/1981,Stockport County,Southend United,1-0,1,0,Football League Fourth Division,4,H
+1981-04-03,1980/1981,Crewe Alexandra,Hartlepool United,2-0,2,0,Football League Fourth Division,4,H
+1981-04-03,1980/1981,Gillingham,Walsall,1-0,1,0,Football League Third Division,3,H
+1981-04-04,1980/1981,Birmingham City,Middlesbrough,2-1,2,1,Football League First Division,1,H
+1981-04-04,1980/1981,Brighton & Hove Albion,Arsenal,0-1,0,1,Football League First Division,1,A
+1981-04-04,1980/1981,Leeds United,Coventry City,3-0,3,0,Football League First Division,1,H
+1981-04-04,1980/1981,Leicester City,Aston Villa,2-4,2,4,Football League First Division,1,A
+1981-04-04,1980/1981,Manchester United,Crystal Palace,1-0,1,0,Football League First Division,1,H
+1981-04-04,1980/1981,Norwich City,Manchester City,2-0,2,0,Football League First Division,1,H
+1981-04-04,1980/1981,Sunderland,Wolverhampton Wanderers,0-1,0,1,Football League First Division,1,A
+1981-04-04,1980/1981,Tottenham Hotspur,Everton,2-2,2,2,Football League First Division,1,D
+1981-04-04,1980/1981,Southampton,Nottingham Forest,2-0,2,0,Football League First Division,1,H
+1981-04-04,1980/1981,West Bromwich Albion,Ipswich Town,3-1,3,1,Football League First Division,1,H
+1981-04-04,1980/1981,Mansfield Town,Rochdale,2-2,2,2,Football League Fourth Division,4,D
+1981-04-04,1980/1981,Aldershot,Bradford City,1-1,1,1,Football League Fourth Division,4,D
+1981-04-04,1980/1981,Bury,Tranmere Rovers,2-2,2,2,Football League Fourth Division,4,D
+1981-04-04,1980/1981,Halifax Town,Northampton Town,0-1,0,1,Football League Fourth Division,4,A
+1981-04-04,1980/1981,Lincoln City,Hereford United,1-0,1,0,Football League Fourth Division,4,H
+1981-04-04,1980/1981,Port Vale,Peterborough United,1-1,1,1,Football League Fourth Division,4,D
+1981-04-04,1980/1981,Scunthorpe United,York City,3-2,3,2,Football League Fourth Division,4,H
+1981-04-04,1980/1981,Wigan Athletic,AFC Bournemouth,0-1,0,1,Football League Fourth Division,4,A
+1981-04-04,1980/1981,Wimbledon,Doncaster Rovers,1-0,1,0,Football League Fourth Division,4,H
+1981-04-04,1980/1981,Shrewsbury Town,Derby County,1-0,1,0,Football League Second Division,2,H
+1981-04-04,1980/1981,Watford,Newcastle United,0-0,0,0,Football League Second Division,2,D
+1981-04-04,1980/1981,Bristol City,Leyton Orient,3-1,3,1,Football League Second Division,2,H
+1981-04-04,1980/1981,Cambridge United,Bolton Wanderers,2-3,2,3,Football League Second Division,2,A
+1981-04-04,1980/1981,Chelsea,Cardiff City,0-1,0,1,Football League Second Division,2,A
+1981-04-04,1980/1981,Preston North End,Oldham Athletic,1-2,1,2,Football League Second Division,2,A
+1981-04-04,1980/1981,Queens Park Rangers,Grimsby Town,1-0,1,0,Football League Second Division,2,H
+1981-04-04,1980/1981,Sheffield Wednesday,Luton Town,3-1,3,1,Football League Second Division,2,H
+1981-04-04,1980/1981,Swansea City,Blackburn Rovers,2-0,2,0,Football League Second Division,2,H
+1981-04-04,1980/1981,West Ham United,Bristol Rovers,2-0,2,0,Football League Second Division,2,H
+1981-04-04,1980/1981,Millwall,Rotherham United,0-1,0,1,Football League Third Division,3,A
+1981-04-04,1980/1981,Exeter City,Reading,3-1,3,1,Football League Third Division,3,H
+1981-04-04,1980/1981,Colchester United,Sheffield United,1-1,1,1,Football League Third Division,3,D
+1981-04-04,1980/1981,Carlisle United,Portsmouth,0-0,0,0,Football League Third Division,3,D
+1981-04-04,1980/1981,Chester,Barnsley,2-2,2,2,Football League Third Division,3,D
+1981-04-04,1980/1981,Charlton Athletic,Huddersfield Town,1-2,1,2,Football League Third Division,3,A
+1981-04-04,1980/1981,Newport County,Blackpool,3-1,3,1,Football League Third Division,3,H
+1981-04-04,1980/1981,Chesterfield,Fulham,0-0,0,0,Football League Third Division,3,D
+1981-04-04,1980/1981,Oxford United,Brentford,1-1,1,1,Football League Third Division,3,D
+1981-04-04,1980/1981,Plymouth Argyle,Hull City,0-0,0,0,Football League Third Division,3,D
+1981-04-04,1980/1981,Burnley,Swindon Town,0-0,0,0,Football League Third Division,3,D
+1981-04-05,1980/1981,Darlington,Torquay United,1-0,1,0,Football League Fourth Division,4,H
+1981-04-05,1980/1981,Notts County,Wrexham,1-1,1,1,Football League Second Division,2,D
+1981-04-06,1980/1981,Mansfield Town,Aldershot,1-2,1,2,Football League Fourth Division,4,A
+1981-04-07,1980/1981,Hull City,Fulham,0-1,0,1,Football League Third Division,3,A
+1981-04-07,1980/1981,Sheffield United,Chester,2-0,2,0,Football League Third Division,3,H
+1981-04-07,1980/1981,Newport County,Walsall,1-1,1,1,Football League Third Division,3,D
+1981-04-07,1980/1981,Huddersfield Town,Exeter City,5-0,5,0,Football League Third Division,3,H
+1981-04-07,1980/1981,Chesterfield,Swindon Town,2-2,2,2,Football League Third Division,3,D
+1981-04-07,1980/1981,Barnsley,Colchester United,3-0,3,0,Football League Third Division,3,H
+1981-04-07,1980/1981,Gillingham,Burnley,0-0,0,0,Football League Third Division,3,D
+1981-04-08,1980/1981,Aston Villa,West Bromwich Albion,1-0,1,0,Football League First Division,1,H
+1981-04-08,1980/1981,Torquay United,York City,1-2,1,2,Football League Fourth Division,4,A
+1981-04-10,1980/1981,Doncaster Rovers,Stockport County,2-1,2,1,Football League Fourth Division,4,H
+1981-04-10,1980/1981,Tranmere Rovers,Darlington,3-1,3,1,Football League Fourth Division,4,H
+1981-04-10,1980/1981,Barnsley,Exeter City,1-0,1,0,Football League Third Division,3,H
+1981-04-11,1980/1981,Arsenal,Leeds United,0-0,0,0,Football League First Division,1,D
+1981-04-11,1980/1981,Coventry City,Manchester United,0-2,0,2,Football League First Division,1,A
+1981-04-11,1980/1981,Crystal Palace,Birmingham City,3-1,3,1,Football League First Division,1,H
+1981-04-11,1980/1981,Middlesbrough,Brighton & Hove Albion,1-0,1,0,Football League First Division,1,H
+1981-04-11,1980/1981,Nottingham Forest,Liverpool,0-0,0,0,Football League First Division,1,D
+1981-04-11,1980/1981,Stoke City,Sunderland,2-0,2,0,Football League First Division,1,H
+1981-04-11,1980/1981,Everton,Norwich City,0-2,0,2,Football League First Division,1,A
+1981-04-11,1980/1981,York City,Crewe Alexandra,2-0,2,0,Football League Fourth Division,4,H
+1981-04-11,1980/1981,Hartlepool United,Halifax Town,3-0,3,0,Football League Fourth Division,4,H
+1981-04-11,1980/1981,AFC Bournemouth,Bury,2-2,2,2,Football League Fourth Division,4,D
+1981-04-11,1980/1981,Bradford City,Wigan Athletic,3-3,3,3,Football League Fourth Division,4,D
+1981-04-11,1980/1981,Hereford United,Scunthorpe United,2-1,2,1,Football League Fourth Division,4,H
+1981-04-11,1980/1981,Northampton Town,Wimbledon,1-1,1,1,Football League Fourth Division,4,D
+1981-04-11,1980/1981,Peterborough United,Aldershot,0-0,0,0,Football League Fourth Division,4,D
+1981-04-11,1980/1981,Southend United,Lincoln City,0-0,0,0,Football League Fourth Division,4,D
+1981-04-11,1980/1981,Wrexham,Sheffield Wednesday,4-0,4,0,Football League Second Division,2,H
+1981-04-11,1980/1981,Bolton Wanderers,Watford,2-1,2,1,Football League Second Division,2,H
+1981-04-11,1980/1981,Newcastle United,Cambridge United,2-1,2,1,Football League Second Division,2,H
+1981-04-11,1980/1981,Oldham Athletic,Chelsea,0-0,0,0,Football League Second Division,2,D
+1981-04-11,1980/1981,Bristol Rovers,Shrewsbury Town,1-1,1,1,Football League Second Division,2,D
+1981-04-11,1980/1981,Cardiff City,Preston North End,1-3,1,3,Football League Second Division,2,A
+1981-04-11,1980/1981,Derby County,Notts County,2-2,2,2,Football League Second Division,2,D
+1981-04-11,1980/1981,Grimsby Town,West Ham United,1-5,1,5,Football League Second Division,2,A
+1981-04-11,1980/1981,Leyton Orient,Swansea City,1-1,1,1,Football League Second Division,2,D
+1981-04-11,1980/1981,Luton Town,Queens Park Rangers,3-0,3,0,Football League Second Division,2,H
+1981-04-11,1980/1981,Blackburn Rovers,Bristol City,1-0,1,0,Football League Second Division,2,H
+1981-04-11,1980/1981,Fulham,Carlisle United,2-3,2,3,Football League Third Division,3,A
+1981-04-11,1980/1981,Huddersfield Town,Millwall,0-1,0,1,Football League Third Division,3,A
+1981-04-11,1980/1981,Portsmouth,Gillingham,0-0,0,0,Football League Third Division,3,D
+1981-04-11,1980/1981,Reading,Burnley,1-3,1,3,Football League Third Division,3,A
+1981-04-11,1980/1981,Rotherham United,Charlton Athletic,3-0,3,0,Football League Third Division,3,H
+1981-04-11,1980/1981,Swindon Town,Colchester United,3-0,3,0,Football League Third Division,3,H
+1981-04-11,1980/1981,Brentford,Chesterfield,3-2,3,2,Football League Third Division,3,H
+1981-04-11,1980/1981,Walsall,Plymouth Argyle,1-3,1,3,Football League Third Division,3,A
+1981-04-12,1980/1981,Rochdale,Port Vale,2-1,2,1,Football League Fourth Division,4,H
+1981-04-12,1980/1981,Torquay United,Mansfield Town,1-1,1,1,Football League Fourth Division,4,D
+1981-04-12,1980/1981,Blackpool,Oxford United,1-1,1,1,Football League Third Division,3,D
+1981-04-14,1980/1981,Liverpool,Manchester United,0-1,0,1,Football League First Division,1,A
+1981-04-14,1980/1981,Aston Villa,Ipswich Town,1-2,1,2,Football League First Division,1,A
+1981-04-14,1980/1981,Port Vale,Bradford City,2-1,2,1,Football League Fourth Division,4,H
+1981-04-14,1980/1981,Northampton Town,Hereford United,0-0,0,0,Football League Fourth Division,4,D
+1981-04-14,1980/1981,York City,Bury,0-1,0,1,Football League Fourth Division,4,A
+1981-04-14,1980/1981,Preston North End,Sheffield Wednesday,2-1,2,1,Football League Second Division,2,H
+1981-04-14,1980/1981,Plymouth Argyle,Sheffield United,1-0,1,0,Football League Third Division,3,H
+1981-04-14,1980/1981,Hull City,Swindon Town,0-0,0,0,Football League Third Division,3,D
+1981-04-14,1980/1981,Burnley,Huddersfield Town,4-2,4,2,Football League Third Division,3,H
+1981-04-14,1980/1981,Charlton Athletic,Portsmouth,1-2,1,2,Football League Third Division,3,A
+1981-04-15,1980/1981,Newcastle United,Blackburn Rovers,0-0,0,0,Football League Second Division,2,D
+1981-04-17,1980/1981,Southend United,AFC Bournemouth,2-1,2,1,Football League Fourth Division,4,H
+1981-04-17,1980/1981,Hartlepool United,Darlington,2-0,2,0,Football League Fourth Division,4,H
+1981-04-17,1980/1981,Tranmere Rovers,Doncaster Rovers,1-1,1,1,Football League Fourth Division,4,D
+1981-04-17,1980/1981,Watford,Leyton Orient,2-0,2,0,Football League Second Division,2,H
+1981-04-17,1980/1981,Chester,Blackpool,2-1,2,1,Football League Third Division,3,H
+1981-04-18,1980/1981,Aston Villa,Nottingham Forest,2-0,2,0,Football League First Division,1,H
+1981-04-18,1980/1981,Coventry City,Stoke City,2-2,2,2,Football League First Division,1,D
+1981-04-18,1980/1981,Everton,Middlesbrough,4-1,4,1,Football League First Division,1,H
+1981-04-18,1980/1981,Ipswich Town,Arsenal,0-2,0,2,Football League First Division,1,A
+1981-04-18,1980/1981,Leeds United,Liverpool,0-0,0,0,Football League First Division,1,D
+1981-04-18,1980/1981,Leicester City,Southampton,2-2,2,2,Football League First Division,1,D
+1981-04-18,1980/1981,Manchester United,West Bromwich Albion,2-1,2,1,Football League First Division,1,H
+1981-04-18,1980/1981,Sunderland,Birmingham City,3-0,3,0,Football League First Division,1,H
+1981-04-18,1980/1981,Crystal Palace,Brighton & Hove Albion,0-3,0,3,Football League First Division,1,A
+1981-04-18,1980/1981,Wolverhampton Wanderers,Manchester City,1-3,1,3,Football League First Division,1,A
+1981-04-18,1980/1981,Tottenham Hotspur,Norwich City,2-3,2,3,Football League First Division,1,A
+1981-04-18,1980/1981,Wigan Athletic,Stockport County,2-1,2,1,Football League Fourth Division,4,H
+1981-04-18,1980/1981,Darlington,Halifax Town,3-1,3,1,Football League Fourth Division,4,H
+1981-04-18,1980/1981,AFC Bournemouth,Wimbledon,0-1,0,1,Football League Fourth Division,4,A
+1981-04-18,1980/1981,Aldershot,Southend United,1-2,1,2,Football League Fourth Division,4,A
+1981-04-18,1980/1981,Bury,Scunthorpe United,6-1,6,1,Football League Fourth Division,4,H
+1981-04-18,1980/1981,Mansfield Town,Lincoln City,2-0,2,0,Football League Fourth Division,4,H
+1981-04-18,1980/1981,Peterborough United,Crewe Alexandra,2-1,2,1,Football League Fourth Division,4,H
+1981-04-18,1980/1981,Port Vale,Northampton Town,1-1,1,1,Football League Fourth Division,4,D
+1981-04-18,1980/1981,Rochdale,York City,3-2,3,2,Football League Fourth Division,4,H
+1981-04-18,1980/1981,Torquay United,Hereford United,0-1,0,1,Football League Fourth Division,4,A
+1981-04-18,1980/1981,Blackburn Rovers,Bolton Wanderers,0-0,0,0,Football League Second Division,2,D
+1981-04-18,1980/1981,Swansea City,Cardiff City,1-1,1,1,Football League Second Division,2,D
+1981-04-18,1980/1981,Wrexham,Shrewsbury Town,1-2,1,2,Football League Second Division,2,A
+1981-04-18,1980/1981,Bristol City,Chelsea,0-0,0,0,Football League Second Division,2,D
+1981-04-18,1980/1981,Derby County,Newcastle United,2-0,2,0,Football League Second Division,2,H
+1981-04-18,1980/1981,Grimsby Town,Oldham Athletic,0-0,0,0,Football League Second Division,2,D
+1981-04-18,1980/1981,Leyton Orient,West Ham United,0-2,0,2,Football League Second Division,2,A
+1981-04-18,1980/1981,Luton Town,Bristol Rovers,1-0,1,0,Football League Second Division,2,H
+1981-04-18,1980/1981,Notts County,Preston North End,0-0,0,0,Football League Second Division,2,D
+1981-04-18,1980/1981,Queens Park Rangers,Watford,0-0,0,0,Football League Second Division,2,D
+1981-04-18,1980/1981,Sheffield Wednesday,Cambridge United,4-1,4,1,Football League Second Division,2,H
+1981-04-18,1980/1981,Chesterfield,Chester,2-0,2,0,Football League Third Division,3,H
+1981-04-18,1980/1981,Fulham,Charlton Athletic,1-0,1,0,Football League Third Division,3,H
+1981-04-18,1980/1981,Gillingham,Colchester United,0-0,0,0,Football League Third Division,3,D
+1981-04-18,1980/1981,Hull City,Huddersfield Town,2-1,2,1,Football League Third Division,3,H
+1981-04-18,1980/1981,Newport County,Exeter City,2-1,2,1,Football League Third Division,3,H
+1981-04-18,1980/1981,Carlisle United,Rotherham United,0-1,0,1,Football League Third Division,3,A
+1981-04-18,1980/1981,Oxford United,Reading,2-1,2,1,Football League Third Division,3,H
+1981-04-18,1980/1981,Plymouth Argyle,Swindon Town,0-0,0,0,Football League Third Division,3,D
+1981-04-18,1980/1981,Portsmouth,Millwall,2-1,2,1,Football League Third Division,3,H
+1981-04-18,1980/1981,Brentford,Sheffield United,1-1,1,1,Football League Third Division,3,D
+1981-04-18,1980/1981,Walsall,Barnsley,1-1,1,1,Football League Third Division,3,D
+1981-04-18,1980/1981,Blackpool,Burnley,0-0,0,0,Football League Third Division,3,D
+1981-04-19,1980/1981,Bradford City,Hartlepool United,2-0,2,0,Football League Fourth Division,4,H
+1981-04-20,1980/1981,Arsenal,Crystal Palace,3-2,3,2,Football League First Division,1,H
+1981-04-20,1980/1981,Brighton & Hove Albion,Leicester City,2-1,2,1,Football League First Division,1,H
+1981-04-20,1980/1981,Manchester City,Everton,3-1,3,1,Football League First Division,1,H
+1981-04-20,1980/1981,Nottingham Forest,Wolverhampton Wanderers,1-0,1,0,Football League First Division,1,H
+1981-04-20,1980/1981,Southampton,Tottenham Hotspur,1-1,1,1,Football League First Division,1,D
+1981-04-20,1980/1981,Norwich City,Ipswich Town,1-0,1,0,Football League First Division,1,H
+1981-04-20,1980/1981,West Bromwich Albion,Sunderland,2-1,2,1,Football League First Division,1,H
+1981-04-20,1980/1981,Stoke City,Aston Villa,1-1,1,1,Football League First Division,1,D
+1981-04-20,1980/1981,Wimbledon,Torquay United,1-0,1,0,Football League Fourth Division,4,H
+1981-04-20,1980/1981,Hereford United,Aldershot,0-0,0,0,Football League Fourth Division,4,D
+1981-04-20,1980/1981,Lincoln City,Port Vale,1-0,1,0,Football League Fourth Division,4,H
+1981-04-20,1980/1981,Scunthorpe United,Mansfield Town,2-0,2,0,Football League Fourth Division,4,H
+1981-04-20,1980/1981,Stockport County,Tranmere Rovers,1-0,1,0,Football League Fourth Division,4,H
+1981-04-20,1980/1981,Halifax Town,Rochdale,2-0,2,0,Football League Fourth Division,4,H
+1981-04-20,1980/1981,Oldham Athletic,Derby County,0-2,0,2,Football League Second Division,2,A
+1981-04-20,1980/1981,Cambridge United,Notts County,1-2,1,2,Football League Second Division,2,A
+1981-04-20,1980/1981,Chelsea,Luton Town,0-2,0,2,Football League Second Division,2,A
+1981-04-20,1980/1981,Bolton Wanderers,Wrexham,1-1,1,1,Football League Second Division,2,D
+1981-04-20,1980/1981,Newcastle United,Grimsby Town,1-1,1,1,Football League Second Division,2,D
+1981-04-20,1980/1981,Cardiff City,Bristol City,2-3,2,3,Football League Second Division,2,A
+1981-04-20,1980/1981,Colchester United,Brentford,0-2,0,2,Football League Third Division,3,A
+1981-04-20,1980/1981,Millwall,Gillingham,0-0,0,0,Football League Third Division,3,D
+1981-04-20,1980/1981,Reading,Portsmouth,2-1,2,1,Football League Third Division,3,H
+1981-04-20,1980/1981,Rotherham United,Hull City,1-1,1,1,Football League Third Division,3,D
+1981-04-20,1980/1981,Swindon Town,Newport County,1-1,1,1,Football League Third Division,3,D
+1981-04-20,1980/1981,Barnsley,Chesterfield,1-1,1,1,Football League Third Division,3,D
+1981-04-21,1980/1981,Middlesbrough,Coventry City,0-1,0,1,Football League First Division,1,A
+1981-04-21,1980/1981,Birmingham City,Leeds United,0-2,0,2,Football League First Division,1,A
+1981-04-21,1980/1981,Northampton Town,Peterborough United,2-2,2,2,Football League Fourth Division,4,D
+1981-04-21,1980/1981,Doncaster Rovers,Bradford City,2-0,2,0,Football League Fourth Division,4,H
+1981-04-21,1980/1981,Shrewsbury Town,Sheffield Wednesday,2-0,2,0,Football League Second Division,2,H
+1981-04-21,1980/1981,Preston North End,Blackburn Rovers,0-0,0,0,Football League Second Division,2,D
+1981-04-21,1980/1981,Bristol Rovers,Swansea City,1-2,1,2,Football League Second Division,2,A
+1981-04-21,1980/1981,West Ham United,Queens Park Rangers,3-0,3,0,Football League Second Division,2,H
+1981-04-21,1980/1981,Charlton Athletic,Oxford United,0-0,0,0,Football League Third Division,3,D
+1981-04-21,1980/1981,Sheffield United,Fulham,1-2,1,2,Football League Third Division,3,A
+1981-04-21,1980/1981,Exeter City,Plymouth Argyle,1-1,1,1,Football League Third Division,3,D
+1981-04-21,1980/1981,Burnley,Carlisle United,0-3,0,3,Football League Third Division,3,A
+1981-04-21,1980/1981,Huddersfield Town,Walsall,1-1,1,1,Football League Third Division,3,D
+1981-04-24,1980/1981,Tranmere Rovers,Scunthorpe United,1-2,1,2,Football League Fourth Division,4,A
+1981-04-25,1980/1981,Aston Villa,Middlesbrough,3-0,3,0,Football League First Division,1,H
+1981-04-25,1980/1981,Coventry City,Southampton,1-0,1,0,Football League First Division,1,H
+1981-04-25,1980/1981,Crystal Palace,Nottingham Forest,1-3,1,3,Football League First Division,1,A
+1981-04-25,1980/1981,Everton,Stoke City,0-1,0,1,Football League First Division,1,A
+1981-04-25,1980/1981,Ipswich Town,Manchester City,1-0,1,0,Football League First Division,1,H
+1981-04-25,1980/1981,Manchester United,Norwich City,1-0,1,0,Football League First Division,1,H
+1981-04-25,1980/1981,Sunderland,Brighton & Hove Albion,1-2,1,2,Football League First Division,1,A
+1981-04-25,1980/1981,Leicester City,Birmingham City,1-0,1,0,Football League First Division,1,H
+1981-04-25,1980/1981,Wolverhampton Wanderers,Arsenal,1-2,1,2,Football League First Division,1,A
+1981-04-25,1980/1981,Tottenham Hotspur,Liverpool,1-1,1,1,Football League First Division,1,D
+1981-04-25,1980/1981,Bury,Stockport County,0-1,0,1,Football League Fourth Division,4,A
+1981-04-25,1980/1981,AFC Bournemouth,Lincoln City,0-1,0,1,Football League Fourth Division,4,A
+1981-04-25,1980/1981,Aldershot,York City,1-1,1,1,Football League Fourth Division,4,D
+1981-04-25,1980/1981,Darlington,Crewe Alexandra,2-1,2,1,Football League Fourth Division,4,H
+1981-04-25,1980/1981,Peterborough United,Hartlepool United,1-1,1,1,Football League Fourth Division,4,D
+1981-04-25,1980/1981,Torquay United,Southend United,0-3,0,3,Football League Fourth Division,4,A
+1981-04-25,1980/1981,Wigan Athletic,Wimbledon,1-0,1,0,Football League Fourth Division,4,H
+1981-04-25,1980/1981,Wrexham,Bristol Rovers,3-1,3,1,Football League Second Division,2,H
+1981-04-25,1980/1981,Queens Park Rangers,Cambridge United,5-0,5,0,Football League Second Division,2,H
+1981-04-25,1980/1981,Blackburn Rovers,Newcastle United,3-0,3,0,Football League Second Division,2,H
+1981-04-25,1980/1981,Bristol City,Shrewsbury Town,1-1,1,1,Football League Second Division,2,D
+1981-04-25,1980/1981,Grimsby Town,Cardiff City,0-1,0,1,Football League Second Division,2,A
+1981-04-25,1980/1981,Swansea City,Chelsea,3-0,3,0,Football League Second Division,2,H
+1981-04-25,1980/1981,Luton Town,Oldham Athletic,1-2,1,2,Football League Second Division,2,A
+1981-04-25,1980/1981,Notts County,Watford,1-2,1,2,Football League Second Division,2,A
+1981-04-25,1980/1981,Brentford,Rotherham United,2-1,2,1,Football League Third Division,3,H
+1981-04-25,1980/1981,Carlisle United,Charlton Athletic,1-2,1,2,Football League Third Division,3,A
+1981-04-25,1980/1981,Gillingham,Chester,2-1,2,1,Football League Third Division,3,H
+1981-04-25,1980/1981,Hull City,Sheffield United,1-1,1,1,Football League Third Division,3,D
+1981-04-25,1980/1981,Newport County,Colchester United,1-0,1,0,Football League Third Division,3,H
+1981-04-25,1980/1981,Plymouth Argyle,Burnley,2-1,2,1,Football League Third Division,3,H
+1981-04-25,1980/1981,Portsmouth,Huddersfield Town,1-2,1,2,Football League Third Division,3,A
+1981-04-25,1980/1981,Blackpool,Barnsley,1-0,1,0,Football League Third Division,3,H
+1981-04-25,1980/1981,Walsall,Swindon Town,2-1,2,1,Football League Third Division,3,H
+1981-04-25,1980/1981,Fulham,Reading,1-2,1,2,Football League Third Division,3,A
+1981-04-26,1980/1981,Port Vale,Halifax Town,0-0,0,0,Football League Fourth Division,4,D
+1981-04-26,1980/1981,Leyton Orient,Bolton Wanderers,2-2,2,2,Football League Second Division,2,D
+1981-04-27,1980/1981,Swansea City,Luton Town,2-2,2,2,Football League Second Division,2,D
+1981-04-28,1980/1981,Wimbledon,Rochdale,4-1,4,1,Football League Fourth Division,4,H
+1981-04-28,1980/1981,Sheffield Wednesday,Grimsby Town,1-2,1,2,Football League Second Division,2,A
+1981-04-28,1980/1981,Barnsley,Rotherham United,1-0,1,0,Football League Third Division,3,H
+1981-04-29,1980/1981,Tranmere Rovers,Hereford United,2-1,2,1,Football League Fourth Division,4,H
+1981-04-29,1980/1981,Oxford United,Millwall,1-0,1,0,Football League Third Division,3,H
+1981-04-29,1980/1981,Exeter City,Chester,2-2,2,2,Football League Third Division,3,D
+1981-04-30,1980/1981,Wolverhampton Wanderers,Tottenham Hotspur,1-0,1,0,Football League First Division,1,H
+1981-05-01,1980/1981,Crewe Alexandra,Port Vale,0-0,0,0,Football League Fourth Division,4,D
+1981-05-01,1980/1981,Northampton Town,Torquay United,1-0,1,0,Football League Fourth Division,4,H
+1981-05-01,1980/1981,Southend United,Rochdale,1-1,1,1,Football League Fourth Division,4,D
+1981-05-01,1980/1981,Stockport County,Mansfield Town,2-1,2,1,Football League Fourth Division,4,H
+1981-05-02,1980/1981,Arsenal,Aston Villa,2-0,2,0,Football League First Division,1,H
+1981-05-02,1980/1981,Birmingham City,Everton,1-1,1,1,Football League First Division,1,D
+1981-05-02,1980/1981,Brighton & Hove Albion,Leeds United,2-0,2,0,Football League First Division,1,H
+1981-05-02,1980/1981,Liverpool,Sunderland,0-1,0,1,Football League First Division,1,A
+1981-05-02,1980/1981,Manchester City,Crystal Palace,1-1,1,1,Football League First Division,1,D
+1981-05-02,1980/1981,Middlesbrough,Ipswich Town,2-1,2,1,Football League First Division,1,H
+1981-05-02,1980/1981,Norwich City,Leicester City,2-3,2,3,Football League First Division,1,A
+1981-05-02,1980/1981,Nottingham Forest,Coventry City,1-1,1,1,Football League First Division,1,D
+1981-05-02,1980/1981,Stoke City,Wolverhampton Wanderers,3-2,3,2,Football League First Division,1,H
+1981-05-02,1980/1981,West Bromwich Albion,Tottenham Hotspur,4-2,4,2,Football League First Division,1,H
+1981-05-02,1980/1981,Doncaster Rovers,AFC Bournemouth,2-1,2,1,Football League Fourth Division,4,H
+1981-05-02,1980/1981,Halifax Town,Aldershot,1-0,1,0,Football League Fourth Division,4,H
+1981-05-02,1980/1981,Hartlepool United,Tranmere Rovers,3-0,3,0,Football League Fourth Division,4,H
+1981-05-02,1980/1981,Lincoln City,Darlington,1-0,1,0,Football League Fourth Division,4,H
+1981-05-02,1980/1981,Scunthorpe United,Wigan Athletic,4-4,4,4,Football League Fourth Division,4,D
+1981-05-02,1980/1981,Wimbledon,Bury,2-4,2,4,Football League Fourth Division,4,A
+1981-05-02,1980/1981,York City,Bradford City,0-3,0,3,Football League Fourth Division,4,A
+1981-05-02,1980/1981,Hereford United,Peterborough United,1-1,1,1,Football League Fourth Division,4,D
+1981-05-02,1980/1981,West Ham United,Wrexham,1-0,1,0,Football League Second Division,2,H
+1981-05-02,1980/1981,Shrewsbury Town,Queens Park Rangers,3-3,3,3,Football League Second Division,2,D
+1981-05-02,1980/1981,Watford,Sheffield Wednesday,2-1,2,1,Football League Second Division,2,H
+1981-05-02,1980/1981,Bolton Wanderers,Luton Town,0-3,0,3,Football League Second Division,2,A
+1981-05-02,1980/1981,Bristol Rovers,Blackburn Rovers,0-1,0,1,Football League Second Division,2,A
+1981-05-02,1980/1981,Cambridge United,Grimsby Town,5-1,5,1,Football League Second Division,2,H
+1981-05-02,1980/1981,Cardiff City,Derby County,0-0,0,0,Football League Second Division,2,D
+1981-05-02,1980/1981,Chelsea,Notts County,0-2,0,2,Football League Second Division,2,A
+1981-05-02,1980/1981,Newcastle United,Leyton Orient,3-1,3,1,Football League Second Division,2,H
+1981-05-02,1980/1981,Oldham Athletic,Bristol City,2-0,2,0,Football League Second Division,2,H
+1981-05-02,1980/1981,Preston North End,Swansea City,1-3,1,3,Football League Second Division,2,A
+1981-05-02,1980/1981,Barnsley,Newport County,4-1,4,1,Football League Third Division,3,H
+1981-05-02,1980/1981,Burnley,Oxford United,1-1,1,1,Football League Third Division,3,D
+1981-05-02,1980/1981,Charlton Athletic,Gillingham,2-1,2,1,Football League Third Division,3,H
+1981-05-02,1980/1981,Chester,Portsmouth,0-1,0,1,Football League Third Division,3,A
+1981-05-02,1980/1981,Colchester United,Carlisle United,1-0,1,0,Football League Third Division,3,H
+1981-05-02,1980/1981,Exeter City,Blackpool,0-0,0,0,Football League Third Division,3,D
+1981-05-02,1980/1981,Huddersfield Town,Fulham,4-2,4,2,Football League Third Division,3,H
+1981-05-02,1980/1981,Millwall,Chesterfield,0-2,0,2,Football League Third Division,3,A
+1981-05-02,1980/1981,Reading,Hull City,2-0,2,0,Football League Third Division,3,H
+1981-05-02,1980/1981,Sheffield United,Walsall,0-1,0,1,Football League Third Division,3,A
+1981-05-02,1980/1981,Swindon Town,Brentford,0-0,0,0,Football League Third Division,3,D
+1981-05-02,1980/1981,Rotherham United,Plymouth Argyle,2-1,2,1,Football League Third Division,3,H
+1981-05-03,1980/1981,Rochdale,Northampton Town,0-1,0,1,Football League Fourth Division,4,A
+1981-05-04,1980/1981,Wolverhampton Wanderers,Everton,0-0,0,0,Football League First Division,1,D
+1981-05-04,1980/1981,Bury,Lincoln City,1-1,1,1,Football League Fourth Division,4,D
+1981-05-04,1980/1981,Wrexham,Watford,0-1,0,1,Football League Second Division,2,A
+1981-05-05,1980/1981,Middlesbrough,Liverpool,1-2,1,2,Football League First Division,1,A
+1981-05-05,1980/1981,Darlington,Port Vale,1-1,1,1,Football League Fourth Division,4,D
+1981-05-05,1980/1981,York City,Northampton Town,1-2,1,2,Football League Fourth Division,4,A
+1981-05-05,1980/1981,Notts County,Cambridge United,2-0,2,0,Football League Second Division,2,H
+1981-05-05,1980/1981,Chesterfield,Reading,3-2,3,2,Football League Third Division,3,H
+1981-05-05,1980/1981,Newport County,Carlisle United,4-0,4,0,Football League Third Division,3,H
+1981-05-06,1980/1981,Leeds United,West Bromwich Albion,0-0,0,0,Football League First Division,1,D
+1981-05-06,1980/1981,Mansfield Town,Doncaster Rovers,1-1,1,1,Football League Fourth Division,4,D
+1981-05-06,1980/1981,Hereford United,Stockport County,2-0,2,0,Football League Fourth Division,4,H
+1981-05-06,1980/1981,Cardiff City,West Ham United,0-0,0,0,Football League Second Division,2,D
+1981-05-06,1980/1981,Derby County,Preston North End,1-2,1,2,Football League Second Division,2,A
+1981-05-07,1980/1981,Hull City,Newport County,3-1,3,1,Football League Third Division,3,H
+1981-05-08,1980/1981,Sheffield Wednesday,West Ham United,0-1,0,1,Football League Second Division,2,A
+1981-05-08,1980/1981,Chesterfield,Exeter City,1-0,1,0,Football League Third Division,3,H
+1981-05-13,1980/1981,Ipswich Town,Southampton,2-3,2,3,Football League First Division,1,A
+1981-05-15,1980/1981,Bradford City,Hereford United,0-1,0,1,Football League Fourth Division,4,A
+1981-05-19,1980/1981,Liverpool,Manchester City,1-0,1,0,Football League First Division,1,H

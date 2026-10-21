@@ -1,0 +1,613 @@
+Date,Season,HomeTeam,AwayTeam,Score,hGoal,aGoal,Division,Tier,Result
+1904-09-01,1904/1905,Aston Villa,Preston North End,1-2,1,2,Football League First Division,1,A
+1904-09-01,1904/1905,Stoke City,Derby County,1-2,1,2,Football League First Division,1,A
+1904-09-01,1904/1905,Liverpool,Burton United,2-0,2,0,Football League Second Division,2,H
+1904-09-03,1904/1905,Sheffield United,Derby County,3-1,3,1,Football League First Division,1,H
+1904-09-03,1904/1905,Preston North End,Sunderland,3-1,3,1,Football League First Division,1,H
+1904-09-03,1904/1905,Notts County,Everton,1-2,1,2,Football League First Division,1,A
+1904-09-03,1904/1905,Newcastle United,Arsenal,3-0,3,0,Football League First Division,1,H
+1904-09-03,1904/1905,Middlesbrough,Sheffield Wednesday,1-3,1,3,Football League First Division,1,A
+1904-09-03,1904/1905,Manchester City,Birmingham City,2-1,2,1,Football League First Division,1,H
+1904-09-03,1904/1905,Bury,Blackburn Rovers,0-2,0,2,Football League First Division,1,A
+1904-09-03,1904/1905,Aston Villa,Stoke City,3-0,3,0,Football League First Division,1,H
+1904-09-03,1904/1905,Wolverhampton Wanderers,Nottingham Forest,3-2,3,2,Football League First Division,1,H
+1904-09-03,1904/1905,Grimsby Town,Barnsley,0-0,0,0,Football League Second Division,2,D
+1904-09-03,1904/1905,Gainsborough Trinity,Bradford City,3-2,3,2,Football League Second Division,2,H
+1904-09-03,1904/1905,Doncaster Rovers,Lincoln City,0-2,0,2,Football League Second Division,2,A
+1904-09-03,1904/1905,Burton United,Chesterfield,0-3,0,3,Football League Second Division,2,A
+1904-09-03,1904/1905,Burnley,West Bromwich Albion,1-4,1,4,Football League Second Division,2,A
+1904-09-03,1904/1905,Bristol City,Bolton Wanderers,3-4,3,4,Football League Second Division,2,A
+1904-09-03,1904/1905,Blackpool,Leicester City,0-0,0,0,Football League Second Division,2,D
+1904-09-03,1904/1905,Liverpool,Glossop North End,2-2,2,2,Football League Second Division,2,D
+1904-09-03,1904/1905,Port Vale,Manchester United,2-2,2,2,Football League Second Division,2,D
+1904-09-05,1904/1905,Sunderland,Notts County,5-0,5,0,Football League First Division,1,H
+1904-09-05,1904/1905,Wolverhampton Wanderers,Sheffield United,4-2,4,2,Football League First Division,1,H
+1904-09-05,1904/1905,Port Vale,Blackpool,2-2,2,2,Football League Second Division,2,D
+1904-09-05,1904/1905,Burnley,Chesterfield,2-0,2,0,Football League Second Division,2,H
+1904-09-10,1904/1905,Sunderland,Middlesbrough,1-1,1,1,Football League First Division,1,D
+1904-09-10,1904/1905,Sheffield Wednesday,Wolverhampton Wanderers,4-0,4,0,Football League First Division,1,H
+1904-09-10,1904/1905,Nottingham Forest,Bury,5-1,5,1,Football League First Division,1,H
+1904-09-10,1904/1905,Everton,Sheffield United,2-0,2,0,Football League First Division,1,H
+1904-09-10,1904/1905,Derby County,Newcastle United,1-1,1,1,Football League First Division,1,D
+1904-09-10,1904/1905,Blackburn Rovers,Aston Villa,4-0,4,0,Football League First Division,1,H
+1904-09-10,1904/1905,Birmingham City,Notts County,1-2,1,2,Football League First Division,1,A
+1904-09-10,1904/1905,Arsenal,Preston North End,0-0,0,0,Football League First Division,1,D
+1904-09-10,1904/1905,Stoke City,Manchester City,1-0,1,0,Football League First Division,1,H
+1904-09-10,1904/1905,Glossop North End,Port Vale,0-0,0,0,Football League Second Division,2,D
+1904-09-10,1904/1905,Lincoln City,Gainsborough Trinity,4-1,4,1,Football League Second Division,2,H
+1904-09-10,1904/1905,Leicester City,Doncaster Rovers,3-2,3,2,Football League Second Division,2,H
+1904-09-10,1904/1905,Chesterfield,Liverpool,1-1,1,1,Football League Second Division,2,D
+1904-09-10,1904/1905,Bradford City,Burton United,3-1,3,1,Football League Second Division,2,H
+1904-09-10,1904/1905,Bolton Wanderers,Burnley,4-0,4,0,Football League Second Division,2,H
+1904-09-10,1904/1905,Barnsley,Blackpool,2-1,2,1,Football League Second Division,2,H
+1904-09-10,1904/1905,Manchester United,Bristol City,4-1,4,1,Football League Second Division,2,H
+1904-09-10,1904/1905,West Bromwich Albion,Grimsby Town,0-2,0,2,Football League Second Division,2,A
+1904-09-12,1904/1905,Aston Villa,Everton,1-0,1,0,Football League First Division,1,H
+1904-09-17,1904/1905,Bury,Sheffield Wednesday,1-4,1,4,Football League First Division,1,A
+1904-09-17,1904/1905,Sheffield United,Birmingham City,2-1,2,1,Football League First Division,1,H
+1904-09-17,1904/1905,Preston North End,Derby County,2-0,2,0,Football League First Division,1,H
+1904-09-17,1904/1905,Notts County,Manchester City,1-1,1,1,Football League First Division,1,D
+1904-09-17,1904/1905,Newcastle United,Everton,3-2,3,2,Football League First Division,1,H
+1904-09-17,1904/1905,Middlesbrough,Arsenal,1-0,1,0,Football League First Division,1,H
+1904-09-17,1904/1905,Blackburn Rovers,Stoke City,4-0,4,0,Football League First Division,1,H
+1904-09-17,1904/1905,Aston Villa,Nottingham Forest,2-0,2,0,Football League First Division,1,H
+1904-09-17,1904/1905,Wolverhampton Wanderers,Sunderland,1-0,1,0,Football League First Division,1,H
+1904-09-17,1904/1905,Manchester United,Bolton Wanderers,1-2,1,2,Football League Second Division,2,A
+1904-09-17,1904/1905,Liverpool,Bradford City,4-1,4,1,Football League Second Division,2,H
+1904-09-17,1904/1905,Bristol City,Glossop North End,2-0,2,0,Football League Second Division,2,H
+1904-09-17,1904/1905,Grimsby Town,Burnley,1-0,1,0,Football League Second Division,2,H
+1904-09-17,1904/1905,Gainsborough Trinity,Leicester City,2-0,2,0,Football League Second Division,2,H
+1904-09-17,1904/1905,Doncaster Rovers,Barnsley,2-0,2,0,Football League Second Division,2,H
+1904-09-17,1904/1905,Burton United,Lincoln City,2-1,2,1,Football League Second Division,2,H
+1904-09-17,1904/1905,Port Vale,Chesterfield,0-0,0,0,Football League Second Division,2,D
+1904-09-17,1904/1905,Blackpool,West Bromwich Albion,0-0,0,0,Football League Second Division,2,D
+1904-09-24,1904/1905,Arsenal,Wolverhampton Wanderers,2-0,2,0,Football League First Division,1,H
+1904-09-24,1904/1905,Stoke City,Notts County,0-2,0,2,Football League First Division,1,A
+1904-09-24,1904/1905,Sheffield Wednesday,Aston Villa,3-2,3,2,Football League First Division,1,H
+1904-09-24,1904/1905,Nottingham Forest,Blackburn Rovers,5-2,5,2,Football League First Division,1,H
+1904-09-24,1904/1905,Manchester City,Sheffield United,1-1,1,1,Football League First Division,1,D
+1904-09-24,1904/1905,Everton,Preston North End,1-0,1,0,Football League First Division,1,H
+1904-09-24,1904/1905,Derby County,Middlesbrough,4-2,4,2,Football League First Division,1,H
+1904-09-24,1904/1905,Birmingham City,Newcastle United,2-1,2,1,Football League First Division,1,H
+1904-09-24,1904/1905,Sunderland,Bury,2-1,2,1,Football League First Division,1,H
+1904-09-24,1904/1905,Chesterfield,Bristol City,0-3,0,3,Football League Second Division,2,A
+1904-09-24,1904/1905,Glossop North End,Manchester United,1-2,1,2,Football League Second Division,2,A
+1904-09-24,1904/1905,Burnley,Blackpool,0-1,0,1,Football League Second Division,2,A
+1904-09-24,1904/1905,Lincoln City,Liverpool,0-2,0,2,Football League Second Division,2,A
+1904-09-24,1904/1905,West Bromwich Albion,Doncaster Rovers,6-1,6,1,Football League Second Division,2,H
+1904-09-24,1904/1905,Bradford City,Port Vale,2-1,2,1,Football League Second Division,2,H
+1904-09-24,1904/1905,Leicester City,Burton United,2-0,2,0,Football League Second Division,2,H
+1904-09-24,1904/1905,Bolton Wanderers,Grimsby Town,4-1,4,1,Football League Second Division,2,H
+1904-09-24,1904/1905,Barnsley,Gainsborough Trinity,2-1,2,1,Football League Second Division,2,H
+1904-10-01,1904/1905,Wolverhampton Wanderers,Derby County,2-0,2,0,Football League First Division,1,H
+1904-10-01,1904/1905,Preston North End,Birmingham City,2-2,2,2,Football League First Division,1,D
+1904-10-01,1904/1905,Nottingham Forest,Stoke City,0-1,0,1,Football League First Division,1,A
+1904-10-01,1904/1905,Newcastle United,Manchester City,2-0,2,0,Football League First Division,1,H
+1904-10-01,1904/1905,Middlesbrough,Everton,1-0,1,0,Football League First Division,1,H
+1904-10-01,1904/1905,Sheffield United,Notts County,2-1,2,1,Football League First Division,1,H
+1904-10-01,1904/1905,Bury,Arsenal,1-1,1,1,Football League First Division,1,D
+1904-10-01,1904/1905,Blackburn Rovers,Sheffield Wednesday,0-1,0,1,Football League First Division,1,A
+1904-10-01,1904/1905,Aston Villa,Sunderland,2-2,2,2,Football League First Division,1,D
+1904-10-01,1904/1905,Bristol City,Bradford City,1-0,1,0,Football League Second Division,2,H
+1904-10-01,1904/1905,Burton United,Barnsley,1-2,1,2,Football League Second Division,2,A
+1904-10-01,1904/1905,Doncaster Rovers,Burnley,0-2,0,2,Football League Second Division,2,A
+1904-10-01,1904/1905,Glossop North End,Bolton Wanderers,1-2,1,2,Football League Second Division,2,A
+1904-10-01,1904/1905,Port Vale,Lincoln City,0-1,0,1,Football League Second Division,2,A
+1904-10-01,1904/1905,Blackpool,Grimsby Town,1-1,1,1,Football League Second Division,2,D
+1904-10-01,1904/1905,Liverpool,Leicester City,4-0,4,0,Football League Second Division,2,H
+1904-10-01,1904/1905,Gainsborough Trinity,West Bromwich Albion,4-2,4,2,Football League Second Division,2,H
+1904-10-06,1904/1905,Nottingham Forest,Preston North End,0-1,0,1,Football League First Division,1,A
+1904-10-08,1904/1905,Sunderland,Blackburn Rovers,2-1,2,1,Football League First Division,1,H
+1904-10-08,1904/1905,Manchester City,Preston North End,6-1,6,1,Football League First Division,1,H
+1904-10-08,1904/1905,Sheffield Wednesday,Nottingham Forest,2-0,2,0,Football League First Division,1,H
+1904-10-08,1904/1905,Notts County,Newcastle United,0-3,0,3,Football League First Division,1,A
+1904-10-08,1904/1905,Everton,Wolverhampton Wanderers,2-1,2,1,Football League First Division,1,H
+1904-10-08,1904/1905,Derby County,Bury,3-2,3,2,Football League First Division,1,H
+1904-10-08,1904/1905,Birmingham City,Middlesbrough,2-1,2,1,Football League First Division,1,H
+1904-10-08,1904/1905,Arsenal,Aston Villa,1-0,1,0,Football League First Division,1,H
+1904-10-08,1904/1905,Stoke City,Sheffield United,2-1,2,1,Football League First Division,1,H
+1904-10-08,1904/1905,Grimsby Town,Doncaster Rovers,2-1,2,1,Football League Second Division,2,H
+1904-10-08,1904/1905,Chesterfield,Glossop North End,1-2,1,2,Football League Second Division,2,A
+1904-10-08,1904/1905,Burnley,Gainsborough Trinity,1-3,1,3,Football League Second Division,2,A
+1904-10-08,1904/1905,Bradford City,Manchester United,1-1,1,1,Football League Second Division,2,D
+1904-10-08,1904/1905,Leicester City,Port Vale,3-0,3,0,Football League Second Division,2,H
+1904-10-08,1904/1905,Bolton Wanderers,Blackpool,3-0,3,0,Football League Second Division,2,H
+1904-10-08,1904/1905,Barnsley,Liverpool,0-2,0,2,Football League Second Division,2,A
+1904-10-08,1904/1905,Lincoln City,Bristol City,1-3,1,3,Football League Second Division,2,A
+1904-10-08,1904/1905,West Bromwich Albion,Burton United,4-0,4,0,Football League Second Division,2,H
+1904-10-15,1904/1905,Sheffield Wednesday,Stoke City,3-0,3,0,Football League First Division,1,H
+1904-10-15,1904/1905,Preston North End,Notts County,3-1,3,1,Football League First Division,1,H
+1904-10-15,1904/1905,Aston Villa,Derby County,0-2,0,2,Football League First Division,1,A
+1904-10-15,1904/1905,Blackburn Rovers,Arsenal,1-1,1,1,Football League First Division,1,D
+1904-10-15,1904/1905,Bury,Everton,1-2,1,2,Football League First Division,1,A
+1904-10-15,1904/1905,Wolverhampton Wanderers,Birmingham City,0-1,0,1,Football League First Division,1,A
+1904-10-15,1904/1905,Newcastle United,Sheffield United,1-1,1,1,Football League First Division,1,D
+1904-10-15,1904/1905,Nottingham Forest,Sunderland,2-3,2,3,Football League First Division,1,A
+1904-10-15,1904/1905,Middlesbrough,Manchester City,0-1,0,1,Football League First Division,1,A
+1904-10-15,1904/1905,Chesterfield,Bolton Wanderers,1-0,1,0,Football League Second Division,2,H
+1904-10-15,1904/1905,Burton United,Burnley,3-1,3,1,Football League Second Division,2,H
+1904-10-15,1904/1905,Doncaster Rovers,Blackpool,0-0,0,0,Football League Second Division,2,D
+1904-10-15,1904/1905,Port Vale,Barnsley,0-2,0,2,Football League Second Division,2,A
+1904-10-15,1904/1905,Glossop North End,Bradford City,3-1,3,1,Football League Second Division,2,H
+1904-10-15,1904/1905,Liverpool,West Bromwich Albion,3-2,3,2,Football League Second Division,2,H
+1904-10-15,1904/1905,Manchester United,Lincoln City,2-0,2,0,Football League Second Division,2,H
+1904-10-15,1904/1905,Gainsborough Trinity,Grimsby Town,2-1,2,1,Football League Second Division,2,H
+1904-10-15,1904/1905,Bristol City,Leicester City,3-0,3,0,Football League Second Division,2,H
+1904-10-22,1904/1905,Sunderland,Sheffield Wednesday,3-0,3,0,Football League First Division,1,H
+1904-10-22,1904/1905,Stoke City,Newcastle United,1-0,1,0,Football League First Division,1,H
+1904-10-22,1904/1905,Sheffield United,Preston North End,1-0,1,0,Football League First Division,1,H
+1904-10-22,1904/1905,Notts County,Middlesbrough,0-0,0,0,Football League First Division,1,D
+1904-10-22,1904/1905,Everton,Aston Villa,3-2,3,2,Football League First Division,1,H
+1904-10-22,1904/1905,Derby County,Blackburn Rovers,1-1,1,1,Football League First Division,1,D
+1904-10-22,1904/1905,Birmingham City,Bury,5-0,5,0,Football League First Division,1,H
+1904-10-22,1904/1905,Arsenal,Nottingham Forest,0-3,0,3,Football League First Division,1,A
+1904-10-22,1904/1905,Grimsby Town,Burton United,1-0,1,0,Football League Second Division,2,H
+1904-10-22,1904/1905,Burnley,Liverpool,0-2,0,2,Football League Second Division,2,A
+1904-10-22,1904/1905,Bradford City,Chesterfield,0-1,0,1,Football League Second Division,2,A
+1904-10-22,1904/1905,Bolton Wanderers,Doncaster Rovers,2-0,2,0,Football League Second Division,2,H
+1904-10-22,1904/1905,Blackpool,Gainsborough Trinity,2-2,2,2,Football League Second Division,2,D
+1904-10-22,1904/1905,Barnsley,Bristol City,1-0,1,0,Football League Second Division,2,H
+1904-10-22,1904/1905,Leicester City,Manchester United,0-3,0,3,Football League Second Division,2,A
+1904-10-22,1904/1905,Lincoln City,Glossop North End,3-0,3,0,Football League Second Division,2,H
+1904-10-26,1904/1905,Gainsborough Trinity,Burnley,3-1,3,1,Football League Second Division,2,H
+1904-10-29,1904/1905,Aston Villa,Birmingham City,2-1,2,1,Football League First Division,1,H
+1904-10-29,1904/1905,Wolverhampton Wanderers,Notts County,3-1,3,1,Football League First Division,1,H
+1904-10-29,1904/1905,Sheffield Wednesday,Arsenal,0-3,0,3,Football League First Division,1,A
+1904-10-29,1904/1905,Preston North End,Newcastle United,1-0,1,0,Football League First Division,1,H
+1904-10-29,1904/1905,Nottingham Forest,Derby County,0-1,0,1,Football League First Division,1,A
+1904-10-29,1904/1905,Middlesbrough,Sheffield United,0-1,0,1,Football League First Division,1,A
+1904-10-29,1904/1905,Bury,Manchester City,2-4,2,4,Football League First Division,1,A
+1904-10-29,1904/1905,Sunderland,Stoke City,3-1,3,1,Football League First Division,1,H
+1904-10-29,1904/1905,Blackburn Rovers,Everton,1-0,1,0,Football League First Division,1,H
+1904-10-29,1904/1905,Port Vale,Burnley,3-1,3,1,Football League Second Division,2,H
+1904-10-29,1904/1905,Manchester United,Barnsley,4-0,4,0,Football League Second Division,2,H
+1904-10-29,1904/1905,Liverpool,Grimsby Town,5-0,5,0,Football League Second Division,2,H
+1904-10-29,1904/1905,Bristol City,West Bromwich Albion,2-1,2,1,Football League Second Division,2,H
+1904-10-29,1904/1905,Bradford City,Bolton Wanderers,2-1,2,1,Football League Second Division,2,H
+1904-10-29,1904/1905,Chesterfield,Lincoln City,0-0,0,0,Football League Second Division,2,D
+1904-11-02,1904/1905,Burton United,Doncaster Rovers,1-0,1,0,Football League Second Division,2,H
+1904-11-05,1904/1905,Stoke City,Preston North End,1-1,1,1,Football League First Division,1,D
+1904-11-05,1904/1905,Sheffield United,Wolverhampton Wanderers,4-2,4,2,Football League First Division,1,H
+1904-11-05,1904/1905,Notts County,Bury,0-1,0,1,Football League First Division,1,A
+1904-11-05,1904/1905,Newcastle United,Middlesbrough,3-0,3,0,Football League First Division,1,H
+1904-11-05,1904/1905,Everton,Nottingham Forest,5-1,5,1,Football League First Division,1,H
+1904-11-05,1904/1905,Derby County,Sheffield Wednesday,1-0,1,0,Football League First Division,1,H
+1904-11-05,1904/1905,Birmingham City,Blackburn Rovers,2-0,2,0,Football League First Division,1,H
+1904-11-05,1904/1905,Arsenal,Sunderland,0-0,0,0,Football League First Division,1,D
+1904-11-05,1904/1905,Blackpool,Liverpool,0-3,0,3,Football League Second Division,2,A
+1904-11-05,1904/1905,West Bromwich Albion,Manchester United,0-2,0,2,Football League Second Division,2,A
+1904-11-05,1904/1905,Lincoln City,Bradford City,1-1,1,1,Football League Second Division,2,D
+1904-11-05,1904/1905,Leicester City,Chesterfield,1-1,1,1,Football League Second Division,2,D
+1904-11-05,1904/1905,Grimsby Town,Port Vale,0-3,0,3,Football League Second Division,2,A
+1904-11-05,1904/1905,Doncaster Rovers,Burton United,1-3,1,3,Football League Second Division,2,A
+1904-11-05,1904/1905,Burnley,Bristol City,2-3,2,3,Football League Second Division,2,A
+1904-11-05,1904/1905,Bolton Wanderers,Gainsborough Trinity,5-1,5,1,Football League Second Division,2,H
+1904-11-05,1904/1905,Barnsley,Glossop North End,0-0,0,0,Football League Second Division,2,D
+1904-11-07,1904/1905,West Bromwich Albion,Blackpool,4-2,4,2,Football League Second Division,2,H
+1904-11-09,1904/1905,Manchester City,Aston Villa,2-1,2,1,Football League First Division,1,H
+1904-11-12,1904/1905,Wolverhampton Wanderers,Newcastle United,1-3,1,3,Football League First Division,1,A
+1904-11-12,1904/1905,Sunderland,Derby County,3-0,3,0,Football League First Division,1,H
+1904-11-12,1904/1905,Nottingham Forest,Birmingham City,0-2,0,2,Football League First Division,1,A
+1904-11-12,1904/1905,Middlesbrough,Preston North End,1-1,1,1,Football League First Division,1,D
+1904-11-12,1904/1905,Bury,Sheffield United,7-1,7,1,Football League First Division,1,H
+1904-11-12,1904/1905,Blackburn Rovers,Manchester City,3-1,3,1,Football League First Division,1,H
+1904-11-12,1904/1905,Aston Villa,Notts County,4-2,4,2,Football League First Division,1,H
+1904-11-12,1904/1905,Arsenal,Stoke City,2-1,2,1,Football League First Division,1,H
+1904-11-12,1904/1905,Sheffield Wednesday,Everton,5-5,5,5,Football League First Division,1,D
+1904-11-12,1904/1905,Manchester United,Burnley,1-0,1,0,Football League Second Division,2,H
+1904-11-12,1904/1905,Chesterfield,Barnsley,2-0,2,0,Football League Second Division,2,H
+1904-11-12,1904/1905,Bristol City,Grimsby Town,5-0,5,0,Football League Second Division,2,H
+1904-11-12,1904/1905,Bolton Wanderers,Lincoln City,4-1,4,1,Football League Second Division,2,H
+1904-11-12,1904/1905,Port Vale,Liverpool,1-2,1,2,Football League Second Division,2,A
+1904-11-14,1904/1905,Manchester City,Wolverhampton Wanderers,5-1,5,1,Football League First Division,1,H
+1904-11-19,1904/1905,Sheffield United,Aston Villa,0-3,0,3,Football League First Division,1,A
+1904-11-19,1904/1905,Preston North End,Wolverhampton Wanderers,2-2,2,2,Football League First Division,1,D
+1904-11-19,1904/1905,Notts County,Blackburn Rovers,2-1,2,1,Football League First Division,1,H
+1904-11-19,1904/1905,Newcastle United,Bury,3-1,3,1,Football League First Division,1,H
+1904-11-19,1904/1905,Manchester City,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1904-11-19,1904/1905,Everton,Sunderland,0-1,0,1,Football League First Division,1,A
+1904-11-19,1904/1905,Derby County,Arsenal,0-0,0,0,Football League First Division,1,D
+1904-11-19,1904/1905,Birmingham City,Sheffield Wednesday,2-1,2,1,Football League First Division,1,H
+1904-11-19,1904/1905,Stoke City,Middlesbrough,3-1,3,1,Football League First Division,1,H
+1904-11-19,1904/1905,Blackpool,Bristol City,2-4,2,4,Football League Second Division,2,A
+1904-11-19,1904/1905,Bolton Wanderers,Burton United,7-1,7,1,Football League Second Division,2,H
+1904-11-19,1904/1905,Burnley,Glossop North End,3-1,3,1,Football League Second Division,2,H
+1904-11-19,1904/1905,Leicester City,Lincoln City,0-1,0,1,Football League Second Division,2,A
+1904-11-19,1904/1905,Gainsborough Trinity,Liverpool,1-2,1,2,Football League Second Division,2,A
+1904-11-19,1904/1905,Grimsby Town,Manchester United,0-1,0,1,Football League Second Division,2,A
+1904-11-19,1904/1905,West Bromwich Albion,Chesterfield,0-2,0,2,Football League Second Division,2,A
+1904-11-19,1904/1905,Doncaster Rovers,Port Vale,2-2,2,2,Football League Second Division,2,D
+1904-11-19,1904/1905,Barnsley,Bradford City,1-0,1,0,Football League Second Division,2,H
+1904-11-26,1904/1905,Sunderland,Birmingham City,1-4,1,4,Football League First Division,1,A
+1904-11-26,1904/1905,Wolverhampton Wanderers,Middlesbrough,5-3,5,3,Football League First Division,1,H
+1904-11-26,1904/1905,Nottingham Forest,Notts County,2-1,2,1,Football League First Division,1,H
+1904-11-26,1904/1905,Derby County,Stoke City,3-0,3,0,Football League First Division,1,H
+1904-11-26,1904/1905,Bury,Preston North End,0-1,0,1,Football League First Division,1,A
+1904-11-26,1904/1905,Blackburn Rovers,Sheffield United,2-4,2,4,Football League First Division,1,A
+1904-11-26,1904/1905,Aston Villa,Newcastle United,0-1,0,1,Football League First Division,1,A
+1904-11-26,1904/1905,Sheffield Wednesday,Manchester City,2-1,2,1,Football League First Division,1,H
+1904-11-26,1904/1905,Lincoln City,Barnsley,2-0,2,0,Football League Second Division,2,H
+1904-11-26,1904/1905,Chesterfield,Burnley,1-1,1,1,Football League Second Division,2,D
+1904-11-26,1904/1905,Bristol City,Doncaster Rovers,4-1,4,1,Football League Second Division,2,H
+1904-11-26,1904/1905,Bradford City,West Bromwich Albion,3-1,3,1,Football League Second Division,2,H
+1904-12-03,1904/1905,Sheffield United,Nottingham Forest,4-0,4,0,Football League First Division,1,H
+1904-12-03,1904/1905,Preston North End,Aston Villa,2-3,2,3,Football League First Division,1,A
+1904-12-03,1904/1905,Notts County,Sheffield Wednesday,2-2,2,2,Football League First Division,1,D
+1904-12-03,1904/1905,Newcastle United,Blackburn Rovers,1-0,1,0,Football League First Division,1,H
+1904-12-03,1904/1905,Middlesbrough,Bury,2-2,2,2,Football League First Division,1,D
+1904-12-03,1904/1905,Manchester City,Sunderland,5-2,5,2,Football League First Division,1,H
+1904-12-03,1904/1905,Everton,Derby County,0-0,0,0,Football League First Division,1,D
+1904-12-03,1904/1905,Birmingham City,Arsenal,2-1,2,1,Football League First Division,1,H
+1904-12-03,1904/1905,Stoke City,Wolverhampton Wanderers,2-1,2,1,Football League First Division,1,H
+1904-12-03,1904/1905,West Bromwich Albion,Lincoln City,2-0,2,0,Football League Second Division,2,H
+1904-12-03,1904/1905,Grimsby Town,Chesterfield,3-1,3,1,Football League Second Division,2,H
+1904-12-03,1904/1905,Doncaster Rovers,Manchester United,0-1,0,1,Football League Second Division,2,A
+1904-12-03,1904/1905,Burton United,Port Vale,2-3,2,3,Football League Second Division,2,A
+1904-12-03,1904/1905,Burnley,Bradford City,2-1,2,1,Football League Second Division,2,H
+1904-12-03,1904/1905,Bolton Wanderers,Liverpool,2-0,2,0,Football League Second Division,2,H
+1904-12-03,1904/1905,Blackpool,Glossop North End,4-1,4,1,Football League Second Division,2,H
+1904-12-03,1904/1905,Barnsley,Leicester City,2-1,2,1,Football League Second Division,2,H
+1904-12-03,1904/1905,Gainsborough Trinity,Bristol City,4-1,4,1,Football League Second Division,2,H
+1904-12-10,1904/1905,Sheffield Wednesday,Sheffield United,1-3,1,3,Football League First Division,1,A
+1904-12-10,1904/1905,Nottingham Forest,Newcastle United,1-3,1,3,Football League First Division,1,A
+1904-12-10,1904/1905,Everton,Stoke City,4-1,4,1,Football League First Division,1,H
+1904-12-10,1904/1905,Bury,Wolverhampton Wanderers,3-1,3,1,Football League First Division,1,H
+1904-12-10,1904/1905,Blackburn Rovers,Preston North End,1-1,1,1,Football League First Division,1,D
+1904-12-10,1904/1905,Aston Villa,Middlesbrough,0-0,0,0,Football League First Division,1,D
+1904-12-10,1904/1905,Arsenal,Manchester City,1-0,1,0,Football League First Division,1,H
+1904-12-10,1904/1905,Derby County,Birmingham City,3-0,3,0,Football League First Division,1,H
+1904-12-10,1904/1905,Manchester United,Gainsborough Trinity,3-1,3,1,Football League Second Division,2,H
+1904-12-10,1904/1905,Doncaster Rovers,Bolton Wanderers,0-4,0,4,Football League Second Division,2,A
+1904-12-10,1904/1905,Bristol City,Burton United,5-0,5,0,Football League Second Division,2,H
+1904-12-15,1904/1905,Leicester City,West Bromwich Albion,3-1,3,1,Football League Second Division,2,H
+1904-12-17,1904/1905,Sheffield United,Sunderland,1-0,1,0,Football League First Division,1,H
+1904-12-17,1904/1905,Birmingham City,Everton,1-2,1,2,Football League First Division,1,A
+1904-12-17,1904/1905,Bury,Stoke City,3-1,3,1,Football League First Division,1,H
+1904-12-17,1904/1905,Manchester City,Derby County,6-0,6,0,Football League First Division,1,H
+1904-12-17,1904/1905,Wolverhampton Wanderers,Aston Villa,1-1,1,1,Football League First Division,1,D
+1904-12-17,1904/1905,Newcastle United,Sheffield Wednesday,6-2,6,2,Football League First Division,1,H
+1904-12-17,1904/1905,Notts County,Arsenal,1-5,1,5,Football League First Division,1,A
+1904-12-17,1904/1905,Preston North End,Nottingham Forest,0-1,0,1,Football League First Division,1,A
+1904-12-17,1904/1905,Middlesbrough,Blackburn Rovers,2-1,2,1,Football League First Division,1,H
+1904-12-17,1904/1905,Burnley,Leicester City,2-0,2,0,Football League Second Division,2,H
+1904-12-17,1904/1905,Port Vale,Bolton Wanderers,1-2,1,2,Football League Second Division,2,A
+1904-12-17,1904/1905,West Bromwich Albion,Barnsley,4-1,4,1,Football League Second Division,2,H
+1904-12-17,1904/1905,Grimsby Town,Lincoln City,1-0,1,0,Football League Second Division,2,H
+1904-12-17,1904/1905,Gainsborough Trinity,Glossop North End,0-0,0,0,Football League Second Division,2,D
+1904-12-17,1904/1905,Doncaster Rovers,Chesterfield,0-2,0,2,Football League Second Division,2,A
+1904-12-17,1904/1905,Burton United,Manchester United,2-3,2,3,Football League Second Division,2,A
+1904-12-17,1904/1905,Blackpool,Bradford City,2-0,2,0,Football League Second Division,2,H
+1904-12-17,1904/1905,Liverpool,Bristol City,3-1,3,1,Football League Second Division,2,H
+1904-12-24,1904/1905,Sunderland,Newcastle United,3-1,3,1,Football League First Division,1,H
+1904-12-24,1904/1905,Nottingham Forest,Middlesbrough,1-1,1,1,Football League First Division,1,D
+1904-12-24,1904/1905,Everton,Manchester City,0-0,0,0,Football League First Division,1,D
+1904-12-24,1904/1905,Derby County,Notts County,1-1,1,1,Football League First Division,1,D
+1904-12-24,1904/1905,Blackburn Rovers,Wolverhampton Wanderers,3-0,3,0,Football League First Division,1,H
+1904-12-24,1904/1905,Aston Villa,Bury,2-0,2,0,Football League First Division,1,H
+1904-12-24,1904/1905,Arsenal,Sheffield United,1-0,1,0,Football League First Division,1,H
+1904-12-24,1904/1905,Bradford City,Doncaster Rovers,4-1,4,1,Football League Second Division,2,H
+1904-12-24,1904/1905,Manchester United,Liverpool,3-1,3,1,Football League Second Division,2,H
+1904-12-24,1904/1905,Lincoln City,Blackpool,1-0,1,0,Football League Second Division,2,H
+1904-12-24,1904/1905,Leicester City,Grimsby Town,5-1,5,1,Football League Second Division,2,H
+1904-12-24,1904/1905,Glossop North End,Burton United,1-1,1,1,Football League Second Division,2,D
+1904-12-24,1904/1905,Chesterfield,Gainsborough Trinity,3-2,3,2,Football League Second Division,2,H
+1904-12-24,1904/1905,Bristol City,Port Vale,4-2,4,2,Football League Second Division,2,H
+1904-12-24,1904/1905,Bolton Wanderers,West Bromwich Albion,2-1,2,1,Football League Second Division,2,H
+1904-12-24,1904/1905,Barnsley,Burnley,1-2,1,2,Football League Second Division,2,A
+1904-12-26,1904/1905,Middlesbrough,Birmingham City,0-1,0,1,Football League First Division,1,A
+1904-12-26,1904/1905,Sheffield United,Stoke City,5-2,5,2,Football League First Division,1,H
+1904-12-26,1904/1905,Preston North End,Manchester City,0-1,0,1,Football League First Division,1,A
+1904-12-26,1904/1905,Nottingham Forest,Sheffield Wednesday,2-1,2,1,Football League First Division,1,H
+1904-12-26,1904/1905,Bury,Derby County,2-0,2,0,Football League First Division,1,H
+1904-12-26,1904/1905,Blackburn Rovers,Sunderland,2-1,2,1,Football League First Division,1,H
+1904-12-26,1904/1905,Aston Villa,Arsenal,3-1,3,1,Football League First Division,1,H
+1904-12-26,1904/1905,Wolverhampton Wanderers,Everton,0-3,0,3,Football League First Division,1,A
+1904-12-26,1904/1905,Manchester United,Chesterfield,3-0,3,0,Football League Second Division,2,H
+1904-12-26,1904/1905,Liverpool,Barnsley,2-1,2,1,Football League Second Division,2,H
+1904-12-26,1904/1905,Lincoln City,Bolton Wanderers,0-2,0,2,Football League Second Division,2,A
+1904-12-26,1904/1905,West Bromwich Albion,Port Vale,0-1,0,1,Football League Second Division,2,A
+1904-12-26,1904/1905,Leicester City,Glossop North End,0-2,0,2,Football League Second Division,2,A
+1904-12-26,1904/1905,Gainsborough Trinity,Doncaster Rovers,2-0,2,0,Football League Second Division,2,H
+1904-12-26,1904/1905,Burton United,Blackpool,0-0,0,0,Football League Second Division,2,D
+1904-12-26,1904/1905,Burnley,Grimsby Town,1-0,1,0,Football League Second Division,2,H
+1904-12-27,1904/1905,Nottingham Forest,Arsenal,0-3,0,3,Football League First Division,1,A
+1904-12-27,1904/1905,Derby County,Everton,1-2,1,2,Football League First Division,1,A
+1904-12-27,1904/1905,Sheffield Wednesday,Sunderland,1-1,1,1,Football League First Division,1,D
+1904-12-27,1904/1905,Lincoln City,Burton United,3-1,3,1,Football League Second Division,2,H
+1904-12-27,1904/1905,Leicester City,Bolton Wanderers,2-4,2,4,Football League Second Division,2,A
+1904-12-27,1904/1905,Bradford City,Grimsby Town,0-0,0,0,Football League Second Division,2,D
+1904-12-27,1904/1905,Glossop North End,Bristol City,0-1,0,1,Football League Second Division,2,A
+1904-12-28,1904/1905,Sheffield United,Arsenal,4-0,4,0,Football League First Division,1,H
+1904-12-31,1904/1905,Sheffield Wednesday,Middlesbrough,5-0,5,0,Football League First Division,1,H
+1904-12-31,1904/1905,Stoke City,Aston Villa,1-4,1,4,Football League First Division,1,A
+1904-12-31,1904/1905,Sunderland,Preston North End,3-2,3,2,Football League First Division,1,H
+1904-12-31,1904/1905,Nottingham Forest,Wolverhampton Wanderers,2-2,2,2,Football League First Division,1,D
+1904-12-31,1904/1905,Everton,Notts County,5-1,5,1,Football League First Division,1,H
+1904-12-31,1904/1905,Derby County,Sheffield United,2-3,2,3,Football League First Division,1,A
+1904-12-31,1904/1905,Blackburn Rovers,Bury,0-2,0,2,Football League First Division,1,A
+1904-12-31,1904/1905,Birmingham City,Manchester City,3-1,3,1,Football League First Division,1,H
+1904-12-31,1904/1905,Arsenal,Newcastle United,0-2,0,2,Football League First Division,1,A
+1904-12-31,1904/1905,Bolton Wanderers,Bristol City,3-1,3,1,Football League Second Division,2,H
+1904-12-31,1904/1905,West Bromwich Albion,Burnley,1-1,1,1,Football League Second Division,2,D
+1904-12-31,1904/1905,Manchester United,Port Vale,6-1,6,1,Football League Second Division,2,H
+1904-12-31,1904/1905,Lincoln City,Doncaster Rovers,3-0,3,0,Football League Second Division,2,H
+1904-12-31,1904/1905,Leicester City,Blackpool,3-1,3,1,Football League Second Division,2,H
+1904-12-31,1904/1905,Glossop North End,Liverpool,0-2,0,2,Football League Second Division,2,A
+1904-12-31,1904/1905,Chesterfield,Burton United,6-0,6,0,Football League Second Division,2,H
+1904-12-31,1904/1905,Bradford City,Gainsborough Trinity,3-1,3,1,Football League Second Division,2,H
+1904-12-31,1904/1905,Barnsley,Grimsby Town,2-2,2,2,Football League Second Division,2,D
+1905-01-02,1904/1905,Sunderland,Nottingham Forest,1-0,1,0,Football League First Division,1,H
+1905-01-02,1904/1905,Sheffield Wednesday,Preston North End,2-0,2,0,Football League First Division,1,H
+1905-01-02,1904/1905,Newcastle United,Notts County,1-0,1,0,Football League First Division,1,H
+1905-01-02,1904/1905,Bury,Birmingham City,1-1,1,1,Football League First Division,1,D
+1905-01-02,1904/1905,Blackburn Rovers,Derby County,3-1,3,1,Football League First Division,1,H
+1905-01-02,1904/1905,Manchester United,Bradford City,7-0,7,0,Football League Second Division,2,H
+1905-01-02,1904/1905,Bolton Wanderers,Barnsley,2-1,2,1,Football League Second Division,2,H
+1905-01-03,1904/1905,Bolton Wanderers,Manchester United,2-4,2,4,Football League Second Division,2,A
+1905-01-07,1904/1905,Sheffield United,Everton,1-0,1,0,Football League First Division,1,H
+1905-01-07,1904/1905,Preston North End,Arsenal,3-0,3,0,Football League First Division,1,H
+1905-01-07,1904/1905,Notts County,Birmingham City,0-0,0,0,Football League First Division,1,D
+1905-01-07,1904/1905,Newcastle United,Derby County,2-0,2,0,Football League First Division,1,H
+1905-01-07,1904/1905,Middlesbrough,Sunderland,1-3,1,3,Football League First Division,1,A
+1905-01-07,1904/1905,Manchester City,Stoke City,1-0,1,0,Football League First Division,1,H
+1905-01-07,1904/1905,Bury,Nottingham Forest,5-1,5,1,Football League First Division,1,H
+1905-01-07,1904/1905,Aston Villa,Blackburn Rovers,3-0,3,0,Football League First Division,1,H
+1905-01-07,1904/1905,Wolverhampton Wanderers,Sheffield Wednesday,1-0,1,0,Football League First Division,1,H
+1905-01-07,1904/1905,Port Vale,Glossop North End,0-1,0,1,Football League Second Division,2,A
+1905-01-07,1904/1905,Liverpool,Chesterfield,6-1,6,1,Football League Second Division,2,H
+1905-01-07,1904/1905,Grimsby Town,West Bromwich Albion,1-3,1,3,Football League Second Division,2,A
+1905-01-07,1904/1905,Gainsborough Trinity,Lincoln City,2-0,2,0,Football League Second Division,2,H
+1905-01-07,1904/1905,Doncaster Rovers,Leicester City,3-0,3,0,Football League Second Division,2,H
+1905-01-07,1904/1905,Burton United,Bradford City,1-0,1,0,Football League Second Division,2,H
+1905-01-07,1904/1905,Burnley,Bolton Wanderers,0-1,0,1,Football League Second Division,2,A
+1905-01-07,1904/1905,Blackpool,Barnsley,6-0,6,0,Football League Second Division,2,H
+1905-01-07,1904/1905,Bristol City,Manchester United,1-1,1,1,Football League Second Division,2,D
+1905-01-14,1904/1905,Sunderland,Wolverhampton Wanderers,3-0,3,0,Football League First Division,1,H
+1905-01-14,1904/1905,Stoke City,Blackburn Rovers,4-0,4,0,Football League First Division,1,H
+1905-01-14,1904/1905,Sheffield Wednesday,Bury,4-0,4,0,Football League First Division,1,H
+1905-01-14,1904/1905,Nottingham Forest,Aston Villa,1-1,1,1,Football League First Division,1,D
+1905-01-14,1904/1905,Manchester City,Notts County,2-1,2,1,Football League First Division,1,H
+1905-01-14,1904/1905,Derby County,Preston North End,3-1,3,1,Football League First Division,1,H
+1905-01-14,1904/1905,Birmingham City,Sheffield United,2-0,2,0,Football League First Division,1,H
+1905-01-14,1904/1905,Arsenal,Middlesbrough,1-1,1,1,Football League First Division,1,D
+1905-01-14,1904/1905,Everton,Newcastle United,2-1,2,1,Football League First Division,1,H
+1905-01-14,1904/1905,Glossop North End,Doncaster Rovers,2-0,2,0,Football League Second Division,2,H
+1905-01-21,1904/1905,Notts County,Stoke City,0-0,0,0,Football League First Division,1,D
+1905-01-21,1904/1905,Sheffield United,Manchester City,0-3,0,3,Football League First Division,1,A
+1905-01-21,1904/1905,Preston North End,Everton,1-1,1,1,Football League First Division,1,D
+1905-01-21,1904/1905,Newcastle United,Birmingham City,0-1,0,1,Football League First Division,1,A
+1905-01-21,1904/1905,Middlesbrough,Derby County,2-0,2,0,Football League First Division,1,H
+1905-01-21,1904/1905,Bury,Sunderland,1-0,1,0,Football League First Division,1,H
+1905-01-21,1904/1905,Blackburn Rovers,Nottingham Forest,0-0,0,0,Football League First Division,1,D
+1905-01-21,1904/1905,Aston Villa,Sheffield Wednesday,0-2,0,2,Football League First Division,1,A
+1905-01-21,1904/1905,Wolverhampton Wanderers,Arsenal,4-1,4,1,Football League First Division,1,H
+1905-01-21,1904/1905,Bristol City,Chesterfield,2-1,2,1,Football League Second Division,2,H
+1905-01-21,1904/1905,Port Vale,Bradford City,1-1,1,1,Football League Second Division,2,D
+1905-01-21,1904/1905,Manchester United,Glossop North End,4-1,4,1,Football League Second Division,2,H
+1905-01-21,1904/1905,Liverpool,Lincoln City,1-1,1,1,Football League Second Division,2,D
+1905-01-21,1904/1905,Grimsby Town,Bolton Wanderers,2-2,2,2,Football League Second Division,2,D
+1905-01-21,1904/1905,Gainsborough Trinity,Barnsley,4-0,4,0,Football League Second Division,2,H
+1905-01-21,1904/1905,Doncaster Rovers,West Bromwich Albion,0-1,0,1,Football League Second Division,2,A
+1905-01-21,1904/1905,Burton United,Leicester City,0-3,0,3,Football League Second Division,2,A
+1905-01-21,1904/1905,Blackpool,Burnley,2-0,2,0,Football League Second Division,2,H
+1905-01-28,1904/1905,Sunderland,Aston Villa,2-3,2,3,Football League First Division,1,A
+1905-01-28,1904/1905,Sheffield Wednesday,Blackburn Rovers,1-2,1,2,Football League First Division,1,A
+1905-01-28,1904/1905,Notts County,Sheffield United,1-5,1,5,Football League First Division,1,A
+1905-01-28,1904/1905,Manchester City,Newcastle United,3-2,3,2,Football League First Division,1,H
+1905-01-28,1904/1905,Everton,Middlesbrough,1-0,1,0,Football League First Division,1,H
+1905-01-28,1904/1905,Derby County,Wolverhampton Wanderers,2-1,2,1,Football League First Division,1,H
+1905-01-28,1904/1905,Birmingham City,Preston North End,2-0,2,0,Football League First Division,1,H
+1905-01-28,1904/1905,Arsenal,Bury,2-1,2,1,Football League First Division,1,H
+1905-01-28,1904/1905,Stoke City,Nottingham Forest,0-0,0,0,Football League First Division,1,D
+1905-01-28,1904/1905,West Bromwich Albion,Gainsborough Trinity,4-3,4,3,Football League Second Division,2,H
+1905-01-28,1904/1905,Lincoln City,Port Vale,3-3,3,3,Football League Second Division,2,D
+1905-01-28,1904/1905,Grimsby Town,Blackpool,2-0,2,0,Football League Second Division,2,H
+1905-01-28,1904/1905,Burnley,Doncaster Rovers,4-3,4,3,Football League Second Division,2,H
+1905-01-28,1904/1905,Bradford City,Bristol City,2-3,2,3,Football League Second Division,2,A
+1905-01-28,1904/1905,Bolton Wanderers,Glossop North End,4-0,4,0,Football League Second Division,2,H
+1905-01-28,1904/1905,Barnsley,Burton United,7-0,7,0,Football League Second Division,2,H
+1905-01-28,1904/1905,Leicester City,Liverpool,0-3,0,3,Football League Second Division,2,A
+1905-02-04,1904/1905,Glossop North End,Chesterfield,0-1,0,1,Football League Second Division,2,A
+1905-02-11,1904/1905,Notts County,Preston North End,1-3,1,3,Football League First Division,1,A
+1905-02-11,1904/1905,Stoke City,Sheffield Wednesday,2-1,2,1,Football League First Division,1,H
+1905-02-11,1904/1905,Sheffield United,Newcastle United,1-3,1,3,Football League First Division,1,A
+1905-02-11,1904/1905,Manchester City,Middlesbrough,3-2,3,2,Football League First Division,1,H
+1905-02-11,1904/1905,Everton,Bury,2-0,2,0,Football League First Division,1,H
+1905-02-11,1904/1905,Derby County,Aston Villa,0-2,0,2,Football League First Division,1,A
+1905-02-11,1904/1905,Birmingham City,Wolverhampton Wanderers,4-1,4,1,Football League First Division,1,H
+1905-02-11,1904/1905,Arsenal,Blackburn Rovers,2-0,2,0,Football League First Division,1,H
+1905-02-11,1904/1905,Lincoln City,Manchester United,3-0,3,0,Football League Second Division,2,H
+1905-02-11,1904/1905,Leicester City,Bristol City,2-1,2,1,Football League Second Division,2,H
+1905-02-11,1904/1905,Grimsby Town,Gainsborough Trinity,0-0,0,0,Football League Second Division,2,D
+1905-02-11,1904/1905,Burnley,Burton United,1-1,1,1,Football League Second Division,2,D
+1905-02-11,1904/1905,Bradford City,Glossop North End,1-1,1,1,Football League Second Division,2,D
+1905-02-11,1904/1905,West Bromwich Albion,Liverpool,0-2,0,2,Football League Second Division,2,A
+1905-02-11,1904/1905,Bolton Wanderers,Chesterfield,4-3,4,3,Football League Second Division,2,H
+1905-02-11,1904/1905,Blackpool,Doncaster Rovers,1-0,1,0,Football League Second Division,2,H
+1905-02-11,1904/1905,Barnsley,Port Vale,3-0,3,0,Football League Second Division,2,H
+1905-02-18,1904/1905,Notts County,Derby County,0-0,0,0,Football League First Division,1,D
+1905-02-18,1904/1905,Manchester United,Leicester City,4-1,4,1,Football League Second Division,2,H
+1905-02-18,1904/1905,Port Vale,West Bromwich Albion,3-2,3,2,Football League Second Division,2,H
+1905-02-18,1904/1905,Gainsborough Trinity,Blackpool,1-1,1,1,Football League Second Division,2,D
+1905-02-18,1904/1905,Glossop North End,Lincoln City,3-2,3,2,Football League Second Division,2,H
+1905-02-18,1904/1905,Burton United,Grimsby Town,1-0,1,0,Football League Second Division,2,H
+1905-02-18,1904/1905,Chesterfield,Bradford City,0-0,0,0,Football League Second Division,2,D
+1905-02-23,1904/1905,Leicester City,Gainsborough Trinity,1-1,1,1,Football League Second Division,2,D
+1905-02-25,1904/1905,Stoke City,Sunderland,1-3,1,3,Football League First Division,1,A
+1905-02-25,1904/1905,Notts County,Wolverhampton Wanderers,3-4,3,4,Football League First Division,1,A
+1905-02-25,1904/1905,Newcastle United,Preston North End,1-0,1,0,Football League First Division,1,H
+1905-02-25,1904/1905,Manchester City,Bury,3-2,3,2,Football League First Division,1,H
+1905-02-25,1904/1905,Everton,Blackburn Rovers,1-0,1,0,Football League First Division,1,H
+1905-02-25,1904/1905,Derby County,Nottingham Forest,3-2,3,2,Football League First Division,1,H
+1905-02-25,1904/1905,Arsenal,Sheffield Wednesday,3-0,3,0,Football League First Division,1,H
+1905-02-25,1904/1905,Birmingham City,Aston Villa,0-3,0,3,Football League First Division,1,A
+1905-02-25,1904/1905,Sheffield United,Middlesbrough,0-1,0,1,Football League First Division,1,A
+1905-02-25,1904/1905,West Bromwich Albion,Bristol City,0-0,0,0,Football League Second Division,2,D
+1905-02-25,1904/1905,Lincoln City,Chesterfield,0-0,0,0,Football League Second Division,2,D
+1905-02-25,1904/1905,Doncaster Rovers,Gainsborough Trinity,1-5,1,5,Football League Second Division,2,A
+1905-02-25,1904/1905,Burnley,Port Vale,5-0,5,0,Football League Second Division,2,H
+1905-02-25,1904/1905,Bolton Wanderers,Bradford City,2-0,2,0,Football League Second Division,2,H
+1905-02-25,1904/1905,Blackpool,Burton United,1-0,1,0,Football League Second Division,2,H
+1905-02-25,1904/1905,Barnsley,Manchester United,0-0,0,0,Football League Second Division,2,D
+1905-02-25,1904/1905,Grimsby Town,Liverpool,0-1,0,1,Football League Second Division,2,A
+1905-03-04,1904/1905,Sunderland,Arsenal,1-1,1,1,Football League First Division,1,D
+1905-03-04,1904/1905,Middlesbrough,Nottingham Forest,0-0,0,0,Football League First Division,1,D
+1905-03-04,1904/1905,Derby County,Manchester City,0-1,0,1,Football League First Division,1,A
+1905-03-04,1904/1905,Blackburn Rovers,Birmingham City,1-4,1,4,Football League First Division,1,A
+1905-03-04,1904/1905,Port Vale,Grimsby Town,2-0,2,0,Football League Second Division,2,H
+1905-03-04,1904/1905,Manchester United,West Bromwich Albion,2-0,2,0,Football League Second Division,2,H
+1905-03-04,1904/1905,Liverpool,Blackpool,5-0,5,0,Football League Second Division,2,H
+1905-03-04,1904/1905,Glossop North End,Barnsley,5-0,5,0,Football League Second Division,2,H
+1905-03-04,1904/1905,Chesterfield,Leicester City,0-0,0,0,Football League Second Division,2,D
+1905-03-04,1904/1905,Bradford City,Lincoln City,0-0,0,0,Football League Second Division,2,D
+1905-03-04,1904/1905,Bristol City,Burnley,0-0,0,0,Football League Second Division,2,D
+1905-03-07,1904/1905,Bradford City,Liverpool,2-4,2,4,Football League Second Division,2,A
+1905-03-07,1904/1905,Glossop North End,West Bromwich Albion,2-1,2,1,Football League Second Division,2,H
+1905-03-11,1904/1905,Stoke City,Arsenal,2-0,2,0,Football League First Division,1,H
+1905-03-11,1904/1905,Preston North End,Middlesbrough,2-0,2,0,Football League First Division,1,H
+1905-03-11,1904/1905,Notts County,Aston Villa,1-2,1,2,Football League First Division,1,A
+1905-03-11,1904/1905,Newcastle United,Wolverhampton Wanderers,3-0,3,0,Football League First Division,1,H
+1905-03-11,1904/1905,Manchester City,Blackburn Rovers,2-1,2,1,Football League First Division,1,H
+1905-03-11,1904/1905,Everton,Sheffield Wednesday,5-2,5,2,Football League First Division,1,H
+1905-03-11,1904/1905,Derby County,Sunderland,1-0,1,0,Football League First Division,1,H
+1905-03-11,1904/1905,Sheffield United,Bury,4-0,4,0,Football League First Division,1,H
+1905-03-11,1904/1905,Birmingham City,Nottingham Forest,1-2,1,2,Football League First Division,1,A
+1905-03-11,1904/1905,Blackpool,Port Vale,3-0,3,0,Football League Second Division,2,H
+1905-03-11,1904/1905,Burnley,Manchester United,2-0,2,0,Football League Second Division,2,H
+1905-03-11,1904/1905,Doncaster Rovers,Liverpool,1-4,1,4,Football League Second Division,2,A
+1905-03-11,1904/1905,West Bromwich Albion,Glossop North End,1-0,1,0,Football League Second Division,2,H
+1905-03-11,1904/1905,Grimsby Town,Bristol City,4-0,4,0,Football League Second Division,2,H
+1905-03-11,1904/1905,Barnsley,Chesterfield,1-0,1,0,Football League Second Division,2,H
+1905-03-11,1904/1905,Gainsborough Trinity,Burton United,2-0,2,0,Football League Second Division,2,H
+1905-03-11,1904/1905,Leicester City,Bradford City,1-2,1,2,Football League Second Division,2,A
+1905-03-18,1904/1905,Sunderland,Everton,2-3,2,3,Football League First Division,1,A
+1905-03-18,1904/1905,Sheffield Wednesday,Birmingham City,3-1,3,1,Football League First Division,1,H
+1905-03-18,1904/1905,Nottingham Forest,Manchester City,2-1,2,1,Football League First Division,1,H
+1905-03-18,1904/1905,Middlesbrough,Stoke City,2-1,2,1,Football League First Division,1,H
+1905-03-18,1904/1905,Bury,Newcastle United,2-4,2,4,Football League First Division,1,A
+1905-03-18,1904/1905,Blackburn Rovers,Notts County,1-0,1,0,Football League First Division,1,H
+1905-03-18,1904/1905,Aston Villa,Sheffield United,3-0,3,0,Football League First Division,1,H
+1905-03-18,1904/1905,Arsenal,Derby County,0-0,0,0,Football League First Division,1,D
+1905-03-18,1904/1905,Wolverhampton Wanderers,Preston North End,0-0,0,0,Football League First Division,1,D
+1905-03-18,1904/1905,Burton United,Bolton Wanderers,0-1,0,1,Football League Second Division,2,A
+1905-03-18,1904/1905,Chesterfield,West Bromwich Albion,1-0,1,0,Football League Second Division,2,H
+1905-03-18,1904/1905,Glossop North End,Burnley,0-0,0,0,Football League Second Division,2,D
+1905-03-18,1904/1905,Port Vale,Doncaster Rovers,2-0,2,0,Football League Second Division,2,H
+1905-03-18,1904/1905,Liverpool,Gainsborough Trinity,6-1,6,1,Football League Second Division,2,H
+1905-03-18,1904/1905,Manchester United,Grimsby Town,2-1,2,1,Football League Second Division,2,H
+1905-03-18,1904/1905,Bristol City,Blackpool,2-0,2,0,Football League Second Division,2,H
+1905-03-18,1904/1905,Lincoln City,Leicester City,5-1,5,1,Football League Second Division,2,H
+1905-03-18,1904/1905,Bradford City,Barnsley,1-2,1,2,Football League Second Division,2,A
+1905-03-25,1904/1905,Middlesbrough,Wolverhampton Wanderers,3-1,3,1,Football League First Division,1,H
+1905-03-25,1904/1905,Sheffield United,Blackburn Rovers,3-1,3,1,Football League First Division,1,H
+1905-03-25,1904/1905,Preston North End,Bury,0-0,0,0,Football League First Division,1,D
+1905-03-25,1904/1905,Notts County,Nottingham Forest,1-2,1,2,Football League First Division,1,A
+1905-03-25,1904/1905,Birmingham City,Sunderland,1-1,1,1,Football League First Division,1,D
+1905-03-25,1904/1905,Burton United,Liverpool,2-1,2,1,Football League Second Division,2,H
+1905-03-25,1904/1905,Grimsby Town,Glossop North End,3-0,3,0,Football League Second Division,2,H
+1905-03-25,1904/1905,West Bromwich Albion,Bradford City,0-2,0,2,Football League Second Division,2,A
+1905-03-25,1904/1905,Gainsborough Trinity,Port Vale,1-0,1,0,Football League Second Division,2,H
+1905-03-25,1904/1905,Doncaster Rovers,Bristol City,0-2,0,2,Football League Second Division,2,A
+1905-03-25,1904/1905,Bolton Wanderers,Leicester City,0-1,0,1,Football League Second Division,2,A
+1905-03-25,1904/1905,Barnsley,Lincoln City,2-1,2,1,Football League Second Division,2,H
+1905-03-25,1904/1905,Blackpool,Manchester United,0-1,0,1,Football League Second Division,2,A
+1905-03-29,1904/1905,Bristol City,Barnsley,3-0,3,0,Football League Second Division,2,H
+1905-04-01,1904/1905,Sheffield Wednesday,Notts County,1-0,1,0,Football League First Division,1,H
+1905-04-01,1904/1905,Sunderland,Manchester City,0-0,0,0,Football League First Division,1,D
+1905-04-01,1904/1905,Nottingham Forest,Sheffield United,1-2,1,2,Football League First Division,1,A
+1905-04-01,1904/1905,Bury,Middlesbrough,1-0,1,0,Football League First Division,1,H
+1905-04-01,1904/1905,Blackburn Rovers,Newcastle United,2-0,2,0,Football League First Division,1,H
+1905-04-01,1904/1905,Arsenal,Birmingham City,1-1,1,1,Football League First Division,1,D
+1905-04-01,1904/1905,Wolverhampton Wanderers,Stoke City,1-3,1,3,Football League First Division,1,A
+1905-04-01,1904/1905,Liverpool,Bolton Wanderers,1-1,1,1,Football League Second Division,2,D
+1905-04-01,1904/1905,Lincoln City,West Bromwich Albion,0-2,0,2,Football League Second Division,2,A
+1905-04-01,1904/1905,Leicester City,Barnsley,2-0,2,0,Football League Second Division,2,H
+1905-04-01,1904/1905,Glossop North End,Blackpool,0-0,0,0,Football League Second Division,2,D
+1905-04-01,1904/1905,Chesterfield,Grimsby Town,0-0,0,0,Football League Second Division,2,D
+1905-04-01,1904/1905,Bristol City,Gainsborough Trinity,1-1,1,1,Football League Second Division,2,D
+1905-04-01,1904/1905,Bradford City,Burnley,4-1,4,1,Football League Second Division,2,H
+1905-04-01,1904/1905,Manchester United,Doncaster Rovers,6-0,6,0,Football League Second Division,2,H
+1905-04-01,1904/1905,Port Vale,Burton United,4-2,4,2,Football League Second Division,2,H
+1905-04-03,1904/1905,Sheffield Wednesday,Derby County,1-1,1,1,Football League First Division,1,D
+1905-04-03,1904/1905,Port Vale,Leicester City,1-3,1,3,Football League Second Division,2,A
+1905-04-05,1904/1905,Newcastle United,Aston Villa,2-0,2,0,Football League First Division,1,H
+1905-04-05,1904/1905,Everton,Arsenal,1-0,1,0,Football League First Division,1,H
+1905-04-05,1904/1905,Leicester City,Burnley,2-2,2,2,Football League Second Division,2,D
+1905-04-08,1904/1905,Wolverhampton Wanderers,Bury,2-0,2,0,Football League First Division,1,H
+1905-04-08,1904/1905,Sheffield United,Sheffield Wednesday,4-2,4,2,Football League First Division,1,H
+1905-04-08,1904/1905,Preston North End,Blackburn Rovers,0-0,0,0,Football League First Division,1,D
+1905-04-08,1904/1905,Notts County,Sunderland,2-2,2,2,Football League First Division,1,D
+1905-04-08,1904/1905,Newcastle United,Nottingham Forest,5-1,5,1,Football League First Division,1,H
+1905-04-08,1904/1905,Middlesbrough,Aston Villa,3-1,3,1,Football League First Division,1,H
+1905-04-08,1904/1905,Manchester City,Arsenal,1-0,1,0,Football League First Division,1,H
+1905-04-08,1904/1905,Birmingham City,Derby County,2-0,2,0,Football League First Division,1,H
+1905-04-08,1904/1905,Stoke City,Everton,2-2,2,2,Football League First Division,1,D
+1905-04-08,1904/1905,West Bromwich Albion,Leicester City,2-0,2,0,Football League Second Division,2,H
+1905-04-08,1904/1905,Liverpool,Port Vale,8-1,8,1,Football League Second Division,2,H
+1905-04-08,1904/1905,Grimsby Town,Bradford City,0-2,0,2,Football League Second Division,2,A
+1905-04-08,1904/1905,Gainsborough Trinity,Manchester United,0-0,0,0,Football League Second Division,2,D
+1905-04-08,1904/1905,Doncaster Rovers,Glossop North End,2-1,2,1,Football League Second Division,2,H
+1905-04-08,1904/1905,Burnley,Lincoln City,2-1,2,1,Football League Second Division,2,H
+1905-04-08,1904/1905,Blackpool,Chesterfield,1-1,1,1,Football League Second Division,2,D
+1905-04-08,1904/1905,Burton United,Bristol City,2-0,2,0,Football League Second Division,2,H
+1905-04-10,1904/1905,Preston North End,Stoke City,2-1,2,1,Football League First Division,1,H
+1905-04-12,1904/1905,Gainsborough Trinity,Bolton Wanderers,0-4,0,4,Football League Second Division,2,A
+1905-04-15,1904/1905,Stoke City,Bury,2-0,2,0,Football League First Division,1,H
+1905-04-15,1904/1905,Manchester City,Sheffield Wednesday,1-1,1,1,Football League First Division,1,D
+1905-04-15,1904/1905,Everton,Birmingham City,2-1,2,1,Football League First Division,1,H
+1905-04-15,1904/1905,Blackburn Rovers,Middlesbrough,0-2,0,2,Football League First Division,1,A
+1905-04-15,1904/1905,Arsenal,Notts County,1-2,1,2,Football League First Division,1,A
+1905-04-15,1904/1905,Bristol City,Liverpool,0-1,0,1,Football League Second Division,2,A
+1905-04-15,1904/1905,Manchester United,Burton United,5-0,5,0,Football League Second Division,2,H
+1905-04-15,1904/1905,Lincoln City,Grimsby Town,0-0,0,0,Football League Second Division,2,D
+1905-04-15,1904/1905,Glossop North End,Gainsborough Trinity,3-1,3,1,Football League Second Division,2,H
+1905-04-15,1904/1905,Chesterfield,Doncaster Rovers,4-1,4,1,Football League Second Division,2,H
+1905-04-15,1904/1905,Bradford City,Blackpool,3-1,3,1,Football League Second Division,2,H
+1905-04-15,1904/1905,Barnsley,West Bromwich Albion,1-1,1,1,Football League Second Division,2,D
+1905-04-15,1904/1905,Bolton Wanderers,Port Vale,3-1,3,1,Football League Second Division,2,H
+1905-04-21,1904/1905,Preston North End,Sheffield United,4-0,4,0,Football League First Division,1,H
+1905-04-21,1904/1905,Newcastle United,Stoke City,4-1,4,1,Football League First Division,1,H
+1905-04-21,1904/1905,Manchester City,Everton,2-0,2,0,Football League First Division,1,H
+1905-04-21,1904/1905,Bury,Notts County,2-0,2,0,Football League First Division,1,H
+1905-04-21,1904/1905,Burton United,West Bromwich Albion,0-6,0,6,Football League Second Division,2,A
+1905-04-21,1904/1905,Port Vale,Gainsborough Trinity,3-2,3,2,Football League Second Division,2,H
+1905-04-21,1904/1905,Liverpool,Doncaster Rovers,1-0,1,0,Football League Second Division,2,H
+1905-04-21,1904/1905,Lincoln City,Burnley,2-0,2,0,Football League Second Division,2,H
+1905-04-21,1904/1905,Glossop North End,Leicester City,0-0,0,0,Football League Second Division,2,D
+1905-04-21,1904/1905,Chesterfield,Manchester United,2-0,2,0,Football League Second Division,2,H
+1905-04-21,1904/1905,Blackpool,Bolton Wanderers,0-2,0,2,Football League Second Division,2,A
+1905-04-22,1904/1905,Wolverhampton Wanderers,Blackburn Rovers,2-0,2,0,Football League First Division,1,H
+1905-04-22,1904/1905,Preston North End,Sheffield Wednesday,1-0,1,0,Football League First Division,1,H
+1905-04-22,1904/1905,Newcastle United,Sunderland,1-3,1,3,Football League First Division,1,A
+1905-04-22,1904/1905,Bury,Aston Villa,2-3,2,3,Football League First Division,1,A
+1905-04-22,1904/1905,Birmingham City,Stoke City,0-1,0,1,Football League First Division,1,A
+1905-04-22,1904/1905,Arsenal,Everton,2-1,2,1,Football League First Division,1,H
+1905-04-22,1904/1905,Gainsborough Trinity,Chesterfield,1-1,1,1,Football League Second Division,2,D
+1905-04-22,1904/1905,Grimsby Town,Leicester City,2-0,2,0,Football League Second Division,2,H
+1905-04-22,1904/1905,Doncaster Rovers,Bradford City,0-1,0,1,Football League Second Division,2,A
+1905-04-22,1904/1905,Port Vale,Bristol City,3-2,3,2,Football League Second Division,2,H
+1905-04-22,1904/1905,West Bromwich Albion,Bolton Wanderers,0-1,0,1,Football League Second Division,2,A
+1905-04-22,1904/1905,Liverpool,Manchester United,4-0,4,0,Football League Second Division,2,H
+1905-04-22,1904/1905,Burton United,Glossop North End,2-2,2,2,Football League Second Division,2,D
+1905-04-22,1904/1905,Blackpool,Lincoln City,1-0,1,0,Football League Second Division,2,H
+1905-04-22,1904/1905,Burnley,Barnsley,3-0,3,0,Football League Second Division,2,H
+1905-04-24,1904/1905,Wolverhampton Wanderers,Manchester City,0-3,0,3,Football League First Division,1,A
+1905-04-24,1904/1905,Sunderland,Sheffield United,2-1,2,1,Football League First Division,1,H
+1905-04-24,1904/1905,Nottingham Forest,Everton,0-2,0,2,Football League First Division,1,A
+1905-04-24,1904/1905,Middlesbrough,Notts County,2-5,2,5,Football League First Division,1,A
+1905-04-24,1904/1905,Manchester United,Blackpool,3-1,3,1,Football League Second Division,2,H
+1905-04-24,1904/1905,Doncaster Rovers,Grimsby Town,0-2,0,2,Football League Second Division,2,A
+1905-04-24,1904/1905,Chesterfield,Port Vale,2-1,2,1,Football League Second Division,2,H
+1905-04-24,1904/1905,Burton United,Gainsborough Trinity,1-3,1,3,Football League Second Division,2,A
+1905-04-24,1904/1905,Bradford City,Leicester City,0-0,0,0,Football League Second Division,2,D
+1905-04-24,1904/1905,Barnsley,Bolton Wanderers,2-1,2,1,Football League Second Division,2,H
+1905-04-25,1904/1905,Barnsley,Doncaster Rovers,2-1,2,1,Football League Second Division,2,H
+1905-04-25,1904/1905,Bristol City,Lincoln City,2-0,2,0,Football League Second Division,2,H
+1905-04-26,1904/1905,Sheffield Wednesday,Newcastle United,1-3,1,3,Football League First Division,1,A
+1905-04-27,1904/1905,Aston Villa,Wolverhampton Wanderers,3-0,3,0,Football League First Division,1,H
+1905-04-29,1904/1905,Stoke City,Birmingham City,1-0,1,0,Football League First Division,1,H
+1905-04-29,1904/1905,Middlesbrough,Newcastle United,0-3,0,3,Football League First Division,1,A
+1905-04-29,1904/1905,Aston Villa,Manchester City,3-2,3,2,Football League First Division,1,H
+1905-04-29,1904/1905,Liverpool,Burnley,3-0,3,0,Football League Second Division,2,H
+1905-04-29,1904/1905,Glossop North End,Grimsby Town,2-0,2,0,Football League Second Division,2,H
+1905-04-29,1904/1905,Chesterfield,Blackpool,2-0,2,0,Football League Second Division,2,H

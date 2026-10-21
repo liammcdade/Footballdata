@@ -1,0 +1,2029 @@
+Date,Season,HomeTeam,AwayTeam,Score,hGoal,aGoal,Division,Tier,Result
+1969-08-09,1969/1970,Ipswich Town,Nottingham Forest,0-0,0,0,Football League First Division,1,D
+1969-08-09,1969/1970,Leeds United,Tottenham Hotspur,3-1,3,1,Football League First Division,1,H
+1969-08-09,1969/1970,Liverpool,Chelsea,4-1,4,1,Football League First Division,1,H
+1969-08-09,1969/1970,Manchester City,Sheffield Wednesday,4-1,4,1,Football League First Division,1,H
+1969-08-09,1969/1970,Southampton,West Bromwich Albion,0-2,0,2,Football League First Division,1,A
+1969-08-09,1969/1970,Sunderland,Coventry City,0-0,0,0,Football League First Division,1,D
+1969-08-09,1969/1970,West Ham United,Newcastle United,1-0,1,0,Football League First Division,1,H
+1969-08-09,1969/1970,Wolverhampton Wanderers,Stoke City,3-1,3,1,Football League First Division,1,H
+1969-08-09,1969/1970,Derby County,Burnley,0-0,0,0,Football League First Division,1,D
+1969-08-09,1969/1970,Arsenal,Everton,0-1,0,1,Football League First Division,1,A
+1969-08-09,1969/1970,Crystal Palace,Manchester United,2-2,2,2,Football League First Division,1,D
+1969-08-09,1969/1970,Notts County,Oldham Athletic,0-0,0,0,Football League Fourth Division,4,D
+1969-08-09,1969/1970,Crewe Alexandra,Northampton Town,2-0,2,0,Football League Fourth Division,4,H
+1969-08-09,1969/1970,Darlington,Southend United,0-2,0,2,Football League Fourth Division,4,A
+1969-08-09,1969/1970,Hartlepool United,Brentford,0-0,0,0,Football League Fourth Division,4,D
+1969-08-09,1969/1970,Lincoln City,Colchester United,3-3,3,3,Football League Fourth Division,4,D
+1969-08-09,1969/1970,Newport County,York City,1-2,1,2,Football League Fourth Division,4,A
+1969-08-09,1969/1970,Port Vale,Peterborough United,0-0,0,0,Football League Fourth Division,4,D
+1969-08-09,1969/1970,Scunthorpe United,Chester,2-3,2,3,Football League Fourth Division,4,A
+1969-08-09,1969/1970,Swansea City,Chesterfield,0-0,0,0,Football League Fourth Division,4,D
+1969-08-09,1969/1970,Workington,Grimsby Town,0-0,0,0,Football League Fourth Division,4,D
+1969-08-09,1969/1970,Wrexham,Exeter City,3-0,3,0,Football League Fourth Division,4,H
+1969-08-09,1969/1970,Bradford Park Avenue,Aldershot,2-0,2,0,Football League Fourth Division,4,H
+1969-08-09,1969/1970,Sheffield United,Middlesbrough,3-0,3,0,Football League Second Division,2,H
+1969-08-09,1969/1970,Blackburn Rovers,Swindon Town,2-0,2,0,Football League Second Division,2,H
+1969-08-09,1969/1970,Blackpool,Portsmouth,2-1,2,1,Football League Second Division,2,H
+1969-08-09,1969/1970,Bolton Wanderers,Millwall,4-1,4,1,Football League Second Division,2,H
+1969-08-09,1969/1970,Bristol City,Watford,1-0,1,0,Football League Second Division,2,H
+1969-08-09,1969/1970,Carlisle United,Cardiff City,2-3,2,3,Football League Second Division,2,A
+1969-08-09,1969/1970,Charlton Athletic,Preston North End,2-1,2,1,Football League Second Division,2,H
+1969-08-09,1969/1970,Leicester City,Birmingham City,3-1,3,1,Football League Second Division,2,H
+1969-08-09,1969/1970,Oxford United,Huddersfield Town,1-2,1,2,Football League Second Division,2,A
+1969-08-09,1969/1970,Queens Park Rangers,Hull City,3-0,3,0,Football League Second Division,2,H
+1969-08-09,1969/1970,Aston Villa,Norwich City,0-1,0,1,Football League Second Division,2,A
+1969-08-09,1969/1970,Halifax Town,Shrewsbury Town,1-0,1,0,Football League Third Division,3,H
+1969-08-09,1969/1970,Luton Town,Barrow,3-0,3,0,Football League Third Division,3,H
+1969-08-09,1969/1970,Mansfield Town,Gillingham,1-0,1,0,Football League Third Division,3,H
+1969-08-09,1969/1970,Reading,Plymouth Argyle,2-1,2,1,Football League Third Division,3,H
+1969-08-09,1969/1970,Rochdale,Leyton Orient,0-3,0,3,Football League Third Division,3,A
+1969-08-09,1969/1970,Rotherham United,Bury,4-3,4,3,Football League Third Division,3,H
+1969-08-09,1969/1970,Southport,Bristol Rovers,0-0,0,0,Football League Third Division,3,D
+1969-08-09,1969/1970,Torquay United,Doncaster Rovers,2-1,2,1,Football League Third Division,3,H
+1969-08-09,1969/1970,Tranmere Rovers,Stockport County,3-0,3,0,Football League Third Division,3,H
+1969-08-09,1969/1970,Fulham,Bradford City,0-0,0,0,Football League Third Division,3,D
+1969-08-09,1969/1970,Brighton & Hove Albion,Walsall,1-1,1,1,Football League Third Division,3,D
+1969-08-09,1969/1970,Barnsley,AFC Bournemouth,1-0,1,0,Football League Third Division,3,H
+1969-08-11,1969/1970,West Ham United,Chelsea,2-0,2,0,Football League First Division,1,H
+1969-08-12,1969/1970,Coventry City,West Bromwich Albion,3-1,3,1,Football League First Division,1,H
+1969-08-12,1969/1970,Ipswich Town,Derby County,0-1,0,1,Football League First Division,1,A
+1969-08-12,1969/1970,Liverpool,Manchester City,3-2,3,2,Football League First Division,1,H
+1969-08-12,1969/1970,Nottingham Forest,Stoke City,0-0,0,0,Football League First Division,1,D
+1969-08-12,1969/1970,Middlesbrough,Millwall,3-1,3,1,Football League Second Division,2,H
+1969-08-12,1969/1970,Sheffield United,Charlton Athletic,2-0,2,0,Football League Second Division,2,H
+1969-08-13,1969/1970,Tottenham Hotspur,Burnley,4-0,4,0,Football League First Division,1,H
+1969-08-13,1969/1970,Wolverhampton Wanderers,Southampton,2-1,2,1,Football League First Division,1,H
+1969-08-13,1969/1970,Manchester United,Everton,0-2,0,2,Football League First Division,1,A
+1969-08-13,1969/1970,Leeds United,Arsenal,0-0,0,0,Football League First Division,1,D
+1969-08-13,1969/1970,Crystal Palace,Sunderland,2-0,2,0,Football League First Division,1,H
+1969-08-13,1969/1970,Newcastle United,Sheffield Wednesday,3-1,3,1,Football League First Division,1,H
+1969-08-13,1969/1970,Hull City,Norwich City,1-0,1,0,Football League Second Division,2,H
+1969-08-13,1969/1970,Cardiff City,Swindon Town,2-2,2,2,Football League Second Division,2,D
+1969-08-15,1969/1970,Southend United,Scunthorpe United,3-0,3,0,Football League Fourth Division,4,H
+1969-08-16,1969/1970,Burnley,Sunderland,3-0,3,0,Football League First Division,1,H
+1969-08-16,1969/1970,Chelsea,Ipswich Town,1-0,1,0,Football League First Division,1,H
+1969-08-16,1969/1970,Coventry City,Derby County,1-1,1,1,Football League First Division,1,D
+1969-08-16,1969/1970,Manchester United,Southampton,1-4,1,4,Football League First Division,1,A
+1969-08-16,1969/1970,Newcastle United,Manchester City,1-0,1,0,Football League First Division,1,H
+1969-08-16,1969/1970,Nottingham Forest,Leeds United,1-4,1,4,Football League First Division,1,A
+1969-08-16,1969/1970,Sheffield Wednesday,Wolverhampton Wanderers,2-3,2,3,Football League First Division,1,A
+1969-08-16,1969/1970,Stoke City,West Ham United,2-1,2,1,Football League First Division,1,H
+1969-08-16,1969/1970,Tottenham Hotspur,Liverpool,0-2,0,2,Football League First Division,1,A
+1969-08-16,1969/1970,Everton,Crystal Palace,2-1,2,1,Football League First Division,1,H
+1969-08-16,1969/1970,West Bromwich Albion,Arsenal,0-1,0,1,Football League First Division,1,A
+1969-08-16,1969/1970,Grimsby Town,Hartlepool United,2-0,2,0,Football League Fourth Division,4,H
+1969-08-16,1969/1970,Aldershot,Crewe Alexandra,4-1,4,1,Football League Fourth Division,4,H
+1969-08-16,1969/1970,Brentford,Notts County,1-0,1,0,Football League Fourth Division,4,H
+1969-08-16,1969/1970,Chester,Swansea City,2-2,2,2,Football League Fourth Division,4,D
+1969-08-16,1969/1970,Colchester United,Wrexham,2-0,2,0,Football League Fourth Division,4,H
+1969-08-16,1969/1970,Exeter City,Darlington,1-2,1,2,Football League Fourth Division,4,A
+1969-08-16,1969/1970,Oldham Athletic,Newport County,3-0,3,0,Football League Fourth Division,4,H
+1969-08-16,1969/1970,Peterborough United,Bradford Park Avenue,2-1,2,1,Football League Fourth Division,4,H
+1969-08-16,1969/1970,York City,Lincoln City,2-0,2,0,Football League Fourth Division,4,H
+1969-08-16,1969/1970,Chesterfield,Port Vale,0-1,0,1,Football League Fourth Division,4,A
+1969-08-16,1969/1970,Swindon Town,Carlisle United,2-2,2,2,Football League Second Division,2,D
+1969-08-16,1969/1970,Watford,Bolton Wanderers,0-0,0,0,Football League Second Division,2,D
+1969-08-16,1969/1970,Birmingham City,Oxford United,1-3,1,3,Football League Second Division,2,A
+1969-08-16,1969/1970,Cardiff City,Blackburn Rovers,0-0,0,0,Football League Second Division,2,D
+1969-08-16,1969/1970,Huddersfield Town,Aston Villa,2-0,2,0,Football League Second Division,2,H
+1969-08-16,1969/1970,Hull City,Bristol City,2-0,2,0,Football League Second Division,2,H
+1969-08-16,1969/1970,Middlesbrough,Leicester City,2-1,2,1,Football League Second Division,2,H
+1969-08-16,1969/1970,Millwall,Charlton Athletic,1-1,1,1,Football League Second Division,2,D
+1969-08-16,1969/1970,Norwich City,Blackpool,3-1,3,1,Football League Second Division,2,H
+1969-08-16,1969/1970,Portsmouth,Sheffield United,1-5,1,5,Football League Second Division,2,A
+1969-08-16,1969/1970,Preston North End,Queens Park Rangers,0-0,0,0,Football League Second Division,2,D
+1969-08-16,1969/1970,Bradford City,Torquay United,2-1,2,1,Football League Third Division,3,H
+1969-08-16,1969/1970,Bristol Rovers,Barnsley,3-3,3,3,Football League Third Division,3,D
+1969-08-16,1969/1970,Bury,Fulham,1-0,1,0,Football League Third Division,3,H
+1969-08-16,1969/1970,Doncaster Rovers,Mansfield Town,2-0,2,0,Football League Third Division,3,H
+1969-08-16,1969/1970,Shrewsbury Town,Rotherham United,1-0,1,0,Football League Third Division,3,H
+1969-08-16,1969/1970,Gillingham,Reading,1-3,1,3,Football League Third Division,3,A
+1969-08-16,1969/1970,Leyton Orient,Halifax Town,1-0,1,0,Football League Third Division,3,H
+1969-08-16,1969/1970,Plymouth Argyle,Brighton & Hove Albion,0-1,0,1,Football League Third Division,3,A
+1969-08-16,1969/1970,Stockport County,Rochdale,0-1,0,1,Football League Third Division,3,A
+1969-08-16,1969/1970,Barrow,Tranmere Rovers,0-3,0,3,Football League Third Division,3,A
+1969-08-16,1969/1970,Walsall,Southport,4-0,4,0,Football League Third Division,3,H
+1969-08-16,1969/1970,AFC Bournemouth,Luton Town,0-1,0,1,Football League Third Division,3,A
+1969-08-18,1969/1970,Blackpool,Blackburn Rovers,0-0,0,0,Football League Second Division,2,D
+1969-08-18,1969/1970,Millwall,Middlesbrough,1-1,1,1,Football League Second Division,2,D
+1969-08-19,1969/1970,Arsenal,Leeds United,1-1,1,1,Football League First Division,1,D
+1969-08-19,1969/1970,Everton,Manchester United,3-0,3,0,Football League First Division,1,H
+1969-08-19,1969/1970,Burnley,Tottenham Hotspur,0-2,0,2,Football League First Division,1,A
+1969-08-19,1969/1970,Swindon Town,Cardiff City,2-1,2,1,Football League Second Division,2,H
+1969-08-19,1969/1970,Huddersfield Town,Preston North End,3-2,3,2,Football League Second Division,2,H
+1969-08-19,1969/1970,Charlton Athletic,Sheffield United,3-2,3,2,Football League Second Division,2,H
+1969-08-19,1969/1970,Carlisle United,Aston Villa,1-1,1,1,Football League Second Division,2,D
+1969-08-19,1969/1970,Birmingham City,Portsmouth,1-1,1,1,Football League Second Division,2,D
+1969-08-20,1969/1970,West Bromwich Albion,Coventry City,0-1,0,1,Football League First Division,1,A
+1969-08-20,1969/1970,Sunderland,Crystal Palace,0-0,0,0,Football League First Division,1,D
+1969-08-20,1969/1970,Chelsea,West Ham United,0-0,0,0,Football League First Division,1,D
+1969-08-20,1969/1970,Southampton,Wolverhampton Wanderers,2-3,2,3,Football League First Division,1,A
+1969-08-20,1969/1970,Sheffield Wednesday,Newcastle United,1-0,1,0,Football League First Division,1,H
+1969-08-20,1969/1970,Manchester City,Liverpool,0-2,0,2,Football League First Division,1,A
+1969-08-20,1969/1970,Derby County,Ipswich Town,3-1,3,1,Football League First Division,1,H
+1969-08-20,1969/1970,Stoke City,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1969-08-20,1969/1970,Watford,Queens Park Rangers,0-1,0,1,Football League Second Division,2,A
+1969-08-20,1969/1970,Norwich City,Hull City,2-1,2,1,Football League Second Division,2,H
+1969-08-20,1969/1970,Leicester City,Bolton Wanderers,2-2,2,2,Football League Second Division,2,D
+1969-08-23,1969/1970,Arsenal,Nottingham Forest,2-1,2,1,Football League First Division,1,H
+1969-08-23,1969/1970,Crystal Palace,Tottenham Hotspur,0-2,0,2,Football League First Division,1,A
+1969-08-23,1969/1970,Derby County,Stoke City,0-0,0,0,Football League First Division,1,D
+1969-08-23,1969/1970,Ipswich Town,Coventry City,0-1,0,1,Football League First Division,1,A
+1969-08-23,1969/1970,Leeds United,Newcastle United,1-1,1,1,Football League First Division,1,D
+1969-08-23,1969/1970,Liverpool,Burnley,3-3,3,3,Football League First Division,1,D
+1969-08-23,1969/1970,Manchester City,Everton,1-1,1,1,Football League First Division,1,D
+1969-08-23,1969/1970,Southampton,Chelsea,2-2,2,2,Football League First Division,1,D
+1969-08-23,1969/1970,West Ham United,West Bromwich Albion,1-3,1,3,Football League First Division,1,A
+1969-08-23,1969/1970,Sunderland,Sheffield Wednesday,1-2,1,2,Football League First Division,1,A
+1969-08-23,1969/1970,Wolverhampton Wanderers,Manchester United,0-0,0,0,Football League First Division,1,D
+1969-08-23,1969/1970,Wrexham,Chester,2-0,2,0,Football League Fourth Division,4,H
+1969-08-23,1969/1970,Darlington,Chesterfield,0-1,0,1,Football League Fourth Division,4,A
+1969-08-23,1969/1970,Crewe Alexandra,Brentford,1-2,1,2,Football League Fourth Division,4,A
+1969-08-23,1969/1970,Hartlepool United,York City,2-2,2,2,Football League Fourth Division,4,D
+1969-08-23,1969/1970,Lincoln City,Southend United,3-3,3,3,Football League Fourth Division,4,D
+1969-08-23,1969/1970,Newport County,Exeter City,2-0,2,0,Football League Fourth Division,4,H
+1969-08-23,1969/1970,Notts County,Colchester United,1-1,1,1,Football League Fourth Division,4,D
+1969-08-23,1969/1970,Port Vale,Northampton Town,4-1,4,1,Football League Fourth Division,4,H
+1969-08-23,1969/1970,Scunthorpe United,Peterborough United,2-1,2,1,Football League Fourth Division,4,H
+1969-08-23,1969/1970,Swansea City,Aldershot,1-1,1,1,Football League Fourth Division,4,D
+1969-08-23,1969/1970,Workington,Oldham Athletic,1-0,1,0,Football League Fourth Division,4,H
+1969-08-23,1969/1970,Bradford Park Avenue,Grimsby Town,1-1,1,1,Football League Fourth Division,4,D
+1969-08-23,1969/1970,Bristol City,Cardiff City,0-2,0,2,Football League Second Division,2,A
+1969-08-23,1969/1970,Sheffield United,Huddersfield Town,0-0,0,0,Football League Second Division,2,D
+1969-08-23,1969/1970,Aston Villa,Swindon Town,0-2,0,2,Football League Second Division,2,A
+1969-08-23,1969/1970,Blackburn Rovers,Hull City,2-1,2,1,Football League Second Division,2,H
+1969-08-23,1969/1970,Blackpool,Birmingham City,2-0,2,0,Football League Second Division,2,H
+1969-08-23,1969/1970,Bolton Wanderers,Preston North End,2-0,2,0,Football League Second Division,2,H
+1969-08-23,1969/1970,Carlisle United,Middlesbrough,1-0,1,0,Football League Second Division,2,H
+1969-08-23,1969/1970,Charlton Athletic,Watford,0-0,0,0,Football League Second Division,2,D
+1969-08-23,1969/1970,Leicester City,Norwich City,3-0,3,0,Football League Second Division,2,H
+1969-08-23,1969/1970,Oxford United,Portsmouth,0-2,0,2,Football League Second Division,2,A
+1969-08-23,1969/1970,Queens Park Rangers,Millwall,3-2,3,2,Football League Second Division,2,H
+1969-08-23,1969/1970,Halifax Town,Bradford City,0-0,0,0,Football League Third Division,3,D
+1969-08-23,1969/1970,Luton Town,Leyton Orient,3-2,3,2,Football League Third Division,3,H
+1969-08-23,1969/1970,Mansfield Town,Walsall,0-0,0,0,Football League Third Division,3,D
+1969-08-23,1969/1970,Reading,Bristol Rovers,1-5,1,5,Football League Third Division,3,A
+1969-08-23,1969/1970,Rochdale,Bury,3-3,3,3,Football League Third Division,3,D
+1969-08-23,1969/1970,Rotherham United,Doncaster Rovers,0-1,0,1,Football League Third Division,3,A
+1969-08-23,1969/1970,Southport,Barrow,1-0,1,0,Football League Third Division,3,H
+1969-08-23,1969/1970,Torquay United,Plymouth Argyle,1-2,1,2,Football League Third Division,3,A
+1969-08-23,1969/1970,Tranmere Rovers,Shrewsbury Town,3-1,3,1,Football League Third Division,3,H
+1969-08-23,1969/1970,Fulham,Gillingham,2-1,2,1,Football League Third Division,3,H
+1969-08-23,1969/1970,Brighton & Hove Albion,AFC Bournemouth,1-1,1,1,Football League Third Division,3,D
+1969-08-23,1969/1970,Barnsley,Stockport County,1-0,1,0,Football League Third Division,3,H
+1969-08-25,1969/1970,West Ham United,Arsenal,1-1,1,1,Football League First Division,1,D
+1969-08-25,1969/1970,York City,Exeter City,1-0,1,0,Football League Fourth Division,4,H
+1969-08-25,1969/1970,Southend United,Grimsby Town,1-3,1,3,Football League Fourth Division,4,A
+1969-08-25,1969/1970,Hartlepool United,Swansea City,3-0,3,0,Football League Fourth Division,4,H
+1969-08-25,1969/1970,Darlington,Newport County,0-0,0,0,Football League Fourth Division,4,D
+1969-08-25,1969/1970,Colchester United,Peterborough United,2-1,2,1,Football League Fourth Division,4,H
+1969-08-25,1969/1970,Preston North End,Watford,3-0,3,0,Football League Second Division,2,H
+1969-08-25,1969/1970,Barrow,Leyton Orient,1-1,1,1,Football League Third Division,3,D
+1969-08-25,1969/1970,Stockport County,Gillingham,1-0,1,0,Football League Third Division,3,H
+1969-08-26,1969/1970,Nottingham Forest,West Bromwich Albion,1-0,1,0,Football League First Division,1,H
+1969-08-26,1969/1970,Everton,Sheffield Wednesday,2-1,2,1,Football League First Division,1,H
+1969-08-26,1969/1970,Burnley,Leeds United,1-1,1,1,Football League First Division,1,D
+1969-08-26,1969/1970,Scunthorpe United,Bradford Park Avenue,2-0,2,0,Football League Fourth Division,4,H
+1969-08-26,1969/1970,Northampton Town,Oldham Athletic,0-0,0,0,Football League Fourth Division,4,D
+1969-08-26,1969/1970,Sheffield United,Bristol City,2-1,2,1,Football League Second Division,2,H
+1969-08-26,1969/1970,Huddersfield Town,Blackburn Rovers,0-1,0,1,Football League Second Division,2,A
+1969-08-26,1969/1970,Charlton Athletic,Oxford United,1-0,1,0,Football League Second Division,2,H
+1969-08-26,1969/1970,Carlisle United,Bolton Wanderers,2-1,2,1,Football League Second Division,2,H
+1969-08-26,1969/1970,Queens Park Rangers,Blackpool,6-1,6,1,Football League Second Division,2,H
+1969-08-26,1969/1970,Rotherham United,Mansfield Town,2-2,2,2,Football League Third Division,3,D
+1969-08-26,1969/1970,Luton Town,Halifax Town,1-1,1,1,Football League Third Division,3,D
+1969-08-26,1969/1970,Bury,AFC Bournemouth,1-0,1,0,Football League Third Division,3,H
+1969-08-26,1969/1970,Bristol Rovers,Plymouth Argyle,3-1,3,1,Football League Third Division,3,H
+1969-08-26,1969/1970,Barnsley,Reading,4-3,4,3,Football League Third Division,3,H
+1969-08-27,1969/1970,Wolverhampton Wanderers,Derby County,1-1,1,1,Football League First Division,1,D
+1969-08-27,1969/1970,Tottenham Hotspur,Chelsea,1-1,1,1,Football League First Division,1,D
+1969-08-27,1969/1970,Sunderland,Manchester City,0-4,0,4,Football League First Division,1,A
+1969-08-27,1969/1970,Stoke City,Coventry City,2-0,2,0,Football League First Division,1,H
+1969-08-27,1969/1970,Southampton,Ipswich Town,4-2,4,2,Football League First Division,1,H
+1969-08-27,1969/1970,Manchester United,Newcastle United,0-0,0,0,Football League First Division,1,D
+1969-08-27,1969/1970,Crystal Palace,Liverpool,1-3,1,3,Football League First Division,1,A
+1969-08-27,1969/1970,Workington,Wrexham,2-0,2,0,Football League Fourth Division,4,H
+1969-08-27,1969/1970,Chester,Brentford,1-2,1,2,Football League Fourth Division,4,A
+1969-08-27,1969/1970,Crewe Alexandra,Notts County,1-1,1,1,Football League Fourth Division,4,D
+1969-08-27,1969/1970,Lincoln City,Port Vale,0-0,0,0,Football League Fourth Division,4,D
+1969-08-27,1969/1970,Aldershot,Chesterfield,1-0,1,0,Football League Fourth Division,4,H
+1969-08-27,1969/1970,Norwich City,Portsmouth,0-0,0,0,Football League Second Division,2,D
+1969-08-27,1969/1970,Cardiff City,Middlesbrough,1-0,1,0,Football League Second Division,2,H
+1969-08-27,1969/1970,Aston Villa,Leicester City,0-1,0,1,Football League Second Division,2,A
+1969-08-27,1969/1970,Hull City,Birmingham City,0-0,0,0,Football League Second Division,2,D
+1969-08-27,1969/1970,Shrewsbury Town,Doncaster Rovers,0-0,0,0,Football League Third Division,3,D
+1969-08-27,1969/1970,Brighton & Hove Albion,Rochdale,2-0,2,0,Football League Third Division,3,H
+1969-08-27,1969/1970,Torquay United,Tranmere Rovers,5-1,5,1,Football League Third Division,3,H
+1969-08-27,1969/1970,Bradford City,Walsall,3-0,3,0,Football League Third Division,3,H
+1969-08-27,1969/1970,Fulham,Southport,3-2,3,2,Football League Third Division,3,H
+1969-08-29,1969/1970,Hull City,Blackpool,1-0,1,0,Football League Second Division,2,H
+1969-08-30,1969/1970,Burnley,Manchester City,1-1,1,1,Football League First Division,1,D
+1969-08-30,1969/1970,Chelsea,Crystal Palace,1-1,1,1,Football League First Division,1,D
+1969-08-30,1969/1970,Coventry City,Wolverhampton Wanderers,1-0,1,0,Football League First Division,1,H
+1969-08-30,1969/1970,Everton,Leeds United,3-2,3,2,Football League First Division,1,H
+1969-08-30,1969/1970,Manchester United,Sunderland,3-1,3,1,Football League First Division,1,H
+1969-08-30,1969/1970,Newcastle United,Arsenal,3-1,3,1,Football League First Division,1,H
+1969-08-30,1969/1970,Sheffield Wednesday,Liverpool,1-1,1,1,Football League First Division,1,D
+1969-08-30,1969/1970,Stoke City,Southampton,2-1,2,1,Football League First Division,1,H
+1969-08-30,1969/1970,Tottenham Hotspur,Ipswich Town,3-2,3,2,Football League First Division,1,H
+1969-08-30,1969/1970,Nottingham Forest,West Ham United,1-0,1,0,Football League First Division,1,H
+1969-08-30,1969/1970,West Bromwich Albion,Derby County,0-2,0,2,Football League First Division,1,A
+1969-08-30,1969/1970,Aldershot,Newport County,1-1,1,1,Football League Fourth Division,4,D
+1969-08-30,1969/1970,Brentford,Darlington,1-1,1,1,Football League Fourth Division,4,D
+1969-08-30,1969/1970,Grimsby Town,Wrexham,0-0,0,0,Football League Fourth Division,4,D
+1969-08-30,1969/1970,Chesterfield,Hartlepool United,3-0,3,0,Football League Fourth Division,4,H
+1969-08-30,1969/1970,Colchester United,Port Vale,0-0,0,0,Football League Fourth Division,4,D
+1969-08-30,1969/1970,Exeter City,Bradford Park Avenue,3-0,3,0,Football League Fourth Division,4,H
+1969-08-30,1969/1970,Northampton Town,Lincoln City,1-1,1,1,Football League Fourth Division,4,D
+1969-08-30,1969/1970,Oldham Athletic,Scunthorpe United,1-3,1,3,Football League Fourth Division,4,A
+1969-08-30,1969/1970,Peterborough United,Notts County,1-0,1,0,Football League Fourth Division,4,H
+1969-08-30,1969/1970,Southend United,Crewe Alexandra,2-0,2,0,Football League Fourth Division,4,H
+1969-08-30,1969/1970,York City,Swansea City,3-0,3,0,Football League Fourth Division,4,H
+1969-08-30,1969/1970,Chester,Workington,3-0,3,0,Football League Fourth Division,4,H
+1969-08-30,1969/1970,Watford,Sheffield United,1-2,1,2,Football League Second Division,2,A
+1969-08-30,1969/1970,Birmingham City,Queens Park Rangers,3-0,3,0,Football League Second Division,2,H
+1969-08-30,1969/1970,Swindon Town,Charlton Athletic,5-0,5,0,Football League Second Division,2,H
+1969-08-30,1969/1970,Portsmouth,Blackburn Rovers,2-0,2,0,Football League Second Division,2,H
+1969-08-30,1969/1970,Norwich City,Carlisle United,1-0,1,0,Football League Second Division,2,H
+1969-08-30,1969/1970,Preston North End,Oxford United,0-1,0,1,Football League Second Division,2,A
+1969-08-30,1969/1970,Middlesbrough,Aston Villa,1-0,1,0,Football League Second Division,2,H
+1969-08-30,1969/1970,Huddersfield Town,Bristol City,3-0,3,0,Football League Second Division,2,H
+1969-08-30,1969/1970,Cardiff City,Bolton Wanderers,2-1,2,1,Football League Second Division,2,H
+1969-08-30,1969/1970,Millwall,Leicester City,0-1,0,1,Football League Second Division,2,A
+1969-08-30,1969/1970,Bristol Rovers,Halifax Town,2-0,2,0,Football League Third Division,3,H
+1969-08-30,1969/1970,Bury,Brighton & Hove Albion,1-2,1,2,Football League Third Division,3,A
+1969-08-30,1969/1970,Doncaster Rovers,Barnsley,1-0,1,0,Football League Third Division,3,H
+1969-08-30,1969/1970,Gillingham,Luton Town,0-2,0,2,Football League Third Division,3,A
+1969-08-30,1969/1970,Plymouth Argyle,Tranmere Rovers,2-1,2,1,Football League Third Division,3,H
+1969-08-30,1969/1970,Shrewsbury Town,Reading,0-0,0,0,Football League Third Division,3,D
+1969-08-30,1969/1970,Stockport County,Torquay United,0-1,0,1,Football League Third Division,3,A
+1969-08-30,1969/1970,Walsall,Rochdale,1-4,1,4,Football League Third Division,3,A
+1969-08-30,1969/1970,Bradford City,Southport,1-0,1,0,Football League Third Division,3,H
+1969-08-30,1969/1970,Barrow,Fulham,3-1,3,1,Football League Third Division,3,H
+1969-08-30,1969/1970,Leyton Orient,Mansfield Town,1-0,1,0,Football League Third Division,3,H
+1969-08-30,1969/1970,AFC Bournemouth,Rotherham United,1-0,1,0,Football League Third Division,3,H
+1969-09-06,1969/1970,Southampton,Burnley,1-1,1,1,Football League First Division,1,D
+1969-09-06,1969/1970,Arsenal,Sheffield Wednesday,0-0,0,0,Football League First Division,1,D
+1969-09-06,1969/1970,Crystal Palace,Stoke City,3-1,3,1,Football League First Division,1,H
+1969-09-06,1969/1970,Derby County,Everton,2-1,2,1,Football League First Division,1,H
+1969-09-06,1969/1970,Ipswich Town,Newcastle United,2-0,2,0,Football League First Division,1,H
+1969-09-06,1969/1970,Leeds United,Manchester United,2-2,2,2,Football League First Division,1,D
+1969-09-06,1969/1970,Liverpool,Coventry City,2-1,2,1,Football League First Division,1,H
+1969-09-06,1969/1970,Manchester City,Chelsea,0-0,0,0,Football League First Division,1,D
+1969-09-06,1969/1970,Sunderland,West Bromwich Albion,2-2,2,2,Football League First Division,1,D
+1969-09-06,1969/1970,West Ham United,Tottenham Hotspur,0-1,0,1,Football League First Division,1,A
+1969-09-06,1969/1970,Wolverhampton Wanderers,Nottingham Forest,3-3,3,3,Football League First Division,1,D
+1969-09-06,1969/1970,Bradford Park Avenue,Chesterfield,1-1,1,1,Football League Fourth Division,4,D
+1969-09-06,1969/1970,Wrexham,York City,4-0,4,0,Football League Fourth Division,4,H
+1969-09-06,1969/1970,Darlington,Colchester United,3-2,3,2,Football League Fourth Division,4,H
+1969-09-06,1969/1970,Hartlepool United,Northampton Town,1-1,1,1,Football League Fourth Division,4,D
+1969-09-06,1969/1970,Lincoln City,Oldham Athletic,0-1,0,1,Football League Fourth Division,4,A
+1969-09-06,1969/1970,Newport County,Brentford,1-0,1,0,Football League Fourth Division,4,H
+1969-09-06,1969/1970,Notts County,Grimsby Town,2-1,2,1,Football League Fourth Division,4,H
+1969-09-06,1969/1970,Port Vale,Chester,3-0,3,0,Football League Fourth Division,4,H
+1969-09-06,1969/1970,Scunthorpe United,Exeter City,0-0,0,0,Football League Fourth Division,4,D
+1969-09-06,1969/1970,Swansea City,Southend United,2-0,2,0,Football League Fourth Division,4,H
+1969-09-06,1969/1970,Workington,Aldershot,1-2,1,2,Football League Fourth Division,4,A
+1969-09-06,1969/1970,Crewe Alexandra,Peterborough United,2-0,2,0,Football League Fourth Division,4,H
+1969-09-06,1969/1970,Sheffield United,Norwich City,1-0,1,0,Football League Second Division,2,H
+1969-09-06,1969/1970,Blackburn Rovers,Middlesbrough,4-0,4,0,Football League Second Division,2,H
+1969-09-06,1969/1970,Blackpool,Swindon Town,3-2,3,2,Football League Second Division,2,H
+1969-09-06,1969/1970,Bolton Wanderers,Birmingham City,2-0,2,0,Football League Second Division,2,H
+1969-09-06,1969/1970,Bristol City,Preston North End,0-0,0,0,Football League Second Division,2,D
+1969-09-06,1969/1970,Carlisle United,Hull City,2-1,2,1,Football League Second Division,2,H
+1969-09-06,1969/1970,Charlton Athletic,Cardiff City,0-0,0,0,Football League Second Division,2,D
+1969-09-06,1969/1970,Leicester City,Portsmouth,2-1,2,1,Football League Second Division,2,H
+1969-09-06,1969/1970,Oxford United,Watford,2-1,2,1,Football League Second Division,2,H
+1969-09-06,1969/1970,Queens Park Rangers,Huddersfield Town,4-2,4,2,Football League Second Division,2,H
+1969-09-06,1969/1970,Aston Villa,Millwall,2-2,2,2,Football League Second Division,2,D
+1969-09-06,1969/1970,Halifax Town,Stockport County,1-0,1,0,Football League Third Division,3,H
+1969-09-06,1969/1970,Tranmere Rovers,AFC Bournemouth,1-5,1,5,Football League Third Division,3,A
+1969-09-06,1969/1970,Luton Town,Bristol Rovers,4-0,4,0,Football League Third Division,3,H
+1969-09-06,1969/1970,Mansfield Town,Bradford City,2-1,2,1,Football League Third Division,3,H
+1969-09-06,1969/1970,Reading,Doncaster Rovers,1-0,1,0,Football League Third Division,3,H
+1969-09-06,1969/1970,Rochdale,Barrow,1-0,1,0,Football League Third Division,3,H
+1969-09-06,1969/1970,Rotherham United,Leyton Orient,0-0,0,0,Football League Third Division,3,D
+1969-09-06,1969/1970,Southport,Plymouth Argyle,0-0,0,0,Football League Third Division,3,D
+1969-09-06,1969/1970,Torquay United,Bury,3-0,3,0,Football League Third Division,3,H
+1969-09-06,1969/1970,Fulham,Shrewsbury Town,3-1,3,1,Football League Third Division,3,H
+1969-09-06,1969/1970,Brighton & Hove Albion,Gillingham,3-1,3,1,Football League Third Division,3,H
+1969-09-06,1969/1970,Barnsley,Walsall,2-0,2,0,Football League Third Division,3,H
+1969-09-09,1969/1970,Liverpool,Sunderland,2-0,2,0,Football League First Division,1,H
+1969-09-10,1969/1970,Derby County,Southampton,3-0,3,0,Football League First Division,1,H
+1969-09-10,1969/1970,Torquay United,Stockport County,3-0,3,0,Football League Third Division,3,H
+1969-09-13,1969/1970,Chelsea,Wolverhampton Wanderers,2-2,2,2,Football League First Division,1,D
+1969-09-13,1969/1970,Burnley,Arsenal,0-1,0,1,Football League First Division,1,A
+1969-09-13,1969/1970,Coventry City,Crystal Palace,2-2,2,2,Football League First Division,1,D
+1969-09-13,1969/1970,Manchester United,Liverpool,1-0,1,0,Football League First Division,1,H
+1969-09-13,1969/1970,Newcastle United,Derby County,0-1,0,1,Football League First Division,1,A
+1969-09-13,1969/1970,Nottingham Forest,Southampton,2-1,2,1,Football League First Division,1,H
+1969-09-13,1969/1970,Sheffield Wednesday,Leeds United,1-2,1,2,Football League First Division,1,A
+1969-09-13,1969/1970,Stoke City,Sunderland,4-2,4,2,Football League First Division,1,H
+1969-09-13,1969/1970,Tottenham Hotspur,Manchester City,0-3,0,3,Football League First Division,1,A
+1969-09-13,1969/1970,West Bromwich Albion,Ipswich Town,2-2,2,2,Football League First Division,1,D
+1969-09-13,1969/1970,Everton,West Ham United,2-0,2,0,Football League First Division,1,H
+1969-09-13,1969/1970,York City,Bradford Park Avenue,4-1,4,1,Football League Fourth Division,4,H
+1969-09-13,1969/1970,Aldershot,Wrexham,0-2,0,2,Football League Fourth Division,4,A
+1969-09-13,1969/1970,Chester,Notts County,0-1,0,1,Football League Fourth Division,4,A
+1969-09-13,1969/1970,Chesterfield,Newport County,4-0,4,0,Football League Fourth Division,4,H
+1969-09-13,1969/1970,Colchester United,Crewe Alexandra,1-0,1,0,Football League Fourth Division,4,H
+1969-09-13,1969/1970,Exeter City,Workington,5-1,5,1,Football League Fourth Division,4,H
+1969-09-13,1969/1970,Grimsby Town,Scunthorpe United,1-1,1,1,Football League Fourth Division,4,D
+1969-09-13,1969/1970,Northampton Town,Darlington,1-1,1,1,Football League Fourth Division,4,D
+1969-09-13,1969/1970,Oldham Athletic,Port Vale,2-3,2,3,Football League Fourth Division,4,A
+1969-09-13,1969/1970,Peterborough United,Lincoln City,2-1,2,1,Football League Fourth Division,4,H
+1969-09-13,1969/1970,Southend United,Hartlepool United,0-2,0,2,Football League Fourth Division,4,A
+1969-09-13,1969/1970,Brentford,Swansea City,2-2,2,2,Football League Fourth Division,4,D
+1969-09-13,1969/1970,Watford,Aston Villa,3-0,3,0,Football League Second Division,2,H
+1969-09-13,1969/1970,Cardiff City,Leicester City,1-1,1,1,Football League Second Division,2,D
+1969-09-13,1969/1970,Huddersfield Town,Blackpool,2-0,2,0,Football League Second Division,2,H
+1969-09-13,1969/1970,Hull City,Bolton Wanderers,4-2,4,2,Football League Second Division,2,H
+1969-09-13,1969/1970,Middlesbrough,Bristol City,2-0,2,0,Football League Second Division,2,H
+1969-09-13,1969/1970,Millwall,Carlisle United,4-2,4,2,Football League Second Division,2,H
+1969-09-13,1969/1970,Norwich City,Charlton Athletic,1-1,1,1,Football League Second Division,2,D
+1969-09-13,1969/1970,Swindon Town,Oxford United,0-0,0,0,Football League Second Division,2,D
+1969-09-13,1969/1970,Portsmouth,Queens Park Rangers,1-3,1,3,Football League Second Division,2,A
+1969-09-13,1969/1970,Preston North End,Blackburn Rovers,0-0,0,0,Football League Second Division,2,D
+1969-09-13,1969/1970,Birmingham City,Sheffield United,2-1,2,1,Football League Second Division,2,H
+1969-09-13,1969/1970,Bristol Rovers,Fulham,3-2,3,2,Football League Third Division,3,H
+1969-09-13,1969/1970,Bury,Barnsley,1-2,1,2,Football League Third Division,3,A
+1969-09-13,1969/1970,Doncaster Rovers,Tranmere Rovers,2-1,2,1,Football League Third Division,3,H
+1969-09-13,1969/1970,Gillingham,Rochdale,2-2,2,2,Football League Third Division,3,D
+1969-09-13,1969/1970,Leyton Orient,Brighton & Hove Albion,1-1,1,1,Football League Third Division,3,D
+1969-09-13,1969/1970,Plymouth Argyle,Halifax Town,1-0,1,0,Football League Third Division,3,H
+1969-09-13,1969/1970,Shrewsbury Town,Southport,1-2,1,2,Football League Third Division,3,A
+1969-09-13,1969/1970,Stockport County,Reading,2-2,2,2,Football League Third Division,3,D
+1969-09-13,1969/1970,Walsall,Rotherham United,0-2,0,2,Football League Third Division,3,A
+1969-09-13,1969/1970,Bradford City,Luton Town,1-1,1,1,Football League Third Division,3,D
+1969-09-13,1969/1970,Barrow,Mansfield Town,0-1,0,1,Football League Third Division,3,A
+1969-09-13,1969/1970,AFC Bournemouth,Torquay United,1-2,1,2,Football League Third Division,3,A
+1969-09-15,1969/1970,Wrexham,Scunthorpe United,2-1,2,1,Football League Fourth Division,4,H
+1969-09-15,1969/1970,Port Vale,Crewe Alexandra,2-0,2,0,Football League Fourth Division,4,H
+1969-09-15,1969/1970,Newport County,Hartlepool United,1-1,1,1,Football League Fourth Division,4,D
+1969-09-15,1969/1970,Chesterfield,York City,3-1,3,1,Football League Fourth Division,4,H
+1969-09-15,1969/1970,Brentford,Southend United,3-1,3,1,Football League Fourth Division,4,H
+1969-09-15,1969/1970,Bradford Park Avenue,Workington,2-0,2,0,Football League Fourth Division,4,H
+1969-09-15,1969/1970,Blackpool,Preston North End,0-0,0,0,Football League Second Division,2,D
+1969-09-15,1969/1970,Mansfield Town,Brighton & Hove Albion,1-0,1,0,Football League Third Division,3,H
+1969-09-15,1969/1970,Tranmere Rovers,Barnsley,0-1,0,1,Football League Third Division,3,A
+1969-09-15,1969/1970,Rochdale,Rotherham United,4-2,4,2,Football League Third Division,3,H
+1969-09-15,1969/1970,Leyton Orient,Bradford City,2-1,2,1,Football League Third Division,3,H
+1969-09-16,1969/1970,Ipswich Town,Wolverhampton Wanderers,1-1,1,1,Football League First Division,1,D
+1969-09-16,1969/1970,Coventry City,Nottingham Forest,3-2,3,2,Football League First Division,1,H
+1969-09-16,1969/1970,Arsenal,Tottenham Hotspur,2-3,2,3,Football League First Division,1,A
+1969-09-16,1969/1970,Swansea City,Darlington,3-1,3,1,Football League Fourth Division,4,H
+1969-09-16,1969/1970,Oldham Athletic,Colchester United,1-2,1,2,Football League Fourth Division,4,A
+1969-09-16,1969/1970,Grimsby Town,Chester,4-1,4,1,Football League Fourth Division,4,H
+1969-09-16,1969/1970,Middlesbrough,Swindon Town,0-0,0,0,Football League Second Division,2,D
+1969-09-16,1969/1970,Birmingham City,Norwich City,3-1,3,1,Football League Second Division,2,H
+1969-09-16,1969/1970,Southport,Luton Town,0-3,0,3,Football League Third Division,3,A
+1969-09-16,1969/1970,Walsall,Barrow,1-0,1,0,Football League Third Division,3,H
+1969-09-16,1969/1970,Halifax Town,Fulham,0-8,0,8,Football League Third Division,3,A
+1969-09-16,1969/1970,Doncaster Rovers,Bury,1-1,1,1,Football League Third Division,3,D
+1969-09-17,1969/1970,West Bromwich Albion,Stoke City,1-3,1,3,Football League First Division,1,A
+1969-09-17,1969/1970,Sheffield Wednesday,Manchester United,1-3,1,3,Football League First Division,1,A
+1969-09-17,1969/1970,Newcastle United,Everton,1-2,1,2,Football League First Division,1,A
+1969-09-17,1969/1970,Chelsea,Burnley,2-0,2,0,Football League First Division,1,H
+1969-09-17,1969/1970,Notts County,Lincoln City,2-0,2,0,Football League Fourth Division,4,H
+1969-09-17,1969/1970,Exeter City,Aldershot,2-1,2,1,Football League Fourth Division,4,H
+1969-09-17,1969/1970,Peterborough United,Northampton Town,1-0,1,0,Football League Fourth Division,4,H
+1969-09-17,1969/1970,Watford,Huddersfield Town,1-1,1,1,Football League Second Division,2,D
+1969-09-17,1969/1970,Portsmouth,Hull City,1-4,1,4,Football League Second Division,2,A
+1969-09-17,1969/1970,Leicester City,Carlisle United,1-2,1,2,Football League Second Division,2,A
+1969-09-17,1969/1970,Bolton Wanderers,Aston Villa,2-1,2,1,Football League Second Division,2,H
+1969-09-17,1969/1970,Blackburn Rovers,Queens Park Rangers,0-1,0,1,Football League Second Division,2,A
+1969-09-17,1969/1970,Oxford United,Sheffield United,0-0,0,0,Football League Second Division,2,D
+1969-09-17,1969/1970,Reading,Torquay United,1-1,1,1,Football League Third Division,3,D
+1969-09-17,1969/1970,Plymouth Argyle,Stockport County,2-0,2,0,Football League Third Division,3,H
+1969-09-17,1969/1970,Gillingham,Bristol Rovers,1-0,1,0,Football League Third Division,3,H
+1969-09-17,1969/1970,AFC Bournemouth,Shrewsbury Town,3-3,3,3,Football League Third Division,3,D
+1969-09-20,1969/1970,Derby County,Tottenham Hotspur,5-0,5,0,Football League First Division,1,H
+1969-09-20,1969/1970,Ipswich Town,Everton,0-3,0,3,Football League First Division,1,A
+1969-09-20,1969/1970,Leeds United,Chelsea,2-0,2,0,Football League First Division,1,H
+1969-09-20,1969/1970,Liverpool,Stoke City,3-1,3,1,Football League First Division,1,H
+1969-09-20,1969/1970,Manchester City,Coventry City,3-1,3,1,Football League First Division,1,H
+1969-09-20,1969/1970,Southampton,Newcastle United,1-1,1,1,Football League First Division,1,D
+1969-09-20,1969/1970,Sunderland,Nottingham Forest,2-1,2,1,Football League First Division,1,H
+1969-09-20,1969/1970,West Ham United,Sheffield Wednesday,3-0,3,0,Football League First Division,1,H
+1969-09-20,1969/1970,Wolverhampton Wanderers,Burnley,1-1,1,1,Football League First Division,1,D
+1969-09-20,1969/1970,Crystal Palace,West Bromwich Albion,1-3,1,3,Football League First Division,1,A
+1969-09-20,1969/1970,Arsenal,Manchester United,2-2,2,2,Football League First Division,1,D
+1969-09-20,1969/1970,Bradford Park Avenue,Brentford,0-1,0,1,Football League Fourth Division,4,A
+1969-09-20,1969/1970,Lincoln City,Chester,2-0,2,0,Football League Fourth Division,4,H
+1969-09-20,1969/1970,Darlington,Peterborough United,1-2,1,2,Football League Fourth Division,4,A
+1969-09-20,1969/1970,Hartlepool United,Colchester United,0-0,0,0,Football League Fourth Division,4,D
+1969-09-20,1969/1970,Newport County,Southend United,4-0,4,0,Football League Fourth Division,4,H
+1969-09-20,1969/1970,Notts County,Exeter City,4-0,4,0,Football League Fourth Division,4,H
+1969-09-20,1969/1970,Port Vale,Grimsby Town,1-0,1,0,Football League Fourth Division,4,H
+1969-09-20,1969/1970,Scunthorpe United,Aldershot,0-0,0,0,Football League Fourth Division,4,D
+1969-09-20,1969/1970,Swansea City,Northampton Town,3-2,3,2,Football League Fourth Division,4,H
+1969-09-20,1969/1970,Workington,York City,1-1,1,1,Football League Fourth Division,4,D
+1969-09-20,1969/1970,Wrexham,Chesterfield,2-1,2,1,Football League Fourth Division,4,H
+1969-09-20,1969/1970,Crewe Alexandra,Oldham Athletic,1-1,1,1,Football League Fourth Division,4,D
+1969-09-20,1969/1970,Oxford United,Middlesbrough,1-1,1,1,Football League Second Division,2,D
+1969-09-20,1969/1970,Sheffield United,Cardiff City,1-0,1,0,Football League Second Division,2,H
+1969-09-20,1969/1970,Aston Villa,Hull City,3-2,3,2,Football League Second Division,2,H
+1969-09-20,1969/1970,Blackburn Rovers,Millwall,4-0,4,0,Football League Second Division,2,H
+1969-09-20,1969/1970,Blackpool,Watford,0-3,0,3,Football League Second Division,2,A
+1969-09-20,1969/1970,Bolton Wanderers,Portsmouth,0-1,0,1,Football League Second Division,2,A
+1969-09-20,1969/1970,Bristol City,Norwich City,4-0,4,0,Football League Second Division,2,H
+1969-09-20,1969/1970,Carlisle United,Preston North End,1-0,1,0,Football League Second Division,2,H
+1969-09-20,1969/1970,Charlton Athletic,Birmingham City,0-1,0,1,Football League Second Division,2,A
+1969-09-20,1969/1970,Leicester City,Huddersfield Town,1-1,1,1,Football League Second Division,2,D
+1969-09-20,1969/1970,Queens Park Rangers,Swindon Town,2-0,2,0,Football League Second Division,2,H
+1969-09-20,1969/1970,Torquay United,Walsall,0-0,0,0,Football League Third Division,3,D
+1969-09-20,1969/1970,Southport,Stockport County,1-1,1,1,Football League Third Division,3,D
+1969-09-20,1969/1970,Rotherham United,Gillingham,0-1,0,1,Football League Third Division,3,A
+1969-09-20,1969/1970,Luton Town,Shrewsbury Town,2-2,2,2,Football League Third Division,3,D
+1969-09-20,1969/1970,Reading,AFC Bournemouth,2-0,2,0,Football League Third Division,3,H
+1969-09-20,1969/1970,Mansfield Town,Bristol Rovers,1-1,1,1,Football League Third Division,3,D
+1969-09-20,1969/1970,Tranmere Rovers,Bury,3-2,3,2,Football League Third Division,3,H
+1969-09-20,1969/1970,Halifax Town,Doncaster Rovers,1-1,1,1,Football League Third Division,3,D
+1969-09-20,1969/1970,Rochdale,Bradford City,1-2,1,2,Football League Third Division,3,A
+1969-09-20,1969/1970,Fulham,Plymouth Argyle,4-3,4,3,Football League Third Division,3,H
+1969-09-20,1969/1970,Brighton & Hove Albion,Barrow,2-0,2,0,Football League Third Division,3,H
+1969-09-20,1969/1970,Barnsley,Leyton Orient,1-2,1,2,Football League Third Division,3,A
+1969-09-23,1969/1970,Bristol City,Charlton Athletic,6-0,6,0,Football League Second Division,2,H
+1969-09-27,1969/1970,Burnley,Ipswich Town,0-1,0,1,Football League First Division,1,A
+1969-09-27,1969/1970,Chelsea,Arsenal,3-0,3,0,Football League First Division,1,H
+1969-09-27,1969/1970,Coventry City,Leeds United,1-2,1,2,Football League First Division,1,A
+1969-09-27,1969/1970,Everton,Southampton,4-2,4,2,Football League First Division,1,H
+1969-09-27,1969/1970,Manchester United,West Ham United,5-2,5,2,Football League First Division,1,H
+1969-09-27,1969/1970,Nottingham Forest,Crystal Palace,0-0,0,0,Football League First Division,1,D
+1969-09-27,1969/1970,Sheffield Wednesday,Derby County,1-0,1,0,Football League First Division,1,H
+1969-09-27,1969/1970,Stoke City,Manchester City,2-0,2,0,Football League First Division,1,H
+1969-09-27,1969/1970,Tottenham Hotspur,Sunderland,0-1,0,1,Football League First Division,1,A
+1969-09-27,1969/1970,West Bromwich Albion,Liverpool,2-2,2,2,Football League First Division,1,D
+1969-09-27,1969/1970,Newcastle United,Wolverhampton Wanderers,1-1,1,1,Football League First Division,1,D
+1969-09-27,1969/1970,York City,Scunthorpe United,3-2,3,2,Football League Fourth Division,4,H
+1969-09-27,1969/1970,Brentford,Wrexham,0-0,0,0,Football League Fourth Division,4,D
+1969-09-27,1969/1970,Chester,Crewe Alexandra,2-1,2,1,Football League Fourth Division,4,H
+1969-09-27,1969/1970,Chesterfield,Workington,4-0,4,0,Football League Fourth Division,4,H
+1969-09-27,1969/1970,Colchester United,Swansea City,1-1,1,1,Football League Fourth Division,4,D
+1969-09-27,1969/1970,Exeter City,Port Vale,1-2,1,2,Football League Fourth Division,4,A
+1969-09-27,1969/1970,Grimsby Town,Lincoln City,0-2,0,2,Football League Fourth Division,4,A
+1969-09-27,1969/1970,Northampton Town,Newport County,4-1,4,1,Football League Fourth Division,4,H
+1969-09-27,1969/1970,Oldham Athletic,Darlington,1-1,1,1,Football League Fourth Division,4,D
+1969-09-27,1969/1970,Peterborough United,Hartlepool United,4-0,4,0,Football League Fourth Division,4,H
+1969-09-27,1969/1970,Southend United,Bradford Park Avenue,1-1,1,1,Football League Fourth Division,4,D
+1969-09-27,1969/1970,Aldershot,Notts County,2-0,2,0,Football League Fourth Division,4,H
+1969-09-27,1969/1970,Watford,Blackburn Rovers,0-2,0,2,Football League Second Division,2,A
+1969-09-27,1969/1970,Birmingham City,Carlisle United,1-1,1,1,Football League Second Division,2,D
+1969-09-27,1969/1970,Cardiff City,Queens Park Rangers,4-2,4,2,Football League Second Division,2,H
+1969-09-27,1969/1970,Huddersfield Town,Bolton Wanderers,1-0,1,0,Football League Second Division,2,H
+1969-09-27,1969/1970,Hull City,Charlton Athletic,1-1,1,1,Football League Second Division,2,D
+1969-09-27,1969/1970,Middlesbrough,Blackpool,0-2,0,2,Football League Second Division,2,A
+1969-09-27,1969/1970,Millwall,Bristol City,1-1,1,1,Football League Second Division,2,D
+1969-09-27,1969/1970,Norwich City,Oxford United,2-0,2,0,Football League Second Division,2,H
+1969-09-27,1969/1970,Portsmouth,Aston Villa,0-0,0,0,Football League Second Division,2,D
+1969-09-27,1969/1970,Preston North End,Sheffield United,2-1,2,1,Football League Second Division,2,H
+1969-09-27,1969/1970,Swindon Town,Leicester City,1-1,1,1,Football League Second Division,2,D
+1969-09-27,1969/1970,Bristol Rovers,Rochdale,3-3,3,3,Football League Third Division,3,D
+1969-09-27,1969/1970,Bury,Reading,2-1,2,1,Football League Third Division,3,H
+1969-09-27,1969/1970,Doncaster Rovers,Southport,1-0,1,0,Football League Third Division,3,H
+1969-09-27,1969/1970,Gillingham,Barnsley,1-3,1,3,Football League Third Division,3,A
+1969-09-27,1969/1970,Leyton Orient,Torquay United,1-1,1,1,Football League Third Division,3,D
+1969-09-27,1969/1970,Plymouth Argyle,Luton Town,1-3,1,3,Football League Third Division,3,A
+1969-09-27,1969/1970,Shrewsbury Town,Mansfield Town,0-0,0,0,Football League Third Division,3,D
+1969-09-27,1969/1970,Stockport County,Fulham,1-4,1,4,Football League Third Division,3,A
+1969-09-27,1969/1970,Walsall,Tranmere Rovers,0-0,0,0,Football League Third Division,3,D
+1969-09-27,1969/1970,Bradford City,Brighton & Hove Albion,1-0,1,0,Football League Third Division,3,H
+1969-09-27,1969/1970,Barrow,Rotherham United,1-2,1,2,Football League Third Division,3,A
+1969-09-27,1969/1970,AFC Bournemouth,Halifax Town,0-0,0,0,Football League Third Division,3,D
+1969-09-29,1969/1970,York City,Darlington,2-1,2,1,Football League Fourth Division,4,H
+1969-09-29,1969/1970,Southend United,Port Vale,1-1,1,1,Football League Fourth Division,4,D
+1969-09-29,1969/1970,Colchester United,Scunthorpe United,0-2,0,2,Football League Fourth Division,4,A
+1969-09-29,1969/1970,Chesterfield,Crewe Alexandra,1-0,1,0,Football League Fourth Division,4,H
+1969-09-29,1969/1970,Brentford,Lincoln City,2-1,2,1,Football League Fourth Division,4,H
+1969-09-29,1969/1970,Barrow,Halifax Town,0-1,0,1,Football League Third Division,3,A
+1969-09-29,1969/1970,Plymouth Argyle,Barnsley,0-0,0,0,Football League Third Division,3,D
+1969-09-29,1969/1970,Leyton Orient,Fulham,3-1,3,1,Football League Third Division,3,H
+1969-09-29,1969/1970,AFC Bournemouth,Rochdale,0-3,0,3,Football League Third Division,3,A
+1969-09-30,1969/1970,Peterborough United,Workington,1-1,1,1,Football League Fourth Division,4,D
+1969-09-30,1969/1970,Northampton Town,Notts County,3-1,3,1,Football League Fourth Division,4,H
+1969-09-30,1969/1970,Grimsby Town,Newport County,1-1,1,1,Football League Fourth Division,4,D
+1969-09-30,1969/1970,Swindon Town,Millwall,2-1,2,1,Football League Second Division,2,H
+1969-09-30,1969/1970,Walsall,Luton Town,1-3,1,3,Football League Third Division,3,A
+1969-09-30,1969/1970,Bury,Mansfield Town,1-0,1,0,Football League Third Division,3,H
+1969-09-30,1969/1970,Bristol Rovers,Tranmere Rovers,3-0,3,0,Football League Third Division,3,H
+1969-09-30,1969/1970,Doncaster Rovers,Brighton & Hove Albion,2-0,2,0,Football League Third Division,3,H
+1969-10-01,1969/1970,Exeter City,Swansea City,6-0,6,0,Football League Fourth Division,4,H
+1969-10-01,1969/1970,Chester,Bradford Park Avenue,1-0,1,0,Football League Fourth Division,4,H
+1969-10-01,1969/1970,Aldershot,Hartlepool United,4-1,4,1,Football League Fourth Division,4,H
+1969-10-01,1969/1970,Oldham Athletic,Wrexham,2-3,2,3,Football League Fourth Division,4,A
+1969-10-01,1969/1970,Gillingham,Southport,2-4,2,4,Football League Third Division,3,A
+1969-10-01,1969/1970,Bradford City,Reading,4-0,4,0,Football League Third Division,3,H
+1969-10-01,1969/1970,Shrewsbury Town,Torquay United,1-0,1,0,Football League Third Division,3,H
+1969-10-04,1969/1970,West Ham United,Burnley,3-1,3,1,Football League First Division,1,H
+1969-10-04,1969/1970,Arsenal,Coventry City,0-1,0,1,Football League First Division,1,A
+1969-10-04,1969/1970,Derby County,Manchester United,2-0,2,0,Football League First Division,1,H
+1969-10-04,1969/1970,Ipswich Town,Sheffield Wednesday,1-0,1,0,Football League First Division,1,H
+1969-10-04,1969/1970,Leeds United,Stoke City,2-1,2,1,Football League First Division,1,H
+1969-10-04,1969/1970,Liverpool,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1969-10-04,1969/1970,Manchester City,West Bromwich Albion,2-1,2,1,Football League First Division,1,H
+1969-10-04,1969/1970,Southampton,Tottenham Hotspur,2-2,2,2,Football League First Division,1,D
+1969-10-04,1969/1970,Sunderland,Chelsea,0-0,0,0,Football League First Division,1,D
+1969-10-04,1969/1970,Wolverhampton Wanderers,Everton,2-3,2,3,Football League First Division,1,A
+1969-10-04,1969/1970,Crystal Palace,Newcastle United,0-3,0,3,Football League First Division,1,A
+1969-10-04,1969/1970,Bradford Park Avenue,Northampton Town,1-2,1,2,Football League Fourth Division,4,A
+1969-10-04,1969/1970,Lincoln City,Exeter City,1-0,1,0,Football League Fourth Division,4,H
+1969-10-04,1969/1970,Wrexham,Southend United,4-0,4,0,Football League Fourth Division,4,H
+1969-10-04,1969/1970,Darlington,Chester,1-2,1,2,Football League Fourth Division,4,A
+1969-10-04,1969/1970,Hartlepool United,Oldham Athletic,1-1,1,1,Football League Fourth Division,4,D
+1969-10-04,1969/1970,Newport County,Colchester United,4-1,4,1,Football League Fourth Division,4,H
+1969-10-04,1969/1970,Notts County,York City,0-2,0,2,Football League Fourth Division,4,A
+1969-10-04,1969/1970,Port Vale,Aldershot,0-0,0,0,Football League Fourth Division,4,D
+1969-10-04,1969/1970,Scunthorpe United,Chesterfield,1-2,1,2,Football League Fourth Division,4,A
+1969-10-04,1969/1970,Swansea City,Peterborough United,4-1,4,1,Football League Fourth Division,4,H
+1969-10-04,1969/1970,Workington,Brentford,1-2,1,2,Football League Fourth Division,4,A
+1969-10-04,1969/1970,Crewe Alexandra,Grimsby Town,3-0,3,0,Football League Fourth Division,4,H
+1969-10-04,1969/1970,Sheffield United,Hull City,3-0,3,0,Football League Second Division,2,H
+1969-10-04,1969/1970,Blackburn Rovers,Norwich City,3-1,3,1,Football League Second Division,2,H
+1969-10-04,1969/1970,Blackpool,Cardiff City,3-2,3,2,Football League Second Division,2,H
+1969-10-04,1969/1970,Bolton Wanderers,Swindon Town,0-1,0,1,Football League Second Division,2,A
+1969-10-04,1969/1970,Bristol City,Birmingham City,2-0,2,0,Football League Second Division,2,H
+1969-10-04,1969/1970,Carlisle United,Huddersfield Town,0-2,0,2,Football League Second Division,2,A
+1969-10-04,1969/1970,Charlton Athletic,Portsmouth,2-2,2,2,Football League Second Division,2,D
+1969-10-04,1969/1970,Leicester City,Watford,3-1,3,1,Football League Second Division,2,H
+1969-10-04,1969/1970,Queens Park Rangers,Middlesbrough,4-0,4,0,Football League Second Division,2,H
+1969-10-04,1969/1970,Oxford United,Millwall,0-0,0,0,Football League Second Division,2,D
+1969-10-04,1969/1970,Aston Villa,Preston North End,0-0,0,0,Football League Second Division,2,D
+1969-10-04,1969/1970,Tranmere Rovers,Leyton Orient,1-1,1,1,Football League Third Division,3,D
+1969-10-04,1969/1970,Luton Town,Stockport County,2-0,2,0,Football League Third Division,3,H
+1969-10-04,1969/1970,Mansfield Town,Plymouth Argyle,1-2,1,2,Football League Third Division,3,A
+1969-10-04,1969/1970,Reading,Walsall,2-3,2,3,Football League Third Division,3,A
+1969-10-04,1969/1970,Rochdale,Shrewsbury Town,3-0,3,0,Football League Third Division,3,H
+1969-10-04,1969/1970,Rotherham United,Bradford City,2-3,2,3,Football League Third Division,3,A
+1969-10-04,1969/1970,Southport,AFC Bournemouth,3-0,3,0,Football League Third Division,3,H
+1969-10-04,1969/1970,Halifax Town,Bury,2-0,2,0,Football League Third Division,3,H
+1969-10-04,1969/1970,Torquay United,Gillingham,3-2,3,2,Football League Third Division,3,H
+1969-10-04,1969/1970,Fulham,Doncaster Rovers,1-1,1,1,Football League Third Division,3,D
+1969-10-04,1969/1970,Brighton & Hove Albion,Bristol Rovers,0-3,0,3,Football League Third Division,3,A
+1969-10-04,1969/1970,Barnsley,Barrow,2-1,2,1,Football League Third Division,3,H
+1969-10-06,1969/1970,West Ham United,Stoke City,3-3,3,3,Football League First Division,1,D
+1969-10-06,1969/1970,Wrexham,Colchester United,4-2,4,2,Football League Fourth Division,4,H
+1969-10-06,1969/1970,Port Vale,Chesterfield,1-1,1,1,Football League Fourth Division,4,D
+1969-10-06,1969/1970,Newport County,Oldham Athletic,2-1,2,1,Football League Fourth Division,4,H
+1969-10-06,1969/1970,Hartlepool United,Grimsby Town,0-1,0,1,Football League Fourth Division,4,A
+1969-10-06,1969/1970,Darlington,Exeter City,4-0,4,0,Football League Fourth Division,4,H
+1969-10-06,1969/1970,Bradford Park Avenue,Peterborough United,2-3,2,3,Football League Fourth Division,4,A
+1969-10-06,1969/1970,Blackpool,Norwich City,0-0,0,0,Football League Second Division,2,D
+1969-10-06,1969/1970,Rochdale,Stockport County,2-0,2,0,Football League Third Division,3,H
+1969-10-06,1969/1970,Tranmere Rovers,Barrow,5-0,5,0,Football League Third Division,3,H
+1969-10-06,1969/1970,Mansfield Town,Doncaster Rovers,1-2,1,2,Football League Third Division,3,A
+1969-10-07,1969/1970,Liverpool,Tottenham Hotspur,0-0,0,0,Football League First Division,1,D
+1969-10-07,1969/1970,Arsenal,West Bromwich Albion,1-1,1,1,Football League First Division,1,D
+1969-10-07,1969/1970,Swansea City,Chester,2-1,2,1,Football League Fourth Division,4,H
+1969-10-07,1969/1970,Scunthorpe United,Southend United,2-0,2,0,Football League Fourth Division,4,H
+1969-10-07,1969/1970,Queens Park Rangers,Preston North End,0-0,0,0,Football League Second Division,2,D
+1969-10-07,1969/1970,Charlton Athletic,Millwall,2-2,2,2,Football League Second Division,2,D
+1969-10-07,1969/1970,Carlisle United,Swindon Town,2-2,2,2,Football League Second Division,2,D
+1969-10-07,1969/1970,Bristol City,Hull City,3-1,3,1,Football League Second Division,2,H
+1969-10-07,1969/1970,Sheffield United,Portsmouth,5-0,5,0,Football League Second Division,2,H
+1969-10-07,1969/1970,Brighton & Hove Albion,Plymouth Argyle,2-0,2,0,Football League Third Division,3,H
+1969-10-07,1969/1970,Luton Town,AFC Bournemouth,0-0,0,0,Football League Third Division,3,D
+1969-10-07,1969/1970,Halifax Town,Leyton Orient,1-1,1,1,Football League Third Division,3,D
+1969-10-07,1969/1970,Barnsley,Bristol Rovers,2-0,2,0,Football League Third Division,3,H
+1969-10-07,1969/1970,Rotherham United,Shrewsbury Town,1-2,1,2,Football League Third Division,3,A
+1969-10-08,1969/1970,Wolverhampton Wanderers,Sheffield Wednesday,2-2,2,2,Football League First Division,1,D
+1969-10-08,1969/1970,Sunderland,Burnley,0-1,0,1,Football League First Division,1,A
+1969-10-08,1969/1970,Southampton,Manchester United,0-3,0,3,Football League First Division,1,A
+1969-10-08,1969/1970,Manchester City,Newcastle United,2-1,2,1,Football League First Division,1,H
+1969-10-08,1969/1970,Derby County,Coventry City,1-3,1,3,Football League First Division,1,A
+1969-10-08,1969/1970,Crystal Palace,Everton,0-0,0,0,Football League First Division,1,D
+1969-10-08,1969/1970,Workington,Northampton Town,2-0,2,0,Football League Fourth Division,4,H
+1969-10-08,1969/1970,Lincoln City,York City,4-0,4,0,Football League Fourth Division,4,H
+1969-10-08,1969/1970,Crewe Alexandra,Aldershot,1-0,1,0,Football League Fourth Division,4,H
+1969-10-08,1969/1970,Notts County,Brentford,1-0,1,0,Football League Fourth Division,4,H
+1969-10-08,1969/1970,Oxford United,Birmingham City,2-0,2,0,Football League Second Division,2,H
+1969-10-08,1969/1970,Leicester City,Middlesbrough,2-1,2,1,Football League Second Division,2,H
+1969-10-08,1969/1970,Blackburn Rovers,Cardiff City,1-0,1,0,Football League Second Division,2,H
+1969-10-08,1969/1970,Aston Villa,Huddersfield Town,4-1,4,1,Football League Second Division,2,H
+1969-10-08,1969/1970,Bolton Wanderers,Watford,2-3,2,3,Football League Second Division,2,A
+1969-10-08,1969/1970,Torquay United,Bradford City,2-1,2,1,Football League Third Division,3,H
+1969-10-08,1969/1970,Southport,Walsall,0-1,0,1,Football League Third Division,3,A
+1969-10-08,1969/1970,Reading,Gillingham,1-0,1,0,Football League Third Division,3,H
+1969-10-08,1969/1970,Fulham,Bury,2-4,2,4,Football League Third Division,3,A
+1969-10-11,1969/1970,Manchester United,Ipswich Town,2-1,2,1,Football League First Division,1,H
+1969-10-11,1969/1970,Chelsea,Derby County,2-2,2,2,Football League First Division,1,D
+1969-10-11,1969/1970,Coventry City,West Ham United,2-2,2,2,Football League First Division,1,D
+1969-10-11,1969/1970,Everton,Sunderland,3-1,3,1,Football League First Division,1,H
+1969-10-11,1969/1970,Newcastle United,Liverpool,1-0,1,0,Football League First Division,1,H
+1969-10-11,1969/1970,Nottingham Forest,Manchester City,2-2,2,2,Football League First Division,1,D
+1969-10-11,1969/1970,Sheffield Wednesday,Southampton,1-1,1,1,Football League First Division,1,D
+1969-10-11,1969/1970,Stoke City,Arsenal,0-0,0,0,Football League First Division,1,D
+1969-10-11,1969/1970,Tottenham Hotspur,Wolverhampton Wanderers,0-1,0,1,Football League First Division,1,A
+1969-10-11,1969/1970,West Bromwich Albion,Leeds United,1-1,1,1,Football League First Division,1,D
+1969-10-11,1969/1970,Burnley,Crystal Palace,4-2,4,2,Football League First Division,1,H
+1969-10-11,1969/1970,Aldershot,Lincoln City,1-1,1,1,Football League Fourth Division,4,D
+1969-10-11,1969/1970,Exeter City,Crewe Alexandra,3-0,3,0,Football League Fourth Division,4,H
+1969-10-11,1969/1970,Chester,Hartlepool United,2-1,2,1,Football League Fourth Division,4,H
+1969-10-11,1969/1970,Chesterfield,Notts County,5-0,5,0,Football League Fourth Division,4,H
+1969-10-11,1969/1970,Colchester United,Bradford Park Avenue,2-1,2,1,Football League Fourth Division,4,H
+1969-10-11,1969/1970,Grimsby Town,Darlington,0-1,0,1,Football League Fourth Division,4,A
+1969-10-11,1969/1970,York City,Port Vale,0-1,0,1,Football League Fourth Division,4,A
+1969-10-11,1969/1970,Northampton Town,Wrexham,0-1,0,1,Football League Fourth Division,4,A
+1969-10-11,1969/1970,Oldham Athletic,Swansea City,0-1,0,1,Football League Fourth Division,4,A
+1969-10-11,1969/1970,Peterborough United,Newport County,4-0,4,0,Football League Fourth Division,4,H
+1969-10-11,1969/1970,Southend United,Workington,3-1,3,1,Football League Fourth Division,4,H
+1969-10-11,1969/1970,Brentford,Scunthorpe United,3-0,3,0,Football League Fourth Division,4,H
+1969-10-11,1969/1970,Watford,Carlisle United,1-2,1,2,Football League Second Division,2,A
+1969-10-11,1969/1970,Birmingham City,Blackburn Rovers,3-0,3,0,Football League Second Division,2,H
+1969-10-11,1969/1970,Cardiff City,Aston Villa,4-0,4,0,Football League Second Division,2,H
+1969-10-11,1969/1970,Huddersfield Town,Charlton Athletic,4-0,4,0,Football League Second Division,2,H
+1969-10-11,1969/1970,Hull City,Oxford United,3-1,3,1,Football League Second Division,2,H
+1969-10-11,1969/1970,Middlesbrough,Bolton Wanderers,4-0,4,0,Football League Second Division,2,H
+1969-10-11,1969/1970,Millwall,Blackpool,1-3,1,3,Football League Second Division,2,A
+1969-10-11,1969/1970,Norwich City,Queens Park Rangers,1-0,1,0,Football League Second Division,2,H
+1969-10-11,1969/1970,Portsmouth,Bristol City,0-0,0,0,Football League Second Division,2,D
+1969-10-11,1969/1970,Preston North End,Leicester City,2-1,2,1,Football League Second Division,2,H
+1969-10-11,1969/1970,Swindon Town,Sheffield United,2-1,2,1,Football League Second Division,2,H
+1969-10-11,1969/1970,Stockport County,Mansfield Town,1-3,1,3,Football League Third Division,3,A
+1969-10-11,1969/1970,Shrewsbury Town,Brighton & Hove Albion,2-2,2,2,Football League Third Division,3,D
+1969-10-11,1969/1970,Plymouth Argyle,Rochdale,2-3,2,3,Football League Third Division,3,A
+1969-10-11,1969/1970,Bury,Southport,4-3,4,3,Football League Third Division,3,H
+1969-10-11,1969/1970,Gillingham,Tranmere Rovers,0-0,0,0,Football League Third Division,3,D
+1969-10-11,1969/1970,Doncaster Rovers,Luton Town,2-0,2,0,Football League Third Division,3,H
+1969-10-11,1969/1970,Walsall,Halifax Town,2-1,2,1,Football League Third Division,3,H
+1969-10-11,1969/1970,Bristol Rovers,Rotherham United,3-0,3,0,Football League Third Division,3,H
+1969-10-11,1969/1970,Leyton Orient,Reading,0-1,0,1,Football League Third Division,3,A
+1969-10-11,1969/1970,Bradford City,Barnsley,1-1,1,1,Football League Third Division,3,D
+1969-10-11,1969/1970,Barrow,Torquay United,0-4,0,4,Football League Third Division,3,A
+1969-10-11,1969/1970,AFC Bournemouth,Fulham,2-2,2,2,Football League Third Division,3,D
+1969-10-13,1969/1970,Stockport County,Rotherham United,1-1,1,1,Football League Third Division,3,D
+1969-10-18,1969/1970,Crystal Palace,Leeds United,1-1,1,1,Football League First Division,1,D
+1969-10-18,1969/1970,Derby County,Manchester City,0-1,0,1,Football League First Division,1,A
+1969-10-18,1969/1970,Everton,Stoke City,6-2,6,2,Football League First Division,1,H
+1969-10-18,1969/1970,Ipswich Town,Liverpool,2-2,2,2,Football League First Division,1,D
+1969-10-18,1969/1970,Manchester United,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1969-10-18,1969/1970,Southampton,Coventry City,0-0,0,0,Football League First Division,1,D
+1969-10-18,1969/1970,Sunderland,Arsenal,1-1,1,1,Football League First Division,1,D
+1969-10-18,1969/1970,Tottenham Hotspur,Newcastle United,2-1,2,1,Football League First Division,1,H
+1969-10-18,1969/1970,Wolverhampton Wanderers,West Ham United,1-0,1,0,Football League First Division,1,H
+1969-10-18,1969/1970,Chelsea,West Bromwich Albion,2-0,2,0,Football League First Division,1,H
+1969-10-18,1969/1970,Burnley,Sheffield Wednesday,4-2,4,2,Football League First Division,1,H
+1969-10-18,1969/1970,York City,Colchester United,4-2,4,2,Football League Fourth Division,4,H
+1969-10-18,1969/1970,Aldershot,Northampton Town,5-2,5,2,Football League Fourth Division,4,H
+1969-10-18,1969/1970,Chester,Chesterfield,1-2,1,2,Football League Fourth Division,4,A
+1969-10-18,1969/1970,Crewe Alexandra,Workington,1-0,1,0,Football League Fourth Division,4,H
+1969-10-18,1969/1970,Darlington,Wrexham,2-1,2,1,Football League Fourth Division,4,H
+1969-10-18,1969/1970,Grimsby Town,Peterborough United,0-0,0,0,Football League Fourth Division,4,D
+1969-10-18,1969/1970,Hartlepool United,Bradford Park Avenue,5-2,5,2,Football League Fourth Division,4,H
+1969-10-18,1969/1970,Lincoln City,Scunthorpe United,1-2,1,2,Football League Fourth Division,4,A
+1969-10-18,1969/1970,Notts County,Newport County,4-1,4,1,Football League Fourth Division,4,H
+1969-10-18,1969/1970,Port Vale,Swansea City,0-0,0,0,Football League Fourth Division,4,D
+1969-10-18,1969/1970,Southend United,Exeter City,1-1,1,1,Football League Fourth Division,4,D
+1969-10-18,1969/1970,Brentford,Oldham Athletic,1-1,1,1,Football League Fourth Division,4,D
+1969-10-18,1969/1970,Watford,Portsmouth,4-0,4,0,Football League Second Division,2,H
+1969-10-18,1969/1970,Aston Villa,Birmingham City,0-0,0,0,Football League Second Division,2,D
+1969-10-18,1969/1970,Bolton Wanderers,Oxford United,1-1,1,1,Football League Second Division,2,D
+1969-10-18,1969/1970,Cardiff City,Norwich City,0-1,0,1,Football League Second Division,2,A
+1969-10-18,1969/1970,Carlisle United,Queens Park Rangers,3-2,3,2,Football League Second Division,2,H
+1969-10-18,1969/1970,Charlton Athletic,Blackburn Rovers,0-0,0,0,Football League Second Division,2,D
+1969-10-18,1969/1970,Huddersfield Town,Middlesbrough,0-0,0,0,Football League Second Division,2,D
+1969-10-18,1969/1970,Leicester City,Bristol City,2-0,2,0,Football League Second Division,2,H
+1969-10-18,1969/1970,Preston North End,Millwall,1-1,1,1,Football League Second Division,2,D
+1969-10-18,1969/1970,Sheffield United,Blackpool,2-3,2,3,Football League Second Division,2,A
+1969-10-18,1969/1970,Swindon Town,Hull City,1-0,1,0,Football League Second Division,2,H
+1969-10-18,1969/1970,Brighton & Hove Albion,Luton Town,1-2,1,2,Football League Third Division,3,A
+1969-10-18,1969/1970,Bristol Rovers,Bury,2-1,2,1,Football League Third Division,3,H
+1969-10-18,1969/1970,Leyton Orient,Doncaster Rovers,2-0,2,0,Football League Third Division,3,H
+1969-10-18,1969/1970,Mansfield Town,Reading,2-1,2,1,Football League Third Division,3,H
+1969-10-18,1969/1970,Rochdale,Tranmere Rovers,4-0,4,0,Football League Third Division,3,H
+1969-10-18,1969/1970,Rotherham United,Fulham,0-0,0,0,Football League Third Division,3,D
+1969-10-18,1969/1970,Stockport County,Shrewsbury Town,1-1,1,1,Football League Third Division,3,D
+1969-10-18,1969/1970,Torquay United,Halifax Town,0-1,0,1,Football League Third Division,3,A
+1969-10-18,1969/1970,Walsall,AFC Bournemouth,2-1,2,1,Football League Third Division,3,H
+1969-10-18,1969/1970,Bradford City,Plymouth Argyle,1-0,1,0,Football League Third Division,3,H
+1969-10-18,1969/1970,Barrow,Gillingham,1-1,1,1,Football League Third Division,3,D
+1969-10-18,1969/1970,Barnsley,Southport,1-1,1,1,Football League Third Division,3,D
+1969-10-24,1969/1970,Doncaster Rovers,Stockport County,0-1,0,1,Football League Third Division,3,A
+1969-10-25,1969/1970,Coventry City,Everton,0-1,0,1,Football League First Division,1,A
+1969-10-25,1969/1970,Leeds United,Derby County,2-0,2,0,Football League First Division,1,H
+1969-10-25,1969/1970,Liverpool,Southampton,4-1,4,1,Football League First Division,1,H
+1969-10-25,1969/1970,Manchester City,Wolverhampton Wanderers,1-0,1,0,Football League First Division,1,H
+1969-10-25,1969/1970,Newcastle United,Chelsea,0-1,0,1,Football League First Division,1,A
+1969-10-25,1969/1970,Nottingham Forest,Burnley,1-1,1,1,Football League First Division,1,D
+1969-10-25,1969/1970,Sheffield Wednesday,Crystal Palace,0-0,0,0,Football League First Division,1,D
+1969-10-25,1969/1970,Stoke City,Tottenham Hotspur,1-1,1,1,Football League First Division,1,D
+1969-10-25,1969/1970,West Bromwich Albion,Manchester United,2-1,2,1,Football League First Division,1,H
+1969-10-25,1969/1970,Arsenal,Ipswich Town,0-0,0,0,Football League First Division,1,D
+1969-10-25,1969/1970,West Ham United,Sunderland,1-1,1,1,Football League First Division,1,D
+1969-10-25,1969/1970,Wrexham,Port Vale,1-1,1,1,Football League Fourth Division,4,D
+1969-10-25,1969/1970,Bradford Park Avenue,Notts County,1-3,1,3,Football League Fourth Division,4,A
+1969-10-25,1969/1970,Chesterfield,Brentford,1-0,1,0,Football League Fourth Division,4,H
+1969-10-25,1969/1970,Colchester United,Chester,0-1,0,1,Football League Fourth Division,4,A
+1969-10-25,1969/1970,Exeter City,Grimsby Town,0-1,0,1,Football League Fourth Division,4,A
+1969-10-25,1969/1970,Newport County,Crewe Alexandra,0-0,0,0,Football League Fourth Division,4,D
+1969-10-25,1969/1970,Northampton Town,Southend United,2-0,2,0,Football League Fourth Division,4,H
+1969-10-25,1969/1970,Oldham Athletic,Aldershot,4-2,4,2,Football League Fourth Division,4,H
+1969-10-25,1969/1970,Peterborough United,York City,3-1,3,1,Football League Fourth Division,4,H
+1969-10-25,1969/1970,Scunthorpe United,Hartlepool United,3-1,3,1,Football League Fourth Division,4,H
+1969-10-25,1969/1970,Swansea City,Lincoln City,2-2,2,2,Football League Fourth Division,4,D
+1969-10-25,1969/1970,Workington,Darlington,1-0,1,0,Football League Fourth Division,4,H
+1969-10-25,1969/1970,Queens Park Rangers,Charlton Athletic,1-1,1,1,Football League Second Division,2,D
+1969-10-25,1969/1970,Blackburn Rovers,Leicester City,3-1,3,1,Football League Second Division,2,H
+1969-10-25,1969/1970,Blackpool,Bolton Wanderers,1-1,1,1,Football League Second Division,2,D
+1969-10-25,1969/1970,Bristol City,Carlisle United,0-0,0,0,Football League Second Division,2,D
+1969-10-25,1969/1970,Hull City,Huddersfield Town,2-3,2,3,Football League Second Division,2,A
+1969-10-25,1969/1970,Middlesbrough,Watford,3-1,3,1,Football League Second Division,2,H
+1969-10-25,1969/1970,Millwall,Sheffield United,1-0,1,0,Football League Second Division,2,H
+1969-10-25,1969/1970,Norwich City,Preston North End,1-2,1,2,Football League Second Division,2,A
+1969-10-25,1969/1970,Oxford United,Aston Villa,2-2,2,2,Football League Second Division,2,D
+1969-10-25,1969/1970,Portsmouth,Swindon Town,3-1,3,1,Football League Second Division,2,H
+1969-10-25,1969/1970,Birmingham City,Cardiff City,1-1,1,1,Football League Second Division,2,D
+1969-10-25,1969/1970,Gillingham,Leyton Orient,0-1,0,1,Football League Third Division,3,A
+1969-10-25,1969/1970,Halifax Town,Mansfield Town,1-2,1,2,Football League Third Division,3,A
+1969-10-25,1969/1970,Luton Town,Torquay United,1-1,1,1,Football League Third Division,3,D
+1969-10-25,1969/1970,Plymouth Argyle,Walsall,1-0,1,0,Football League Third Division,3,H
+1969-10-25,1969/1970,Reading,Rotherham United,1-1,1,1,Football League Third Division,3,D
+1969-10-25,1969/1970,Shrewsbury Town,Bradford City,1-0,1,0,Football League Third Division,3,H
+1969-10-25,1969/1970,Southport,Rochdale,0-3,0,3,Football League Third Division,3,A
+1969-10-25,1969/1970,Tranmere Rovers,Brighton & Hove Albion,2-0,2,0,Football League Third Division,3,H
+1969-10-25,1969/1970,Fulham,Barnsley,0-0,0,0,Football League Third Division,3,D
+1969-10-25,1969/1970,Bury,Barrow,4-0,4,0,Football League Third Division,3,H
+1969-10-25,1969/1970,AFC Bournemouth,Bristol Rovers,2-2,2,2,Football League Third Division,3,D
+1969-10-28,1969/1970,Northampton Town,Workington,3-0,3,0,Football League Fourth Division,4,H
+1969-10-29,1969/1970,Leeds United,Nottingham Forest,6-1,6,1,Football League First Division,1,H
+1969-10-31,1969/1970,Walsall,Doncaster Rovers,1-3,1,3,Football League Third Division,3,A
+1969-11-01,1969/1970,Ipswich Town,Manchester City,1-1,1,1,Football League First Division,1,D
+1969-11-01,1969/1970,Crystal Palace,Arsenal,1-5,1,5,Football League First Division,1,A
+1969-11-01,1969/1970,Derby County,Liverpool,4-0,4,0,Football League First Division,1,H
+1969-11-01,1969/1970,Everton,Nottingham Forest,1-0,1,0,Football League First Division,1,H
+1969-11-01,1969/1970,Manchester United,Stoke City,1-1,1,1,Football League First Division,1,D
+1969-11-01,1969/1970,Southampton,West Ham United,1-1,1,1,Football League First Division,1,D
+1969-11-01,1969/1970,Sunderland,Leeds United,0-0,0,0,Football League First Division,1,D
+1969-11-01,1969/1970,Tottenham Hotspur,Sheffield Wednesday,1-0,1,0,Football League First Division,1,H
+1969-11-01,1969/1970,Wolverhampton Wanderers,West Bromwich Albion,1-0,1,0,Football League First Division,1,H
+1969-11-01,1969/1970,Chelsea,Coventry City,1-0,1,0,Football League First Division,1,H
+1969-11-01,1969/1970,Burnley,Newcastle United,0-1,0,1,Football League First Division,1,A
+1969-11-01,1969/1970,Aldershot,Colchester United,1-1,1,1,Football League Fourth Division,4,D
+1969-11-01,1969/1970,Brentford,Peterborough United,5-2,5,2,Football League Fourth Division,4,H
+1969-11-01,1969/1970,Crewe Alexandra,Scunthorpe United,0-2,0,2,Football League Fourth Division,4,A
+1969-11-01,1969/1970,Darlington,Bradford Park Avenue,1-1,1,1,Football League Fourth Division,4,D
+1969-11-01,1969/1970,Grimsby Town,Oldham Athletic,4-1,4,1,Football League Fourth Division,4,H
+1969-11-01,1969/1970,Hartlepool United,Wrexham,1-3,1,3,Football League Fourth Division,4,A
+1969-11-01,1969/1970,Lincoln City,Workington,1-1,1,1,Football League Fourth Division,4,D
+1969-11-01,1969/1970,Notts County,Swansea City,0-1,0,1,Football League Fourth Division,4,A
+1969-11-01,1969/1970,Port Vale,Newport County,3-1,3,1,Football League Fourth Division,4,H
+1969-11-01,1969/1970,Southend United,Chesterfield,0-0,0,0,Football League Fourth Division,4,D
+1969-11-01,1969/1970,York City,Northampton Town,1-1,1,1,Football League Fourth Division,4,D
+1969-11-01,1969/1970,Chester,Exeter City,2-0,2,0,Football League Fourth Division,4,H
+1969-11-01,1969/1970,Watford,Birmingham City,2-3,2,3,Football League Second Division,2,A
+1969-11-01,1969/1970,Aston Villa,Queens Park Rangers,1-1,1,1,Football League Second Division,2,D
+1969-11-01,1969/1970,Bolton Wanderers,Bristol City,3-1,3,1,Football League Second Division,2,H
+1969-11-01,1969/1970,Cardiff City,Hull City,6-0,6,0,Football League Second Division,2,H
+1969-11-01,1969/1970,Carlisle United,Portsmouth,3-3,3,3,Football League Second Division,2,D
+1969-11-01,1969/1970,Charlton Athletic,Blackpool,0-2,0,2,Football League Second Division,2,A
+1969-11-01,1969/1970,Huddersfield Town,Millwall,0-0,0,0,Football League Second Division,2,D
+1969-11-01,1969/1970,Leicester City,Oxford United,2-1,2,1,Football League Second Division,2,H
+1969-11-01,1969/1970,Preston North End,Middlesbrough,0-1,0,1,Football League Second Division,2,A
+1969-11-01,1969/1970,Sheffield United,Blackburn Rovers,4-0,4,0,Football League Second Division,2,H
+1969-11-01,1969/1970,Swindon Town,Norwich City,2-0,2,0,Football League Second Division,2,H
+1969-11-01,1969/1970,Brighton & Hove Albion,Fulham,2-1,2,1,Football League Third Division,3,H
+1969-11-01,1969/1970,Bristol Rovers,Shrewsbury Town,1-3,1,3,Football League Third Division,3,A
+1969-11-01,1969/1970,Leyton Orient,AFC Bournemouth,3-0,3,0,Football League Third Division,3,H
+1969-11-01,1969/1970,Mansfield Town,Tranmere Rovers,1-2,1,2,Football League Third Division,3,A
+1969-11-01,1969/1970,Rochdale,Reading,3-2,3,2,Football League Third Division,3,H
+1969-11-01,1969/1970,Rotherham United,Luton Town,1-1,1,1,Football League Third Division,3,D
+1969-11-01,1969/1970,Stockport County,Bury,1-0,1,0,Football League Third Division,3,H
+1969-11-01,1969/1970,Torquay United,Southport,0-0,0,0,Football League Third Division,3,D
+1969-11-01,1969/1970,Bradford City,Gillingham,1-0,1,0,Football League Third Division,3,H
+1969-11-01,1969/1970,Barrow,Plymouth Argyle,1-1,1,1,Football League Third Division,3,D
+1969-11-01,1969/1970,Barnsley,Halifax Town,2-0,2,0,Football League Third Division,3,H
+1969-11-03,1969/1970,Mansfield Town,Rochdale,1-2,1,2,Football League Third Division,3,A
+1969-11-08,1969/1970,Arsenal,Derby County,4-0,4,0,Football League First Division,1,H
+1969-11-08,1969/1970,Leeds United,Ipswich Town,4-0,4,0,Football League First Division,1,H
+1969-11-08,1969/1970,Liverpool,Wolverhampton Wanderers,0-0,0,0,Football League First Division,1,D
+1969-11-08,1969/1970,Manchester City,Southampton,1-0,1,0,Football League First Division,1,H
+1969-11-08,1969/1970,Newcastle United,Sunderland,3-0,3,0,Football League First Division,1,H
+1969-11-08,1969/1970,Nottingham Forest,Tottenham Hotspur,2-2,2,2,Football League First Division,1,D
+1969-11-08,1969/1970,Sheffield Wednesday,Chelsea,1-3,1,3,Football League First Division,1,A
+1969-11-08,1969/1970,Stoke City,Burnley,2-1,2,1,Football League First Division,1,H
+1969-11-08,1969/1970,West Bromwich Albion,Everton,2-0,2,0,Football League First Division,1,H
+1969-11-08,1969/1970,Coventry City,Manchester United,1-2,1,2,Football League First Division,1,A
+1969-11-08,1969/1970,West Ham United,Crystal Palace,2-1,2,1,Football League First Division,1,H
+1969-11-08,1969/1970,Wrexham,Notts County,2-0,2,0,Football League Fourth Division,4,H
+1969-11-08,1969/1970,Bradford Park Avenue,Port Vale,1-2,1,2,Football League Fourth Division,4,A
+1969-11-08,1969/1970,Colchester United,Southend United,0-2,0,2,Football League Fourth Division,4,A
+1969-11-08,1969/1970,Exeter City,Brentford,2-2,2,2,Football League Fourth Division,4,D
+1969-11-08,1969/1970,Newport County,Lincoln City,3-1,3,1,Football League Fourth Division,4,H
+1969-11-08,1969/1970,Northampton Town,Chester,0-1,0,1,Football League Fourth Division,4,A
+1969-11-08,1969/1970,Oldham Athletic,York City,3-1,3,1,Football League Fourth Division,4,H
+1969-11-08,1969/1970,Peterborough United,Aldershot,4-1,4,1,Football League Fourth Division,4,H
+1969-11-08,1969/1970,Scunthorpe United,Darlington,2-0,2,0,Football League Fourth Division,4,H
+1969-11-08,1969/1970,Swansea City,Crewe Alexandra,3-0,3,0,Football League Fourth Division,4,H
+1969-11-08,1969/1970,Workington,Hartlepool United,1-3,1,3,Football League Fourth Division,4,A
+1969-11-08,1969/1970,Chesterfield,Grimsby Town,1-2,1,2,Football League Fourth Division,4,A
+1969-11-08,1969/1970,Queens Park Rangers,Sheffield United,2-1,2,1,Football League Second Division,2,H
+1969-11-08,1969/1970,Birmingham City,Swindon Town,2-0,2,0,Football League Second Division,2,H
+1969-11-08,1969/1970,Blackburn Rovers,Bolton Wanderers,3-1,3,1,Football League Second Division,2,H
+1969-11-08,1969/1970,Blackpool,Leicester City,1-1,1,1,Football League Second Division,2,D
+1969-11-08,1969/1970,Bristol City,Aston Villa,1-0,1,0,Football League Second Division,2,H
+1969-11-08,1969/1970,Hull City,Preston North End,3-1,3,1,Football League Second Division,2,H
+1969-11-08,1969/1970,Middlesbrough,Charlton Athletic,2-0,2,0,Football League Second Division,2,H
+1969-11-08,1969/1970,Millwall,Watford,1-0,1,0,Football League Second Division,2,H
+1969-11-08,1969/1970,Norwich City,Huddersfield Town,1-2,1,2,Football League Second Division,2,A
+1969-11-08,1969/1970,Oxford United,Carlisle United,1-0,1,0,Football League Second Division,2,H
+1969-11-08,1969/1970,Portsmouth,Cardiff City,3-0,3,0,Football League Second Division,2,H
+1969-11-08,1969/1970,Fulham,Torquay United,1-1,1,1,Football League Third Division,3,D
+1969-11-08,1969/1970,Gillingham,Walsall,1-3,1,3,Football League Third Division,3,A
+1969-11-08,1969/1970,Luton Town,Barnsley,1-1,1,1,Football League Third Division,3,D
+1969-11-08,1969/1970,Plymouth Argyle,Leyton Orient,1-0,1,0,Football League Third Division,3,H
+1969-11-08,1969/1970,Reading,Brighton & Hove Albion,1-0,1,0,Football League Third Division,3,H
+1969-11-08,1969/1970,Shrewsbury Town,Barrow,1-1,1,1,Football League Third Division,3,D
+1969-11-08,1969/1970,Southport,Mansfield Town,0-1,0,1,Football League Third Division,3,A
+1969-11-08,1969/1970,Tranmere Rovers,Rotherham United,2-2,2,2,Football League Third Division,3,D
+1969-11-08,1969/1970,Doncaster Rovers,Bristol Rovers,3-1,3,1,Football League Third Division,3,H
+1969-11-08,1969/1970,Bury,Bradford City,0-2,0,2,Football League Third Division,3,A
+1969-11-08,1969/1970,Halifax Town,Rochdale,3-1,3,1,Football League Third Division,3,H
+1969-11-08,1969/1970,AFC Bournemouth,Stockport County,1-0,1,0,Football League Third Division,3,H
+1969-11-10,1969/1970,Preston North End,Huddersfield Town,1-3,1,3,Football League Second Division,2,A
+1969-11-11,1969/1970,Bristol City,Oxford United,2-0,2,0,Football League Second Division,2,H
+1969-11-11,1969/1970,Queens Park Rangers,Watford,2-1,2,1,Football League Second Division,2,H
+1969-11-12,1969/1970,Portsmouth,Birmingham City,1-1,1,1,Football League Second Division,2,D
+1969-11-12,1969/1970,Bolton Wanderers,Leicester City,2-3,2,3,Football League Second Division,2,A
+1969-11-12,1969/1970,Aston Villa,Carlisle United,1-0,1,0,Football League Second Division,2,H
+1969-11-12,1969/1970,Blackburn Rovers,Blackpool,2-1,2,1,Football League Second Division,2,H
+1969-11-15,1969/1970,Southampton,Leeds United,1-1,1,1,Football League First Division,1,D
+1969-11-15,1969/1970,Tottenham Hotspur,West Bromwich Albion,2-0,2,0,Football League First Division,1,H
+1969-11-15,1969/1970,Wolverhampton Wanderers,Arsenal,2-0,2,0,Football League First Division,1,H
+1969-11-15,1969/1970,Sheffield Wednesday,Stoke City,0-2,0,2,Football League First Division,1,A
+1969-11-15,1969/1970,Newcastle United,Nottingham Forest,3-1,3,1,Football League First Division,1,H
+1969-11-15,1969/1970,Manchester City,Manchester United,4-0,4,0,Football League First Division,1,H
+1969-11-15,1969/1970,Liverpool,West Ham United,2-0,2,0,Football League First Division,1,H
+1969-11-15,1969/1970,Ipswich Town,Crystal Palace,2-0,2,0,Football League First Division,1,H
+1969-11-15,1969/1970,Derby County,Sunderland,3-0,3,0,Football League First Division,1,H
+1969-11-15,1969/1970,Chelsea,Everton,1-1,1,1,Football League First Division,1,D
+1969-11-15,1969/1970,Burnley,Coventry City,0-0,0,0,Football League First Division,1,D
+1969-11-15,1969/1970,Bolton Wanderers,Sheffield United,0-0,0,0,Football League Second Division,2,D
+1969-11-15,1969/1970,Watford,Swindon Town,0-0,0,0,Football League Second Division,2,D
+1969-11-15,1969/1970,Preston North End,Birmingham City,4-1,4,1,Football League Second Division,2,H
+1969-11-15,1969/1970,Oxford United,Cardiff City,1-1,1,1,Football League Second Division,2,D
+1969-11-15,1969/1970,Millwall,Norwich City,1-0,1,0,Football League Second Division,2,H
+1969-11-15,1969/1970,Middlesbrough,Hull City,1-0,1,0,Football League Second Division,2,H
+1969-11-15,1969/1970,Leicester City,Charlton Athletic,2-2,2,2,Football League Second Division,2,D
+1969-11-15,1969/1970,Huddersfield Town,Portsmouth,4-0,4,0,Football League Second Division,2,H
+1969-11-15,1969/1970,Carlisle United,Blackburn Rovers,0-1,0,1,Football League Second Division,2,A
+1969-11-15,1969/1970,Bristol City,Queens Park Rangers,2-0,2,0,Football League Second Division,2,H
+1969-11-15,1969/1970,Aston Villa,Blackpool,0-0,0,0,Football League Second Division,2,D
+1969-11-18,1969/1970,Ipswich Town,Chelsea,1-4,1,4,Football League First Division,1,A
+1969-11-19,1969/1970,Leeds United,Sunderland,2-0,2,0,Football League First Division,1,H
+1969-11-19,1969/1970,Aston Villa,Bolton Wanderers,3-0,3,0,Football League Second Division,2,H
+1969-11-21,1969/1970,Doncaster Rovers,Plymouth Argyle,1-1,1,1,Football League Third Division,3,D
+1969-11-22,1969/1970,Arsenal,Manchester City,1-1,1,1,Football League First Division,1,D
+1969-11-22,1969/1970,Coventry City,Newcastle United,1-0,1,0,Football League First Division,1,H
+1969-11-22,1969/1970,Crystal Palace,Wolverhampton Wanderers,2-1,2,1,Football League First Division,1,H
+1969-11-22,1969/1970,Everton,Burnley,2-1,2,1,Football League First Division,1,H
+1969-11-22,1969/1970,Leeds United,Liverpool,1-1,1,1,Football League First Division,1,D
+1969-11-22,1969/1970,Manchester United,Tottenham Hotspur,3-1,3,1,Football League First Division,1,H
+1969-11-22,1969/1970,Nottingham Forest,Chelsea,1-1,1,1,Football League First Division,1,D
+1969-11-22,1969/1970,Stoke City,Ipswich Town,3-3,3,3,Football League First Division,1,D
+1969-11-22,1969/1970,West Bromwich Albion,Sheffield Wednesday,3-0,3,0,Football League First Division,1,H
+1969-11-22,1969/1970,Sunderland,Southampton,2-2,2,2,Football League First Division,1,D
+1969-11-22,1969/1970,West Ham United,Derby County,3-0,3,0,Football League First Division,1,H
+1969-11-22,1969/1970,Aldershot,Chester,3-1,3,1,Football League Fourth Division,4,H
+1969-11-22,1969/1970,Peterborough United,Chesterfield,1-2,1,2,Football League Fourth Division,4,A
+1969-11-22,1969/1970,Colchester United,Grimsby Town,3-2,3,2,Football League Fourth Division,4,H
+1969-11-22,1969/1970,Darlington,Lincoln City,0-3,0,3,Football League Fourth Division,4,A
+1969-11-22,1969/1970,Hartlepool United,Crewe Alexandra,1-1,1,1,Football League Fourth Division,4,D
+1969-11-22,1969/1970,Northampton Town,Brentford,1-1,1,1,Football League Fourth Division,4,D
+1969-11-22,1969/1970,Oldham Athletic,Exeter City,1-1,1,1,Football League Fourth Division,4,D
+1969-11-22,1969/1970,York City,Southend United,1-0,1,0,Football League Fourth Division,4,H
+1969-11-22,1969/1970,Workington,Notts County,0-2,0,2,Football League Fourth Division,4,A
+1969-11-22,1969/1970,Wrexham,Newport County,3-0,3,0,Football League Fourth Division,4,H
+1969-11-22,1969/1970,Bradford Park Avenue,Swansea City,0-2,0,2,Football League Fourth Division,4,A
+1969-11-22,1969/1970,Scunthorpe United,Port Vale,2-1,2,1,Football League Fourth Division,4,H
+1969-11-22,1969/1970,Sheffield United,Aston Villa,5-0,5,0,Football League Second Division,2,H
+1969-11-22,1969/1970,Swindon Town,Huddersfield Town,2-1,2,1,Football League Second Division,2,H
+1969-11-22,1969/1970,Birmingham City,Millwall,2-0,2,0,Football League Second Division,2,H
+1969-11-22,1969/1970,Blackburn Rovers,Bristol City,3-3,3,3,Football League Second Division,2,D
+1969-11-22,1969/1970,Blackpool,Oxford United,1-0,1,0,Football League Second Division,2,H
+1969-11-22,1969/1970,Cardiff City,Preston North End,2-1,2,1,Football League Second Division,2,H
+1969-11-22,1969/1970,Charlton Athletic,Carlisle United,2-1,2,1,Football League Second Division,2,H
+1969-11-22,1969/1970,Hull City,Watford,1-1,1,1,Football League Second Division,2,D
+1969-11-22,1969/1970,Norwich City,Bolton Wanderers,1-0,1,0,Football League Second Division,2,H
+1969-11-22,1969/1970,Portsmouth,Middlesbrough,2-3,2,3,Football League Second Division,2,A
+1969-11-22,1969/1970,Queens Park Rangers,Leicester City,1-1,1,1,Football League Second Division,2,D
+1969-11-22,1969/1970,Bury,Walsall,4-2,4,2,Football League Third Division,3,H
+1969-11-22,1969/1970,Fulham,Mansfield Town,1-1,1,1,Football League Third Division,3,D
+1969-11-22,1969/1970,Halifax Town,Tranmere Rovers,2-2,2,2,Football League Third Division,3,D
+1969-11-22,1969/1970,Bristol Rovers,Bradford City,1-1,1,1,Football League Third Division,3,D
+1969-11-22,1969/1970,Luton Town,Rochdale,2-0,2,0,Football League Third Division,3,H
+1969-11-22,1969/1970,Shrewsbury Town,Leyton Orient,1-1,1,1,Football League Third Division,3,D
+1969-11-22,1969/1970,Southport,Reading,6-2,6,2,Football League Third Division,3,H
+1969-11-22,1969/1970,Stockport County,Barrow,2-2,2,2,Football League Third Division,3,D
+1969-11-22,1969/1970,Torquay United,Rotherham United,0-0,0,0,Football League Third Division,3,D
+1969-11-22,1969/1970,Barnsley,Brighton & Hove Albion,1-2,1,2,Football League Third Division,3,A
+1969-11-22,1969/1970,AFC Bournemouth,Gillingham,2-1,2,1,Football League Third Division,3,H
+1969-11-24,1969/1970,Chesterfield,Exeter City,2-1,2,1,Football League Fourth Division,4,H
+1969-11-24,1969/1970,Hartlepool United,Darlington,1-3,1,3,Football League Fourth Division,4,A
+1969-11-24,1969/1970,Bradford Park Avenue,Wrexham,2-3,2,3,Football League Fourth Division,4,A
+1969-11-24,1969/1970,Brentford,Grimsby Town,3-0,3,0,Football League Fourth Division,4,H
+1969-11-24,1969/1970,Stockport County,Bristol Rovers,0-1,0,1,Football League Third Division,3,A
+1969-11-24,1969/1970,Rochdale,Mansfield Town,2-1,2,1,Football League Third Division,3,H
+1969-11-24,1969/1970,Leyton Orient,Walsall,2-0,2,0,Football League Third Division,3,H
+1969-11-24,1969/1970,Tranmere Rovers,Reading,1-5,1,5,Football League Third Division,3,A
+1969-11-25,1969/1970,Northampton Town,Colchester United,1-1,1,1,Football League Fourth Division,4,D
+1969-11-25,1969/1970,Scunthorpe United,Workington,1-0,1,0,Football League Fourth Division,4,H
+1969-11-25,1969/1970,Swansea City,Newport County,1-1,1,1,Football League Fourth Division,4,D
+1969-11-25,1969/1970,Luton Town,Fulham,1-0,1,0,Football League Third Division,3,H
+1969-11-25,1969/1970,Rotherham United,Brighton & Hove Albion,2-0,2,0,Football League Third Division,3,H
+1969-11-26,1969/1970,Peterborough United,Oldham Athletic,8-1,8,1,Football League Fourth Division,4,H
+1969-11-26,1969/1970,Crewe Alexandra,Lincoln City,3-1,3,1,Football League Fourth Division,4,H
+1969-11-26,1969/1970,Aldershot,York City,4-1,4,1,Football League Fourth Division,4,H
+1969-11-26,1969/1970,Chester,Southend United,2-0,2,0,Football League Fourth Division,4,H
+1969-11-26,1969/1970,Shrewsbury Town,Bury,3-3,3,3,Football League Third Division,3,D
+1969-11-26,1969/1970,Gillingham,Plymouth Argyle,4-0,4,0,Football League Third Division,3,H
+1969-11-26,1969/1970,AFC Bournemouth,Doncaster Rovers,3-1,3,1,Football League Third Division,3,H
+1969-11-26,1969/1970,Torquay United,Barnsley,1-1,1,1,Football League Third Division,3,D
+1969-11-29,1969/1970,Burnley,Manchester United,1-1,1,1,Football League First Division,1,D
+1969-11-29,1969/1970,Derby County,Nottingham Forest,0-2,0,2,Football League First Division,1,A
+1969-11-29,1969/1970,Liverpool,Arsenal,0-1,0,1,Football League First Division,1,A
+1969-11-29,1969/1970,Manchester City,Leeds United,1-2,1,2,Football League First Division,1,A
+1969-11-29,1969/1970,Ipswich Town,West Ham United,1-0,1,0,Football League First Division,1,H
+1969-11-29,1969/1970,Wolverhampton Wanderers,Sunderland,1-0,1,0,Football League First Division,1,H
+1969-11-29,1969/1970,Southampton,Crystal Palace,1-1,1,1,Football League First Division,1,D
+1969-11-29,1969/1970,Port Vale,Workington,3-1,3,1,Football League Fourth Division,4,H
+1969-11-29,1969/1970,Notts County,Scunthorpe United,3-1,3,1,Football League Fourth Division,4,H
+1969-11-29,1969/1970,Newport County,Bradford Park Avenue,5-1,5,1,Football League Fourth Division,4,H
+1969-11-29,1969/1970,Exeter City,Peterborough United,1-1,1,1,Football League Fourth Division,4,D
+1969-11-29,1969/1970,Crewe Alexandra,Darlington,2-0,2,0,Football League Fourth Division,4,H
+1969-11-29,1969/1970,Chesterfield,Oldham Athletic,3-1,3,1,Football League Fourth Division,4,H
+1969-11-29,1969/1970,Chester,York City,3-0,3,0,Football League Fourth Division,4,H
+1969-11-29,1969/1970,Southend United,Aldershot,2-2,2,2,Football League Fourth Division,4,D
+1969-11-29,1969/1970,Preston North End,Swindon Town,3-1,3,1,Football League Second Division,2,H
+1969-11-29,1969/1970,Bolton Wanderers,Queens Park Rangers,6-4,6,4,Football League Second Division,2,H
+1969-11-29,1969/1970,Bristol City,Blackpool,2-1,2,1,Football League Second Division,2,H
+1969-11-29,1969/1970,Carlisle United,Sheffield United,0-1,0,1,Football League Second Division,2,A
+1969-11-29,1969/1970,Oxford United,Blackburn Rovers,1-0,1,0,Football League Second Division,2,H
+1969-11-29,1969/1970,Brighton & Hove Albion,Torquay United,2-2,2,2,Football League Third Division,3,D
+1969-11-29,1969/1970,Walsall,Shrewsbury Town,3-2,3,2,Football League Third Division,3,H
+1969-11-29,1969/1970,Tranmere Rovers,Southport,0-1,0,1,Football League Third Division,3,A
+1969-11-29,1969/1970,Bradford City,Stockport County,1-0,1,0,Football League Third Division,3,H
+1969-11-29,1969/1970,Plymouth Argyle,AFC Bournemouth,0-1,0,1,Football League Third Division,3,A
+1969-11-29,1969/1970,Barrow,Bristol Rovers,1-1,1,1,Football League Third Division,3,D
+1969-12-01,1969/1970,Barrow,Bradford City,0-1,0,1,Football League Third Division,3,A
+1969-12-02,1969/1970,Rotherham United,Barnsley,2-0,2,0,Football League Third Division,3,H
+1969-12-05,1969/1970,Torquay United,Reading,1-1,1,1,Football League Third Division,3,D
+1969-12-06,1969/1970,West Bromwich Albion,Burnley,0-1,0,1,Football League First Division,1,A
+1969-12-06,1969/1970,Sunderland,Ipswich Town,2-1,2,1,Football League First Division,1,H
+1969-12-06,1969/1970,Stoke City,Newcastle United,0-1,0,1,Football League First Division,1,A
+1969-12-06,1969/1970,Nottingham Forest,Sheffield Wednesday,2-1,2,1,Football League First Division,1,H
+1969-12-06,1969/1970,Manchester United,Chelsea,0-2,0,2,Football League First Division,1,A
+1969-12-06,1969/1970,Leeds United,Wolverhampton Wanderers,3-1,3,1,Football League First Division,1,H
+1969-12-06,1969/1970,Everton,Liverpool,0-3,0,3,Football League First Division,1,A
+1969-12-06,1969/1970,Crystal Palace,Derby County,0-1,0,1,Football League First Division,1,A
+1969-12-06,1969/1970,Coventry City,Tottenham Hotspur,3-2,3,2,Football League First Division,1,H
+1969-12-06,1969/1970,Arsenal,Southampton,2-2,2,2,Football League First Division,1,D
+1969-12-06,1969/1970,West Ham United,Manchester City,0-4,0,4,Football League First Division,1,A
+1969-12-06,1969/1970,Charlton Athletic,Bolton Wanderers,1-1,1,1,Football League Second Division,2,D
+1969-12-06,1969/1970,Blackpool,Carlisle United,1-1,1,1,Football League Second Division,2,D
+1969-12-06,1969/1970,Portsmouth,Preston North End,4-0,4,0,Football League Second Division,2,H
+1969-12-06,1969/1970,Sheffield United,Leicester City,1-0,1,0,Football League Second Division,2,H
+1969-12-06,1969/1970,Swindon Town,Bristol City,1-1,1,1,Football League Second Division,2,D
+1969-12-06,1969/1970,Blackburn Rovers,Aston Villa,2-0,2,0,Football League Second Division,2,H
+1969-12-06,1969/1970,Queens Park Rangers,Oxford United,1-2,1,2,Football League Second Division,2,A
+1969-12-06,1969/1970,Birmingham City,Huddersfield Town,2-2,2,2,Football League Second Division,2,D
+1969-12-06,1969/1970,Cardiff City,Watford,3-1,3,1,Football League Second Division,2,H
+1969-12-06,1969/1970,Halifax Town,Southport,1-0,1,0,Football League Third Division,3,H
+1969-12-06,1969/1970,Bury,Rochdale,2-1,2,1,Football League Third Division,3,H
+1969-12-08,1969/1970,Millwall,Portsmouth,3-1,3,1,Football League Second Division,2,H
+1969-12-13,1969/1970,Arsenal,Burnley,3-2,3,2,Football League First Division,1,H
+1969-12-13,1969/1970,Crystal Palace,Coventry City,0-3,0,3,Football League First Division,1,A
+1969-12-13,1969/1970,Ipswich Town,West Bromwich Albion,0-1,0,1,Football League First Division,1,A
+1969-12-13,1969/1970,Leeds United,Sheffield Wednesday,2-0,2,0,Football League First Division,1,H
+1969-12-13,1969/1970,Liverpool,Manchester United,1-4,1,4,Football League First Division,1,A
+1969-12-13,1969/1970,Manchester City,Tottenham Hotspur,1-1,1,1,Football League First Division,1,D
+1969-12-13,1969/1970,Southampton,Nottingham Forest,1-2,1,2,Football League First Division,1,A
+1969-12-13,1969/1970,Sunderland,Stoke City,0-3,0,3,Football League First Division,1,A
+1969-12-13,1969/1970,West Ham United,Everton,0-1,0,1,Football League First Division,1,A
+1969-12-13,1969/1970,Derby County,Newcastle United,2-0,2,0,Football League First Division,1,H
+1969-12-13,1969/1970,Wolverhampton Wanderers,Chelsea,3-0,3,0,Football League First Division,1,H
+1969-12-13,1969/1970,Wrexham,Aldershot,1-1,1,1,Football League Fourth Division,4,D
+1969-12-13,1969/1970,Bradford Park Avenue,York City,2-0,2,0,Football League Fourth Division,4,H
+1969-12-13,1969/1970,Notts County,Chester,3-0,3,0,Football League Fourth Division,4,H
+1969-12-13,1969/1970,Darlington,Northampton Town,2-2,2,2,Football League Fourth Division,4,D
+1969-12-13,1969/1970,Hartlepool United,Southend United,2-1,2,1,Football League Fourth Division,4,H
+1969-12-13,1969/1970,Lincoln City,Peterborough United,3-0,3,0,Football League Fourth Division,4,H
+1969-12-13,1969/1970,Newport County,Chesterfield,0-2,0,2,Football League Fourth Division,4,A
+1969-12-13,1969/1970,Port Vale,Oldham Athletic,1-0,1,0,Football League Fourth Division,4,H
+1969-12-13,1969/1970,Scunthorpe United,Grimsby Town,1-1,1,1,Football League Fourth Division,4,D
+1969-12-13,1969/1970,Swansea City,Brentford,1-0,1,0,Football League Fourth Division,4,H
+1969-12-13,1969/1970,Workington,Exeter City,1-2,1,2,Football League Fourth Division,4,A
+1969-12-13,1969/1970,Crewe Alexandra,Colchester United,0-1,0,1,Football League Fourth Division,4,A
+1969-12-13,1969/1970,Sheffield United,Birmingham City,6-0,6,0,Football League Second Division,2,H
+1969-12-13,1969/1970,Aston Villa,Watford,0-2,0,2,Football League Second Division,2,A
+1969-12-13,1969/1970,Blackburn Rovers,Preston North End,4-2,4,2,Football League Second Division,2,H
+1969-12-13,1969/1970,Blackpool,Huddersfield Town,2-0,2,0,Football League Second Division,2,H
+1969-12-13,1969/1970,Bolton Wanderers,Hull City,2-1,2,1,Football League Second Division,2,H
+1969-12-13,1969/1970,Bristol City,Middlesbrough,0-0,0,0,Football League Second Division,2,D
+1969-12-13,1969/1970,Carlisle United,Millwall,4-0,4,0,Football League Second Division,2,H
+1969-12-13,1969/1970,Charlton Athletic,Norwich City,3-0,3,0,Football League Second Division,2,H
+1969-12-13,1969/1970,Leicester City,Cardiff City,1-2,1,2,Football League Second Division,2,A
+1969-12-13,1969/1970,Oxford United,Swindon Town,0-0,0,0,Football League Second Division,2,D
+1969-12-13,1969/1970,Queens Park Rangers,Portsmouth,2-0,2,0,Football League Second Division,2,H
+1969-12-13,1969/1970,Torquay United,AFC Bournemouth,2-2,2,2,Football League Third Division,3,D
+1969-12-13,1969/1970,Southport,Shrewsbury Town,0-2,0,2,Football League Third Division,3,A
+1969-12-13,1969/1970,Rotherham United,Walsall,4-1,4,1,Football League Third Division,3,H
+1969-12-13,1969/1970,Halifax Town,Plymouth Argyle,2-0,2,0,Football League Third Division,3,H
+1969-12-13,1969/1970,Reading,Stockport County,3-1,3,1,Football League Third Division,3,H
+1969-12-13,1969/1970,Luton Town,Bradford City,5-0,5,0,Football League Third Division,3,H
+1969-12-13,1969/1970,Tranmere Rovers,Doncaster Rovers,1-3,1,3,Football League Third Division,3,A
+1969-12-13,1969/1970,Rochdale,Gillingham,0-0,0,0,Football League Third Division,3,D
+1969-12-13,1969/1970,Fulham,Bristol Rovers,3-1,3,1,Football League Third Division,3,H
+1969-12-13,1969/1970,Brighton & Hove Albion,Leyton Orient,0-0,0,0,Football League Third Division,3,D
+1969-12-13,1969/1970,Mansfield Town,Barrow,4-2,4,2,Football League Third Division,3,H
+1969-12-13,1969/1970,Barnsley,Bury,3-3,3,3,Football League Third Division,3,D
+1969-12-15,1969/1970,Millwall,Cardiff City,1-2,1,2,Football League Second Division,2,A
+1969-12-16,1969/1970,Middlesbrough,Birmingham City,4-2,4,2,Football League Second Division,2,H
+1969-12-17,1969/1970,Leeds United,West Ham United,4-1,4,1,Football League First Division,1,H
+1969-12-17,1969/1970,Leicester City,Hull City,2-2,2,2,Football League Second Division,2,D
+1969-12-20,1969/1970,Chelsea,Manchester City,3-1,3,1,Football League First Division,1,H
+1969-12-20,1969/1970,Newcastle United,Ipswich Town,4-0,4,0,Football League First Division,1,H
+1969-12-20,1969/1970,Nottingham Forest,Wolverhampton Wanderers,4-2,4,2,Football League First Division,1,H
+1969-12-20,1969/1970,Sheffield Wednesday,Arsenal,1-1,1,1,Football League First Division,1,D
+1969-12-20,1969/1970,Everton,Derby County,1-0,1,0,Football League First Division,1,H
+1969-12-20,1969/1970,Tottenham Hotspur,West Ham United,0-2,0,2,Football League First Division,1,A
+1969-12-20,1969/1970,Stoke City,Crystal Palace,1-0,1,0,Football League First Division,1,H
+1969-12-20,1969/1970,Southend United,Swansea City,2-1,2,1,Football League Fourth Division,4,H
+1969-12-20,1969/1970,Northampton Town,Hartlepool United,0-1,0,1,Football League Fourth Division,4,A
+1969-12-20,1969/1970,Exeter City,Scunthorpe United,4-1,4,1,Football League Fourth Division,4,H
+1969-12-20,1969/1970,Colchester United,Darlington,2-1,2,1,Football League Fourth Division,4,H
+1969-12-20,1969/1970,Chester,Port Vale,1-1,1,1,Football League Fourth Division,4,D
+1969-12-20,1969/1970,Brentford,Newport County,1-0,1,0,Football League Fourth Division,4,H
+1969-12-20,1969/1970,Aldershot,Workington,3-1,3,1,Football League Fourth Division,4,H
+1969-12-20,1969/1970,Portsmouth,Leicester City,2-3,2,3,Football League Second Division,2,A
+1969-12-20,1969/1970,Watford,Oxford United,2-0,2,0,Football League Second Division,2,H
+1969-12-20,1969/1970,Cardiff City,Charlton Athletic,1-0,1,0,Football League Second Division,2,H
+1969-12-20,1969/1970,Hull City,Carlisle United,2-4,2,4,Football League Second Division,2,A
+1969-12-20,1969/1970,Norwich City,Sheffield United,1-1,1,1,Football League Second Division,2,D
+1969-12-20,1969/1970,Walsall,Barnsley,3-2,3,2,Football League Third Division,3,H
+1969-12-20,1969/1970,Shrewsbury Town,Fulham,1-1,1,1,Football League Third Division,3,D
+1969-12-20,1969/1970,Plymouth Argyle,Southport,1-1,1,1,Football League Third Division,3,D
+1969-12-20,1969/1970,Leyton Orient,Rotherham United,1-1,1,1,Football League Third Division,3,D
+1969-12-20,1969/1970,Gillingham,Brighton & Hove Albion,0-1,0,1,Football League Third Division,3,A
+1969-12-20,1969/1970,Barrow,Rochdale,2-0,2,0,Football League Third Division,3,H
+1969-12-20,1969/1970,AFC Bournemouth,Tranmere Rovers,2-2,2,2,Football League Third Division,3,D
+1969-12-23,1969/1970,Everton,Manchester City,1-0,1,0,Football League First Division,1,H
+1969-12-26,1969/1970,Chelsea,Southampton,3-1,3,1,Football League First Division,1,H
+1969-12-26,1969/1970,Burnley,Liverpool,1-5,1,5,Football League First Division,1,A
+1969-12-26,1969/1970,Manchester United,Wolverhampton Wanderers,0-0,0,0,Football League First Division,1,D
+1969-12-26,1969/1970,Newcastle United,Leeds United,2-1,2,1,Football League First Division,1,H
+1969-12-26,1969/1970,Nottingham Forest,Arsenal,1-1,1,1,Football League First Division,1,D
+1969-12-26,1969/1970,Sheffield Wednesday,Sunderland,2-0,2,0,Football League First Division,1,H
+1969-12-26,1969/1970,Stoke City,Derby County,1-0,1,0,Football League First Division,1,H
+1969-12-26,1969/1970,Tottenham Hotspur,Crystal Palace,2-0,2,0,Football League First Division,1,H
+1969-12-26,1969/1970,West Bromwich Albion,West Ham United,3-1,3,1,Football League First Division,1,H
+1969-12-26,1969/1970,Coventry City,Ipswich Town,3-1,3,1,Football League First Division,1,H
+1969-12-26,1969/1970,Aldershot,Swansea City,2-2,2,2,Football League Fourth Division,4,D
+1969-12-26,1969/1970,Brentford,Crewe Alexandra,1-1,1,1,Football League Fourth Division,4,D
+1969-12-26,1969/1970,Oldham Athletic,Workington,1-2,1,2,Football League Fourth Division,4,A
+1969-12-26,1969/1970,Chesterfield,Darlington,2-0,2,0,Football League Fourth Division,4,H
+1969-12-26,1969/1970,Colchester United,Notts County,2-1,2,1,Football League Fourth Division,4,H
+1969-12-26,1969/1970,Exeter City,Newport County,1-1,1,1,Football League Fourth Division,4,D
+1969-12-26,1969/1970,Grimsby Town,Bradford Park Avenue,2-2,2,2,Football League Fourth Division,4,D
+1969-12-26,1969/1970,Northampton Town,Port Vale,2-0,2,0,Football League Fourth Division,4,H
+1969-12-26,1969/1970,Peterborough United,Scunthorpe United,2-2,2,2,Football League Fourth Division,4,D
+1969-12-26,1969/1970,Southend United,Lincoln City,2-2,2,2,Football League Fourth Division,4,D
+1969-12-26,1969/1970,York City,Hartlepool United,0-0,0,0,Football League Fourth Division,4,D
+1969-12-26,1969/1970,Chester,Wrexham,2-0,2,0,Football League Fourth Division,4,H
+1969-12-26,1969/1970,Huddersfield Town,Sheffield United,2-1,2,1,Football League Second Division,2,H
+1969-12-26,1969/1970,Hull City,Blackburn Rovers,3-0,3,0,Football League Second Division,2,H
+1969-12-26,1969/1970,Middlesbrough,Carlisle United,0-2,0,2,Football League Second Division,2,A
+1969-12-26,1969/1970,Millwall,Queens Park Rangers,2-0,2,0,Football League Second Division,2,H
+1969-12-26,1969/1970,Norwich City,Leicester City,3-0,3,0,Football League Second Division,2,H
+1969-12-26,1969/1970,Preston North End,Bolton Wanderers,1-3,1,3,Football League Second Division,2,A
+1969-12-26,1969/1970,Swindon Town,Aston Villa,1-1,1,1,Football League Second Division,2,D
+1969-12-26,1969/1970,Watford,Charlton Athletic,1-1,1,1,Football League Second Division,2,D
+1969-12-26,1969/1970,Birmingham City,Blackpool,2-3,2,3,Football League Second Division,2,A
+1969-12-26,1969/1970,Gillingham,Fulham,2-0,2,0,Football League Third Division,3,H
+1969-12-26,1969/1970,Leyton Orient,Luton Town,1-0,1,0,Football League Third Division,3,H
+1969-12-26,1969/1970,Plymouth Argyle,Torquay United,6-0,6,0,Football League Third Division,3,H
+1969-12-26,1969/1970,Doncaster Rovers,Rotherham United,1-2,1,2,Football League Third Division,3,A
+1969-12-26,1969/1970,Shrewsbury Town,Tranmere Rovers,2-0,2,0,Football League Third Division,3,H
+1969-12-26,1969/1970,Stockport County,Barnsley,1-0,1,0,Football League Third Division,3,H
+1969-12-26,1969/1970,Walsall,Mansfield Town,1-0,1,0,Football League Third Division,3,H
+1969-12-26,1969/1970,Bristol Rovers,Reading,1-1,1,1,Football League Third Division,3,D
+1969-12-26,1969/1970,Bradford City,Halifax Town,2-1,2,1,Football League Third Division,3,H
+1969-12-26,1969/1970,AFC Bournemouth,Brighton & Hove Albion,0-0,0,0,Football League Third Division,3,D
+1969-12-26,1969/1970,Barrow,Southport,1-0,1,0,Football League Third Division,3,H
+1969-12-27,1969/1970,Arsenal,Newcastle United,0-0,0,0,Football League First Division,1,D
+1969-12-27,1969/1970,Crystal Palace,Chelsea,1-5,1,5,Football League First Division,1,A
+1969-12-27,1969/1970,Derby County,West Bromwich Albion,2-0,2,0,Football League First Division,1,H
+1969-12-27,1969/1970,Ipswich Town,Tottenham Hotspur,2-0,2,0,Football League First Division,1,H
+1969-12-27,1969/1970,Leeds United,Everton,2-1,2,1,Football League First Division,1,H
+1969-12-27,1969/1970,Sunderland,Manchester United,1-1,1,1,Football League First Division,1,D
+1969-12-27,1969/1970,West Ham United,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1969-12-27,1969/1970,Southampton,Stoke City,0-0,0,0,Football League First Division,1,D
+1969-12-27,1969/1970,Bradford Park Avenue,Exeter City,2-1,2,1,Football League Fourth Division,4,H
+1969-12-27,1969/1970,Notts County,Peterborough United,2-2,2,2,Football League Fourth Division,4,D
+1969-12-27,1969/1970,Hartlepool United,Chesterfield,0-0,0,0,Football League Fourth Division,4,D
+1969-12-27,1969/1970,Lincoln City,Northampton Town,0-0,0,0,Football League Fourth Division,4,D
+1969-12-27,1969/1970,Newport County,Aldershot,3-4,3,4,Football League Fourth Division,4,A
+1969-12-27,1969/1970,Scunthorpe United,Oldham Athletic,2-1,2,1,Football League Fourth Division,4,H
+1969-12-27,1969/1970,Swansea City,York City,2-1,2,1,Football League Fourth Division,4,H
+1969-12-27,1969/1970,Darlington,Brentford,1-2,1,2,Football League Fourth Division,4,A
+1969-12-27,1969/1970,Sheffield United,Watford,1-1,1,1,Football League Second Division,2,D
+1969-12-27,1969/1970,Bristol City,Huddersfield Town,1-2,1,2,Football League Second Division,2,A
+1969-12-27,1969/1970,Carlisle United,Norwich City,2-1,2,1,Football League Second Division,2,H
+1969-12-27,1969/1970,Charlton Athletic,Swindon Town,1-1,1,1,Football League Second Division,2,D
+1969-12-27,1969/1970,Leicester City,Millwall,1-1,1,1,Football League Second Division,2,D
+1969-12-27,1969/1970,Queens Park Rangers,Birmingham City,2-1,2,1,Football League Second Division,2,H
+1969-12-27,1969/1970,Blackburn Rovers,Portsmouth,0-3,0,3,Football League Second Division,2,A
+1969-12-27,1969/1970,Halifax Town,Bristol Rovers,1-1,1,1,Football League Third Division,3,D
+1969-12-27,1969/1970,Luton Town,Gillingham,1-2,1,2,Football League Third Division,3,A
+1969-12-27,1969/1970,Mansfield Town,Leyton Orient,4-1,4,1,Football League Third Division,3,H
+1969-12-27,1969/1970,Reading,Shrewsbury Town,3-1,3,1,Football League Third Division,3,H
+1969-12-27,1969/1970,Rotherham United,AFC Bournemouth,3-0,3,0,Football League Third Division,3,H
+1969-12-27,1969/1970,Fulham,Barrow,2-1,2,1,Football League Third Division,3,H
+1969-12-27,1969/1970,Brighton & Hove Albion,Bury,2-0,2,0,Football League Third Division,3,H
+1969-12-27,1969/1970,Barnsley,Doncaster Rovers,2-1,2,1,Football League Third Division,3,H
+1969-12-29,1969/1970,Cardiff City,Bristol City,1-0,1,0,Football League Second Division,2,H
+1970-01-02,1969/1970,Fulham,Leyton Orient,1-1,1,1,Football League Third Division,3,D
+1970-01-03,1969/1970,Grimsby Town,Notts County,2-1,2,1,Football League Fourth Division,4,H
+1970-01-03,1969/1970,Lincoln City,Brentford,1-0,1,0,Football League Fourth Division,4,H
+1970-01-03,1969/1970,Bury,Stockport County,4-1,4,1,Football League Third Division,3,H
+1970-01-03,1969/1970,Brighton & Hove Albion,Doncaster Rovers,1-0,1,0,Football League Third Division,3,H
+1970-01-06,1969/1970,Manchester City,Burnley,1-1,1,1,Football League First Division,1,D
+1970-01-10,1969/1970,Chelsea,Leeds United,2-5,2,5,Football League First Division,1,A
+1970-01-10,1969/1970,Coventry City,Manchester City,3-0,3,0,Football League First Division,1,H
+1970-01-10,1969/1970,Everton,Ipswich Town,3-0,3,0,Football League First Division,1,H
+1970-01-10,1969/1970,Manchester United,Arsenal,2-1,2,1,Football League First Division,1,H
+1970-01-10,1969/1970,Sheffield Wednesday,West Ham United,2-3,2,3,Football League First Division,1,A
+1970-01-10,1969/1970,Stoke City,Liverpool,0-2,0,2,Football League First Division,1,A
+1970-01-10,1969/1970,Burnley,Wolverhampton Wanderers,1-3,1,3,Football League First Division,1,A
+1970-01-10,1969/1970,West Bromwich Albion,Crystal Palace,3-2,3,2,Football League First Division,1,H
+1970-01-10,1969/1970,Tottenham Hotspur,Derby County,2-1,2,1,Football League First Division,1,H
+1970-01-10,1969/1970,Southend United,Newport County,3-2,3,2,Football League Fourth Division,4,H
+1970-01-10,1969/1970,Aldershot,Scunthorpe United,3-1,3,1,Football League Fourth Division,4,H
+1970-01-10,1969/1970,Brentford,Bradford Park Avenue,1-1,1,1,Football League Fourth Division,4,D
+1970-01-10,1969/1970,Chester,Lincoln City,1-2,1,2,Football League Fourth Division,4,A
+1970-01-10,1969/1970,Colchester United,Hartlepool United,1-1,1,1,Football League Fourth Division,4,D
+1970-01-10,1969/1970,Exeter City,Notts County,1-1,1,1,Football League Fourth Division,4,D
+1970-01-10,1969/1970,Grimsby Town,Port Vale,2-0,2,0,Football League Fourth Division,4,H
+1970-01-10,1969/1970,Peterborough United,Darlington,3-2,3,2,Football League Fourth Division,4,H
+1970-01-10,1969/1970,Swindon Town,Queens Park Rangers,0-0,0,0,Football League Second Division,2,D
+1970-01-10,1969/1970,Watford,Blackpool,0-1,0,1,Football League Second Division,2,A
+1970-01-10,1969/1970,Birmingham City,Charlton Athletic,3-0,3,0,Football League Second Division,2,H
+1970-01-10,1969/1970,Cardiff City,Sheffield United,3-0,3,0,Football League Second Division,2,H
+1970-01-10,1969/1970,Middlesbrough,Oxford United,2-0,2,0,Football League Second Division,2,H
+1970-01-10,1969/1970,Norwich City,Bristol City,4-1,4,1,Football League Second Division,2,H
+1970-01-10,1969/1970,Portsmouth,Bolton Wanderers,1-1,1,1,Football League Second Division,2,D
+1970-01-10,1969/1970,Preston North End,Carlisle United,3-1,3,1,Football League Second Division,2,H
+1970-01-10,1969/1970,Bury,Tranmere Rovers,8-0,8,0,Football League Third Division,3,H
+1970-01-10,1969/1970,Doncaster Rovers,Halifax Town,0-1,0,1,Football League Third Division,3,A
+1970-01-10,1969/1970,Gillingham,Rotherham United,1-1,1,1,Football League Third Division,3,D
+1970-01-10,1969/1970,Plymouth Argyle,Fulham,2-0,2,0,Football League Third Division,3,H
+1970-01-10,1969/1970,Shrewsbury Town,Luton Town,5-1,5,1,Football League Third Division,3,H
+1970-01-10,1969/1970,Stockport County,Southport,0-0,0,0,Football League Third Division,3,D
+1970-01-10,1969/1970,Walsall,Torquay United,0-1,0,1,Football League Third Division,3,A
+1970-01-10,1969/1970,AFC Bournemouth,Reading,1-2,1,2,Football League Third Division,3,A
+1970-01-10,1969/1970,Bristol Rovers,Mansfield Town,4-1,4,1,Football League Third Division,3,H
+1970-01-13,1969/1970,Middlesbrough,Blackburn Rovers,4-1,4,1,Football League Second Division,2,H
+1970-01-13,1969/1970,Rotherham United,Stockport County,0-0,0,0,Football League Third Division,3,D
+1970-01-14,1969/1970,Reading,Bradford City,1-0,1,0,Football League Third Division,3,H
+1970-01-15,1969/1970,Workington,Peterborough United,1-1,1,1,Football League Fourth Division,4,D
+1970-01-17,1969/1970,Arsenal,Chelsea,0-3,0,3,Football League First Division,1,A
+1970-01-17,1969/1970,Crystal Palace,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1970-01-17,1969/1970,Derby County,Sheffield Wednesday,1-0,1,0,Football League First Division,1,H
+1970-01-17,1969/1970,Ipswich Town,Burnley,0-1,0,1,Football League First Division,1,A
+1970-01-17,1969/1970,Liverpool,West Bromwich Albion,1-1,1,1,Football League First Division,1,D
+1970-01-17,1969/1970,Manchester City,Stoke City,0-1,0,1,Football League First Division,1,A
+1970-01-17,1969/1970,Southampton,Everton,2-1,2,1,Football League First Division,1,H
+1970-01-17,1969/1970,Sunderland,Tottenham Hotspur,2-1,2,1,Football League First Division,1,H
+1970-01-17,1969/1970,West Ham United,Manchester United,0-0,0,0,Football League First Division,1,D
+1970-01-17,1969/1970,Wolverhampton Wanderers,Newcastle United,1-1,1,1,Football League First Division,1,D
+1970-01-17,1969/1970,Leeds United,Coventry City,3-1,3,1,Football League First Division,1,H
+1970-01-17,1969/1970,Bradford Park Avenue,Southend United,1-0,1,0,Football League Fourth Division,4,H
+1970-01-17,1969/1970,Crewe Alexandra,Chester,3-0,3,0,Football League Fourth Division,4,H
+1970-01-17,1969/1970,Wrexham,Brentford,1-0,1,0,Football League Fourth Division,4,H
+1970-01-17,1969/1970,Hartlepool United,Peterborough United,4-2,4,2,Football League Fourth Division,4,H
+1970-01-17,1969/1970,Lincoln City,Grimsby Town,2-0,2,0,Football League Fourth Division,4,H
+1970-01-17,1969/1970,Newport County,Northampton Town,0-2,0,2,Football League Fourth Division,4,A
+1970-01-17,1969/1970,Notts County,Aldershot,3-0,3,0,Football League Fourth Division,4,H
+1970-01-17,1969/1970,Port Vale,Exeter City,2-0,2,0,Football League Fourth Division,4,H
+1970-01-17,1969/1970,Scunthorpe United,York City,1-1,1,1,Football League Fourth Division,4,D
+1970-01-17,1969/1970,Swansea City,Colchester United,1-0,1,0,Football League Fourth Division,4,H
+1970-01-17,1969/1970,Workington,Chesterfield,1-1,1,1,Football League Fourth Division,4,D
+1970-01-17,1969/1970,Darlington,Oldham Athletic,1-1,1,1,Football League Fourth Division,4,D
+1970-01-17,1969/1970,Sheffield United,Preston North End,2-0,2,0,Football League Second Division,2,H
+1970-01-17,1969/1970,Blackburn Rovers,Watford,1-0,1,0,Football League Second Division,2,H
+1970-01-17,1969/1970,Blackpool,Middlesbrough,1-1,1,1,Football League Second Division,2,D
+1970-01-17,1969/1970,Bolton Wanderers,Huddersfield Town,1-1,1,1,Football League Second Division,2,D
+1970-01-17,1969/1970,Bristol City,Millwall,1-1,1,1,Football League Second Division,2,D
+1970-01-17,1969/1970,Carlisle United,Birmingham City,4-3,4,3,Football League Second Division,2,H
+1970-01-17,1969/1970,Charlton Athletic,Hull City,1-4,1,4,Football League Second Division,2,A
+1970-01-17,1969/1970,Leicester City,Swindon Town,0-2,0,2,Football League Second Division,2,A
+1970-01-17,1969/1970,Oxford United,Norwich City,1-0,1,0,Football League Second Division,2,H
+1970-01-17,1969/1970,Queens Park Rangers,Cardiff City,2-1,2,1,Football League Second Division,2,H
+1970-01-17,1969/1970,Aston Villa,Portsmouth,3-5,3,5,Football League Second Division,2,A
+1970-01-17,1969/1970,Mansfield Town,Shrewsbury Town,2-0,2,0,Football League Third Division,3,H
+1970-01-17,1969/1970,Reading,Bury,3-2,3,2,Football League Third Division,3,H
+1970-01-17,1969/1970,Rochdale,Bristol Rovers,0-0,0,0,Football League Third Division,3,D
+1970-01-17,1969/1970,Rotherham United,Barrow,5-0,5,0,Football League Third Division,3,H
+1970-01-17,1969/1970,Southport,Doncaster Rovers,2-2,2,2,Football League Third Division,3,D
+1970-01-17,1969/1970,Torquay United,Leyton Orient,0-1,0,1,Football League Third Division,3,A
+1970-01-17,1969/1970,Tranmere Rovers,Walsall,0-0,0,0,Football League Third Division,3,D
+1970-01-17,1969/1970,Halifax Town,AFC Bournemouth,4-1,4,1,Football League Third Division,3,H
+1970-01-17,1969/1970,Fulham,Stockport County,1-1,1,1,Football League Third Division,3,D
+1970-01-17,1969/1970,Brighton & Hove Albion,Bradford City,2-1,2,1,Football League Third Division,3,H
+1970-01-17,1969/1970,Luton Town,Plymouth Argyle,0-2,0,2,Football League Third Division,3,A
+1970-01-17,1969/1970,Barnsley,Gillingham,5-1,5,1,Football League Third Division,3,H
+1970-01-19,1969/1970,Bradford Park Avenue,Chester,1-2,1,2,Football League Fourth Division,4,A
+1970-01-20,1969/1970,Huddersfield Town,Queens Park Rangers,2-0,2,0,Football League Second Division,2,H
+1970-01-20,1969/1970,Millwall,Blackburn Rovers,3-1,3,1,Football League Second Division,2,H
+1970-01-20,1969/1970,Doncaster Rovers,Reading,2-3,2,3,Football League Third Division,3,A
+1970-01-23,1969/1970,Doncaster Rovers,Rochdale,3-1,3,1,Football League Third Division,3,H
+1970-01-23,1969/1970,Stockport County,Brighton & Hove Albion,0-1,0,1,Football League Third Division,3,A
+1970-01-24,1969/1970,Wolverhampton Wanderers,Ipswich Town,2-0,2,0,Football League First Division,1,H
+1970-01-24,1969/1970,Nottingham Forest,Sunderland,2-1,2,1,Football League First Division,1,H
+1970-01-24,1969/1970,Everton,Newcastle United,0-0,0,0,Football League First Division,1,D
+1970-01-24,1969/1970,Southend United,Notts County,2-5,2,5,Football League Fourth Division,4,A
+1970-01-24,1969/1970,Oldham Athletic,Bradford Park Avenue,0-0,0,0,Football League Fourth Division,4,D
+1970-01-24,1969/1970,Grimsby Town,Swansea City,0-2,0,2,Football League Fourth Division,4,A
+1970-01-24,1969/1970,Exeter City,Hartlepool United,6-0,6,0,Football League Fourth Division,4,H
+1970-01-24,1969/1970,Colchester United,Workington,3-0,3,0,Football League Fourth Division,4,H
+1970-01-24,1969/1970,Chesterfield,Lincoln City,4-0,4,0,Football League Fourth Division,4,H
+1970-01-24,1969/1970,Brentford,Port Vale,1-0,1,0,Football League Fourth Division,4,H
+1970-01-24,1969/1970,Preston North End,Bristol City,0-1,0,1,Football League Second Division,2,A
+1970-01-24,1969/1970,Portsmouth,Oxford United,2-1,2,1,Football League Second Division,2,H
+1970-01-24,1969/1970,Hull City,Millwall,2-1,2,1,Football League Second Division,2,H
+1970-01-24,1969/1970,Huddersfield Town,Cardiff City,1-0,1,0,Football League Second Division,2,H
+1970-01-24,1969/1970,Shrewsbury Town,Barnsley,1-1,1,1,Football League Third Division,3,D
+1970-01-24,1969/1970,Plymouth Argyle,Rotherham United,0-3,0,3,Football League Third Division,3,A
+1970-01-24,1969/1970,Bury,Luton Town,1-3,1,3,Football League Third Division,3,A
+1970-01-24,1969/1970,Bradford City,AFC Bournemouth,8-1,8,1,Football League Third Division,3,H
+1970-01-24,1969/1970,Barrow,Reading,2-2,2,2,Football League Third Division,3,D
+1970-01-24,1969/1970,Bristol Rovers,Torquay United,3-1,3,1,Football League Third Division,3,H
+1970-01-26,1969/1970,Manchester United,Leeds United,2-2,2,2,Football League First Division,1,D
+1970-01-26,1969/1970,Leyton Orient,Bury,3-0,3,0,Football League Third Division,3,H
+1970-01-26,1969/1970,Rochdale,AFC Bournemouth,0-1,0,1,Football League Third Division,3,A
+1970-01-27,1969/1970,West Bromwich Albion,Sunderland,3-1,3,1,Football League First Division,1,H
+1970-01-27,1969/1970,Scunthorpe United,Colchester United,1-1,1,1,Football League Fourth Division,4,D
+1970-01-27,1969/1970,Crewe Alexandra,Southend United,5-3,5,3,Football League Fourth Division,4,H
+1970-01-27,1969/1970,Halifax Town,Barrow,3-0,3,0,Football League Third Division,3,H
+1970-01-27,1969/1970,Walsall,Fulham,1-3,1,3,Football League Third Division,3,A
+1970-01-28,1969/1970,Sheffield Wednesday,Coventry City,0-1,0,1,Football League First Division,1,A
+1970-01-31,1969/1970,Burnley,West Ham United,3-2,3,2,Football League First Division,1,H
+1970-01-31,1969/1970,Chelsea,Sunderland,3-1,3,1,Football League First Division,1,H
+1970-01-31,1969/1970,Coventry City,Arsenal,2-0,2,0,Football League First Division,1,H
+1970-01-31,1969/1970,Everton,Wolverhampton Wanderers,1-0,1,0,Football League First Division,1,H
+1970-01-31,1969/1970,Manchester United,Derby County,1-0,1,0,Football League First Division,1,H
+1970-01-31,1969/1970,Newcastle United,Crystal Palace,0-0,0,0,Football League First Division,1,D
+1970-01-31,1969/1970,Nottingham Forest,Liverpool,1-0,1,0,Football League First Division,1,H
+1970-01-31,1969/1970,Sheffield Wednesday,Ipswich Town,2-2,2,2,Football League First Division,1,D
+1970-01-31,1969/1970,Stoke City,Leeds United,1-1,1,1,Football League First Division,1,D
+1970-01-31,1969/1970,Tottenham Hotspur,Southampton,0-1,0,1,Football League First Division,1,A
+1970-01-31,1969/1970,West Bromwich Albion,Manchester City,3-0,3,0,Football League First Division,1,H
+1970-01-31,1969/1970,York City,Notts County,1-2,1,2,Football League Fourth Division,4,A
+1970-01-31,1969/1970,Brentford,Workington,1-0,1,0,Football League Fourth Division,4,H
+1970-01-31,1969/1970,Chester,Darlington,1-3,1,3,Football League Fourth Division,4,A
+1970-01-31,1969/1970,Chesterfield,Scunthorpe United,2-1,2,1,Football League Fourth Division,4,H
+1970-01-31,1969/1970,Colchester United,Newport County,1-1,1,1,Football League Fourth Division,4,D
+1970-01-31,1969/1970,Exeter City,Lincoln City,1-2,1,2,Football League Fourth Division,4,A
+1970-01-31,1969/1970,Grimsby Town,Crewe Alexandra,0-2,0,2,Football League Fourth Division,4,A
+1970-01-31,1969/1970,Northampton Town,Bradford Park Avenue,3-0,3,0,Football League Fourth Division,4,H
+1970-01-31,1969/1970,Oldham Athletic,Hartlepool United,1-0,1,0,Football League Fourth Division,4,H
+1970-01-31,1969/1970,Southend United,Wrexham,1-0,1,0,Football League Fourth Division,4,H
+1970-01-31,1969/1970,Aldershot,Port Vale,2-0,2,0,Football League Fourth Division,4,H
+1970-01-31,1969/1970,Peterborough United,Swansea City,1-1,1,1,Football League Fourth Division,4,D
+1970-01-31,1969/1970,Swindon Town,Bolton Wanderers,3-2,3,2,Football League Second Division,2,H
+1970-01-31,1969/1970,Watford,Leicester City,2-1,2,1,Football League Second Division,2,H
+1970-01-31,1969/1970,Birmingham City,Bristol City,2-2,2,2,Football League Second Division,2,D
+1970-01-31,1969/1970,Cardiff City,Blackpool,2-2,2,2,Football League Second Division,2,D
+1970-01-31,1969/1970,Huddersfield Town,Carlisle United,1-0,1,0,Football League Second Division,2,H
+1970-01-31,1969/1970,Hull City,Sheffield United,2-3,2,3,Football League Second Division,2,A
+1970-01-31,1969/1970,Middlesbrough,Queens Park Rangers,1-0,1,0,Football League Second Division,2,H
+1970-01-31,1969/1970,Millwall,Oxford United,0-0,0,0,Football League Second Division,2,D
+1970-01-31,1969/1970,Norwich City,Blackburn Rovers,0-1,0,1,Football League Second Division,2,A
+1970-01-31,1969/1970,Portsmouth,Charlton Athletic,5-1,5,1,Football League Second Division,2,H
+1970-01-31,1969/1970,Preston North End,Aston Villa,1-1,1,1,Football League Second Division,2,D
+1970-01-31,1969/1970,Plymouth Argyle,Mansfield Town,1-0,1,0,Football League Third Division,3,H
+1970-01-31,1969/1970,Leyton Orient,Tranmere Rovers,2-0,2,0,Football League Third Division,3,H
+1970-01-31,1969/1970,Gillingham,Torquay United,2-4,2,4,Football League Third Division,3,A
+1970-01-31,1969/1970,Doncaster Rovers,Fulham,0-1,0,1,Football League Third Division,3,A
+1970-01-31,1969/1970,Barrow,Barnsley,1-1,1,1,Football League Third Division,3,D
+1970-01-31,1969/1970,Bristol Rovers,Brighton & Hove Albion,0-2,0,2,Football League Third Division,3,A
+1970-01-31,1969/1970,Bradford City,Rotherham United,0-1,0,1,Football League Third Division,3,A
+1970-01-31,1969/1970,Shrewsbury Town,Rochdale,1-0,1,0,Football League Third Division,3,H
+1970-01-31,1969/1970,Bury,Halifax Town,1-1,1,1,Football League Third Division,3,D
+1970-01-31,1969/1970,Stockport County,Luton Town,1-1,1,1,Football League Third Division,3,D
+1970-01-31,1969/1970,AFC Bournemouth,Southport,1-0,1,0,Football League Third Division,3,H
+1970-02-02,1969/1970,Hartlepool United,Aldershot,1-3,1,3,Football League Fourth Division,4,A
+1970-02-02,1969/1970,Stockport County,Halifax Town,0-1,0,1,Football League Third Division,3,A
+1970-02-04,1969/1970,Bradford City,Rochdale,0-3,0,3,Football League Third Division,3,A
+1970-02-06,1969/1970,Newcastle United,West Bromwich Albion,1-0,1,0,Football League First Division,1,H
+1970-02-06,1969/1970,Workington,Southend United,5-0,5,0,Football League Fourth Division,4,H
+1970-02-06,1969/1970,Southport,Bury,4-0,4,0,Football League Third Division,3,H
+1970-02-06,1969/1970,Fulham,AFC Bournemouth,1-1,1,1,Football League Third Division,3,D
+1970-02-07,1969/1970,Manchester City,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1970-02-07,1969/1970,Wolverhampton Wanderers,Tottenham Hotspur,2-2,2,2,Football League First Division,1,D
+1970-02-07,1969/1970,Southampton,Sheffield Wednesday,4-0,4,0,Football League First Division,1,H
+1970-02-07,1969/1970,Arsenal,Stoke City,0-0,0,0,Football League First Division,1,D
+1970-02-07,1969/1970,Port Vale,York City,1-1,1,1,Football League Fourth Division,4,D
+1970-02-07,1969/1970,Notts County,Chesterfield,1-1,1,1,Football League Fourth Division,4,D
+1970-02-07,1969/1970,Newport County,Peterborough United,0-1,0,1,Football League Fourth Division,4,A
+1970-02-07,1969/1970,Lincoln City,Aldershot,1-1,1,1,Football League Fourth Division,4,D
+1970-02-07,1969/1970,Hartlepool United,Chester,1-2,1,2,Football League Fourth Division,4,A
+1970-02-07,1969/1970,Darlington,Grimsby Town,0-0,0,0,Football League Fourth Division,4,D
+1970-02-07,1969/1970,Swansea City,Oldham Athletic,4-0,4,0,Football League Fourth Division,4,H
+1970-02-07,1969/1970,Crewe Alexandra,Exeter City,1-1,1,1,Football League Fourth Division,4,D
+1970-02-07,1969/1970,Bradford Park Avenue,Colchester United,0-1,0,1,Football League Fourth Division,4,A
+1970-02-07,1969/1970,Bristol City,Portsmouth,3-0,3,0,Football League Second Division,2,H
+1970-02-07,1969/1970,Aston Villa,Cardiff City,1-1,1,1,Football League Second Division,2,D
+1970-02-07,1969/1970,Charlton Athletic,Huddersfield Town,1-2,1,2,Football League Second Division,2,A
+1970-02-07,1969/1970,Oxford United,Hull City,0-0,0,0,Football League Second Division,2,D
+1970-02-07,1969/1970,Blackpool,Millwall,1-1,1,1,Football League Second Division,2,D
+1970-02-07,1969/1970,Torquay United,Barrow,1-1,1,1,Football League Third Division,3,D
+1970-02-07,1969/1970,Rotherham United,Bristol Rovers,0-0,0,0,Football League Third Division,3,D
+1970-02-07,1969/1970,Rochdale,Plymouth Argyle,2-1,2,1,Football League Third Division,3,H
+1970-02-07,1969/1970,Luton Town,Doncaster Rovers,4-0,4,0,Football League Third Division,3,H
+1970-02-07,1969/1970,Reading,Leyton Orient,3-2,3,2,Football League Third Division,3,H
+1970-02-07,1969/1970,Barnsley,Bradford City,3-2,3,2,Football League Third Division,3,H
+1970-02-07,1969/1970,Brighton & Hove Albion,Shrewsbury Town,1-0,1,0,Football League Third Division,3,H
+1970-02-09,1969/1970,York City,Workington,1-0,1,0,Football League Fourth Division,4,H
+1970-02-09,1969/1970,Sheffield United,Swindon Town,1-2,1,2,Football League Second Division,2,A
+1970-02-09,1969/1970,Barnsley,Plymouth Argyle,0-1,0,1,Football League Third Division,3,A
+1970-02-10,1969/1970,Leeds United,West Bromwich Albion,5-1,5,1,Football League First Division,1,H
+1970-02-10,1969/1970,Ipswich Town,Manchester United,0-1,0,1,Football League First Division,1,A
+1970-02-10,1969/1970,Oldham Athletic,Lincoln City,1-1,1,1,Football League Fourth Division,4,D
+1970-02-10,1969/1970,Scunthorpe United,Brentford,1-1,1,1,Football League Fourth Division,4,D
+1970-02-10,1969/1970,Carlisle United,Watford,5-0,5,0,Football League Second Division,2,H
+1970-02-10,1969/1970,Bristol Rovers,Luton Town,3-0,3,0,Football League Third Division,3,H
+1970-02-11,1969/1970,Crystal Palace,Burnley,1-2,1,2,Football League First Division,1,A
+1970-02-11,1969/1970,Derby County,Chelsea,2-2,2,2,Football League First Division,1,D
+1970-02-11,1969/1970,Newcastle United,Southampton,2-1,2,1,Football League First Division,1,H
+1970-02-11,1969/1970,West Ham United,Coventry City,1-2,1,2,Football League First Division,1,A
+1970-02-11,1969/1970,Bolton Wanderers,Middlesbrough,2-1,2,1,Football League Second Division,2,H
+1970-02-11,1969/1970,Reading,Halifax Town,4-1,4,1,Football League Third Division,3,H
+1970-02-14,1969/1970,Everton,Arsenal,2-2,2,2,Football League First Division,1,D
+1970-02-14,1969/1970,Manchester United,Crystal Palace,1-1,1,1,Football League First Division,1,D
+1970-02-14,1969/1970,Stoke City,Wolverhampton Wanderers,1-1,1,1,Football League First Division,1,D
+1970-02-14,1969/1970,Tottenham Hotspur,Leeds United,1-1,1,1,Football League First Division,1,D
+1970-02-14,1969/1970,Burnley,Derby County,1-1,1,1,Football League First Division,1,D
+1970-02-14,1969/1970,Oldham Athletic,Notts County,5-0,5,0,Football League Fourth Division,4,H
+1970-02-14,1969/1970,Exeter City,Wrexham,1-0,1,0,Football League Fourth Division,4,H
+1970-02-14,1969/1970,Chester,Scunthorpe United,1-1,1,1,Football League Fourth Division,4,D
+1970-02-14,1969/1970,Grimsby Town,Workington,1-1,1,1,Football League Fourth Division,4,D
+1970-02-14,1969/1970,Watford,Bristol City,2-0,2,0,Football League Second Division,2,H
+1970-02-14,1969/1970,Norwich City,Aston Villa,3-1,3,1,Football League Second Division,2,H
+1970-02-14,1969/1970,Cardiff City,Carlisle United,1-1,1,1,Football League Second Division,2,D
+1970-02-14,1969/1970,Hull City,Queens Park Rangers,1-2,1,2,Football League Second Division,2,A
+1970-02-14,1969/1970,Millwall,Bolton Wanderers,2-0,2,0,Football League Second Division,2,H
+1970-02-14,1969/1970,Birmingham City,Leicester City,0-1,0,1,Football League Second Division,2,A
+1970-02-14,1969/1970,Portsmouth,Blackpool,2-3,2,3,Football League Second Division,2,A
+1970-02-14,1969/1970,Barrow,Luton Town,2-1,2,1,Football League Third Division,3,H
+1970-02-14,1969/1970,Bradford City,Fulham,0-0,0,0,Football League Third Division,3,D
+1970-02-14,1969/1970,Bristol Rovers,Southport,2-0,2,0,Football League Third Division,3,H
+1970-02-14,1969/1970,Bury,Rotherham United,2-1,2,1,Football League Third Division,3,H
+1970-02-14,1969/1970,Shrewsbury Town,Halifax Town,3-1,3,1,Football League Third Division,3,H
+1970-02-14,1969/1970,AFC Bournemouth,Barnsley,3-1,3,1,Football League Third Division,3,H
+1970-02-14,1969/1970,Plymouth Argyle,Reading,1-1,1,1,Football League Third Division,3,D
+1970-02-16,1969/1970,Liverpool,Newcastle United,0-0,0,0,Football League First Division,1,D
+1970-02-16,1969/1970,Barrow,Brighton & Hove Albion,1-1,1,1,Football League Third Division,3,D
+1970-02-16,1969/1970,Bury,Torquay United,1-0,1,0,Football League Third Division,3,H
+1970-02-16,1969/1970,Leyton Orient,Barnsley,4-2,4,2,Football League Third Division,3,H
+1970-02-17,1969/1970,Swansea City,Wrexham,1-2,1,2,Football League Fourth Division,4,A
+1970-02-17,1969/1970,Queens Park Rangers,Norwich City,4-0,4,0,Football League Second Division,2,H
+1970-02-18,1969/1970,Manchester City,Arsenal,1-1,1,1,Football League First Division,1,D
+1970-02-18,1969/1970,Northampton Town,Scunthorpe United,2-1,2,1,Football League Fourth Division,4,H
+1970-02-18,1969/1970,Workington,Chester,1-1,1,1,Football League Fourth Division,4,D
+1970-02-18,1969/1970,Oxford United,Preston North End,3-1,3,1,Football League Second Division,2,H
+1970-02-18,1969/1970,Gillingham,Doncaster Rovers,2-1,2,1,Football League Third Division,3,H
+1970-02-20,1969/1970,West Bromwich Albion,Southampton,1-0,1,0,Football League First Division,1,H
+1970-02-20,1969/1970,Hartlepool United,Scunthorpe United,1-2,1,2,Football League Fourth Division,4,A
+1970-02-21,1969/1970,Crystal Palace,Sheffield Wednesday,0-2,0,2,Football League First Division,1,A
+1970-02-21,1969/1970,Derby County,Arsenal,3-2,3,2,Football League First Division,1,H
+1970-02-21,1969/1970,Everton,Coventry City,0-0,0,0,Football League First Division,1,D
+1970-02-21,1969/1970,Sunderland,West Ham United,0-1,0,1,Football League First Division,1,A
+1970-02-21,1969/1970,Tottenham Hotspur,Stoke City,1-0,1,0,Football League First Division,1,H
+1970-02-21,1969/1970,Wolverhampton Wanderers,Manchester City,1-3,1,3,Football League First Division,1,A
+1970-02-21,1969/1970,Burnley,Nottingham Forest,5-0,5,0,Football League First Division,1,H
+1970-02-21,1969/1970,Aldershot,Peterborough United,1-0,1,0,Football League Fourth Division,4,H
+1970-02-21,1969/1970,Brentford,Chesterfield,0-1,0,1,Football League Fourth Division,4,A
+1970-02-21,1969/1970,Grimsby Town,Exeter City,2-0,2,0,Football League Fourth Division,4,H
+1970-02-21,1969/1970,Lincoln City,Swansea City,0-0,0,0,Football League Fourth Division,4,D
+1970-02-21,1969/1970,Notts County,Wrexham,3-2,3,2,Football League Fourth Division,4,H
+1970-02-21,1969/1970,Port Vale,Bradford Park Avenue,4-1,4,1,Football League Fourth Division,4,H
+1970-02-21,1969/1970,Southend United,Colchester United,2-1,2,1,Football League Fourth Division,4,H
+1970-02-21,1969/1970,York City,Oldham Athletic,0-0,0,0,Football League Fourth Division,4,D
+1970-02-21,1969/1970,Chester,Northampton Town,2-1,2,1,Football League Fourth Division,4,H
+1970-02-21,1969/1970,Crewe Alexandra,Newport County,1-1,1,1,Football League Fourth Division,4,D
+1970-02-21,1969/1970,Bolton Wanderers,Blackpool,0-2,0,2,Football League Second Division,2,A
+1970-02-21,1969/1970,Cardiff City,Birmingham City,3-1,3,1,Football League Second Division,2,H
+1970-02-21,1969/1970,Carlisle United,Oxford United,1-1,1,1,Football League Second Division,2,D
+1970-02-21,1969/1970,Huddersfield Town,Norwich City,1-1,1,1,Football League Second Division,2,D
+1970-02-21,1969/1970,Preston North End,Hull City,3-3,3,3,Football League Second Division,2,D
+1970-02-21,1969/1970,Aston Villa,Bristol City,0-2,0,2,Football League Second Division,2,A
+1970-02-21,1969/1970,Mansfield Town,Halifax Town,3-3,3,3,Football League Third Division,3,D
+1970-02-21,1969/1970,Rochdale,Southport,1-1,1,1,Football League Third Division,3,D
+1970-02-21,1969/1970,Rotherham United,Reading,1-1,1,1,Football League Third Division,3,D
+1970-02-21,1969/1970,Stockport County,Doncaster Rovers,3-1,3,1,Football League Third Division,3,H
+1970-02-21,1969/1970,Torquay United,Luton Town,2-2,2,2,Football League Third Division,3,D
+1970-02-21,1969/1970,Bristol Rovers,AFC Bournemouth,5-2,5,2,Football League Third Division,3,H
+1970-02-21,1969/1970,Brighton & Hove Albion,Tranmere Rovers,2-0,2,0,Football League Third Division,3,H
+1970-02-21,1969/1970,Barrow,Bury,3-1,3,1,Football League Third Division,3,H
+1970-02-21,1969/1970,Bradford City,Shrewsbury Town,2-2,2,2,Football League Third Division,3,D
+1970-02-21,1969/1970,Barnsley,Fulham,3-3,3,3,Football League Third Division,3,D
+1970-02-23,1969/1970,Port Vale,Southend United,3-0,3,0,Football League Fourth Division,4,H
+1970-02-23,1969/1970,Darlington,Workington,1-1,1,1,Football League Fourth Division,4,D
+1970-02-23,1969/1970,Northampton Town,Crewe Alexandra,1-2,1,2,Football League Fourth Division,4,A
+1970-02-23,1969/1970,Brentford,Hartlepool United,3-0,3,0,Football League Fourth Division,4,H
+1970-02-23,1969/1970,Mansfield Town,Bury,3-1,3,1,Football League Third Division,3,H
+1970-02-23,1969/1970,Barrow,Walsall,0-1,0,1,Football League Third Division,3,A
+1970-02-24,1969/1970,Swansea City,Exeter City,0-0,0,0,Football League Fourth Division,4,D
+1970-02-24,1969/1970,Birmingham City,Bolton Wanderers,2-0,2,0,Football League Second Division,2,H
+1970-02-24,1969/1970,Huddersfield Town,Oxford United,1-0,1,0,Football League Second Division,2,H
+1970-02-24,1969/1970,Sheffield United,Queens Park Rangers,2-0,2,0,Football League Second Division,2,H
+1970-02-24,1969/1970,Watford,Millwall,1-1,1,1,Football League Second Division,2,D
+1970-02-25,1969/1970,Chelsea,Newcastle United,0-0,0,0,Football League First Division,1,D
+1970-02-25,1969/1970,Aldershot,Darlington,4-0,4,0,Football League Fourth Division,4,H
+1970-02-25,1969/1970,Peterborough United,Crewe Alexandra,3-0,3,0,Football League Fourth Division,4,H
+1970-02-25,1969/1970,Chesterfield,Wrexham,2-0,2,0,Football League Fourth Division,4,H
+1970-02-25,1969/1970,Chester,Newport County,2-0,2,0,Football League Fourth Division,4,H
+1970-02-25,1969/1970,Leicester City,Preston North End,3-0,3,0,Football League Second Division,2,H
+1970-02-25,1969/1970,Aston Villa,Charlton Athletic,1-0,1,0,Football League Second Division,2,H
+1970-02-25,1969/1970,Walsall,Brighton & Hove Albion,0-3,0,3,Football League Third Division,3,A
+1970-02-25,1969/1970,Bradford City,Tranmere Rovers,1-1,1,1,Football League Third Division,3,D
+1970-02-25,1969/1970,Plymouth Argyle,Gillingham,2-2,2,2,Football League Third Division,3,D
+1970-02-28,1969/1970,Coventry City,Chelsea,0-3,0,3,Football League First Division,1,A
+1970-02-28,1969/1970,Leeds United,Crystal Palace,2-0,2,0,Football League First Division,1,H
+1970-02-28,1969/1970,Liverpool,Derby County,0-2,0,2,Football League First Division,1,A
+1970-02-28,1969/1970,Manchester City,Ipswich Town,1-0,1,0,Football League First Division,1,H
+1970-02-28,1969/1970,Newcastle United,Tottenham Hotspur,1-2,1,2,Football League First Division,1,A
+1970-02-28,1969/1970,Nottingham Forest,Everton,1-1,1,1,Football League First Division,1,D
+1970-02-28,1969/1970,Sheffield Wednesday,Burnley,2-0,2,0,Football League First Division,1,H
+1970-02-28,1969/1970,Stoke City,Manchester United,2-2,2,2,Football League First Division,1,D
+1970-02-28,1969/1970,West Bromwich Albion,Wolverhampton Wanderers,3-3,3,3,Football League First Division,1,D
+1970-02-28,1969/1970,Arsenal,Sunderland,3-1,3,1,Football League First Division,1,H
+1970-02-28,1969/1970,West Ham United,Southampton,0-0,0,0,Football League First Division,1,D
+1970-02-28,1969/1970,Bradford Park Avenue,Darlington,0-1,0,1,Football League Fourth Division,4,A
+1970-02-28,1969/1970,Colchester United,York City,3-0,3,0,Football League Fourth Division,4,H
+1970-02-28,1969/1970,Exeter City,Southend United,3-0,3,0,Football League Fourth Division,4,H
+1970-02-28,1969/1970,Newport County,Notts County,1-0,1,0,Football League Fourth Division,4,H
+1970-02-28,1969/1970,Northampton Town,Aldershot,4-0,4,0,Football League Fourth Division,4,H
+1970-02-28,1969/1970,Oldham Athletic,Grimsby Town,0-2,0,2,Football League Fourth Division,4,A
+1970-02-28,1969/1970,Peterborough United,Brentford,0-0,0,0,Football League Fourth Division,4,D
+1970-02-28,1969/1970,Scunthorpe United,Lincoln City,2-1,2,1,Football League Fourth Division,4,H
+1970-02-28,1969/1970,Swansea City,Port Vale,0-0,0,0,Football League Fourth Division,4,D
+1970-02-28,1969/1970,Workington,Crewe Alexandra,1-0,1,0,Football League Fourth Division,4,H
+1970-02-28,1969/1970,Wrexham,Hartlepool United,1-0,1,0,Football League Fourth Division,4,H
+1970-02-28,1969/1970,Chesterfield,Chester,0-1,0,1,Football League Fourth Division,4,A
+1970-02-28,1969/1970,Hull City,Swindon Town,1-1,1,1,Football League Second Division,2,D
+1970-02-28,1969/1970,Queens Park Rangers,Aston Villa,4-2,4,2,Football League Second Division,2,H
+1970-02-28,1969/1970,Birmingham City,Watford,0-0,0,0,Football League Second Division,2,D
+1970-02-28,1969/1970,Blackburn Rovers,Sheffield United,1-2,1,2,Football League Second Division,2,A
+1970-02-28,1969/1970,Blackpool,Charlton Athletic,2-0,2,0,Football League Second Division,2,H
+1970-02-28,1969/1970,Bristol City,Leicester City,0-0,0,0,Football League Second Division,2,D
+1970-02-28,1969/1970,Middlesbrough,Preston North End,1-1,1,1,Football League Second Division,2,D
+1970-02-28,1969/1970,Millwall,Huddersfield Town,1-0,1,0,Football League Second Division,2,H
+1970-02-28,1969/1970,Norwich City,Cardiff City,1-1,1,1,Football League Second Division,2,D
+1970-02-28,1969/1970,Oxford United,Bolton Wanderers,3-1,3,1,Football League Second Division,2,H
+1970-02-28,1969/1970,Portsmouth,Carlisle United,4-0,4,0,Football League Second Division,2,H
+1970-02-28,1969/1970,Fulham,Rotherham United,3-2,3,2,Football League Third Division,3,H
+1970-02-28,1969/1970,Gillingham,Barrow,0-1,0,1,Football League Third Division,3,A
+1970-02-28,1969/1970,Halifax Town,Barnsley,0-2,0,2,Football League Third Division,3,A
+1970-02-28,1969/1970,Luton Town,Brighton & Hove Albion,1-1,1,1,Football League Third Division,3,D
+1970-02-28,1969/1970,Plymouth Argyle,Bradford City,0-1,0,1,Football League Third Division,3,A
+1970-02-28,1969/1970,Reading,Rochdale,1-0,1,0,Football League Third Division,3,H
+1970-02-28,1969/1970,Shrewsbury Town,Stockport County,3-1,3,1,Football League Third Division,3,H
+1970-02-28,1969/1970,Southport,Torquay United,4-2,4,2,Football League Third Division,3,H
+1970-02-28,1969/1970,Tranmere Rovers,Mansfield Town,1-1,1,1,Football League Third Division,3,D
+1970-02-28,1969/1970,Doncaster Rovers,Walsall,0-0,0,0,Football League Third Division,3,D
+1970-02-28,1969/1970,Bury,Bristol Rovers,2-2,2,2,Football League Third Division,3,D
+1970-02-28,1969/1970,AFC Bournemouth,Leyton Orient,0-2,0,2,Football League Third Division,3,A
+1970-03-02,1969/1970,Newcastle United,West Ham United,4-1,4,1,Football League First Division,1,H
+1970-03-02,1969/1970,York City,Grimsby Town,1-1,1,1,Football League Fourth Division,4,D
+1970-03-02,1969/1970,Wrexham,Lincoln City,0-0,0,0,Football League Fourth Division,4,D
+1970-03-02,1969/1970,Northampton Town,Exeter City,2-0,2,0,Football League Fourth Division,4,H
+1970-03-02,1969/1970,Darlington,Port Vale,2-2,2,2,Football League Fourth Division,4,D
+1970-03-02,1969/1970,Hartlepool United,Notts County,4-0,4,0,Football League Fourth Division,4,H
+1970-03-02,1969/1970,Bradford Park Avenue,Crewe Alexandra,0-0,0,0,Football League Fourth Division,4,D
+1970-03-02,1969/1970,Colchester United,Chesterfield,4-1,4,1,Football League Fourth Division,4,H
+1970-03-02,1969/1970,Stockport County,Leyton Orient,0-2,0,2,Football League Third Division,3,A
+1970-03-03,1969/1970,Coventry City,Liverpool,2-3,2,3,Football League First Division,1,A
+1970-03-03,1969/1970,Oldham Athletic,Southend United,3-0,3,0,Football League Fourth Division,4,H
+1970-03-03,1969/1970,Scunthorpe United,Swansea City,1-2,1,2,Football League Fourth Division,4,A
+1970-03-03,1969/1970,Swindon Town,Portsmouth,3-1,3,1,Football League Second Division,2,H
+1970-03-03,1969/1970,Charlton Athletic,Middlesbrough,0-2,0,2,Football League Second Division,2,A
+1970-03-03,1969/1970,Southport,Brighton & Hove Albion,2-0,2,0,Football League Third Division,3,H
+1970-03-03,1969/1970,Luton Town,Tranmere Rovers,2-0,2,0,Football League Third Division,3,H
+1970-03-03,1969/1970,Halifax Town,Rotherham United,4-2,4,2,Football League Third Division,3,H
+1970-03-03,1969/1970,Doncaster Rovers,Bradford City,1-1,1,1,Football League Third Division,3,D
+1970-03-03,1969/1970,Bristol Rovers,Walsall,3-1,3,1,Football League Third Division,3,H
+1970-03-03,1969/1970,Barnsley,Rochdale,1-0,1,0,Football League Third Division,3,H
+1970-03-03,1969/1970,Bury,Gillingham,1-3,1,3,Football League Third Division,3,A
+1970-03-04,1969/1970,Workington,Newport County,3-0,3,0,Football League Fourth Division,4,H
+1970-03-04,1969/1970,Blackburn Rovers,Birmingham City,1-1,1,1,Football League Second Division,2,D
+1970-03-04,1969/1970,Torquay United,Mansfield Town,0-2,0,2,Football League Third Division,3,A
+1970-03-04,1969/1970,AFC Bournemouth,Barrow,0-0,0,0,Football League Third Division,3,D
+1970-03-06,1969/1970,Watford,Hull City,1-1,1,1,Football League Second Division,2,D
+1970-03-06,1969/1970,Tranmere Rovers,Halifax Town,1-1,1,1,Football League Third Division,3,D
+1970-03-07,1969/1970,Southampton,Sunderland,1-1,1,1,Football League First Division,1,D
+1970-03-07,1969/1970,Liverpool,Leeds United,0-0,0,0,Football League First Division,1,D
+1970-03-07,1969/1970,Ipswich Town,Stoke City,1-1,1,1,Football League First Division,1,D
+1970-03-07,1969/1970,Derby County,West Ham United,3-0,3,0,Football League First Division,1,H
+1970-03-07,1969/1970,Chelsea,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1970-03-07,1969/1970,Burnley,Everton,1-2,1,2,Football League First Division,1,A
+1970-03-07,1969/1970,Swansea City,Bradford Park Avenue,5-0,5,0,Football League Fourth Division,4,H
+1970-03-07,1969/1970,Newport County,Wrexham,1-2,1,2,Football League Fourth Division,4,A
+1970-03-07,1969/1970,Exeter City,Oldham Athletic,0-2,0,2,Football League Fourth Division,4,A
+1970-03-07,1969/1970,Brentford,Northampton Town,1-0,1,0,Football League Fourth Division,4,H
+1970-03-07,1969/1970,Middlesbrough,Portsmouth,2-1,2,1,Football League Second Division,2,H
+1970-03-07,1969/1970,Carlisle United,Charlton Athletic,1-1,1,1,Football League Second Division,2,D
+1970-03-07,1969/1970,Bristol City,Blackburn Rovers,4-0,4,0,Football League Second Division,2,H
+1970-03-07,1969/1970,Plymouth Argyle,Doncaster Rovers,0-0,0,0,Football League Third Division,3,D
+1970-03-07,1969/1970,Brighton & Hove Albion,Barnsley,2-0,2,0,Football League Third Division,3,H
+1970-03-07,1969/1970,Bradford City,Bristol Rovers,2-4,2,4,Football League Third Division,3,A
+1970-03-07,1969/1970,Barrow,Stockport County,4-1,4,1,Football League Third Division,3,H
+1970-03-09,1969/1970,Southend United,Peterborough United,2-0,2,0,Football League Fourth Division,4,H
+1970-03-09,1969/1970,Port Vale,Hartlepool United,3-0,3,0,Football League Fourth Division,4,H
+1970-03-09,1969/1970,Newport County,Scunthorpe United,3-0,3,0,Football League Fourth Division,4,H
+1970-03-09,1969/1970,Chesterfield,Northampton Town,2-1,2,1,Football League Fourth Division,4,H
+1970-03-09,1969/1970,Brentford,York City,0-0,0,0,Football League Fourth Division,4,D
+1970-03-09,1969/1970,Rochdale,Torquay United,1-1,1,1,Football League Third Division,3,D
+1970-03-09,1969/1970,Mansfield Town,Barnsley,2-0,2,0,Football League Third Division,3,H
+1970-03-09,1969/1970,Leyton Orient,Bristol Rovers,0-0,0,0,Football League Third Division,3,D
+1970-03-09,1969/1970,Barrow,Doncaster Rovers,1-1,1,1,Football League Third Division,3,D
+1970-03-10,1969/1970,Sheffield Wednesday,West Bromwich Albion,2-0,2,0,Football League First Division,1,H
+1970-03-10,1969/1970,Grimsby Town,Aldershot,2-2,2,2,Football League Fourth Division,4,D
+1970-03-10,1969/1970,Huddersfield Town,Leicester City,1-1,1,1,Football League Second Division,2,D
+1970-03-10,1969/1970,Hull City,Aston Villa,3-1,3,1,Football League Second Division,2,H
+1970-03-10,1969/1970,Rotherham United,Southport,2-0,2,0,Football League Third Division,3,H
+1970-03-11,1969/1970,Manchester City,Crystal Palace,0-1,0,1,Football League First Division,1,A
+1970-03-11,1969/1970,Tottenham Hotspur,Everton,0-1,0,1,Football League First Division,1,A
+1970-03-11,1969/1970,Southampton,Liverpool,0-1,0,1,Football League First Division,1,A
+1970-03-11,1969/1970,Exeter City,Colchester United,2-1,2,1,Football League Fourth Division,4,H
+1970-03-11,1969/1970,Crewe Alexandra,Wrexham,2-3,2,3,Football League Fourth Division,4,A
+1970-03-11,1969/1970,Chester,Oldham Athletic,2-1,2,1,Football League Fourth Division,4,H
+1970-03-11,1969/1970,Notts County,Darlington,4-1,4,1,Football League Fourth Division,4,H
+1970-03-11,1969/1970,Norwich City,Middlesbrough,2-0,2,0,Football League Second Division,2,H
+1970-03-11,1969/1970,Millwall,Birmingham City,6-2,6,2,Football League Second Division,2,H
+1970-03-11,1969/1970,Plymouth Argyle,Bury,2-2,2,2,Football League Third Division,3,D
+1970-03-11,1969/1970,Reading,Luton Town,0-1,0,1,Football League Third Division,3,A
+1970-03-11,1969/1970,Gillingham,Shrewsbury Town,2-1,2,1,Football League Third Division,3,H
+1970-03-11,1969/1970,Brighton & Hove Albion,Halifax Town,4-0,4,0,Football League Third Division,3,H
+1970-03-13,1969/1970,Bradford Park Avenue,Newport County,1-1,1,1,Football League Fourth Division,4,D
+1970-03-13,1969/1970,York City,Chester,0-0,0,0,Football League Fourth Division,4,D
+1970-03-13,1969/1970,Sheffield United,Carlisle United,1-0,1,0,Football League Second Division,2,H
+1970-03-13,1969/1970,Barnsley,Rotherham United,1-0,1,0,Football League Third Division,3,H
+1970-03-14,1969/1970,Coventry City,Sheffield Wednesday,1-1,1,1,Football League First Division,1,D
+1970-03-14,1969/1970,Arsenal,Liverpool,2-1,2,1,Football League First Division,1,H
+1970-03-14,1969/1970,Everton,Tottenham Hotspur,3-2,3,2,Football League First Division,1,H
+1970-03-14,1969/1970,Nottingham Forest,Derby County,1-3,1,3,Football League First Division,1,A
+1970-03-14,1969/1970,Sunderland,Wolverhampton Wanderers,2-1,2,1,Football League First Division,1,H
+1970-03-14,1969/1970,West Bromwich Albion,Newcastle United,2-2,2,2,Football League First Division,1,D
+1970-03-14,1969/1970,West Ham United,Ipswich Town,0-0,0,0,Football League First Division,1,D
+1970-03-14,1969/1970,Crystal Palace,Southampton,2-0,2,0,Football League First Division,1,H
+1970-03-14,1969/1970,Aldershot,Southend United,2-1,2,1,Football League Fourth Division,4,H
+1970-03-14,1969/1970,Colchester United,Brentford,1-1,1,1,Football League Fourth Division,4,D
+1970-03-14,1969/1970,Hartlepool United,Lincoln City,0-3,0,3,Football League Fourth Division,4,A
+1970-03-14,1969/1970,Northampton Town,Grimsby Town,3-1,3,1,Football League Fourth Division,4,H
+1970-03-14,1969/1970,Oldham Athletic,Chesterfield,1-0,1,0,Football League Fourth Division,4,H
+1970-03-14,1969/1970,Peterborough United,Exeter City,1-1,1,1,Football League Fourth Division,4,D
+1970-03-14,1969/1970,Scunthorpe United,Notts County,2-3,2,3,Football League Fourth Division,4,A
+1970-03-14,1969/1970,Workington,Port Vale,3-2,3,2,Football League Fourth Division,4,H
+1970-03-14,1969/1970,Wrexham,Swansea City,1-1,1,1,Football League Fourth Division,4,D
+1970-03-14,1969/1970,Darlington,Crewe Alexandra,2-0,2,0,Football League Fourth Division,4,H
+1970-03-14,1969/1970,Birmingham City,Middlesbrough,0-0,0,0,Football League Second Division,2,D
+1970-03-14,1969/1970,Blackpool,Bristol City,1-0,1,0,Football League Second Division,2,H
+1970-03-14,1969/1970,Cardiff City,Huddersfield Town,0-1,0,1,Football League Second Division,2,A
+1970-03-14,1969/1970,Charlton Athletic,Aston Villa,1-0,1,0,Football League Second Division,2,H
+1970-03-14,1969/1970,Hull City,Leicester City,4-1,4,1,Football League Second Division,2,H
+1970-03-14,1969/1970,Portsmouth,Millwall,0-1,0,1,Football League Second Division,2,A
+1970-03-14,1969/1970,Queens Park Rangers,Bolton Wanderers,0-4,0,4,Football League Second Division,2,A
+1970-03-14,1969/1970,Swindon Town,Preston North End,1-0,1,0,Football League Second Division,2,H
+1970-03-14,1969/1970,Blackburn Rovers,Oxford United,2-0,2,0,Football League Second Division,2,H
+1970-03-14,1969/1970,Fulham,Rochdale,2-0,2,0,Football League Third Division,3,H
+1970-03-14,1969/1970,Halifax Town,Reading,1-1,1,1,Football League Third Division,3,D
+1970-03-14,1969/1970,Luton Town,Mansfield Town,2-2,2,2,Football League Third Division,3,D
+1970-03-14,1969/1970,Shrewsbury Town,Walsall,1-1,1,1,Football League Third Division,3,D
+1970-03-14,1969/1970,Southport,Tranmere Rovers,2-0,2,0,Football League Third Division,3,H
+1970-03-14,1969/1970,Stockport County,Bradford City,0-2,0,2,Football League Third Division,3,A
+1970-03-14,1969/1970,Torquay United,Brighton & Hove Albion,2-1,2,1,Football League Third Division,3,H
+1970-03-14,1969/1970,Doncaster Rovers,Gillingham,1-0,1,0,Football League Third Division,3,H
+1970-03-14,1969/1970,Bury,Leyton Orient,0-1,0,1,Football League Third Division,3,A
+1970-03-14,1969/1970,AFC Bournemouth,Plymouth Argyle,1-3,1,3,Football League Third Division,3,A
+1970-03-14,1969/1970,Bristol Rovers,Barrow,2-1,2,1,Football League Third Division,3,H
+1970-03-16,1969/1970,Liverpool,Sheffield Wednesday,3-0,3,0,Football League First Division,1,H
+1970-03-16,1969/1970,Port Vale,Brentford,0-0,0,0,Football League Fourth Division,4,D
+1970-03-16,1969/1970,Newport County,Chester,3-1,3,1,Football League Fourth Division,4,H
+1970-03-16,1969/1970,Hartlepool United,Exeter City,2-0,2,0,Football League Fourth Division,4,H
+1970-03-16,1969/1970,Darlington,Aldershot,0-2,0,2,Football League Fourth Division,4,A
+1970-03-16,1969/1970,Bradford Park Avenue,Oldham Athletic,0-0,0,0,Football League Fourth Division,4,D
+1970-03-16,1969/1970,Wrexham,Peterborough United,2-1,2,1,Football League Fourth Division,4,H
+1970-03-16,1969/1970,Preston North End,Charlton Athletic,4-1,4,1,Football League Second Division,2,H
+1970-03-16,1969/1970,Millwall,Aston Villa,2-0,2,0,Football League Second Division,2,H
+1970-03-16,1969/1970,Rochdale,Doncaster Rovers,2-0,2,0,Football League Third Division,3,H
+1970-03-16,1969/1970,Mansfield Town,AFC Bournemouth,2-0,2,0,Football League Third Division,3,H
+1970-03-16,1969/1970,Tranmere Rovers,Bradford City,1-0,1,0,Football League Third Division,3,H
+1970-03-17,1969/1970,Chelsea,Stoke City,1-0,1,0,Football League First Division,1,H
+1970-03-17,1969/1970,Manchester United,Burnley,3-3,3,3,Football League First Division,1,D
+1970-03-17,1969/1970,Swansea City,Grimsby Town,2-0,2,0,Football League Fourth Division,4,H
+1970-03-17,1969/1970,Scunthorpe United,Northampton Town,1-0,1,0,Football League Fourth Division,4,H
+1970-03-17,1969/1970,Middlesbrough,Sheffield United,1-0,1,0,Football League Second Division,2,H
+1970-03-17,1969/1970,Leicester City,Blackburn Rovers,2-1,2,1,Football League Second Division,2,H
+1970-03-17,1969/1970,Southport,Leyton Orient,1-0,1,0,Football League Third Division,3,H
+1970-03-17,1969/1970,Rotherham United,Plymouth Argyle,1-0,1,0,Football League Third Division,3,H
+1970-03-17,1969/1970,Luton Town,Bury,0-0,0,0,Football League Third Division,3,D
+1970-03-17,1969/1970,Barnsley,Shrewsbury Town,1-1,1,1,Football League Third Division,3,D
+1970-03-17,1969/1970,Halifax Town,Gillingham,1-1,1,1,Football League Third Division,3,D
+1970-03-18,1969/1970,Wolverhampton Wanderers,Crystal Palace,1-1,1,1,Football League First Division,1,D
+1970-03-18,1969/1970,Workington,Colchester United,1-1,1,1,Football League Fourth Division,4,D
+1970-03-18,1969/1970,Notts County,Southend United,2-0,2,0,Football League Fourth Division,4,H
+1970-03-18,1969/1970,Lincoln City,Chesterfield,0-2,0,2,Football League Fourth Division,4,A
+1970-03-18,1969/1970,Crewe Alexandra,York City,3-0,3,0,Football League Fourth Division,4,H
+1970-03-18,1969/1970,Oxford United,Bristol City,2-0,2,0,Football League Second Division,2,H
+1970-03-18,1969/1970,Bolton Wanderers,Cardiff City,0-1,0,1,Football League Second Division,2,A
+1970-03-18,1969/1970,Blackpool,Hull City,0-1,0,1,Football League Second Division,2,A
+1970-03-18,1969/1970,Torquay United,Bristol Rovers,1-2,1,2,Football League Third Division,3,A
+1970-03-18,1969/1970,Reading,Barrow,6-3,6,3,Football League Third Division,3,H
+1970-03-18,1969/1970,Brighton & Hove Albion,Stockport County,1-0,1,0,Football League Third Division,3,H
+1970-03-18,1969/1970,Fulham,Walsall,4-0,4,0,Football League Third Division,3,H
+1970-03-21,1969/1970,Burnley,West Bromwich Albion,2-1,2,1,Football League First Division,1,H
+1970-03-21,1969/1970,Chelsea,Manchester United,2-1,2,1,Football League First Division,1,H
+1970-03-21,1969/1970,Derby County,Crystal Palace,3-1,3,1,Football League First Division,1,H
+1970-03-21,1969/1970,Ipswich Town,Sunderland,2-0,2,0,Football League First Division,1,H
+1970-03-21,1969/1970,Liverpool,Everton,0-2,0,2,Football League First Division,1,A
+1970-03-21,1969/1970,Manchester City,West Ham United,1-5,1,5,Football League First Division,1,A
+1970-03-21,1969/1970,Newcastle United,Stoke City,3-1,3,1,Football League First Division,1,H
+1970-03-21,1969/1970,Sheffield Wednesday,Nottingham Forest,2-1,2,1,Football League First Division,1,H
+1970-03-21,1969/1970,Southampton,Arsenal,0-2,0,2,Football League First Division,1,A
+1970-03-21,1969/1970,Tottenham Hotspur,Coventry City,1-2,1,2,Football League First Division,1,A
+1970-03-21,1969/1970,Wolverhampton Wanderers,Leeds United,1-2,1,2,Football League First Division,1,A
+1970-03-21,1969/1970,Brentford,Aldershot,0-0,0,0,Football League Fourth Division,4,D
+1970-03-21,1969/1970,Chester,Peterborough United,2-3,2,3,Football League Fourth Division,4,A
+1970-03-21,1969/1970,Port Vale,Darlington,4-0,4,0,Football League Fourth Division,4,H
+1970-03-21,1969/1970,Crewe Alexandra,Bradford Park Avenue,0-0,0,0,Football League Fourth Division,4,D
+1970-03-21,1969/1970,Exeter City,Northampton Town,1-0,1,0,Football League Fourth Division,4,H
+1970-03-21,1969/1970,Grimsby Town,York City,0-0,0,0,Football League Fourth Division,4,D
+1970-03-21,1969/1970,Lincoln City,Wrexham,0-0,0,0,Football League Fourth Division,4,D
+1970-03-21,1969/1970,Newport County,Workington,0-1,0,1,Football League Fourth Division,4,A
+1970-03-21,1969/1970,Notts County,Hartlepool United,1-0,1,0,Football League Fourth Division,4,H
+1970-03-21,1969/1970,Southend United,Oldham Athletic,1-0,1,0,Football League Fourth Division,4,H
+1970-03-21,1969/1970,Swansea City,Scunthorpe United,2-1,2,1,Football League Fourth Division,4,H
+1970-03-21,1969/1970,Chesterfield,Colchester United,2-0,2,0,Football League Fourth Division,4,H
+1970-03-21,1969/1970,Watford,Cardiff City,2-1,2,1,Football League Second Division,2,H
+1970-03-21,1969/1970,Bolton Wanderers,Charlton Athletic,1-1,1,1,Football League Second Division,2,D
+1970-03-21,1969/1970,Bristol City,Swindon Town,3-3,3,3,Football League Second Division,2,D
+1970-03-21,1969/1970,Carlisle United,Blackpool,1-2,1,2,Football League Second Division,2,A
+1970-03-21,1969/1970,Huddersfield Town,Birmingham City,2-0,2,0,Football League Second Division,2,H
+1970-03-21,1969/1970,Leicester City,Sheffield United,2-1,2,1,Football League Second Division,2,H
+1970-03-21,1969/1970,Middlesbrough,Norwich City,0-0,0,0,Football League Second Division,2,D
+1970-03-21,1969/1970,Millwall,Hull City,2-1,2,1,Football League Second Division,2,H
+1970-03-21,1969/1970,Oxford United,Queens Park Rangers,0-0,0,0,Football League Second Division,2,D
+1970-03-21,1969/1970,Preston North End,Portsmouth,1-2,1,2,Football League Second Division,2,A
+1970-03-21,1969/1970,Aston Villa,Blackburn Rovers,1-1,1,1,Football League Second Division,2,D
+1970-03-21,1969/1970,Gillingham,Bury,1-0,1,0,Football League Third Division,3,H
+1970-03-21,1969/1970,Mansfield Town,Torquay United,2-0,2,0,Football League Third Division,3,H
+1970-03-21,1969/1970,Plymouth Argyle,Shrewsbury Town,4-2,4,2,Football League Third Division,3,H
+1970-03-21,1969/1970,Reading,Fulham,0-4,0,4,Football League Third Division,3,A
+1970-03-21,1969/1970,Rochdale,Barnsley,1-1,1,1,Football League Third Division,3,D
+1970-03-21,1969/1970,Rotherham United,Halifax Town,1-1,1,1,Football League Third Division,3,D
+1970-03-21,1969/1970,Tranmere Rovers,Luton Town,3-2,3,2,Football League Third Division,3,H
+1970-03-21,1969/1970,Walsall,Bristol Rovers,2-1,2,1,Football League Third Division,3,H
+1970-03-21,1969/1970,Brighton & Hove Albion,Southport,1-0,1,0,Football League Third Division,3,H
+1970-03-21,1969/1970,Bradford City,Doncaster Rovers,3-0,3,0,Football League Third Division,3,H
+1970-03-21,1969/1970,Leyton Orient,Stockport County,3-0,3,0,Football League Third Division,3,H
+1970-03-21,1969/1970,Barrow,AFC Bournemouth,1-1,1,1,Football League Third Division,3,D
+1970-03-23,1969/1970,Swansea City,Workington,0-0,0,0,Football League Fourth Division,4,D
+1970-03-23,1969/1970,Port Vale,Scunthorpe United,1-2,1,2,Football League Fourth Division,4,A
+1970-03-23,1969/1970,Lincoln City,Bradford Park Avenue,5-2,5,2,Football League Fourth Division,4,H
+1970-03-23,1969/1970,Mansfield Town,Stockport County,4-1,4,1,Football League Third Division,3,H
+1970-03-23,1969/1970,Rotherham United,Torquay United,2-1,2,1,Football League Third Division,3,H
+1970-03-24,1969/1970,Burnley,Southampton,1-1,1,1,Football League First Division,1,D
+1970-03-24,1969/1970,Coventry City,Sunderland,1-1,1,1,Football League First Division,1,D
+1970-03-24,1969/1970,Crystal Palace,West Ham United,0-0,0,0,Football League First Division,1,D
+1970-03-24,1969/1970,Liverpool,Ipswich Town,2-0,2,0,Football League First Division,1,H
+1970-03-24,1969/1970,Huddersfield Town,Swindon Town,1-1,1,1,Football League Second Division,2,D
+1970-03-24,1969/1970,Walsall,Bury,1-1,1,1,Football League Third Division,3,D
+1970-03-25,1969/1970,Chelsea,Sheffield Wednesday,3-1,3,1,Football League First Division,1,H
+1970-03-25,1969/1970,Cardiff City,Portsmouth,2-0,2,0,Football League Second Division,2,H
+1970-03-27,1969/1970,Manchester City,Derby County,0-1,0,1,Football League First Division,1,A
+1970-03-27,1969/1970,Sunderland,Newcastle United,1-1,1,1,Football League First Division,1,D
+1970-03-27,1969/1970,Tottenham Hotspur,Nottingham Forest,4-1,4,1,Football League First Division,1,H
+1970-03-27,1969/1970,Burnley,Stoke City,1-1,1,1,Football League First Division,1,D
+1970-03-27,1969/1970,Brentford,Exeter City,2-0,2,0,Football League Fourth Division,4,H
+1970-03-27,1969/1970,Colchester United,Aldershot,3-1,3,1,Football League Fourth Division,4,H
+1970-03-27,1969/1970,Crewe Alexandra,Swansea City,0-1,0,1,Football League Fourth Division,4,A
+1970-03-27,1969/1970,Wrexham,Darlington,6-2,6,2,Football League Fourth Division,4,H
+1970-03-27,1969/1970,Hartlepool United,Workington,1-0,1,0,Football League Fourth Division,4,H
+1970-03-27,1969/1970,Lincoln City,Newport County,3-0,3,0,Football League Fourth Division,4,H
+1970-03-27,1969/1970,Southend United,Northampton Town,2-2,2,2,Football League Fourth Division,4,D
+1970-03-27,1969/1970,Grimsby Town,Chesterfield,1-0,1,0,Football League Fourth Division,4,H
+1970-03-27,1969/1970,York City,Peterborough United,3-0,3,0,Football League Fourth Division,4,H
+1970-03-27,1969/1970,Bristol City,Bolton Wanderers,2-2,2,2,Football League Second Division,2,D
+1970-03-27,1969/1970,Queens Park Rangers,Carlisle United,0-0,0,0,Football League Second Division,2,D
+1970-03-27,1969/1970,Watford,Middlesbrough,2-3,2,3,Football League Second Division,2,A
+1970-03-27,1969/1970,Oxford United,Leicester City,0-1,0,1,Football League Second Division,2,A
+1970-03-27,1969/1970,Torquay United,Fulham,1-1,1,1,Football League Third Division,3,D
+1970-03-27,1969/1970,Tranmere Rovers,Rochdale,0-0,0,0,Football League Third Division,3,D
+1970-03-27,1969/1970,Southport,Barnsley,0-1,0,1,Football League Third Division,3,A
+1970-03-27,1969/1970,Luton Town,Rotherham United,2-1,2,1,Football League Third Division,3,H
+1970-03-27,1969/1970,Gillingham,Bradford City,1-1,1,1,Football League Third Division,3,D
+1970-03-27,1969/1970,Leyton Orient,Plymouth Argyle,4-1,4,1,Football League Third Division,3,H
+1970-03-27,1969/1970,AFC Bournemouth,Walsall,2-2,2,2,Football League Third Division,3,D
+1970-03-27,1969/1970,Barrow,Shrewsbury Town,2-0,2,0,Football League Third Division,3,H
+1970-03-27,1969/1970,Brighton & Hove Albion,Reading,2-1,2,1,Football League Third Division,3,H
+1970-03-28,1969/1970,Arsenal,Wolverhampton Wanderers,2-2,2,2,Football League First Division,1,D
+1970-03-28,1969/1970,Coventry City,Burnley,1-1,1,1,Football League First Division,1,D
+1970-03-28,1969/1970,Crystal Palace,Ipswich Town,1-1,1,1,Football League First Division,1,D
+1970-03-28,1969/1970,Everton,Chelsea,5-2,5,2,Football League First Division,1,H
+1970-03-28,1969/1970,Manchester United,Manchester City,1-2,1,2,Football League First Division,1,A
+1970-03-28,1969/1970,Nottingham Forest,Newcastle United,2-2,2,2,Football League First Division,1,D
+1970-03-28,1969/1970,Stoke City,Sheffield Wednesday,2-1,2,1,Football League First Division,1,H
+1970-03-28,1969/1970,Sunderland,Derby County,1-1,1,1,Football League First Division,1,D
+1970-03-28,1969/1970,West Bromwich Albion,Tottenham Hotspur,1-1,1,1,Football League First Division,1,D
+1970-03-28,1969/1970,Leeds United,Southampton,1-3,1,3,Football League First Division,1,A
+1970-03-28,1969/1970,West Ham United,Liverpool,1-0,1,0,Football League First Division,1,H
+1970-03-28,1969/1970,Aldershot,Grimsby Town,2-2,2,2,Football League Fourth Division,4,D
+1970-03-28,1969/1970,Oldham Athletic,Chester,5-0,5,0,Football League Fourth Division,4,H
+1970-03-28,1969/1970,Colchester United,Exeter City,2-1,2,1,Football League Fourth Division,4,H
+1970-03-28,1969/1970,Darlington,Notts County,1-2,1,2,Football League Fourth Division,4,A
+1970-03-28,1969/1970,Hartlepool United,Port Vale,0-2,0,2,Football League Fourth Division,4,A
+1970-03-28,1969/1970,Northampton Town,Chesterfield,0-1,0,1,Football League Fourth Division,4,A
+1970-03-28,1969/1970,Peterborough United,Southend United,3-4,3,4,Football League Fourth Division,4,A
+1970-03-28,1969/1970,Scunthorpe United,Newport County,4-0,4,0,Football League Fourth Division,4,H
+1970-03-28,1969/1970,Wrexham,Crewe Alexandra,2-2,2,2,Football League Fourth Division,4,D
+1970-03-28,1969/1970,York City,Brentford,4-2,4,2,Football League Fourth Division,4,H
+1970-03-28,1969/1970,Bradford Park Avenue,Lincoln City,0-3,0,3,Football League Fourth Division,4,A
+1970-03-28,1969/1970,Workington,Swansea City,0-0,0,0,Football League Fourth Division,4,D
+1970-03-28,1969/1970,Swindon Town,Watford,1-0,1,0,Football League Second Division,2,H
+1970-03-28,1969/1970,Birmingham City,Preston North End,1-0,1,0,Football League Second Division,2,H
+1970-03-28,1969/1970,Blackburn Rovers,Carlisle United,1-0,1,0,Football League Second Division,2,H
+1970-03-28,1969/1970,Blackpool,Aston Villa,2-1,2,1,Football League Second Division,2,H
+1970-03-28,1969/1970,Cardiff City,Oxford United,0-0,0,0,Football League Second Division,2,D
+1970-03-28,1969/1970,Charlton Athletic,Leicester City,0-5,0,5,Football League Second Division,2,A
+1970-03-28,1969/1970,Hull City,Middlesbrough,3-2,3,2,Football League Second Division,2,H
+1970-03-28,1969/1970,Norwich City,Millwall,2-1,2,1,Football League Second Division,2,H
+1970-03-28,1969/1970,Portsmouth,Huddersfield Town,1-3,1,3,Football League Second Division,2,A
+1970-03-28,1969/1970,Queens Park Rangers,Bristol City,2-2,2,2,Football League Second Division,2,D
+1970-03-28,1969/1970,Sheffield United,Bolton Wanderers,0-1,0,1,Football League Second Division,2,A
+1970-03-28,1969/1970,Torquay United,Rochdale,3-0,3,0,Football League Third Division,3,H
+1970-03-28,1969/1970,Bury,Plymouth Argyle,3-1,3,1,Football League Third Division,3,H
+1970-03-28,1969/1970,Doncaster Rovers,Barrow,3-2,3,2,Football League Third Division,3,H
+1970-03-28,1969/1970,Fulham,Tranmere Rovers,1-1,1,1,Football League Third Division,3,D
+1970-03-28,1969/1970,Halifax Town,Brighton & Hove Albion,1-0,1,0,Football League Third Division,3,H
+1970-03-28,1969/1970,Luton Town,Reading,5-0,5,0,Football League Third Division,3,H
+1970-03-28,1969/1970,Shrewsbury Town,Gillingham,2-2,2,2,Football League Third Division,3,D
+1970-03-28,1969/1970,Southport,Rotherham United,2-1,2,1,Football League Third Division,3,H
+1970-03-28,1969/1970,Stockport County,Walsall,2-2,2,2,Football League Third Division,3,D
+1970-03-28,1969/1970,Bristol Rovers,Leyton Orient,1-0,1,0,Football League Third Division,3,H
+1970-03-28,1969/1970,Barnsley,Mansfield Town,1-1,1,1,Football League Third Division,3,D
+1970-03-28,1969/1970,AFC Bournemouth,Bradford City,0-0,0,0,Football League Third Division,3,D
+1970-03-30,1969/1970,Derby County,Leeds United,4-1,4,1,Football League First Division,1,H
+1970-03-30,1969/1970,Manchester United,Coventry City,1-1,1,1,Football League First Division,1,D
+1970-03-30,1969/1970,Newcastle United,Burnley,0-1,0,1,Football League First Division,1,A
+1970-03-30,1969/1970,Sheffield Wednesday,Tottenham Hotspur,0-1,0,1,Football League First Division,1,A
+1970-03-30,1969/1970,Stoke City,Everton,0-1,0,1,Football League First Division,1,A
+1970-03-30,1969/1970,Arsenal,Crystal Palace,2-0,2,0,Football League First Division,1,H
+1970-03-30,1969/1970,Wolverhampton Wanderers,Liverpool,0-1,0,1,Football League First Division,1,A
+1970-03-30,1969/1970,West Bromwich Albion,Chelsea,3-1,3,1,Football League First Division,1,H
+1970-03-30,1969/1970,Peterborough United,Grimsby Town,1-0,1,0,Football League Fourth Division,4,H
+1970-03-30,1969/1970,Darlington,Scunthorpe United,2-0,2,0,Football League Fourth Division,4,H
+1970-03-30,1969/1970,Exeter City,Chester,1-0,1,0,Football League Fourth Division,4,H
+1970-03-30,1969/1970,Newport County,Port Vale,1-1,1,1,Football League Fourth Division,4,D
+1970-03-30,1969/1970,Notts County,Bradford Park Avenue,5-2,5,2,Football League Fourth Division,4,H
+1970-03-30,1969/1970,Workington,Lincoln City,1-1,1,1,Football League Fourth Division,4,D
+1970-03-30,1969/1970,Aldershot,Oldham Athletic,1-0,1,0,Football League Fourth Division,4,H
+1970-03-30,1969/1970,Millwall,Preston North End,2-1,2,1,Football League Second Division,2,H
+1970-03-30,1969/1970,Norwich City,Swindon Town,1-0,1,0,Football League Second Division,2,H
+1970-03-30,1969/1970,Birmingham City,Aston Villa,0-2,0,2,Football League Second Division,2,A
+1970-03-30,1969/1970,Blackpool,Sheffield United,1-0,1,0,Football League Second Division,2,H
+1970-03-30,1969/1970,Bolton Wanderers,Blackburn Rovers,1-0,1,0,Football League Second Division,2,H
+1970-03-30,1969/1970,Huddersfield Town,Hull City,2-2,2,2,Football League Second Division,2,D
+1970-03-30,1969/1970,Fulham,Brighton & Hove Albion,4-1,4,1,Football League Third Division,3,H
+1970-03-30,1969/1970,Reading,Mansfield Town,1-0,1,0,Football League Third Division,3,H
+1970-03-30,1969/1970,Rochdale,Halifax Town,5-0,5,0,Football League Third Division,3,H
+1970-03-30,1969/1970,Shrewsbury Town,Bristol Rovers,0-0,0,0,Football League Third Division,3,D
+1970-03-30,1969/1970,Stockport County,AFC Bournemouth,0-2,0,2,Football League Third Division,3,A
+1970-03-30,1969/1970,Bradford City,Bury,0-1,0,1,Football League Third Division,3,A
+1970-03-30,1969/1970,Doncaster Rovers,Leyton Orient,0-1,0,1,Football League Third Division,3,A
+1970-03-31,1969/1970,West Ham United,Wolverhampton Wanderers,3-0,3,0,Football League First Division,1,H
+1970-03-31,1969/1970,Nottingham Forest,Manchester United,1-2,1,2,Football League First Division,1,A
+1970-03-31,1969/1970,Ipswich Town,Arsenal,2-1,2,1,Football League First Division,1,H
+1970-03-31,1969/1970,Coventry City,Southampton,4-0,4,0,Football League First Division,1,H
+1970-03-31,1969/1970,Northampton Town,York City,2-2,2,2,Football League Fourth Division,4,D
+1970-03-31,1969/1970,Chesterfield,Southend United,3-0,3,0,Football League Fourth Division,4,H
+1970-03-31,1969/1970,Oldham Athletic,Brentford,4-1,4,1,Football League Fourth Division,4,H
+1970-03-31,1969/1970,Scunthorpe United,Crewe Alexandra,0-1,0,1,Football League Fourth Division,4,A
+1970-03-31,1969/1970,Swansea City,Notts County,1-1,1,1,Football League Fourth Division,4,D
+1970-03-31,1969/1970,Bradford Park Avenue,Hartlepool United,3-0,3,0,Football League Fourth Division,4,H
+1970-03-31,1969/1970,Charlton Athletic,Queens Park Rangers,1-1,1,1,Football League Second Division,2,D
+1970-03-31,1969/1970,Sheffield United,Millwall,3-1,3,1,Football League Second Division,2,H
+1970-03-31,1969/1970,Preston North End,Norwich City,1-1,1,1,Football League Second Division,2,D
+1970-03-31,1969/1970,Middlesbrough,Huddersfield Town,1-1,1,1,Football League Second Division,2,D
+1970-03-31,1969/1970,Leicester City,Blackpool,0-0,0,0,Football League Second Division,2,D
+1970-03-31,1969/1970,Hull City,Cardiff City,1-1,1,1,Football League Second Division,2,D
+1970-03-31,1969/1970,Carlisle United,Bristol City,2-1,2,1,Football League Second Division,2,H
+1970-03-31,1969/1970,Aston Villa,Oxford United,0-0,0,0,Football League Second Division,2,D
+1970-03-31,1969/1970,Swindon Town,Birmingham City,4-1,4,1,Football League Second Division,2,H
+1970-03-31,1969/1970,Halifax Town,Torquay United,1-1,1,1,Football League Third Division,3,D
+1970-03-31,1969/1970,Plymouth Argyle,Barrow,1-0,1,0,Football League Third Division,3,H
+1970-03-31,1969/1970,Rotherham United,Tranmere Rovers,0-1,0,1,Football League Third Division,3,A
+1970-03-31,1969/1970,Walsall,Gillingham,0-1,0,1,Football League Third Division,3,A
+1970-03-31,1969/1970,Bristol Rovers,Doncaster Rovers,1-1,1,1,Football League Third Division,3,D
+1970-03-31,1969/1970,Barnsley,Luton Town,2-1,2,1,Football League Third Division,3,H
+1970-04-01,1969/1970,Everton,West Bromwich Albion,2-0,2,0,Football League First Division,1,H
+1970-04-01,1969/1970,Port Vale,Wrexham,1-0,1,0,Football League Fourth Division,4,H
+1970-04-01,1969/1970,Chester,Colchester United,1-0,1,0,Football League Fourth Division,4,H
+1970-04-01,1969/1970,Portsmouth,Watford,3-1,3,1,Football League Second Division,2,H
+1970-04-01,1969/1970,Mansfield Town,Southport,5-0,5,0,Football League Third Division,3,H
+1970-04-02,1969/1970,West Ham United,Leeds United,2-2,2,2,Football League First Division,1,D
+1970-04-03,1969/1970,Liverpool,Crystal Palace,3-0,3,0,Football League First Division,1,H
+1970-04-03,1969/1970,Southport,Fulham,0-2,0,2,Football League Third Division,3,A
+1970-04-03,1969/1970,Tranmere Rovers,Torquay United,1-1,1,1,Football League Third Division,3,D
+1970-04-04,1969/1970,Arsenal,West Ham United,2-1,2,1,Football League First Division,1,H
+1970-04-04,1969/1970,Chelsea,Tottenham Hotspur,1-0,1,0,Football League First Division,1,H
+1970-04-04,1969/1970,Coventry City,Stoke City,0-3,0,3,Football League First Division,1,A
+1970-04-04,1969/1970,Derby County,Wolverhampton Wanderers,2-0,2,0,Football League First Division,1,H
+1970-04-04,1969/1970,Ipswich Town,Southampton,2-0,2,0,Football League First Division,1,H
+1970-04-04,1969/1970,Leeds United,Burnley,2-1,2,1,Football League First Division,1,H
+1970-04-04,1969/1970,Manchester City,Sunderland,0-1,0,1,Football League First Division,1,A
+1970-04-04,1969/1970,Newcastle United,Manchester United,5-1,5,1,Football League First Division,1,H
+1970-04-04,1969/1970,Sheffield Wednesday,Everton,0-1,0,1,Football League First Division,1,A
+1970-04-04,1969/1970,West Bromwich Albion,Nottingham Forest,4-0,4,0,Football League First Division,1,H
+1970-04-04,1969/1970,Bradford Park Avenue,Scunthorpe United,0-5,0,5,Football League Fourth Division,4,A
+1970-04-04,1969/1970,Brentford,Chester,2-0,2,0,Football League Fourth Division,4,H
+1970-04-04,1969/1970,Grimsby Town,Southend United,2-2,2,2,Football League Fourth Division,4,D
+1970-04-04,1969/1970,Exeter City,York City,2-1,2,1,Football League Fourth Division,4,H
+1970-04-04,1969/1970,Newport County,Darlington,2-1,2,1,Football League Fourth Division,4,H
+1970-04-04,1969/1970,Notts County,Crewe Alexandra,0-1,0,1,Football League Fourth Division,4,A
+1970-04-04,1969/1970,Oldham Athletic,Northampton Town,0-2,0,2,Football League Fourth Division,4,A
+1970-04-04,1969/1970,Peterborough United,Colchester United,1-1,1,1,Football League Fourth Division,4,D
+1970-04-04,1969/1970,Port Vale,Lincoln City,0-0,0,0,Football League Fourth Division,4,D
+1970-04-04,1969/1970,Swansea City,Hartlepool United,3-0,3,0,Football League Fourth Division,4,H
+1970-04-04,1969/1970,Wrexham,Workington,4-1,4,1,Football League Fourth Division,4,H
+1970-04-04,1969/1970,Chesterfield,Aldershot,4-2,4,2,Football League Fourth Division,4,H
+1970-04-04,1969/1970,Portsmouth,Norwich City,1-4,1,4,Football League Second Division,2,A
+1970-04-04,1969/1970,Watford,Preston North End,0-0,0,0,Football League Second Division,2,D
+1970-04-04,1969/1970,Blackburn Rovers,Huddersfield Town,0-2,0,2,Football League Second Division,2,A
+1970-04-04,1969/1970,Blackpool,Queens Park Rangers,1-1,1,1,Football League Second Division,2,D
+1970-04-04,1969/1970,Bolton Wanderers,Carlisle United,0-0,0,0,Football League Second Division,2,D
+1970-04-04,1969/1970,Bristol City,Sheffield United,0-1,0,1,Football League Second Division,2,A
+1970-04-04,1969/1970,Leicester City,Aston Villa,1-0,1,0,Football League Second Division,2,H
+1970-04-04,1969/1970,Middlesbrough,Cardiff City,2-1,2,1,Football League Second Division,2,H
+1970-04-04,1969/1970,Millwall,Swindon Town,3-1,3,1,Football League Second Division,2,H
+1970-04-04,1969/1970,Oxford United,Charlton Athletic,1-1,1,1,Football League Second Division,2,D
+1970-04-04,1969/1970,Birmingham City,Hull City,2-4,2,4,Football League Second Division,2,A
+1970-04-04,1969/1970,Halifax Town,Luton Town,0-0,0,0,Football League Third Division,3,D
+1970-04-04,1969/1970,Leyton Orient,Barrow,2-0,2,0,Football League Third Division,3,H
+1970-04-04,1969/1970,Mansfield Town,Rotherham United,2-0,2,0,Football League Third Division,3,H
+1970-04-04,1969/1970,Plymouth Argyle,Bristol Rovers,2-2,2,2,Football League Third Division,3,D
+1970-04-04,1969/1970,Reading,Barnsley,6-2,6,2,Football League Third Division,3,H
+1970-04-04,1969/1970,Rochdale,Brighton & Hove Albion,2-1,2,1,Football League Third Division,3,H
+1970-04-04,1969/1970,Walsall,Bradford City,2-0,2,0,Football League Third Division,3,H
+1970-04-04,1969/1970,Gillingham,Stockport County,0-2,0,2,Football League Third Division,3,A
+1970-04-04,1969/1970,Doncaster Rovers,Shrewsbury Town,2-1,2,1,Football League Third Division,3,H
+1970-04-04,1969/1970,AFC Bournemouth,Bury,2-0,2,0,Football League Third Division,3,H
+1970-04-06,1969/1970,Crystal Palace,Manchester City,1-0,1,0,Football League First Division,1,H
+1970-04-06,1969/1970,Newport County,Swansea City,1-2,1,2,Football League Fourth Division,4,A
+1970-04-06,1969/1970,Wrexham,Bradford Park Avenue,4-0,4,0,Football League Fourth Division,4,H
+1970-04-06,1969/1970,Southend United,Chester,4-2,4,2,Football League Fourth Division,4,H
+1970-04-06,1969/1970,Colchester United,Northampton Town,0-3,0,3,Football League Fourth Division,4,A
+1970-04-06,1969/1970,Mansfield Town,Fulham,2-3,2,3,Football League Third Division,3,A
+1970-04-06,1969/1970,Tranmere Rovers,Plymouth Argyle,3-1,3,1,Football League Third Division,3,H
+1970-04-07,1969/1970,Nottingham Forest,Coventry City,1-4,1,4,Football League First Division,1,A
+1970-04-07,1969/1970,York City,Aldershot,2-0,2,0,Football League Fourth Division,4,H
+1970-04-07,1969/1970,Oldham Athletic,Peterborough United,4-2,4,2,Football League Fourth Division,4,H
+1970-04-07,1969/1970,Grimsby Town,Brentford,2-1,2,1,Football League Fourth Division,4,H
+1970-04-07,1969/1970,Exeter City,Chesterfield,1-1,1,1,Football League Fourth Division,4,D
+1970-04-07,1969/1970,Watford,Norwich City,1-1,1,1,Football League Second Division,2,D
+1970-04-07,1969/1970,Swindon Town,Blackpool,1-1,1,1,Football League Second Division,2,D
+1970-04-07,1969/1970,Walsall,Leyton Orient,2-0,2,0,Football League Third Division,3,H
+1970-04-07,1969/1970,Doncaster Rovers,AFC Bournemouth,2-1,2,1,Football League Third Division,3,H
+1970-04-07,1969/1970,Southport,Halifax Town,1-0,1,0,Football League Third Division,3,H
+1970-04-07,1969/1970,Bristol Rovers,Stockport County,1-0,1,0,Football League Third Division,3,H
+1970-04-07,1969/1970,Barnsley,Torquay United,3-0,3,0,Football League Third Division,3,H
+1970-04-07,1969/1970,Bury,Shrewsbury Town,2-2,2,2,Football League Third Division,3,D
+1970-04-08,1969/1970,Sunderland,Everton,0-0,0,0,Football League First Division,1,D
+1970-04-08,1969/1970,Southampton,Manchester City,0-0,0,0,Football League First Division,1,D
+1970-04-08,1969/1970,Manchester United,West Bromwich Albion,7-0,7,0,Football League First Division,1,H
+1970-04-08,1969/1970,Notts County,Port Vale,1-2,1,2,Football League Fourth Division,4,A
+1970-04-08,1969/1970,Workington,Scunthorpe United,2-2,2,2,Football League Fourth Division,4,D
+1970-04-08,1969/1970,Lincoln City,Crewe Alexandra,2-1,2,1,Football League Fourth Division,4,H
+1970-04-08,1969/1970,Blackburn Rovers,Charlton Athletic,3-0,3,0,Football League Second Division,2,H
+1970-04-08,1969/1970,Aston Villa,Middlesbrough,2-0,2,0,Football League Second Division,2,H
+1970-04-08,1969/1970,Fulham,Luton Town,0-1,0,1,Football League Third Division,3,A
+1970-04-08,1969/1970,Reading,Tranmere Rovers,1-1,1,1,Football League Third Division,3,D
+1970-04-08,1969/1970,Brighton & Hove Albion,Rotherham United,2-1,2,1,Football League Third Division,3,H
+1970-04-08,1969/1970,Bradford City,Barrow,3-3,3,3,Football League Third Division,3,D
+1970-04-09,1969/1970,Bolton Wanderers,Norwich City,0-0,0,0,Football League Second Division,2,D
+1970-04-09,1969/1970,Doncaster Rovers,Torquay United,1-0,1,0,Football League Third Division,3,H
+1970-04-09,1969/1970,Rochdale,Walsall,1-2,1,2,Football League Third Division,3,A
+1970-04-10,1969/1970,Wolverhampton Wanderers,Coventry City,0-1,0,1,Football League First Division,1,A
+1970-04-10,1969/1970,Nottingham Forest,Ipswich Town,1-0,1,0,Football League First Division,1,H
+1970-04-10,1969/1970,Southend United,Darlington,2-0,2,0,Football League Fourth Division,4,H
+1970-04-10,1969/1970,Northampton Town,Swansea City,4-1,4,1,Football League Fourth Division,4,H
+1970-04-10,1969/1970,Crewe Alexandra,Hartlepool United,3-0,3,0,Football League Fourth Division,4,H
+1970-04-10,1969/1970,Peterborough United,Wrexham,5-2,5,2,Football League Fourth Division,4,H
+1970-04-10,1969/1970,Gillingham,Mansfield Town,3-3,3,3,Football League Third Division,3,D
+1970-04-11,1969/1970,Leyton Orient,Rochdale,2-2,2,2,Football League Third Division,3,D
+1970-04-11,1969/1970,Luton Town,Walsall,3-0,3,0,Football League Third Division,3,H
+1970-04-13,1969/1970,Tottenham Hotspur,Manchester United,2-1,2,1,Football League First Division,1,H
+1970-04-13,1969/1970,Stoke City,Chelsea,1-2,1,2,Football League First Division,1,A
+1970-04-13,1969/1970,York City,Chesterfield,1-1,1,1,Football League Fourth Division,4,D
+1970-04-13,1969/1970,Southend United,Brentford,2-2,2,2,Football League Fourth Division,4,D
+1970-04-13,1969/1970,Hartlepool United,Newport County,0-1,0,1,Football League Fourth Division,4,A
+1970-04-13,1969/1970,Darlington,Swansea City,2-1,2,1,Football League Fourth Division,4,H
+1970-04-13,1969/1970,Colchester United,Oldham Athletic,3-1,3,1,Football League Fourth Division,4,H
+1970-04-13,1969/1970,Preston North End,Blackpool,0-3,0,3,Football League Second Division,2,A
+1970-04-13,1969/1970,Aston Villa,Sheffield United,1-0,1,0,Football League Second Division,2,H
+1970-04-13,1969/1970,Stockport County,Plymouth Argyle,0-1,0,1,Football League Third Division,3,A
+1970-04-14,1969/1970,Newcastle United,Coventry City,4-0,4,0,Football League First Division,1,H
+1970-04-14,1969/1970,Scunthorpe United,Wrexham,1-3,1,3,Football League Fourth Division,4,A
+1970-04-14,1969/1970,Northampton Town,Peterborough United,2-2,2,2,Football League Fourth Division,4,D
+1970-04-14,1969/1970,Swindon Town,Middlesbrough,0-3,0,3,Football League Second Division,2,A
+1970-04-14,1969/1970,Queens Park Rangers,Blackburn Rovers,2-3,2,3,Football League Second Division,2,A
+1970-04-14,1969/1970,Huddersfield Town,Watford,3-1,3,1,Football League Second Division,2,H
+1970-04-14,1969/1970,Charlton Athletic,Bristol City,2-1,2,1,Football League Second Division,2,H
+1970-04-14,1969/1970,Carlisle United,Leicester City,2-2,2,2,Football League Second Division,2,D
+1970-04-14,1969/1970,Rotherham United,Rochdale,3-1,3,1,Football League Third Division,3,H
+1970-04-14,1969/1970,Walsall,Reading,4-1,4,1,Football League Third Division,3,H
+1970-04-14,1969/1970,Bristol Rovers,Gillingham,1-2,1,2,Football League Third Division,3,A
+1970-04-14,1969/1970,Luton Town,Southport,1-0,1,0,Football League Third Division,3,H
+1970-04-14,1969/1970,Bury,Doncaster Rovers,1-1,1,1,Football League Third Division,3,D
+1970-04-14,1969/1970,Barnsley,Tranmere Rovers,1-1,1,1,Football League Third Division,3,D
+1970-04-15,1969/1970,Sunderland,Liverpool,0-1,0,1,Football League First Division,1,A
+1970-04-15,1969/1970,Stoke City,West Bromwich Albion,3-2,3,2,Football League First Division,1,H
+1970-04-15,1969/1970,Southampton,Derby County,1-1,1,1,Football League First Division,1,D
+1970-04-15,1969/1970,Manchester United,Sheffield Wednesday,2-2,2,2,Football League First Division,1,D
+1970-04-15,1969/1970,Burnley,Chelsea,3-1,3,1,Football League First Division,1,H
+1970-04-15,1969/1970,Workington,Bradford Park Avenue,1-0,1,0,Football League Fourth Division,4,H
+1970-04-15,1969/1970,Crewe Alexandra,Port Vale,0-0,0,0,Football League Fourth Division,4,D
+1970-04-15,1969/1970,Chester,Grimsby Town,3-1,3,1,Football League Fourth Division,4,H
+1970-04-15,1969/1970,Aldershot,Exeter City,1-0,1,0,Football League Fourth Division,4,H
+1970-04-15,1969/1970,Lincoln City,Notts County,2-4,2,4,Football League Fourth Division,4,A
+1970-04-15,1969/1970,Norwich City,Birmingham City,6-0,6,0,Football League Second Division,2,H
+1970-04-15,1969/1970,Hull City,Portsmouth,3-3,3,3,Football League Second Division,2,D
+1970-04-15,1969/1970,Cardiff City,Millwall,0-0,0,0,Football League Second Division,2,D
+1970-04-15,1969/1970,Sheffield United,Oxford United,5-1,5,1,Football League Second Division,2,H
+1970-04-15,1969/1970,Shrewsbury Town,AFC Bournemouth,2-0,2,0,Football League Third Division,3,H
+1970-04-15,1969/1970,Fulham,Halifax Town,2-1,2,1,Football League Third Division,3,H
+1970-04-15,1969/1970,Brighton & Hove Albion,Mansfield Town,1-2,1,2,Football League Third Division,3,A
+1970-04-15,1969/1970,Bradford City,Leyton Orient,0-1,0,1,Football League Third Division,3,A
+1970-04-17,1969/1970,York City,Crewe Alexandra,0-0,0,0,Football League Fourth Division,4,D
+1970-04-17,1969/1970,Chesterfield,Bradford Park Avenue,4-0,4,0,Football League Fourth Division,4,H
+1970-04-17,1969/1970,Tranmere Rovers,Bristol Rovers,5-2,5,2,Football League Third Division,3,H
+1970-04-17,1969/1970,Southport,Gillingham,1-1,1,1,Football League Third Division,3,D
+1970-04-17,1969/1970,Walsall,Plymouth Argyle,2-2,2,2,Football League Third Division,3,D
+1970-04-18,1969/1970,Leeds United,Manchester City,1-3,1,3,Football League First Division,1,A
+1970-04-18,1969/1970,Chelsea,Liverpool,2-1,2,1,Football League First Division,1,H
+1970-04-18,1969/1970,Brentford,Colchester United,2-0,2,0,Football League Fourth Division,4,H
+1970-04-18,1969/1970,Port Vale,Notts County,1-1,1,1,Football League Fourth Division,4,D
+1970-04-18,1969/1970,Wrexham,Oldham Athletic,1-1,1,1,Football League Fourth Division,4,D
+1970-04-18,1969/1970,Peterborough United,Chester,0-0,0,0,Football League Fourth Division,4,D
+1970-04-18,1969/1970,Lincoln City,Hartlepool United,3-0,3,0,Football League Fourth Division,4,H
+1970-04-18,1969/1970,Grimsby Town,Northampton Town,0-1,0,1,Football League Fourth Division,4,A
+1970-04-18,1969/1970,Oxford United,Blackpool,2-0,2,0,Football League Second Division,2,H
+1970-04-18,1969/1970,Norwich City,Watford,1-1,1,1,Football League Second Division,2,D
+1970-04-18,1969/1970,Leicester City,Queens Park Rangers,2-1,2,1,Football League Second Division,2,H
+1970-04-18,1969/1970,Shrewsbury Town,Plymouth Argyle,3-0,3,0,Football League Third Division,3,H
+1970-04-18,1969/1970,AFC Bournemouth,Mansfield Town,1-0,1,0,Football League Third Division,3,H
+1970-04-18,1969/1970,Rochdale,Fulham,0-1,0,1,Football League Third Division,3,A
+1970-04-20,1969/1970,Aldershot,Bradford Park Avenue,4-2,4,2,Football League Fourth Division,4,H
+1970-04-20,1969/1970,Wrexham,Grimsby Town,3-2,3,2,Football League Fourth Division,4,H
+1970-04-20,1969/1970,Swindon Town,Blackburn Rovers,1-0,1,0,Football League Second Division,2,H
+1970-04-20,1969/1970,Preston North End,Cardiff City,1-2,1,2,Football League Second Division,2,A
+1970-04-20,1969/1970,Mansfield Town,Luton Town,0-0,0,0,Football League Third Division,3,D
+1970-04-20,1969/1970,Tranmere Rovers,Gillingham,0-0,0,0,Football League Third Division,3,D
+1970-04-20,1969/1970,Fulham,Reading,2-1,2,1,Football League Third Division,3,H
+1970-04-20,1969/1970,Leyton Orient,Southport,3-2,3,2,Football League Third Division,3,H
+1970-04-21,1969/1970,Ipswich Town,Leeds United,3-2,3,2,Football League First Division,1,H
+1970-04-21,1969/1970,Chesterfield,Swansea City,0-0,0,0,Football League Fourth Division,4,D
+1970-04-21,1969/1970,Notts County,Workington,0-3,0,3,Football League Fourth Division,4,A
+1970-04-21,1969/1970,Oldham Athletic,Crewe Alexandra,2-1,2,1,Football League Fourth Division,4,H
+1970-04-21,1969/1970,York City,Newport County,2-1,2,1,Football League Fourth Division,4,H
+1970-04-22,1969/1970,Sheffield Wednesday,Manchester City,1-2,1,2,Football League First Division,1,A
+1970-04-22,1969/1970,Peterborough United,Port Vale,0-0,0,0,Football League Fourth Division,4,D
+1970-04-22,1969/1970,Darlington,Hartlepool United,4-0,4,0,Football League Fourth Division,4,H
+1970-04-22,1969/1970,Colchester United,Lincoln City,2-0,2,0,Football League Fourth Division,4,H
+1970-04-22,1969/1970,Walsall,Stockport County,0-0,0,0,Football League Third Division,3,D
+1970-04-22,1969/1970,Bradford City,Mansfield Town,0-1,0,1,Football League Third Division,3,A
+1970-04-22,1969/1970,Reading,Southport,8-0,8,0,Football League Third Division,3,H
+1970-04-22,1969/1970,Gillingham,Halifax Town,2-0,2,0,Football League Third Division,3,H
+1970-04-22,1969/1970,Torquay United,Shrewsbury Town,3-0,3,0,Football League Third Division,3,H
+1970-04-24,1969/1970,Crewe Alexandra,Chesterfield,2-1,2,1,Football League Fourth Division,4,H
+1970-04-24,1969/1970,Notts County,Northampton Town,2-0,2,0,Football League Fourth Division,4,H
+1970-04-24,1969/1970,Aldershot,Brentford,1-2,1,2,Football League Fourth Division,4,A
+1970-04-24,1969/1970,York City,Wrexham,2-1,2,1,Football League Fourth Division,4,H
+1970-04-24,1969/1970,Southport,Bradford City,1-0,1,0,Football League Third Division,3,H
+1970-04-24,1969/1970,Halifax Town,Walsall,0-1,0,1,Football League Third Division,3,A
+1970-04-24,1969/1970,Stockport County,Tranmere Rovers,0-1,0,1,Football League Third Division,3,A
+1970-04-25,1969/1970,Lincoln City,Darlington,1-0,1,0,Football League Fourth Division,4,H
+1970-04-25,1969/1970,Newport County,Grimsby Town,1-0,1,0,Football League Fourth Division,4,H
+1970-04-25,1969/1970,Port Vale,Colchester United,1-1,1,1,Football League Fourth Division,4,D
+1970-04-25,1969/1970,Gillingham,AFC Bournemouth,0-0,0,0,Football League Third Division,3,D
+1970-04-25,1969/1970,Leyton Orient,Shrewsbury Town,1-0,1,0,Football League Third Division,3,H
+1970-04-25,1969/1970,Rochdale,Luton Town,1-2,1,2,Football League Third Division,3,A
+1970-04-27,1969/1970,Darlington,York City,1-0,1,0,Football League Fourth Division,4,H
+1970-04-27,1969/1970,Chesterfield,Peterborough United,3-1,3,1,Football League Fourth Division,4,H
+1970-04-27,1969/1970,Wrexham,Northampton Town,3-0,3,0,Football League Fourth Division,4,H
+1970-04-27,1969/1970,Leyton Orient,Gillingham,1-2,1,2,Football League Third Division,3,A
+1970-04-27,1969/1970,Tranmere Rovers,Fulham,1-0,1,0,Football League Third Division,3,H
+1970-04-28,1969/1970,Grimsby Town,Colchester United,5-3,5,3,Football League Fourth Division,4,H
+1970-04-30,1969/1970,Chester,Aldershot,2-1,2,1,Football League Fourth Division,4,H
+1970-05-01,1969/1970,Southend United,York City,1-0,1,0,Football League Fourth Division,4,H
+1970-05-02,1969/1970,Tottenham Hotspur,Arsenal,1-0,1,0,Football League First Division,1,H

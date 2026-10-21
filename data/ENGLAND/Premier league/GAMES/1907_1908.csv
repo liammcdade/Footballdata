@@ -1,0 +1,761 @@
+Date,Season,HomeTeam,AwayTeam,Score,hGoal,aGoal,Division,Tier,Result
+1907-09-02,1907/1908,Sunderland,Manchester City,2-5,2,5,Football League First Division,1,A
+1907-09-02,1907/1908,Nottingham Forest,Liverpool,3-1,3,1,Football League First Division,1,H
+1907-09-02,1907/1908,Bristol City,Everton,3-2,3,2,Football League First Division,1,H
+1907-09-02,1907/1908,Blackburn Rovers,Bury,1-0,1,0,Football League First Division,1,H
+1907-09-02,1907/1908,Aston Villa,Manchester United,1-4,1,4,Football League First Division,1,A
+1907-09-02,1907/1908,Arsenal,Notts County,1-1,1,1,Football League First Division,1,D
+1907-09-02,1907/1908,Preston North End,Sheffield Wednesday,1-1,1,1,Football League First Division,1,D
+1907-09-02,1907/1908,Wolverhampton Wanderers,West Bromwich Albion,1-2,1,2,Football League Second Division,2,A
+1907-09-02,1907/1908,Stoke City,Chesterfield,1-1,1,1,Football League Second Division,2,D
+1907-09-02,1907/1908,Stockport County,Blackpool,1-1,1,1,Football League Second Division,2,D
+1907-09-02,1907/1908,Leyton Orient,Hull City,1-0,1,0,Football League Second Division,2,H
+1907-09-02,1907/1908,Leeds City,Glossop North End,2-1,2,1,Football League Second Division,2,H
+1907-09-02,1907/1908,Derby County,Lincoln City,4-0,4,0,Football League Second Division,2,H
+1907-09-03,1907/1908,Fulham,Hull City,0-1,0,1,Football League Second Division,2,A
+1907-09-03,1907/1908,Grimsby Town,Gainsborough Trinity,1-4,1,4,Football League Second Division,2,A
+1907-09-04,1907/1908,Middlesbrough,Birmingham City,1-0,1,0,Football League First Division,1,H
+1907-09-04,1907/1908,Newcastle United,Notts County,1-1,1,1,Football League First Division,1,D
+1907-09-05,1907/1908,Barnsley,Leyton Orient,2-2,2,2,Football League Second Division,2,D
+1907-09-07,1907/1908,Birmingham City,Preston North End,2-0,2,0,Football League First Division,1,H
+1907-09-07,1907/1908,Sheffield Wednesday,Newcastle United,3-1,3,1,Football League First Division,1,H
+1907-09-07,1907/1908,Nottingham Forest,Middlesbrough,0-3,0,3,Football League First Division,1,A
+1907-09-07,1907/1908,Manchester United,Liverpool,4-0,4,0,Football League First Division,1,H
+1907-09-07,1907/1908,Everton,Manchester City,3-3,3,3,Football League First Division,1,D
+1907-09-07,1907/1908,Chelsea,Sheffield United,2-4,2,4,Football League First Division,1,A
+1907-09-07,1907/1908,Bolton Wanderers,Bury,3-6,3,6,Football League First Division,1,A
+1907-09-07,1907/1908,Blackburn Rovers,Aston Villa,2-0,2,0,Football League First Division,1,H
+1907-09-07,1907/1908,Sunderland,Notts County,4-3,4,3,Football League First Division,1,H
+1907-09-07,1907/1908,Arsenal,Bristol City,0-4,0,4,Football League First Division,1,A
+1907-09-07,1907/1908,Hull City,Barnsley,2-0,2,0,Football League Second Division,2,H
+1907-09-07,1907/1908,Derby County,Fulham,0-1,0,1,Football League Second Division,2,A
+1907-09-07,1907/1908,Glossop North End,Wolverhampton Wanderers,1-1,1,1,Football League Second Division,2,D
+1907-09-07,1907/1908,Leicester City,Leeds City,2-2,2,2,Football League Second Division,2,D
+1907-09-07,1907/1908,Bradford City,Chesterfield,8-1,8,1,Football League Second Division,2,H
+1907-09-07,1907/1908,Stockport County,Gainsborough Trinity,1-1,1,1,Football League Second Division,2,D
+1907-09-07,1907/1908,Stoke City,Oldham Athletic,1-3,1,3,Football League Second Division,2,A
+1907-09-07,1907/1908,West Bromwich Albion,Burnley,5-0,5,0,Football League Second Division,2,H
+1907-09-07,1907/1908,Lincoln City,Grimsby Town,1-0,1,0,Football League Second Division,2,H
+1907-09-07,1907/1908,Blackpool,Leyton Orient,5-0,5,0,Football League Second Division,2,H
+1907-09-09,1907/1908,Everton,Preston North End,2-1,2,1,Football League First Division,1,H
+1907-09-09,1907/1908,Bury,Arsenal,3-2,3,2,Football League First Division,1,H
+1907-09-09,1907/1908,Aston Villa,Sunderland,1-0,1,0,Football League First Division,1,H
+1907-09-09,1907/1908,Manchester United,Middlesbrough,2-1,2,1,Football League First Division,1,H
+1907-09-09,1907/1908,Stockport County,Grimsby Town,3-0,3,0,Football League Second Division,2,H
+1907-09-09,1907/1908,Leicester City,Wolverhampton Wanderers,1-0,1,0,Football League Second Division,2,H
+1907-09-09,1907/1908,Leeds City,Leyton Orient,5-2,5,2,Football League Second Division,2,H
+1907-09-09,1907/1908,Burnley,Stoke City,3-1,3,1,Football League Second Division,2,H
+1907-09-14,1907/1908,Notts County,Arsenal,2-0,2,0,Football League First Division,1,H
+1907-09-14,1907/1908,Preston North End,Everton,2-2,2,2,Football League First Division,1,D
+1907-09-14,1907/1908,Newcastle United,Chelsea,1-0,1,0,Football League First Division,1,H
+1907-09-14,1907/1908,Middlesbrough,Manchester United,2-1,2,1,Football League First Division,1,H
+1907-09-14,1907/1908,Manchester City,Sunderland,0-0,0,0,Football League First Division,1,D
+1907-09-14,1907/1908,Liverpool,Blackburn Rovers,2-0,2,0,Football League First Division,1,H
+1907-09-14,1907/1908,Bury,Birmingham City,1-0,1,0,Football League First Division,1,H
+1907-09-14,1907/1908,Bristol City,Sheffield Wednesday,0-2,0,2,Football League First Division,1,A
+1907-09-14,1907/1908,Aston Villa,Bolton Wanderers,2-0,2,0,Football League First Division,1,H
+1907-09-14,1907/1908,Sheffield United,Nottingham Forest,2-2,2,2,Football League First Division,1,D
+1907-09-14,1907/1908,Blackpool,Leeds City,2-3,2,3,Football League Second Division,2,A
+1907-09-14,1907/1908,Wolverhampton Wanderers,Leicester City,0-0,0,0,Football League Second Division,2,D
+1907-09-14,1907/1908,Oldham Athletic,West Bromwich Albion,2-1,2,1,Football League Second Division,2,H
+1907-09-14,1907/1908,Leyton Orient,Stoke City,3-0,3,0,Football League Second Division,2,H
+1907-09-14,1907/1908,Grimsby Town,Stockport County,2-1,2,1,Football League Second Division,2,H
+1907-09-14,1907/1908,Gainsborough Trinity,Glossop North End,1-0,1,0,Football League Second Division,2,H
+1907-09-14,1907/1908,Fulham,Lincoln City,6-1,6,1,Football League Second Division,2,H
+1907-09-14,1907/1908,Chesterfield,Hull City,1-2,1,2,Football League Second Division,2,A
+1907-09-14,1907/1908,Burnley,Bradford City,2-1,2,1,Football League Second Division,2,H
+1907-09-14,1907/1908,Barnsley,Derby County,2-4,2,4,Football League Second Division,2,A
+1907-09-16,1907/1908,Sheffield United,Liverpool,0-0,0,0,Football League First Division,1,D
+1907-09-16,1907/1908,Birmingham City,Bury,0-1,0,1,Football League First Division,1,A
+1907-09-16,1907/1908,Burnley,Lincoln City,1-2,1,2,Football League Second Division,2,A
+1907-09-21,1907/1908,Everton,Bury,6-1,6,1,Football League First Division,1,H
+1907-09-21,1907/1908,Sheffield Wednesday,Notts County,2-0,2,0,Football League First Division,1,H
+1907-09-21,1907/1908,Nottingham Forest,Chelsea,6-0,6,0,Football League First Division,1,H
+1907-09-21,1907/1908,Manchester United,Sheffield United,2-1,2,1,Football League First Division,1,H
+1907-09-21,1907/1908,Sunderland,Preston North End,4-1,4,1,Football League First Division,1,H
+1907-09-21,1907/1908,Bristol City,Newcastle United,1-1,1,1,Football League First Division,1,D
+1907-09-21,1907/1908,Bolton Wanderers,Liverpool,0-4,0,4,Football League First Division,1,A
+1907-09-21,1907/1908,Blackburn Rovers,Middlesbrough,2-0,2,0,Football League First Division,1,H
+1907-09-21,1907/1908,Birmingham City,Aston Villa,2-3,2,3,Football League First Division,1,A
+1907-09-21,1907/1908,Arsenal,Manchester City,2-1,2,1,Football League First Division,1,H
+1907-09-21,1907/1908,Bradford City,Oldham Athletic,1-0,1,0,Football League Second Division,2,H
+1907-09-21,1907/1908,West Bromwich Albion,Leyton Orient,3-0,3,0,Football League Second Division,2,H
+1907-09-21,1907/1908,Stoke City,Leeds City,2-1,2,1,Football League Second Division,2,H
+1907-09-21,1907/1908,Lincoln City,Barnsley,0-2,0,2,Football League Second Division,2,A
+1907-09-21,1907/1908,Leicester City,Gainsborough Trinity,3-0,3,0,Football League Second Division,2,H
+1907-09-21,1907/1908,Hull City,Burnley,3-1,3,1,Football League Second Division,2,H
+1907-09-21,1907/1908,Glossop North End,Stockport County,1-1,1,1,Football League Second Division,2,D
+1907-09-21,1907/1908,Fulham,Grimsby Town,0-1,0,1,Football League Second Division,2,A
+1907-09-21,1907/1908,Blackpool,Wolverhampton Wanderers,0-2,0,2,Football League Second Division,2,A
+1907-09-23,1907/1908,Sheffield Wednesday,Bristol City,5-3,5,3,Football League First Division,1,H
+1907-09-23,1907/1908,Chelsea,Newcastle United,2-0,2,0,Football League First Division,1,H
+1907-09-26,1907/1908,Hull City,Chesterfield,2-0,2,0,Football League Second Division,2,H
+1907-09-28,1907/1908,Preston North End,Arsenal,3-0,3,0,Football League First Division,1,H
+1907-09-28,1907/1908,Notts County,Bristol City,3-1,3,1,Football League First Division,1,H
+1907-09-28,1907/1908,Newcastle United,Nottingham Forest,3-0,3,0,Football League First Division,1,H
+1907-09-28,1907/1908,Middlesbrough,Bolton Wanderers,0-1,0,1,Football League First Division,1,A
+1907-09-28,1907/1908,Manchester City,Sheffield Wednesday,3-2,3,2,Football League First Division,1,H
+1907-09-28,1907/1908,Liverpool,Birmingham City,3-4,3,4,Football League First Division,1,A
+1907-09-28,1907/1908,Chelsea,Manchester United,1-4,1,4,Football League First Division,1,A
+1907-09-28,1907/1908,Bury,Sunderland,2-1,2,1,Football League First Division,1,H
+1907-09-28,1907/1908,Aston Villa,Everton,0-2,0,2,Football League First Division,1,A
+1907-09-28,1907/1908,Sheffield United,Blackburn Rovers,4-2,4,2,Football League First Division,1,H
+1907-09-28,1907/1908,Wolverhampton Wanderers,Stoke City,2-0,2,0,Football League Second Division,2,H
+1907-09-28,1907/1908,Stockport County,Leicester City,2-1,2,1,Football League Second Division,2,H
+1907-09-28,1907/1908,Oldham Athletic,Hull City,3-0,3,0,Football League Second Division,2,H
+1907-09-28,1907/1908,Leyton Orient,Bradford City,0-3,0,3,Football League Second Division,2,A
+1907-09-28,1907/1908,Leeds City,West Bromwich Albion,1-0,1,0,Football League Second Division,2,H
+1907-09-28,1907/1908,Grimsby Town,Glossop North End,4-0,4,0,Football League Second Division,2,H
+1907-09-28,1907/1908,Gainsborough Trinity,Blackpool,2-1,2,1,Football League Second Division,2,H
+1907-09-28,1907/1908,Chesterfield,Lincoln City,2-1,2,1,Football League Second Division,2,H
+1907-09-28,1907/1908,Burnley,Derby County,2-2,2,2,Football League Second Division,2,D
+1907-09-28,1907/1908,Barnsley,Fulham,6-0,6,0,Football League Second Division,2,H
+1907-10-03,1907/1908,Notts County,Bury,2-1,2,1,Football League First Division,1,H
+1907-10-05,1907/1908,Sunderland,Aston Villa,3-0,3,0,Football League First Division,1,H
+1907-10-05,1907/1908,Notts County,Newcastle United,0-1,0,1,Football League First Division,1,A
+1907-10-05,1907/1908,Manchester United,Nottingham Forest,4-0,4,0,Football League First Division,1,H
+1907-10-05,1907/1908,Everton,Liverpool,2-4,2,4,Football League First Division,1,A
+1907-10-05,1907/1908,Bristol City,Manchester City,2-1,2,1,Football League First Division,1,H
+1907-10-05,1907/1908,Bolton Wanderers,Sheffield United,1-1,1,1,Football League First Division,1,D
+1907-10-05,1907/1908,Blackburn Rovers,Chelsea,2-0,2,0,Football League First Division,1,H
+1907-10-05,1907/1908,Birmingham City,Middlesbrough,1-4,1,4,Football League First Division,1,A
+1907-10-05,1907/1908,Arsenal,Bury,0-0,0,0,Football League First Division,1,D
+1907-10-05,1907/1908,Sheffield Wednesday,Preston North End,1-0,1,0,Football League First Division,1,H
+1907-10-05,1907/1908,Stoke City,Gainsborough Trinity,5-0,5,0,Football League Second Division,2,H
+1907-10-05,1907/1908,Lincoln City,Burnley,1-3,1,3,Football League Second Division,2,A
+1907-10-05,1907/1908,Leicester City,Glossop North End,3-1,3,1,Football League Second Division,2,H
+1907-10-05,1907/1908,Fulham,Chesterfield,5-0,5,0,Football League Second Division,2,H
+1907-10-05,1907/1908,West Bromwich Albion,Wolverhampton Wanderers,1-0,1,0,Football League Second Division,2,H
+1907-10-05,1907/1908,Bradford City,Leeds City,5-0,5,0,Football League Second Division,2,H
+1907-10-05,1907/1908,Blackpool,Stockport County,1-3,1,3,Football League Second Division,2,A
+1907-10-05,1907/1908,Barnsley,Grimsby Town,2-1,2,1,Football League Second Division,2,H
+1907-10-05,1907/1908,Derby County,Oldham Athletic,1-0,1,0,Football League Second Division,2,H
+1907-10-10,1907/1908,Hull City,Leyton Orient,5-0,5,0,Football League Second Division,2,H
+1907-10-12,1907/1908,Preston North End,Bristol City,3-0,3,0,Football League First Division,1,H
+1907-10-12,1907/1908,Sheffield United,Birmingham City,1-0,1,0,Football League First Division,1,H
+1907-10-12,1907/1908,Bury,Sheffield Wednesday,0-2,0,2,Football League First Division,1,A
+1907-10-12,1907/1908,Chelsea,Bolton Wanderers,1-3,1,3,Football League First Division,1,A
+1907-10-12,1907/1908,Liverpool,Sunderland,1-0,1,0,Football League First Division,1,H
+1907-10-12,1907/1908,Aston Villa,Arsenal,0-1,0,1,Football League First Division,1,A
+1907-10-12,1907/1908,Middlesbrough,Everton,0-2,0,2,Football League First Division,1,A
+1907-10-12,1907/1908,Newcastle United,Manchester United,1-6,1,6,Football League First Division,1,A
+1907-10-12,1907/1908,Nottingham Forest,Blackburn Rovers,3-2,3,2,Football League First Division,1,H
+1907-10-12,1907/1908,Manchester City,Notts County,2-1,2,1,Football League First Division,1,H
+1907-10-12,1907/1908,Wolverhampton Wanderers,Bradford City,0-0,0,0,Football League Second Division,2,D
+1907-10-12,1907/1908,Stockport County,Stoke City,1-2,1,2,Football League Second Division,2,A
+1907-10-12,1907/1908,Oldham Athletic,Lincoln City,4-0,4,0,Football League Second Division,2,H
+1907-10-12,1907/1908,Leyton Orient,Derby County,1-0,1,0,Football League Second Division,2,H
+1907-10-12,1907/1908,Leeds City,Hull City,3-2,3,2,Football League Second Division,2,H
+1907-10-12,1907/1908,Glossop North End,Blackpool,2-2,2,2,Football League Second Division,2,D
+1907-10-12,1907/1908,Gainsborough Trinity,West Bromwich Albion,1-2,1,2,Football League Second Division,2,A
+1907-10-12,1907/1908,Chesterfield,Barnsley,1-3,1,3,Football League Second Division,2,A
+1907-10-12,1907/1908,Burnley,Fulham,0-1,0,1,Football League Second Division,2,A
+1907-10-12,1907/1908,Grimsby Town,Leicester City,1-1,1,1,Football League Second Division,2,D
+1907-10-16,1907/1908,Lincoln City,Fulham,2-4,2,4,Football League Second Division,2,A
+1907-10-19,1907/1908,Sunderland,Middlesbrough,0-0,0,0,Football League First Division,1,D
+1907-10-19,1907/1908,Bolton Wanderers,Nottingham Forest,1-0,1,0,Football League First Division,1,H
+1907-10-19,1907/1908,Notts County,Preston North End,0-1,0,1,Football League First Division,1,A
+1907-10-19,1907/1908,Manchester City,Newcastle United,1-0,1,0,Football League First Division,1,H
+1907-10-19,1907/1908,Everton,Sheffield United,2-1,2,1,Football League First Division,1,H
+1907-10-19,1907/1908,Bristol City,Bury,1-1,1,1,Football League First Division,1,D
+1907-10-19,1907/1908,Blackburn Rovers,Manchester United,1-5,1,5,Football League First Division,1,A
+1907-10-19,1907/1908,Birmingham City,Chelsea,1-1,1,1,Football League First Division,1,D
+1907-10-19,1907/1908,Arsenal,Liverpool,2-1,2,1,Football League First Division,1,H
+1907-10-19,1907/1908,Sheffield Wednesday,Aston Villa,2-3,2,3,Football League First Division,1,A
+1907-10-19,1907/1908,Hull City,Wolverhampton Wanderers,2-0,2,0,Football League Second Division,2,H
+1907-10-19,1907/1908,Barnsley,Burnley,2-3,2,3,Football League Second Division,2,A
+1907-10-19,1907/1908,Fulham,Oldham Athletic,1-2,1,2,Football League Second Division,2,A
+1907-10-19,1907/1908,Derby County,Leeds City,6-1,6,1,Football League Second Division,2,H
+1907-10-19,1907/1908,Chesterfield,Grimsby Town,0-0,0,0,Football League Second Division,2,D
+1907-10-19,1907/1908,Bradford City,Gainsborough Trinity,7-1,7,1,Football League Second Division,2,H
+1907-10-19,1907/1908,Blackpool,Leicester City,2-2,2,2,Football League Second Division,2,D
+1907-10-19,1907/1908,Stoke City,Glossop North End,4-0,4,0,Football League Second Division,2,H
+1907-10-19,1907/1908,West Bromwich Albion,Stockport County,2-0,2,0,Football League Second Division,2,H
+1907-10-23,1907/1908,Gainsborough Trinity,Wolverhampton Wanderers,0-1,0,1,Football League Second Division,2,A
+1907-10-26,1907/1908,Aston Villa,Bristol City,4-4,4,4,Football League First Division,1,D
+1907-10-26,1907/1908,Preston North End,Manchester City,2-4,2,4,Football League First Division,1,A
+1907-10-26,1907/1908,Sheffield United,Sunderland,5-3,5,3,Football League First Division,1,H
+1907-10-26,1907/1908,Chelsea,Everton,2-1,2,1,Football League First Division,1,H
+1907-10-26,1907/1908,Liverpool,Sheffield Wednesday,3-0,3,0,Football League First Division,1,H
+1907-10-26,1907/1908,Manchester United,Bolton Wanderers,2-1,2,1,Football League First Division,1,H
+1907-10-26,1907/1908,Bury,Notts County,0-0,0,0,Football League First Division,1,D
+1907-10-26,1907/1908,Newcastle United,Blackburn Rovers,3-0,3,0,Football League First Division,1,H
+1907-10-26,1907/1908,Nottingham Forest,Birmingham City,1-1,1,1,Football League First Division,1,D
+1907-10-26,1907/1908,Middlesbrough,Arsenal,0-0,0,0,Football League First Division,1,D
+1907-10-26,1907/1908,Wolverhampton Wanderers,Derby County,2-2,2,2,Football League Second Division,2,D
+1907-10-26,1907/1908,Stockport County,Bradford City,1-1,1,1,Football League Second Division,2,D
+1907-10-26,1907/1908,Oldham Athletic,Barnsley,1-0,1,0,Football League Second Division,2,H
+1907-10-26,1907/1908,Leyton Orient,Fulham,0-1,0,1,Football League Second Division,2,A
+1907-10-26,1907/1908,Leicester City,Stoke City,1-0,1,0,Football League Second Division,2,H
+1907-10-26,1907/1908,Grimsby Town,Blackpool,2-2,2,2,Football League Second Division,2,D
+1907-10-26,1907/1908,Glossop North End,West Bromwich Albion,2-1,2,1,Football League Second Division,2,H
+1907-10-26,1907/1908,Gainsborough Trinity,Hull City,1-2,1,2,Football League Second Division,2,A
+1907-10-26,1907/1908,Burnley,Chesterfield,1-1,1,1,Football League Second Division,2,D
+1907-10-26,1907/1908,Leeds City,Lincoln City,2-1,2,1,Football League Second Division,2,H
+1907-11-02,1907/1908,Everton,Nottingham Forest,1-0,1,0,Football League First Division,1,H
+1907-11-02,1907/1908,Sheffield Wednesday,Middlesbrough,3-2,3,2,Football League First Division,1,H
+1907-11-02,1907/1908,Preston North End,Newcastle United,2-0,2,0,Football League First Division,1,H
+1907-11-02,1907/1908,Notts County,Aston Villa,0-3,0,3,Football League First Division,1,A
+1907-11-02,1907/1908,Manchester City,Bury,2-2,2,2,Football League First Division,1,D
+1907-11-02,1907/1908,Sunderland,Chelsea,3-0,3,0,Football League First Division,1,H
+1907-11-02,1907/1908,Bristol City,Liverpool,2-0,2,0,Football League First Division,1,H
+1907-11-02,1907/1908,Bolton Wanderers,Blackburn Rovers,3-1,3,1,Football League First Division,1,H
+1907-11-02,1907/1908,Birmingham City,Manchester United,3-4,3,4,Football League First Division,1,A
+1907-11-02,1907/1908,Arsenal,Sheffield United,5-1,5,1,Football League First Division,1,H
+1907-11-02,1907/1908,Burnley,Grimsby Town,5-1,5,1,Football League Second Division,2,H
+1907-11-02,1907/1908,West Bromwich Albion,Leicester City,1-1,1,1,Football League Second Division,2,D
+1907-11-02,1907/1908,Stoke City,Blackpool,3-1,3,1,Football League Second Division,2,H
+1907-11-02,1907/1908,Lincoln City,Wolverhampton Wanderers,3-1,3,1,Football League Second Division,2,H
+1907-11-02,1907/1908,Hull City,Stockport County,0-0,0,0,Football League Second Division,2,D
+1907-11-02,1907/1908,Fulham,Leeds City,2-0,2,0,Football League Second Division,2,H
+1907-11-02,1907/1908,Derby County,Gainsborough Trinity,5-2,5,2,Football League Second Division,2,H
+1907-11-02,1907/1908,Chesterfield,Oldham Athletic,1-2,1,2,Football League Second Division,2,A
+1907-11-02,1907/1908,Bradford City,Glossop North End,2-1,2,1,Football League Second Division,2,H
+1907-11-04,1907/1908,West Bromwich Albion,Oldham Athletic,1-2,1,2,Football League Second Division,2,A
+1907-11-09,1907/1908,Middlesbrough,Bristol City,0-2,0,2,Football League First Division,1,A
+1907-11-09,1907/1908,Nottingham Forest,Sunderland,4-1,4,1,Football League First Division,1,H
+1907-11-09,1907/1908,Newcastle United,Bolton Wanderers,3-0,3,0,Football League First Division,1,H
+1907-11-09,1907/1908,Sheffield United,Sheffield Wednesday,1-3,1,3,Football League First Division,1,A
+1907-11-09,1907/1908,Manchester United,Everton,4-3,4,3,Football League First Division,1,H
+1907-11-09,1907/1908,Liverpool,Notts County,6-0,6,0,Football League First Division,1,H
+1907-11-09,1907/1908,Chelsea,Arsenal,2-1,2,1,Football League First Division,1,H
+1907-11-09,1907/1908,Bury,Preston North End,5-1,5,1,Football League First Division,1,H
+1907-11-09,1907/1908,Blackburn Rovers,Birmingham City,1-0,1,0,Football League First Division,1,H
+1907-11-09,1907/1908,Aston Villa,Manchester City,2-2,2,2,Football League First Division,1,D
+1907-11-09,1907/1908,Wolverhampton Wanderers,Fulham,2-0,2,0,Football League Second Division,2,H
+1907-11-09,1907/1908,Stockport County,Derby County,2-1,2,1,Football League Second Division,2,H
+1907-11-09,1907/1908,Oldham Athletic,Burnley,1-1,1,1,Football League Second Division,2,D
+1907-11-09,1907/1908,Leyton Orient,Chesterfield,5-1,5,1,Football League Second Division,2,H
+1907-11-09,1907/1908,Leicester City,Bradford City,2-1,2,1,Football League Second Division,2,H
+1907-11-09,1907/1908,Leeds City,Barnsley,1-1,1,1,Football League Second Division,2,D
+1907-11-09,1907/1908,Grimsby Town,Stoke City,1-0,1,0,Football League Second Division,2,H
+1907-11-09,1907/1908,Glossop North End,Hull City,5-1,5,1,Football League Second Division,2,H
+1907-11-09,1907/1908,Gainsborough Trinity,Lincoln City,5-1,5,1,Football League Second Division,2,H
+1907-11-09,1907/1908,Blackpool,West Bromwich Albion,0-1,0,1,Football League Second Division,2,A
+1907-11-11,1907/1908,Stoke City,Leyton Orient,3-0,3,0,Football League Second Division,2,H
+1907-11-16,1907/1908,Sunderland,Manchester United,1-2,1,2,Football League First Division,1,A
+1907-11-16,1907/1908,Sheffield Wednesday,Chelsea,3-1,3,1,Football League First Division,1,H
+1907-11-16,1907/1908,Birmingham City,Bolton Wanderers,2-1,2,1,Football League First Division,1,H
+1907-11-16,1907/1908,Bristol City,Sheffield United,3-2,3,2,Football League First Division,1,H
+1907-11-16,1907/1908,Bury,Newcastle United,1-2,1,2,Football League First Division,1,A
+1907-11-16,1907/1908,Arsenal,Nottingham Forest,3-1,3,1,Football League First Division,1,H
+1907-11-16,1907/1908,Manchester City,Liverpool,1-1,1,1,Football League First Division,1,D
+1907-11-16,1907/1908,Notts County,Middlesbrough,2-0,2,0,Football League First Division,1,H
+1907-11-16,1907/1908,Preston North End,Aston Villa,3-0,3,0,Football League First Division,1,H
+1907-11-16,1907/1908,Everton,Blackburn Rovers,4-1,4,1,Football League First Division,1,H
+1907-11-16,1907/1908,West Bromwich Albion,Stoke City,1-0,1,0,Football League Second Division,2,H
+1907-11-16,1907/1908,Oldham Athletic,Grimsby Town,2-0,2,0,Football League Second Division,2,H
+1907-11-16,1907/1908,Lincoln City,Stockport County,1-1,1,1,Football League Second Division,2,D
+1907-11-16,1907/1908,Hull City,Leicester City,3-2,3,2,Football League Second Division,2,H
+1907-11-16,1907/1908,Fulham,Gainsborough Trinity,6-0,6,0,Football League Second Division,2,H
+1907-11-16,1907/1908,Derby County,Glossop North End,2-0,2,0,Football League Second Division,2,H
+1907-11-16,1907/1908,Chesterfield,Leeds City,4-3,4,3,Football League Second Division,2,H
+1907-11-16,1907/1908,Burnley,Leyton Orient,3-0,3,0,Football League Second Division,2,H
+1907-11-16,1907/1908,Bradford City,Blackpool,3-0,3,0,Football League Second Division,2,H
+1907-11-16,1907/1908,Barnsley,Wolverhampton Wanderers,5-0,5,0,Football League Second Division,2,H
+1907-11-23,1907/1908,Sheffield United,Notts County,0-1,0,1,Football League First Division,1,A
+1907-11-23,1907/1908,Newcastle United,Birmingham City,8-0,8,0,Football League First Division,1,H
+1907-11-23,1907/1908,Blackburn Rovers,Sunderland,4-2,4,2,Football League First Division,1,H
+1907-11-23,1907/1908,Bolton Wanderers,Everton,3-0,3,0,Football League First Division,1,H
+1907-11-23,1907/1908,Nottingham Forest,Sheffield Wednesday,2-2,2,2,Football League First Division,1,D
+1907-11-23,1907/1908,Aston Villa,Bury,2-2,2,2,Football League First Division,1,D
+1907-11-23,1907/1908,Liverpool,Preston North End,1-2,1,2,Football League First Division,1,A
+1907-11-23,1907/1908,Manchester United,Arsenal,4-2,4,2,Football League First Division,1,H
+1907-11-23,1907/1908,Middlesbrough,Manchester City,2-0,2,0,Football League First Division,1,H
+1907-11-23,1907/1908,Chelsea,Bristol City,4-1,4,1,Football League First Division,1,H
+1907-11-23,1907/1908,Blackpool,Hull City,1-1,1,1,Football League Second Division,2,D
+1907-11-23,1907/1908,Wolverhampton Wanderers,Chesterfield,0-0,0,0,Football League Second Division,2,D
+1907-11-23,1907/1908,Stoke City,Bradford City,3-0,3,0,Football League Second Division,2,H
+1907-11-23,1907/1908,Stockport County,Fulham,2-0,2,0,Football League Second Division,2,H
+1907-11-23,1907/1908,Leicester City,Derby County,1-3,1,3,Football League Second Division,2,A
+1907-11-23,1907/1908,Leeds City,Burnley,2-2,2,2,Football League Second Division,2,D
+1907-11-23,1907/1908,Grimsby Town,West Bromwich Albion,2-2,2,2,Football League Second Division,2,D
+1907-11-23,1907/1908,Gainsborough Trinity,Barnsley,0-1,0,1,Football League Second Division,2,A
+1907-11-23,1907/1908,Leyton Orient,Oldham Athletic,2-0,2,0,Football League Second Division,2,H
+1907-11-30,1907/1908,Sunderland,Bolton Wanderers,1-2,1,2,Football League First Division,1,A
+1907-11-30,1907/1908,Arsenal,Blackburn Rovers,2-0,2,0,Football League First Division,1,H
+1907-11-30,1907/1908,Aston Villa,Newcastle United,3-3,3,3,Football League First Division,1,D
+1907-11-30,1907/1908,Bristol City,Nottingham Forest,3-0,3,0,Football League First Division,1,H
+1907-11-30,1907/1908,Preston North End,Middlesbrough,1-1,1,1,Football League First Division,1,D
+1907-11-30,1907/1908,Sheffield Wednesday,Manchester United,2-0,2,0,Football League First Division,1,H
+1907-11-30,1907/1908,Notts County,Chelsea,2-0,2,0,Football League First Division,1,H
+1907-11-30,1907/1908,Burnley,Wolverhampton Wanderers,1-0,1,0,Football League Second Division,2,H
+1907-11-30,1907/1908,Lincoln City,Leicester City,0-3,0,3,Football League Second Division,2,A
+1907-11-30,1907/1908,Leyton Orient,Grimsby Town,2-1,2,1,Football League Second Division,2,H
+1907-11-30,1907/1908,Hull City,Stoke City,2-1,2,1,Football League Second Division,2,H
+1907-11-30,1907/1908,Fulham,Glossop North End,6-1,6,1,Football League Second Division,2,H
+1907-11-30,1907/1908,Derby County,Blackpool,2-1,2,1,Football League Second Division,2,H
+1907-11-30,1907/1908,Chesterfield,Gainsborough Trinity,2-2,2,2,Football League Second Division,2,D
+1907-11-30,1907/1908,Bradford City,West Bromwich Albion,0-0,0,0,Football League Second Division,2,D
+1907-11-30,1907/1908,Oldham Athletic,Leeds City,4-2,4,2,Football League Second Division,2,H
+1907-11-30,1907/1908,Barnsley,Stockport County,0-0,0,0,Football League Second Division,2,D
+1907-12-02,1907/1908,Chelsea,Blackburn Rovers,1-0,1,0,Football League First Division,1,H
+1907-12-07,1907/1908,Nottingham Forest,Notts County,2-0,2,0,Football League First Division,1,H
+1907-12-07,1907/1908,Sheffield United,Preston North End,2-0,2,0,Football League First Division,1,H
+1907-12-07,1907/1908,Newcastle United,Everton,2-1,2,1,Football League First Division,1,H
+1907-12-07,1907/1908,Manchester United,Bristol City,2-1,2,1,Football League First Division,1,H
+1907-12-07,1907/1908,Liverpool,Aston Villa,5-0,5,0,Football League First Division,1,H
+1907-12-07,1907/1908,Chelsea,Manchester City,2-2,2,2,Football League First Division,1,D
+1907-12-07,1907/1908,Bolton Wanderers,Arsenal,3-1,3,1,Football League First Division,1,H
+1907-12-07,1907/1908,Blackburn Rovers,Sheffield Wednesday,2-0,2,0,Football League First Division,1,H
+1907-12-07,1907/1908,Birmingham City,Sunderland,0-2,0,2,Football League First Division,1,A
+1907-12-07,1907/1908,Middlesbrough,Bury,0-2,0,2,Football League First Division,1,A
+1907-12-07,1907/1908,West Bromwich Albion,Hull City,1-0,1,0,Football League Second Division,2,H
+1907-12-07,1907/1908,Stoke City,Derby County,0-3,0,3,Football League Second Division,2,A
+1907-12-07,1907/1908,Leicester City,Fulham,2-3,2,3,Football League Second Division,2,A
+1907-12-07,1907/1908,Grimsby Town,Bradford City,0-1,0,1,Football League Second Division,2,A
+1907-12-07,1907/1908,Gainsborough Trinity,Burnley,2-0,2,0,Football League Second Division,2,H
+1907-12-07,1907/1908,Blackpool,Lincoln City,4-3,4,3,Football League Second Division,2,H
+1907-12-14,1907/1908,Sheffield Wednesday,Bolton Wanderers,5-2,5,2,Football League First Division,1,H
+1907-12-14,1907/1908,Sunderland,Everton,1-2,1,2,Football League First Division,1,A
+1907-12-14,1907/1908,Aston Villa,Middlesbrough,6-0,6,0,Football League First Division,1,H
+1907-12-14,1907/1908,Bristol City,Blackburn Rovers,2-2,2,2,Football League First Division,1,D
+1907-12-14,1907/1908,Bury,Sheffield United,3-2,3,2,Football League First Division,1,H
+1907-12-14,1907/1908,Arsenal,Birmingham City,1-1,1,1,Football League First Division,1,D
+1907-12-14,1907/1908,Manchester City,Nottingham Forest,4-2,4,2,Football League First Division,1,H
+1907-12-14,1907/1908,Notts County,Manchester United,1-1,1,1,Football League First Division,1,D
+1907-12-14,1907/1908,Preston North End,Chelsea,2-4,2,4,Football League First Division,1,A
+1907-12-14,1907/1908,Liverpool,Newcastle United,1-5,1,5,Football League First Division,1,A
+1907-12-14,1907/1908,Burnley,Stockport County,4-0,4,0,Football League Second Division,2,H
+1907-12-14,1907/1908,Oldham Athletic,Gainsborough Trinity,4-1,4,1,Football League Second Division,2,H
+1907-12-14,1907/1908,Leyton Orient,Wolverhampton Wanderers,1-1,1,1,Football League Second Division,2,D
+1907-12-14,1907/1908,Leeds City,Grimsby Town,4-1,4,1,Football League Second Division,2,H
+1907-12-14,1907/1908,Hull City,Bradford City,0-2,0,2,Football League Second Division,2,A
+1907-12-14,1907/1908,Fulham,Blackpool,3-0,3,0,Football League Second Division,2,H
+1907-12-14,1907/1908,Derby County,West Bromwich Albion,2-0,2,0,Football League Second Division,2,H
+1907-12-14,1907/1908,Chesterfield,Glossop North End,3-7,3,7,Football League Second Division,2,A
+1907-12-14,1907/1908,Barnsley,Leicester City,1-3,1,3,Football League Second Division,2,A
+1907-12-14,1907/1908,Lincoln City,Stoke City,1-2,1,2,Football League Second Division,2,A
+1907-12-21,1907/1908,Sheffield United,Aston Villa,1-1,1,1,Football League First Division,1,D
+1907-12-21,1907/1908,Nottingham Forest,Preston North End,2-2,2,2,Football League First Division,1,D
+1907-12-21,1907/1908,Middlesbrough,Liverpool,3-1,3,1,Football League First Division,1,H
+1907-12-21,1907/1908,Manchester United,Manchester City,3-1,3,1,Football League First Division,1,H
+1907-12-21,1907/1908,Everton,Arsenal,1-1,1,1,Football League First Division,1,D
+1907-12-21,1907/1908,Chelsea,Bury,3-4,3,4,Football League First Division,1,A
+1907-12-21,1907/1908,Bolton Wanderers,Bristol City,1-2,1,2,Football League First Division,1,A
+1907-12-21,1907/1908,Blackburn Rovers,Notts County,1-1,1,1,Football League First Division,1,D
+1907-12-21,1907/1908,Birmingham City,Sheffield Wednesday,2-1,2,1,Football League First Division,1,H
+1907-12-21,1907/1908,Sunderland,Newcastle United,2-4,2,4,Football League First Division,1,A
+1907-12-21,1907/1908,Wolverhampton Wanderers,Leeds City,2-0,2,0,Football League Second Division,2,H
+1907-12-21,1907/1908,Bradford City,Derby County,3-1,3,1,Football League Second Division,2,H
+1907-12-21,1907/1908,Stoke City,Fulham,6-1,6,1,Football League Second Division,2,H
+1907-12-21,1907/1908,Stockport County,Oldham Athletic,2-3,2,3,Football League Second Division,2,A
+1907-12-21,1907/1908,Leicester City,Chesterfield,3-1,3,1,Football League Second Division,2,H
+1907-12-21,1907/1908,Hull City,Grimsby Town,4-2,4,2,Football League Second Division,2,H
+1907-12-21,1907/1908,Glossop North End,Burnley,3-1,3,1,Football League Second Division,2,H
+1907-12-21,1907/1908,Gainsborough Trinity,Leyton Orient,0-0,0,0,Football League Second Division,2,D
+1907-12-21,1907/1908,Blackpool,Barnsley,1-1,1,1,Football League Second Division,2,D
+1907-12-21,1907/1908,West Bromwich Albion,Lincoln City,5-2,5,2,Football League Second Division,2,H
+1907-12-24,1907/1908,Derby County,Barnsley,3-0,3,0,Football League Second Division,2,H
+1907-12-25,1907/1908,Sheffield United,Middlesbrough,0-0,0,0,Football League First Division,1,D
+1907-12-25,1907/1908,Preston North End,Bolton Wanderers,2-0,2,0,Football League First Division,1,H
+1907-12-25,1907/1908,Notts County,Everton,2-1,2,1,Football League First Division,1,H
+1907-12-25,1907/1908,Manchester United,Bury,2-1,2,1,Football League First Division,1,H
+1907-12-25,1907/1908,Liverpool,Chelsea,1-4,1,4,Football League First Division,1,A
+1907-12-25,1907/1908,Birmingham City,Manchester City,2-1,2,1,Football League First Division,1,H
+1907-12-25,1907/1908,Aston Villa,Nottingham Forest,4-0,4,0,Football League First Division,1,H
+1907-12-25,1907/1908,Arsenal,Newcastle United,2-2,2,2,Football League First Division,1,D
+1907-12-25,1907/1908,Sunderland,Bristol City,3-3,3,3,Football League First Division,1,D
+1907-12-25,1907/1908,Burnley,Blackpool,2-1,2,1,Football League Second Division,2,H
+1907-12-25,1907/1908,Derby County,Grimsby Town,4-0,4,0,Football League Second Division,2,H
+1907-12-25,1907/1908,Glossop North End,Leyton Orient,2-1,2,1,Football League Second Division,2,H
+1907-12-25,1907/1908,Wolverhampton Wanderers,Gainsborough Trinity,1-0,1,0,Football League Second Division,2,H
+1907-12-25,1907/1908,Leicester City,Oldham Athletic,4-1,4,1,Football League Second Division,2,H
+1907-12-25,1907/1908,Stockport County,Leeds City,2-1,2,1,Football League Second Division,2,H
+1907-12-25,1907/1908,West Bromwich Albion,Chesterfield,4-0,4,0,Football League Second Division,2,H
+1907-12-25,1907/1908,Hull City,Lincoln City,5-3,5,3,Football League Second Division,2,H
+1907-12-25,1907/1908,Bradford City,Barnsley,2-0,2,0,Football League Second Division,2,H
+1907-12-26,1907/1908,Preston North End,Blackburn Rovers,1-1,1,1,Football League First Division,1,D
+1907-12-26,1907/1908,Sheffield Wednesday,Sunderland,2-3,2,3,Football League First Division,1,A
+1907-12-26,1907/1908,Nottingham Forest,Aston Villa,2-2,2,2,Football League First Division,1,D
+1907-12-26,1907/1908,Newcastle United,Sheffield United,2-3,2,3,Football League First Division,1,A
+1907-12-26,1907/1908,Manchester City,Bolton Wanderers,1-0,1,0,Football League First Division,1,H
+1907-12-26,1907/1908,Everton,Bristol City,0-0,0,0,Football League First Division,1,D
+1907-12-26,1907/1908,Chelsea,Middlesbrough,1-0,1,0,Football League First Division,1,H
+1907-12-26,1907/1908,Birmingham City,Notts County,0-0,0,0,Football League First Division,1,D
+1907-12-26,1907/1908,Wolverhampton Wanderers,Stockport County,0-1,0,1,Football League Second Division,2,A
+1907-12-26,1907/1908,Stoke City,Burnley,0-0,0,0,Football League Second Division,2,D
+1907-12-26,1907/1908,Oldham Athletic,Blackpool,3-2,3,2,Football League Second Division,2,H
+1907-12-26,1907/1908,Lincoln City,Hull City,0-1,0,1,Football League Second Division,2,A
+1907-12-26,1907/1908,Leicester City,Leyton Orient,0-2,0,2,Football League Second Division,2,A
+1907-12-26,1907/1908,Gainsborough Trinity,Grimsby Town,3-2,3,2,Football League Second Division,2,H
+1907-12-26,1907/1908,Derby County,Chesterfield,0-0,0,0,Football League Second Division,2,D
+1907-12-26,1907/1908,Bradford City,Fulham,1-3,1,3,Football League Second Division,2,A
+1907-12-26,1907/1908,Barnsley,West Bromwich Albion,1-3,1,3,Football League Second Division,2,A
+1907-12-27,1907/1908,Notts County,Birmingham City,0-0,0,0,Football League First Division,1,D
+1907-12-28,1907/1908,Preston North End,Manchester United,0-0,0,0,Football League First Division,1,D
+1907-12-28,1907/1908,Sheffield Wednesday,Everton,1-2,1,2,Football League First Division,1,A
+1907-12-28,1907/1908,Aston Villa,Chelsea,0-0,0,0,Football League First Division,1,D
+1907-12-28,1907/1908,Bristol City,Birmingham City,0-0,0,0,Football League First Division,1,D
+1907-12-28,1907/1908,Bury,Nottingham Forest,0-0,0,0,Football League First Division,1,D
+1907-12-28,1907/1908,Arsenal,Sunderland,4-0,4,0,Football League First Division,1,H
+1907-12-28,1907/1908,Manchester City,Blackburn Rovers,2-0,2,0,Football League First Division,1,H
+1907-12-28,1907/1908,Newcastle United,Middlesbrough,1-1,1,1,Football League First Division,1,D
+1907-12-28,1907/1908,Notts County,Bolton Wanderers,0-1,0,1,Football League First Division,1,A
+1907-12-28,1907/1908,Liverpool,Sheffield United,3-0,3,0,Football League First Division,1,H
+1907-12-28,1907/1908,Oldham Athletic,Glossop North End,0-0,0,0,Football League Second Division,2,D
+1907-12-28,1907/1908,Wolverhampton Wanderers,Grimsby Town,5-1,5,1,Football League Second Division,2,H
+1907-12-28,1907/1908,Leyton Orient,Stockport County,4-1,4,1,Football League Second Division,2,H
+1907-12-28,1907/1908,Leeds City,Gainsborough Trinity,0-0,0,0,Football League Second Division,2,D
+1907-12-28,1907/1908,Fulham,West Bromwich Albion,1-1,1,1,Football League Second Division,2,D
+1907-12-28,1907/1908,Derby County,Hull City,4-1,4,1,Football League Second Division,2,H
+1907-12-28,1907/1908,Chesterfield,Blackpool,3-2,3,2,Football League Second Division,2,H
+1907-12-28,1907/1908,Burnley,Leicester City,4-1,4,1,Football League Second Division,2,H
+1907-12-28,1907/1908,Barnsley,Stoke City,0-1,0,1,Football League Second Division,2,A
+1907-12-28,1907/1908,Lincoln City,Bradford City,2-4,2,4,Football League Second Division,2,A
+1907-12-30,1907/1908,Sheffield United,Bolton Wanderers,1-0,1,0,Football League First Division,1,H
+1907-12-31,1907/1908,Sheffield Wednesday,Arsenal,6-0,6,0,Football League First Division,1,H
+1908-01-01,1907/1908,Sunderland,Arsenal,5-2,5,2,Football League First Division,1,H
+1908-01-01,1907/1908,Middlesbrough,Chelsea,3-1,3,1,Football League First Division,1,H
+1908-01-01,1907/1908,Liverpool,Nottingham Forest,0-0,0,0,Football League First Division,1,D
+1908-01-01,1907/1908,Bury,Manchester United,0-1,0,1,Football League First Division,1,A
+1908-01-01,1907/1908,Bolton Wanderers,Manchester City,2-0,2,0,Football League First Division,1,H
+1908-01-01,1907/1908,Blackburn Rovers,Preston North End,1-1,1,1,Football League First Division,1,D
+1908-01-01,1907/1908,Sheffield United,Newcastle United,1-1,1,1,Football League First Division,1,D
+1908-01-01,1907/1908,Stockport County,Wolverhampton Wanderers,1-3,1,3,Football League Second Division,2,A
+1908-01-01,1907/1908,Glossop North End,Leeds City,0-2,0,2,Football League Second Division,2,A
+1908-01-01,1907/1908,Chesterfield,Fulham,1-1,1,1,Football League Second Division,2,D
+1908-01-01,1907/1908,Blackpool,Oldham Athletic,1-0,1,0,Football League Second Division,2,H
+1908-01-01,1907/1908,Barnsley,Bradford City,1-2,1,2,Football League Second Division,2,A
+1908-01-02,1907/1908,Bolton Wanderers,Preston North End,2-0,2,0,Football League First Division,1,H
+1908-01-04,1907/1908,Middlesbrough,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1908-01-04,1907/1908,Sheffield United,Chelsea,0-3,0,3,Football League First Division,1,A
+1908-01-04,1907/1908,Preston North End,Birmingham City,1-1,1,1,Football League First Division,1,D
+1908-01-04,1907/1908,Notts County,Sunderland,4-0,4,0,Football League First Division,1,H
+1908-01-04,1907/1908,Newcastle United,Sheffield Wednesday,2-1,2,1,Football League First Division,1,H
+1908-01-04,1907/1908,Manchester City,Everton,4-2,4,2,Football League First Division,1,H
+1908-01-04,1907/1908,Bury,Bolton Wanderers,2-2,2,2,Football League First Division,1,D
+1908-01-04,1907/1908,Bristol City,Arsenal,1-2,1,2,Football League First Division,1,A
+1908-01-04,1907/1908,Aston Villa,Blackburn Rovers,1-1,1,1,Football League First Division,1,D
+1908-01-04,1907/1908,Chesterfield,Bradford City,1-1,1,1,Football League Second Division,2,D
+1908-01-04,1907/1908,Oldham Athletic,Stoke City,3-1,3,1,Football League Second Division,2,H
+1908-01-04,1907/1908,Leyton Orient,Blackpool,1-1,1,1,Football League Second Division,2,D
+1908-01-04,1907/1908,Leeds City,Leicester City,0-0,0,0,Football League Second Division,2,D
+1908-01-04,1907/1908,Grimsby Town,Lincoln City,0-2,0,2,Football League Second Division,2,A
+1908-01-04,1907/1908,Wolverhampton Wanderers,Glossop North End,5-0,5,0,Football League Second Division,2,H
+1908-01-04,1907/1908,Gainsborough Trinity,Stockport County,3-2,3,2,Football League Second Division,2,H
+1908-01-04,1907/1908,Fulham,Derby County,0-0,0,0,Football League Second Division,2,D
+1908-01-04,1907/1908,Burnley,West Bromwich Albion,1-1,1,1,Football League Second Division,2,D
+1908-01-04,1907/1908,Barnsley,Hull City,4-2,4,2,Football League Second Division,2,H
+1908-01-18,1907/1908,Sheffield United,Manchester United,2-0,2,0,Football League First Division,1,H
+1908-01-18,1907/1908,Preston North End,Sunderland,3-2,3,2,Football League First Division,1,H
+1908-01-18,1907/1908,Bury,Everton,3-0,3,0,Football League First Division,1,H
+1908-01-18,1907/1908,Chelsea,Nottingham Forest,0-4,0,4,Football League First Division,1,A
+1908-01-18,1907/1908,Liverpool,Bolton Wanderers,1-0,1,0,Football League First Division,1,H
+1908-01-18,1907/1908,Aston Villa,Birmingham City,2-3,2,3,Football League First Division,1,A
+1908-01-18,1907/1908,Middlesbrough,Blackburn Rovers,3-0,3,0,Football League First Division,1,H
+1908-01-18,1907/1908,Newcastle United,Bristol City,2-0,2,0,Football League First Division,1,H
+1908-01-18,1907/1908,Notts County,Sheffield Wednesday,1-2,1,2,Football League First Division,1,A
+1908-01-18,1907/1908,Manchester City,Arsenal,4-0,4,0,Football League First Division,1,H
+1908-01-18,1907/1908,Chesterfield,Derby County,0-2,0,2,Football League Second Division,2,A
+1908-01-18,1907/1908,Gainsborough Trinity,Leicester City,1-1,1,1,Football League Second Division,2,D
+1908-01-18,1907/1908,Grimsby Town,Fulham,0-4,0,4,Football League Second Division,2,A
+1908-01-18,1907/1908,Leeds City,Stoke City,0-1,0,1,Football League Second Division,2,A
+1908-01-18,1907/1908,Wolverhampton Wanderers,Blackpool,1-0,1,0,Football League Second Division,2,H
+1908-01-18,1907/1908,Oldham Athletic,Bradford City,4-0,4,0,Football League Second Division,2,H
+1908-01-18,1907/1908,Stockport County,Glossop North End,3-2,3,2,Football League Second Division,2,H
+1908-01-18,1907/1908,Burnley,Hull City,5-0,5,0,Football League Second Division,2,H
+1908-01-18,1907/1908,Leyton Orient,West Bromwich Albion,2-2,2,2,Football League Second Division,2,D
+1908-01-18,1907/1908,Barnsley,Lincoln City,2-1,2,1,Football League Second Division,2,H
+1908-01-25,1907/1908,Sheffield Wednesday,Manchester City,5-1,5,1,Football League First Division,1,H
+1908-01-25,1907/1908,Nottingham Forest,Newcastle United,0-0,0,0,Football League First Division,1,D
+1908-01-25,1907/1908,Manchester United,Chelsea,1-0,1,0,Football League First Division,1,H
+1908-01-25,1907/1908,Everton,Aston Villa,1-0,1,0,Football League First Division,1,H
+1908-01-25,1907/1908,Bristol City,Notts County,2-1,2,1,Football League First Division,1,H
+1908-01-25,1907/1908,Bolton Wanderers,Middlesbrough,1-1,1,1,Football League First Division,1,D
+1908-01-25,1907/1908,Blackburn Rovers,Sheffield United,3-3,3,3,Football League First Division,1,D
+1908-01-25,1907/1908,Birmingham City,Liverpool,1-1,1,1,Football League First Division,1,D
+1908-01-25,1907/1908,Arsenal,Preston North End,1-1,1,1,Football League First Division,1,D
+1908-01-25,1907/1908,Sunderland,Bury,6-2,6,2,Football League First Division,1,H
+1908-01-25,1907/1908,Bradford City,Leyton Orient,1-0,1,0,Football League Second Division,2,H
+1908-01-25,1907/1908,Stoke City,Wolverhampton Wanderers,0-0,0,0,Football League Second Division,2,D
+1908-01-25,1907/1908,West Bromwich Albion,Leeds City,1-0,1,0,Football League Second Division,2,H
+1908-01-25,1907/1908,Leicester City,Stockport County,2-1,2,1,Football League Second Division,2,H
+1908-01-25,1907/1908,Hull City,Oldham Athletic,3-2,3,2,Football League Second Division,2,H
+1908-01-25,1907/1908,Glossop North End,Grimsby Town,1-2,1,2,Football League Second Division,2,A
+1908-01-25,1907/1908,Fulham,Barnsley,2-0,2,0,Football League Second Division,2,H
+1908-01-25,1907/1908,Derby County,Burnley,1-0,1,0,Football League Second Division,2,H
+1908-01-25,1907/1908,Blackpool,Gainsborough Trinity,0-1,0,1,Football League Second Division,2,A
+1908-01-25,1907/1908,Lincoln City,Chesterfield,4-0,4,0,Football League Second Division,2,H
+1908-02-01,1907/1908,Middlesbrough,Sheffield United,2-0,2,0,Football League First Division,1,H
+1908-02-01,1907/1908,Leeds City,Bradford City,0-1,0,1,Football League Second Division,2,A
+1908-02-01,1907/1908,Glossop North End,Lincoln City,3-1,3,1,Football League Second Division,2,H
+1908-02-08,1907/1908,Sheffield Wednesday,Bury,2-0,2,0,Football League First Division,1,H
+1908-02-08,1907/1908,Notts County,Manchester City,1-0,1,0,Football League First Division,1,H
+1908-02-08,1907/1908,Manchester United,Newcastle United,1-1,1,1,Football League First Division,1,D
+1908-02-08,1907/1908,Everton,Middlesbrough,2-1,2,1,Football League First Division,1,H
+1908-02-08,1907/1908,Bristol City,Preston North End,1-3,1,3,Football League First Division,1,A
+1908-02-08,1907/1908,Bolton Wanderers,Chelsea,1-2,1,2,Football League First Division,1,A
+1908-02-08,1907/1908,Blackburn Rovers,Nottingham Forest,3-3,3,3,Football League First Division,1,D
+1908-02-08,1907/1908,Birmingham City,Sheffield United,0-0,0,0,Football League First Division,1,D
+1908-02-08,1907/1908,Arsenal,Aston Villa,0-1,0,1,Football League First Division,1,A
+1908-02-08,1907/1908,Sunderland,Liverpool,1-0,1,0,Football League First Division,1,H
+1908-02-08,1907/1908,Blackpool,Glossop North End,4-0,4,0,Football League Second Division,2,H
+1908-02-08,1907/1908,Stoke City,Stockport County,1-0,1,0,Football League Second Division,2,H
+1908-02-08,1907/1908,Lincoln City,Oldham Athletic,0-2,0,2,Football League Second Division,2,A
+1908-02-08,1907/1908,Leicester City,Grimsby Town,1-1,1,1,Football League Second Division,2,D
+1908-02-08,1907/1908,Hull City,Leeds City,4-1,4,1,Football League Second Division,2,H
+1908-02-08,1907/1908,West Bromwich Albion,Gainsborough Trinity,0-1,0,1,Football League Second Division,2,A
+1908-02-08,1907/1908,Derby County,Leyton Orient,4-0,4,0,Football League Second Division,2,H
+1908-02-08,1907/1908,Bradford City,Wolverhampton Wanderers,6-2,6,2,Football League Second Division,2,H
+1908-02-08,1907/1908,Barnsley,Chesterfield,5-2,5,2,Football League Second Division,2,H
+1908-02-08,1907/1908,Fulham,Burnley,2-1,2,1,Football League Second Division,2,H
+1908-02-15,1907/1908,Middlesbrough,Sunderland,3-1,3,1,Football League First Division,1,H
+1908-02-15,1907/1908,Preston North End,Notts County,1-0,1,0,Football League First Division,1,H
+1908-02-15,1907/1908,Nottingham Forest,Bolton Wanderers,1-0,1,0,Football League First Division,1,H
+1908-02-15,1907/1908,Newcastle United,Manchester City,1-1,1,1,Football League First Division,1,D
+1908-02-15,1907/1908,Manchester United,Blackburn Rovers,1-2,1,2,Football League First Division,1,A
+1908-02-15,1907/1908,Liverpool,Arsenal,4-1,4,1,Football League First Division,1,H
+1908-02-15,1907/1908,Chelsea,Birmingham City,2-2,2,2,Football League First Division,1,D
+1908-02-15,1907/1908,Bury,Bristol City,1-1,1,1,Football League First Division,1,D
+1908-02-15,1907/1908,Aston Villa,Sheffield Wednesday,5-0,5,0,Football League First Division,1,H
+1908-02-15,1907/1908,Sheffield United,Everton,2-0,2,0,Football League First Division,1,H
+1908-02-15,1907/1908,Glossop North End,Stoke City,2-0,2,0,Football League Second Division,2,H
+1908-02-15,1907/1908,Leeds City,Derby County,5-1,5,1,Football League Second Division,2,H
+1908-02-15,1907/1908,Leicester City,Blackpool,2-1,2,1,Football League Second Division,2,H
+1908-02-15,1907/1908,Wolverhampton Wanderers,Hull City,1-2,1,2,Football League Second Division,2,A
+1908-02-15,1907/1908,Oldham Athletic,Fulham,3-3,3,3,Football League Second Division,2,D
+1908-02-15,1907/1908,Stockport County,West Bromwich Albion,1-2,1,2,Football League Second Division,2,A
+1908-02-15,1907/1908,Gainsborough Trinity,Bradford City,1-5,1,5,Football League Second Division,2,A
+1908-02-15,1907/1908,Lincoln City,Leyton Orient,2-2,2,2,Football League Second Division,2,D
+1908-02-15,1907/1908,Burnley,Barnsley,4-1,4,1,Football League Second Division,2,H
+1908-02-22,1907/1908,Sunderland,Sheffield United,4-1,4,1,Football League First Division,1,H
+1908-02-22,1907/1908,Arsenal,Middlesbrough,4-1,4,1,Football League First Division,1,H
+1908-02-22,1907/1908,West Bromwich Albion,Glossop North End,1-1,1,1,Football League Second Division,2,D
+1908-02-22,1907/1908,Lincoln City,Leeds City,5-0,5,0,Football League Second Division,2,H
+1908-02-22,1907/1908,Derby County,Leicester City,1-2,1,2,Football League Second Division,2,A
+1908-02-22,1907/1908,Hull City,Gainsborough Trinity,0-1,0,1,Football League Second Division,2,A
+1908-02-22,1907/1908,Bradford City,Stockport County,5-0,5,0,Football League Second Division,2,H
+1908-02-22,1907/1908,Chesterfield,Burnley,2-4,2,4,Football League Second Division,2,A
+1908-02-29,1907/1908,Sheffield United,Arsenal,2-2,2,2,Football League First Division,1,D
+1908-02-29,1907/1908,Nottingham Forest,Everton,5-2,5,2,Football League First Division,1,H
+1908-02-29,1907/1908,Manchester United,Birmingham City,1-0,1,0,Football League First Division,1,H
+1908-02-29,1907/1908,Liverpool,Bristol City,3-1,3,1,Football League First Division,1,H
+1908-02-29,1907/1908,Chelsea,Sunderland,2-1,2,1,Football League First Division,1,H
+1908-02-29,1907/1908,Bury,Manchester City,0-0,0,0,Football League First Division,1,D
+1908-02-29,1907/1908,Blackburn Rovers,Bolton Wanderers,3-2,3,2,Football League First Division,1,H
+1908-02-29,1907/1908,Wolverhampton Wanderers,Lincoln City,3-0,3,0,Football League Second Division,2,H
+1908-02-29,1907/1908,Stockport County,Hull City,2-3,2,3,Football League Second Division,2,A
+1908-02-29,1907/1908,Oldham Athletic,Chesterfield,4-0,4,0,Football League Second Division,2,H
+1908-02-29,1907/1908,Leyton Orient,Barnsley,2-0,2,0,Football League Second Division,2,H
+1908-02-29,1907/1908,Leeds City,Fulham,0-1,0,1,Football League Second Division,2,A
+1908-02-29,1907/1908,Grimsby Town,Burnley,0-1,0,1,Football League Second Division,2,A
+1908-02-29,1907/1908,Glossop North End,Bradford City,2-2,2,2,Football League Second Division,2,D
+1908-02-29,1907/1908,Gainsborough Trinity,Derby County,1-4,1,4,Football League Second Division,2,A
+1908-02-29,1907/1908,Leicester City,West Bromwich Albion,3-0,3,0,Football League Second Division,2,H
+1908-02-29,1907/1908,Blackpool,Stoke City,1-0,1,0,Football League Second Division,2,H
+1908-03-02,1907/1908,Aston Villa,Notts County,5-1,5,1,Football League First Division,1,H
+1908-03-03,1907/1908,Glossop North End,Gainsborough Trinity,1-0,1,0,Football League Second Division,2,H
+1908-03-03,1907/1908,Chesterfield,Stockport County,4-1,4,1,Football League Second Division,2,H
+1908-03-04,1907/1908,Stoke City,West Bromwich Albion,1-1,1,1,Football League Second Division,2,D
+1908-03-07,1907/1908,Birmingham City,Blackburn Rovers,1-1,1,1,Football League First Division,1,D
+1908-03-07,1907/1908,Sheffield Wednesday,Sheffield United,2-0,2,0,Football League First Division,1,H
+1908-03-07,1907/1908,Preston North End,Bury,3-1,3,1,Football League First Division,1,H
+1908-03-07,1907/1908,Notts County,Liverpool,2-2,2,2,Football League First Division,1,D
+1908-03-07,1907/1908,Manchester City,Aston Villa,3-2,3,2,Football League First Division,1,H
+1908-03-07,1907/1908,Bristol City,Middlesbrough,0-1,0,1,Football League First Division,1,A
+1908-03-07,1907/1908,Arsenal,Chelsea,0-0,0,0,Football League First Division,1,D
+1908-03-07,1907/1908,Sunderland,Nottingham Forest,7-2,7,2,Football League First Division,1,H
+1908-03-07,1907/1908,West Bromwich Albion,Blackpool,3-0,3,0,Football League Second Division,2,H
+1908-03-07,1907/1908,Lincoln City,Gainsborough Trinity,2-0,2,0,Football League Second Division,2,H
+1908-03-07,1907/1908,Hull City,Glossop North End,3-2,3,2,Football League Second Division,2,H
+1908-03-07,1907/1908,Derby County,Stockport County,3-0,3,0,Football League Second Division,2,H
+1908-03-07,1907/1908,Chesterfield,Leyton Orient,1-1,1,1,Football League Second Division,2,D
+1908-03-07,1907/1908,Burnley,Oldham Athletic,2-1,2,1,Football League Second Division,2,H
+1908-03-07,1907/1908,Bradford City,Leicester City,1-5,1,5,Football League Second Division,2,A
+1908-03-07,1907/1908,Barnsley,Leeds City,1-3,1,3,Football League Second Division,2,A
+1908-03-09,1907/1908,Sheffield Wednesday,Liverpool,1-2,1,2,Football League First Division,1,A
+1908-03-11,1907/1908,Newcastle United,Preston North End,0-0,0,0,Football League First Division,1,D
+1908-03-11,1907/1908,Manchester City,Sheffield United,0-2,0,2,Football League First Division,1,A
+1908-03-11,1907/1908,Bristol City,Aston Villa,2-2,2,2,Football League First Division,1,D
+1908-03-14,1907/1908,Liverpool,Manchester City,0-1,0,1,Football League First Division,1,A
+1908-03-14,1907/1908,Nottingham Forest,Arsenal,1-0,1,0,Football League First Division,1,H
+1908-03-14,1907/1908,Newcastle United,Bury,3-0,3,0,Football League First Division,1,H
+1908-03-14,1907/1908,Middlesbrough,Notts County,3-1,3,1,Football League First Division,1,H
+1908-03-14,1907/1908,Manchester United,Sunderland,3-0,3,0,Football League First Division,1,H
+1908-03-14,1907/1908,Chelsea,Sheffield Wednesday,3-1,3,1,Football League First Division,1,H
+1908-03-14,1907/1908,Bolton Wanderers,Birmingham City,1-0,1,0,Football League First Division,1,H
+1908-03-14,1907/1908,Blackburn Rovers,Everton,2-0,2,0,Football League First Division,1,H
+1908-03-14,1907/1908,Aston Villa,Preston North End,3-0,3,0,Football League First Division,1,H
+1908-03-14,1907/1908,Sheffield United,Bristol City,2-0,2,0,Football League First Division,1,H
+1908-03-14,1907/1908,Gainsborough Trinity,Fulham,3-3,3,3,Football League Second Division,2,D
+1908-03-14,1907/1908,Stockport County,Lincoln City,1-1,1,1,Football League Second Division,2,D
+1908-03-14,1907/1908,Leyton Orient,Burnley,0-1,0,1,Football League Second Division,2,A
+1908-03-14,1907/1908,Leicester City,Hull City,3-2,3,2,Football League Second Division,2,H
+1908-03-14,1907/1908,Leeds City,Chesterfield,0-0,0,0,Football League Second Division,2,D
+1908-03-14,1907/1908,Wolverhampton Wanderers,Barnsley,0-1,0,1,Football League Second Division,2,A
+1908-03-14,1907/1908,Grimsby Town,Oldham Athletic,2-0,2,0,Football League Second Division,2,H
+1908-03-14,1907/1908,Glossop North End,Derby County,2-3,2,3,Football League Second Division,2,A
+1908-03-14,1907/1908,Blackpool,Bradford City,2-1,2,1,Football League Second Division,2,H
+1908-03-16,1907/1908,Wolverhampton Wanderers,Burnley,5-1,5,1,Football League Second Division,2,H
+1908-03-18,1907/1908,Everton,Birmingham City,4-1,4,1,Football League First Division,1,H
+1908-03-18,1907/1908,Fulham,Leyton Orient,4-0,4,0,Football League Second Division,2,H
+1908-03-19,1907/1908,Barnsley,Oldham Athletic,2-1,2,1,Football League Second Division,2,H
+1908-03-19,1907/1908,Stoke City,Grimsby Town,5-0,5,0,Football League Second Division,2,H
+1908-03-21,1907/1908,Preston North End,Liverpool,3-0,3,0,Football League First Division,1,H
+1908-03-21,1907/1908,Sheffield Wednesday,Nottingham Forest,2-1,2,1,Football League First Division,1,H
+1908-03-21,1907/1908,Notts County,Sheffield United,0-3,0,3,Football League First Division,1,A
+1908-03-21,1907/1908,Manchester City,Middlesbrough,2-1,2,1,Football League First Division,1,H
+1908-03-21,1907/1908,Everton,Bolton Wanderers,2-1,2,1,Football League First Division,1,H
+1908-03-21,1907/1908,Bury,Aston Villa,2-1,2,1,Football League First Division,1,H
+1908-03-21,1907/1908,Bristol City,Chelsea,0-0,0,0,Football League First Division,1,D
+1908-03-21,1907/1908,Birmingham City,Newcastle United,1-1,1,1,Football League First Division,1,D
+1908-03-21,1907/1908,Arsenal,Manchester United,1-0,1,0,Football League First Division,1,H
+1908-03-21,1907/1908,Sunderland,Blackburn Rovers,4-0,4,0,Football League First Division,1,H
+1908-03-21,1907/1908,West Bromwich Albion,Grimsby Town,1-2,1,2,Football League Second Division,2,A
+1908-03-21,1907/1908,Oldham Athletic,Leyton Orient,4-1,4,1,Football League Second Division,2,H
+1908-03-21,1907/1908,Lincoln City,Glossop North End,0-1,0,1,Football League Second Division,2,A
+1908-03-21,1907/1908,Hull City,Blackpool,3-2,3,2,Football League Second Division,2,H
+1908-03-21,1907/1908,Fulham,Stockport County,0-1,0,1,Football League Second Division,2,A
+1908-03-21,1907/1908,Chesterfield,Wolverhampton Wanderers,2-0,2,0,Football League Second Division,2,H
+1908-03-21,1907/1908,Burnley,Leeds City,1-0,1,0,Football League Second Division,2,H
+1908-03-21,1907/1908,Bradford City,Stoke City,6-0,6,0,Football League Second Division,2,H
+1908-03-21,1907/1908,Barnsley,Gainsborough Trinity,1-2,1,2,Football League Second Division,2,A
+1908-03-23,1907/1908,Blackburn Rovers,Newcastle United,1-1,1,1,Football League First Division,1,D
+1908-03-24,1907/1908,Glossop North End,Leicester City,2-3,2,3,Football League Second Division,2,A
+1908-03-25,1907/1908,Liverpool,Manchester United,7-4,7,4,Football League First Division,1,H
+1908-03-26,1907/1908,Leyton Orient,Lincoln City,2-0,2,0,Football League Second Division,2,H
+1908-03-28,1907/1908,Nottingham Forest,Bristol City,3-1,3,1,Football League First Division,1,H
+1908-03-28,1907/1908,Middlesbrough,Preston North End,1-0,1,0,Football League First Division,1,H
+1908-03-28,1907/1908,Manchester United,Sheffield Wednesday,4-1,4,1,Football League First Division,1,H
+1908-03-28,1907/1908,Bury,Liverpool,3-1,3,1,Football League First Division,1,H
+1908-03-28,1907/1908,Bolton Wanderers,Sunderland,2-3,2,3,Football League First Division,1,A
+1908-03-28,1907/1908,Blackburn Rovers,Arsenal,1-1,1,1,Football League First Division,1,D
+1908-03-28,1907/1908,Birmingham City,Everton,2-1,2,1,Football League First Division,1,H
+1908-03-28,1907/1908,Sheffield United,Manchester City,1-2,1,2,Football League First Division,1,A
+1908-03-28,1907/1908,Stoke City,Hull City,1-1,1,1,Football League Second Division,2,D
+1908-03-28,1907/1908,West Bromwich Albion,Bradford City,3-2,3,2,Football League Second Division,2,H
+1908-03-28,1907/1908,Leicester City,Lincoln City,1-0,1,0,Football League Second Division,2,H
+1908-03-28,1907/1908,Leeds City,Oldham Athletic,1-2,1,2,Football League Second Division,2,A
+1908-03-28,1907/1908,Grimsby Town,Leyton Orient,0-0,0,0,Football League Second Division,2,D
+1908-03-28,1907/1908,Gainsborough Trinity,Chesterfield,2-1,2,1,Football League Second Division,2,H
+1908-03-28,1907/1908,Blackpool,Derby County,1-0,1,0,Football League Second Division,2,H
+1908-03-28,1907/1908,Stockport County,Barnsley,2-0,2,0,Football League Second Division,2,H
+1908-03-30,1907/1908,Birmingham City,Nottingham Forest,1-0,1,0,Football League First Division,1,H
+1908-03-30,1907/1908,Oldham Athletic,Derby County,3-1,3,1,Football League Second Division,2,H
+1908-04-01,1907/1908,Everton,Chelsea,0-3,0,3,Football League First Division,1,A
+1908-04-01,1907/1908,Bolton Wanderers,Newcastle United,4-0,4,0,Football League First Division,1,H
+1908-04-01,1907/1908,Fulham,Wolverhampton Wanderers,2-1,2,1,Football League Second Division,2,H
+1908-04-01,1907/1908,Burnley,Gainsborough Trinity,2-0,2,0,Football League Second Division,2,H
+1908-04-01,1907/1908,Blackpool,Grimsby Town,3-0,3,0,Football League Second Division,2,H
+1908-04-04,1907/1908,Sunderland,Birmingham City,1-0,1,0,Football League First Division,1,H
+1908-04-04,1907/1908,Preston North End,Sheffield United,0-0,0,0,Football League First Division,1,D
+1908-04-04,1907/1908,Notts County,Nottingham Forest,2-0,2,0,Football League First Division,1,H
+1908-04-04,1907/1908,Manchester City,Chelsea,0-3,0,3,Football League First Division,1,A
+1908-04-04,1907/1908,Everton,Newcastle United,2-0,2,0,Football League First Division,1,H
+1908-04-04,1907/1908,Bury,Middlesbrough,1-4,1,4,Football League First Division,1,A
+1908-04-04,1907/1908,Bristol City,Manchester United,1-1,1,1,Football League First Division,1,D
+1908-04-04,1907/1908,Aston Villa,Liverpool,5-1,5,1,Football League First Division,1,H
+1908-04-04,1907/1908,Arsenal,Bolton Wanderers,1-1,1,1,Football League First Division,1,D
+1908-04-04,1907/1908,Sheffield Wednesday,Blackburn Rovers,2-0,2,0,Football League First Division,1,H
+1908-04-04,1907/1908,Derby County,Stoke City,3-0,3,0,Football League Second Division,2,H
+1908-04-04,1907/1908,Stockport County,Chesterfield,1-0,1,0,Football League Second Division,2,H
+1908-04-04,1907/1908,Oldham Athletic,Wolverhampton Wanderers,2-0,2,0,Football League Second Division,2,H
+1908-04-04,1907/1908,Lincoln City,Blackpool,2-0,2,0,Football League Second Division,2,H
+1908-04-04,1907/1908,Leyton Orient,Leeds City,0-0,0,0,Football League Second Division,2,D
+1908-04-04,1907/1908,Hull City,West Bromwich Albion,4-2,4,2,Football League Second Division,2,H
+1908-04-04,1907/1908,Fulham,Leicester City,5-1,5,1,Football League Second Division,2,H
+1908-04-04,1907/1908,Bradford City,Grimsby Town,1-1,1,1,Football League Second Division,2,D
+1908-04-06,1907/1908,Blackburn Rovers,Liverpool,1-3,1,3,Football League First Division,1,A
+1908-04-06,1907/1908,Manchester City,Preston North End,5-0,5,0,Football League First Division,1,H
+1908-04-08,1907/1908,Newcastle United,Aston Villa,2-5,2,5,Football League First Division,1,A
+1908-04-08,1907/1908,Everton,Manchester United,1-3,1,3,Football League First Division,1,A
+1908-04-08,1907/1908,Middlesbrough,Sheffield Wednesday,6-1,6,1,Football League First Division,1,H
+1908-04-08,1907/1908,Derby County,Wolverhampton Wanderers,3-2,3,2,Football League Second Division,2,H
+1908-04-09,1907/1908,Grimsby Town,Barnsley,4-1,4,1,Football League Second Division,2,H
+1908-04-09,1907/1908,Leyton Orient,Glossop North End,0-0,0,0,Football League Second Division,2,D
+1908-04-11,1907/1908,Blackburn Rovers,Bristol City,4-1,4,1,Football League First Division,1,H
+1908-04-11,1907/1908,Nottingham Forest,Manchester City,3-1,3,1,Football League First Division,1,H
+1908-04-11,1907/1908,Newcastle United,Liverpool,3-1,3,1,Football League First Division,1,H
+1908-04-11,1907/1908,Middlesbrough,Aston Villa,0-1,0,1,Football League First Division,1,A
+1908-04-11,1907/1908,Manchester United,Notts County,0-1,0,1,Football League First Division,1,A
+1908-04-11,1907/1908,Everton,Sunderland,0-3,0,3,Football League First Division,1,A
+1908-04-11,1907/1908,Chelsea,Preston North End,0-0,0,0,Football League First Division,1,D
+1908-04-11,1907/1908,Bolton Wanderers,Sheffield Wednesday,2-1,2,1,Football League First Division,1,H
+1908-04-11,1907/1908,Birmingham City,Arsenal,1-2,1,2,Football League First Division,1,A
+1908-04-11,1907/1908,Sheffield United,Bury,0-2,0,2,Football League First Division,1,A
+1908-04-11,1907/1908,Bradford City,Hull City,2-1,2,1,Football League Second Division,2,H
+1908-04-11,1907/1908,Wolverhampton Wanderers,Leyton Orient,2-0,2,0,Football League Second Division,2,H
+1908-04-11,1907/1908,West Bromwich Albion,Derby County,1-0,1,0,Football League Second Division,2,H
+1908-04-11,1907/1908,Stoke City,Lincoln City,3-0,3,0,Football League Second Division,2,H
+1908-04-11,1907/1908,Stockport County,Burnley,1-3,1,3,Football League Second Division,2,A
+1908-04-11,1907/1908,Leicester City,Barnsley,4-0,4,0,Football League Second Division,2,H
+1908-04-11,1907/1908,Grimsby Town,Leeds City,2-0,2,0,Football League Second Division,2,H
+1908-04-11,1907/1908,Glossop North End,Chesterfield,3-2,3,2,Football League Second Division,2,H
+1908-04-11,1907/1908,Gainsborough Trinity,Oldham Athletic,1-1,1,1,Football League Second Division,2,D
+1908-04-11,1907/1908,Blackpool,Fulham,2-1,2,1,Football League Second Division,2,H
+1908-04-17,1907/1908,Nottingham Forest,Manchester United,2-0,2,0,Football League First Division,1,H
+1908-04-17,1907/1908,Newcastle United,Arsenal,2-1,2,1,Football League First Division,1,H
+1908-04-17,1907/1908,Manchester City,Birmingham City,2-1,2,1,Football League First Division,1,H
+1908-04-17,1907/1908,Liverpool,Everton,0-0,0,0,Football League First Division,1,D
+1908-04-17,1907/1908,Bury,Blackburn Rovers,1-1,1,1,Football League First Division,1,D
+1908-04-17,1907/1908,Bolton Wanderers,Aston Villa,3-1,3,1,Football League First Division,1,H
+1908-04-17,1907/1908,Sunderland,Sheffield Wednesday,1-2,1,2,Football League First Division,1,A
+1908-04-17,1907/1908,Lincoln City,Derby County,1-0,1,0,Football League Second Division,2,H
+1908-04-17,1907/1908,Leeds City,Stockport County,3-0,3,0,Football League Second Division,2,H
+1908-04-17,1907/1908,Grimsby Town,Wolverhampton Wanderers,0-1,0,1,Football League Second Division,2,A
+1908-04-17,1907/1908,Glossop North End,Barnsley,3-1,3,1,Football League Second Division,2,H
+1908-04-17,1907/1908,Gainsborough Trinity,Stoke City,2-0,2,0,Football League Second Division,2,H
+1908-04-17,1907/1908,Fulham,Bradford City,0-2,0,2,Football League Second Division,2,A
+1908-04-17,1907/1908,Chesterfield,West Bromwich Albion,1-0,1,0,Football League Second Division,2,H
+1908-04-17,1907/1908,Blackpool,Burnley,1-0,1,0,Football League Second Division,2,H
+1908-04-18,1907/1908,Preston North End,Nottingham Forest,0-1,0,1,Football League First Division,1,A
+1908-04-18,1907/1908,Arsenal,Everton,2-1,2,1,Football League First Division,1,H
+1908-04-18,1907/1908,Aston Villa,Sheffield United,1-0,1,0,Football League First Division,1,H
+1908-04-18,1907/1908,Bristol City,Bolton Wanderers,2-0,2,0,Football League First Division,1,H
+1908-04-18,1907/1908,Bury,Chelsea,1-1,1,1,Football League First Division,1,D
+1908-04-18,1907/1908,Sheffield Wednesday,Birmingham City,1-4,1,4,Football League First Division,1,A
+1908-04-18,1907/1908,Manchester City,Manchester United,0-0,0,0,Football League First Division,1,D
+1908-04-18,1907/1908,Newcastle United,Sunderland,1-3,1,3,Football League First Division,1,A
+1908-04-18,1907/1908,Notts County,Blackburn Rovers,0-2,0,2,Football League First Division,1,A
+1908-04-18,1907/1908,Liverpool,Middlesbrough,0-1,0,1,Football League First Division,1,A
+1908-04-18,1907/1908,Burnley,Glossop North End,1-0,1,0,Football League Second Division,2,H
+1908-04-18,1907/1908,Oldham Athletic,Stockport County,5-0,5,0,Football League Second Division,2,H
+1908-04-18,1907/1908,Leyton Orient,Gainsborough Trinity,2-0,2,0,Football League Second Division,2,H
+1908-04-18,1907/1908,Leeds City,Wolverhampton Wanderers,3-1,3,1,Football League Second Division,2,H
+1908-04-18,1907/1908,Grimsby Town,Hull City,1-1,1,1,Football League Second Division,2,D
+1908-04-18,1907/1908,Fulham,Stoke City,5-1,5,1,Football League Second Division,2,H
+1908-04-18,1907/1908,Derby County,Bradford City,2-3,2,3,Football League Second Division,2,A
+1908-04-18,1907/1908,Chesterfield,Leicester City,2-2,2,2,Football League Second Division,2,D
+1908-04-18,1907/1908,Barnsley,Blackpool,0-0,0,0,Football League Second Division,2,D
+1908-04-18,1907/1908,Lincoln City,West Bromwich Albion,0-2,0,2,Football League Second Division,2,A
+1908-04-20,1907/1908,Chelsea,Liverpool,0-2,0,2,Football League First Division,1,A
+1908-04-20,1907/1908,Middlesbrough,Newcastle United,2-1,2,1,Football League First Division,1,H
+1908-04-20,1907/1908,Manchester United,Aston Villa,1-2,1,2,Football League First Division,1,A
+1908-04-20,1907/1908,Everton,Notts County,1-0,1,0,Football League First Division,1,H
+1908-04-20,1907/1908,Bristol City,Sunderland,3-0,3,0,Football League First Division,1,H
+1908-04-20,1907/1908,Arsenal,Sheffield Wednesday,1-1,1,1,Football League First Division,1,D
+1908-04-20,1907/1908,Nottingham Forest,Sheffield United,1-1,1,1,Football League First Division,1,D
+1908-04-20,1907/1908,Chesterfield,Stoke City,2-4,2,4,Football League Second Division,2,A
+1908-04-20,1907/1908,West Bromwich Albion,Barnsley,1-1,1,1,Football League Second Division,2,D
+1908-04-20,1907/1908,Leyton Orient,Leicester City,0-1,0,1,Football League Second Division,2,A
+1908-04-20,1907/1908,Leeds City,Blackpool,1-1,1,1,Football League Second Division,2,D
+1908-04-20,1907/1908,Hull City,Fulham,1-2,1,2,Football League Second Division,2,A
+1908-04-20,1907/1908,Grimsby Town,Derby County,1-0,1,0,Football League Second Division,2,H
+1908-04-20,1907/1908,Bradford City,Burnley,2-0,2,0,Football League Second Division,2,H
+1908-04-20,1907/1908,Wolverhampton Wanderers,Oldham Athletic,2-1,2,1,Football League Second Division,2,H
+1908-04-21,1907/1908,Manchester City,Bristol City,0-0,0,0,Football League First Division,1,D
+1908-04-21,1907/1908,Barnsley,Glossop North End,4-1,4,1,Football League Second Division,2,H
+1908-04-21,1907/1908,Oldham Athletic,Leicester City,1-1,1,1,Football League Second Division,2,D
+1908-04-22,1907/1908,Bolton Wanderers,Manchester United,2-2,2,2,Football League First Division,1,D
+1908-04-22,1907/1908,Gainsborough Trinity,Leeds City,2-1,2,1,Football League Second Division,2,H
+1908-04-25,1907/1908,Manchester United,Preston North End,2-1,2,1,Football League First Division,1,H
+1908-04-25,1907/1908,Everton,Sheffield Wednesday,0-0,0,0,Football League First Division,1,D
+1908-04-25,1907/1908,Chelsea,Aston Villa,1-3,1,3,Football League First Division,1,A
+1908-04-25,1907/1908,Bolton Wanderers,Notts County,0-1,0,1,Football League First Division,1,A
+1908-04-25,1907/1908,Blackburn Rovers,Manchester City,0-0,0,0,Football League First Division,1,D
+1908-04-25,1907/1908,Birmingham City,Bristol City,0-4,0,4,Football League First Division,1,A
+1908-04-25,1907/1908,Nottingham Forest,Bury,1-2,1,2,Football League First Division,1,A
+1908-04-25,1907/1908,Hull City,Derby County,4-0,4,0,Football League Second Division,2,H
+1908-04-25,1907/1908,West Bromwich Albion,Fulham,3-1,3,1,Football League Second Division,2,H
+1908-04-25,1907/1908,Stoke City,Barnsley,4-0,4,0,Football League Second Division,2,H
+1908-04-25,1907/1908,Stockport County,Leyton Orient,6-1,6,1,Football League Second Division,2,H
+1908-04-25,1907/1908,Leicester City,Burnley,3-1,3,1,Football League Second Division,2,H
+1908-04-25,1907/1908,Glossop North End,Oldham Athletic,0-0,0,0,Football League Second Division,2,D
+1908-04-25,1907/1908,Blackpool,Chesterfield,2-0,2,0,Football League Second Division,2,H
+1908-04-25,1907/1908,Bradford City,Lincoln City,2-0,2,0,Football League Second Division,2,H
+1908-04-27,1907/1908,Liverpool,Bury,2-1,2,1,Football League First Division,1,H
+1908-04-27,1907/1908,Stoke City,Leicester City,0-1,0,1,Football League Second Division,2,A
+1908-04-29,1907/1908,Chelsea,Notts County,1-2,1,2,Football League First Division,1,A
+1908-04-29,1907/1908,Grimsby Town,Chesterfield,4-3,4,3,Football League Second Division,2,H
+1908-04-29,1907/1908,Glossop North End,Fulham,1-2,1,2,Football League Second Division,2,A

@@ -1,0 +1,133 @@
+Date,Season,HomeTeam,AwayTeam,Score,hGoal,aGoal,Division,Tier,Result
+1889-09-07,1889/1890,Stoke City,Derby County,1-1,1,1,Football League First Division,1,D
+1889-09-07,1889/1890,Wolverhampton Wanderers,Notts County,2-0,2,0,Football League First Division,1,H
+1889-09-07,1889/1890,Aston Villa,Burnley,2-2,2,2,Football League First Division,1,D
+1889-09-07,1889/1890,Everton,Blackburn Rovers,3-2,3,2,Football League First Division,1,H
+1889-09-14,1889/1890,Aston Villa,Notts County,1-1,1,1,Football League First Division,1,D
+1889-09-14,1889/1890,Blackburn Rovers,Wolverhampton Wanderers,4-3,4,3,Football League First Division,1,H
+1889-09-14,1889/1890,Bolton Wanderers,Accrington F.C.,2-4,2,4,Football League First Division,1,A
+1889-09-14,1889/1890,Derby County,West Bromwich Albion,3-1,3,1,Football League First Division,1,H
+1889-09-14,1889/1890,Everton,Burnley,2-1,2,1,Football League First Division,1,H
+1889-09-14,1889/1890,Preston North End,Stoke City,10-0,10,0,Football League First Division,1,H
+1889-09-16,1889/1890,Wolverhampton Wanderers,Everton,2-1,2,1,Football League First Division,1,H
+1889-09-21,1889/1890,Burnley,Accrington F.C.,2-2,2,2,Football League First Division,1,D
+1889-09-21,1889/1890,Bolton Wanderers,Everton,3-4,3,4,Football League First Division,1,A
+1889-09-21,1889/1890,Notts County,West Bromwich Albion,1-2,1,2,Football League First Division,1,A
+1889-09-21,1889/1890,Aston Villa,Preston North End,5-3,5,3,Football League First Division,1,H
+1889-09-21,1889/1890,Blackburn Rovers,Derby County,4-2,4,2,Football League First Division,1,H
+1889-09-28,1889/1890,West Bromwich Albion,Aston Villa,3-0,3,0,Football League First Division,1,H
+1889-09-28,1889/1890,Stoke City,Wolverhampton Wanderers,2-1,2,1,Football League First Division,1,H
+1889-09-28,1889/1890,Everton,Bolton Wanderers,3-0,3,0,Football League First Division,1,H
+1889-09-28,1889/1890,Burnley,Preston North End,0-3,0,3,Football League First Division,1,A
+1889-09-28,1889/1890,Accrington F.C.,Blackburn Rovers,2-2,2,2,Football League First Division,1,D
+1889-09-28,1889/1890,Derby County,Notts County,2-0,2,0,Football League First Division,1,H
+1889-09-30,1889/1890,Everton,Wolverhampton Wanderers,1-1,1,1,Football League First Division,1,D
+1889-10-05,1889/1890,Burnley,Aston Villa,2-6,2,6,Football League First Division,1,A
+1889-10-05,1889/1890,Derby County,Everton,2-2,2,2,Football League First Division,1,D
+1889-10-05,1889/1890,Notts County,Stoke City,3-1,3,1,Football League First Division,1,H
+1889-10-05,1889/1890,Preston North End,West Bromwich Albion,5-0,5,0,Football League First Division,1,H
+1889-10-05,1889/1890,Wolverhampton Wanderers,Accrington F.C.,2-1,2,1,Football League First Division,1,H
+1889-10-12,1889/1890,Wolverhampton Wanderers,Stoke City,2-2,2,2,Football League First Division,1,D
+1889-10-12,1889/1890,Burnley,West Bromwich Albion,1-2,1,2,Football League First Division,1,A
+1889-10-12,1889/1890,Accrington F.C.,Notts County,1-8,1,8,Football League First Division,1,A
+1889-10-12,1889/1890,Aston Villa,Derby County,7-1,7,1,Football League First Division,1,H
+1889-10-12,1889/1890,Bolton Wanderers,Preston North End,2-6,2,6,Football League First Division,1,A
+1889-10-19,1889/1890,Accrington F.C.,Burnley,2-2,2,2,Football League First Division,1,D
+1889-10-19,1889/1890,Blackburn Rovers,Aston Villa,7-0,7,0,Football League First Division,1,H
+1889-10-19,1889/1890,Derby County,Preston North End,2-1,2,1,Football League First Division,1,H
+1889-10-19,1889/1890,Notts County,Everton,4-3,4,3,Football League First Division,1,H
+1889-10-19,1889/1890,Stoke City,Bolton Wanderers,0-1,0,1,Football League First Division,1,A
+1889-10-19,1889/1890,West Bromwich Albion,Wolverhampton Wanderers,1-4,1,4,Football League First Division,1,A
+1889-10-26,1889/1890,Derby County,Stoke City,2-0,2,0,Football League First Division,1,H
+1889-10-26,1889/1890,Preston North End,Wolverhampton Wanderers,0-2,0,2,Football League First Division,1,A
+1889-10-26,1889/1890,Everton,Accrington F.C.,2-2,2,2,Football League First Division,1,D
+1889-10-26,1889/1890,Bolton Wanderers,Notts County,0-4,0,4,Football League First Division,1,A
+1889-10-26,1889/1890,Aston Villa,West Bromwich Albion,1-0,1,0,Football League First Division,1,H
+1889-10-26,1889/1890,Blackburn Rovers,Burnley,7-1,7,1,Football League First Division,1,H
+1889-11-02,1889/1890,Aston Villa,Wolverhampton Wanderers,2-1,2,1,Football League First Division,1,H
+1889-11-02,1889/1890,Blackburn Rovers,Preston North End,3-4,3,4,Football League First Division,1,A
+1889-11-02,1889/1890,Everton,Stoke City,8-0,8,0,Football League First Division,1,H
+1889-11-02,1889/1890,Notts County,Burnley,1-1,1,1,Football League First Division,1,D
+1889-11-04,1889/1890,West Bromwich Albion,Bolton Wanderers,6-3,6,3,Football League First Division,1,H
+1889-11-09,1889/1890,West Bromwich Albion,Derby County,2-3,2,3,Football League First Division,1,A
+1889-11-09,1889/1890,Stoke City,Everton,1-2,1,2,Football League First Division,1,A
+1889-11-09,1889/1890,Preston North End,Accrington F.C.,3-1,3,1,Football League First Division,1,H
+1889-11-09,1889/1890,Burnley,Wolverhampton Wanderers,1-2,1,2,Football League First Division,1,A
+1889-11-09,1889/1890,Bolton Wanderers,Blackburn Rovers,3-2,3,2,Football League First Division,1,H
+1889-11-09,1889/1890,Notts County,Aston Villa,1-1,1,1,Football League First Division,1,D
+1889-11-11,1889/1890,Stoke City,Preston North End,1-2,1,2,Football League First Division,1,A
+1889-11-16,1889/1890,Accrington F.C.,Derby County,6-1,6,1,Football League First Division,1,H
+1889-11-16,1889/1890,Blackburn Rovers,Notts County,9-1,9,1,Football League First Division,1,H
+1889-11-16,1889/1890,Bolton Wanderers,Aston Villa,2-0,2,0,Football League First Division,1,H
+1889-11-16,1889/1890,Everton,Preston North End,1-5,1,5,Football League First Division,1,A
+1889-11-16,1889/1890,Stoke City,West Bromwich Albion,1-3,1,3,Football League First Division,1,A
+1889-11-23,1889/1890,Preston North End,Bolton Wanderers,3-1,3,1,Football League First Division,1,H
+1889-11-23,1889/1890,Derby County,Wolverhampton Wanderers,3-3,3,3,Football League First Division,1,D
+1889-11-23,1889/1890,West Bromwich Albion,Burnley,6-1,6,1,Football League First Division,1,H
+1889-11-23,1889/1890,Aston Villa,Everton,1-2,1,2,Football League First Division,1,A
+1889-11-23,1889/1890,Blackburn Rovers,Accrington F.C.,3-2,3,2,Football League First Division,1,H
+1889-11-30,1889/1890,Preston North End,Burnley,6-0,6,0,Football League First Division,1,H
+1889-11-30,1889/1890,Bolton Wanderers,Derby County,7-1,7,1,Football League First Division,1,H
+1889-11-30,1889/1890,Accrington F.C.,Aston Villa,4-2,4,2,Football League First Division,1,H
+1889-11-30,1889/1890,Blackburn Rovers,West Bromwich Albion,5-0,5,0,Football League First Division,1,H
+1889-12-07,1889/1890,Aston Villa,Stoke City,6-1,6,1,Football League First Division,1,H
+1889-12-07,1889/1890,Bolton Wanderers,West Bromwich Albion,7-0,7,0,Football League First Division,1,H
+1889-12-07,1889/1890,Everton,Notts County,5-3,5,3,Football League First Division,1,H
+1889-12-07,1889/1890,Preston North End,Blackburn Rovers,1-1,1,1,Football League First Division,1,D
+1889-12-07,1889/1890,Wolverhampton Wanderers,Burnley,9-1,9,1,Football League First Division,1,H
+1889-12-14,1889/1890,Notts County,Wolverhampton Wanderers,0-2,0,2,Football League First Division,1,A
+1889-12-21,1889/1890,Notts County,Derby County,3-1,3,1,Football League First Division,1,H
+1889-12-21,1889/1890,Blackburn Rovers,Bolton Wanderers,7-1,7,1,Football League First Division,1,H
+1889-12-21,1889/1890,Preston North End,Everton,1-2,1,2,Football League First Division,1,A
+1889-12-21,1889/1890,West Bromwich Albion,Accrington F.C.,4-1,4,1,Football League First Division,1,H
+1889-12-21,1889/1890,Wolverhampton Wanderers,Aston Villa,1-1,1,1,Football League First Division,1,D
+1889-12-23,1889/1890,Stoke City,Blackburn Rovers,0-3,0,3,Football League First Division,1,A
+1889-12-25,1889/1890,Preston North End,Aston Villa,3-2,3,2,Football League First Division,1,H
+1889-12-26,1889/1890,Aston Villa,Accrington F.C.,1-2,1,2,Football League First Division,1,A
+1889-12-26,1889/1890,Derby County,Bolton Wanderers,3-2,3,2,Football League First Division,1,H
+1889-12-26,1889/1890,West Bromwich Albion,Preston North End,2-2,2,2,Football League First Division,1,D
+1889-12-26,1889/1890,Wolverhampton Wanderers,Blackburn Rovers,2-4,2,4,Football League First Division,1,A
+1889-12-28,1889/1890,Derby County,Aston Villa,5-0,5,0,Football League First Division,1,H
+1889-12-28,1889/1890,Wolverhampton Wanderers,West Bromwich Albion,1-1,1,1,Football League First Division,1,D
+1889-12-28,1889/1890,Accrington F.C.,Stoke City,2-1,2,1,Football League First Division,1,H
+1889-12-28,1889/1890,Blackburn Rovers,Everton,2-4,2,4,Football League First Division,1,A
+1890-01-01,1889/1890,Accrington F.C.,Wolverhampton Wanderers,6-3,6,3,Football League First Division,1,H
+1890-01-04,1889/1890,Wolverhampton Wanderers,Preston North End,0-1,0,1,Football League First Division,1,A
+1890-01-04,1889/1890,West Bromwich Albion,Notts County,4-2,4,2,Football League First Division,1,H
+1890-01-04,1889/1890,Everton,Aston Villa,7-0,7,0,Football League First Division,1,H
+1890-01-04,1889/1890,Accrington F.C.,Bolton Wanderers,3-1,3,1,Football League First Division,1,H
+1890-01-04,1889/1890,Blackburn Rovers,Stoke City,8-0,8,0,Football League First Division,1,H
+1890-01-04,1889/1890,Derby County,Burnley,4-1,4,1,Football League First Division,1,H
+1890-01-11,1889/1890,Burnley,Stoke City,1-3,1,3,Football League First Division,1,A
+1890-01-11,1889/1890,Notts County,Bolton Wanderers,3-5,3,5,Football League First Division,1,A
+1890-01-11,1889/1890,Preston North End,Derby County,5-0,5,0,Football League First Division,1,H
+1890-01-11,1889/1890,West Bromwich Albion,Blackburn Rovers,3-2,3,2,Football League First Division,1,H
+1890-01-25,1889/1890,Aston Villa,Bolton Wanderers,1-2,1,2,Football League First Division,1,A
+1890-01-25,1889/1890,Wolverhampton Wanderers,Derby County,2-1,2,1,Football League First Division,1,H
+1890-02-08,1889/1890,Derby County,Blackburn Rovers,4-0,4,0,Football League First Division,1,H
+1890-02-08,1889/1890,Burnley,Everton,0-1,0,1,Football League First Division,1,A
+1890-02-08,1889/1890,Accrington F.C.,West Bromwich Albion,0-0,0,0,Football League First Division,1,D
+1890-02-08,1889/1890,Bolton Wanderers,Stoke City,5-0,5,0,Football League First Division,1,H
+1890-02-15,1889/1890,Derby County,Accrington F.C.,2-3,2,3,Football League First Division,1,A
+1890-02-18,1889/1890,Notts County,Blackburn Rovers,1-1,1,1,Football League First Division,1,D
+1890-02-22,1889/1890,Accrington F.C.,Everton,5-3,5,3,Football League First Division,1,H
+1890-02-22,1889/1890,Burnley,Blackburn Rovers,1-2,1,2,Football League First Division,1,A
+1890-02-24,1889/1890,Bolton Wanderers,Wolverhampton Wanderers,4-1,4,1,Football League First Division,1,H
+1890-03-01,1889/1890,Preston North End,Notts County,4-3,4,3,Football League First Division,1,H
+1890-03-01,1889/1890,Stoke City,Accrington F.C.,7-1,7,1,Football League First Division,1,H
+1890-03-01,1889/1890,Burnley,Bolton Wanderers,7-0,7,0,Football League First Division,1,H
+1890-03-08,1889/1890,Burnley,Derby County,2-0,2,0,Football League First Division,1,H
+1890-03-08,1889/1890,Everton,West Bromwich Albion,5-1,5,1,Football League First Division,1,H
+1890-03-10,1889/1890,Stoke City,Burnley,3-4,3,4,Football League First Division,1,A
+1890-03-13,1889/1890,Notts County,Accrington F.C.,3-1,3,1,Football League First Division,1,H
+1890-03-15,1889/1890,Accrington F.C.,Preston North End,2-2,2,2,Football League First Division,1,D
+1890-03-15,1889/1890,Burnley,Notts County,3-0,3,0,Football League First Division,1,H
+1890-03-15,1889/1890,Everton,Derby County,3-0,3,0,Football League First Division,1,H
+1890-03-15,1889/1890,West Bromwich Albion,Stoke City,2-1,2,1,Football League First Division,1,H
+1890-03-15,1889/1890,Wolverhampton Wanderers,Bolton Wanderers,5-1,5,1,Football League First Division,1,H
+1890-03-17,1889/1890,Bolton Wanderers,Burnley,2-2,2,2,Football League First Division,1,D
+1890-03-17,1889/1890,Stoke City,Aston Villa,1-1,1,1,Football League First Division,1,D
+1890-03-22,1889/1890,West Bromwich Albion,Everton,4-1,4,1,Football League First Division,1,H
+1890-03-24,1889/1890,Stoke City,Notts County,1-1,1,1,Football League First Division,1,D
+1890-03-27,1889/1890,Notts County,Preston North End,0-1,0,1,Football League First Division,1,A
+1890-03-31,1889/1890,Aston Villa,Blackburn Rovers,3-0,3,0,Football League First Division,1,H

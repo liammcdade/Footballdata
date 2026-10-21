@@ -1,0 +1,481 @@
+Date,Season,HomeTeam,AwayTeam,Score,hGoal,aGoal,Division,Tier,Result
+1895-09-02,1895/1896,Sunderland,Preston North End,4-1,4,1,Football League First Division,1,H
+1895-09-02,1895/1896,Stoke City,Bolton Wanderers,2-0,2,0,Football League First Division,1,H
+1895-09-02,1895/1896,Wolverhampton Wanderers,Burnley,5-1,5,1,Football League First Division,1,H
+1895-09-02,1895/1896,Everton,Sheffield Wednesday,2-2,2,2,Football League First Division,1,D
+1895-09-02,1895/1896,Aston Villa,West Bromwich Albion,1-0,1,0,Football League First Division,1,H
+1895-09-02,1895/1896,Sheffield United,Birmingham City,2-0,2,0,Football League First Division,1,H
+1895-09-02,1895/1896,Arsenal,Grimsby Town,3-1,3,1,Football League Second Division,2,H
+1895-09-05,1895/1896,Nottingham Forest,Bury,5-0,5,0,Football League First Division,1,H
+1895-09-07,1895/1896,Sunderland,Blackburn Rovers,2-1,2,1,Football League First Division,1,H
+1895-09-07,1895/1896,Stoke City,Derby County,2-1,2,1,Football League First Division,1,H
+1895-09-07,1895/1896,Sheffield Wednesday,Sheffield United,1-0,1,0,Football League First Division,1,H
+1895-09-07,1895/1896,Preston North End,Wolverhampton Wanderers,4-3,4,3,Football League First Division,1,H
+1895-09-07,1895/1896,Everton,Nottingham Forest,6-2,6,2,Football League First Division,1,H
+1895-09-07,1895/1896,Bury,Bolton Wanderers,0-3,0,3,Football League First Division,1,A
+1895-09-07,1895/1896,West Bromwich Albion,Burnley,0-2,0,2,Football League First Division,1,A
+1895-09-07,1895/1896,Aston Villa,Birmingham City,7-3,7,3,Football League First Division,1,H
+1895-09-07,1895/1896,Rotherham Town,Port Vale,0-2,0,2,Football League Second Division,2,A
+1895-09-07,1895/1896,Notts County,Liverpool,2-3,2,3,Football League Second Division,2,A
+1895-09-07,1895/1896,Newcastle United,Loughborough,3-0,3,0,Football League Second Division,2,H
+1895-09-07,1895/1896,Manchester United,Crewe Alexandra,5-0,5,0,Football League Second Division,2,H
+1895-09-07,1895/1896,Leicester City,Burton Swifts,2-1,2,1,Football League Second Division,2,H
+1895-09-07,1895/1896,Grimsby Town,Lincoln City,4-2,4,2,Football League Second Division,2,H
+1895-09-07,1895/1896,Burton Wanderers,Darwen,3-0,3,0,Football League Second Division,2,H
+1895-09-07,1895/1896,Arsenal,Manchester City,0-1,0,1,Football League Second Division,2,A
+1895-09-09,1895/1896,Burnley,Sunderland,0-0,0,0,Football League First Division,1,D
+1895-09-09,1895/1896,Everton,Bury,3-2,3,2,Football League First Division,1,H
+1895-09-09,1895/1896,Manchester City,Rotherham Town,2-0,2,0,Football League Second Division,2,H
+1895-09-14,1895/1896,West Bromwich Albion,Preston North End,1-2,1,2,Football League First Division,1,A
+1895-09-14,1895/1896,Birmingham City,Stoke City,1-2,1,2,Football League First Division,1,A
+1895-09-14,1895/1896,Blackburn Rovers,Nottingham Forest,2-0,2,0,Football League First Division,1,H
+1895-09-14,1895/1896,Bolton Wanderers,Everton,3-1,3,1,Football League First Division,1,H
+1895-09-14,1895/1896,Wolverhampton Wanderers,Sheffield Wednesday,4-0,4,0,Football League First Division,1,H
+1895-09-14,1895/1896,Derby County,Sunderland,2-0,2,0,Football League First Division,1,H
+1895-09-14,1895/1896,Sheffield United,Aston Villa,2-1,2,1,Football League First Division,1,H
+1895-09-14,1895/1896,Burnley,Bury,3-0,3,0,Football League First Division,1,H
+1895-09-14,1895/1896,Darwen,Grimsby Town,3-3,3,3,Football League Second Division,2,D
+1895-09-14,1895/1896,Lincoln City,Arsenal,1-1,1,1,Football League Second Division,2,D
+1895-09-14,1895/1896,Manchester City,Leicester City,2-0,2,0,Football League Second Division,2,H
+1895-09-14,1895/1896,Port Vale,Notts County,0-4,0,4,Football League Second Division,2,A
+1895-09-14,1895/1896,Crewe Alexandra,Burton Wanderers,0-1,0,1,Football League Second Division,2,A
+1895-09-14,1895/1896,Liverpool,Newcastle United,5-1,5,1,Football League Second Division,2,H
+1895-09-14,1895/1896,Burton Swifts,Rotherham Town,2-0,2,0,Football League Second Division,2,H
+1895-09-14,1895/1896,Loughborough,Manchester United,3-3,3,3,Football League Second Division,2,D
+1895-09-21,1895/1896,Stoke City,West Bromwich Albion,3-1,3,1,Football League First Division,1,H
+1895-09-21,1895/1896,Nottingham Forest,Birmingham City,3-0,3,0,Football League First Division,1,H
+1895-09-21,1895/1896,Everton,Blackburn Rovers,0-2,0,2,Football League First Division,1,A
+1895-09-21,1895/1896,Bury,Sheffield United,1-0,1,0,Football League First Division,1,H
+1895-09-21,1895/1896,Bolton Wanderers,Burnley,1-0,1,0,Football League First Division,1,H
+1895-09-21,1895/1896,Aston Villa,Derby County,4-1,4,1,Football League First Division,1,H
+1895-09-21,1895/1896,Sunderland,Wolverhampton Wanderers,2-2,2,2,Football League First Division,1,D
+1895-09-21,1895/1896,Grimsby Town,Manchester City,5-0,5,0,Football League Second Division,2,H
+1895-09-21,1895/1896,Rotherham Town,Crewe Alexandra,4-0,4,0,Football League Second Division,2,H
+1895-09-21,1895/1896,Newcastle United,Notts County,5-1,5,1,Football League Second Division,2,H
+1895-09-21,1895/1896,Manchester United,Burton Swifts,5-0,5,0,Football League Second Division,2,H
+1895-09-21,1895/1896,Loughborough,Liverpool,2-4,2,4,Football League Second Division,2,A
+1895-09-21,1895/1896,Darwen,Leicester City,4-1,4,1,Football League Second Division,2,H
+1895-09-21,1895/1896,Burton Wanderers,Port Vale,2-1,2,1,Football League Second Division,2,H
+1895-09-21,1895/1896,Arsenal,Lincoln City,4-0,4,0,Football League Second Division,2,H
+1895-09-23,1895/1896,Rotherham Town,Burton Swifts,1-4,1,4,Football League Second Division,2,A
+1895-09-28,1895/1896,Sheffield United,Stoke City,1-0,1,0,Football League First Division,1,H
+1895-09-28,1895/1896,Burnley,Preston North End,1-0,1,0,Football League First Division,1,H
+1895-09-28,1895/1896,Wolverhampton Wanderers,Everton,2-3,2,3,Football League First Division,1,A
+1895-09-28,1895/1896,West Bromwich Albion,Nottingham Forest,3-1,3,1,Football League First Division,1,H
+1895-09-28,1895/1896,Sunderland,Bury,0-0,0,0,Football League First Division,1,D
+1895-09-28,1895/1896,Derby County,Sheffield Wednesday,3-1,3,1,Football League First Division,1,H
+1895-09-28,1895/1896,Blackburn Rovers,Aston Villa,1-1,1,1,Football League First Division,1,D
+1895-09-28,1895/1896,Birmingham City,Bolton Wanderers,1-2,1,2,Football League First Division,1,A
+1895-09-28,1895/1896,Lincoln City,Grimsby Town,2-5,2,5,Football League Second Division,2,A
+1895-09-28,1895/1896,Liverpool,Port Vale,5-1,5,1,Football League Second Division,2,H
+1895-09-28,1895/1896,Notts County,Darwen,4-1,4,1,Football League Second Division,2,H
+1895-09-28,1895/1896,Rotherham Town,Newcastle United,1-1,1,1,Football League Second Division,2,D
+1895-09-28,1895/1896,Leicester City,Burton Wanderers,1-3,1,3,Football League Second Division,2,A
+1895-09-28,1895/1896,Manchester City,Arsenal,1-0,1,0,Football League Second Division,2,H
+1895-09-28,1895/1896,Crewe Alexandra,Manchester United,0-2,0,2,Football League Second Division,2,A
+1895-09-28,1895/1896,Burton Swifts,Loughborough,1-2,1,2,Football League Second Division,2,A
+1895-09-30,1895/1896,Aston Villa,Everton,4-3,4,3,Football League First Division,1,H
+1895-09-30,1895/1896,Sheffield United,Preston North End,2-1,2,1,Football League First Division,1,H
+1895-09-30,1895/1896,Liverpool,Burton Wanderers,4-1,4,1,Football League Second Division,2,H
+1895-09-30,1895/1896,Burton Swifts,Lincoln City,4-0,4,0,Football League Second Division,2,H
+1895-10-03,1895/1896,Notts County,Grimsby Town,5-3,5,3,Football League Second Division,2,H
+1895-10-05,1895/1896,Wolverhampton Wanderers,Stoke City,1-0,1,0,Football League First Division,1,H
+1895-10-05,1895/1896,Preston North End,Birmingham City,3-2,3,2,Football League First Division,1,H
+1895-10-05,1895/1896,Aston Villa,Sunderland,2-1,2,1,Football League First Division,1,H
+1895-10-05,1895/1896,Blackburn Rovers,Burnley,1-0,1,0,Football League First Division,1,H
+1895-10-05,1895/1896,Sheffield Wednesday,West Bromwich Albion,5-3,5,3,Football League First Division,1,H
+1895-10-05,1895/1896,Everton,Sheffield United,5-0,5,0,Football League First Division,1,H
+1895-10-05,1895/1896,Nottingham Forest,Derby County,2-5,2,5,Football League First Division,1,A
+1895-10-05,1895/1896,Bolton Wanderers,Bury,2-4,2,4,Football League First Division,1,A
+1895-10-05,1895/1896,Arsenal,Rotherham Town,5-0,5,0,Football League Second Division,2,H
+1895-10-05,1895/1896,Newcastle United,Liverpool,1-0,1,0,Football League Second Division,2,H
+1895-10-05,1895/1896,Manchester United,Manchester City,1-1,1,1,Football League Second Division,2,D
+1895-10-05,1895/1896,Lincoln City,Burton Swifts,1-2,1,2,Football League Second Division,2,A
+1895-10-05,1895/1896,Leicester City,Loughborough,5-0,5,0,Football League Second Division,2,H
+1895-10-05,1895/1896,Crewe Alexandra,Notts County,5-1,5,1,Football League Second Division,2,H
+1895-10-05,1895/1896,Burton Wanderers,Grimsby Town,2-1,2,1,Football League Second Division,2,H
+1895-10-05,1895/1896,Port Vale,Darwen,3-3,3,3,Football League Second Division,2,D
+1895-10-07,1895/1896,Sheffield United,Sunderland,1-2,1,2,Football League First Division,1,A
+1895-10-07,1895/1896,Liverpool,Crewe Alexandra,6-1,6,1,Football League Second Division,2,H
+1895-10-12,1895/1896,West Bromwich Albion,Aston Villa,1-1,1,1,Football League First Division,1,D
+1895-10-12,1895/1896,Sheffield Wednesday,Wolverhampton Wanderers,3-1,3,1,Football League First Division,1,H
+1895-10-12,1895/1896,Bury,Birmingham City,4-5,4,5,Football League First Division,1,A
+1895-10-12,1895/1896,Burnley,Bolton Wanderers,1-2,1,2,Football League First Division,1,A
+1895-10-12,1895/1896,Blackburn Rovers,Preston North End,3-0,3,0,Football League First Division,1,H
+1895-10-12,1895/1896,Nottingham Forest,Everton,2-1,2,1,Football League First Division,1,H
+1895-10-12,1895/1896,Derby County,Stoke City,2-1,2,1,Football League First Division,1,H
+1895-10-12,1895/1896,Manchester City,Darwen,4-1,4,1,Football League Second Division,2,H
+1895-10-12,1895/1896,Liverpool,Manchester United,7-1,7,1,Football League Second Division,2,H
+1895-10-12,1895/1896,Arsenal,Burton Wanderers,3-0,3,0,Football League Second Division,2,H
+1895-10-19,1895/1896,Stoke City,Birmingham City,6-1,6,1,Football League First Division,1,H
+1895-10-19,1895/1896,Sheffield Wednesday,Sunderland,3-0,3,0,Football League First Division,1,H
+1895-10-19,1895/1896,Preston North End,Burnley,1-1,1,1,Football League First Division,1,D
+1895-10-19,1895/1896,Everton,West Bromwich Albion,1-1,1,1,Football League First Division,1,D
+1895-10-19,1895/1896,Derby County,Bury,2-1,2,1,Football League First Division,1,H
+1895-10-19,1895/1896,Bolton Wanderers,Nottingham Forest,2-1,2,1,Football League First Division,1,H
+1895-10-19,1895/1896,Aston Villa,Blackburn Rovers,3-1,3,1,Football League First Division,1,H
+1895-10-19,1895/1896,Wolverhampton Wanderers,Sheffield United,4-1,4,1,Football League First Division,1,H
+1895-10-19,1895/1896,Arsenal,Burton Swifts,5-0,5,0,Football League Second Division,2,H
+1895-10-19,1895/1896,Notts County,Lincoln City,2-0,2,0,Football League Second Division,2,H
+1895-10-19,1895/1896,Manchester United,Newcastle United,2-1,2,1,Football League Second Division,2,H
+1895-10-19,1895/1896,Grimsby Town,Liverpool,1-0,1,0,Football League Second Division,2,H
+1895-10-19,1895/1896,Darwen,Port Vale,8-2,8,2,Football League Second Division,2,H
+1895-10-19,1895/1896,Crewe Alexandra,Manchester City,0-2,0,2,Football League Second Division,2,A
+1895-10-19,1895/1896,Burton Wanderers,Leicester City,0-0,0,0,Football League Second Division,2,D
+1895-10-21,1895/1896,Port Vale,Liverpool,5-4,5,4,Football League Second Division,2,H
+1895-10-26,1895/1896,Burnley,Everton,1-1,1,1,Football League First Division,1,D
+1895-10-26,1895/1896,Nottingham Forest,Preston North End,0-1,0,1,Football League First Division,1,A
+1895-10-26,1895/1896,Derby County,Wolverhampton Wanderers,5-2,5,2,Football League First Division,1,H
+1895-10-26,1895/1896,Bolton Wanderers,Stoke City,3-1,3,1,Football League First Division,1,H
+1895-10-26,1895/1896,Blackburn Rovers,Sunderland,2-4,2,4,Football League First Division,1,A
+1895-10-26,1895/1896,Birmingham City,Aston Villa,1-4,1,4,Football League First Division,1,A
+1895-10-26,1895/1896,West Bromwich Albion,Sheffield Wednesday,2-3,2,3,Football League First Division,1,A
+1895-10-26,1895/1896,Port Vale,Crewe Alexandra,2-1,2,1,Football League Second Division,2,H
+1895-10-26,1895/1896,Newcastle United,Manchester United,2-1,2,1,Football League Second Division,2,H
+1895-10-26,1895/1896,Manchester City,Grimsby Town,2-1,2,1,Football League Second Division,2,H
+1895-10-26,1895/1896,Loughborough,Lincoln City,3-0,3,0,Football League Second Division,2,H
+1895-10-26,1895/1896,Liverpool,Notts County,3-0,3,0,Football League Second Division,2,H
+1895-10-26,1895/1896,Leicester City,Darwen,2-3,2,3,Football League Second Division,2,A
+1895-10-26,1895/1896,Burton Swifts,Burton Wanderers,0-2,0,2,Football League Second Division,2,A
+1895-10-26,1895/1896,Rotherham Town,Arsenal,3-0,3,0,Football League Second Division,2,H
+1895-11-02,1895/1896,Sunderland,Derby County,2-2,2,2,Football League First Division,1,D
+1895-11-02,1895/1896,Stoke City,Sheffield United,4-0,4,0,Football League First Division,1,H
+1895-11-02,1895/1896,Sheffield Wednesday,Bolton Wanderers,1-1,1,1,Football League First Division,1,D
+1895-11-02,1895/1896,Preston North End,Blackburn Rovers,1-1,1,1,Football League First Division,1,D
+1895-11-02,1895/1896,Everton,Wolverhampton Wanderers,2-0,2,0,Football League First Division,1,H
+1895-11-02,1895/1896,Bury,West Bromwich Albion,3-0,3,0,Football League First Division,1,H
+1895-11-02,1895/1896,Aston Villa,Burnley,5-1,5,1,Football League First Division,1,H
+1895-11-02,1895/1896,Manchester United,Liverpool,5-2,5,2,Football League Second Division,2,H
+1895-11-02,1895/1896,Darwen,Manchester City,2-3,2,3,Football League Second Division,2,A
+1895-11-02,1895/1896,Notts County,Arsenal,3-4,3,4,Football League Second Division,2,A
+1895-11-04,1895/1896,West Bromwich Albion,Bolton Wanderers,2-3,2,3,Football League First Division,1,A
+1895-11-04,1895/1896,Rotherham Town,Manchester City,2-3,2,3,Football League Second Division,2,A
+1895-11-09,1895/1896,West Bromwich Albion,Stoke City,1-0,1,0,Football League First Division,1,H
+1895-11-09,1895/1896,Sunderland,Aston Villa,2-1,2,1,Football League First Division,1,H
+1895-11-09,1895/1896,Sheffield United,Everton,1-2,1,2,Football League First Division,1,A
+1895-11-09,1895/1896,Preston North End,Bolton Wanderers,1-0,1,0,Football League First Division,1,H
+1895-11-09,1895/1896,Derby County,Burnley,5-1,5,1,Football League First Division,1,H
+1895-11-09,1895/1896,Bury,Sheffield Wednesday,6-1,6,1,Football League First Division,1,H
+1895-11-09,1895/1896,Blackburn Rovers,Wolverhampton Wanderers,3-1,3,1,Football League First Division,1,H
+1895-11-09,1895/1896,Birmingham City,Nottingham Forest,1-0,1,0,Football League First Division,1,H
+1895-11-09,1895/1896,Notts County,Burton Wanderers,1-4,1,4,Football League Second Division,2,A
+1895-11-09,1895/1896,Liverpool,Leicester City,3-1,3,1,Football League Second Division,2,H
+1895-11-09,1895/1896,Lincoln City,Loughborough,4-1,4,1,Football League Second Division,2,H
+1895-11-09,1895/1896,Darwen,Newcastle United,4-4,4,4,Football League Second Division,2,D
+1895-11-09,1895/1896,Crewe Alexandra,Rotherham Town,3-2,3,2,Football League Second Division,2,H
+1895-11-09,1895/1896,Burton Swifts,Grimsby Town,2-1,2,1,Football League Second Division,2,H
+1895-11-09,1895/1896,Arsenal,Manchester United,2-1,2,1,Football League Second Division,2,H
+1895-11-11,1895/1896,Stoke City,Preston North End,4-0,4,0,Football League First Division,1,H
+1895-11-15,1895/1896,Loughborough,Burton Wanderers,1-1,1,1,Football League Second Division,2,D
+1895-11-16,1895/1896,Sheffield Wednesday,Stoke City,2-1,2,1,Football League First Division,1,H
+1895-11-16,1895/1896,Wolverhampton Wanderers,Derby County,2-0,2,0,Football League First Division,1,H
+1895-11-16,1895/1896,Nottingham Forest,West Bromwich Albion,2-0,2,0,Football League First Division,1,H
+1895-11-16,1895/1896,Everton,Sunderland,1-0,1,0,Football League First Division,1,H
+1895-11-16,1895/1896,Aston Villa,Sheffield United,2-2,2,2,Football League First Division,1,D
+1895-11-16,1895/1896,Rotherham Town,Notts County,1-0,1,0,Football League Second Division,2,H
+1895-11-16,1895/1896,Port Vale,Grimsby Town,1-4,1,4,Football League Second Division,2,A
+1895-11-16,1895/1896,Newcastle United,Darwen,7-2,7,2,Football League Second Division,2,H
+1895-11-16,1895/1896,Manchester United,Lincoln City,5-5,5,5,Football League Second Division,2,D
+1895-11-16,1895/1896,Loughborough,Leicester City,1-4,1,4,Football League Second Division,2,A
+1895-11-16,1895/1896,Crewe Alexandra,Burton Swifts,1-3,1,3,Football League Second Division,2,A
+1895-11-16,1895/1896,Arsenal,Liverpool,0-2,0,2,Football League Second Division,2,A
+1895-11-16,1895/1896,Burton Wanderers,Manchester City,4-1,4,1,Football League Second Division,2,H
+1895-11-23,1895/1896,West Bromwich Albion,Everton,0-3,0,3,Football League First Division,1,A
+1895-11-23,1895/1896,Stoke City,Wolverhampton Wanderers,4-1,4,1,Football League First Division,1,H
+1895-11-23,1895/1896,Sunderland,Bolton Wanderers,1-0,1,0,Football League First Division,1,H
+1895-11-23,1895/1896,Bury,Derby County,1-2,1,2,Football League First Division,1,A
+1895-11-23,1895/1896,Burnley,Aston Villa,3-4,3,4,Football League First Division,1,A
+1895-11-23,1895/1896,Blackburn Rovers,Sheffield Wednesday,2-1,2,1,Football League First Division,1,H
+1895-11-23,1895/1896,Birmingham City,Preston North End,5-2,5,2,Football League First Division,1,H
+1895-11-23,1895/1896,Sheffield United,Nottingham Forest,2-1,2,1,Football League First Division,1,H
+1895-11-23,1895/1896,Notts County,Manchester United,0-2,0,2,Football League Second Division,2,A
+1895-11-23,1895/1896,Manchester City,Burton Wanderers,1-1,1,1,Football League Second Division,2,D
+1895-11-23,1895/1896,Liverpool,Darwen,0-0,0,0,Football League Second Division,2,D
+1895-11-28,1895/1896,Nottingham Forest,Stoke City,4-0,4,0,Football League First Division,1,H
+1895-11-30,1895/1896,Bury,Stoke City,0-1,0,1,Football League First Division,1,A
+1895-11-30,1895/1896,Sheffield Wednesday,Nottingham Forest,3-0,3,0,Football League First Division,1,H
+1895-11-30,1895/1896,Bolton Wanderers,Blackburn Rovers,1-1,1,1,Football League First Division,1,D
+1895-11-30,1895/1896,Derby County,Birmingham City,8-0,8,0,Football League First Division,1,H
+1895-11-30,1895/1896,West Bromwich Albion,Wolverhampton Wanderers,2-1,2,1,Football League First Division,1,H
+1895-11-30,1895/1896,Preston North End,Sheffield United,4-3,4,3,Football League First Division,1,H
+1895-11-30,1895/1896,Everton,Burnley,2-1,2,1,Football League First Division,1,H
+1895-11-30,1895/1896,Darwen,Crewe Alexandra,6-1,6,1,Football League Second Division,2,H
+1895-11-30,1895/1896,Notts County,Rotherham Town,0-0,0,0,Football League Second Division,2,D
+1895-11-30,1895/1896,Manchester United,Arsenal,5-1,5,1,Football League Second Division,2,H
+1895-11-30,1895/1896,Lincoln City,Burton Wanderers,1-2,1,2,Football League Second Division,2,A
+1895-11-30,1895/1896,Leicester City,Liverpool,2-0,2,0,Football League Second Division,2,H
+1895-11-30,1895/1896,Grimsby Town,Loughborough,2-0,2,0,Football League Second Division,2,H
+1895-11-30,1895/1896,Burton Swifts,Manchester City,1-4,1,4,Football League Second Division,2,A
+1895-12-07,1895/1896,Stoke City,Burnley,2-1,2,1,Football League First Division,1,H
+1895-12-07,1895/1896,Preston North End,Aston Villa,4-3,4,3,Football League First Division,1,H
+1895-12-07,1895/1896,Derby County,Nottingham Forest,4-0,4,0,Football League First Division,1,H
+1895-12-07,1895/1896,Blackburn Rovers,Bolton Wanderers,3-2,3,2,Football League First Division,1,H
+1895-12-07,1895/1896,Birmingham City,Everton,0-3,0,3,Football League First Division,1,A
+1895-12-07,1895/1896,Crewe Alexandra,Darwen,3-1,3,1,Football League Second Division,2,H
+1895-12-07,1895/1896,Rotherham Town,Burton Wanderers,1-6,1,6,Football League Second Division,2,A
+1895-12-07,1895/1896,Notts County,Port Vale,7-2,7,2,Football League Second Division,2,H
+1895-12-07,1895/1896,Manchester City,Manchester United,2-1,2,1,Football League Second Division,2,H
+1895-12-07,1895/1896,Liverpool,Loughborough,1-0,1,0,Football League Second Division,2,H
+1895-12-07,1895/1896,Burton Swifts,Newcastle United,3-1,3,1,Football League Second Division,2,H
+1895-12-07,1895/1896,Arsenal,Leicester City,1-1,1,1,Football League Second Division,2,D
+1895-12-14,1895/1896,Wolverhampton Wanderers,Blackburn Rovers,1-2,1,2,Football League First Division,1,A
+1895-12-14,1895/1896,Sunderland,Birmingham City,2-1,2,1,Football League First Division,1,H
+1895-12-14,1895/1896,Nottingham Forest,Sheffield United,3-1,3,1,Football League First Division,1,H
+1895-12-14,1895/1896,Everton,Stoke City,7-2,7,2,Football League First Division,1,H
+1895-12-14,1895/1896,Derby County,West Bromwich Albion,4-1,4,1,Football League First Division,1,H
+1895-12-14,1895/1896,Bury,Preston North End,1-2,1,2,Football League First Division,1,A
+1895-12-14,1895/1896,Aston Villa,Bolton Wanderers,2-0,2,0,Football League First Division,1,H
+1895-12-14,1895/1896,Sheffield Wednesday,Burnley,1-0,1,0,Football League First Division,1,H
+1895-12-14,1895/1896,Darwen,Liverpool,0-4,0,4,Football League Second Division,2,A
+1895-12-14,1895/1896,Burton Wanderers,Arsenal,4-1,4,1,Football League Second Division,2,H
+1895-12-14,1895/1896,Manchester United,Notts County,3-0,3,0,Football League Second Division,2,H
+1895-12-21,1895/1896,Stoke City,Sheffield Wednesday,5-0,5,0,Football League First Division,1,H
+1895-12-21,1895/1896,Sheffield United,Derby County,1-1,1,1,Football League First Division,1,D
+1895-12-21,1895/1896,Everton,Aston Villa,2-0,2,0,Football League First Division,1,H
+1895-12-21,1895/1896,Burnley,Nottingham Forest,0-0,0,0,Football League First Division,1,D
+1895-12-21,1895/1896,Bolton Wanderers,Sunderland,1-0,1,0,Football League First Division,1,H
+1895-12-21,1895/1896,Birmingham City,West Bromwich Albion,2-2,2,2,Football League First Division,1,D
+1895-12-21,1895/1896,Wolverhampton Wanderers,Preston North End,2-1,2,1,Football League First Division,1,H
+1895-12-21,1895/1896,Newcastle United,Rotherham Town,6-1,6,1,Football League Second Division,2,H
+1895-12-21,1895/1896,Loughborough,Grimsby Town,0-1,0,1,Football League Second Division,2,A
+1895-12-21,1895/1896,Lincoln City,Liverpool,0-1,0,1,Football League Second Division,2,A
+1895-12-21,1895/1896,Leicester City,Crewe Alexandra,4-1,4,1,Football League Second Division,2,H
+1895-12-21,1895/1896,Darwen,Manchester United,3-0,3,0,Football League Second Division,2,H
+1895-12-21,1895/1896,Burton Swifts,Arsenal,3-2,3,2,Football League Second Division,2,H
+1895-12-23,1895/1896,Crewe Alexandra,Arsenal,0-1,0,1,Football League Second Division,2,A
+1895-12-25,1895/1896,Preston North End,Stoke City,0-1,0,1,Football League First Division,1,A
+1895-12-25,1895/1896,Notts County,Loughborough,2-0,2,0,Football League Second Division,2,H
+1895-12-25,1895/1896,Newcastle United,Crewe Alexandra,6-0,6,0,Football League Second Division,2,H
+1895-12-25,1895/1896,Arsenal,Port Vale,2-1,2,1,Football League Second Division,2,H
+1895-12-26,1895/1896,Birmingham City,Burnley,1-0,1,0,Football League First Division,1,H
+1895-12-26,1895/1896,Derby County,Bolton Wanderers,2-1,2,1,Football League First Division,1,H
+1895-12-26,1895/1896,Sheffield United,Sheffield Wednesday,1-1,1,1,Football League First Division,1,D
+1895-12-26,1895/1896,Stoke City,Bury,0-2,0,2,Football League First Division,1,A
+1895-12-26,1895/1896,West Bromwich Albion,Sunderland,1-1,1,1,Football League First Division,1,D
+1895-12-26,1895/1896,Wolverhampton Wanderers,Aston Villa,1-2,1,2,Football League First Division,1,A
+1895-12-26,1895/1896,Grimsby Town,Newcastle United,2-1,2,1,Football League Second Division,2,H
+1895-12-26,1895/1896,Lincoln City,Crewe Alexandra,6-2,6,2,Football League Second Division,2,H
+1895-12-26,1895/1896,Loughborough,Burton Swifts,2-2,2,2,Football League Second Division,2,D
+1895-12-26,1895/1896,Rotherham Town,Darwen,3-0,3,0,Football League Second Division,2,H
+1895-12-27,1895/1896,Wolverhampton Wanderers,Sunderland,1-3,1,3,Football League First Division,1,A
+1895-12-28,1895/1896,Aston Villa,Bury,2-0,2,0,Football League First Division,1,H
+1895-12-28,1895/1896,Nottingham Forest,Blackburn Rovers,4-2,4,2,Football League First Division,1,H
+1895-12-28,1895/1896,Sheffield Wednesday,Derby County,0-4,0,4,Football League First Division,1,A
+1895-12-28,1895/1896,Burton Wanderers,Crewe Alexandra,4-0,4,0,Football League Second Division,2,H
+1895-12-28,1895/1896,Grimsby Town,Burton Swifts,3-0,3,0,Football League Second Division,2,H
+1895-12-28,1895/1896,Lincoln City,Newcastle United,4-0,4,0,Football League Second Division,2,H
+1895-12-28,1895/1896,Loughborough,Notts County,1-3,1,3,Football League Second Division,2,A
+1895-12-30,1895/1896,Sheffield United,Bolton Wanderers,1-0,1,0,Football League First Division,1,H
+1896-01-01,1895/1896,Bury,Burnley,3-4,3,4,Football League First Division,1,A
+1896-01-01,1895/1896,Bolton Wanderers,Derby County,2-1,2,1,Football League First Division,1,H
+1896-01-01,1895/1896,Blackburn Rovers,Everton,2-3,2,3,Football League First Division,1,A
+1896-01-01,1895/1896,Sheffield Wednesday,Preston North End,1-1,1,1,Football League First Division,1,D
+1896-01-01,1895/1896,Newcastle United,Leicester City,1-0,1,0,Football League Second Division,2,H
+1896-01-01,1895/1896,Manchester United,Grimsby Town,3-2,3,2,Football League Second Division,2,H
+1896-01-01,1895/1896,Liverpool,Manchester City,3-1,3,1,Football League Second Division,2,H
+1896-01-01,1895/1896,Darwen,Notts County,2-0,2,0,Football League Second Division,2,H
+1896-01-02,1895/1896,Newcastle United,Lincoln City,5-0,5,0,Football League Second Division,2,H
+1896-01-04,1895/1896,Sheffield United,West Bromwich Albion,2-0,2,0,Football League First Division,1,H
+1896-01-04,1895/1896,Preston North End,Sunderland,4-1,4,1,Football League First Division,1,H
+1896-01-04,1895/1896,Burnley,Sheffield Wednesday,2-0,2,0,Football League First Division,1,H
+1896-01-04,1895/1896,Bolton Wanderers,Wolverhampton Wanderers,4-0,4,0,Football League First Division,1,H
+1896-01-04,1895/1896,Blackburn Rovers,Bury,0-2,0,2,Football League First Division,1,A
+1896-01-04,1895/1896,Birmingham City,Derby County,1-3,1,3,Football League First Division,1,A
+1896-01-04,1895/1896,Stoke City,Aston Villa,1-2,1,2,Football League First Division,1,A
+1896-01-04,1895/1896,Arsenal,Loughborough,5-0,5,0,Football League Second Division,2,H
+1896-01-04,1895/1896,Rotherham Town,Liverpool,0-5,0,5,Football League Second Division,2,A
+1896-01-04,1895/1896,Manchester City,Newcastle United,5-2,5,2,Football League Second Division,2,H
+1896-01-04,1895/1896,Leicester City,Manchester United,3-0,3,0,Football League Second Division,2,H
+1896-01-04,1895/1896,Grimsby Town,Port Vale,6-1,6,1,Football League Second Division,2,H
+1896-01-04,1895/1896,Darwen,Burton Wanderers,3-0,3,0,Football League Second Division,2,H
+1896-01-04,1895/1896,Burton Swifts,Crewe Alexandra,1-1,1,1,Football League Second Division,2,D
+1896-01-11,1895/1896,Sunderland,Sheffield United,1-1,1,1,Football League First Division,1,D
+1896-01-11,1895/1896,Sheffield Wednesday,Blackburn Rovers,3-0,3,0,Football League First Division,1,H
+1896-01-11,1895/1896,Nottingham Forest,Bolton Wanderers,0-0,0,0,Football League First Division,1,D
+1896-01-11,1895/1896,Bury,Everton,1-1,1,1,Football League First Division,1,D
+1896-01-11,1895/1896,Burnley,West Bromwich Albion,3-0,3,0,Football League First Division,1,H
+1896-01-11,1895/1896,Aston Villa,Preston North End,1-0,1,0,Football League First Division,1,H
+1896-01-11,1895/1896,Liverpool,Arsenal,3-0,3,0,Football League Second Division,2,H
+1896-01-11,1895/1896,Manchester United,Rotherham Town,3-0,3,0,Football League Second Division,2,H
+1896-01-11,1895/1896,Lincoln City,Manchester City,1-2,1,2,Football League Second Division,2,A
+1896-01-11,1895/1896,Port Vale,Burton Swifts,1-0,1,0,Football League Second Division,2,H
+1896-01-11,1895/1896,Newcastle United,Grimsby Town,1-5,1,5,Football League Second Division,2,A
+1896-01-11,1895/1896,Leicester City,Notts County,2-1,2,1,Football League Second Division,2,H
+1896-01-13,1895/1896,Darwen,Rotherham Town,10-2,10,2,Football League Second Division,2,H
+1896-01-18,1895/1896,West Bromwich Albion,Derby County,0-0,0,0,Football League First Division,1,D
+1896-01-18,1895/1896,Birmingham City,Wolverhampton Wanderers,3-2,3,2,Football League First Division,1,H
+1896-01-18,1895/1896,Nottingham Forest,Sunderland,3-1,3,1,Football League First Division,1,H
+1896-01-18,1895/1896,Sheffield Wednesday,Aston Villa,1-3,1,3,Football League First Division,1,A
+1896-01-18,1895/1896,Burton Swifts,Notts County,0-0,0,0,Football League Second Division,2,D
+1896-01-18,1895/1896,Newcastle United,Arsenal,3-1,3,1,Football League Second Division,2,H
+1896-01-18,1895/1896,Port Vale,Burton Wanderers,2-2,2,2,Football League Second Division,2,D
+1896-01-18,1895/1896,Rotherham Town,Leicester City,2-0,2,0,Football League Second Division,2,H
+1896-01-20,1895/1896,Burton Wanderers,Loughborough,4-0,4,0,Football League Second Division,2,H
+1896-01-25,1895/1896,Wolverhampton Wanderers,Birmingham City,7-2,7,2,Football League First Division,1,H
+1896-01-25,1895/1896,Sunderland,West Bromwich Albion,7-1,7,1,Football League First Division,1,H
+1896-01-25,1895/1896,Preston North End,Everton,1-1,1,1,Football League First Division,1,D
+1896-01-25,1895/1896,Blackburn Rovers,Sheffield United,1-0,1,0,Football League First Division,1,H
+1896-01-25,1895/1896,Aston Villa,Nottingham Forest,3-1,3,1,Football League First Division,1,H
+1896-01-25,1895/1896,Leicester City,Arsenal,1-0,1,0,Football League Second Division,2,H
+1896-01-25,1895/1896,Grimsby Town,Darwen,5-0,5,0,Football League Second Division,2,H
+1896-01-25,1895/1896,Port Vale,Rotherham Town,4-0,4,0,Football League Second Division,2,H
+1896-01-25,1895/1896,Liverpool,Lincoln City,6-1,6,1,Football League Second Division,2,H
+1896-01-25,1895/1896,Crewe Alexandra,Newcastle United,3-0,3,0,Football League Second Division,2,H
+1896-01-25,1895/1896,Burton Wanderers,Burton Swifts,2-1,2,1,Football League Second Division,2,H
+1896-02-01,1895/1896,Lincoln City,Rotherham Town,5-0,5,0,Football League Second Division,2,H
+1896-02-01,1895/1896,Loughborough,Manchester City,2-4,2,4,Football League Second Division,2,A
+1896-02-03,1895/1896,Burnley,Sheffield United,5-0,5,0,Football League First Division,1,H
+1896-02-03,1895/1896,Everton,Birmingham City,3-0,3,0,Football League First Division,1,H
+1896-02-03,1895/1896,Manchester United,Leicester City,2-0,2,0,Football League Second Division,2,H
+1896-02-08,1895/1896,Birmingham City,Sheffield Wednesday,1-1,1,1,Football League First Division,1,D
+1896-02-08,1895/1896,Sunderland,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1896-02-08,1895/1896,Sheffield United,Wolverhampton Wanderers,2-1,2,1,Football League First Division,1,H
+1896-02-08,1895/1896,Derby County,Aston Villa,2-2,2,2,Football League First Division,1,D
+1896-02-08,1895/1896,Rotherham Town,Grimsby Town,1-0,1,0,Football League Second Division,2,H
+1896-02-08,1895/1896,Notts County,Leicester City,1-2,1,2,Football League Second Division,2,A
+1896-02-08,1895/1896,Newcastle United,Burton Wanderers,4-0,4,0,Football League Second Division,2,H
+1896-02-08,1895/1896,Crewe Alexandra,Lincoln City,2-2,2,2,Football League Second Division,2,D
+1896-02-08,1895/1896,Burton Swifts,Manchester United,4-1,4,1,Football League Second Division,2,H
+1896-02-10,1895/1896,Port Vale,Manchester City,0-1,0,1,Football League Second Division,2,A
+1896-02-15,1895/1896,Lincoln City,Leicester City,2-3,2,3,Football League Second Division,2,A
+1896-02-15,1895/1896,Manchester City,Crewe Alexandra,4-0,4,0,Football League Second Division,2,H
+1896-02-15,1895/1896,Darwen,Burton Swifts,3-0,3,0,Football League Second Division,2,H
+1896-02-15,1895/1896,Port Vale,Arsenal,0-2,0,2,Football League Second Division,2,A
+1896-02-17,1895/1896,Blackburn Rovers,West Bromwich Albion,1-0,1,0,Football League First Division,1,H
+1896-02-17,1895/1896,Manchester City,Port Vale,1-0,1,0,Football League Second Division,2,H
+1896-02-18,1895/1896,Sunderland,Burnley,3-1,3,1,Football League First Division,1,H
+1896-02-18,1895/1896,Bury,Wolverhampton Wanderers,3-0,3,0,Football League First Division,1,H
+1896-02-18,1895/1896,Sheffield Wednesday,Everton,3-1,3,1,Football League First Division,1,H
+1896-02-18,1895/1896,Liverpool,Rotherham Town,10-1,10,1,Football League Second Division,2,H
+1896-02-22,1895/1896,West Bromwich Albion,Sheffield United,1-0,1,0,Football League First Division,1,H
+1896-02-22,1895/1896,Sheffield Wednesday,Bury,1-3,1,3,Football League First Division,1,A
+1896-02-22,1895/1896,Preston North End,Nottingham Forest,6-0,6,0,Football League First Division,1,H
+1896-02-22,1895/1896,Burnley,Wolverhampton Wanderers,3-1,3,1,Football League First Division,1,H
+1896-02-22,1895/1896,Bolton Wanderers,Birmingham City,4-1,4,1,Football League First Division,1,H
+1896-02-22,1895/1896,Blackburn Rovers,Derby County,0-2,0,2,Football League First Division,1,A
+1896-02-22,1895/1896,Aston Villa,Stoke City,5-2,5,2,Football League First Division,1,H
+1896-02-22,1895/1896,Sunderland,Everton,3-0,3,0,Football League First Division,1,H
+1896-02-22,1895/1896,Port Vale,Lincoln City,0-1,0,1,Football League Second Division,2,A
+1896-02-22,1895/1896,Notts County,Burton Swifts,5-0,5,0,Football League Second Division,2,H
+1896-02-22,1895/1896,Liverpool,Grimsby Town,3-1,3,1,Football League Second Division,2,H
+1896-02-22,1895/1896,Darwen,Loughborough,1-1,1,1,Football League Second Division,2,D
+1896-02-22,1895/1896,Crewe Alexandra,Leicester City,1-1,1,1,Football League Second Division,2,D
+1896-02-22,1895/1896,Burton Wanderers,Newcastle United,0-3,0,3,Football League Second Division,2,A
+1896-02-24,1895/1896,Manchester City,Loughborough,5-1,5,1,Football League Second Division,2,H
+1896-02-29,1895/1896,Birmingham City,Blackburn Rovers,2-1,2,1,Football League First Division,1,H
+1896-02-29,1895/1896,Loughborough,Arsenal,2-1,2,1,Football League Second Division,2,H
+1896-02-29,1895/1896,Manchester United,Burton Wanderers,1-2,1,2,Football League Second Division,2,A
+1896-02-29,1895/1896,Leicester City,Lincoln City,1-3,1,3,Football League Second Division,2,A
+1896-02-29,1895/1896,Notts County,Manchester City,3-0,3,0,Football League Second Division,2,H
+1896-02-29,1895/1896,Burton Swifts,Liverpool,0-7,0,7,Football League Second Division,2,A
+1896-02-29,1895/1896,Grimsby Town,Crewe Alexandra,2-0,2,0,Football League Second Division,2,H
+1896-03-03,1895/1896,Grimsby Town,Rotherham Town,4-0,4,0,Football League Second Division,2,H
+1896-03-04,1895/1896,Derby County,Preston North End,1-0,1,0,Football League First Division,1,H
+1896-03-07,1895/1896,Sunderland,Sheffield Wednesday,2-1,2,1,Football League First Division,1,H
+1896-03-07,1895/1896,Sheffield United,Blackburn Rovers,1-1,1,1,Football League First Division,1,D
+1896-03-07,1895/1896,Nottingham Forest,Burnley,2-1,2,1,Football League First Division,1,H
+1896-03-07,1895/1896,Everton,Preston North End,3-2,3,2,Football League First Division,1,H
+1896-03-07,1895/1896,Bolton Wanderers,Aston Villa,2-2,2,2,Football League First Division,1,D
+1896-03-07,1895/1896,Birmingham City,Bury,1-0,1,0,Football League First Division,1,H
+1896-03-07,1895/1896,Wolverhampton Wanderers,West Bromwich Albion,1-2,1,2,Football League First Division,1,A
+1896-03-07,1895/1896,Rotherham Town,Manchester United,2-3,2,3,Football League Second Division,2,A
+1896-03-07,1895/1896,Port Vale,Leicester City,1-1,1,1,Football League Second Division,2,D
+1896-03-07,1895/1896,Manchester City,Burton Swifts,1-1,1,1,Football League Second Division,2,D
+1896-03-07,1895/1896,Loughborough,Newcastle United,1-0,1,0,Football League Second Division,2,H
+1896-03-07,1895/1896,Lincoln City,Darwen,1-0,1,0,Football League Second Division,2,H
+1896-03-07,1895/1896,Crewe Alexandra,Grimsby Town,0-1,0,1,Football League Second Division,2,A
+1896-03-07,1895/1896,Burton Wanderers,Liverpool,2-1,2,1,Football League Second Division,2,H
+1896-03-07,1895/1896,Arsenal,Notts County,2-0,2,0,Football League Second Division,2,H
+1896-03-09,1895/1896,West Bromwich Albion,Bury,1-3,1,3,Football League First Division,1,A
+1896-03-14,1895/1896,Stoke City,Sunderland,5-0,5,0,Football League First Division,1,H
+1896-03-14,1895/1896,Derby County,Sheffield United,0-2,0,2,Football League First Division,1,A
+1896-03-14,1895/1896,Bolton Wanderers,Preston North End,1-0,1,0,Football League First Division,1,H
+1896-03-14,1895/1896,Aston Villa,Sheffield Wednesday,2-1,2,1,Football League First Division,1,H
+1896-03-14,1895/1896,Grimsby Town,Manchester United,4-2,4,2,Football League Second Division,2,H
+1896-03-14,1895/1896,Rotherham Town,Loughborough,4-0,4,0,Football League Second Division,2,H
+1896-03-14,1895/1896,Notts County,Newcastle United,0-1,0,1,Football League Second Division,2,A
+1896-03-14,1895/1896,Manchester City,Lincoln City,4-0,4,0,Football League Second Division,2,H
+1896-03-14,1895/1896,Darwen,Arsenal,1-1,1,1,Football League Second Division,2,D
+1896-03-14,1895/1896,Burton Swifts,Port Vale,2-1,2,1,Football League Second Division,2,H
+1896-03-16,1895/1896,Burnley,Stoke City,2-0,2,0,Football League First Division,1,H
+1896-03-16,1895/1896,Rotherham Town,Lincoln City,2-2,2,2,Football League Second Division,2,D
+1896-03-18,1895/1896,Burton Wanderers,Manchester United,5-1,5,1,Football League Second Division,2,H
+1896-03-21,1895/1896,Stoke City,Nottingham Forest,1-0,1,0,Football League First Division,1,H
+1896-03-21,1895/1896,Bury,Aston Villa,5-3,5,3,Football League First Division,1,H
+1896-03-21,1895/1896,Blackburn Rovers,Birmingham City,2-1,2,1,Football League First Division,1,H
+1896-03-21,1895/1896,Newcastle United,Manchester City,4-1,4,1,Football League Second Division,2,H
+1896-03-21,1895/1896,Loughborough,Darwen,4-1,4,1,Football League Second Division,2,H
+1896-03-21,1895/1896,Liverpool,Burton Swifts,6-1,6,1,Football League Second Division,2,H
+1896-03-21,1895/1896,Leicester City,Port Vale,5-0,5,0,Football League Second Division,2,H
+1896-03-21,1895/1896,Grimsby Town,Notts County,3-0,3,0,Football League Second Division,2,H
+1896-03-21,1895/1896,Burton Wanderers,Rotherham Town,6-1,6,1,Football League Second Division,2,H
+1896-03-21,1895/1896,Arsenal,Crewe Alexandra,7-0,7,0,Football League Second Division,2,H
+1896-03-23,1895/1896,Port Vale,Manchester United,3-0,3,0,Football League Second Division,2,H
+1896-03-24,1895/1896,Bury,Nottingham Forest,1-0,1,0,Football League First Division,1,H
+1896-03-25,1895/1896,Crewe Alexandra,Port Vale,3-2,3,2,Football League Second Division,2,H
+1896-03-28,1895/1896,Wolverhampton Wanderers,Nottingham Forest,6-1,6,1,Football League First Division,1,H
+1896-03-28,1895/1896,Sunderland,Stoke City,4-1,4,1,Football League First Division,1,H
+1896-03-28,1895/1896,Preston North End,Derby County,1-0,1,0,Football League First Division,1,H
+1896-03-28,1895/1896,Grimsby Town,Burton Wanderers,2-1,2,1,Football League Second Division,2,H
+1896-03-28,1895/1896,Darwen,Lincoln City,5-0,5,0,Football League Second Division,2,H
+1896-03-28,1895/1896,Crewe Alexandra,Liverpool,0-7,0,7,Football League Second Division,2,A
+1896-03-28,1895/1896,Burton Swifts,Leicester City,0-2,0,2,Football League Second Division,2,A
+1896-03-30,1895/1896,Sheffield United,Burnley,1-1,1,1,Football League First Division,1,D
+1896-04-03,1895/1896,Preston North End,West Bromwich Albion,0-0,0,0,Football League First Division,1,D
+1896-04-03,1895/1896,Everton,Derby County,2-2,2,2,Football League First Division,1,D
+1896-04-03,1895/1896,Bury,Sunderland,1-2,1,2,Football League First Division,1,A
+1896-04-03,1895/1896,Burnley,Birmingham City,1-1,1,1,Football League First Division,1,D
+1896-04-03,1895/1896,Bolton Wanderers,Sheffield United,4-1,4,1,Football League First Division,1,H
+1896-04-03,1895/1896,Blackburn Rovers,Stoke City,3-1,3,1,Football League First Division,1,H
+1896-04-03,1895/1896,Nottingham Forest,Aston Villa,0-2,0,2,Football League First Division,1,A
+1896-04-03,1895/1896,Manchester United,Darwen,4-0,4,0,Football League Second Division,2,H
+1896-04-03,1895/1896,Manchester City,Liverpool,1-1,1,1,Football League Second Division,2,D
+1896-04-03,1895/1896,Lincoln City,Notts County,2-3,2,3,Football League Second Division,2,A
+1896-04-03,1895/1896,Leicester City,Rotherham Town,8-0,8,0,Football League Second Division,2,H
+1896-04-03,1895/1896,Crewe Alexandra,Loughborough,1-2,1,2,Football League Second Division,2,A
+1896-04-03,1895/1896,Newcastle United,Port Vale,4-2,4,2,Football League Second Division,2,H
+1896-04-04,1895/1896,Sheffield Wednesday,Birmingham City,3-0,3,0,Football League First Division,1,H
+1896-04-04,1895/1896,Preston North End,Bury,1-1,1,1,Football League First Division,1,D
+1896-04-04,1895/1896,Nottingham Forest,Wolverhampton Wanderers,3-2,3,2,Football League First Division,1,H
+1896-04-04,1895/1896,Burnley,Derby County,2-2,2,2,Football League First Division,1,D
+1896-04-04,1895/1896,Bolton Wanderers,West Bromwich Albion,2-1,2,1,Football League First Division,1,H
+1896-04-04,1895/1896,Stoke City,Blackburn Rovers,3-0,3,0,Football League First Division,1,H
+1896-04-04,1895/1896,Leicester City,Manchester City,1-2,1,2,Football League Second Division,2,A
+1896-04-04,1895/1896,Grimsby Town,Arsenal,1-1,1,1,Football League Second Division,2,D
+1896-04-04,1895/1896,Newcastle United,Burton Swifts,5-0,5,0,Football League Second Division,2,H
+1896-04-04,1895/1896,Notts County,Crewe Alexandra,6-0,6,0,Football League Second Division,2,H
+1896-04-04,1895/1896,Burton Wanderers,Lincoln City,4-1,4,1,Football League Second Division,2,H
+1896-04-04,1895/1896,Manchester United,Loughborough,2-0,2,0,Football League Second Division,2,H
+1896-04-06,1895/1896,Sheffield United,Bury,8-0,8,0,Football League First Division,1,H
+1896-04-06,1895/1896,Preston North End,Sheffield Wednesday,0-1,0,1,Football League First Division,1,A
+1896-04-06,1895/1896,Everton,Bolton Wanderers,1-1,1,1,Football League First Division,1,D
+1896-04-06,1895/1896,Aston Villa,Wolverhampton Wanderers,4-1,4,1,Football League First Division,1,H
+1896-04-06,1895/1896,West Bromwich Albion,Birmingham City,0-0,0,0,Football League First Division,1,D
+1896-04-06,1895/1896,Manchester United,Port Vale,2-1,2,1,Football League Second Division,2,H
+1896-04-06,1895/1896,Loughborough,Rotherham Town,3-0,3,0,Football League Second Division,2,H
+1896-04-06,1895/1896,Burton Wanderers,Notts County,1-3,1,3,Football League Second Division,2,A
+1896-04-06,1895/1896,Arsenal,Newcastle United,2-1,2,1,Football League Second Division,2,H
+1896-04-06,1895/1896,Leicester City,Grimsby Town,1-2,1,2,Football League Second Division,2,A
+1896-04-07,1895/1896,Birmingham City,Sheffield United,2-1,2,1,Football League First Division,1,H
+1896-04-07,1895/1896,Derby County,Everton,2-1,2,1,Football League First Division,1,H
+1896-04-07,1895/1896,Nottingham Forest,Sheffield Wednesday,1-0,1,0,Football League First Division,1,H
+1896-04-07,1895/1896,Wolverhampton Wanderers,Bury,1-0,1,0,Football League First Division,1,H
+1896-04-07,1895/1896,Leicester City,Newcastle United,2-0,2,0,Football League Second Division,2,H
+1896-04-07,1895/1896,Port Vale,Loughborough,1-1,1,1,Football League Second Division,2,D
+1896-04-08,1895/1896,Manchester City,Notts County,2-0,2,0,Football League Second Division,2,H
+1896-04-11,1895/1896,Wolverhampton Wanderers,Bolton Wanderers,5-0,5,0,Football League First Division,1,H
+1896-04-11,1895/1896,Stoke City,Everton,1-2,1,2,Football League First Division,1,A
+1896-04-11,1895/1896,Derby County,Blackburn Rovers,0-0,0,0,Football League First Division,1,D
+1896-04-11,1895/1896,Birmingham City,Sunderland,0-1,0,1,Football League First Division,1,A
+1896-04-11,1895/1896,Grimsby Town,Leicester City,7-1,7,1,Football League Second Division,2,H
+1896-04-11,1895/1896,Loughborough,Port Vale,3-0,3,0,Football League Second Division,2,H
+1896-04-11,1895/1896,Lincoln City,Manchester United,2-0,2,0,Football League Second Division,2,H
+1896-04-11,1895/1896,Burton Swifts,Darwen,1-2,1,2,Football League Second Division,2,A
+1896-04-18,1895/1896,Burnley,Blackburn Rovers,6-0,6,0,Football League First Division,1,H
+1896-04-18,1895/1896,Arsenal,Darwen,1-3,1,3,Football League Second Division,2,A
+1896-04-18,1895/1896,Lincoln City,Port Vale,4-2,4,2,Football League Second Division,2,H
+1896-04-18,1895/1896,Loughborough,Crewe Alexandra,4-1,4,1,Football League Second Division,2,H
+1896-04-20,1895/1896,Port Vale,Newcastle United,2-0,2,0,Football League Second Division,2,H
+1896-04-25,1895/1896,Bolton Wanderers,Sheffield Wednesday,2-0,2,0,Football League First Division,1,H
+1896-04-25,1895/1896,Bury,Blackburn Rovers,2-0,2,0,Football League First Division,1,H
+1896-04-29,1895/1896,West Bromwich Albion,Blackburn Rovers,3-2,3,2,Football League First Division,1,H

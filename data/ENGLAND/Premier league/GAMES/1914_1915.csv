@@ -1,0 +1,761 @@
+Date,Season,HomeTeam,AwayTeam,Score,hGoal,aGoal,Division,Tier,Result
+1914-09-01,1914/1915,Manchester City,Bradford City,4-1,4,1,Football League First Division,1,H
+1914-09-01,1914/1915,Sheffield Wednesday,Middlesbrough,3-1,3,1,Football League First Division,1,H
+1914-09-01,1914/1915,Leyton Orient,Wolverhampton Wanderers,1-1,1,1,Football League Second Division,2,D
+1914-09-01,1914/1915,Grimsby Town,Preston North End,2-2,2,2,Football League Second Division,2,D
+1914-09-01,1914/1915,Arsenal,Glossop North End,3-0,3,0,Football League Second Division,2,H
+1914-09-02,1914/1915,Newcastle United,West Bromwich Albion,1-2,1,2,Football League First Division,1,A
+1914-09-02,1914/1915,Sunderland,Sheffield United,3-2,3,2,Football League First Division,1,H
+1914-09-02,1914/1915,Manchester United,Oldham Athletic,1-3,1,3,Football League First Division,1,A
+1914-09-02,1914/1915,Liverpool,Bolton Wanderers,4-3,4,3,Football League First Division,1,H
+1914-09-02,1914/1915,Aston Villa,Notts County,2-1,2,1,Football League First Division,1,H
+1914-09-02,1914/1915,Tottenham Hotspur,Everton,1-3,1,3,Football League First Division,1,A
+1914-09-02,1914/1915,Derby County,Barnsley,7-0,7,0,Football League Second Division,2,H
+1914-09-02,1914/1915,Nottingham Forest,Birmingham City,1-1,1,1,Football League Second Division,2,D
+1914-09-02,1914/1915,Leicester City,Lincoln City,2-2,2,2,Football League Second Division,2,D
+1914-09-02,1914/1915,Leeds City,Fulham,0-1,0,1,Football League Second Division,2,A
+1914-09-02,1914/1915,Bristol City,Blackpool,2-1,2,1,Football League Second Division,2,H
+1914-09-03,1914/1915,Hull City,Stockport County,1-0,1,0,Football League Second Division,2,H
+1914-09-05,1914/1915,Sheffield United,Sheffield Wednesday,0-1,0,1,Football League First Division,1,A
+1914-09-05,1914/1915,Oldham Athletic,Bolton Wanderers,5-3,5,3,Football League First Division,1,H
+1914-09-05,1914/1915,Newcastle United,Everton,0-1,0,1,Football League First Division,1,A
+1914-09-05,1914/1915,Middlesbrough,West Bromwich Albion,2-0,2,0,Football League First Division,1,H
+1914-09-05,1914/1915,Manchester United,Manchester City,0-0,0,0,Football League First Division,1,D
+1914-09-05,1914/1915,Tottenham Hotspur,Chelsea,1-1,1,1,Football League First Division,1,D
+1914-09-05,1914/1915,Liverpool,Notts County,1-1,1,1,Football League First Division,1,D
+1914-09-05,1914/1915,Burnley,Bradford City,0-1,0,1,Football League First Division,1,A
+1914-09-05,1914/1915,Bradford Park Avenue,Blackburn Rovers,1-2,1,2,Football League First Division,1,A
+1914-09-05,1914/1915,Aston Villa,Sunderland,1-3,1,3,Football League First Division,1,A
+1914-09-05,1914/1915,Bury,Bristol City,2-1,2,1,Football League Second Division,2,H
+1914-09-05,1914/1915,Wolverhampton Wanderers,Arsenal,1-0,1,0,Football League Second Division,2,H
+1914-09-05,1914/1915,Stockport County,Leeds City,3-1,3,1,Football League Second Division,2,H
+1914-09-05,1914/1915,Preston North End,Huddersfield Town,1-1,1,1,Football League Second Division,2,D
+1914-09-05,1914/1915,Nottingham Forest,Grimsby Town,4-2,4,2,Football League Second Division,2,H
+1914-09-05,1914/1915,Hull City,Blackpool,1-3,1,3,Football League Second Division,2,A
+1914-09-05,1914/1915,Glossop North End,Derby County,1-1,1,1,Football League Second Division,2,D
+1914-09-05,1914/1915,Fulham,Leyton Orient,4-0,4,0,Football League Second Division,2,H
+1914-09-05,1914/1915,Barnsley,Lincoln City,3-1,3,1,Football League Second Division,2,H
+1914-09-05,1914/1915,Leicester City,Birmingham City,1-0,1,0,Football League Second Division,2,H
+1914-09-07,1914/1915,Bolton Wanderers,Blackburn Rovers,3-2,3,2,Football League First Division,1,H
+1914-09-07,1914/1915,Burnley,Everton,1-0,1,0,Football League First Division,1,H
+1914-09-07,1914/1915,Preston North End,Grimsby Town,3-0,3,0,Football League Second Division,2,H
+1914-09-07,1914/1915,Wolverhampton Wanderers,Leyton Orient,0-0,0,0,Football League Second Division,2,D
+1914-09-08,1914/1915,Huddersfield Town,Bury,0-1,0,1,Football League Second Division,2,A
+1914-09-08,1914/1915,Glossop North End,Arsenal,0-4,0,4,Football League Second Division,2,A
+1914-09-09,1914/1915,Bradford City,Chelsea,2-2,2,2,Football League First Division,1,D
+1914-09-09,1914/1915,Newcastle United,Sheffield Wednesday,0-0,0,0,Football League First Division,1,D
+1914-09-09,1914/1915,Fulham,Leeds City,1-0,1,0,Football League Second Division,2,H
+1914-09-12,1914/1915,Everton,Middlesbrough,2-3,2,3,Football League First Division,1,A
+1914-09-12,1914/1915,Sunderland,Liverpool,2-2,2,2,Football League First Division,1,D
+1914-09-12,1914/1915,Sheffield Wednesday,Aston Villa,5-2,5,2,Football League First Division,1,H
+1914-09-12,1914/1915,Notts County,Bradford Park Avenue,1-2,1,2,Football League First Division,1,A
+1914-09-12,1914/1915,Manchester City,Burnley,1-0,1,0,Football League First Division,1,H
+1914-09-12,1914/1915,Chelsea,Newcastle United,0-3,0,3,Football League First Division,1,A
+1914-09-12,1914/1915,Bradford City,Tottenham Hotspur,2-2,2,2,Football League First Division,1,D
+1914-09-12,1914/1915,Bolton Wanderers,Manchester United,3-0,3,0,Football League First Division,1,H
+1914-09-12,1914/1915,Blackburn Rovers,Oldham Athletic,4-1,4,1,Football League First Division,1,H
+1914-09-12,1914/1915,West Bromwich Albion,Sheffield United,1-1,1,1,Football League First Division,1,D
+1914-09-12,1914/1915,Leyton Orient,Stockport County,3-0,3,0,Football League Second Division,2,H
+1914-09-12,1914/1915,Leeds City,Hull City,2-3,2,3,Football League Second Division,2,A
+1914-09-12,1914/1915,Huddersfield Town,Nottingham Forest,4-0,4,0,Football League Second Division,2,H
+1914-09-12,1914/1915,Grimsby Town,Leicester City,1-0,1,0,Football League Second Division,2,H
+1914-09-12,1914/1915,Lincoln City,Glossop North End,2-1,2,1,Football League Second Division,2,H
+1914-09-12,1914/1915,Derby County,Wolverhampton Wanderers,3-1,3,1,Football League Second Division,2,H
+1914-09-12,1914/1915,Bristol City,Preston North End,4-0,4,0,Football League Second Division,2,H
+1914-09-12,1914/1915,Blackpool,Bury,3-4,3,4,Football League Second Division,2,A
+1914-09-12,1914/1915,Birmingham City,Barnsley,2-0,2,0,Football League Second Division,2,H
+1914-09-12,1914/1915,Arsenal,Fulham,3-0,3,0,Football League Second Division,2,H
+1914-09-19,1914/1915,Sheffield United,Everton,1-0,1,0,Football League First Division,1,H
+1914-09-19,1914/1915,Oldham Athletic,Notts County,2-0,2,0,Football League First Division,1,H
+1914-09-19,1914/1915,Newcastle United,Bradford City,1-0,1,0,Football League First Division,1,H
+1914-09-19,1914/1915,Middlesbrough,Chelsea,3-0,3,0,Football League First Division,1,H
+1914-09-19,1914/1915,Manchester United,Blackburn Rovers,2-0,2,0,Football League First Division,1,H
+1914-09-19,1914/1915,Liverpool,Sheffield Wednesday,2-1,2,1,Football League First Division,1,H
+1914-09-19,1914/1915,Bradford Park Avenue,Sunderland,2-1,2,1,Football League First Division,1,H
+1914-09-19,1914/1915,Bolton Wanderers,Manchester City,2-3,2,3,Football League First Division,1,A
+1914-09-19,1914/1915,Aston Villa,West Bromwich Albion,2-1,2,1,Football League First Division,1,H
+1914-09-19,1914/1915,Tottenham Hotspur,Burnley,1-3,1,3,Football League First Division,1,A
+1914-09-19,1914/1915,Glossop North End,Birmingham City,3-3,3,3,Football League Second Division,2,D
+1914-09-19,1914/1915,Hull City,Leyton Orient,0-1,0,1,Football League Second Division,2,A
+1914-09-19,1914/1915,Leeds City,Blackpool,2-0,2,0,Football League Second Division,2,H
+1914-09-19,1914/1915,Fulham,Derby County,2-0,2,0,Football League Second Division,2,H
+1914-09-19,1914/1915,Nottingham Forest,Bristol City,0-1,0,1,Football League Second Division,2,A
+1914-09-19,1914/1915,Preston North End,Bury,2-0,2,0,Football League Second Division,2,H
+1914-09-19,1914/1915,Stockport County,Arsenal,1-1,1,1,Football League Second Division,2,D
+1914-09-19,1914/1915,Leicester City,Huddersfield Town,1-2,1,2,Football League Second Division,2,A
+1914-09-19,1914/1915,Barnsley,Grimsby Town,0-0,0,0,Football League Second Division,2,D
+1914-09-19,1914/1915,Wolverhampton Wanderers,Lincoln City,3-1,3,1,Football League Second Division,2,H
+1914-09-21,1914/1915,Blackburn Rovers,Liverpool,4-2,4,2,Football League First Division,1,H
+1914-09-21,1914/1915,Huddersfield Town,Leicester City,3-1,3,1,Football League Second Division,2,H
+1914-09-26,1914/1915,West Bromwich Albion,Liverpool,4-0,4,0,Football League First Division,1,H
+1914-09-26,1914/1915,Sunderland,Oldham Athletic,1-2,1,2,Football League First Division,1,A
+1914-09-26,1914/1915,Sheffield Wednesday,Bradford Park Avenue,6-0,6,0,Football League First Division,1,H
+1914-09-26,1914/1915,Notts County,Manchester United,4-2,4,2,Football League First Division,1,H
+1914-09-26,1914/1915,Manchester City,Tottenham Hotspur,2-1,2,1,Football League First Division,1,H
+1914-09-26,1914/1915,Everton,Aston Villa,0-0,0,0,Football League First Division,1,D
+1914-09-26,1914/1915,Chelsea,Sheffield United,1-1,1,1,Football League First Division,1,D
+1914-09-26,1914/1915,Burnley,Newcastle United,2-0,2,0,Football League First Division,1,H
+1914-09-26,1914/1915,Bradford City,Middlesbrough,1-1,1,1,Football League First Division,1,D
+1914-09-26,1914/1915,Blackburn Rovers,Bolton Wanderers,2-2,2,2,Football League First Division,1,D
+1914-09-26,1914/1915,Lincoln City,Fulham,3-1,3,1,Football League Second Division,2,H
+1914-09-26,1914/1915,Leyton Orient,Leeds City,2-0,2,0,Football League Second Division,2,H
+1914-09-26,1914/1915,Huddersfield Town,Barnsley,1-0,1,0,Football League Second Division,2,H
+1914-09-26,1914/1915,Grimsby Town,Glossop North End,1-0,1,0,Football League Second Division,2,H
+1914-09-26,1914/1915,Derby County,Stockport County,1-0,1,0,Football League Second Division,2,H
+1914-09-26,1914/1915,Bury,Nottingham Forest,4-2,4,2,Football League Second Division,2,H
+1914-09-26,1914/1915,Bristol City,Leicester City,1-0,1,0,Football League Second Division,2,H
+1914-09-26,1914/1915,Blackpool,Preston North End,0-2,0,2,Football League Second Division,2,A
+1914-09-26,1914/1915,Birmingham City,Wolverhampton Wanderers,1-2,1,2,Football League Second Division,2,A
+1914-09-26,1914/1915,Arsenal,Hull City,2-1,2,1,Football League Second Division,2,H
+1914-09-28,1914/1915,Tottenham Hotspur,West Bromwich Albion,2-0,2,0,Football League First Division,1,H
+1914-10-01,1914/1915,Nottingham Forest,Lincoln City,3-2,3,2,Football League Second Division,2,H
+1914-10-03,1914/1915,Oldham Athletic,Sheffield Wednesday,5-2,5,2,Football League First Division,1,H
+1914-10-03,1914/1915,Newcastle United,Tottenham Hotspur,4-0,4,0,Football League First Division,1,H
+1914-10-03,1914/1915,Middlesbrough,Burnley,1-1,1,1,Football League First Division,1,D
+1914-10-03,1914/1915,Manchester United,Sunderland,3-0,3,0,Football League First Division,1,H
+1914-10-03,1914/1915,Liverpool,Everton,0-5,0,5,Football League First Division,1,A
+1914-10-03,1914/1915,Bradford Park Avenue,West Bromwich Albion,1-4,1,4,Football League First Division,1,A
+1914-10-03,1914/1915,Bolton Wanderers,Notts County,1-2,1,2,Football League First Division,1,A
+1914-10-03,1914/1915,Blackburn Rovers,Manchester City,0-1,0,1,Football League First Division,1,A
+1914-10-03,1914/1915,Aston Villa,Chelsea,2-1,2,1,Football League First Division,1,H
+1914-10-03,1914/1915,Sheffield United,Bradford City,1-1,1,1,Football League First Division,1,D
+1914-10-03,1914/1915,Stockport County,Lincoln City,1-0,1,0,Football League Second Division,2,H
+1914-10-03,1914/1915,Wolverhampton Wanderers,Grimsby Town,0-1,0,1,Football League Second Division,2,A
+1914-10-03,1914/1915,Leyton Orient,Blackpool,2-0,2,0,Football League Second Division,2,H
+1914-10-03,1914/1915,Leicester City,Bury,1-3,1,3,Football League Second Division,2,A
+1914-10-03,1914/1915,Leeds City,Arsenal,2-2,2,2,Football League Second Division,2,D
+1914-10-03,1914/1915,Hull City,Derby County,1-0,1,0,Football League Second Division,2,H
+1914-10-03,1914/1915,Glossop North End,Huddersfield Town,2-2,2,2,Football League Second Division,2,D
+1914-10-03,1914/1915,Fulham,Birmingham City,2-3,2,3,Football League Second Division,2,A
+1914-10-03,1914/1915,Barnsley,Bristol City,2-1,2,1,Football League Second Division,2,H
+1914-10-03,1914/1915,Nottingham Forest,Preston North End,1-1,1,1,Football League Second Division,2,D
+1914-10-07,1914/1915,Bradford Park Avenue,Bolton Wanderers,1-2,1,2,Football League First Division,1,A
+1914-10-10,1914/1915,Tottenham Hotspur,Middlesbrough,3-3,3,3,Football League First Division,1,D
+1914-10-10,1914/1915,Bradford City,Aston Villa,3-0,3,0,Football League First Division,1,H
+1914-10-10,1914/1915,Burnley,Sheffield United,1-2,1,2,Football League First Division,1,A
+1914-10-10,1914/1915,Chelsea,Liverpool,3-1,3,1,Football League First Division,1,H
+1914-10-10,1914/1915,Everton,Bradford Park Avenue,4-1,4,1,Football League First Division,1,H
+1914-10-10,1914/1915,West Bromwich Albion,Oldham Athletic,0-0,0,0,Football League First Division,1,D
+1914-10-10,1914/1915,Notts County,Blackburn Rovers,1-1,1,1,Football League First Division,1,D
+1914-10-10,1914/1915,Sheffield Wednesday,Manchester United,1-0,1,0,Football League First Division,1,H
+1914-10-10,1914/1915,Sunderland,Bolton Wanderers,4-3,4,3,Football League First Division,1,H
+1914-10-10,1914/1915,Manchester City,Newcastle United,1-1,1,1,Football League First Division,1,D
+1914-10-10,1914/1915,Blackpool,Nottingham Forest,3-0,3,0,Football League Second Division,2,H
+1914-10-10,1914/1915,Bristol City,Glossop North End,3-1,3,1,Football League Second Division,2,H
+1914-10-10,1914/1915,Bury,Barnsley,1-2,1,2,Football League Second Division,2,A
+1914-10-10,1914/1915,Preston North End,Leicester City,1-0,1,0,Football League Second Division,2,H
+1914-10-10,1914/1915,Grimsby Town,Fulham,1-1,1,1,Football League Second Division,2,D
+1914-10-10,1914/1915,Huddersfield Town,Wolverhampton Wanderers,2-0,2,0,Football League Second Division,2,H
+1914-10-10,1914/1915,Birmingham City,Stockport County,0-1,0,1,Football League Second Division,2,A
+1914-10-10,1914/1915,Derby County,Leeds City,1-2,1,2,Football League Second Division,2,A
+1914-10-10,1914/1915,Arsenal,Leyton Orient,2-1,2,1,Football League Second Division,2,H
+1914-10-10,1914/1915,Lincoln City,Hull City,0-3,0,3,Football League Second Division,2,A
+1914-10-17,1914/1915,Sheffield United,Tottenham Hotspur,1-1,1,1,Football League First Division,1,D
+1914-10-17,1914/1915,Notts County,Manchester City,0-2,0,2,Football League First Division,1,A
+1914-10-17,1914/1915,Middlesbrough,Newcastle United,1-1,1,1,Football League First Division,1,D
+1914-10-17,1914/1915,Manchester United,West Bromwich Albion,0-0,0,0,Football League First Division,1,D
+1914-10-17,1914/1915,Liverpool,Bradford City,2-1,2,1,Football League First Division,1,H
+1914-10-17,1914/1915,Bradford Park Avenue,Chelsea,3-0,3,0,Football League First Division,1,H
+1914-10-17,1914/1915,Bolton Wanderers,Sheffield Wednesday,0-3,0,3,Football League First Division,1,A
+1914-10-17,1914/1915,Blackburn Rovers,Sunderland,3-1,3,1,Football League First Division,1,H
+1914-10-17,1914/1915,Aston Villa,Burnley,3-3,3,3,Football League First Division,1,D
+1914-10-17,1914/1915,Oldham Athletic,Everton,1-1,1,1,Football League First Division,1,D
+1914-10-17,1914/1915,Arsenal,Blackpool,2-0,2,0,Football League Second Division,2,H
+1914-10-17,1914/1915,Stockport County,Grimsby Town,1-1,1,1,Football League Second Division,2,D
+1914-10-17,1914/1915,Leyton Orient,Derby County,0-1,0,1,Football League Second Division,2,A
+1914-10-17,1914/1915,Leicester City,Nottingham Forest,3-1,3,1,Football League Second Division,2,H
+1914-10-17,1914/1915,Leeds City,Lincoln City,3-1,3,1,Football League Second Division,2,H
+1914-10-17,1914/1915,Hull City,Birmingham City,0-0,0,0,Football League Second Division,2,D
+1914-10-17,1914/1915,Glossop North End,Bury,3-0,3,0,Football League Second Division,2,H
+1914-10-17,1914/1915,Fulham,Huddersfield Town,2-3,2,3,Football League Second Division,2,A
+1914-10-17,1914/1915,Barnsley,Preston North End,2-1,2,1,Football League Second Division,2,H
+1914-10-17,1914/1915,Wolverhampton Wanderers,Bristol City,2-2,2,2,Football League Second Division,2,D
+1914-10-24,1914/1915,Tottenham Hotspur,Aston Villa,0-2,0,2,Football League First Division,1,A
+1914-10-24,1914/1915,Burnley,Liverpool,3-0,3,0,Football League First Division,1,H
+1914-10-24,1914/1915,Chelsea,Oldham Athletic,2-2,2,2,Football League First Division,1,D
+1914-10-24,1914/1915,Everton,Manchester United,4-2,4,2,Football League First Division,1,H
+1914-10-24,1914/1915,Manchester City,Middlesbrough,1-1,1,1,Football League First Division,1,D
+1914-10-24,1914/1915,Bradford City,Bradford Park Avenue,3-2,3,2,Football League First Division,1,H
+1914-10-24,1914/1915,Sheffield Wednesday,Blackburn Rovers,1-1,1,1,Football League First Division,1,D
+1914-10-24,1914/1915,Sunderland,Notts County,3-1,3,1,Football League First Division,1,H
+1914-10-24,1914/1915,West Bromwich Albion,Bolton Wanderers,3-0,3,0,Football League First Division,1,H
+1914-10-24,1914/1915,Newcastle United,Sheffield United,4-3,4,3,Football League First Division,1,H
+1914-10-24,1914/1915,Bury,Wolverhampton Wanderers,4-1,4,1,Football League Second Division,2,H
+1914-10-24,1914/1915,Derby County,Arsenal,4-0,4,0,Football League Second Division,2,H
+1914-10-24,1914/1915,Grimsby Town,Hull City,1-1,1,1,Football League Second Division,2,D
+1914-10-24,1914/1915,Bristol City,Fulham,0-0,0,0,Football League Second Division,2,D
+1914-10-24,1914/1915,Lincoln City,Leyton Orient,1-0,1,0,Football League Second Division,2,H
+1914-10-24,1914/1915,Nottingham Forest,Barnsley,2-1,2,1,Football League Second Division,2,H
+1914-10-24,1914/1915,Preston North End,Glossop North End,1-0,1,0,Football League Second Division,2,H
+1914-10-24,1914/1915,Huddersfield Town,Stockport County,2-1,2,1,Football League Second Division,2,H
+1914-10-24,1914/1915,Birmingham City,Leeds City,6-3,6,3,Football League Second Division,2,H
+1914-10-24,1914/1915,Blackpool,Leicester City,1-2,1,2,Football League Second Division,2,A
+1914-10-31,1914/1915,Sunderland,Manchester City,0-2,0,2,Football League First Division,1,A
+1914-10-31,1914/1915,Sheffield United,Middlesbrough,0-1,0,1,Football League First Division,1,A
+1914-10-31,1914/1915,Blackburn Rovers,West Bromwich Albion,2-1,2,1,Football League First Division,1,H
+1914-10-31,1914/1915,Bolton Wanderers,Everton,0-0,0,0,Football League First Division,1,D
+1914-10-31,1914/1915,Bradford Park Avenue,Burnley,2-2,2,2,Football League First Division,1,D
+1914-10-31,1914/1915,Aston Villa,Newcastle United,2-1,2,1,Football League First Division,1,H
+1914-10-31,1914/1915,Manchester United,Chelsea,2-2,2,2,Football League First Division,1,D
+1914-10-31,1914/1915,Notts County,Sheffield Wednesday,1-2,1,2,Football League First Division,1,A
+1914-10-31,1914/1915,Oldham Athletic,Bradford City,1-0,1,0,Football League First Division,1,H
+1914-10-31,1914/1915,Liverpool,Tottenham Hotspur,7-2,7,2,Football League First Division,1,H
+1914-10-31,1914/1915,Barnsley,Leicester City,1-0,1,0,Football League Second Division,2,H
+1914-10-31,1914/1915,Wolverhampton Wanderers,Preston North End,2-0,2,0,Football League Second Division,2,H
+1914-10-31,1914/1915,Stockport County,Bristol City,2-2,2,2,Football League Second Division,2,D
+1914-10-31,1914/1915,Leyton Orient,Birmingham City,1-1,1,1,Football League Second Division,2,D
+1914-10-31,1914/1915,Leeds City,Grimsby Town,5-0,5,0,Football League Second Division,2,H
+1914-10-31,1914/1915,Huddersfield Town,Hull City,1-0,1,0,Football League Second Division,2,H
+1914-10-31,1914/1915,Glossop North End,Nottingham Forest,1-0,1,0,Football League Second Division,2,H
+1914-10-31,1914/1915,Fulham,Bury,6-3,6,3,Football League Second Division,2,H
+1914-10-31,1914/1915,Derby County,Blackpool,5-0,5,0,Football League Second Division,2,H
+1914-10-31,1914/1915,Arsenal,Lincoln City,1-1,1,1,Football League Second Division,2,D
+1914-11-07,1914/1915,Tottenham Hotspur,Bradford Park Avenue,3-0,3,0,Football League First Division,1,H
+1914-11-07,1914/1915,Bradford City,Manchester United,4-2,4,2,Football League First Division,1,H
+1914-11-07,1914/1915,Burnley,Oldham Athletic,2-3,2,3,Football League First Division,1,A
+1914-11-07,1914/1915,Chelsea,Bolton Wanderers,2-1,2,1,Football League First Division,1,H
+1914-11-07,1914/1915,Everton,Blackburn Rovers,1-3,1,3,Football League First Division,1,A
+1914-11-07,1914/1915,West Bromwich Albion,Notts County,4-1,4,1,Football League First Division,1,H
+1914-11-07,1914/1915,Middlesbrough,Aston Villa,1-1,1,1,Football League First Division,1,D
+1914-11-07,1914/1915,Newcastle United,Liverpool,0-0,0,0,Football League First Division,1,D
+1914-11-07,1914/1915,Sheffield Wednesday,Sunderland,1-2,1,2,Football League First Division,1,A
+1914-11-07,1914/1915,Manchester City,Sheffield United,0-0,0,0,Football League First Division,1,D
+1914-11-07,1914/1915,Blackpool,Barnsley,1-1,1,1,Football League Second Division,2,D
+1914-11-07,1914/1915,Nottingham Forest,Wolverhampton Wanderers,3-1,3,1,Football League Second Division,2,H
+1914-11-07,1914/1915,Lincoln City,Derby County,0-0,0,0,Football League Second Division,2,D
+1914-11-07,1914/1915,Leicester City,Glossop North End,3-2,3,2,Football League Second Division,2,H
+1914-11-07,1914/1915,Huddersfield Town,Leeds City,1-0,1,0,Football League Second Division,2,H
+1914-11-07,1914/1915,Grimsby Town,Leyton Orient,2-1,2,1,Football League Second Division,2,H
+1914-11-07,1914/1915,Bury,Stockport County,2-1,2,1,Football League Second Division,2,H
+1914-11-07,1914/1915,Bristol City,Hull City,5-2,5,2,Football League Second Division,2,H
+1914-11-07,1914/1915,Birmingham City,Arsenal,3-0,3,0,Football League Second Division,2,H
+1914-11-07,1914/1915,Preston North End,Fulham,2-1,2,1,Football League Second Division,2,H
+1914-11-14,1914/1915,Sheffield Wednesday,Manchester City,2-1,2,1,Football League First Division,1,H
+1914-11-14,1914/1915,Aston Villa,Sheffield United,1-0,1,0,Football League First Division,1,H
+1914-11-14,1914/1915,Blackburn Rovers,Chelsea,3-2,3,2,Football League First Division,1,H
+1914-11-14,1914/1915,Bolton Wanderers,Bradford City,3-5,3,5,Football League First Division,1,A
+1914-11-14,1914/1915,Bradford Park Avenue,Newcastle United,1-0,1,0,Football League First Division,1,H
+1914-11-14,1914/1915,Sunderland,West Bromwich Albion,1-2,1,2,Football League First Division,1,A
+1914-11-14,1914/1915,Manchester United,Burnley,0-2,0,2,Football League First Division,1,A
+1914-11-14,1914/1915,Notts County,Everton,0-0,0,0,Football League First Division,1,D
+1914-11-14,1914/1915,Oldham Athletic,Tottenham Hotspur,4-1,4,1,Football League First Division,1,H
+1914-11-14,1914/1915,Liverpool,Middlesbrough,1-1,1,1,Football League First Division,1,D
+1914-11-14,1914/1915,Derby County,Birmingham City,1-0,1,0,Football League Second Division,2,H
+1914-11-14,1914/1915,Stockport County,Preston North End,2-1,2,1,Football League Second Division,2,H
+1914-11-14,1914/1915,Lincoln City,Blackpool,0-1,0,1,Football League Second Division,2,A
+1914-11-14,1914/1915,Leyton Orient,Huddersfield Town,3-1,3,1,Football League Second Division,2,H
+1914-11-14,1914/1915,Leeds City,Bristol City,1-1,1,1,Football League Second Division,2,D
+1914-11-14,1914/1915,Hull City,Bury,3-1,3,1,Football League Second Division,2,H
+1914-11-14,1914/1915,Glossop North End,Barnsley,0-1,0,1,Football League Second Division,2,A
+1914-11-14,1914/1915,Fulham,Nottingham Forest,2-1,2,1,Football League Second Division,2,H
+1914-11-14,1914/1915,Arsenal,Grimsby Town,6-0,6,0,Football League Second Division,2,H
+1914-11-14,1914/1915,Wolverhampton Wanderers,Leicester City,7-0,7,0,Football League Second Division,2,H
+1914-11-18,1914/1915,Nottingham Forest,Arsenal,1-1,1,1,Football League Second Division,2,D
+1914-11-21,1914/1915,West Bromwich Albion,Sheffield Wednesday,0-0,0,0,Football League First Division,1,D
+1914-11-21,1914/1915,Tottenham Hotspur,Manchester United,2-0,2,0,Football League First Division,1,H
+1914-11-21,1914/1915,Sheffield United,Liverpool,2-1,2,1,Football League First Division,1,H
+1914-11-21,1914/1915,Newcastle United,Oldham Athletic,1-2,1,2,Football League First Division,1,A
+1914-11-21,1914/1915,Middlesbrough,Bradford Park Avenue,1-3,1,3,Football League First Division,1,A
+1914-11-21,1914/1915,Everton,Sunderland,7-1,7,1,Football League First Division,1,H
+1914-11-21,1914/1915,Chelsea,Notts County,4-1,4,1,Football League First Division,1,H
+1914-11-21,1914/1915,Burnley,Bolton Wanderers,5-0,5,0,Football League First Division,1,H
+1914-11-21,1914/1915,Bradford City,Blackburn Rovers,3-0,3,0,Football League First Division,1,H
+1914-11-21,1914/1915,Birmingham City,Lincoln City,2-0,2,0,Football League Second Division,2,H
+1914-11-21,1914/1915,Nottingham Forest,Stockport County,1-1,1,1,Football League Second Division,2,D
+1914-11-21,1914/1915,Leicester City,Fulham,0-2,0,2,Football League Second Division,2,A
+1914-11-21,1914/1915,Huddersfield Town,Arsenal,3-0,3,0,Football League Second Division,2,H
+1914-11-21,1914/1915,Grimsby Town,Derby County,1-2,1,2,Football League Second Division,2,A
+1914-11-21,1914/1915,Bury,Leeds City,0-0,0,0,Football League Second Division,2,D
+1914-11-21,1914/1915,Bristol City,Leyton Orient,3-0,3,0,Football League Second Division,2,H
+1914-11-21,1914/1915,Blackpool,Glossop North End,3-0,3,0,Football League Second Division,2,H
+1914-11-21,1914/1915,Preston North End,Hull City,2-1,2,1,Football League Second Division,2,H
+1914-11-21,1914/1915,Barnsley,Wolverhampton Wanderers,2-1,2,1,Football League Second Division,2,H
+1914-11-25,1914/1915,Manchester City,Aston Villa,1-0,1,0,Football League First Division,1,H
+1914-11-28,1914/1915,Sunderland,Chelsea,2-1,2,1,Football League First Division,1,H
+1914-11-28,1914/1915,Bolton Wanderers,Tottenham Hotspur,4-2,4,2,Football League First Division,1,H
+1914-11-28,1914/1915,Bradford Park Avenue,Sheffield United,2-0,2,0,Football League First Division,1,H
+1914-11-28,1914/1915,Liverpool,Aston Villa,3-6,3,6,Football League First Division,1,A
+1914-11-28,1914/1915,Manchester United,Newcastle United,1-0,1,0,Football League First Division,1,H
+1914-11-28,1914/1915,Blackburn Rovers,Burnley,6-0,6,0,Football League First Division,1,H
+1914-11-28,1914/1915,Oldham Athletic,Middlesbrough,5-1,5,1,Football League First Division,1,H
+1914-11-28,1914/1915,West Bromwich Albion,Manchester City,0-1,0,1,Football League First Division,1,A
+1914-11-28,1914/1915,Sheffield Wednesday,Everton,1-4,1,4,Football League First Division,1,A
+1914-11-28,1914/1915,Notts County,Bradford City,0-0,0,0,Football League First Division,1,D
+1914-11-28,1914/1915,Wolverhampton Wanderers,Glossop North End,4-0,4,0,Football League Second Division,2,H
+1914-11-28,1914/1915,Stockport County,Leicester City,3-0,3,0,Football League Second Division,2,H
+1914-11-28,1914/1915,Lincoln City,Grimsby Town,2-1,2,1,Football League Second Division,2,H
+1914-11-28,1914/1915,Leyton Orient,Bury,2-2,2,2,Football League Second Division,2,D
+1914-11-28,1914/1915,Leeds City,Preston North End,0-0,0,0,Football League Second Division,2,D
+1914-11-28,1914/1915,Hull City,Nottingham Forest,3-1,3,1,Football League Second Division,2,H
+1914-11-28,1914/1915,Fulham,Barnsley,2-0,2,0,Football League Second Division,2,H
+1914-11-28,1914/1915,Birmingham City,Blackpool,3-0,3,0,Football League Second Division,2,H
+1914-11-28,1914/1915,Arsenal,Bristol City,3-0,3,0,Football League Second Division,2,H
+1914-11-28,1914/1915,Derby County,Huddersfield Town,1-0,1,0,Football League Second Division,2,H
+1914-12-05,1914/1915,Sheffield United,Oldham Athletic,3-0,3,0,Football League First Division,1,H
+1914-12-05,1914/1915,Aston Villa,Bradford Park Avenue,1-2,1,2,Football League First Division,1,A
+1914-12-05,1914/1915,Bradford City,Sunderland,3-1,3,1,Football League First Division,1,H
+1914-12-05,1914/1915,Burnley,Notts County,0-0,0,0,Football League First Division,1,D
+1914-12-05,1914/1915,Chelsea,Sheffield Wednesday,0-0,0,0,Football League First Division,1,D
+1914-12-05,1914/1915,Tottenham Hotspur,Blackburn Rovers,0-4,0,4,Football League First Division,1,A
+1914-12-05,1914/1915,Manchester City,Liverpool,1-1,1,1,Football League First Division,1,D
+1914-12-05,1914/1915,Middlesbrough,Manchester United,1-1,1,1,Football League First Division,1,D
+1914-12-05,1914/1915,Newcastle United,Bolton Wanderers,1-2,1,2,Football League First Division,1,A
+1914-12-05,1914/1915,Everton,West Bromwich Albion,2-1,2,1,Football League First Division,1,H
+1914-12-05,1914/1915,Blackpool,Wolverhampton Wanderers,1-0,1,0,Football League Second Division,2,H
+1914-12-05,1914/1915,Nottingham Forest,Leeds City,3-1,3,1,Football League Second Division,2,H
+1914-12-05,1914/1915,Leicester City,Hull City,1-1,1,1,Football League Second Division,2,D
+1914-12-05,1914/1915,Huddersfield Town,Lincoln City,0-1,0,1,Football League Second Division,2,A
+1914-12-05,1914/1915,Grimsby Town,Birmingham City,1-0,1,0,Football League Second Division,2,H
+1914-12-05,1914/1915,Glossop North End,Fulham,1-0,1,0,Football League Second Division,2,H
+1914-12-05,1914/1915,Bury,Arsenal,3-1,3,1,Football League Second Division,2,H
+1914-12-05,1914/1915,Bristol City,Derby County,2-3,2,3,Football League Second Division,2,A
+1914-12-05,1914/1915,Barnsley,Stockport County,2-0,2,0,Football League Second Division,2,H
+1914-12-05,1914/1915,Preston North End,Leyton Orient,2-2,2,2,Football League Second Division,2,D
+1914-12-12,1914/1915,West Bromwich Albion,Chelsea,2-0,2,0,Football League First Division,1,H
+1914-12-12,1914/1915,Sheffield Wednesday,Bradford City,3-3,3,3,Football League First Division,1,D
+1914-12-12,1914/1915,Oldham Athletic,Aston Villa,3-3,3,3,Football League First Division,1,D
+1914-12-12,1914/1915,Notts County,Tottenham Hotspur,1-2,1,2,Football League First Division,1,A
+1914-12-12,1914/1915,Manchester United,Sheffield United,1-2,1,2,Football League First Division,1,A
+1914-12-12,1914/1915,Everton,Manchester City,4-1,4,1,Football League First Division,1,H
+1914-12-12,1914/1915,Bradford Park Avenue,Liverpool,1-0,1,0,Football League First Division,1,H
+1914-12-12,1914/1915,Bolton Wanderers,Middlesbrough,4-0,4,0,Football League First Division,1,H
+1914-12-12,1914/1915,Blackburn Rovers,Newcastle United,2-3,2,3,Football League First Division,1,A
+1914-12-12,1914/1915,Sunderland,Burnley,2-1,2,1,Football League First Division,1,H
+1914-12-12,1914/1915,Arsenal,Preston North End,1-2,1,2,Football League Second Division,2,A
+1914-12-12,1914/1915,Lincoln City,Bristol City,3-1,3,1,Football League Second Division,2,H
+1914-12-12,1914/1915,Leyton Orient,Nottingham Forest,0-0,0,0,Football League Second Division,2,D
+1914-12-12,1914/1915,Leeds City,Leicester City,7-2,7,2,Football League Second Division,2,H
+1914-12-12,1914/1915,Hull City,Barnsley,2-1,2,1,Football League Second Division,2,H
+1914-12-12,1914/1915,Grimsby Town,Blackpool,2-0,2,0,Football League Second Division,2,H
+1914-12-12,1914/1915,Fulham,Wolverhampton Wanderers,0-1,0,1,Football League Second Division,2,A
+1914-12-12,1914/1915,Derby County,Bury,2-1,2,1,Football League Second Division,2,H
+1914-12-12,1914/1915,Birmingham City,Huddersfield Town,1-0,1,0,Football League Second Division,2,H
+1914-12-12,1914/1915,Stockport County,Glossop North End,2-1,2,1,Football League Second Division,2,H
+1914-12-14,1914/1915,Bury,Lincoln City,1-1,1,1,Football League Second Division,2,D
+1914-12-19,1914/1915,Tottenham Hotspur,Sunderland,0-6,0,6,Football League First Division,1,A
+1914-12-19,1914/1915,Sheffield United,Bolton Wanderers,3-1,3,1,Football League First Division,1,H
+1914-12-19,1914/1915,Burnley,Sheffield Wednesday,2-3,2,3,Football League First Division,1,A
+1914-12-19,1914/1915,Middlesbrough,Blackburn Rovers,1-4,1,4,Football League First Division,1,A
+1914-12-19,1914/1915,Manchester City,Bradford Park Avenue,2-3,2,3,Football League First Division,1,A
+1914-12-19,1914/1915,Liverpool,Oldham Athletic,1-2,1,2,Football League First Division,1,A
+1914-12-19,1914/1915,Chelsea,Everton,2-0,2,0,Football League First Division,1,H
+1914-12-19,1914/1915,Bradford City,West Bromwich Albion,5-0,5,0,Football League First Division,1,H
+1914-12-19,1914/1915,Aston Villa,Manchester United,3-3,3,3,Football League First Division,1,D
+1914-12-19,1914/1915,Newcastle United,Notts County,1-1,1,1,Football League First Division,1,D
+1914-12-19,1914/1915,Barnsley,Leeds City,2-1,2,1,Football League Second Division,2,H
+1914-12-19,1914/1915,Blackpool,Fulham,2-2,2,2,Football League Second Division,2,D
+1914-12-19,1914/1915,Bristol City,Birmingham City,2-3,2,3,Football League Second Division,2,A
+1914-12-19,1914/1915,Huddersfield Town,Grimsby Town,3-1,3,1,Football League Second Division,2,H
+1914-12-19,1914/1915,Preston North End,Derby County,1-3,1,3,Football League Second Division,2,A
+1914-12-19,1914/1915,Wolverhampton Wanderers,Stockport County,4-1,4,1,Football League Second Division,2,H
+1914-12-25,1914/1915,Newcastle United,Sunderland,2-5,2,5,Football League First Division,1,A
+1914-12-25,1914/1915,Middlesbrough,Notts County,1-0,1,0,Football League First Division,1,H
+1914-12-25,1914/1915,Everton,Bradford City,1-1,1,1,Football League First Division,1,D
+1914-12-25,1914/1915,Chelsea,Manchester City,0-0,0,0,Football League First Division,1,D
+1914-12-25,1914/1915,Burnley,West Bromwich Albion,0-2,0,2,Football League First Division,1,A
+1914-12-25,1914/1915,Bradford Park Avenue,Oldham Athletic,1-1,1,1,Football League First Division,1,D
+1914-12-25,1914/1915,Bolton Wanderers,Liverpool,0-1,0,1,Football League First Division,1,A
+1914-12-25,1914/1915,Blackburn Rovers,Aston Villa,1-2,1,2,Football League First Division,1,A
+1914-12-25,1914/1915,Sheffield Wednesday,Tottenham Hotspur,3-2,3,2,Football League First Division,1,H
+1914-12-25,1914/1915,Stockport County,Blackpool,0-2,0,2,Football League Second Division,2,A
+1914-12-25,1914/1915,Lincoln City,Preston North End,3-1,3,1,Football League Second Division,2,H
+1914-12-25,1914/1915,Leyton Orient,Barnsley,4-2,4,2,Football League Second Division,2,H
+1914-12-25,1914/1915,Leicester City,Arsenal,1-4,1,4,Football League Second Division,2,A
+1914-12-25,1914/1915,Hull City,Wolverhampton Wanderers,5-1,5,1,Football League Second Division,2,H
+1914-12-25,1914/1915,Grimsby Town,Bristol City,2-3,2,3,Football League Second Division,2,A
+1914-12-25,1914/1915,Glossop North End,Leeds City,0-3,0,3,Football League Second Division,2,A
+1914-12-25,1914/1915,Birmingham City,Bury,1-0,1,0,Football League Second Division,2,H
+1914-12-25,1914/1915,Nottingham Forest,Derby County,2-2,2,2,Football League Second Division,2,D
+1914-12-26,1914/1915,Sheffield United,Blackburn Rovers,1-2,1,2,Football League First Division,1,A
+1914-12-26,1914/1915,Tottenham Hotspur,Sheffield Wednesday,6-1,6,1,Football League First Division,1,H
+1914-12-26,1914/1915,Sunderland,Newcastle United,2-4,2,4,Football League First Division,1,A
+1914-12-26,1914/1915,Oldham Athletic,Bradford Park Avenue,6-2,6,2,Football League First Division,1,H
+1914-12-26,1914/1915,Notts County,Middlesbrough,5-1,5,1,Football League First Division,1,H
+1914-12-26,1914/1915,Manchester City,Chelsea,2-1,2,1,Football League First Division,1,H
+1914-12-26,1914/1915,Liverpool,Manchester United,1-1,1,1,Football League First Division,1,D
+1914-12-26,1914/1915,Bradford City,Everton,0-1,0,1,Football League First Division,1,A
+1914-12-26,1914/1915,Aston Villa,Bolton Wanderers,1-7,1,7,Football League First Division,1,A
+1914-12-26,1914/1915,West Bromwich Albion,Burnley,3-0,3,0,Football League First Division,1,H
+1914-12-26,1914/1915,Bristol City,Grimsby Town,7-0,7,0,Football League Second Division,2,H
+1914-12-26,1914/1915,Bury,Birmingham City,1-3,1,3,Football League Second Division,2,A
+1914-12-26,1914/1915,Derby County,Nottingham Forest,1-0,1,0,Football League Second Division,2,H
+1914-12-26,1914/1915,Preston North End,Lincoln City,0-0,0,0,Football League Second Division,2,D
+1914-12-26,1914/1915,Huddersfield Town,Blackpool,5-0,5,0,Football League Second Division,2,H
+1914-12-26,1914/1915,Leeds City,Glossop North End,3-0,3,0,Football League Second Division,2,H
+1914-12-26,1914/1915,Barnsley,Leyton Orient,1-0,1,0,Football League Second Division,2,H
+1914-12-26,1914/1915,Wolverhampton Wanderers,Hull City,1-2,1,2,Football League Second Division,2,A
+1914-12-26,1914/1915,Fulham,Stockport County,1-0,1,0,Football League Second Division,2,H
+1914-12-26,1914/1915,Arsenal,Leicester City,6-0,6,0,Football League Second Division,2,H
+1914-12-28,1914/1915,Chelsea,Burnley,1-4,1,4,Football League First Division,1,A
+1914-12-28,1914/1915,Sheffield United,Notts County,1-0,1,0,Football League First Division,1,H
+1914-12-28,1914/1915,Leicester City,Derby County,0-6,0,6,Football League Second Division,2,A
+1914-12-28,1914/1915,Birmingham City,Nottingham Forest,3-0,3,0,Football League Second Division,2,H
+1915-01-01,1914/1915,Blackburn Rovers,Sheffield United,1-2,1,2,Football League First Division,1,A
+1915-01-01,1914/1915,Bolton Wanderers,Aston Villa,2-2,2,2,Football League First Division,1,D
+1915-01-01,1914/1915,Everton,Tottenham Hotspur,1-1,1,1,Football League First Division,1,D
+1915-01-01,1914/1915,Manchester United,Bradford Park Avenue,1-2,1,2,Football League First Division,1,A
+1915-01-01,1914/1915,Middlesbrough,Sunderland,2-3,2,3,Football League First Division,1,A
+1915-01-01,1914/1915,Oldham Athletic,Manchester City,0-0,0,0,Football League First Division,1,D
+1915-01-01,1914/1915,Sheffield Wednesday,Newcastle United,2-1,2,1,Football League First Division,1,H
+1915-01-01,1914/1915,Bury,Huddersfield Town,3-1,3,1,Football League Second Division,2,H
+1915-01-01,1914/1915,Barnsley,Arsenal,1-0,1,0,Football League Second Division,2,H
+1915-01-01,1914/1915,Blackpool,Bristol City,2-0,2,0,Football League Second Division,2,H
+1915-01-01,1914/1915,Stockport County,Hull City,3-0,3,0,Football League Second Division,2,H
+1915-01-02,1914/1915,Sunderland,Aston Villa,4-0,4,0,Football League First Division,1,H
+1915-01-02,1914/1915,West Bromwich Albion,Middlesbrough,1-0,1,0,Football League First Division,1,H
+1915-01-02,1914/1915,Bolton Wanderers,Oldham Athletic,2-0,2,0,Football League First Division,1,H
+1915-01-02,1914/1915,Chelsea,Tottenham Hotspur,1-1,1,1,Football League First Division,1,D
+1915-01-02,1914/1915,Everton,Newcastle United,3-0,3,0,Football League First Division,1,H
+1915-01-02,1914/1915,Bradford City,Burnley,0-0,0,0,Football League First Division,1,D
+1915-01-02,1914/1915,Blackburn Rovers,Bradford Park Avenue,2-2,2,2,Football League First Division,1,D
+1915-01-02,1914/1915,Notts County,Liverpool,3-1,3,1,Football League First Division,1,H
+1915-01-02,1914/1915,Sheffield Wednesday,Sheffield United,1-1,1,1,Football League First Division,1,D
+1915-01-02,1914/1915,Manchester City,Manchester United,1-1,1,1,Football League First Division,1,D
+1915-01-02,1914/1915,Blackpool,Hull City,1-2,1,2,Football League Second Division,2,A
+1915-01-02,1914/1915,Derby County,Glossop North End,1-1,1,1,Football League Second Division,2,D
+1915-01-02,1914/1915,Grimsby Town,Nottingham Forest,4-0,4,0,Football League Second Division,2,H
+1915-01-02,1914/1915,Huddersfield Town,Preston North End,3-1,3,1,Football League Second Division,2,H
+1915-01-02,1914/1915,Leyton Orient,Fulham,2-1,2,1,Football League Second Division,2,H
+1915-01-02,1914/1915,Lincoln City,Barnsley,3-0,3,0,Football League Second Division,2,H
+1915-01-02,1914/1915,Birmingham City,Leicester City,2-0,2,0,Football League Second Division,2,H
+1915-01-02,1914/1915,Leeds City,Stockport County,1-3,1,3,Football League Second Division,2,A
+1915-01-02,1914/1915,Arsenal,Wolverhampton Wanderers,5-1,5,1,Football League Second Division,2,H
+1915-01-02,1914/1915,Bristol City,Bury,1-0,1,0,Football League Second Division,2,H
+1915-01-16,1914/1915,Middlesbrough,Everton,5-1,5,1,Football League First Division,1,H
+1915-01-16,1914/1915,Sheffield United,West Bromwich Albion,2-0,2,0,Football League First Division,1,H
+1915-01-16,1914/1915,Oldham Athletic,Blackburn Rovers,3-2,3,2,Football League First Division,1,H
+1915-01-16,1914/1915,Manchester United,Bolton Wanderers,4-1,4,1,Football League First Division,1,H
+1915-01-16,1914/1915,Liverpool,Sunderland,2-1,2,1,Football League First Division,1,H
+1915-01-16,1914/1915,Bradford Park Avenue,Notts County,3-1,3,1,Football League First Division,1,H
+1915-01-16,1914/1915,Aston Villa,Sheffield Wednesday,0-0,0,0,Football League First Division,1,D
+1915-01-16,1914/1915,Tottenham Hotspur,Bradford City,0-0,0,0,Football League First Division,1,D
+1915-01-16,1914/1915,Wolverhampton Wanderers,Derby County,0-1,0,1,Football League Second Division,2,A
+1915-01-16,1914/1915,Glossop North End,Lincoln City,1-2,1,2,Football League Second Division,2,A
+1915-01-16,1914/1915,Stockport County,Leyton Orient,2-0,2,0,Football League Second Division,2,H
+1915-01-16,1914/1915,Nottingham Forest,Huddersfield Town,3-2,3,2,Football League Second Division,2,H
+1915-01-16,1914/1915,Leicester City,Grimsby Town,2-0,2,0,Football League Second Division,2,H
+1915-01-16,1914/1915,Hull City,Leeds City,2-6,2,6,Football League Second Division,2,A
+1915-01-16,1914/1915,Fulham,Arsenal,0-1,0,1,Football League Second Division,2,A
+1915-01-18,1914/1915,Burnley,Manchester City,1-2,1,2,Football League First Division,1,A
+1915-01-23,1914/1915,Everton,Sheffield United,0-0,0,0,Football League First Division,1,D
+1915-01-23,1914/1915,Bradford City,Newcastle United,1-1,1,1,Football League First Division,1,D
+1915-01-23,1914/1915,Sunderland,Bradford Park Avenue,3-3,3,3,Football League First Division,1,D
+1915-01-23,1914/1915,Sheffield Wednesday,Liverpool,2-1,2,1,Football League First Division,1,H
+1915-01-23,1914/1915,Notts County,Oldham Athletic,2-1,2,1,Football League First Division,1,H
+1915-01-23,1914/1915,Manchester City,Bolton Wanderers,2-1,2,1,Football League First Division,1,H
+1915-01-23,1914/1915,West Bromwich Albion,Aston Villa,2-0,2,0,Football League First Division,1,H
+1915-01-23,1914/1915,Chelsea,Middlesbrough,2-2,2,2,Football League First Division,1,D
+1915-01-23,1914/1915,Burnley,Tottenham Hotspur,3-1,3,1,Football League First Division,1,H
+1915-01-23,1914/1915,Blackburn Rovers,Manchester United,3-3,3,3,Football League First Division,1,D
+1915-01-23,1914/1915,Blackpool,Leeds City,1-0,1,0,Football League Second Division,2,H
+1915-01-23,1914/1915,Bristol City,Nottingham Forest,1-2,1,2,Football League Second Division,2,A
+1915-01-23,1914/1915,Bury,Preston North End,0-0,0,0,Football League Second Division,2,D
+1915-01-23,1914/1915,Derby County,Fulham,1-1,1,1,Football League Second Division,2,D
+1915-01-23,1914/1915,Leyton Orient,Hull City,0-3,0,3,Football League Second Division,2,A
+1915-01-23,1914/1915,Lincoln City,Wolverhampton Wanderers,2-2,2,2,Football League Second Division,2,D
+1915-01-23,1914/1915,Birmingham City,Glossop North End,11-1,11,1,Football League Second Division,2,H
+1915-01-23,1914/1915,Grimsby Town,Barnsley,2-3,2,3,Football League Second Division,2,A
+1915-01-23,1914/1915,Arsenal,Stockport County,3-1,3,1,Football League Second Division,2,H
+1915-01-25,1914/1915,Bury,Blackpool,2-2,2,2,Football League Second Division,2,D
+1915-01-30,1914/1915,Manchester United,Notts County,2-2,2,2,Football League First Division,1,D
+1915-01-30,1914/1915,Stockport County,Derby County,3-2,3,2,Football League Second Division,2,H
+1915-01-30,1914/1915,Leicester City,Leyton Orient,1-1,1,1,Football League Second Division,2,D
+1915-01-30,1914/1915,Preston North End,Blackpool,1-0,1,0,Football League Second Division,2,H
+1915-01-30,1914/1915,Barnsley,Huddersfield Town,1-0,1,0,Football League Second Division,2,H
+1915-01-30,1914/1915,Glossop North End,Grimsby Town,0-0,0,0,Football League Second Division,2,D
+1915-02-01,1914/1915,Oldham Athletic,Sunderland,4-5,4,5,Football League First Division,1,A
+1915-02-03,1914/1915,Middlesbrough,Bradford City,3-0,3,0,Football League First Division,1,H
+1915-02-03,1914/1915,Leeds City,Leyton Orient,0-1,0,1,Football League Second Division,2,A
+1915-02-04,1914/1915,Nottingham Forest,Bury,1-1,1,1,Football League Second Division,2,D
+1915-02-06,1914/1915,Bradford City,Sheffield United,1-1,1,1,Football League First Division,1,D
+1915-02-06,1914/1915,West Bromwich Albion,Bradford Park Avenue,1-0,1,0,Football League First Division,1,H
+1915-02-06,1914/1915,Sunderland,Manchester United,1-0,1,0,Football League First Division,1,H
+1915-02-06,1914/1915,Sheffield Wednesday,Oldham Athletic,2-2,2,2,Football League First Division,1,D
+1915-02-06,1914/1915,Manchester City,Blackburn Rovers,1-3,1,3,Football League First Division,1,A
+1915-02-06,1914/1915,Everton,Liverpool,1-3,1,3,Football League First Division,1,A
+1915-02-06,1914/1915,Chelsea,Aston Villa,3-1,3,1,Football League First Division,1,H
+1915-02-06,1914/1915,Burnley,Middlesbrough,4-0,4,0,Football League First Division,1,H
+1915-02-06,1914/1915,Bristol City,Barnsley,3-1,3,1,Football League Second Division,2,H
+1915-02-06,1914/1915,Preston North End,Nottingham Forest,2-2,2,2,Football League Second Division,2,D
+1915-02-06,1914/1915,Lincoln City,Stockport County,2-2,2,2,Football League Second Division,2,D
+1915-02-06,1914/1915,Huddersfield Town,Glossop North End,0-1,0,1,Football League Second Division,2,A
+1915-02-06,1914/1915,Grimsby Town,Wolverhampton Wanderers,1-4,1,4,Football League Second Division,2,A
+1915-02-06,1914/1915,Derby County,Hull City,4-1,4,1,Football League Second Division,2,H
+1915-02-06,1914/1915,Bury,Leicester City,3-1,3,1,Football League Second Division,2,H
+1915-02-06,1914/1915,Blackpool,Leyton Orient,5-1,5,1,Football League Second Division,2,H
+1915-02-06,1914/1915,Arsenal,Leeds City,2-0,2,0,Football League Second Division,2,H
+1915-02-10,1914/1915,Aston Villa,Everton,1-5,1,5,Football League First Division,1,A
+1915-02-11,1914/1915,Preston North End,Bristol City,4-1,4,1,Football League Second Division,2,H
+1915-02-13,1914/1915,Middlesbrough,Tottenham Hotspur,7-5,7,5,Football League First Division,1,H
+1915-02-13,1914/1915,Blackburn Rovers,Notts County,5-1,5,1,Football League First Division,1,H
+1915-02-13,1914/1915,Sheffield United,Burnley,1-0,1,0,Football League First Division,1,H
+1915-02-13,1914/1915,Newcastle United,Manchester City,2-1,2,1,Football League First Division,1,H
+1915-02-13,1914/1915,Manchester United,Sheffield Wednesday,2-0,2,0,Football League First Division,1,H
+1915-02-13,1914/1915,Liverpool,Chelsea,3-3,3,3,Football League First Division,1,D
+1915-02-13,1914/1915,Aston Villa,Bradford City,0-0,0,0,Football League First Division,1,D
+1915-02-13,1914/1915,Leicester City,Preston North End,2-3,2,3,Football League Second Division,2,A
+1915-02-13,1914/1915,Leyton Orient,Arsenal,1-0,1,0,Football League Second Division,2,H
+1915-02-13,1914/1915,Stockport County,Birmingham City,3-1,3,1,Football League Second Division,2,H
+1915-02-13,1914/1915,Wolverhampton Wanderers,Huddersfield Town,4-1,4,1,Football League Second Division,2,H
+1915-02-13,1914/1915,Leeds City,Derby County,3-5,3,5,Football League Second Division,2,A
+1915-02-13,1914/1915,Nottingham Forest,Blackpool,2-1,2,1,Football League Second Division,2,H
+1915-02-13,1914/1915,Glossop North End,Bristol City,2-1,2,1,Football League Second Division,2,H
+1915-02-13,1914/1915,Barnsley,Bury,2-0,2,0,Football League Second Division,2,H
+1915-02-13,1914/1915,Fulham,Grimsby Town,2-1,2,1,Football League Second Division,2,H
+1915-02-20,1914/1915,West Bromwich Albion,Manchester United,0-0,0,0,Football League First Division,1,D
+1915-02-20,1914/1915,Tottenham Hotspur,Notts County,2-0,2,0,Football League First Division,1,H
+1915-02-20,1914/1915,Sunderland,Blackburn Rovers,5-1,5,1,Football League First Division,1,H
+1915-02-20,1914/1915,Preston North End,Barnsley,5-2,5,2,Football League Second Division,2,H
+1915-02-20,1914/1915,Nottingham Forest,Leicester City,1-3,1,3,Football League Second Division,2,A
+1915-02-20,1914/1915,Lincoln City,Leeds City,0-1,0,1,Football League Second Division,2,A
+1915-02-20,1914/1915,Huddersfield Town,Fulham,2-2,2,2,Football League Second Division,2,D
+1915-02-20,1914/1915,Derby County,Leyton Orient,0-3,0,3,Football League Second Division,2,A
+1915-02-20,1914/1915,Grimsby Town,Stockport County,6-1,6,1,Football League Second Division,2,H
+1915-02-20,1914/1915,Bristol City,Wolverhampton Wanderers,0-1,0,1,Football League Second Division,2,A
+1915-02-20,1914/1915,Blackpool,Arsenal,0-2,0,2,Football League Second Division,2,A
+1915-02-20,1914/1915,Bury,Glossop North End,5-0,5,0,Football League Second Division,2,H
+1915-02-22,1914/1915,Burnley,Aston Villa,2-1,2,1,Football League First Division,1,H
+1915-02-22,1914/1915,Manchester City,Notts County,0-0,0,0,Football League First Division,1,D
+1915-02-27,1914/1915,Liverpool,Burnley,3-0,3,0,Football League First Division,1,H
+1915-02-27,1914/1915,Oldham Athletic,Chelsea,0-0,0,0,Football League First Division,1,D
+1915-02-27,1914/1915,Notts County,Sunderland,2-1,2,1,Football League First Division,1,H
+1915-02-27,1914/1915,Middlesbrough,Manchester City,1-0,1,0,Football League First Division,1,H
+1915-02-27,1914/1915,Manchester United,Everton,1-2,1,2,Football League First Division,1,A
+1915-02-27,1914/1915,Bolton Wanderers,West Bromwich Albion,1-1,1,1,Football League First Division,1,D
+1915-02-27,1914/1915,Blackburn Rovers,Sheffield Wednesday,1-1,1,1,Football League First Division,1,D
+1915-02-27,1914/1915,Aston Villa,Tottenham Hotspur,3-1,3,1,Football League First Division,1,H
+1915-02-27,1914/1915,Sheffield United,Newcastle United,1-0,1,0,Football League First Division,1,H
+1915-02-27,1914/1915,Fulham,Bristol City,1-2,1,2,Football League Second Division,2,A
+1915-02-27,1914/1915,Glossop North End,Preston North End,0-1,0,1,Football League Second Division,2,A
+1915-02-27,1914/1915,Leeds City,Birmingham City,2-0,2,0,Football League Second Division,2,H
+1915-02-27,1914/1915,Wolverhampton Wanderers,Bury,1-1,1,1,Football League Second Division,2,D
+1915-02-27,1914/1915,Leyton Orient,Lincoln City,3-1,3,1,Football League Second Division,2,H
+1915-02-27,1914/1915,Stockport County,Huddersfield Town,2-1,2,1,Football League Second Division,2,H
+1915-02-27,1914/1915,Barnsley,Nottingham Forest,3-0,3,0,Football League Second Division,2,H
+1915-02-27,1914/1915,Leicester City,Blackpool,2-2,2,2,Football League Second Division,2,D
+1915-02-27,1914/1915,Arsenal,Derby County,1-2,1,2,Football League Second Division,2,A
+1915-03-01,1914/1915,Chelsea,Bradford Park Avenue,0-1,0,1,Football League First Division,1,A
+1915-03-01,1914/1915,Sheffield Wednesday,Bolton Wanderers,7-0,7,0,Football League First Division,1,H
+1915-03-01,1914/1915,Birmingham City,Fulham,1-0,1,0,Football League Second Division,2,H
+1915-03-06,1914/1915,Tottenham Hotspur,Liverpool,1-1,1,1,Football League First Division,1,D
+1915-03-06,1914/1915,West Bromwich Albion,Blackburn Rovers,0-0,0,0,Football League First Division,1,D
+1915-03-06,1914/1915,Sheffield Wednesday,Notts County,0-0,0,0,Football League First Division,1,D
+1915-03-06,1914/1915,Manchester City,Sunderland,2-0,2,0,Football League First Division,1,H
+1915-03-06,1914/1915,Burnley,Bradford Park Avenue,2-0,2,0,Football League First Division,1,H
+1915-03-06,1914/1915,Bury,Fulham,1-0,1,0,Football League Second Division,2,H
+1915-03-06,1914/1915,Nottingham Forest,Glossop North End,1-0,1,0,Football League Second Division,2,H
+1915-03-06,1914/1915,Lincoln City,Arsenal,1-0,1,0,Football League Second Division,2,H
+1915-03-06,1914/1915,Leicester City,Barnsley,0-1,0,1,Football League Second Division,2,A
+1915-03-06,1914/1915,Preston North End,Wolverhampton Wanderers,5-3,5,3,Football League Second Division,2,H
+1915-03-06,1914/1915,Grimsby Town,Leeds City,2-5,2,5,Football League Second Division,2,A
+1915-03-06,1914/1915,Bristol City,Stockport County,0-2,0,2,Football League Second Division,2,A
+1915-03-06,1914/1915,Birmingham City,Leyton Orient,1-0,1,0,Football League Second Division,2,H
+1915-03-06,1914/1915,Blackpool,Derby County,2-1,2,1,Football League Second Division,2,H
+1915-03-08,1914/1915,Sheffield United,Chelsea,1-1,1,1,Football League First Division,1,D
+1915-03-08,1914/1915,Barnsley,Birmingham City,2-1,2,1,Football League Second Division,2,H
+1915-03-09,1914/1915,Oldham Athletic,West Bromwich Albion,1-1,1,1,Football League First Division,1,D
+1915-03-10,1914/1915,Newcastle United,Middlesbrough,1-2,1,2,Football League First Division,1,A
+1915-03-10,1914/1915,Bradford City,Liverpool,3-2,3,2,Football League First Division,1,H
+1915-03-10,1914/1915,Bolton Wanderers,Sunderland,1-1,1,1,Football League First Division,1,D
+1915-03-11,1914/1915,Hull City,Lincoln City,6-1,6,1,Football League Second Division,2,H
+1915-03-13,1914/1915,Sunderland,Sheffield Wednesday,3-1,3,1,Football League First Division,1,H
+1915-03-13,1914/1915,Notts County,West Bromwich Albion,1-1,1,1,Football League First Division,1,D
+1915-03-13,1914/1915,Manchester United,Bradford City,1-0,1,0,Football League First Division,1,H
+1915-03-13,1914/1915,Liverpool,Manchester City,3-2,3,2,Football League First Division,1,H
+1915-03-13,1914/1915,Bradford Park Avenue,Tottenham Hotspur,5-1,5,1,Football League First Division,1,H
+1915-03-13,1914/1915,Bolton Wanderers,Burnley,3-1,3,1,Football League First Division,1,H
+1915-03-13,1914/1915,Blackburn Rovers,Everton,2-1,2,1,Football League First Division,1,H
+1915-03-13,1914/1915,Aston Villa,Middlesbrough,5-0,5,0,Football League First Division,1,H
+1915-03-13,1914/1915,Wolverhampton Wanderers,Nottingham Forest,5-1,5,1,Football League Second Division,2,H
+1915-03-13,1914/1915,Stockport County,Bury,1-0,1,0,Football League Second Division,2,H
+1915-03-13,1914/1915,Leyton Orient,Grimsby Town,2-1,2,1,Football League Second Division,2,H
+1915-03-13,1914/1915,Leeds City,Huddersfield Town,1-0,1,0,Football League Second Division,2,H
+1915-03-13,1914/1915,Hull City,Bristol City,1-1,1,1,Football League Second Division,2,D
+1915-03-13,1914/1915,Glossop North End,Leicester City,2-3,2,3,Football League Second Division,2,A
+1915-03-13,1914/1915,Fulham,Preston North End,0-2,0,2,Football League Second Division,2,A
+1915-03-13,1914/1915,Derby County,Lincoln City,3-0,3,0,Football League Second Division,2,H
+1915-03-13,1914/1915,Barnsley,Blackpool,1-2,1,2,Football League Second Division,2,A
+1915-03-13,1914/1915,Arsenal,Birmingham City,1-0,1,0,Football League Second Division,2,H
+1915-03-15,1914/1915,Tottenham Hotspur,Manchester City,2-2,2,2,Football League First Division,1,D
+1915-03-16,1914/1915,Glossop North End,Hull City,0-5,0,5,Football League Second Division,2,A
+1915-03-17,1914/1915,Bradford Park Avenue,Sheffield Wednesday,1-1,1,1,Football League First Division,1,D
+1915-03-17,1914/1915,Everton,Oldham Athletic,3-4,3,4,Football League First Division,1,A
+1915-03-17,1914/1915,Middlesbrough,Sheffield United,2-2,2,2,Football League First Division,1,D
+1915-03-17,1914/1915,Newcastle United,Chelsea,2-0,2,0,Football League First Division,1,H
+1915-03-17,1914/1915,Notts County,Bolton Wanderers,0-0,0,0,Football League First Division,1,D
+1915-03-20,1914/1915,Manchester City,Sheffield Wednesday,4-0,4,0,Football League First Division,1,H
+1915-03-20,1914/1915,Tottenham Hotspur,Oldham Athletic,1-0,1,0,Football League First Division,1,H
+1915-03-20,1914/1915,Sheffield United,Aston Villa,3-0,3,0,Football League First Division,1,H
+1915-03-20,1914/1915,Newcastle United,Bradford Park Avenue,1-1,1,1,Football League First Division,1,D
+1915-03-20,1914/1915,Middlesbrough,Liverpool,3-0,3,0,Football League First Division,1,H
+1915-03-20,1914/1915,West Bromwich Albion,Sunderland,1-2,1,2,Football League First Division,1,A
+1915-03-20,1914/1915,Everton,Notts County,4-0,4,0,Football League First Division,1,H
+1915-03-20,1914/1915,Chelsea,Blackburn Rovers,1-3,1,3,Football League First Division,1,A
+1915-03-20,1914/1915,Burnley,Manchester United,3-0,3,0,Football League First Division,1,H
+1915-03-20,1914/1915,Bradford City,Bolton Wanderers,4-2,4,2,Football League First Division,1,H
+1915-03-20,1914/1915,Blackpool,Lincoln City,0-0,0,0,Football League Second Division,2,D
+1915-03-20,1914/1915,Bristol City,Leeds City,1-0,1,0,Football League Second Division,2,H
+1915-03-20,1914/1915,Bury,Hull City,0-1,0,1,Football League Second Division,2,A
+1915-03-20,1914/1915,Grimsby Town,Arsenal,1-0,1,0,Football League Second Division,2,H
+1915-03-20,1914/1915,Birmingham City,Derby County,0-2,0,2,Football League Second Division,2,A
+1915-03-20,1914/1915,Leicester City,Wolverhampton Wanderers,0-3,0,3,Football League Second Division,2,A
+1915-03-20,1914/1915,Nottingham Forest,Fulham,2-2,2,2,Football League Second Division,2,D
+1915-03-20,1914/1915,Preston North End,Stockport County,2-0,2,0,Football League Second Division,2,H
+1915-03-20,1914/1915,Huddersfield Town,Leyton Orient,1-1,1,1,Football League Second Division,2,D
+1915-03-20,1914/1915,Barnsley,Glossop North End,2-0,2,0,Football League Second Division,2,H
+1915-03-22,1914/1915,Everton,Bolton Wanderers,5-3,5,3,Football League First Division,1,H
+1915-03-24,1914/1915,Bradford City,Oldham Athletic,1-0,1,0,Football League First Division,1,H
+1915-03-24,1914/1915,Liverpool,West Bromwich Albion,3-1,3,1,Football League First Division,1,H
+1915-03-24,1914/1915,Birmingham City,Hull City,2-2,2,2,Football League Second Division,2,D
+1915-03-25,1914/1915,Leicester City,Bristol City,1-3,1,3,Football League Second Division,2,A
+1915-03-27,1914/1915,Bradford Park Avenue,Middlesbrough,2-0,2,0,Football League First Division,1,H
+1915-03-27,1914/1915,Sheffield Wednesday,West Bromwich Albion,0-0,0,0,Football League First Division,1,D
+1915-03-27,1914/1915,Oldham Athletic,Newcastle United,1-0,1,0,Football League First Division,1,H
+1915-03-27,1914/1915,Manchester United,Tottenham Hotspur,1-1,1,1,Football League First Division,1,D
+1915-03-27,1914/1915,Hull City,Preston North End,0-1,0,1,Football League Second Division,2,A
+1915-03-27,1914/1915,Wolverhampton Wanderers,Barnsley,4-1,4,1,Football League Second Division,2,H
+1915-03-27,1914/1915,Stockport County,Nottingham Forest,1-0,1,0,Football League Second Division,2,H
+1915-03-27,1914/1915,Lincoln City,Birmingham City,0-1,0,1,Football League Second Division,2,A
+1915-03-27,1914/1915,Leyton Orient,Bristol City,2-0,2,0,Football League Second Division,2,H
+1915-03-27,1914/1915,Leeds City,Bury,2-1,2,1,Football League Second Division,2,H
+1915-03-27,1914/1915,Glossop North End,Blackpool,1-3,1,3,Football League Second Division,2,A
+1915-03-27,1914/1915,Derby County,Grimsby Town,1-1,1,1,Football League Second Division,2,D
+1915-03-27,1914/1915,Arsenal,Huddersfield Town,0-3,0,3,Football League Second Division,2,A
+1915-03-27,1914/1915,Fulham,Leicester City,1-0,1,0,Football League Second Division,2,H
+1915-03-29,1914/1915,Sheffield United,Manchester City,0-0,0,0,Football League First Division,1,D
+1915-03-29,1914/1915,Blackburn Rovers,Bradford City,2-1,2,1,Football League First Division,1,H
+1915-03-29,1914/1915,Liverpool,Newcastle United,2-2,2,2,Football League First Division,1,D
+1915-03-29,1914/1915,Fulham,Lincoln City,3-1,3,1,Football League Second Division,2,H
+1915-04-02,1914/1915,Sunderland,Middlesbrough,4-1,4,1,Football League First Division,1,H
+1915-04-02,1914/1915,Notts County,Sheffield United,3-1,3,1,Football League First Division,1,H
+1915-04-02,1914/1915,Manchester United,Liverpool,2-0,2,0,Football League First Division,1,H
+1915-04-02,1914/1915,Everton,Burnley,0-2,0,2,Football League First Division,1,A
+1915-04-02,1914/1915,Chelsea,Bradford City,2-0,2,0,Football League First Division,1,H
+1915-04-02,1914/1915,Bolton Wanderers,Bradford Park Avenue,3-2,3,2,Football League First Division,1,H
+1915-04-02,1914/1915,Aston Villa,Blackburn Rovers,2-1,2,1,Football League First Division,1,H
+1915-04-02,1914/1915,Tottenham Hotspur,Newcastle United,0-0,0,0,Football League First Division,1,D
+1915-04-02,1914/1915,Glossop North End,Leyton Orient,3-1,3,1,Football League Second Division,2,H
+1915-04-02,1914/1915,Stockport County,Fulham,0-2,0,2,Football League Second Division,2,A
+1915-04-02,1914/1915,Preston North End,Birmingham City,2-0,2,0,Football League Second Division,2,H
+1915-04-02,1914/1915,Lincoln City,Leicester City,2-3,2,3,Football League Second Division,2,A
+1915-04-02,1914/1915,Hull City,Arsenal,1-0,1,0,Football League Second Division,2,H
+1915-04-02,1914/1915,Bury,Grimsby Town,2-2,2,2,Football League Second Division,2,D
+1915-04-02,1914/1915,Blackpool,Huddersfield Town,3-2,3,2,Football League Second Division,2,H
+1915-04-02,1914/1915,Barnsley,Derby County,1-0,1,0,Football League Second Division,2,H
+1915-04-03,1914/1915,Burnley,Blackburn Rovers,3-2,3,2,Football League First Division,1,H
+1915-04-03,1914/1915,Sheffield United,Bradford Park Avenue,3-2,3,2,Football League First Division,1,H
+1915-04-03,1914/1915,Tottenham Hotspur,Bolton Wanderers,4-2,4,2,Football League First Division,1,H
+1915-04-03,1914/1915,Bradford City,Notts County,3-1,3,1,Football League First Division,1,H
+1915-04-03,1914/1915,Chelsea,Sunderland,3-0,3,0,Football League First Division,1,H
+1915-04-03,1914/1915,Aston Villa,Liverpool,6-2,6,2,Football League First Division,1,H
+1915-04-03,1914/1915,Manchester City,West Bromwich Albion,4-0,4,0,Football League First Division,1,H
+1915-04-03,1914/1915,Middlesbrough,Oldham Athletic,4-1,4,1,Football League First Division,1,H
+1915-04-03,1914/1915,Newcastle United,Manchester United,2-0,2,0,Football League First Division,1,H
+1915-04-03,1914/1915,Everton,Sheffield Wednesday,0-1,0,1,Football League First Division,1,A
+1915-04-03,1914/1915,Glossop North End,Wolverhampton Wanderers,0-2,0,2,Football League Second Division,2,A
+1915-04-03,1914/1915,Bury,Leyton Orient,3-0,3,0,Football League Second Division,2,H
+1915-04-03,1914/1915,Grimsby Town,Lincoln City,5-1,5,1,Football League Second Division,2,H
+1915-04-03,1914/1915,Bristol City,Arsenal,1-1,1,1,Football League Second Division,2,D
+1915-04-03,1914/1915,Leicester City,Stockport County,5-4,5,4,Football League Second Division,2,H
+1915-04-03,1914/1915,Nottingham Forest,Hull City,1-0,1,0,Football League Second Division,2,H
+1915-04-03,1914/1915,Preston North End,Leeds City,2-0,2,0,Football League Second Division,2,H
+1915-04-03,1914/1915,Huddersfield Town,Derby County,0-0,0,0,Football League Second Division,2,D
+1915-04-03,1914/1915,Barnsley,Fulham,2-2,2,2,Football League Second Division,2,D
+1915-04-05,1914/1915,West Bromwich Albion,Newcastle United,2-0,2,0,Football League First Division,1,H
+1915-04-05,1914/1915,Sheffield United,Sunderland,1-1,1,1,Football League First Division,1,D
+1915-04-05,1914/1915,Notts County,Aston Villa,1-1,1,1,Football League First Division,1,D
+1915-04-05,1914/1915,Middlesbrough,Sheffield Wednesday,3-1,3,1,Football League First Division,1,H
+1915-04-05,1914/1915,Manchester City,Oldham Athletic,0-0,0,0,Football League First Division,1,D
+1915-04-05,1914/1915,Liverpool,Blackburn Rovers,3-0,3,0,Football League First Division,1,H
+1915-04-05,1914/1915,Burnley,Chelsea,2-0,2,0,Football League First Division,1,H
+1915-04-05,1914/1915,Bradford Park Avenue,Manchester United,5-0,5,0,Football League First Division,1,H
+1915-04-05,1914/1915,Wolverhampton Wanderers,Leeds City,5-1,5,1,Football League Second Division,2,H
+1915-04-05,1914/1915,Blackpool,Stockport County,4-2,4,2,Football League Second Division,2,H
+1915-04-05,1914/1915,Lincoln City,Nottingham Forest,2-1,2,1,Football League Second Division,2,H
+1915-04-05,1914/1915,Leyton Orient,Glossop North End,5-2,5,2,Football League Second Division,2,H
+1915-04-05,1914/1915,Hull City,Fulham,2-0,2,0,Football League Second Division,2,H
+1915-04-05,1914/1915,Grimsby Town,Bury,1-0,1,0,Football League Second Division,2,H
+1915-04-05,1914/1915,Bristol City,Huddersfield Town,0-1,0,1,Football League Second Division,2,A
+1915-04-05,1914/1915,Birmingham City,Preston North End,1-1,1,1,Football League Second Division,2,D
+1915-04-05,1914/1915,Derby County,Leicester City,1-0,1,0,Football League Second Division,2,H
+1915-04-05,1914/1915,Arsenal,Barnsley,1-0,1,0,Football League Second Division,2,H
+1915-04-06,1914/1915,West Bromwich Albion,Tottenham Hotspur,3-2,3,2,Football League First Division,1,H
+1915-04-06,1914/1915,Oldham Athletic,Manchester United,1-0,1,0,Football League First Division,1,H
+1915-04-06,1914/1915,Bradford City,Manchester City,0-0,0,0,Football League First Division,1,D
+1915-04-06,1914/1915,Sunderland,Everton,0-3,0,3,Football League First Division,1,A
+1915-04-06,1914/1915,Leeds City,Wolverhampton Wanderers,2-3,2,3,Football League Second Division,2,A
+1915-04-06,1914/1915,Huddersfield Town,Bristol City,5-3,5,3,Football League Second Division,2,H
+1915-04-06,1914/1915,Fulham,Hull City,4-1,4,1,Football League Second Division,2,H
+1915-04-10,1914/1915,Oldham Athletic,Sheffield United,3-0,3,0,Football League First Division,1,H
+1915-04-10,1914/1915,West Bromwich Albion,Everton,1-2,1,2,Football League First Division,1,A
+1915-04-10,1914/1915,Blackburn Rovers,Tottenham Hotspur,4-1,4,1,Football League First Division,1,H
+1915-04-10,1914/1915,Bolton Wanderers,Newcastle United,0-0,0,0,Football League First Division,1,D
+1915-04-10,1914/1915,Bradford Park Avenue,Aston Villa,2-2,2,2,Football League First Division,1,D
+1915-04-10,1914/1915,Manchester United,Middlesbrough,2-2,2,2,Football League First Division,1,D
+1915-04-10,1914/1915,Sheffield Wednesday,Chelsea,3-2,3,2,Football League First Division,1,H
+1915-04-10,1914/1915,Sunderland,Bradford City,1-1,1,1,Football League First Division,1,D
+1915-04-10,1914/1915,Notts County,Burnley,0-0,0,0,Football League First Division,1,D
+1915-04-10,1914/1915,Derby County,Bristol City,1-0,1,0,Football League Second Division,2,H
+1915-04-10,1914/1915,Wolverhampton Wanderers,Blackpool,2-0,2,0,Football League Second Division,2,H
+1915-04-10,1914/1915,Stockport County,Barnsley,1-2,1,2,Football League Second Division,2,A
+1915-04-10,1914/1915,Lincoln City,Huddersfield Town,1-1,1,1,Football League Second Division,2,D
+1915-04-10,1914/1915,Leyton Orient,Preston North End,1-1,1,1,Football League Second Division,2,D
+1915-04-10,1914/1915,Leeds City,Nottingham Forest,4-0,4,0,Football League Second Division,2,H
+1915-04-10,1914/1915,Hull City,Leicester City,2-1,2,1,Football League Second Division,2,H
+1915-04-10,1914/1915,Fulham,Glossop North End,2-0,2,0,Football League Second Division,2,H
+1915-04-10,1914/1915,Birmingham City,Grimsby Town,3-0,3,0,Football League Second Division,2,H
+1915-04-10,1914/1915,Arsenal,Bury,3-1,3,1,Football League Second Division,2,H
+1915-04-12,1914/1915,Liverpool,Sheffield United,2-1,2,1,Football League First Division,1,H
+1915-04-14,1914/1915,Bolton Wanderers,Chelsea,3-1,3,1,Football League First Division,1,H
+1915-04-14,1914/1915,Bradford Park Avenue,Everton,1-2,1,2,Football League First Division,1,A
+1915-04-14,1914/1915,Newcastle United,Burnley,1-2,1,2,Football League First Division,1,A
+1915-04-14,1914/1915,Blackpool,Birmingham City,3-1,3,1,Football League Second Division,2,H
+1915-04-15,1914/1915,Hull City,Huddersfield Town,0-4,0,4,Football League Second Division,2,A
+1915-04-17,1914/1915,Sheffield United,Manchester United,3-1,3,1,Football League First Division,1,H
+1915-04-17,1914/1915,Aston Villa,Oldham Athletic,0-0,0,0,Football League First Division,1,D
+1915-04-17,1914/1915,Newcastle United,Blackburn Rovers,2-1,2,1,Football League First Division,1,H
+1915-04-17,1914/1915,Middlesbrough,Bolton Wanderers,0-0,0,0,Football League First Division,1,D
+1915-04-17,1914/1915,Manchester City,Everton,0-1,0,1,Football League First Division,1,A
+1915-04-17,1914/1915,Liverpool,Bradford Park Avenue,2-1,2,1,Football League First Division,1,H
+1915-04-17,1914/1915,Chelsea,West Bromwich Albion,4-1,4,1,Football League First Division,1,H
+1915-04-17,1914/1915,Burnley,Sunderland,2-1,2,1,Football League First Division,1,H
+1915-04-17,1914/1915,Bradford City,Sheffield Wednesday,1-0,1,0,Football League First Division,1,H
+1915-04-17,1914/1915,Bury,Derby County,2-0,2,0,Football League Second Division,2,H
+1915-04-17,1914/1915,Glossop North End,Stockport County,1-1,1,1,Football League Second Division,2,D
+1915-04-17,1914/1915,Huddersfield Town,Birmingham City,0-0,0,0,Football League Second Division,2,D
+1915-04-17,1914/1915,Bristol City,Lincoln City,2-1,2,1,Football League Second Division,2,H
+1915-04-17,1914/1915,Nottingham Forest,Leyton Orient,0-1,0,1,Football League Second Division,2,A
+1915-04-17,1914/1915,Preston North End,Arsenal,3-0,3,0,Football League Second Division,2,H
+1915-04-17,1914/1915,Wolverhampton Wanderers,Fulham,2-0,2,0,Football League Second Division,2,H
+1915-04-17,1914/1915,Leicester City,Leeds City,5-1,5,1,Football League Second Division,2,H
+1915-04-17,1914/1915,Blackpool,Grimsby Town,5-0,5,0,Football League Second Division,2,H
+1915-04-17,1914/1915,Barnsley,Hull City,1-0,1,0,Football League Second Division,2,H
+1915-04-19,1914/1915,Tottenham Hotspur,Sheffield United,1-1,1,1,Football League First Division,1,D
+1915-04-19,1914/1915,Chelsea,Manchester United,1-3,1,3,Football League First Division,1,A
+1915-04-19,1914/1915,Wolverhampton Wanderers,Birmingham City,0-0,0,0,Football League Second Division,2,D
+1915-04-20,1914/1915,Oldham Athletic,Burnley,1-2,1,2,Football League First Division,1,A
+1915-04-21,1914/1915,Aston Villa,Manchester City,4-1,4,1,Football League First Division,1,H
+1915-04-24,1914/1915,West Bromwich Albion,Bradford City,3-0,3,0,Football League First Division,1,H
+1915-04-24,1914/1915,Sunderland,Tottenham Hotspur,5-0,5,0,Football League First Division,1,H
+1915-04-24,1914/1915,Sheffield Wednesday,Burnley,0-0,0,0,Football League First Division,1,D
+1915-04-24,1914/1915,Oldham Athletic,Liverpool,0-2,0,2,Football League First Division,1,A
+1915-04-24,1914/1915,Notts County,Newcastle United,1-0,1,0,Football League First Division,1,H
+1915-04-24,1914/1915,Bradford Park Avenue,Manchester City,3-1,3,1,Football League First Division,1,H
+1915-04-24,1914/1915,Blackburn Rovers,Middlesbrough,4-0,4,0,Football League First Division,1,H
+1915-04-24,1914/1915,Grimsby Town,Huddersfield Town,0-0,0,0,Football League Second Division,2,D
+1915-04-24,1914/1915,Fulham,Blackpool,0-1,0,1,Football League Second Division,2,A
+1915-04-24,1914/1915,Hull City,Glossop North End,2-0,2,0,Football League Second Division,2,H
+1915-04-24,1914/1915,Derby County,Preston North End,2-0,2,0,Football League Second Division,2,H
+1915-04-24,1914/1915,Leyton Orient,Leicester City,2-0,2,0,Football League Second Division,2,H
+1915-04-24,1914/1915,Lincoln City,Bury,2-3,2,3,Football League Second Division,2,A
+1915-04-24,1914/1915,Leeds City,Barnsley,0-2,0,2,Football League Second Division,2,A
+1915-04-24,1914/1915,Stockport County,Wolverhampton Wanderers,2-2,2,2,Football League Second Division,2,D
+1915-04-24,1914/1915,Arsenal,Nottingham Forest,7-0,7,0,Football League Second Division,2,H
+1915-04-24,1914/1915,Birmingham City,Bristol City,1-1,1,1,Football League Second Division,2,D
+1915-04-26,1914/1915,Bolton Wanderers,Sheffield United,0-1,0,1,Football League First Division,1,A
+1915-04-26,1914/1915,Everton,Chelsea,2-2,2,2,Football League First Division,1,D
+1915-04-26,1914/1915,Manchester United,Aston Villa,1-0,1,0,Football League First Division,1,H
+1915-04-28,1914/1915,Notts County,Chelsea,2-0,2,0,Football League First Division,1,H
+1915-04-28,1914/1915,Newcastle United,Aston Villa,3-0,3,0,Football League First Division,1,H
+1915-04-28,1914/1915,Bradford Park Avenue,Bradford City,3-0,3,0,Football League First Division,1,H
+1915-04-29,1914/1915,Hull City,Grimsby Town,4-1,4,1,Football League Second Division,2,H

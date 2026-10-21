@@ -1,0 +1,2037 @@
+Date,Season,HomeTeam,AwayTeam,Score,hGoal,aGoal,Division,Tier,Result
+1988-08-27,1988/1989,Aston Villa,Millwall,2-2,2,2,Football League First Division,1,D
+1988-08-27,1988/1989,Charlton Athletic,Liverpool,0-3,0,3,Football League First Division,1,A
+1988-08-27,1988/1989,Derby County,Middlesbrough,1-0,1,0,Football League First Division,1,H
+1988-08-27,1988/1989,Everton,Newcastle United,4-0,4,0,Football League First Division,1,H
+1988-08-27,1988/1989,Manchester United,Queens Park Rangers,0-0,0,0,Football League First Division,1,D
+1988-08-27,1988/1989,Norwich City,Nottingham Forest,2-1,2,1,Football League First Division,1,H
+1988-08-27,1988/1989,Sheffield Wednesday,Luton Town,1-0,1,0,Football League First Division,1,H
+1988-08-27,1988/1989,Southampton,West Ham United,4-0,4,0,Football League First Division,1,H
+1988-08-27,1988/1989,Wimbledon,Arsenal,1-5,1,5,Football League First Division,1,A
+1988-08-27,1988/1989,Torquay United,Halifax Town,0-2,0,2,Football League Fourth Division,4,A
+1988-08-27,1988/1989,Burnley,Rochdale,2-1,2,1,Football League Fourth Division,4,H
+1988-08-27,1988/1989,Carlisle United,Peterborough United,2-2,2,2,Football League Fourth Division,4,D
+1988-08-27,1988/1989,Colchester United,York City,1-0,1,0,Football League Fourth Division,4,H
+1988-08-27,1988/1989,Darlington,Stockport County,1-4,1,4,Football League Fourth Division,4,A
+1988-08-27,1988/1989,Exeter City,Wrexham,0-2,0,2,Football League Fourth Division,4,A
+1988-08-27,1988/1989,Leyton Orient,Crewe Alexandra,0-0,0,0,Football League Fourth Division,4,D
+1988-08-27,1988/1989,Lincoln City,Hartlepool United,0-1,0,1,Football League Fourth Division,4,A
+1988-08-27,1988/1989,Rotherham United,Doncaster Rovers,3-0,3,0,Football League Fourth Division,4,H
+1988-08-27,1988/1989,Scarborough,Tranmere Rovers,0-0,0,0,Football League Fourth Division,4,D
+1988-08-27,1988/1989,Scunthorpe United,Hereford United,3-1,3,1,Football League Fourth Division,4,H
+1988-08-27,1988/1989,Cambridge United,Grimsby Town,4-1,4,1,Football League Fourth Division,4,H
+1988-08-27,1988/1989,Brighton & Hove Albion,Bradford City,1-3,1,3,Football League Second Division,2,A
+1988-08-27,1988/1989,Hull City,Manchester City,1-0,1,0,Football League Second Division,2,H
+1988-08-27,1988/1989,Leeds United,Oxford United,1-1,1,1,Football League Second Division,2,D
+1988-08-27,1988/1989,Leicester City,West Bromwich Albion,1-1,1,1,Football League Second Division,2,D
+1988-08-27,1988/1989,Oldham Athletic,Barnsley,1-1,1,1,Football League Second Division,2,D
+1988-08-27,1988/1989,Shrewsbury Town,Portsmouth,1-2,1,2,Football League Second Division,2,A
+1988-08-27,1988/1989,Stoke City,Ipswich Town,1-1,1,1,Football League Second Division,2,D
+1988-08-27,1988/1989,Sunderland,AFC Bournemouth,1-1,1,1,Football League Second Division,2,D
+1988-08-27,1988/1989,Walsall,Plymouth Argyle,2-2,2,2,Football League Second Division,2,D
+1988-08-27,1988/1989,Watford,Birmingham City,1-0,1,0,Football League Second Division,2,H
+1988-08-27,1988/1989,Chelsea,Blackburn Rovers,1-2,1,2,Football League Second Division,2,A
+1988-08-27,1988/1989,Cardiff City,Fulham,1-2,1,2,Football League Third Division,3,A
+1988-08-27,1988/1989,Chesterfield,Aldershot,2-1,2,1,Football League Third Division,3,H
+1988-08-27,1988/1989,Gillingham,Swansea City,2-3,2,3,Football League Third Division,3,A
+1988-08-27,1988/1989,Mansfield Town,Northampton Town,1-1,1,1,Football League Third Division,3,D
+1988-08-27,1988/1989,Notts County,Bristol City,0-0,0,0,Football League Third Division,3,D
+1988-08-27,1988/1989,Preston North End,Port Vale,1-3,1,3,Football League Third Division,3,A
+1988-08-27,1988/1989,Reading,Sheffield United,1-3,1,3,Football League Third Division,3,A
+1988-08-27,1988/1989,Southend United,Bolton Wanderers,2-0,2,0,Football League Third Division,3,H
+1988-08-27,1988/1989,Bury,Wolverhampton Wanderers,3-1,3,1,Football League Third Division,3,H
+1988-08-27,1988/1989,Chester,Blackpool,1-1,1,1,Football League Third Division,3,D
+1988-08-27,1988/1989,Brentford,Huddersfield Town,1-0,1,0,Football League Third Division,3,H
+1988-08-27,1988/1989,Bristol Rovers,Wigan Athletic,3-2,3,2,Football League Third Division,3,H
+1988-08-29,1988/1989,Portsmouth,Leicester City,3-0,3,0,Football League Second Division,2,H
+1988-08-29,1988/1989,West Bromwich Albion,Watford,0-1,0,1,Football League Second Division,2,A
+1988-08-29,1988/1989,Oxford United,Hull City,1-0,1,0,Football League Second Division,2,H
+1988-08-29,1988/1989,Bradford City,Stoke City,0-0,0,0,Football League Second Division,2,D
+1988-08-29,1988/1989,Barnsley,Swindon Town,1-1,1,1,Football League Second Division,2,D
+1988-08-29,1988/1989,Manchester City,Oldham Athletic,1-4,1,4,Football League Second Division,2,A
+1988-08-30,1988/1989,Crystal Palace,Chelsea,1-1,1,1,Football League Second Division,2,D
+1988-09-02,1988/1989,Tranmere Rovers,Colchester United,0-0,0,0,Football League Fourth Division,4,D
+1988-09-03,1988/1989,Arsenal,Aston Villa,2-3,2,3,Football League First Division,1,A
+1988-09-03,1988/1989,Coventry City,Everton,0-1,0,1,Football League First Division,1,A
+1988-09-03,1988/1989,Liverpool,Manchester United,1-0,1,0,Football League First Division,1,H
+1988-09-03,1988/1989,Luton Town,Wimbledon,2-2,2,2,Football League First Division,1,D
+1988-09-03,1988/1989,Middlesbrough,Norwich City,2-3,2,3,Football League First Division,1,A
+1988-09-03,1988/1989,Millwall,Derby County,1-0,1,0,Football League First Division,1,H
+1988-09-03,1988/1989,Newcastle United,Tottenham Hotspur,2-2,2,2,Football League First Division,1,D
+1988-09-03,1988/1989,Nottingham Forest,Sheffield Wednesday,1-1,1,1,Football League First Division,1,D
+1988-09-03,1988/1989,Queens Park Rangers,Southampton,0-1,0,1,Football League First Division,1,A
+1988-09-03,1988/1989,West Ham United,Charlton Athletic,1-3,1,3,Football League First Division,1,A
+1988-09-03,1988/1989,Doncaster Rovers,Exeter City,2-1,2,1,Football League Fourth Division,4,H
+1988-09-03,1988/1989,Grimsby Town,Torquay United,1-0,1,0,Football League Fourth Division,4,H
+1988-09-03,1988/1989,Halifax Town,Burnley,1-2,1,2,Football League Fourth Division,4,A
+1988-09-03,1988/1989,Hartlepool United,Darlington,2-1,2,1,Football League Fourth Division,4,H
+1988-09-03,1988/1989,Hereford United,Cambridge United,4-2,4,2,Football League Fourth Division,4,H
+1988-09-03,1988/1989,Peterborough United,Scarborough,1-4,1,4,Football League Fourth Division,4,A
+1988-09-03,1988/1989,Rochdale,Rotherham United,0-2,0,2,Football League Fourth Division,4,A
+1988-09-03,1988/1989,York City,Carlisle United,1-1,1,1,Football League Fourth Division,4,D
+1988-09-03,1988/1989,Wrexham,Lincoln City,3-0,3,0,Football League Fourth Division,4,H
+1988-09-03,1988/1989,Crewe Alexandra,Scunthorpe United,3-2,3,2,Football League Fourth Division,4,H
+1988-09-03,1988/1989,Stockport County,Leyton Orient,0-0,0,0,Football League Fourth Division,4,D
+1988-09-03,1988/1989,Portsmouth,Leeds United,4-0,4,0,Football League Second Division,2,H
+1988-09-03,1988/1989,West Bromwich Albion,Swindon Town,3-1,3,1,Football League Second Division,2,H
+1988-09-03,1988/1989,Barnsley,Stoke City,1-0,1,0,Football League Second Division,2,H
+1988-09-03,1988/1989,Birmingham City,Leicester City,2-3,2,3,Football League Second Division,2,A
+1988-09-03,1988/1989,Blackburn Rovers,Oldham Athletic,3-1,3,1,Football League Second Division,2,H
+1988-09-03,1988/1989,Bradford City,Shrewsbury Town,1-0,1,0,Football League Second Division,2,H
+1988-09-03,1988/1989,Crystal Palace,Watford,0-2,0,2,Football League Second Division,2,A
+1988-09-03,1988/1989,Ipswich Town,Sunderland,2-0,2,0,Football League Second Division,2,H
+1988-09-03,1988/1989,Manchester City,Walsall,2-2,2,2,Football League Second Division,2,D
+1988-09-03,1988/1989,Oxford United,Brighton & Hove Albion,3-2,3,2,Football League Second Division,2,H
+1988-09-03,1988/1989,Plymouth Argyle,Hull City,2-0,2,0,Football League Second Division,2,H
+1988-09-03,1988/1989,AFC Bournemouth,Chelsea,1-0,1,0,Football League Second Division,2,H
+1988-09-03,1988/1989,Bolton Wanderers,Cardiff City,4-0,4,0,Football League Third Division,3,H
+1988-09-03,1988/1989,Bristol City,Chesterfield,4-0,4,0,Football League Third Division,3,H
+1988-09-03,1988/1989,Fulham,Southend United,1-0,1,0,Football League Third Division,3,H
+1988-09-03,1988/1989,Huddersfield Town,Preston North End,2-0,2,0,Football League Third Division,3,H
+1988-09-03,1988/1989,Northampton Town,Brentford,1-0,1,0,Football League Third Division,3,H
+1988-09-03,1988/1989,Port Vale,Chester,1-2,1,2,Football League Third Division,3,A
+1988-09-03,1988/1989,Sheffield United,Bristol Rovers,4-1,4,1,Football League Third Division,3,H
+1988-09-03,1988/1989,Swansea City,Bury,1-1,1,1,Football League Third Division,3,D
+1988-09-03,1988/1989,Wigan Athletic,Mansfield Town,0-0,0,0,Football League Third Division,3,D
+1988-09-03,1988/1989,Wolverhampton Wanderers,Reading,2-1,2,1,Football League Third Division,3,H
+1988-09-03,1988/1989,Blackpool,Notts County,0-1,0,1,Football League Third Division,3,A
+1988-09-03,1988/1989,Aldershot,Gillingham,0-2,0,2,Football League Third Division,3,A
+1988-09-09,1988/1989,Colchester United,Doncaster Rovers,0-1,0,1,Football League Fourth Division,4,A
+1988-09-09,1988/1989,Southend United,Swansea City,0-2,0,2,Football League Third Division,3,A
+1988-09-10,1988/1989,Everton,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1988-09-10,1988/1989,Aston Villa,Liverpool,1-1,1,1,Football League First Division,1,D
+1988-09-10,1988/1989,Charlton Athletic,Millwall,0-3,0,3,Football League First Division,1,A
+1988-09-10,1988/1989,Derby County,Newcastle United,2-0,2,0,Football League First Division,1,H
+1988-09-10,1988/1989,Manchester United,Middlesbrough,1-0,1,0,Football League First Division,1,H
+1988-09-10,1988/1989,Norwich City,Queens Park Rangers,1-0,1,0,Football League First Division,1,H
+1988-09-10,1988/1989,Sheffield Wednesday,Coventry City,1-2,1,2,Football League First Division,1,A
+1988-09-10,1988/1989,Southampton,Luton Town,2-1,2,1,Football League First Division,1,H
+1988-09-10,1988/1989,Tottenham Hotspur,Arsenal,2-3,2,3,Football League First Division,1,A
+1988-09-10,1988/1989,Wimbledon,West Ham United,0-1,0,1,Football League First Division,1,A
+1988-09-10,1988/1989,Torquay United,Hartlepool United,2-0,2,0,Football League Fourth Division,4,H
+1988-09-10,1988/1989,Burnley,York City,6-0,6,0,Football League Fourth Division,4,H
+1988-09-10,1988/1989,Carlisle United,Tranmere Rovers,1-1,1,1,Football League Fourth Division,4,D
+1988-09-10,1988/1989,Darlington,Peterborough United,2-2,2,2,Football League Fourth Division,4,D
+1988-09-10,1988/1989,Exeter City,Halifax Town,4-1,4,1,Football League Fourth Division,4,H
+1988-09-10,1988/1989,Leyton Orient,Hereford United,1-3,1,3,Football League Fourth Division,4,A
+1988-09-10,1988/1989,Lincoln City,Crewe Alexandra,2-2,2,2,Football League Fourth Division,4,D
+1988-09-10,1988/1989,Rotherham United,Wrexham,2-2,2,2,Football League Fourth Division,4,D
+1988-09-10,1988/1989,Scarborough,Rochdale,3-3,3,3,Football League Fourth Division,4,D
+1988-09-10,1988/1989,Scunthorpe United,Grimsby Town,1-1,1,1,Football League Fourth Division,4,D
+1988-09-10,1988/1989,Cambridge United,Stockport County,1-0,1,0,Football League Fourth Division,4,H
+1988-09-10,1988/1989,Brighton & Hove Albion,AFC Bournemouth,1-2,1,2,Football League Second Division,2,A
+1988-09-10,1988/1989,Hull City,Barnsley,0-0,0,0,Football League Second Division,2,D
+1988-09-10,1988/1989,Leeds United,Manchester City,1-1,1,1,Football League Second Division,2,D
+1988-09-10,1988/1989,Leicester City,Ipswich Town,0-1,0,1,Football League Second Division,2,A
+1988-09-10,1988/1989,Oldham Athletic,Birmingham City,4-0,4,0,Football League Second Division,2,H
+1988-09-10,1988/1989,Shrewsbury Town,West Bromwich Albion,1-1,1,1,Football League Second Division,2,D
+1988-09-10,1988/1989,Stoke City,Blackburn Rovers,0-1,0,1,Football League Second Division,2,A
+1988-09-10,1988/1989,Sunderland,Bradford City,0-0,0,0,Football League Second Division,2,D
+1988-09-10,1988/1989,Walsall,Crystal Palace,0-0,0,0,Football League Second Division,2,D
+1988-09-10,1988/1989,Chelsea,Oxford United,1-1,1,1,Football League Second Division,2,D
+1988-09-10,1988/1989,Watford,Plymouth Argyle,3-0,3,0,Football League Second Division,2,H
+1988-09-10,1988/1989,Cardiff City,Huddersfield Town,3-0,3,0,Football League Third Division,3,H
+1988-09-10,1988/1989,Chester,Bristol City,2-0,2,0,Football League Third Division,3,H
+1988-09-10,1988/1989,Chesterfield,Wolverhampton Wanderers,0-3,0,3,Football League Third Division,3,A
+1988-09-10,1988/1989,Gillingham,Sheffield United,2-1,2,1,Football League Third Division,3,H
+1988-09-10,1988/1989,Mansfield Town,Fulham,3-1,3,1,Football League Third Division,3,H
+1988-09-10,1988/1989,Notts County,Northampton Town,0-1,0,1,Football League Third Division,3,A
+1988-09-10,1988/1989,Preston North End,Blackpool,1-0,1,0,Football League Third Division,3,H
+1988-09-10,1988/1989,Reading,Bolton Wanderers,1-1,1,1,Football League Third Division,3,D
+1988-09-10,1988/1989,Bury,Port Vale,0-0,0,0,Football League Third Division,3,D
+1988-09-10,1988/1989,Brentford,Wigan Athletic,1-1,1,1,Football League Third Division,3,D
+1988-09-10,1988/1989,Bristol Rovers,Aldershot,2-2,2,2,Football League Third Division,3,D
+1988-09-11,1988/1989,Swindon Town,Portsmouth,1-1,1,1,Football League Second Division,2,D
+1988-09-16,1988/1989,Tranmere Rovers,Cambridge United,1-2,1,2,Football League Fourth Division,4,A
+1988-09-16,1988/1989,Wrexham,Colchester United,2-2,2,2,Football League Fourth Division,4,D
+1988-09-16,1988/1989,Halifax Town,Carlisle United,3-3,3,3,Football League Fourth Division,4,D
+1988-09-16,1988/1989,Doncaster Rovers,Torquay United,1-2,1,2,Football League Fourth Division,4,A
+1988-09-16,1988/1989,Stockport County,Burnley,0-0,0,0,Football League Fourth Division,4,D
+1988-09-17,1988/1989,Arsenal,Southampton,2-2,2,2,Football League First Division,1,D
+1988-09-17,1988/1989,Liverpool,Tottenham Hotspur,1-1,1,1,Football League First Division,1,D
+1988-09-17,1988/1989,Luton Town,Manchester United,0-2,0,2,Football League First Division,1,A
+1988-09-17,1988/1989,Middlesbrough,Wimbledon,1-0,1,0,Football League First Division,1,H
+1988-09-17,1988/1989,Millwall,Everton,2-1,2,1,Football League First Division,1,H
+1988-09-17,1988/1989,Newcastle United,Norwich City,0-2,0,2,Football League First Division,1,A
+1988-09-17,1988/1989,Nottingham Forest,Derby County,1-1,1,1,Football League First Division,1,D
+1988-09-17,1988/1989,Queens Park Rangers,Sheffield Wednesday,2-0,2,0,Football League First Division,1,H
+1988-09-17,1988/1989,Coventry City,Charlton Athletic,3-0,3,0,Football League First Division,1,H
+1988-09-17,1988/1989,West Ham United,Aston Villa,2-2,2,2,Football League First Division,1,D
+1988-09-17,1988/1989,Crewe Alexandra,Darlington,2-0,2,0,Football League Fourth Division,4,H
+1988-09-17,1988/1989,York City,Scunthorpe United,1-2,1,2,Football League Fourth Division,4,A
+1988-09-17,1988/1989,Hartlepool United,Leyton Orient,1-0,1,0,Football League Fourth Division,4,H
+1988-09-17,1988/1989,Hereford United,Scarborough,1-3,1,3,Football League Fourth Division,4,A
+1988-09-17,1988/1989,Peterborough United,Lincoln City,1-1,1,1,Football League Fourth Division,4,D
+1988-09-17,1988/1989,Rochdale,Exeter City,2-1,2,1,Football League Fourth Division,4,H
+1988-09-17,1988/1989,Grimsby Town,Rotherham United,0-4,0,4,Football League Fourth Division,4,A
+1988-09-17,1988/1989,West Bromwich Albion,Walsall,0-0,0,0,Football League Second Division,2,D
+1988-09-17,1988/1989,Portsmouth,Hull City,1-3,1,3,Football League Second Division,2,A
+1988-09-17,1988/1989,Oxford United,Leicester City,1-1,1,1,Football League Second Division,2,D
+1988-09-17,1988/1989,Plymouth Argyle,Stoke City,4-0,4,0,Football League Second Division,2,H
+1988-09-17,1988/1989,AFC Bournemouth,Leeds United,0-0,0,0,Football League Second Division,2,D
+1988-09-17,1988/1989,Barnsley,Chelsea,1-1,1,1,Football League Second Division,2,D
+1988-09-17,1988/1989,Birmingham City,Sunderland,3-2,3,2,Football League Second Division,2,H
+1988-09-17,1988/1989,Blackburn Rovers,Swindon Town,0-0,0,0,Football League Second Division,2,D
+1988-09-17,1988/1989,Bradford City,Oldham Athletic,2-0,2,0,Football League Second Division,2,H
+1988-09-17,1988/1989,Crystal Palace,Shrewsbury Town,1-1,1,1,Football League Second Division,2,D
+1988-09-17,1988/1989,Ipswich Town,Watford,3-2,3,2,Football League Second Division,2,H
+1988-09-17,1988/1989,Manchester City,Brighton & Hove Albion,2-1,2,1,Football League Second Division,2,H
+1988-09-17,1988/1989,Port Vale,Cardiff City,6-1,6,1,Football League Third Division,3,H
+1988-09-17,1988/1989,Aldershot,Southend United,2-2,2,2,Football League Third Division,3,D
+1988-09-17,1988/1989,Blackpool,Mansfield Town,1-1,1,1,Football League Third Division,3,D
+1988-09-17,1988/1989,Bolton Wanderers,Bristol Rovers,1-1,1,1,Football League Third Division,3,D
+1988-09-17,1988/1989,Bristol City,Preston North End,1-1,1,1,Football League Third Division,3,D
+1988-09-17,1988/1989,Fulham,Bury,1-0,1,0,Football League Third Division,3,H
+1988-09-17,1988/1989,Huddersfield Town,Gillingham,1-1,1,1,Football League Third Division,3,D
+1988-09-17,1988/1989,Northampton Town,Chesterfield,3-0,3,0,Football League Third Division,3,H
+1988-09-17,1988/1989,Sheffield United,Chester,6-1,6,1,Football League Third Division,3,H
+1988-09-17,1988/1989,Wigan Athletic,Reading,3-0,3,0,Football League Third Division,3,H
+1988-09-17,1988/1989,Wolverhampton Wanderers,Notts County,0-0,0,0,Football League Third Division,3,D
+1988-09-17,1988/1989,Swansea City,Brentford,1-1,1,1,Football League Third Division,3,D
+1988-09-19,1988/1989,Stockport County,Halifax Town,1-1,1,1,Football League Fourth Division,4,D
+1988-09-19,1988/1989,Tranmere Rovers,Peterborough United,1-0,1,0,Football League Fourth Division,4,H
+1988-09-19,1988/1989,Port Vale,Chesterfield,5-0,5,0,Football League Third Division,3,H
+1988-09-20,1988/1989,York City,Hartlepool United,2-3,2,3,Football League Fourth Division,4,A
+1988-09-20,1988/1989,Wrexham,Grimsby Town,1-2,1,2,Football League Fourth Division,4,A
+1988-09-20,1988/1989,Torquay United,Burnley,2-0,2,0,Football League Fourth Division,4,H
+1988-09-20,1988/1989,Scunthorpe United,Carlisle United,1-1,1,1,Football League Fourth Division,4,D
+1988-09-20,1988/1989,Rotherham United,Leyton Orient,4-1,4,1,Football League Fourth Division,4,H
+1988-09-20,1988/1989,Rochdale,Doncaster Rovers,2-0,2,0,Football League Fourth Division,4,H
+1988-09-20,1988/1989,Darlington,Exeter City,2-2,2,2,Football League Fourth Division,4,D
+1988-09-20,1988/1989,Colchester United,Scarborough,3-1,3,1,Football League Fourth Division,4,H
+1988-09-20,1988/1989,Cambridge United,Lincoln City,2-3,2,3,Football League Fourth Division,4,A
+1988-09-20,1988/1989,Chelsea,Manchester City,1-3,1,3,Football League Second Division,2,A
+1988-09-20,1988/1989,Hull City,Blackburn Rovers,1-3,1,3,Football League Second Division,2,A
+1988-09-20,1988/1989,Shrewsbury Town,Ipswich Town,1-5,1,5,Football League Second Division,2,A
+1988-09-20,1988/1989,Stoke City,Portsmouth,2-2,2,2,Football League Second Division,2,D
+1988-09-20,1988/1989,Sunderland,Crystal Palace,1-1,1,1,Football League Second Division,2,D
+1988-09-20,1988/1989,Oldham Athletic,Oxford United,3-0,3,0,Football League Second Division,2,H
+1988-09-20,1988/1989,Walsall,Birmingham City,5-0,5,0,Football League Second Division,2,H
+1988-09-20,1988/1989,Watford,Bradford City,2-0,2,0,Football League Second Division,2,H
+1988-09-20,1988/1989,Swindon Town,AFC Bournemouth,3-1,3,1,Football League Second Division,2,H
+1988-09-20,1988/1989,Preston North End,Chester,3-3,3,3,Football League Third Division,3,D
+1988-09-20,1988/1989,Wolverhampton Wanderers,Aldershot,1-0,1,0,Football League Third Division,3,H
+1988-09-20,1988/1989,Sheffield United,Northampton Town,4-0,4,0,Football League Third Division,3,H
+1988-09-20,1988/1989,Mansfield Town,Gillingham,2-1,2,1,Football League Third Division,3,H
+1988-09-20,1988/1989,Bolton Wanderers,Fulham,3-2,3,2,Football League Third Division,3,H
+1988-09-20,1988/1989,Huddersfield Town,Notts County,3-1,3,1,Football League Third Division,3,H
+1988-09-20,1988/1989,Blackpool,Bristol City,2-2,2,2,Football League Third Division,3,D
+1988-09-21,1988/1989,Hereford United,Crewe Alexandra,0-1,0,1,Football League Fourth Division,4,A
+1988-09-21,1988/1989,Brighton & Hove Albion,West Bromwich Albion,0-1,0,1,Football League Second Division,2,A
+1988-09-21,1988/1989,Leeds United,Barnsley,2-0,2,0,Football League Second Division,2,H
+1988-09-21,1988/1989,Leicester City,Plymouth Argyle,1-0,1,0,Football League Second Division,2,H
+1988-09-21,1988/1989,Bristol Rovers,Brentford,1-2,1,2,Football League Third Division,3,A
+1988-09-21,1988/1989,Reading,Southend United,4-0,4,0,Football League Third Division,3,H
+1988-09-23,1988/1989,Halifax Town,Tranmere Rovers,2-3,2,3,Football League Fourth Division,4,A
+1988-09-23,1988/1989,Leyton Orient,Darlington,1-0,1,0,Football League Fourth Division,4,H
+1988-09-23,1988/1989,Crewe Alexandra,Stockport County,1-1,1,1,Football League Fourth Division,4,D
+1988-09-23,1988/1989,Southend United,Cardiff City,0-0,0,0,Football League Third Division,3,D
+1988-09-24,1988/1989,Everton,Luton Town,0-2,0,2,Football League First Division,1,A
+1988-09-24,1988/1989,Aston Villa,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1988-09-24,1988/1989,Charlton Athletic,Newcastle United,2-2,2,2,Football League First Division,1,D
+1988-09-24,1988/1989,Derby County,Queens Park Rangers,0-1,0,1,Football League First Division,1,A
+1988-09-24,1988/1989,Manchester United,West Ham United,2-0,2,0,Football League First Division,1,H
+1988-09-24,1988/1989,Norwich City,Millwall,2-2,2,2,Football League First Division,1,D
+1988-09-24,1988/1989,Sheffield Wednesday,Arsenal,2-1,2,1,Football League First Division,1,H
+1988-09-24,1988/1989,Southampton,Liverpool,1-3,1,3,Football League First Division,1,A
+1988-09-24,1988/1989,Tottenham Hotspur,Middlesbrough,3-2,3,2,Football League First Division,1,H
+1988-09-24,1988/1989,Wimbledon,Coventry City,0-1,0,1,Football League First Division,1,A
+1988-09-24,1988/1989,Carlisle United,Rotherham United,0-2,0,2,Football League Fourth Division,4,A
+1988-09-24,1988/1989,Doncaster Rovers,Wrexham,2-2,2,2,Football League Fourth Division,4,D
+1988-09-24,1988/1989,Exeter City,Scunthorpe United,2-2,2,2,Football League Fourth Division,4,D
+1988-09-24,1988/1989,Grimsby Town,Rochdale,1-3,1,3,Football League Fourth Division,4,A
+1988-09-24,1988/1989,Scarborough,Torquay United,5-2,5,2,Football League Fourth Division,4,H
+1988-09-24,1988/1989,Hartlepool United,Cambridge United,3-2,3,2,Football League Fourth Division,4,H
+1988-09-24,1988/1989,Lincoln City,Hereford United,2-0,2,0,Football League Fourth Division,4,H
+1988-09-24,1988/1989,Peterborough United,York City,0-1,0,1,Football League Fourth Division,4,A
+1988-09-24,1988/1989,Burnley,Colchester United,2-0,2,0,Football League Fourth Division,4,H
+1988-09-24,1988/1989,Walsall,Stoke City,1-2,1,2,Football League Second Division,2,A
+1988-09-24,1988/1989,Shrewsbury Town,Sunderland,0-0,0,0,Football League Second Division,2,D
+1988-09-24,1988/1989,Barnsley,Manchester City,1-2,1,2,Football League Second Division,2,A
+1988-09-24,1988/1989,Blackburn Rovers,Birmingham City,3-0,3,0,Football League Second Division,2,H
+1988-09-24,1988/1989,Ipswich Town,Bradford City,1-1,1,1,Football League Second Division,2,D
+1988-09-24,1988/1989,Leeds United,Chelsea,0-2,0,2,Football League Second Division,2,A
+1988-09-24,1988/1989,Leicester City,Watford,2-2,2,2,Football League Second Division,2,D
+1988-09-24,1988/1989,Oldham Athletic,Hull City,2-2,2,2,Football League Second Division,2,D
+1988-09-24,1988/1989,Plymouth Argyle,West Bromwich Albion,1-1,1,1,Football League Second Division,2,D
+1988-09-24,1988/1989,Portsmouth,Crystal Palace,1-1,1,1,Football League Second Division,2,D
+1988-09-24,1988/1989,AFC Bournemouth,Oxford United,2-1,2,1,Football League Second Division,2,H
+1988-09-24,1988/1989,Swindon Town,Brighton & Hove Albion,3-0,3,0,Football League Second Division,2,H
+1988-09-24,1988/1989,Brentford,Sheffield United,1-4,1,4,Football League Third Division,3,A
+1988-09-24,1988/1989,Bristol City,Port Vale,0-1,0,1,Football League Third Division,3,A
+1988-09-24,1988/1989,Bury,Mansfield Town,0-1,0,1,Football League Third Division,3,A
+1988-09-24,1988/1989,Chester,Huddersfield Town,3-0,3,0,Football League Third Division,3,H
+1988-09-24,1988/1989,Chesterfield,Blackpool,0-2,0,2,Football League Third Division,3,A
+1988-09-24,1988/1989,Fulham,Wigan Athletic,1-1,1,1,Football League Third Division,3,D
+1988-09-24,1988/1989,Gillingham,Reading,0-1,0,1,Football League Third Division,3,A
+1988-09-24,1988/1989,Northampton Town,Bristol Rovers,1-2,1,2,Football League Third Division,3,A
+1988-09-24,1988/1989,Notts County,Preston North End,0-0,0,0,Football League Third Division,3,D
+1988-09-24,1988/1989,Swansea City,Wolverhampton Wanderers,2-5,2,5,Football League Third Division,3,A
+1988-09-24,1988/1989,Aldershot,Bolton Wanderers,0-3,0,3,Football League Third Division,3,A
+1988-09-30,1988/1989,Tranmere Rovers,Hartlepool United,2-1,2,1,Football League Fourth Division,4,H
+1988-09-30,1988/1989,Cambridge United,Carlisle United,3-2,3,2,Football League Fourth Division,4,H
+1988-09-30,1988/1989,Wigan Athletic,Blackpool,2-1,2,1,Football League Third Division,3,H
+1988-10-01,1988/1989,Coventry City,Middlesbrough,3-4,3,4,Football League First Division,1,A
+1988-10-01,1988/1989,Liverpool,Newcastle United,1-2,1,2,Football League First Division,1,A
+1988-10-01,1988/1989,Millwall,Queens Park Rangers,3-2,3,2,Football League First Division,1,H
+1988-10-01,1988/1989,Norwich City,Charlton Athletic,1-3,1,3,Football League First Division,1,A
+1988-10-01,1988/1989,Nottingham Forest,Luton Town,0-0,0,0,Football League First Division,1,D
+1988-10-01,1988/1989,Sheffield Wednesday,Aston Villa,1-0,1,0,Football League First Division,1,H
+1988-10-01,1988/1989,Southampton,Derby County,0-0,0,0,Football League First Division,1,D
+1988-10-01,1988/1989,Tottenham Hotspur,Manchester United,2-2,2,2,Football League First Division,1,D
+1988-10-01,1988/1989,West Ham United,Arsenal,1-4,1,4,Football League First Division,1,A
+1988-10-01,1988/1989,Wimbledon,Everton,2-1,2,1,Football League First Division,1,H
+1988-10-01,1988/1989,York City,Halifax Town,5-3,5,3,Football League Fourth Division,4,H
+1988-10-01,1988/1989,Darlington,Burnley,1-1,1,1,Football League Fourth Division,4,D
+1988-10-01,1988/1989,Hereford United,Grimsby Town,2-1,2,1,Football League Fourth Division,4,H
+1988-10-01,1988/1989,Rochdale,Crewe Alexandra,2-1,2,1,Football League Fourth Division,4,H
+1988-10-01,1988/1989,Rotherham United,Exeter City,0-1,0,1,Football League Fourth Division,4,A
+1988-10-01,1988/1989,Scunthorpe United,Scarborough,0-3,0,3,Football League Fourth Division,4,A
+1988-10-01,1988/1989,Stockport County,Doncaster Rovers,2-0,2,0,Football League Fourth Division,4,H
+1988-10-01,1988/1989,Torquay United,Leyton Orient,3-0,3,0,Football League Fourth Division,4,H
+1988-10-01,1988/1989,Wrexham,Peterborough United,1-1,1,1,Football League Fourth Division,4,D
+1988-10-01,1988/1989,Colchester United,Lincoln City,1-3,1,3,Football League Fourth Division,4,A
+1988-10-01,1988/1989,West Bromwich Albion,Ipswich Town,1-2,1,2,Football League Second Division,2,A
+1988-10-01,1988/1989,Sunderland,Oldham Athletic,3-2,3,2,Football League Second Division,2,H
+1988-10-01,1988/1989,Watford,Swindon Town,2-3,2,3,Football League Second Division,2,A
+1988-10-01,1988/1989,Oxford United,Shrewsbury Town,4-1,4,1,Football League Second Division,2,H
+1988-10-01,1988/1989,Birmingham City,Barnsley,3-5,3,5,Football League Second Division,2,A
+1988-10-01,1988/1989,Bradford City,Portsmouth,2-1,2,1,Football League Second Division,2,H
+1988-10-01,1988/1989,Brighton & Hove Albion,Leeds United,2-1,2,1,Football League Second Division,2,H
+1988-10-01,1988/1989,Chelsea,Leicester City,2-1,2,1,Football League Second Division,2,H
+1988-10-01,1988/1989,Crystal Palace,Plymouth Argyle,4-1,4,1,Football League Second Division,2,H
+1988-10-01,1988/1989,Hull City,Walsall,0-0,0,0,Football League Second Division,2,D
+1988-10-01,1988/1989,Manchester City,Blackburn Rovers,1-0,1,0,Football League Second Division,2,H
+1988-10-01,1988/1989,Stoke City,AFC Bournemouth,2-1,2,1,Football League Second Division,2,H
+1988-10-01,1988/1989,Brentford,Gillingham,1-0,1,0,Football League Third Division,3,H
+1988-10-01,1988/1989,Bristol City,Swansea City,2-0,2,0,Football League Third Division,3,H
+1988-10-01,1988/1989,Cardiff City,Bristol Rovers,2-2,2,2,Football League Third Division,3,D
+1988-10-01,1988/1989,Chesterfield,Bury,1-2,1,2,Football League Third Division,3,A
+1988-10-01,1988/1989,Huddersfield Town,Fulham,2-0,2,0,Football League Third Division,3,H
+1988-10-01,1988/1989,Mansfield Town,Notts County,1-1,1,1,Football League Third Division,3,D
+1988-10-01,1988/1989,Northampton Town,Aldershot,6-0,6,0,Football League Third Division,3,H
+1988-10-01,1988/1989,Preston North End,Southend United,3-2,3,2,Football League Third Division,3,H
+1988-10-01,1988/1989,Reading,Chester,3-1,3,1,Football League Third Division,3,H
+1988-10-01,1988/1989,Wolverhampton Wanderers,Port Vale,3-3,3,3,Football League Third Division,3,D
+1988-10-01,1988/1989,Bolton Wanderers,Sheffield United,2-0,2,0,Football League Third Division,3,H
+1988-10-03,1988/1989,Port Vale,Huddersfield Town,2-0,2,0,Football League Third Division,3,H
+1988-10-04,1988/1989,Hartlepool United,Rochdale,0-1,0,1,Football League Fourth Division,4,A
+1988-10-04,1988/1989,Halifax Town,Wrexham,4-0,4,0,Football League Fourth Division,4,H
+1988-10-04,1988/1989,Grimsby Town,Tranmere Rovers,0-0,0,0,Football League Fourth Division,4,D
+1988-10-04,1988/1989,Doncaster Rovers,Hereford United,3-2,3,2,Football League Fourth Division,4,H
+1988-10-04,1988/1989,Crewe Alexandra,Cambridge United,2-0,2,0,Football League Fourth Division,4,H
+1988-10-04,1988/1989,Carlisle United,Colchester United,1-2,1,2,Football League Fourth Division,4,A
+1988-10-04,1988/1989,Burnley,Rotherham United,1-0,1,0,Football League Fourth Division,4,H
+1988-10-04,1988/1989,Leyton Orient,York City,4-0,4,0,Football League Fourth Division,4,H
+1988-10-04,1988/1989,Watford,Oldham Athletic,3-1,3,1,Football League Second Division,2,H
+1988-10-04,1988/1989,Sunderland,Leeds United,2-1,2,1,Football League Second Division,2,H
+1988-10-04,1988/1989,Stoke City,Shrewsbury Town,0-0,0,0,Football League Second Division,2,D
+1988-10-04,1988/1989,Hull City,Leicester City,2-2,2,2,Football League Second Division,2,D
+1988-10-04,1988/1989,Crystal Palace,Ipswich Town,2-0,2,0,Football League Second Division,2,H
+1988-10-04,1988/1989,Chelsea,Walsall,2-0,2,0,Football League Second Division,2,H
+1988-10-04,1988/1989,Birmingham City,Plymouth Argyle,0-1,0,1,Football League Second Division,2,A
+1988-10-04,1988/1989,Swansea City,Bolton Wanderers,1-0,1,0,Football League Third Division,3,H
+1988-10-04,1988/1989,Southend United,Mansfield Town,1-1,1,1,Football League Third Division,3,D
+1988-10-04,1988/1989,Notts County,Chesterfield,4-0,4,0,Football League Third Division,3,H
+1988-10-04,1988/1989,Bury,Reading,2-1,2,1,Football League Third Division,3,H
+1988-10-04,1988/1989,Blackpool,Northampton Town,3-1,3,1,Football League Third Division,3,H
+1988-10-04,1988/1989,Aldershot,Wigan Athletic,3-1,3,1,Football League Third Division,3,H
+1988-10-04,1988/1989,Gillingham,Bristol City,0-1,0,1,Football League Third Division,3,A
+1988-10-05,1988/1989,Scarborough,Darlington,3-2,3,2,Football League Fourth Division,4,H
+1988-10-05,1988/1989,Lincoln City,Scunthorpe United,1-0,1,0,Football League Fourth Division,4,H
+1988-10-05,1988/1989,Exeter City,Torquay United,3-0,3,0,Football League Fourth Division,4,H
+1988-10-05,1988/1989,Peterborough United,Stockport County,1-0,1,0,Football League Fourth Division,4,H
+1988-10-05,1988/1989,West Bromwich Albion,AFC Bournemouth,0-0,0,0,Football League Second Division,2,D
+1988-10-05,1988/1989,Oxford United,Swindon Town,1-1,1,1,Football League Second Division,2,D
+1988-10-05,1988/1989,Manchester City,Portsmouth,4-1,4,1,Football League Second Division,2,H
+1988-10-05,1988/1989,Brighton & Hove Albion,Barnsley,0-1,0,1,Football League Second Division,2,A
+1988-10-05,1988/1989,Bradford City,Blackburn Rovers,1-1,1,1,Football League Second Division,2,D
+1988-10-05,1988/1989,Fulham,Wolverhampton Wanderers,2-2,2,2,Football League Third Division,3,D
+1988-10-05,1988/1989,Chester,Brentford,3-2,3,2,Football League Third Division,3,H
+1988-10-05,1988/1989,Bristol Rovers,Preston North End,1-0,1,0,Football League Third Division,3,H
+1988-10-07,1988/1989,Tranmere Rovers,York City,0-1,0,1,Football League Fourth Division,4,A
+1988-10-08,1988/1989,Aston Villa,Wimbledon,0-1,0,1,Football League First Division,1,A
+1988-10-08,1988/1989,Charlton Athletic,Tottenham Hotspur,2-2,2,2,Football League First Division,1,D
+1988-10-08,1988/1989,Derby County,Norwich City,0-1,0,1,Football League First Division,1,A
+1988-10-08,1988/1989,Everton,Southampton,4-1,4,1,Football League First Division,1,H
+1988-10-08,1988/1989,Luton Town,Liverpool,1-0,1,0,Football League First Division,1,H
+1988-10-08,1988/1989,Middlesbrough,West Ham United,1-0,1,0,Football League First Division,1,H
+1988-10-08,1988/1989,Newcastle United,Coventry City,0-3,0,3,Football League First Division,1,A
+1988-10-08,1988/1989,Queens Park Rangers,Nottingham Forest,1-2,1,2,Football League First Division,1,A
+1988-10-08,1988/1989,Burnley,Exeter City,3-0,3,0,Football League Fourth Division,4,H
+1988-10-08,1988/1989,Cambridge United,Halifax Town,2-1,2,1,Football League Fourth Division,4,H
+1988-10-08,1988/1989,Grimsby Town,Peterborough United,0-0,0,0,Football League Fourth Division,4,D
+1988-10-08,1988/1989,Darlington,Rotherham United,1-1,1,1,Football League Fourth Division,4,D
+1988-10-08,1988/1989,Doncaster Rovers,Hartlepool United,1-0,1,0,Football League Fourth Division,4,H
+1988-10-08,1988/1989,Hereford United,Carlisle United,2-1,2,1,Football League Fourth Division,4,H
+1988-10-08,1988/1989,Rochdale,Stockport County,1-1,1,1,Football League Fourth Division,4,D
+1988-10-08,1988/1989,Scarborough,Leyton Orient,0-0,0,0,Football League Fourth Division,4,D
+1988-10-08,1988/1989,Torquay United,Lincoln City,1-0,1,0,Football League Fourth Division,4,H
+1988-10-08,1988/1989,Wrexham,Crewe Alexandra,0-0,0,0,Football League Fourth Division,4,D
+1988-10-08,1988/1989,Colchester United,Scunthorpe United,1-2,1,2,Football League Fourth Division,4,A
+1988-10-08,1988/1989,AFC Bournemouth,Birmingham City,0-1,0,1,Football League Second Division,2,A
+1988-10-08,1988/1989,Walsall,Sunderland,2-0,2,0,Football League Second Division,2,H
+1988-10-08,1988/1989,Blackburn Rovers,Crystal Palace,5-4,5,4,Football League Second Division,2,H
+1988-10-08,1988/1989,Ipswich Town,Manchester City,1-0,1,0,Football League Second Division,2,H
+1988-10-08,1988/1989,Leeds United,Watford,0-1,0,1,Football League Second Division,2,A
+1988-10-08,1988/1989,Leicester City,Brighton & Hove Albion,1-0,1,0,Football League Second Division,2,H
+1988-10-08,1988/1989,Oldham Athletic,Stoke City,2-2,2,2,Football League Second Division,2,D
+1988-10-08,1988/1989,Plymouth Argyle,Bradford City,3-1,3,1,Football League Second Division,2,H
+1988-10-08,1988/1989,Portsmouth,Oxford United,2-1,2,1,Football League Second Division,2,H
+1988-10-08,1988/1989,Shrewsbury Town,Hull City,1-3,1,3,Football League Second Division,2,A
+1988-10-08,1988/1989,Barnsley,West Bromwich Albion,2-1,2,1,Football League Second Division,2,H
+1988-10-08,1988/1989,Gillingham,Chesterfield,0-1,0,1,Football League Third Division,3,A
+1988-10-08,1988/1989,Mansfield Town,Bristol Rovers,2-1,2,1,Football League Third Division,3,H
+1988-10-08,1988/1989,Northampton Town,Huddersfield Town,1-3,1,3,Football League Third Division,3,A
+1988-10-08,1988/1989,Preston North End,Bury,1-0,1,0,Football League Third Division,3,H
+1988-10-08,1988/1989,Sheffield United,Wolverhampton Wanderers,2-0,2,0,Football League Third Division,3,H
+1988-10-08,1988/1989,Wigan Athletic,Port Vale,0-2,0,2,Football League Third Division,3,A
+1988-10-08,1988/1989,Cardiff City,Reading,1-2,1,2,Football League Third Division,3,A
+1988-10-08,1988/1989,Bristol City,Fulham,1-5,1,5,Football League Third Division,3,A
+1988-10-08,1988/1989,Bolton Wanderers,Blackpool,2-2,2,2,Football League Third Division,3,D
+1988-10-09,1988/1989,Swindon Town,Chelsea,1-1,1,1,Football League Second Division,2,D
+1988-10-09,1988/1989,Brentford,Southend United,4-0,4,0,Football League Third Division,3,H
+1988-10-09,1988/1989,Notts County,Chester,2-2,2,2,Football League Third Division,3,D
+1988-10-09,1988/1989,Aldershot,Swansea City,0-1,0,1,Football League Third Division,3,A
+1988-10-14,1988/1989,Halifax Town,Rochdale,4-1,4,1,Football League Fourth Division,4,H
+1988-10-15,1988/1989,Charlton Athletic,Aston Villa,2-2,2,2,Football League First Division,1,D
+1988-10-15,1988/1989,Coventry City,Millwall,0-0,0,0,Football League First Division,1,D
+1988-10-15,1988/1989,Queens Park Rangers,West Ham United,2-1,2,1,Football League First Division,1,H
+1988-10-15,1988/1989,Carlisle United,Torquay United,2-1,2,1,Football League Fourth Division,4,H
+1988-10-15,1988/1989,Crewe Alexandra,Doncaster Rovers,0-2,0,2,Football League Fourth Division,4,A
+1988-10-15,1988/1989,Hartlepool United,Wrexham,1-3,1,3,Football League Fourth Division,4,A
+1988-10-15,1988/1989,Leyton Orient,Colchester United,8-0,8,0,Football League Fourth Division,4,H
+1988-10-15,1988/1989,York City,Darlington,4-1,4,1,Football League Fourth Division,4,H
+1988-10-15,1988/1989,Lincoln City,Scarborough,2-2,2,2,Football League Fourth Division,4,D
+1988-10-15,1988/1989,Peterborough United,Burnley,3-0,3,0,Football League Fourth Division,4,H
+1988-10-15,1988/1989,Rotherham United,Tranmere Rovers,0-0,0,0,Football League Fourth Division,4,D
+1988-10-15,1988/1989,Scunthorpe United,Cambridge United,1-0,1,0,Football League Fourth Division,4,H
+1988-10-15,1988/1989,Stockport County,Hereford United,1-2,1,2,Football League Fourth Division,4,A
+1988-10-15,1988/1989,Exeter City,Grimsby Town,2-1,2,1,Football League Fourth Division,4,H
+1988-10-15,1988/1989,Bradford City,Crystal Palace,0-1,0,1,Football League Second Division,2,A
+1988-10-15,1988/1989,Birmingham City,West Bromwich Albion,1-4,1,4,Football League Second Division,2,A
+1988-10-15,1988/1989,Blackburn Rovers,Barnsley,2-1,2,1,Football League Second Division,2,H
+1988-10-15,1988/1989,Hull City,Sunderland,0-0,0,0,Football League Second Division,2,D
+1988-10-15,1988/1989,Ipswich Town,Oxford United,1-2,1,2,Football League Second Division,2,A
+1988-10-15,1988/1989,Leicester City,Stoke City,2-0,2,0,Football League Second Division,2,H
+1988-10-15,1988/1989,Oldham Athletic,Chelsea,1-4,1,4,Football League Second Division,2,A
+1988-10-15,1988/1989,Plymouth Argyle,Manchester City,0-1,0,1,Football League Second Division,2,A
+1988-10-15,1988/1989,Portsmouth,AFC Bournemouth,2-1,2,1,Football League Second Division,2,H
+1988-10-15,1988/1989,Shrewsbury Town,Walsall,0-0,0,0,Football League Second Division,2,D
+1988-10-15,1988/1989,Watford,Brighton & Hove Albion,1-1,1,1,Football League Second Division,2,D
+1988-10-15,1988/1989,Huddersfield Town,Bristol City,0-1,0,1,Football League Third Division,3,A
+1988-10-15,1988/1989,Port Vale,Bolton Wanderers,2-1,2,1,Football League Third Division,3,H
+1988-10-15,1988/1989,Reading,Mansfield Town,1-0,1,0,Football League Third Division,3,H
+1988-10-15,1988/1989,Southend United,Gillingham,2-1,2,1,Football League Third Division,3,H
+1988-10-15,1988/1989,Swansea City,Northampton Town,1-0,1,0,Football League Third Division,3,H
+1988-10-15,1988/1989,Wolverhampton Wanderers,Wigan Athletic,2-1,2,1,Football League Third Division,3,H
+1988-10-15,1988/1989,Fulham,Aldershot,5-1,5,1,Football League Third Division,3,H
+1988-10-15,1988/1989,Chester,Cardiff City,0-0,0,0,Football League Third Division,3,D
+1988-10-15,1988/1989,Chesterfield,Preston North End,0-3,0,3,Football League Third Division,3,A
+1988-10-15,1988/1989,Blackpool,Sheffield United,1-2,1,2,Football League Third Division,3,A
+1988-10-15,1988/1989,Bristol Rovers,Notts County,2-0,2,0,Football League Third Division,3,H
+1988-10-15,1988/1989,Bury,Brentford,3-1,3,1,Football League Third Division,3,H
+1988-10-16,1988/1989,Swindon Town,Leeds United,0-0,0,0,Football League Second Division,2,D
+1988-10-21,1988/1989,Colchester United,Cambridge United,1-2,1,2,Football League Fourth Division,4,A
+1988-10-21,1988/1989,Doncaster Rovers,Halifax Town,1-4,1,4,Football League Fourth Division,4,A
+1988-10-21,1988/1989,AFC Bournemouth,Shrewsbury Town,0-1,0,1,Football League Second Division,2,A
+1988-10-22,1988/1989,Arsenal,Queens Park Rangers,2-1,2,1,Football League First Division,1,H
+1988-10-22,1988/1989,Derby County,Charlton Athletic,0-0,0,0,Football League First Division,1,D
+1988-10-22,1988/1989,Liverpool,Coventry City,0-0,0,0,Football League First Division,1,D
+1988-10-22,1988/1989,Middlesbrough,Luton Town,2-1,2,1,Football League First Division,1,H
+1988-10-22,1988/1989,Millwall,Nottingham Forest,2-2,2,2,Football League First Division,1,D
+1988-10-22,1988/1989,Norwich City,Tottenham Hotspur,3-1,3,1,Football League First Division,1,H
+1988-10-22,1988/1989,Southampton,Sheffield Wednesday,1-2,1,2,Football League First Division,1,A
+1988-10-22,1988/1989,West Ham United,Newcastle United,2-0,2,0,Football League First Division,1,H
+1988-10-22,1988/1989,Aston Villa,Everton,2-0,2,0,Football League First Division,1,H
+1988-10-22,1988/1989,Wimbledon,Manchester United,1-1,1,1,Football League First Division,1,D
+1988-10-22,1988/1989,Wrexham,Tranmere Rovers,3-3,3,3,Football League Fourth Division,4,D
+1988-10-22,1988/1989,Exeter City,Carlisle United,3-0,3,0,Football League Fourth Division,4,H
+1988-10-22,1988/1989,Grimsby Town,York City,2-0,2,0,Football League Fourth Division,4,H
+1988-10-22,1988/1989,Hartlepool United,Crewe Alexandra,0-3,0,3,Football League Fourth Division,4,A
+1988-10-22,1988/1989,Lincoln City,Darlington,3-2,3,2,Football League Fourth Division,4,H
+1988-10-22,1988/1989,Peterborough United,Hereford United,2-1,2,1,Football League Fourth Division,4,H
+1988-10-22,1988/1989,Rochdale,Scunthorpe United,1-0,1,0,Football League Fourth Division,4,H
+1988-10-22,1988/1989,Scarborough,Stockport County,1-1,1,1,Football League Fourth Division,4,D
+1988-10-22,1988/1989,Torquay United,Rotherham United,1-2,1,2,Football League Fourth Division,4,A
+1988-10-22,1988/1989,Burnley,Leyton Orient,2-2,2,2,Football League Fourth Division,4,D
+1988-10-22,1988/1989,Sunderland,Swindon Town,4-0,4,0,Football League Second Division,2,H
+1988-10-22,1988/1989,West Bromwich Albion,Bradford City,1-0,1,0,Football League Second Division,2,H
+1988-10-22,1988/1989,Barnsley,Ipswich Town,2-0,2,0,Football League Second Division,2,H
+1988-10-22,1988/1989,Brighton & Hove Albion,Oldham Athletic,2-0,2,0,Football League Second Division,2,H
+1988-10-22,1988/1989,Chelsea,Plymouth Argyle,5-0,5,0,Football League Second Division,2,H
+1988-10-22,1988/1989,Crystal Palace,Hull City,3-1,3,1,Football League Second Division,2,H
+1988-10-22,1988/1989,Leeds United,Leicester City,1-1,1,1,Football League Second Division,2,D
+1988-10-22,1988/1989,Manchester City,Birmingham City,0-0,0,0,Football League Second Division,2,D
+1988-10-22,1988/1989,Oxford United,Blackburn Rovers,1-1,1,1,Football League Second Division,2,D
+1988-10-22,1988/1989,Stoke City,Watford,2-0,2,0,Football League Second Division,2,H
+1988-10-22,1988/1989,Walsall,Portsmouth,1-1,1,1,Football League Second Division,2,D
+1988-10-22,1988/1989,Bolton Wanderers,Wolverhampton Wanderers,1-2,1,2,Football League Third Division,3,A
+1988-10-22,1988/1989,Brentford,Preston North End,0-2,0,2,Football League Third Division,3,A
+1988-10-22,1988/1989,Bristol Rovers,Chester,4-1,4,1,Football League Third Division,3,H
+1988-10-22,1988/1989,Gillingham,Bury,3-4,3,4,Football League Third Division,3,A
+1988-10-22,1988/1989,Mansfield Town,Cardiff City,2-2,2,2,Football League Third Division,3,D
+1988-10-22,1988/1989,Northampton Town,Bristol City,1-3,1,3,Football League Third Division,3,A
+1988-10-22,1988/1989,Notts County,Reading,3-3,3,3,Football League Third Division,3,D
+1988-10-22,1988/1989,Sheffield United,Wigan Athletic,2-1,2,1,Football League Third Division,3,H
+1988-10-22,1988/1989,Southend United,Chesterfield,3-1,3,1,Football League Third Division,3,H
+1988-10-22,1988/1989,Swansea City,Fulham,2-0,2,0,Football League Third Division,3,H
+1988-10-22,1988/1989,Blackpool,Port Vale,3-2,3,2,Football League Third Division,3,H
+1988-10-22,1988/1989,Aldershot,Huddersfield Town,0-1,0,1,Football League Third Division,3,A
+1988-10-24,1988/1989,Stockport County,Hartlepool United,3-0,3,0,Football League Fourth Division,4,H
+1988-10-24,1988/1989,Tranmere Rovers,Lincoln City,1-0,1,0,Football League Fourth Division,4,H
+1988-10-24,1988/1989,Port Vale,Sheffield United,3-3,3,3,Football League Third Division,3,D
+1988-10-25,1988/1989,Luton Town,Arsenal,1-1,1,1,Football League First Division,1,D
+1988-10-25,1988/1989,Tottenham Hotspur,Southampton,1-2,1,2,Football League First Division,1,A
+1988-10-25,1988/1989,Scunthorpe United,Wrexham,3-1,3,1,Football League Fourth Division,4,H
+1988-10-25,1988/1989,Rotherham United,Colchester United,2-0,2,0,Football League Fourth Division,4,H
+1988-10-25,1988/1989,Leyton Orient,Exeter City,4-0,4,0,Football League Fourth Division,4,H
+1988-10-25,1988/1989,Halifax Town,Peterborough United,5-0,5,0,Football League Fourth Division,4,H
+1988-10-25,1988/1989,Darlington,Torquay United,0-0,0,0,Football League Fourth Division,4,D
+1988-10-25,1988/1989,Crewe Alexandra,Grimsby Town,2-2,2,2,Football League Fourth Division,4,D
+1988-10-25,1988/1989,Carlisle United,Burnley,0-0,0,0,Football League Fourth Division,4,D
+1988-10-25,1988/1989,Cambridge United,Scarborough,2-2,2,2,Football League Fourth Division,4,D
+1988-10-25,1988/1989,York City,Doncaster Rovers,1-1,1,1,Football League Fourth Division,4,D
+1988-10-25,1988/1989,Birmingham City,Stoke City,0-1,0,1,Football League Second Division,2,A
+1988-10-25,1988/1989,Crystal Palace,Oxford United,1-0,1,0,Football League Second Division,2,H
+1988-10-25,1988/1989,Ipswich Town,Portsmouth,0-1,0,1,Football League Second Division,2,A
+1988-10-25,1988/1989,Oldham Athletic,AFC Bournemouth,2-0,2,0,Football League Second Division,2,H
+1988-10-25,1988/1989,Plymouth Argyle,Shrewsbury Town,0-0,0,0,Football League Second Division,2,D
+1988-10-25,1988/1989,Sunderland,Blackburn Rovers,2-0,2,0,Football League Second Division,2,H
+1988-10-25,1988/1989,Watford,Barnsley,4-0,4,0,Football League Second Division,2,H
+1988-10-25,1988/1989,Hull City,Chelsea,3-0,3,0,Football League Second Division,2,H
+1988-10-25,1988/1989,Wigan Athletic,Bolton Wanderers,1-1,1,1,Football League Third Division,3,D
+1988-10-25,1988/1989,Preston North End,Gillingham,5-0,5,0,Football League Third Division,3,H
+1988-10-25,1988/1989,Huddersfield Town,Swansea City,1-1,1,1,Football League Third Division,3,D
+1988-10-25,1988/1989,Fulham,Northampton Town,3-2,3,2,Football League Third Division,3,H
+1988-10-25,1988/1989,Wolverhampton Wanderers,Blackpool,2-1,2,1,Football League Third Division,3,H
+1988-10-25,1988/1989,Bristol City,Aldershot,1-1,1,1,Football League Third Division,3,D
+1988-10-25,1988/1989,Chesterfield,Brentford,2-2,2,2,Football League Third Division,3,D
+1988-10-25,1988/1989,Bury,Southend United,3-1,3,1,Football League Third Division,3,H
+1988-10-26,1988/1989,Nottingham Forest,Liverpool,2-1,2,1,Football League First Division,1,H
+1988-10-26,1988/1989,Newcastle United,Middlesbrough,3-0,3,0,Football League First Division,1,H
+1988-10-26,1988/1989,Manchester United,Norwich City,1-2,1,2,Football League First Division,1,A
+1988-10-26,1988/1989,Hereford United,Rochdale,4-4,4,4,Football League Fourth Division,4,D
+1988-10-26,1988/1989,West Bromwich Albion,Manchester City,1-0,1,0,Football League Second Division,2,H
+1988-10-26,1988/1989,Leicester City,Swindon Town,3-3,3,3,Football League Second Division,2,D
+1988-10-26,1988/1989,Bradford City,Leeds United,1-1,1,1,Football League Second Division,2,D
+1988-10-26,1988/1989,Brighton & Hove Albion,Walsall,2-2,2,2,Football League Second Division,2,D
+1988-10-26,1988/1989,Reading,Bristol Rovers,3-1,3,1,Football League Third Division,3,H
+1988-10-26,1988/1989,Chester,Mansfield Town,0-0,0,0,Football League Third Division,3,D
+1988-10-28,1988/1989,Colchester United,Stockport County,1-1,1,1,Football League Fourth Division,4,D
+1988-10-28,1988/1989,Southend United,Wigan Athletic,1-2,1,2,Football League Third Division,3,A
+1988-10-29,1988/1989,Aston Villa,Tottenham Hotspur,2-1,2,1,Football League First Division,1,H
+1988-10-29,1988/1989,Charlton Athletic,Sheffield Wednesday,2-1,2,1,Football League First Division,1,H
+1988-10-29,1988/1989,Derby County,Wimbledon,4-1,4,1,Football League First Division,1,H
+1988-10-29,1988/1989,Luton Town,Queens Park Rangers,0-0,0,0,Football League First Division,1,D
+1988-10-29,1988/1989,Middlesbrough,Millwall,4-2,4,2,Football League First Division,1,H
+1988-10-29,1988/1989,Newcastle United,Nottingham Forest,0-1,0,1,Football League First Division,1,A
+1988-10-29,1988/1989,Norwich City,Southampton,1-1,1,1,Football League First Division,1,D
+1988-10-29,1988/1989,West Ham United,Liverpool,0-2,0,2,Football League First Division,1,A
+1988-10-29,1988/1989,Arsenal,Coventry City,2-0,2,0,Football League First Division,1,H
+1988-10-29,1988/1989,Burnley,Cambridge United,2-0,2,0,Football League Fourth Division,4,H
+1988-10-29,1988/1989,Torquay United,Tranmere Rovers,3-2,3,2,Football League Fourth Division,4,H
+1988-10-29,1988/1989,Exeter City,Crewe Alexandra,1-2,1,2,Football League Fourth Division,4,A
+1988-10-29,1988/1989,Grimsby Town,Halifax Town,3-2,3,2,Football League Fourth Division,4,H
+1988-10-29,1988/1989,Hartlepool United,Hereford United,1-1,1,1,Football League Fourth Division,4,D
+1988-10-29,1988/1989,Lincoln City,Carlisle United,0-2,0,2,Football League Fourth Division,4,A
+1988-10-29,1988/1989,Peterborough United,Scunthorpe United,1-2,1,2,Football League Fourth Division,4,A
+1988-10-29,1988/1989,Rochdale,Darlington,2-2,2,2,Football League Fourth Division,4,D
+1988-10-29,1988/1989,Scarborough,Rotherham United,1-0,1,0,Football League Fourth Division,4,H
+1988-10-29,1988/1989,Wrexham,York City,2-1,2,1,Football League Fourth Division,4,H
+1988-10-29,1988/1989,Doncaster Rovers,Leyton Orient,1-0,1,0,Football League Fourth Division,4,H
+1988-10-29,1988/1989,Swindon Town,Birmingham City,2-1,2,1,Football League Second Division,2,H
+1988-10-29,1988/1989,AFC Bournemouth,Ipswich Town,1-0,1,0,Football League Second Division,2,H
+1988-10-29,1988/1989,Barnsley,Plymouth Argyle,3-1,3,1,Football League Second Division,2,H
+1988-10-29,1988/1989,Blackburn Rovers,West Bromwich Albion,1-2,1,2,Football League Second Division,2,A
+1988-10-29,1988/1989,Chelsea,Brighton & Hove Albion,2-0,2,0,Football League Second Division,2,H
+1988-10-29,1988/1989,Leeds United,Hull City,2-1,2,1,Football League Second Division,2,H
+1988-10-29,1988/1989,Manchester City,Sunderland,1-1,1,1,Football League Second Division,2,D
+1988-10-29,1988/1989,Oxford United,Bradford City,3-4,3,4,Football League Second Division,2,A
+1988-10-29,1988/1989,Portsmouth,Oldham Athletic,1-1,1,1,Football League Second Division,2,D
+1988-10-29,1988/1989,Walsall,Watford,0-1,0,1,Football League Second Division,2,A
+1988-10-29,1988/1989,Shrewsbury Town,Leicester City,3-0,3,0,Football League Second Division,2,H
+1988-10-29,1988/1989,Stoke City,Crystal Palace,2-1,2,1,Football League Second Division,2,H
+1988-10-29,1988/1989,Swansea City,Preston North End,1-1,1,1,Football League Third Division,3,D
+1988-10-29,1988/1989,Bolton Wanderers,Chesterfield,5-0,5,0,Football League Third Division,3,H
+1988-10-29,1988/1989,Brentford,Port Vale,2-1,2,1,Football League Third Division,3,H
+1988-10-29,1988/1989,Gillingham,Wolverhampton Wanderers,1-3,1,3,Football League Third Division,3,A
+1988-10-29,1988/1989,Mansfield Town,Bristol City,2-2,2,2,Football League Third Division,3,D
+1988-10-29,1988/1989,Northampton Town,Reading,1-3,1,3,Football League Third Division,3,A
+1988-10-29,1988/1989,Notts County,Fulham,0-1,0,1,Football League Third Division,3,A
+1988-10-29,1988/1989,Sheffield United,Bury,2-1,2,1,Football League Third Division,3,H
+1988-10-29,1988/1989,Blackpool,Cardiff City,1-0,1,0,Football League Third Division,3,H
+1988-10-29,1988/1989,Aldershot,Chester,1-1,1,1,Football League Third Division,3,D
+1988-10-29,1988/1989,Bristol Rovers,Huddersfield Town,5-1,5,1,Football League Third Division,3,H
+1988-10-30,1988/1989,Everton,Manchester United,1-1,1,1,Football League First Division,1,D
+1988-11-01,1988/1989,Wigan Athletic,Swansea City,1-2,1,2,Football League Third Division,3,A
+1988-11-01,1988/1989,Cardiff City,Bury,3-0,3,0,Football League Third Division,3,H
+1988-11-02,1988/1989,Oxford United,Sunderland,2-4,2,4,Football League Second Division,2,A
+1988-11-04,1988/1989,Cambridge United,Exeter City,2-0,2,0,Football League Fourth Division,4,H
+1988-11-04,1988/1989,Crewe Alexandra,Colchester United,3-1,3,1,Football League Fourth Division,4,H
+1988-11-04,1988/1989,Halifax Town,Hartlepool United,1-0,1,0,Football League Fourth Division,4,H
+1988-11-04,1988/1989,Tranmere Rovers,Rochdale,2-0,2,0,Football League Fourth Division,4,H
+1988-11-05,1988/1989,Coventry City,West Ham United,1-1,1,1,Football League First Division,1,D
+1988-11-05,1988/1989,Liverpool,Middlesbrough,3-0,3,0,Football League First Division,1,H
+1988-11-05,1988/1989,Manchester United,Aston Villa,1-1,1,1,Football League First Division,1,D
+1988-11-05,1988/1989,Millwall,Luton Town,3-1,3,1,Football League First Division,1,H
+1988-11-05,1988/1989,Queens Park Rangers,Newcastle United,3-0,3,0,Football League First Division,1,H
+1988-11-05,1988/1989,Sheffield Wednesday,Everton,1-1,1,1,Football League First Division,1,D
+1988-11-05,1988/1989,Southampton,Charlton Athletic,2-0,2,0,Football League First Division,1,H
+1988-11-05,1988/1989,Tottenham Hotspur,Derby County,1-3,1,3,Football League First Division,1,A
+1988-11-05,1988/1989,Wimbledon,Norwich City,0-2,0,2,Football League First Division,1,A
+1988-11-05,1988/1989,York City,Torquay United,1-1,1,1,Football League Fourth Division,4,D
+1988-11-05,1988/1989,Stockport County,Grimsby Town,3-1,3,1,Football League Fourth Division,4,H
+1988-11-05,1988/1989,Carlisle United,Scarborough,0-1,0,1,Football League Fourth Division,4,A
+1988-11-05,1988/1989,Darlington,Doncaster Rovers,1-3,1,3,Football League Fourth Division,4,A
+1988-11-05,1988/1989,Hereford United,Wrexham,0-0,0,0,Football League Fourth Division,4,D
+1988-11-05,1988/1989,Leyton Orient,Peterborough United,1-2,1,2,Football League Fourth Division,4,A
+1988-11-05,1988/1989,Rotherham United,Lincoln City,2-0,2,0,Football League Fourth Division,4,H
+1988-11-05,1988/1989,Scunthorpe United,Burnley,2-1,2,1,Football League Fourth Division,4,H
+1988-11-05,1988/1989,West Bromwich Albion,Oxford United,3-2,3,2,Football League Second Division,2,H
+1988-11-05,1988/1989,Watford,Chelsea,1-2,1,2,Football League Second Division,2,A
+1988-11-05,1988/1989,Plymouth Argyle,Blackburn Rovers,4-3,4,3,Football League Second Division,2,H
+1988-11-05,1988/1989,Sunderland,Stoke City,1-1,1,1,Football League Second Division,2,D
+1988-11-05,1988/1989,Birmingham City,Portsmouth,0-0,0,0,Football League Second Division,2,D
+1988-11-05,1988/1989,Bradford City,AFC Bournemouth,0-1,0,1,Football League Second Division,2,A
+1988-11-05,1988/1989,Brighton & Hove Albion,Shrewsbury Town,3-1,3,1,Football League Second Division,2,H
+1988-11-05,1988/1989,Crystal Palace,Barnsley,1-1,1,1,Football League Second Division,2,D
+1988-11-05,1988/1989,Hull City,Swindon Town,1-0,1,0,Football League Second Division,2,H
+1988-11-05,1988/1989,Ipswich Town,Leeds United,0-1,0,1,Football League Second Division,2,A
+1988-11-05,1988/1989,Leicester City,Manchester City,0-0,0,0,Football League Second Division,2,D
+1988-11-05,1988/1989,Oldham Athletic,Walsall,3-0,3,0,Football League Second Division,2,H
+1988-11-05,1988/1989,Bristol City,Bolton Wanderers,1-1,1,1,Football League Third Division,3,D
+1988-11-05,1988/1989,Cardiff City,Gillingham,1-0,1,0,Football League Third Division,3,H
+1988-11-05,1988/1989,Chester,Swansea City,3-1,3,1,Football League Third Division,3,H
+1988-11-05,1988/1989,Fulham,Blackpool,1-1,1,1,Football League Third Division,3,D
+1988-11-05,1988/1989,Huddersfield Town,Sheffield United,3-2,3,2,Football League Third Division,3,H
+1988-11-05,1988/1989,Preston North End,Mansfield Town,2-0,2,0,Football League Third Division,3,H
+1988-11-05,1988/1989,Wolverhampton Wanderers,Southend United,3-0,3,0,Football League Third Division,3,H
+1988-11-05,1988/1989,Wigan Athletic,Northampton Town,1-3,1,3,Football League Third Division,3,A
+1988-11-05,1988/1989,Reading,Brentford,2-2,2,2,Football League Third Division,3,D
+1988-11-05,1988/1989,Chesterfield,Bristol Rovers,0-3,0,3,Football League Third Division,3,A
+1988-11-05,1988/1989,Bury,Notts County,1-1,1,1,Football League Third Division,3,D
+1988-11-06,1988/1989,Nottingham Forest,Arsenal,1-4,1,4,Football League First Division,1,A
+1988-11-07,1988/1989,Tranmere Rovers,Hereford United,1-0,1,0,Football League Fourth Division,4,H
+1988-11-08,1988/1989,York City,Crewe Alexandra,3-0,3,0,Football League Fourth Division,4,H
+1988-11-08,1988/1989,Wrexham,Stockport County,2-0,2,0,Football League Fourth Division,4,H
+1988-11-08,1988/1989,Torquay United,Rochdale,1-0,1,0,Football League Fourth Division,4,H
+1988-11-08,1988/1989,Leyton Orient,Carlisle United,2-0,2,0,Football League Fourth Division,4,H
+1988-11-08,1988/1989,Halifax Town,Colchester United,3-2,3,2,Football League Fourth Division,4,H
+1988-11-08,1988/1989,Grimsby Town,Doncaster Rovers,5-0,5,0,Football League Fourth Division,4,H
+1988-11-08,1988/1989,Darlington,Cambridge United,1-1,1,1,Football League Fourth Division,4,D
+1988-11-08,1988/1989,Burnley,Lincoln City,1-4,1,4,Football League Fourth Division,4,A
+1988-11-08,1988/1989,Rotherham United,Scunthorpe United,3-3,3,3,Football League Fourth Division,4,D
+1988-11-08,1988/1989,Ipswich Town,Walsall,3-1,3,1,Football League Second Division,2,H
+1988-11-08,1988/1989,Swansea City,Mansfield Town,3-1,3,1,Football League Third Division,3,H
+1988-11-08,1988/1989,Southend United,Bristol Rovers,2-2,2,2,Football League Third Division,3,D
+1988-11-08,1988/1989,Northampton Town,Port Vale,1-3,1,3,Football League Third Division,3,A
+1988-11-08,1988/1989,Huddersfield Town,Bolton Wanderers,0-1,0,1,Football League Third Division,3,A
+1988-11-08,1988/1989,Gillingham,Blackpool,1-0,1,0,Football League Third Division,3,H
+1988-11-08,1988/1989,Fulham,Reading,2-1,2,1,Football League Third Division,3,H
+1988-11-08,1988/1989,Bury,Chester,2-1,2,1,Football League Third Division,3,H
+1988-11-08,1988/1989,Bristol City,Wolverhampton Wanderers,0-1,0,1,Football League Third Division,3,A
+1988-11-08,1988/1989,Preston North End,Wigan Athletic,2-2,2,2,Football League Third Division,3,D
+1988-11-08,1988/1989,Brentford,Notts County,2-1,2,1,Football League Third Division,3,H
+1988-11-08,1988/1989,Aldershot,Sheffield United,1-0,1,0,Football League Third Division,3,H
+1988-11-09,1988/1989,Peterborough United,Hartlepool United,0-1,0,1,Football League Fourth Division,4,A
+1988-11-09,1988/1989,Exeter City,Scarborough,1-0,1,0,Football League Fourth Division,4,H
+1988-11-11,1988/1989,Colchester United,Torquay United,2-2,2,2,Football League Fourth Division,4,D
+1988-11-11,1988/1989,Stockport County,York City,3-2,3,2,Football League Fourth Division,4,H
+1988-11-11,1988/1989,Shrewsbury Town,Oldham Athletic,0-0,0,0,Football League Second Division,2,D
+1988-11-12,1988/1989,Southampton,Aston Villa,3-1,3,1,Football League First Division,1,H
+1988-11-12,1988/1989,Charlton Athletic,Everton,1-2,1,2,Football League First Division,1,A
+1988-11-12,1988/1989,Coventry City,Luton Town,1-0,1,0,Football League First Division,1,H
+1988-11-12,1988/1989,Middlesbrough,Queens Park Rangers,1-0,1,0,Football League First Division,1,H
+1988-11-12,1988/1989,Newcastle United,Arsenal,0-1,0,1,Football League First Division,1,A
+1988-11-12,1988/1989,Norwich City,Sheffield Wednesday,1-1,1,1,Football League First Division,1,D
+1988-11-12,1988/1989,Tottenham Hotspur,Wimbledon,3-2,3,2,Football League First Division,1,H
+1988-11-12,1988/1989,West Ham United,Nottingham Forest,3-3,3,3,Football League First Division,1,D
+1988-11-12,1988/1989,Liverpool,Millwall,1-1,1,1,Football League First Division,1,D
+1988-11-12,1988/1989,Derby County,Manchester United,2-2,2,2,Football League First Division,1,D
+1988-11-12,1988/1989,Scarborough,Burnley,1-0,1,0,Football League Fourth Division,4,H
+1988-11-12,1988/1989,Carlisle United,Darlington,1-2,1,2,Football League Fourth Division,4,A
+1988-11-12,1988/1989,Scunthorpe United,Leyton Orient,2-2,2,2,Football League Fourth Division,4,D
+1988-11-12,1988/1989,Crewe Alexandra,Tranmere Rovers,2-1,2,1,Football League Fourth Division,4,H
+1988-11-12,1988/1989,Doncaster Rovers,Peterborough United,2-3,2,3,Football League Fourth Division,4,A
+1988-11-12,1988/1989,Hartlepool United,Grimsby Town,2-1,2,1,Football League Fourth Division,4,H
+1988-11-12,1988/1989,Hereford United,Halifax Town,3-1,3,1,Football League Fourth Division,4,H
+1988-11-12,1988/1989,Lincoln City,Exeter City,2-0,2,0,Football League Fourth Division,4,H
+1988-11-12,1988/1989,Rochdale,Wrexham,3-3,3,3,Football League Fourth Division,4,D
+1988-11-12,1988/1989,Cambridge United,Rotherham United,1-1,1,1,Football League Fourth Division,4,D
+1988-11-12,1988/1989,Walsall,Leicester City,0-1,0,1,Football League Second Division,2,A
+1988-11-12,1988/1989,Barnsley,Bradford City,0-0,0,0,Football League Second Division,2,D
+1988-11-12,1988/1989,AFC Bournemouth,Crystal Palace,2-0,2,0,Football League Second Division,2,H
+1988-11-12,1988/1989,Swindon Town,Ipswich Town,2-3,2,3,Football League Second Division,2,A
+1988-11-12,1988/1989,Portsmouth,Plymouth Argyle,2-0,2,0,Football League Second Division,2,H
+1988-11-12,1988/1989,Oxford United,Birmingham City,3-0,3,0,Football League Second Division,2,H
+1988-11-12,1988/1989,Leeds United,West Bromwich Albion,2-1,2,1,Football League Second Division,2,H
+1988-11-12,1988/1989,Chelsea,Sunderland,1-1,1,1,Football League Second Division,2,D
+1988-11-12,1988/1989,Blackburn Rovers,Brighton & Hove Albion,2-1,2,1,Football League Second Division,2,H
+1988-11-12,1988/1989,Manchester City,Watford,3-1,3,1,Football League Second Division,2,H
+1988-11-12,1988/1989,Wigan Athletic,Bristol City,0-1,0,1,Football League Third Division,3,A
+1988-11-12,1988/1989,Chester,Chesterfield,3-1,3,1,Football League Third Division,3,H
+1988-11-12,1988/1989,Mansfield Town,Brentford,1-0,1,0,Football League Third Division,3,H
+1988-11-12,1988/1989,Cardiff City,Northampton Town,1-0,1,0,Football League Third Division,3,H
+1988-11-12,1988/1989,Notts County,Southend United,1-1,1,1,Football League Third Division,3,D
+1988-11-12,1988/1989,Port Vale,Swansea City,2-1,2,1,Football League Third Division,3,H
+1988-11-12,1988/1989,Reading,Preston North End,2-2,2,2,Football League Third Division,3,D
+1988-11-12,1988/1989,Sheffield United,Fulham,1-0,1,0,Football League Third Division,3,H
+1988-11-12,1988/1989,Wolverhampton Wanderers,Huddersfield Town,4-1,4,1,Football League Third Division,3,H
+1988-11-12,1988/1989,Bristol Rovers,Gillingham,2-0,2,0,Football League Third Division,3,H
+1988-11-12,1988/1989,Bolton Wanderers,Bury,2-4,2,4,Football League Third Division,3,A
+1988-11-12,1988/1989,Blackpool,Aldershot,4-0,4,0,Football League Third Division,3,H
+1988-11-13,1988/1989,Stoke City,Hull City,4-0,4,0,Football League Second Division,2,H
+1988-11-19,1988/1989,Wimbledon,Charlton Athletic,1-1,1,1,Football League First Division,1,D
+1988-11-19,1988/1989,Queens Park Rangers,Liverpool,0-1,0,1,Football League First Division,1,A
+1988-11-19,1988/1989,Nottingham Forest,Coventry City,0-0,0,0,Football League First Division,1,D
+1988-11-19,1988/1989,Millwall,Newcastle United,4-0,4,0,Football League First Division,1,H
+1988-11-19,1988/1989,Manchester United,Southampton,2-2,2,2,Football League First Division,1,D
+1988-11-19,1988/1989,Luton Town,West Ham United,4-1,4,1,Football League First Division,1,H
+1988-11-19,1988/1989,Everton,Norwich City,1-1,1,1,Football League First Division,1,D
+1988-11-19,1988/1989,Aston Villa,Derby County,1-2,1,2,Football League First Division,1,A
+1988-11-19,1988/1989,Arsenal,Middlesbrough,3-0,3,0,Football League First Division,1,H
+1988-11-19,1988/1989,Walsall,Blackburn Rovers,1-2,1,2,Football League Second Division,2,A
+1988-11-19,1988/1989,Crystal Palace,Leicester City,4-2,4,2,Football League Second Division,2,H
+1988-11-19,1988/1989,Sunderland,West Bromwich Albion,1-1,1,1,Football League Second Division,2,D
+1988-11-19,1988/1989,Stoke City,Swindon Town,2-1,2,1,Football League Second Division,2,H
+1988-11-19,1988/1989,Shrewsbury Town,Watford,1-1,1,1,Football League Second Division,2,D
+1988-11-19,1988/1989,Portsmouth,Barnsley,3-0,3,0,Football League Second Division,2,H
+1988-11-19,1988/1989,Oxford United,Plymouth Argyle,0-1,0,1,Football League Second Division,2,A
+1988-11-19,1988/1989,Oldham Athletic,Leeds United,2-2,2,2,Football League Second Division,2,D
+1988-11-19,1988/1989,Ipswich Town,Brighton & Hove Albion,2-3,2,3,Football League Second Division,2,A
+1988-11-19,1988/1989,Hull City,Birmingham City,1-1,1,1,Football League Second Division,2,D
+1988-11-19,1988/1989,Bradford City,Chelsea,2-2,2,2,Football League Second Division,2,D
+1988-11-19,1988/1989,AFC Bournemouth,Manchester City,0-1,0,1,Football League Second Division,2,A
+1988-11-20,1988/1989,Sheffield Wednesday,Tottenham Hotspur,0-2,0,2,Football League First Division,1,A
+1988-11-22,1988/1989,Birmingham City,Leeds United,0-0,0,0,Football League Second Division,2,D
+1988-11-22,1988/1989,Blackburn Rovers,Shrewsbury Town,0-1,0,1,Football League Second Division,2,A
+1988-11-23,1988/1989,Tottenham Hotspur,Coventry City,1-1,1,1,Football League First Division,1,D
+1988-11-23,1988/1989,Manchester United,Sheffield Wednesday,1-1,1,1,Football League First Division,1,D
+1988-11-25,1988/1989,Colchester United,Darlington,1-2,1,2,Football League Fourth Division,4,A
+1988-11-25,1988/1989,Crewe Alexandra,Peterborough United,1-1,1,1,Football League Fourth Division,4,D
+1988-11-25,1988/1989,Stockport County,Tranmere Rovers,1-1,1,1,Football League Fourth Division,4,D
+1988-11-25,1988/1989,Cardiff City,Brentford,1-0,1,0,Football League Third Division,3,H
+1988-11-26,1988/1989,Charlton Athletic,Nottingham Forest,0-1,0,1,Football League First Division,1,A
+1988-11-26,1988/1989,Coventry City,Aston Villa,2-1,2,1,Football League First Division,1,H
+1988-11-26,1988/1989,Derby County,Arsenal,2-1,2,1,Football League First Division,1,H
+1988-11-26,1988/1989,Liverpool,Wimbledon,1-1,1,1,Football League First Division,1,D
+1988-11-26,1988/1989,Middlesbrough,Sheffield Wednesday,0-1,0,1,Football League First Division,1,A
+1988-11-26,1988/1989,Norwich City,Luton Town,2-2,2,2,Football League First Division,1,D
+1988-11-26,1988/1989,Southampton,Millwall,2-2,2,2,Football League First Division,1,D
+1988-11-26,1988/1989,Tottenham Hotspur,Queens Park Rangers,2-2,2,2,Football League First Division,1,D
+1988-11-26,1988/1989,West Ham United,Everton,0-1,0,1,Football League First Division,1,A
+1988-11-26,1988/1989,Scunthorpe United,Torquay United,1-0,1,0,Football League Fourth Division,4,H
+1988-11-26,1988/1989,Carlisle United,Grimsby Town,2-1,2,1,Football League Fourth Division,4,H
+1988-11-26,1988/1989,Doncaster Rovers,Burnley,1-0,1,0,Football League Fourth Division,4,H
+1988-11-26,1988/1989,Hartlepool United,Exeter City,2-2,2,2,Football League Fourth Division,4,D
+1988-11-26,1988/1989,Hereford United,Rotherham United,1-1,1,1,Football League Fourth Division,4,D
+1988-11-26,1988/1989,Lincoln City,Halifax Town,2-1,2,1,Football League Fourth Division,4,H
+1988-11-26,1988/1989,Rochdale,York City,2-0,2,0,Football League Fourth Division,4,H
+1988-11-26,1988/1989,Scarborough,Wrexham,0-3,0,3,Football League Fourth Division,4,A
+1988-11-26,1988/1989,Cambridge United,Leyton Orient,2-2,2,2,Football League Fourth Division,4,D
+1988-11-26,1988/1989,West Bromwich Albion,Crystal Palace,5-3,5,3,Football League Second Division,2,H
+1988-11-26,1988/1989,Swindon Town,Walsall,1-0,1,0,Football League Second Division,2,H
+1988-11-26,1988/1989,Watford,Hull City,2-0,2,0,Football League Second Division,2,H
+1988-11-26,1988/1989,Birmingham City,Ipswich Town,1-0,1,0,Football League Second Division,2,H
+1988-11-26,1988/1989,Blackburn Rovers,Portsmouth,3-1,3,1,Football League Second Division,2,H
+1988-11-26,1988/1989,Brighton & Hove Albion,Sunderland,3-0,3,0,Football League Second Division,2,H
+1988-11-26,1988/1989,Chelsea,Shrewsbury Town,2-0,2,0,Football League Second Division,2,H
+1988-11-26,1988/1989,Leeds United,Stoke City,4-0,4,0,Football League Second Division,2,H
+1988-11-26,1988/1989,Leicester City,Bradford City,1-0,1,0,Football League Second Division,2,H
+1988-11-26,1988/1989,Manchester City,Oxford United,2-1,2,1,Football League Second Division,2,H
+1988-11-26,1988/1989,Plymouth Argyle,Oldham Athletic,3-0,3,0,Football League Second Division,2,H
+1988-11-26,1988/1989,Barnsley,AFC Bournemouth,5-2,5,2,Football League Second Division,2,H
+1988-11-26,1988/1989,Bolton Wanderers,Northampton Town,2-1,2,1,Football League Third Division,3,H
+1988-11-26,1988/1989,Chester,Southend United,2-4,2,4,Football League Third Division,3,A
+1988-11-26,1988/1989,Mansfield Town,Aldershot,1-1,1,1,Football League Third Division,3,D
+1988-11-26,1988/1989,Notts County,Gillingham,1-2,1,2,Football League Third Division,3,A
+1988-11-26,1988/1989,Port Vale,Fulham,3-0,3,0,Football League Third Division,3,H
+1988-11-26,1988/1989,Reading,Chesterfield,0-0,0,0,Football League Third Division,3,D
+1988-11-26,1988/1989,Sheffield United,Bristol City,3-0,3,0,Football League Third Division,3,H
+1988-11-26,1988/1989,Wigan Athletic,Huddersfield Town,0-2,0,2,Football League Third Division,3,A
+1988-11-26,1988/1989,Wolverhampton Wanderers,Preston North End,6-0,6,0,Football League Third Division,3,H
+1988-11-26,1988/1989,Blackpool,Swansea City,0-0,0,0,Football League Third Division,3,D
+1988-11-26,1988/1989,Bristol Rovers,Bury,1-3,1,3,Football League Third Division,3,A
+1988-11-27,1988/1989,Newcastle United,Manchester United,0-0,0,0,Football League First Division,1,D
+1988-11-29,1988/1989,AFC Bournemouth,Hull City,5-1,5,1,Football League Second Division,2,H
+1988-12-02,1988/1989,Tranmere Rovers,Doncaster Rovers,2-2,2,2,Football League Fourth Division,4,D
+1988-12-02,1988/1989,Torquay United,Cambridge United,3-1,3,1,Football League Fourth Division,4,H
+1988-12-02,1988/1989,Halifax Town,Crewe Alexandra,0-1,0,1,Football League Fourth Division,4,A
+1988-12-02,1988/1989,Southend United,Port Vale,1-1,1,1,Football League Third Division,3,D
+1988-12-03,1988/1989,Aston Villa,Norwich City,3-1,3,1,Football League First Division,1,H
+1988-12-03,1988/1989,Everton,Tottenham Hotspur,1-0,1,0,Football League First Division,1,H
+1988-12-03,1988/1989,Luton Town,Newcastle United,0-0,0,0,Football League First Division,1,D
+1988-12-03,1988/1989,Millwall,West Ham United,0-1,0,1,Football League First Division,1,A
+1988-12-03,1988/1989,Nottingham Forest,Middlesbrough,2-2,2,2,Football League First Division,1,D
+1988-12-03,1988/1989,Queens Park Rangers,Coventry City,2-1,2,1,Football League First Division,1,H
+1988-12-03,1988/1989,Sheffield Wednesday,Derby County,1-1,1,1,Football League First Division,1,D
+1988-12-03,1988/1989,Wimbledon,Southampton,2-1,2,1,Football League First Division,1,H
+1988-12-03,1988/1989,Manchester United,Charlton Athletic,3-0,3,0,Football League First Division,1,H
+1988-12-03,1988/1989,Darlington,Scunthorpe United,3-3,3,3,Football League Fourth Division,4,D
+1988-12-03,1988/1989,Grimsby Town,Scarborough,2-1,2,1,Football League Fourth Division,4,H
+1988-12-03,1988/1989,Leyton Orient,Lincoln City,3-1,3,1,Football League Fourth Division,4,H
+1988-12-03,1988/1989,Peterborough United,Rochdale,1-0,1,0,Football League Fourth Division,4,H
+1988-12-03,1988/1989,Rotherham United,Stockport County,2-1,2,1,Football League Fourth Division,4,H
+1988-12-03,1988/1989,Wrexham,Carlisle United,2-1,2,1,Football League Fourth Division,4,H
+1988-12-03,1988/1989,York City,Hereford United,4-1,4,1,Football League Fourth Division,4,H
+1988-12-03,1988/1989,Burnley,Hartlepool United,0-0,0,0,Football League Fourth Division,4,D
+1988-12-03,1988/1989,Exeter City,Colchester United,4-2,4,2,Football League Fourth Division,4,H
+1988-12-03,1988/1989,Walsall,Leeds United,0-3,0,3,Football League Second Division,2,A
+1988-12-03,1988/1989,Stoke City,Chelsea,0-3,0,3,Football League Second Division,2,A
+1988-12-03,1988/1989,Sunderland,Watford,1-1,1,1,Football League Second Division,2,D
+1988-12-03,1988/1989,Bradford City,Birmingham City,2-2,2,2,Football League Second Division,2,D
+1988-12-03,1988/1989,Crystal Palace,Manchester City,0-0,0,0,Football League Second Division,2,D
+1988-12-03,1988/1989,Hull City,Brighton & Hove Albion,5-2,5,2,Football League Second Division,2,H
+1988-12-03,1988/1989,Ipswich Town,Plymouth Argyle,2-2,2,2,Football League Second Division,2,D
+1988-12-03,1988/1989,Oldham Athletic,Leicester City,1-1,1,1,Football League Second Division,2,D
+1988-12-03,1988/1989,AFC Bournemouth,Blackburn Rovers,2-1,2,1,Football League Second Division,2,H
+1988-12-03,1988/1989,Oxford United,Barnsley,2-0,2,0,Football League Second Division,2,H
+1988-12-03,1988/1989,Portsmouth,West Bromwich Albion,0-0,0,0,Football League Second Division,2,D
+1988-12-03,1988/1989,Shrewsbury Town,Swindon Town,0-1,0,1,Football League Second Division,2,A
+1988-12-03,1988/1989,Aldershot,Notts County,2-3,2,3,Football League Third Division,3,A
+1988-12-03,1988/1989,Brentford,Bolton Wanderers,3-0,3,0,Football League Third Division,3,H
+1988-12-03,1988/1989,Bristol City,Reading,2-1,2,1,Football League Third Division,3,H
+1988-12-03,1988/1989,Bury,Wigan Athletic,1-1,1,1,Football League Third Division,3,D
+1988-12-03,1988/1989,Chesterfield,Mansfield Town,1-3,1,3,Football League Third Division,3,A
+1988-12-03,1988/1989,Fulham,Bristol Rovers,0-2,0,2,Football League Third Division,3,A
+1988-12-03,1988/1989,Gillingham,Chester,0-2,0,2,Football League Third Division,3,A
+1988-12-03,1988/1989,Huddersfield Town,Blackpool,1-1,1,1,Football League Third Division,3,D
+1988-12-03,1988/1989,Preston North End,Cardiff City,3-3,3,3,Football League Third Division,3,D
+1988-12-03,1988/1989,Swansea City,Sheffield United,2-2,2,2,Football League Third Division,3,D
+1988-12-04,1988/1989,Arsenal,Liverpool,1-1,1,1,Football League First Division,1,D
+1988-12-04,1988/1989,Northampton Town,Wolverhampton Wanderers,3-1,3,1,Football League Third Division,3,H
+1988-12-06,1988/1989,Plymouth Argyle,Brighton & Hove Albion,3-0,3,0,Football League Second Division,2,H
+1988-12-10,1988/1989,West Ham United,Sheffield Wednesday,0-0,0,0,Football League First Division,1,D
+1988-12-10,1988/1989,Tottenham Hotspur,Millwall,2-0,2,0,Football League First Division,1,H
+1988-12-10,1988/1989,Southampton,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1988-12-10,1988/1989,Norwich City,Arsenal,0-0,0,0,Football League First Division,1,D
+1988-12-10,1988/1989,Newcastle United,Wimbledon,2-1,2,1,Football League First Division,1,H
+1988-12-10,1988/1989,Middlesbrough,Aston Villa,3-3,3,3,Football League First Division,1,D
+1988-12-10,1988/1989,Derby County,Luton Town,0-1,0,1,Football League First Division,1,A
+1988-12-10,1988/1989,Coventry City,Manchester United,1-0,1,0,Football League First Division,1,H
+1988-12-10,1988/1989,Charlton Athletic,Queens Park Rangers,1-1,1,1,Football League First Division,1,D
+1988-12-10,1988/1989,Chelsea,Portsmouth,3-3,3,3,Football League Second Division,2,D
+1988-12-10,1988/1989,West Bromwich Albion,Hull City,2-0,2,0,Football League Second Division,2,H
+1988-12-10,1988/1989,Watford,Oxford United,1-1,1,1,Football League Second Division,2,D
+1988-12-10,1988/1989,Swindon Town,Oldham Athletic,2-2,2,2,Football League Second Division,2,D
+1988-12-10,1988/1989,Plymouth Argyle,AFC Bournemouth,1-1,1,1,Football League Second Division,2,D
+1988-12-10,1988/1989,Manchester City,Bradford City,4-0,4,0,Football League Second Division,2,H
+1988-12-10,1988/1989,Leicester City,Sunderland,3-1,3,1,Football League Second Division,2,H
+1988-12-10,1988/1989,Leeds United,Shrewsbury Town,2-3,2,3,Football League Second Division,2,A
+1988-12-10,1988/1989,Brighton & Hove Albion,Stoke City,1-1,1,1,Football League Second Division,2,D
+1988-12-10,1988/1989,Blackburn Rovers,Ipswich Town,1-0,1,0,Football League Second Division,2,H
+1988-12-10,1988/1989,Barnsley,Walsall,1-0,1,0,Football League Second Division,2,H
+1988-12-10,1988/1989,Birmingham City,Crystal Palace,0-1,0,1,Football League Second Division,2,A
+1988-12-10,1988/1989,Wigan Athletic,Southend United,3-0,3,0,Football League Third Division,3,H
+1988-12-11,1988/1989,Liverpool,Everton,1-1,1,1,Football League First Division,1,D
+1988-12-16,1988/1989,Wrexham,Cambridge United,3-1,3,1,Football League Fourth Division,4,H
+1988-12-16,1988/1989,York City,Rotherham United,1-1,1,1,Football League Fourth Division,4,D
+1988-12-16,1988/1989,Tranmere Rovers,Darlington,2-0,2,0,Football League Fourth Division,4,H
+1988-12-16,1988/1989,Crewe Alexandra,Torquay United,0-0,0,0,Football League Fourth Division,4,D
+1988-12-16,1988/1989,Rochdale,Colchester United,1-1,1,1,Football League Fourth Division,4,D
+1988-12-16,1988/1989,Birmingham City,Chelsea,1-4,1,4,Football League Second Division,2,A
+1988-12-16,1988/1989,Ipswich Town,Oldham Athletic,2-1,2,1,Football League Second Division,2,H
+1988-12-17,1988/1989,Luton Town,Aston Villa,1-1,1,1,Football League First Division,1,D
+1988-12-17,1988/1989,Arsenal,Manchester United,2-1,2,1,Football League First Division,1,H
+1988-12-17,1988/1989,Coventry City,Derby County,0-2,0,2,Football League First Division,1,A
+1988-12-17,1988/1989,Liverpool,Norwich City,0-1,0,1,Football League First Division,1,A
+1988-12-17,1988/1989,Middlesbrough,Charlton Athletic,0-0,0,0,Football League First Division,1,D
+1988-12-17,1988/1989,Millwall,Sheffield Wednesday,1-0,1,0,Football League First Division,1,H
+1988-12-17,1988/1989,Newcastle United,Southampton,3-3,3,3,Football League First Division,1,D
+1988-12-17,1988/1989,West Ham United,Tottenham Hotspur,0-2,0,2,Football League First Division,1,A
+1988-12-17,1988/1989,Queens Park Rangers,Everton,0-0,0,0,Football League First Division,1,D
+1988-12-17,1988/1989,Grimsby Town,Leyton Orient,2-2,2,2,Football League Fourth Division,4,D
+1988-12-17,1988/1989,Halifax Town,Scarborough,0-2,0,2,Football League Fourth Division,4,A
+1988-12-17,1988/1989,Stockport County,Lincoln City,1-0,1,0,Football League Fourth Division,4,H
+1988-12-17,1988/1989,Hartlepool United,Carlisle United,0-2,0,2,Football League Fourth Division,4,A
+1988-12-17,1988/1989,Hereford United,Burnley,0-0,0,0,Football League Fourth Division,4,D
+1988-12-17,1988/1989,Peterborough United,Exeter City,0-1,0,1,Football League Fourth Division,4,A
+1988-12-17,1988/1989,Doncaster Rovers,Scunthorpe United,2-2,2,2,Football League Fourth Division,4,D
+1988-12-17,1988/1989,Manchester City,Shrewsbury Town,2-2,2,2,Football League Second Division,2,D
+1988-12-17,1988/1989,Portsmouth,Brighton & Hove Albion,2-0,2,0,Football League Second Division,2,H
+1988-12-17,1988/1989,AFC Bournemouth,Walsall,2-1,2,1,Football League Second Division,2,H
+1988-12-17,1988/1989,Barnsley,Leicester City,3-0,3,0,Football League Second Division,2,H
+1988-12-17,1988/1989,Blackburn Rovers,Watford,2-1,2,1,Football League Second Division,2,H
+1988-12-17,1988/1989,Bradford City,Swindon Town,2-2,2,2,Football League Second Division,2,D
+1988-12-17,1988/1989,Crystal Palace,Leeds United,0-0,0,0,Football League Second Division,2,D
+1988-12-17,1988/1989,Swansea City,Chesterfield,2-0,2,0,Football League Third Division,3,H
+1988-12-17,1988/1989,Bristol City,Cardiff City,2-0,2,0,Football League Third Division,3,H
+1988-12-17,1988/1989,Fulham,Preston North End,2-1,2,1,Football League Third Division,3,H
+1988-12-17,1988/1989,Huddersfield Town,Bury,3-2,3,2,Football League Third Division,3,H
+1988-12-17,1988/1989,Port Vale,Reading,3-0,3,0,Football League Third Division,3,H
+1988-12-17,1988/1989,Sheffield United,Southend United,1-2,1,2,Football League Third Division,3,A
+1988-12-17,1988/1989,Wolverhampton Wanderers,Mansfield Town,6-2,6,2,Football League Third Division,3,H
+1988-12-17,1988/1989,Bolton Wanderers,Chester,0-1,0,1,Football League Third Division,3,A
+1988-12-17,1988/1989,Blackpool,Bristol Rovers,1-1,1,1,Football League Third Division,3,D
+1988-12-18,1988/1989,Nottingham Forest,Wimbledon,0-1,0,1,Football League First Division,1,A
+1988-12-18,1988/1989,Plymouth Argyle,Sunderland,1-4,1,4,Football League Second Division,2,A
+1988-12-18,1988/1989,West Bromwich Albion,Stoke City,6-0,6,0,Football League Second Division,2,H
+1988-12-18,1988/1989,Northampton Town,Gillingham,1-2,1,2,Football League Third Division,3,A
+1988-12-18,1988/1989,Wigan Athletic,Notts County,0-1,0,1,Football League Third Division,3,A
+1988-12-18,1988/1989,Aldershot,Brentford,0-0,0,0,Football League Third Division,3,D
+1988-12-26,1988/1989,Aston Villa,Queens Park Rangers,2-1,2,1,Football League First Division,1,H
+1988-12-26,1988/1989,Charlton Athletic,Arsenal,2-3,2,3,Football League First Division,1,A
+1988-12-26,1988/1989,Derby County,Liverpool,0-1,0,1,Football League First Division,1,A
+1988-12-26,1988/1989,Everton,Middlesbrough,2-1,2,1,Football League First Division,1,H
+1988-12-26,1988/1989,Manchester United,Nottingham Forest,2-0,2,0,Football League First Division,1,H
+1988-12-26,1988/1989,Sheffield Wednesday,Newcastle United,1-2,1,2,Football League First Division,1,A
+1988-12-26,1988/1989,Southampton,Coventry City,2-2,2,2,Football League First Division,1,D
+1988-12-26,1988/1989,Tottenham Hotspur,Luton Town,0-0,0,0,Football League First Division,1,D
+1988-12-26,1988/1989,Wimbledon,Millwall,1-0,1,0,Football League First Division,1,H
+1988-12-26,1988/1989,Burnley,Wrexham,1-3,1,3,Football League Fourth Division,4,A
+1988-12-26,1988/1989,Cambridge United,Doncaster Rovers,0-0,0,0,Football League Fourth Division,4,D
+1988-12-26,1988/1989,Torquay United,Stockport County,2-1,2,1,Football League Fourth Division,4,H
+1988-12-26,1988/1989,Colchester United,Peterborough United,1-2,1,2,Football League Fourth Division,4,A
+1988-12-26,1988/1989,Darlington,Halifax Town,0-2,0,2,Football League Fourth Division,4,A
+1988-12-26,1988/1989,Exeter City,Hereford United,3-1,3,1,Football League Fourth Division,4,H
+1988-12-26,1988/1989,Leyton Orient,Tranmere Rovers,2-0,2,0,Football League Fourth Division,4,H
+1988-12-26,1988/1989,Lincoln City,Grimsby Town,2-2,2,2,Football League Fourth Division,4,D
+1988-12-26,1988/1989,Rotherham United,Crewe Alexandra,1-2,1,2,Football League Fourth Division,4,A
+1988-12-26,1988/1989,Scarborough,York City,0-0,0,0,Football League Fourth Division,4,D
+1988-12-26,1988/1989,Scunthorpe United,Hartlepool United,1-1,1,1,Football League Fourth Division,4,D
+1988-12-26,1988/1989,Carlisle United,Rochdale,1-0,1,0,Football League Fourth Division,4,H
+1988-12-26,1988/1989,Watford,Portsmouth,1-0,1,0,Football League Second Division,2,H
+1988-12-26,1988/1989,Brighton & Hove Albion,Crystal Palace,3-1,3,1,Football League Second Division,2,H
+1988-12-26,1988/1989,Chelsea,Ipswich Town,3-0,3,0,Football League Second Division,2,H
+1988-12-26,1988/1989,Leeds United,Blackburn Rovers,2-0,2,0,Football League Second Division,2,H
+1988-12-26,1988/1989,Leicester City,AFC Bournemouth,0-1,0,1,Football League Second Division,2,A
+1988-12-26,1988/1989,Oldham Athletic,West Bromwich Albion,1-3,1,3,Football League Second Division,2,A
+1988-12-26,1988/1989,Shrewsbury Town,Birmingham City,0-0,0,0,Football League Second Division,2,D
+1988-12-26,1988/1989,Stoke City,Manchester City,3-1,3,1,Football League Second Division,2,H
+1988-12-26,1988/1989,Sunderland,Barnsley,1-0,1,0,Football League Second Division,2,H
+1988-12-26,1988/1989,Swindon Town,Plymouth Argyle,1-0,1,0,Football League Second Division,2,H
+1988-12-26,1988/1989,Walsall,Oxford United,1-5,1,5,Football League Second Division,2,A
+1988-12-26,1988/1989,Hull City,Bradford City,1-1,1,1,Football League Second Division,2,D
+1988-12-26,1988/1989,Chester,Wigan Athletic,1-0,1,0,Football League Third Division,3,H
+1988-12-26,1988/1989,Chesterfield,Huddersfield Town,1-1,1,1,Football League Third Division,3,D
+1988-12-26,1988/1989,Gillingham,Fulham,0-1,0,1,Football League Third Division,3,A
+1988-12-26,1988/1989,Mansfield Town,Port Vale,0-1,0,1,Football League Third Division,3,A
+1988-12-26,1988/1989,Notts County,Sheffield United,1-4,1,4,Football League Third Division,3,A
+1988-12-26,1988/1989,Preston North End,Bolton Wanderers,3-1,3,1,Football League Third Division,3,H
+1988-12-26,1988/1989,Reading,Aldershot,3-1,3,1,Football League Third Division,3,H
+1988-12-26,1988/1989,Southend United,Northampton Town,2-1,2,1,Football League Third Division,3,H
+1988-12-26,1988/1989,Cardiff City,Swansea City,2-2,2,2,Football League Third Division,3,D
+1988-12-26,1988/1989,Bury,Bristol City,2-1,2,1,Football League Third Division,3,H
+1988-12-26,1988/1989,Brentford,Blackpool,1-0,1,0,Football League Third Division,3,H
+1988-12-26,1988/1989,Bristol Rovers,Wolverhampton Wanderers,0-0,0,0,Football League Third Division,3,D
+1988-12-27,1988/1989,Norwich City,West Ham United,2-1,2,1,Football League First Division,1,H
+1988-12-28,1988/1989,Lincoln City,Doncaster Rovers,3-1,3,1,Football League Fourth Division,4,H
+1988-12-30,1988/1989,Cambridge United,Rochdale,2-0,2,0,Football League Fourth Division,4,H
+1988-12-30,1988/1989,Colchester United,Hartlepool United,1-2,1,2,Football League Fourth Division,4,A
+1988-12-30,1988/1989,Oldham Athletic,Crystal Palace,2-3,2,3,Football League Second Division,2,A
+1988-12-30,1988/1989,Reading,Blackpool,2-1,2,1,Football League Third Division,3,H
+1988-12-30,1988/1989,Cardiff City,Wigan Athletic,2-2,2,2,Football League Third Division,3,D
+1988-12-30,1988/1989,Gillingham,Port Vale,1-0,1,0,Football League Third Division,3,H
+1988-12-31,1988/1989,Aston Villa,Arsenal,0-3,0,3,Football League First Division,1,A
+1988-12-31,1988/1989,Charlton Athletic,West Ham United,0-0,0,0,Football League First Division,1,D
+1988-12-31,1988/1989,Derby County,Millwall,0-1,0,1,Football League First Division,1,A
+1988-12-31,1988/1989,Everton,Coventry City,3-1,3,1,Football League First Division,1,H
+1988-12-31,1988/1989,Sheffield Wednesday,Nottingham Forest,0-3,0,3,Football League First Division,1,A
+1988-12-31,1988/1989,Southampton,Queens Park Rangers,1-4,1,4,Football League First Division,1,A
+1988-12-31,1988/1989,Tottenham Hotspur,Newcastle United,2-0,2,0,Football League First Division,1,H
+1988-12-31,1988/1989,Norwich City,Middlesbrough,0-0,0,0,Football League First Division,1,D
+1988-12-31,1988/1989,Wimbledon,Luton Town,4-0,4,0,Football League First Division,1,H
+1988-12-31,1988/1989,Burnley,Grimsby Town,1-0,1,0,Football League Fourth Division,4,H
+1988-12-31,1988/1989,Darlington,Hereford United,0-0,0,0,Football League Fourth Division,4,D
+1988-12-31,1988/1989,Exeter City,York City,2-0,2,0,Football League Fourth Division,4,H
+1988-12-31,1988/1989,Leyton Orient,Wrexham,0-1,0,1,Football League Fourth Division,4,A
+1988-12-31,1988/1989,Rotherham United,Halifax Town,2-0,2,0,Football League Fourth Division,4,H
+1988-12-31,1988/1989,Scarborough,Crewe Alexandra,2-1,2,1,Football League Fourth Division,4,H
+1988-12-31,1988/1989,Scunthorpe United,Tranmere Rovers,0-1,0,1,Football League Fourth Division,4,A
+1988-12-31,1988/1989,Torquay United,Peterborough United,1-0,1,0,Football League Fourth Division,4,H
+1988-12-31,1988/1989,Carlisle United,Stockport County,1-1,1,1,Football League Fourth Division,4,D
+1988-12-31,1988/1989,Watford,AFC Bournemouth,1-0,1,0,Football League Second Division,2,H
+1988-12-31,1988/1989,Shrewsbury Town,Barnsley,2-3,2,3,Football League Second Division,2,A
+1988-12-31,1988/1989,Swindon Town,Manchester City,1-2,1,2,Football League Second Division,2,A
+1988-12-31,1988/1989,Walsall,Bradford City,0-1,0,1,Football League Second Division,2,A
+1988-12-31,1988/1989,Brighton & Hove Albion,Birmingham City,4-0,4,0,Football League Second Division,2,H
+1988-12-31,1988/1989,Chelsea,West Bromwich Albion,1-1,1,1,Football League Second Division,2,D
+1988-12-31,1988/1989,Hull City,Ipswich Town,1-1,1,1,Football League Second Division,2,D
+1988-12-31,1988/1989,Sunderland,Portsmouth,4-0,4,0,Football League Second Division,2,H
+1988-12-31,1988/1989,Leeds United,Plymouth Argyle,2-0,2,0,Football League Second Division,2,H
+1988-12-31,1988/1989,Leicester City,Blackburn Rovers,4-0,4,0,Football League Second Division,2,H
+1988-12-31,1988/1989,Stoke City,Oxford United,1-0,1,0,Football League Second Division,2,H
+1988-12-31,1988/1989,Bristol Rovers,Swansea City,1-1,1,1,Football League Third Division,3,D
+1988-12-31,1988/1989,Bury,Aldershot,0-1,0,1,Football League Third Division,3,A
+1988-12-31,1988/1989,Chester,Northampton Town,2-1,2,1,Football League Third Division,3,H
+1988-12-31,1988/1989,Chesterfield,Fulham,4-1,4,1,Football League Third Division,3,H
+1988-12-31,1988/1989,Mansfield Town,Huddersfield Town,1-0,1,0,Football League Third Division,3,H
+1988-12-31,1988/1989,Notts County,Bolton Wanderers,2-0,2,0,Football League Third Division,3,H
+1988-12-31,1988/1989,Preston North End,Sheffield United,2-0,2,0,Football League Third Division,3,H
+1988-12-31,1988/1989,Southend United,Bristol City,1-2,1,2,Football League Third Division,3,A
+1988-12-31,1988/1989,Brentford,Wolverhampton Wanderers,2-2,2,2,Football League Third Division,3,D
+1989-01-01,1988/1989,Manchester United,Liverpool,3-1,3,1,Football League First Division,1,H
+1989-01-02,1988/1989,Arsenal,Tottenham Hotspur,2-0,2,0,Football League First Division,1,H
+1989-01-02,1988/1989,Coventry City,Sheffield Wednesday,5-0,5,0,Football League First Division,1,H
+1989-01-02,1988/1989,Luton Town,Southampton,6-1,6,1,Football League First Division,1,H
+1989-01-02,1988/1989,Middlesbrough,Manchester United,1-0,1,0,Football League First Division,1,H
+1989-01-02,1988/1989,Millwall,Charlton Athletic,1-0,1,0,Football League First Division,1,H
+1989-01-02,1988/1989,Newcastle United,Derby County,0-1,0,1,Football League First Division,1,A
+1989-01-02,1988/1989,Queens Park Rangers,Norwich City,1-1,1,1,Football League First Division,1,D
+1989-01-02,1988/1989,West Ham United,Wimbledon,1-2,1,2,Football League First Division,1,A
+1989-01-02,1988/1989,Nottingham Forest,Everton,2-0,2,0,Football League First Division,1,H
+1989-01-02,1988/1989,York City,Lincoln City,2-1,2,1,Football League Fourth Division,4,H
+1989-01-02,1988/1989,Wrexham,Darlington,3-3,3,3,Football League Fourth Division,4,D
+1989-01-02,1988/1989,Doncaster Rovers,Scarborough,3-1,3,1,Football League Fourth Division,4,H
+1989-01-02,1988/1989,Grimsby Town,Colchester United,2-2,2,2,Football League Fourth Division,4,D
+1989-01-02,1988/1989,Halifax Town,Scunthorpe United,5-1,5,1,Football League Fourth Division,4,H
+1989-01-02,1988/1989,Hartlepool United,Rotherham United,1-1,1,1,Football League Fourth Division,4,D
+1989-01-02,1988/1989,Hereford United,Torquay United,1-1,1,1,Football League Fourth Division,4,D
+1989-01-02,1988/1989,Rochdale,Leyton Orient,0-3,0,3,Football League Fourth Division,4,A
+1989-01-02,1988/1989,Stockport County,Exeter City,4-0,4,0,Football League Fourth Division,4,H
+1989-01-02,1988/1989,Tranmere Rovers,Burnley,2-1,2,1,Football League Fourth Division,4,H
+1989-01-02,1988/1989,Crewe Alexandra,Carlisle United,1-0,1,0,Football League Fourth Division,4,H
+1989-01-02,1988/1989,West Bromwich Albion,Shrewsbury Town,4-0,4,0,Football League Second Division,2,H
+1989-01-02,1988/1989,AFC Bournemouth,Brighton & Hove Albion,2-1,2,1,Football League Second Division,2,H
+1989-01-02,1988/1989,Birmingham City,Oldham Athletic,0-0,0,0,Football League Second Division,2,D
+1989-01-02,1988/1989,Portsmouth,Swindon Town,0-2,0,2,Football League Second Division,2,A
+1989-01-02,1988/1989,Barnsley,Hull City,0-2,0,2,Football League Second Division,2,A
+1989-01-02,1988/1989,Oxford United,Chelsea,2-3,2,3,Football League Second Division,2,A
+1989-01-02,1988/1989,Manchester City,Leeds United,0-0,0,0,Football League Second Division,2,D
+1989-01-02,1988/1989,Plymouth Argyle,Watford,1-0,1,0,Football League Second Division,2,H
+1989-01-02,1988/1989,Crystal Palace,Walsall,4-0,4,0,Football League Second Division,2,H
+1989-01-02,1988/1989,Bradford City,Sunderland,1-0,1,0,Football League Second Division,2,H
+1989-01-02,1988/1989,Blackburn Rovers,Stoke City,4-3,4,3,Football League Second Division,2,H
+1989-01-02,1988/1989,Ipswich Town,Leicester City,2-0,2,0,Football League Second Division,2,H
+1989-01-02,1988/1989,Wigan Athletic,Gillingham,3-0,3,0,Football League Third Division,3,H
+1989-01-02,1988/1989,Fulham,Brentford,3-3,3,3,Football League Third Division,3,D
+1989-01-02,1988/1989,Huddersfield Town,Southend United,3-2,3,2,Football League Third Division,3,H
+1989-01-02,1988/1989,Northampton Town,Preston North End,1-0,1,0,Football League Third Division,3,H
+1989-01-02,1988/1989,Sheffield United,Chesterfield,1-3,1,3,Football League Third Division,3,A
+1989-01-02,1988/1989,Swansea City,Reading,2-0,2,0,Football League Third Division,3,H
+1989-01-02,1988/1989,Bristol City,Bristol Rovers,0-1,0,1,Football League Third Division,3,A
+1989-01-02,1988/1989,Wolverhampton Wanderers,Chester,3-1,3,1,Football League Third Division,3,H
+1989-01-02,1988/1989,Bolton Wanderers,Mansfield Town,0-0,0,0,Football League Third Division,3,D
+1989-01-02,1988/1989,Blackpool,Bury,2-2,2,2,Football League Third Division,3,D
+1989-01-02,1988/1989,Port Vale,Notts County,1-0,1,0,Football League Third Division,3,H
+1989-01-02,1988/1989,Aldershot,Cardiff City,0-1,0,1,Football League Third Division,3,A
+1989-01-03,1988/1989,Liverpool,Aston Villa,1-0,1,0,Football League First Division,1,H
+1989-01-03,1988/1989,Peterborough United,Cambridge United,1-5,1,5,Football League Fourth Division,4,A
+1989-01-06,1988/1989,Bolton Wanderers,Gillingham,2-1,2,1,Football League Third Division,3,H
+1989-01-07,1988/1989,Peterborough United,Rotherham United,0-3,0,3,Football League Fourth Division,4,A
+1989-01-07,1988/1989,Stockport County,Scunthorpe United,1-2,1,2,Football League Fourth Division,4,A
+1989-01-07,1988/1989,Rochdale,Lincoln City,2-2,2,2,Football League Fourth Division,4,D
+1989-01-07,1988/1989,Wigan Athletic,Chesterfield,0-2,0,2,Football League Third Division,3,A
+1989-01-07,1988/1989,Swansea City,Notts County,2-0,2,0,Football League Third Division,3,H
+1989-01-07,1988/1989,Northampton Town,Bury,2-0,2,0,Football League Third Division,3,H
+1989-01-07,1988/1989,Fulham,Chester,4-1,4,1,Football League Third Division,3,H
+1989-01-07,1988/1989,Aldershot,Preston North End,2-1,2,1,Football League Third Division,3,H
+1989-01-10,1988/1989,Doncaster Rovers,Carlisle United,1-3,1,3,Football League Fourth Division,4,A
+1989-01-10,1988/1989,Wolverhampton Wanderers,Cardiff City,2-0,2,0,Football League Third Division,3,H
+1989-01-13,1988/1989,Colchester United,Tranmere Rovers,2-3,2,3,Football League Fourth Division,4,A
+1989-01-13,1988/1989,Southend United,Fulham,0-0,0,0,Football League Third Division,3,D
+1989-01-14,1988/1989,Aston Villa,Newcastle United,3-1,3,1,Football League First Division,1,H
+1989-01-14,1988/1989,Charlton Athletic,Luton Town,3-0,3,0,Football League First Division,1,H
+1989-01-14,1988/1989,Derby County,West Ham United,1-2,1,2,Football League First Division,1,A
+1989-01-14,1988/1989,Everton,Arsenal,1-3,1,3,Football League First Division,1,A
+1989-01-14,1988/1989,Manchester United,Millwall,3-0,3,0,Football League First Division,1,H
+1989-01-14,1988/1989,Norwich City,Coventry City,1-2,1,2,Football League First Division,1,A
+1989-01-14,1988/1989,Sheffield Wednesday,Liverpool,2-2,2,2,Football League First Division,1,D
+1989-01-14,1988/1989,Southampton,Middlesbrough,1-3,1,3,Football League First Division,1,A
+1989-01-14,1988/1989,Wimbledon,Queens Park Rangers,1-0,1,0,Football League First Division,1,H
+1989-01-14,1988/1989,Torquay United,Grimsby Town,2-2,2,2,Football League Fourth Division,4,D
+1989-01-14,1988/1989,Darlington,Hartlepool United,0-0,0,0,Football League Fourth Division,4,D
+1989-01-14,1988/1989,Cambridge United,Hereford United,2-1,2,1,Football League Fourth Division,4,H
+1989-01-14,1988/1989,Carlisle United,York City,0-0,0,0,Football League Fourth Division,4,D
+1989-01-14,1988/1989,Exeter City,Doncaster Rovers,3-0,3,0,Football League Fourth Division,4,H
+1989-01-14,1988/1989,Leyton Orient,Stockport County,1-2,1,2,Football League Fourth Division,4,A
+1989-01-14,1988/1989,Lincoln City,Wrexham,4-3,4,3,Football League Fourth Division,4,H
+1989-01-14,1988/1989,Rotherham United,Rochdale,3-1,3,1,Football League Fourth Division,4,H
+1989-01-14,1988/1989,Scarborough,Peterborough United,2-1,2,1,Football League Fourth Division,4,H
+1989-01-14,1988/1989,Scunthorpe United,Crewe Alexandra,2-2,2,2,Football League Fourth Division,4,D
+1989-01-14,1988/1989,Burnley,Halifax Town,2-1,2,1,Football League Fourth Division,4,H
+1989-01-14,1988/1989,Oldham Athletic,Manchester City,0-1,0,1,Football League Second Division,2,A
+1989-01-14,1988/1989,Watford,West Bromwich Albion,2-0,2,0,Football League Second Division,2,H
+1989-01-14,1988/1989,Brighton & Hove Albion,Plymouth Argyle,2-2,2,2,Football League Second Division,2,D
+1989-01-14,1988/1989,Hull City,AFC Bournemouth,4-0,4,0,Football League Second Division,2,H
+1989-01-14,1988/1989,Leeds United,Birmingham City,1-0,1,0,Football League Second Division,2,H
+1989-01-14,1988/1989,Leicester City,Portsmouth,2-1,2,1,Football League Second Division,2,H
+1989-01-14,1988/1989,Shrewsbury Town,Blackburn Rovers,1-1,1,1,Football League Second Division,2,D
+1989-01-14,1988/1989,Stoke City,Bradford City,2-1,2,1,Football League Second Division,2,H
+1989-01-14,1988/1989,Sunderland,Oxford United,1-0,1,0,Football League Second Division,2,H
+1989-01-14,1988/1989,Swindon Town,Barnsley,0-0,0,0,Football League Second Division,2,D
+1989-01-14,1988/1989,Walsall,Ipswich Town,2-4,2,4,Football League Second Division,2,A
+1989-01-14,1988/1989,Chelsea,Crystal Palace,1-0,1,0,Football League Second Division,2,H
+1989-01-14,1988/1989,Cardiff City,Bolton Wanderers,1-0,1,0,Football League Third Division,3,H
+1989-01-14,1988/1989,Chester,Port Vale,1-2,1,2,Football League Third Division,3,A
+1989-01-14,1988/1989,Chesterfield,Bristol City,1-0,1,0,Football League Third Division,3,H
+1989-01-14,1988/1989,Gillingham,Aldershot,1-1,1,1,Football League Third Division,3,D
+1989-01-14,1988/1989,Mansfield Town,Wigan Athletic,0-1,0,1,Football League Third Division,3,A
+1989-01-14,1988/1989,Notts County,Blackpool,1-1,1,1,Football League Third Division,3,D
+1989-01-14,1988/1989,Preston North End,Huddersfield Town,1-0,1,0,Football League Third Division,3,H
+1989-01-14,1988/1989,Reading,Wolverhampton Wanderers,0-2,0,2,Football League Third Division,3,A
+1989-01-14,1988/1989,Bury,Swansea City,1-0,1,0,Football League Third Division,3,H
+1989-01-14,1988/1989,Bristol Rovers,Sheffield United,1-1,1,1,Football League Third Division,3,D
+1989-01-14,1988/1989,Brentford,Northampton Town,2-0,2,0,Football League Third Division,3,H
+1989-01-15,1988/1989,Tottenham Hotspur,Nottingham Forest,1-2,1,2,Football League First Division,1,A
+1989-01-20,1988/1989,Stockport County,Darlington,0-0,0,0,Football League Fourth Division,4,D
+1989-01-20,1988/1989,Halifax Town,Torquay United,2-0,2,0,Football League Fourth Division,4,H
+1989-01-21,1988/1989,Arsenal,Sheffield Wednesday,1-1,1,1,Football League First Division,1,D
+1989-01-21,1988/1989,Coventry City,Wimbledon,2-1,2,1,Football League First Division,1,H
+1989-01-21,1988/1989,Liverpool,Southampton,2-0,2,0,Football League First Division,1,H
+1989-01-21,1988/1989,Luton Town,Everton,1-0,1,0,Football League First Division,1,H
+1989-01-21,1988/1989,Middlesbrough,Tottenham Hotspur,2-2,2,2,Football League First Division,1,D
+1989-01-21,1988/1989,Nottingham Forest,Aston Villa,4-0,4,0,Football League First Division,1,H
+1989-01-21,1988/1989,Queens Park Rangers,Derby County,0-1,0,1,Football League First Division,1,A
+1989-01-21,1988/1989,West Ham United,Manchester United,1-3,1,3,Football League First Division,1,A
+1989-01-21,1988/1989,Newcastle United,Charlton Athletic,0-2,0,2,Football League First Division,1,A
+1989-01-21,1988/1989,Wrexham,Exeter City,3-0,3,0,Football League Fourth Division,4,H
+1989-01-21,1988/1989,York City,Colchester United,2-0,2,0,Football League Fourth Division,4,H
+1989-01-21,1988/1989,Crewe Alexandra,Leyton Orient,2-1,2,1,Football League Fourth Division,4,H
+1989-01-21,1988/1989,Doncaster Rovers,Rotherham United,1-0,1,0,Football League Fourth Division,4,H
+1989-01-21,1988/1989,Grimsby Town,Cambridge United,4-0,4,0,Football League Fourth Division,4,H
+1989-01-21,1988/1989,Hartlepool United,Lincoln City,3-2,3,2,Football League Fourth Division,4,H
+1989-01-21,1988/1989,Hereford United,Scunthorpe United,1-2,1,2,Football League Fourth Division,4,A
+1989-01-21,1988/1989,Peterborough United,Carlisle United,1-4,1,4,Football League Fourth Division,4,A
+1989-01-21,1988/1989,Rochdale,Burnley,2-1,2,1,Football League Fourth Division,4,H
+1989-01-21,1988/1989,Tranmere Rovers,Scarborough,1-1,1,1,Football League Fourth Division,4,D
+1989-01-21,1988/1989,Portsmouth,Shrewsbury Town,2-0,2,0,Football League Second Division,2,H
+1989-01-21,1988/1989,West Bromwich Albion,Leicester City,1-1,1,1,Football League Second Division,2,D
+1989-01-21,1988/1989,Barnsley,Oldham Athletic,4-3,4,3,Football League Second Division,2,H
+1989-01-21,1988/1989,AFC Bournemouth,Sunderland,0-1,0,1,Football League Second Division,2,A
+1989-01-21,1988/1989,Oxford United,Leeds United,3-2,3,2,Football League Second Division,2,H
+1989-01-21,1988/1989,Manchester City,Hull City,4-1,4,1,Football League Second Division,2,H
+1989-01-21,1988/1989,Ipswich Town,Stoke City,5-1,5,1,Football League Second Division,2,H
+1989-01-21,1988/1989,Plymouth Argyle,Walsall,2-0,2,0,Football League Second Division,2,H
+1989-01-21,1988/1989,Bradford City,Brighton & Hove Albion,0-1,0,1,Football League Second Division,2,A
+1989-01-21,1988/1989,Blackburn Rovers,Chelsea,1-1,1,1,Football League Second Division,2,D
+1989-01-21,1988/1989,Birmingham City,Watford,2-3,2,3,Football League Second Division,2,A
+1989-01-21,1988/1989,Crystal Palace,Swindon Town,2-1,2,1,Football League Second Division,2,H
+1989-01-21,1988/1989,Bolton Wanderers,Reading,1-1,1,1,Football League Third Division,3,D
+1989-01-21,1988/1989,Bristol City,Chester,0-1,0,1,Football League Third Division,3,A
+1989-01-21,1988/1989,Fulham,Mansfield Town,1-1,1,1,Football League Third Division,3,D
+1989-01-21,1988/1989,Huddersfield Town,Cardiff City,1-0,1,0,Football League Third Division,3,H
+1989-01-21,1988/1989,Northampton Town,Notts County,1-3,1,3,Football League Third Division,3,A
+1989-01-21,1988/1989,Port Vale,Bury,1-3,1,3,Football League Third Division,3,A
+1989-01-21,1988/1989,Swansea City,Southend United,2-0,2,0,Football League Third Division,3,H
+1989-01-21,1988/1989,Blackpool,Preston North End,1-0,1,0,Football League Third Division,3,H
+1989-01-21,1988/1989,Wigan Athletic,Brentford,1-1,1,1,Football League Third Division,3,D
+1989-01-21,1988/1989,Wolverhampton Wanderers,Chesterfield,1-0,1,0,Football League Third Division,3,H
+1989-01-21,1988/1989,Aldershot,Bristol Rovers,1-3,1,3,Football League Third Division,3,A
+1989-01-21,1988/1989,Sheffield United,Gillingham,4-2,4,2,Football League Third Division,3,H
+1989-01-22,1988/1989,Millwall,Norwich City,2-3,2,3,Football League First Division,1,A
+1989-01-28,1988/1989,Carlisle United,Halifax Town,3-1,3,1,Football League Fourth Division,4,H
+1989-01-28,1988/1989,Torquay United,Doncaster Rovers,3-2,3,2,Football League Fourth Division,4,H
+1989-01-28,1988/1989,Scunthorpe United,York City,4-2,4,2,Football League Fourth Division,4,H
+1989-01-28,1988/1989,Scarborough,Hereford United,0-2,0,2,Football League Fourth Division,4,A
+1989-01-28,1988/1989,Lincoln City,Peterborough United,1-1,1,1,Football League Fourth Division,4,D
+1989-01-28,1988/1989,Exeter City,Rochdale,5-1,5,1,Football League Fourth Division,4,H
+1989-01-28,1988/1989,Darlington,Crewe Alexandra,1-1,1,1,Football League Fourth Division,4,D
+1989-01-28,1988/1989,Burnley,Stockport County,1-0,1,0,Football League Fourth Division,4,H
+1989-01-28,1988/1989,Cambridge United,Tranmere Rovers,1-1,1,1,Football League Fourth Division,4,D
+1989-01-28,1988/1989,Preston North End,Bristol City,2-0,2,0,Football League Third Division,3,H
+1989-01-28,1988/1989,Mansfield Town,Blackpool,0-1,0,1,Football League Third Division,3,A
+1989-01-28,1988/1989,Gillingham,Huddersfield Town,1-2,1,2,Football League Third Division,3,A
+1989-01-28,1988/1989,Chesterfield,Northampton Town,1-1,1,1,Football League Third Division,3,D
+1989-01-28,1988/1989,Cardiff City,Port Vale,3-0,3,0,Football League Third Division,3,H
+1989-01-28,1988/1989,Bury,Fulham,3-1,3,1,Football League Third Division,3,H
+1989-01-28,1988/1989,Bristol Rovers,Bolton Wanderers,2-0,2,0,Football League Third Division,3,H
+1989-01-28,1988/1989,Southend United,Aldershot,1-1,1,1,Football League Third Division,3,D
+1989-01-29,1988/1989,Notts County,Wolverhampton Wanderers,1-1,1,1,Football League Third Division,3,D
+1989-02-03,1988/1989,Swansea City,Bristol City,1-1,1,1,Football League Third Division,3,D
+1989-02-03,1988/1989,Southend United,Preston North End,2-1,2,1,Football League Third Division,3,H
+1989-02-04,1988/1989,Arsenal,West Ham United,2-1,2,1,Football League First Division,1,H
+1989-02-04,1988/1989,Aston Villa,Sheffield Wednesday,2-0,2,0,Football League First Division,1,H
+1989-02-04,1988/1989,Charlton Athletic,Norwich City,1-2,1,2,Football League First Division,1,A
+1989-02-04,1988/1989,Derby County,Southampton,3-1,3,1,Football League First Division,1,H
+1989-02-04,1988/1989,Everton,Wimbledon,1-1,1,1,Football League First Division,1,D
+1989-02-04,1988/1989,Luton Town,Nottingham Forest,2-3,2,3,Football League First Division,1,A
+1989-02-04,1988/1989,Middlesbrough,Coventry City,1-1,1,1,Football League First Division,1,D
+1989-02-04,1988/1989,Newcastle United,Liverpool,2-2,2,2,Football League First Division,1,D
+1989-02-04,1988/1989,Queens Park Rangers,Millwall,1-2,1,2,Football League First Division,1,A
+1989-02-04,1988/1989,Burnley,Torquay United,1-0,1,0,Football League Fourth Division,4,H
+1989-02-04,1988/1989,Carlisle United,Scunthorpe United,0-3,0,3,Football League Fourth Division,4,A
+1989-02-04,1988/1989,Hartlepool United,York City,0-1,0,1,Football League Fourth Division,4,A
+1989-02-04,1988/1989,Doncaster Rovers,Rochdale,1-1,1,1,Football League Fourth Division,4,D
+1989-02-04,1988/1989,Exeter City,Darlington,2-1,2,1,Football League Fourth Division,4,H
+1989-02-04,1988/1989,Grimsby Town,Wrexham,0-1,0,1,Football League Fourth Division,4,A
+1989-02-04,1988/1989,Halifax Town,Stockport County,2-2,2,2,Football League Fourth Division,4,D
+1989-02-04,1988/1989,Leyton Orient,Rotherham United,3-1,3,1,Football League Fourth Division,4,H
+1989-02-04,1988/1989,Lincoln City,Cambridge United,3-0,3,0,Football League Fourth Division,4,H
+1989-02-04,1988/1989,Peterborough United,Tranmere Rovers,1-1,1,1,Football League Fourth Division,4,D
+1989-02-04,1988/1989,Scarborough,Colchester United,0-0,0,0,Football League Fourth Division,4,D
+1989-02-04,1988/1989,Crewe Alexandra,Hereford United,2-1,2,1,Football League Fourth Division,4,H
+1989-02-04,1988/1989,Ipswich Town,Crystal Palace,1-2,1,2,Football League Second Division,2,A
+1989-02-04,1988/1989,Walsall,Chelsea,0-7,0,7,Football League Second Division,2,A
+1989-02-04,1988/1989,AFC Bournemouth,West Bromwich Albion,2-1,2,1,Football League Second Division,2,H
+1989-02-04,1988/1989,Blackburn Rovers,Bradford City,2-1,2,1,Football League Second Division,2,H
+1989-02-04,1988/1989,Leeds United,Sunderland,2-0,2,0,Football League Second Division,2,H
+1989-02-04,1988/1989,Leicester City,Hull City,0-2,0,2,Football League Second Division,2,A
+1989-02-04,1988/1989,Oldham Athletic,Watford,3-1,3,1,Football League Second Division,2,H
+1989-02-04,1988/1989,Plymouth Argyle,Birmingham City,0-1,0,1,Football League Second Division,2,A
+1989-02-04,1988/1989,Portsmouth,Manchester City,0-1,0,1,Football League Second Division,2,A
+1989-02-04,1988/1989,Shrewsbury Town,Stoke City,1-2,1,2,Football League Second Division,2,A
+1989-02-04,1988/1989,Barnsley,Brighton & Hove Albion,2-2,2,2,Football League Second Division,2,D
+1989-02-04,1988/1989,Sheffield United,Bolton Wanderers,4-0,4,0,Football League Third Division,3,H
+1989-02-04,1988/1989,Port Vale,Wolverhampton Wanderers,0-0,0,0,Football League Third Division,3,D
+1989-02-04,1988/1989,Notts County,Mansfield Town,2-1,2,1,Football League Third Division,3,H
+1989-02-04,1988/1989,Bristol Rovers,Cardiff City,0-1,0,1,Football League Third Division,3,A
+1989-02-04,1988/1989,Fulham,Huddersfield Town,1-2,1,2,Football League Third Division,3,A
+1989-02-04,1988/1989,Chester,Reading,3-0,3,0,Football League Third Division,3,H
+1989-02-04,1988/1989,Bury,Chesterfield,2-1,2,1,Football League Third Division,3,H
+1989-02-04,1988/1989,Gillingham,Brentford,0-0,0,0,Football League Third Division,3,D
+1989-02-04,1988/1989,Blackpool,Wigan Athletic,2-0,2,0,Football League Third Division,3,H
+1989-02-04,1988/1989,Aldershot,Northampton Town,5-1,5,1,Football League Third Division,3,H
+1989-02-05,1988/1989,Manchester United,Tottenham Hotspur,1-0,1,0,Football League First Division,1,H
+1989-02-05,1988/1989,Swindon Town,Oxford United,3-0,3,0,Football League Second Division,2,H
+1989-02-10,1988/1989,Tranmere Rovers,Halifax Town,2-0,2,0,Football League Fourth Division,4,H
+1989-02-10,1988/1989,Colchester United,Burnley,2-2,2,2,Football League Fourth Division,4,D
+1989-02-10,1988/1989,Stockport County,Crewe Alexandra,0-1,0,1,Football League Fourth Division,4,A
+1989-02-11,1988/1989,Southampton,Everton,1-1,1,1,Football League First Division,1,D
+1989-02-11,1988/1989,Norwich City,Derby County,1-0,1,0,Football League First Division,1,H
+1989-02-11,1988/1989,Nottingham Forest,Queens Park Rangers,0-0,0,0,Football League First Division,1,D
+1989-02-11,1988/1989,Sheffield Wednesday,Manchester United,0-2,0,2,Football League First Division,1,A
+1989-02-11,1988/1989,Tottenham Hotspur,Charlton Athletic,1-1,1,1,Football League First Division,1,D
+1989-02-11,1988/1989,Wimbledon,Aston Villa,1-0,1,0,Football League First Division,1,H
+1989-02-11,1988/1989,Millwall,Arsenal,1-2,1,2,Football League First Division,1,A
+1989-02-11,1988/1989,Coventry City,Newcastle United,1-2,1,2,Football League First Division,1,A
+1989-02-11,1988/1989,Darlington,Leyton Orient,1-3,1,3,Football League Fourth Division,4,A
+1989-02-11,1988/1989,Hereford United,Lincoln City,3-2,3,2,Football League Fourth Division,4,H
+1989-02-11,1988/1989,Rochdale,Grimsby Town,0-2,0,2,Football League Fourth Division,4,A
+1989-02-11,1988/1989,Rotherham United,Carlisle United,2-1,2,1,Football League Fourth Division,4,H
+1989-02-11,1988/1989,Scunthorpe United,Exeter City,2-0,2,0,Football League Fourth Division,4,H
+1989-02-11,1988/1989,Torquay United,Scarborough,0-1,0,1,Football League Fourth Division,4,A
+1989-02-11,1988/1989,Wrexham,Doncaster Rovers,1-1,1,1,Football League Fourth Division,4,D
+1989-02-11,1988/1989,York City,Peterborough United,5-1,5,1,Football League Fourth Division,4,H
+1989-02-11,1988/1989,Cambridge United,Hartlepool United,6-0,6,0,Football League Fourth Division,4,H
+1989-02-11,1988/1989,West Bromwich Albion,Barnsley,1-1,1,1,Football League Second Division,2,D
+1989-02-11,1988/1989,Birmingham City,AFC Bournemouth,0-1,0,1,Football League Second Division,2,A
+1989-02-11,1988/1989,Bradford City,Plymouth Argyle,1-1,1,1,Football League Second Division,2,D
+1989-02-11,1988/1989,Brighton & Hove Albion,Leicester City,1-1,1,1,Football League Second Division,2,D
+1989-02-11,1988/1989,Chelsea,Swindon Town,3-2,3,2,Football League Second Division,2,H
+1989-02-11,1988/1989,Crystal Palace,Blackburn Rovers,2-2,2,2,Football League Second Division,2,D
+1989-02-11,1988/1989,Hull City,Shrewsbury Town,3-0,3,0,Football League Second Division,2,H
+1989-02-11,1988/1989,Manchester City,Ipswich Town,4-0,4,0,Football League Second Division,2,H
+1989-02-11,1988/1989,Oxford United,Portsmouth,1-0,1,0,Football League Second Division,2,H
+1989-02-11,1988/1989,Stoke City,Oldham Athletic,0-0,0,0,Football League Second Division,2,D
+1989-02-11,1988/1989,Sunderland,Walsall,0-3,0,3,Football League Second Division,2,A
+1989-02-11,1988/1989,Watford,Leeds United,1-1,1,1,Football League Second Division,2,D
+1989-02-11,1988/1989,Bristol City,Gillingham,1-0,1,0,Football League Third Division,3,H
+1989-02-11,1988/1989,Cardiff City,Sheffield United,0-0,0,0,Football League Third Division,3,D
+1989-02-11,1988/1989,Chesterfield,Notts County,3-0,3,0,Football League Third Division,3,H
+1989-02-11,1988/1989,Huddersfield Town,Port Vale,0-0,0,0,Football League Third Division,3,D
+1989-02-11,1988/1989,Mansfield Town,Southend United,4-0,4,0,Football League Third Division,3,H
+1989-02-11,1988/1989,Northampton Town,Blackpool,4-2,4,2,Football League Third Division,3,H
+1989-02-11,1988/1989,Preston North End,Bristol Rovers,1-1,1,1,Football League Third Division,3,D
+1989-02-11,1988/1989,Reading,Bury,1-1,1,1,Football League Third Division,3,D
+1989-02-11,1988/1989,Wigan Athletic,Aldershot,2-1,2,1,Football League Third Division,3,H
+1989-02-11,1988/1989,Wolverhampton Wanderers,Fulham,5-2,5,2,Football League Third Division,3,H
+1989-02-11,1988/1989,Brentford,Chester,0-1,0,1,Football League Third Division,3,A
+1989-02-11,1988/1989,Bolton Wanderers,Swansea City,1-0,1,0,Football League Third Division,3,H
+1989-02-13,1988/1989,Port Vale,Aldershot,3-0,3,0,Football League Third Division,3,H
+1989-02-14,1988/1989,Everton,Aston Villa,1-1,1,1,Football League First Division,1,D
+1989-02-14,1988/1989,Grimsby Town,Darlington,0-0,0,0,Football League Fourth Division,4,D
+1989-02-14,1988/1989,Halifax Town,Leyton Orient,2-2,2,2,Football League Fourth Division,4,D
+1989-02-17,1988/1989,Crewe Alexandra,Wrexham,2-2,2,2,Football League Fourth Division,4,D
+1989-02-17,1988/1989,Halifax Town,Cambridge United,0-0,0,0,Football League Fourth Division,4,D
+1989-02-17,1988/1989,Stockport County,Rochdale,3-0,3,0,Football League Fourth Division,4,H
+1989-02-17,1988/1989,Swansea City,Aldershot,1-0,1,0,Football League Third Division,3,H
+1989-02-18,1988/1989,Sheffield Wednesday,Southampton,1-1,1,1,Football League First Division,1,D
+1989-02-18,1988/1989,Queens Park Rangers,Arsenal,0-0,0,0,Football League First Division,1,D
+1989-02-18,1988/1989,Luton Town,Middlesbrough,1-0,1,0,Football League First Division,1,H
+1989-02-18,1988/1989,Carlisle United,Hereford United,3-0,3,0,Football League Fourth Division,4,H
+1989-02-18,1988/1989,Lincoln City,Torquay United,1-0,1,0,Football League Fourth Division,4,H
+1989-02-18,1988/1989,Hartlepool United,Doncaster Rovers,2-1,2,1,Football League Fourth Division,4,H
+1989-02-18,1988/1989,Leyton Orient,Scarborough,2-3,2,3,Football League Fourth Division,4,A
+1989-02-18,1988/1989,York City,Tranmere Rovers,0-1,0,1,Football League Fourth Division,4,A
+1989-02-18,1988/1989,Rotherham United,Darlington,1-2,1,2,Football League Fourth Division,4,A
+1989-02-18,1988/1989,Scunthorpe United,Colchester United,2-3,2,3,Football League Fourth Division,4,A
+1989-02-18,1988/1989,Exeter City,Burnley,3-0,3,0,Football League Fourth Division,4,H
+1989-02-18,1988/1989,Swindon Town,Sunderland,4-1,4,1,Football League Second Division,2,H
+1989-02-18,1988/1989,Portsmouth,Walsall,1-1,1,1,Football League Second Division,2,D
+1989-02-18,1988/1989,Plymouth Argyle,Chelsea,0-1,0,1,Football League Second Division,2,A
+1989-02-18,1988/1989,Oldham Athletic,Brighton & Hove Albion,2-1,2,1,Football League Second Division,2,H
+1989-02-18,1988/1989,Leicester City,Leeds United,1-2,1,2,Football League Second Division,2,A
+1989-02-18,1988/1989,Bradford City,West Bromwich Albion,2-0,2,0,Football League Second Division,2,H
+1989-02-18,1988/1989,Birmingham City,Manchester City,0-2,0,2,Football League Second Division,2,A
+1989-02-18,1988/1989,Fulham,Bristol City,3-1,3,1,Football League Third Division,3,H
+1989-02-18,1988/1989,Huddersfield Town,Northampton Town,1-2,1,2,Football League Third Division,3,A
+1989-02-18,1988/1989,Port Vale,Wigan Athletic,2-1,2,1,Football League Third Division,3,H
+1989-02-18,1988/1989,Reading,Cardiff City,3-1,3,1,Football League Third Division,3,H
+1989-02-18,1988/1989,Chesterfield,Gillingham,3-1,3,1,Football League Third Division,3,H
+1989-02-18,1988/1989,Bristol Rovers,Mansfield Town,0-0,0,0,Football League Third Division,3,D
+1989-02-18,1988/1989,Bury,Preston North End,1-1,1,1,Football League Third Division,3,D
+1989-02-18,1988/1989,Blackpool,Bolton Wanderers,2-0,2,0,Football League Third Division,3,H
+1989-02-18,1988/1989,Chester,Notts County,1-0,1,0,Football League Third Division,3,H
+1989-02-21,1988/1989,Millwall,Middlesbrough,2-0,2,0,Football League First Division,1,H
+1989-02-21,1988/1989,Coventry City,Arsenal,1-0,1,0,Football League First Division,1,H
+1989-02-21,1988/1989,Tottenham Hotspur,Norwich City,2-1,2,1,Football League First Division,1,H
+1989-02-21,1988/1989,Ipswich Town,Barnsley,2-0,2,0,Football League Second Division,2,H
+1989-02-21,1988/1989,Blackburn Rovers,Oxford United,3-1,3,1,Football League Second Division,2,H
+1989-02-21,1988/1989,Aldershot,Bristol City,0-1,0,1,Football League Third Division,3,A
+1989-02-24,1988/1989,Colchester United,Leyton Orient,1-0,1,0,Football League Fourth Division,4,H
+1989-02-24,1988/1989,Doncaster Rovers,Crewe Alexandra,0-1,0,1,Football League Fourth Division,4,A
+1989-02-25,1988/1989,Arsenal,Luton Town,2-0,2,0,Football League First Division,1,H
+1989-02-25,1988/1989,Derby County,Everton,3-2,3,2,Football League First Division,1,H
+1989-02-25,1988/1989,Millwall,Coventry City,1-0,1,0,Football League First Division,1,H
+1989-02-25,1988/1989,Norwich City,Manchester United,2-1,2,1,Football League First Division,1,H
+1989-02-25,1988/1989,Southampton,Tottenham Hotspur,0-2,0,2,Football League First Division,1,A
+1989-02-25,1988/1989,West Ham United,Queens Park Rangers,0-0,0,0,Football League First Division,1,D
+1989-02-25,1988/1989,Aston Villa,Charlton Athletic,1-2,1,2,Football League First Division,1,A
+1989-02-25,1988/1989,Wimbledon,Sheffield Wednesday,1-0,1,0,Football League First Division,1,H
+1989-02-25,1988/1989,Burnley,Peterborough United,1-1,1,1,Football League Fourth Division,4,D
+1989-02-25,1988/1989,Cambridge United,Scunthorpe United,0-3,0,3,Football League Fourth Division,4,A
+1989-02-25,1988/1989,Darlington,York City,2-2,2,2,Football League Fourth Division,4,D
+1989-02-25,1988/1989,Grimsby Town,Exeter City,2-1,2,1,Football League Fourth Division,4,H
+1989-02-25,1988/1989,Hereford United,Stockport County,2-1,2,1,Football League Fourth Division,4,H
+1989-02-25,1988/1989,Tranmere Rovers,Rotherham United,0-0,0,0,Football League Fourth Division,4,D
+1989-02-25,1988/1989,Scarborough,Lincoln City,1-1,1,1,Football League Fourth Division,4,D
+1989-02-25,1988/1989,West Bromwich Albion,Birmingham City,0-0,0,0,Football League Second Division,2,D
+1989-02-25,1988/1989,Walsall,Shrewsbury Town,1-1,1,1,Football League Second Division,2,D
+1989-02-25,1988/1989,Sunderland,Hull City,2-0,2,0,Football League Second Division,2,H
+1989-02-25,1988/1989,Oxford United,Ipswich Town,1-1,1,1,Football League Second Division,2,D
+1989-02-25,1988/1989,Stoke City,Leicester City,2-2,2,2,Football League Second Division,2,D
+1989-02-25,1988/1989,AFC Bournemouth,Portsmouth,1-0,1,0,Football League Second Division,2,H
+1989-02-25,1988/1989,Barnsley,Blackburn Rovers,0-1,0,1,Football League Second Division,2,A
+1989-02-25,1988/1989,Brighton & Hove Albion,Watford,1-0,1,0,Football League Second Division,2,H
+1989-02-25,1988/1989,Chelsea,Oldham Athletic,2-2,2,2,Football League Second Division,2,D
+1989-02-25,1988/1989,Crystal Palace,Bradford City,2-0,2,0,Football League Second Division,2,H
+1989-02-25,1988/1989,Leeds United,Swindon Town,0-0,0,0,Football League Second Division,2,D
+1989-02-25,1988/1989,Manchester City,Plymouth Argyle,2-0,2,0,Football League Second Division,2,H
+1989-02-25,1988/1989,Brentford,Bury,2-2,2,2,Football League Third Division,3,D
+1989-02-25,1988/1989,Gillingham,Southend United,1-1,1,1,Football League Third Division,3,D
+1989-02-25,1988/1989,Mansfield Town,Reading,2-1,2,1,Football League Third Division,3,H
+1989-02-25,1988/1989,Northampton Town,Swansea City,1-0,1,0,Football League Third Division,3,H
+1989-02-25,1988/1989,Notts County,Bristol Rovers,1-0,1,0,Football League Third Division,3,H
+1989-02-25,1988/1989,Preston North End,Chesterfield,6-0,6,0,Football League Third Division,3,H
+1989-02-25,1988/1989,Sheffield United,Blackpool,4-1,4,1,Football League Third Division,3,H
+1989-02-26,1988/1989,Middlesbrough,Newcastle United,1-1,1,1,Football League First Division,1,D
+1989-02-28,1988/1989,Arsenal,Millwall,0-0,0,0,Football League First Division,1,D
+1989-02-28,1988/1989,Colchester United,Rotherham United,1-1,1,1,Football League Fourth Division,4,D
+1989-02-28,1988/1989,Doncaster Rovers,York City,1-2,1,2,Football League Fourth Division,4,A
+1989-02-28,1988/1989,Torquay United,Darlington,1-0,1,0,Football League Fourth Division,4,H
+1989-02-28,1988/1989,Hartlepool United,Stockport County,2-2,2,2,Football League Fourth Division,4,D
+1989-02-28,1988/1989,Rochdale,Hereford United,2-2,2,2,Football League Fourth Division,4,D
+1989-02-28,1988/1989,Wrexham,Scunthorpe United,2-0,2,0,Football League Fourth Division,4,H
+1989-02-28,1988/1989,Grimsby Town,Crewe Alexandra,0-0,0,0,Football League Fourth Division,4,D
+1989-02-28,1988/1989,AFC Bournemouth,Oldham Athletic,2-2,2,2,Football League Second Division,2,D
+1989-02-28,1988/1989,Barnsley,Watford,2-2,2,2,Football League Second Division,2,D
+1989-02-28,1988/1989,Chelsea,Hull City,2-1,2,1,Football League Second Division,2,H
+1989-02-28,1988/1989,Blackburn Rovers,Sunderland,2-2,2,2,Football League Second Division,2,D
+1989-02-28,1988/1989,Shrewsbury Town,Plymouth Argyle,2-0,2,0,Football League Second Division,2,H
+1989-02-28,1988/1989,Stoke City,Birmingham City,1-0,1,0,Football League Second Division,2,H
+1989-02-28,1988/1989,Swindon Town,Leicester City,2-1,2,1,Football League Second Division,2,H
+1989-02-28,1988/1989,Walsall,Brighton & Hove Albion,1-0,1,0,Football League Second Division,2,H
+1989-02-28,1988/1989,Portsmouth,Ipswich Town,0-1,0,1,Football League Second Division,2,A
+1989-02-28,1988/1989,Northampton Town,Fulham,2-1,2,1,Football League Third Division,3,H
+1989-02-28,1988/1989,Notts County,Cardiff City,2-0,2,0,Football League Third Division,3,H
+1989-02-28,1988/1989,Sheffield United,Port Vale,0-0,0,0,Football League Third Division,3,D
+1989-02-28,1988/1989,Mansfield Town,Chester,2-0,2,0,Football League Third Division,3,H
+1989-02-28,1988/1989,Gillingham,Preston North End,1-3,1,3,Football League Third Division,3,A
+1989-02-28,1988/1989,Southend United,Bury,1-1,1,1,Football League Third Division,3,D
+1989-02-28,1988/1989,Blackpool,Wolverhampton Wanderers,0-2,0,2,Football League Third Division,3,A
+1989-02-28,1988/1989,Brentford,Chesterfield,1-0,1,0,Football League Third Division,3,H
+1989-03-01,1988/1989,Wimbledon,Derby County,4-0,4,0,Football League First Division,1,H
+1989-03-01,1988/1989,Tottenham Hotspur,Aston Villa,2-0,2,0,Football League First Division,1,H
+1989-03-01,1988/1989,Liverpool,Charlton Athletic,2-0,2,0,Football League First Division,1,H
+1989-03-01,1988/1989,Scarborough,Cambridge United,2-1,2,1,Football League Fourth Division,4,H
+1989-03-01,1988/1989,Peterborough United,Halifax Town,2-1,2,1,Football League Fourth Division,4,H
+1989-03-01,1988/1989,Exeter City,Leyton Orient,1-1,1,1,Football League Fourth Division,4,D
+1989-03-01,1988/1989,Lincoln City,Tranmere Rovers,2-1,2,1,Football League Fourth Division,4,H
+1989-03-01,1988/1989,Oxford United,Crystal Palace,1-0,1,0,Football League Second Division,2,H
+1989-03-01,1988/1989,Leeds United,Bradford City,3-3,3,3,Football League Second Division,2,D
+1989-03-01,1988/1989,Manchester City,West Bromwich Albion,1-1,1,1,Football League Second Division,2,D
+1989-03-01,1988/1989,Bristol Rovers,Reading,1-1,1,1,Football League Third Division,3,D
+1989-03-03,1988/1989,Halifax Town,Doncaster Rovers,2-0,2,0,Football League Fourth Division,4,H
+1989-03-03,1988/1989,Tranmere Rovers,Wrexham,2-1,2,1,Football League Fourth Division,4,H
+1989-03-03,1988/1989,Oldham Athletic,Shrewsbury Town,3-0,3,0,Football League Second Division,2,H
+1989-03-04,1988/1989,Sheffield Wednesday,Charlton Athletic,3-1,3,1,Football League First Division,1,H
+1989-03-04,1988/1989,Carlisle United,Exeter City,1-0,1,0,Football League Fourth Division,4,H
+1989-03-04,1988/1989,Crewe Alexandra,Hartlepool United,3-0,3,0,Football League Fourth Division,4,H
+1989-03-04,1988/1989,Rotherham United,Torquay United,1-0,1,0,Football League Fourth Division,4,H
+1989-03-04,1988/1989,Hereford United,Peterborough United,4-0,4,0,Football League Fourth Division,4,H
+1989-03-04,1988/1989,Leyton Orient,Burnley,3-0,3,0,Football League Fourth Division,4,H
+1989-03-04,1988/1989,Scunthorpe United,Rochdale,4-0,4,0,Football League Fourth Division,4,H
+1989-03-04,1988/1989,Stockport County,Scarborough,2-2,2,2,Football League Fourth Division,4,D
+1989-03-04,1988/1989,York City,Grimsby Town,0-3,0,3,Football League Fourth Division,4,A
+1989-03-04,1988/1989,Darlington,Lincoln City,2-1,2,1,Football League Fourth Division,4,H
+1989-03-04,1988/1989,Birmingham City,Oxford United,0-0,0,0,Football League Second Division,2,D
+1989-03-04,1988/1989,Bradford City,Barnsley,1-2,1,2,Football League Second Division,2,A
+1989-03-04,1988/1989,Brighton & Hove Albion,Blackburn Rovers,3-0,3,0,Football League Second Division,2,H
+1989-03-04,1988/1989,Hull City,Stoke City,1-4,1,4,Football League Second Division,2,A
+1989-03-04,1988/1989,Ipswich Town,Swindon Town,1-2,1,2,Football League Second Division,2,A
+1989-03-04,1988/1989,Leicester City,Walsall,1-0,1,0,Football League Second Division,2,H
+1989-03-04,1988/1989,Crystal Palace,AFC Bournemouth,2-3,2,3,Football League Second Division,2,A
+1989-03-04,1988/1989,Watford,Manchester City,1-0,1,0,Football League Second Division,2,H
+1989-03-04,1988/1989,Plymouth Argyle,Portsmouth,0-1,0,1,Football League Second Division,2,A
+1989-03-04,1988/1989,Preston North End,Brentford,5-3,5,3,Football League Third Division,3,H
+1989-03-04,1988/1989,Reading,Notts County,1-3,1,3,Football League Third Division,3,A
+1989-03-04,1988/1989,Wigan Athletic,Sheffield United,1-2,1,2,Football League Third Division,3,A
+1989-03-04,1988/1989,Wolverhampton Wanderers,Bolton Wanderers,1-0,1,0,Football League Third Division,3,H
+1989-03-04,1988/1989,Port Vale,Blackpool,1-0,1,0,Football League Third Division,3,H
+1989-03-04,1988/1989,Huddersfield Town,Aldershot,2-1,2,1,Football League Third Division,3,H
+1989-03-04,1988/1989,Chesterfield,Southend United,2-1,2,1,Football League Third Division,3,H
+1989-03-04,1988/1989,Bristol City,Northampton Town,3-1,3,1,Football League Third Division,3,H
+1989-03-04,1988/1989,Bury,Gillingham,1-0,1,0,Football League Third Division,3,H
+1989-03-04,1988/1989,Cardiff City,Mansfield Town,0-0,0,0,Football League Third Division,3,D
+1989-03-04,1988/1989,Chester,Bristol Rovers,0-2,0,2,Football League Third Division,3,A
+1989-03-04,1988/1989,Fulham,Swansea City,1-0,1,0,Football League Third Division,3,H
+1989-03-05,1988/1989,Cambridge United,Colchester United,3-1,3,1,Football League Fourth Division,4,H
+1989-03-05,1988/1989,West Bromwich Albion,Leeds United,2-1,2,1,Football League Second Division,2,H
+1989-03-07,1988/1989,Wrexham,Hartlepool United,4-3,4,3,Football League Fourth Division,4,H
+1989-03-07,1988/1989,Rotherham United,Grimsby Town,1-0,1,0,Football League Fourth Division,4,H
+1989-03-07,1988/1989,Huddersfield Town,Reading,2-2,2,2,Football League Third Division,3,D
+1989-03-10,1988/1989,Doncaster Rovers,Darlington,1-0,1,0,Football League Fourth Division,4,H
+1989-03-10,1988/1989,Colchester United,Crewe Alexandra,2-1,2,1,Football League Fourth Division,4,H
+1989-03-10,1988/1989,Southend United,Wolverhampton Wanderers,3-1,3,1,Football League Third Division,3,H
+1989-03-11,1988/1989,Arsenal,Nottingham Forest,1-3,1,3,Football League First Division,1,A
+1989-03-11,1988/1989,Charlton Athletic,Southampton,2-2,2,2,Football League First Division,1,D
+1989-03-11,1988/1989,Derby County,Tottenham Hotspur,1-1,1,1,Football League First Division,1,D
+1989-03-11,1988/1989,Everton,Sheffield Wednesday,1-0,1,0,Football League First Division,1,H
+1989-03-11,1988/1989,Luton Town,Millwall,1-2,1,2,Football League First Division,1,A
+1989-03-11,1988/1989,Middlesbrough,Liverpool,0-4,0,4,Football League First Division,1,A
+1989-03-11,1988/1989,Newcastle United,Queens Park Rangers,1-2,1,2,Football League First Division,1,A
+1989-03-11,1988/1989,Norwich City,Wimbledon,1-0,1,0,Football League First Division,1,H
+1989-03-11,1988/1989,West Ham United,Coventry City,1-1,1,1,Football League First Division,1,D
+1989-03-11,1988/1989,Wrexham,Hereford United,1-1,1,1,Football League Fourth Division,4,D
+1989-03-11,1988/1989,Burnley,Scunthorpe United,0-1,0,1,Football League Fourth Division,4,A
+1989-03-11,1988/1989,Exeter City,Cambridge United,0-3,0,3,Football League Fourth Division,4,A
+1989-03-11,1988/1989,Grimsby Town,Stockport County,2-0,2,0,Football League Fourth Division,4,H
+1989-03-11,1988/1989,Hartlepool United,Halifax Town,2-0,2,0,Football League Fourth Division,4,H
+1989-03-11,1988/1989,Lincoln City,Rotherham United,0-1,0,1,Football League Fourth Division,4,A
+1989-03-11,1988/1989,Peterborough United,Leyton Orient,0-1,0,1,Football League Fourth Division,4,A
+1989-03-11,1988/1989,Rochdale,Tranmere Rovers,3-1,3,1,Football League Fourth Division,4,H
+1989-03-11,1988/1989,Scarborough,Carlisle United,0-1,0,1,Football League Fourth Division,4,A
+1989-03-11,1988/1989,Manchester City,Leicester City,4-2,4,2,Football League Second Division,2,H
+1989-03-11,1988/1989,Swindon Town,Hull City,1-0,1,0,Football League Second Division,2,H
+1989-03-11,1988/1989,Walsall,Oldham Athletic,2-2,2,2,Football League Second Division,2,D
+1989-03-11,1988/1989,AFC Bournemouth,Bradford City,3-0,3,0,Football League Second Division,2,H
+1989-03-11,1988/1989,Barnsley,Crystal Palace,1-1,1,1,Football League Second Division,2,D
+1989-03-11,1988/1989,Blackburn Rovers,Plymouth Argyle,1-2,1,2,Football League Second Division,2,A
+1989-03-11,1988/1989,Chelsea,Watford,2-2,2,2,Football League Second Division,2,D
+1989-03-11,1988/1989,Leeds United,Ipswich Town,2-4,2,4,Football League Second Division,2,A
+1989-03-11,1988/1989,Oxford United,West Bromwich Albion,1-1,1,1,Football League Second Division,2,D
+1989-03-11,1988/1989,Portsmouth,Birmingham City,1-0,1,0,Football League Second Division,2,H
+1989-03-11,1988/1989,Shrewsbury Town,Brighton & Hove Albion,1-1,1,1,Football League Second Division,2,D
+1989-03-11,1988/1989,Stoke City,Sunderland,2-0,2,0,Football League Second Division,2,H
+1989-03-11,1988/1989,Blackpool,Fulham,0-1,0,1,Football League Third Division,3,A
+1989-03-11,1988/1989,Bolton Wanderers,Bristol City,2-0,2,0,Football League Third Division,3,H
+1989-03-11,1988/1989,Brentford,Reading,3-2,3,2,Football League Third Division,3,H
+1989-03-11,1988/1989,Bristol Rovers,Chesterfield,2-1,2,1,Football League Third Division,3,H
+1989-03-11,1988/1989,Gillingham,Cardiff City,1-2,1,2,Football League Third Division,3,A
+1989-03-11,1988/1989,Mansfield Town,Preston North End,0-3,0,3,Football League Third Division,3,A
+1989-03-11,1988/1989,Northampton Town,Wigan Athletic,1-1,1,1,Football League Third Division,3,D
+1989-03-11,1988/1989,Notts County,Bury,3-0,3,0,Football League Third Division,3,H
+1989-03-11,1988/1989,Sheffield United,Huddersfield Town,5-1,5,1,Football League Third Division,3,H
+1989-03-11,1988/1989,Swansea City,Chester,1-1,1,1,Football League Third Division,3,D
+1989-03-11,1988/1989,Aldershot,Port Vale,2-2,2,2,Football League Third Division,3,D
+1989-03-12,1988/1989,Aston Villa,Manchester United,0-0,0,0,Football League First Division,1,D
+1989-03-13,1988/1989,Stockport County,Colchester United,1-0,1,0,Football League Fourth Division,4,H
+1989-03-13,1988/1989,Tranmere Rovers,Torquay United,3-0,3,0,Football League Fourth Division,4,H
+1989-03-13,1988/1989,Port Vale,Brentford,3-2,3,2,Football League Third Division,3,H
+1989-03-14,1988/1989,Liverpool,Luton Town,5-0,5,0,Football League First Division,1,H
+1989-03-14,1988/1989,Rotherham United,Scarborough,1-1,1,1,Football League Fourth Division,4,D
+1989-03-14,1988/1989,Leyton Orient,Doncaster Rovers,4-0,4,0,Football League Fourth Division,4,H
+1989-03-14,1988/1989,Halifax Town,Grimsby Town,2-1,2,1,Football League Fourth Division,4,H
+1989-03-14,1988/1989,Darlington,Rochdale,1-2,1,2,Football League Fourth Division,4,A
+1989-03-14,1988/1989,Crewe Alexandra,Exeter City,2-1,2,1,Football League Fourth Division,4,H
+1989-03-14,1988/1989,Carlisle United,Lincoln City,2-1,2,1,Football League Fourth Division,4,H
+1989-03-14,1988/1989,Cambridge United,Burnley,2-1,2,1,Football League Fourth Division,4,H
+1989-03-14,1988/1989,Scunthorpe United,Peterborough United,3-0,3,0,Football League Fourth Division,4,H
+1989-03-14,1988/1989,York City,Wrexham,1-0,1,0,Football League Fourth Division,4,H
+1989-03-14,1988/1989,Sunderland,Manchester City,2-4,2,4,Football League Second Division,2,A
+1989-03-14,1988/1989,Oldham Athletic,Portsmouth,5-3,5,3,Football League Second Division,2,H
+1989-03-14,1988/1989,Ipswich Town,AFC Bournemouth,3-1,3,1,Football League Second Division,2,H
+1989-03-14,1988/1989,Hull City,Leeds United,1-2,1,2,Football League Second Division,2,A
+1989-03-14,1988/1989,Wolverhampton Wanderers,Gillingham,6-1,6,1,Football League Third Division,3,H
+1989-03-14,1988/1989,Preston North End,Swansea City,1-1,1,1,Football League Third Division,3,D
+1989-03-14,1988/1989,Fulham,Notts County,2-1,2,1,Football League Third Division,3,H
+1989-03-14,1988/1989,Chesterfield,Bolton Wanderers,1-1,1,1,Football League Third Division,3,D
+1989-03-14,1988/1989,Bury,Sheffield United,1-2,1,2,Football League Third Division,3,A
+1989-03-14,1988/1989,Huddersfield Town,Bristol Rovers,2-3,2,3,Football League Third Division,3,A
+1989-03-15,1988/1989,Nottingham Forest,Newcastle United,1-1,1,1,Football League First Division,1,D
+1989-03-15,1988/1989,Hereford United,Hartlepool United,2-0,2,0,Football League Fourth Division,4,H
+1989-03-15,1988/1989,West Bromwich Albion,Blackburn Rovers,2-0,2,0,Football League Second Division,2,H
+1989-03-15,1988/1989,Brighton & Hove Albion,Chelsea,0-1,0,1,Football League Second Division,2,A
+1989-03-15,1988/1989,Bradford City,Oxford United,0-0,0,0,Football League Second Division,2,D
+1989-03-15,1988/1989,Leicester City,Shrewsbury Town,1-1,1,1,Football League Second Division,2,D
+1989-03-15,1988/1989,Chester,Aldershot,1-1,1,1,Football League Third Division,3,D
+1989-03-15,1988/1989,Reading,Northampton Town,1-1,1,1,Football League Third Division,3,D
+1989-03-17,1988/1989,Halifax Town,Exeter City,0-3,0,3,Football League Fourth Division,4,A
+1989-03-17,1988/1989,Stockport County,Cambridge United,0-0,0,0,Football League Fourth Division,4,D
+1989-03-17,1988/1989,Tranmere Rovers,Carlisle United,0-0,0,0,Football League Fourth Division,4,D
+1989-03-18,1988/1989,Luton Town,Sheffield Wednesday,0-1,0,1,Football League First Division,1,A
+1989-03-18,1988/1989,Middlesbrough,Derby County,0-1,0,1,Football League First Division,1,A
+1989-03-18,1988/1989,Millwall,Aston Villa,2-0,2,0,Football League First Division,1,H
+1989-03-18,1988/1989,Coventry City,Tottenham Hotspur,1-1,1,1,Football League First Division,1,D
+1989-03-18,1988/1989,Crewe Alexandra,Lincoln City,2-0,2,0,Football League Fourth Division,4,H
+1989-03-18,1988/1989,Hartlepool United,Torquay United,0-1,0,1,Football League Fourth Division,4,A
+1989-03-18,1988/1989,Grimsby Town,Scunthorpe United,1-1,1,1,Football League Fourth Division,4,D
+1989-03-18,1988/1989,Hereford United,Leyton Orient,1-1,1,1,Football League Fourth Division,4,D
+1989-03-18,1988/1989,Peterborough United,Darlington,1-1,1,1,Football League Fourth Division,4,D
+1989-03-18,1988/1989,Rochdale,Scarborough,2-1,2,1,Football League Fourth Division,4,H
+1989-03-18,1988/1989,Wrexham,Rotherham United,1-4,1,4,Football League Fourth Division,4,A
+1989-03-18,1988/1989,York City,Burnley,0-0,0,0,Football League Fourth Division,4,D
+1989-03-18,1988/1989,Doncaster Rovers,Colchester United,3-1,3,1,Football League Fourth Division,4,H
+1989-03-18,1988/1989,West Bromwich Albion,Brighton & Hove Albion,1-0,1,0,Football League Second Division,2,H
+1989-03-18,1988/1989,AFC Bournemouth,Swindon Town,2-3,2,3,Football League Second Division,2,A
+1989-03-18,1988/1989,Birmingham City,Walsall,1-0,1,0,Football League Second Division,2,H
+1989-03-18,1988/1989,Blackburn Rovers,Hull City,4-0,4,0,Football League Second Division,2,H
+1989-03-18,1988/1989,Crystal Palace,Sunderland,1-0,1,0,Football League Second Division,2,H
+1989-03-18,1988/1989,Ipswich Town,Shrewsbury Town,2-0,2,0,Football League Second Division,2,H
+1989-03-18,1988/1989,Manchester City,Chelsea,2-3,2,3,Football League Second Division,2,A
+1989-03-18,1988/1989,Oxford United,Oldham Athletic,1-1,1,1,Football League Second Division,2,D
+1989-03-18,1988/1989,Plymouth Argyle,Leicester City,1-1,1,1,Football League Second Division,2,D
+1989-03-18,1988/1989,Portsmouth,Stoke City,0-0,0,0,Football League Second Division,2,D
+1989-03-18,1988/1989,Bradford City,Watford,2-1,2,1,Football League Second Division,2,H
+1989-03-18,1988/1989,Bristol City,Notts County,0-4,0,4,Football League Third Division,3,A
+1989-03-18,1988/1989,Fulham,Cardiff City,2-0,2,0,Football League Third Division,3,H
+1989-03-18,1988/1989,Port Vale,Preston North End,1-1,1,1,Football League Third Division,3,D
+1989-03-18,1988/1989,Sheffield United,Reading,1-0,1,0,Football League Third Division,3,H
+1989-03-18,1988/1989,Wolverhampton Wanderers,Bury,4-0,4,0,Football League Third Division,3,H
+1989-03-18,1988/1989,Bolton Wanderers,Southend United,0-0,0,0,Football League Third Division,3,D
+1989-03-18,1988/1989,Blackpool,Chester,1-1,1,1,Football League Third Division,3,D
+1989-03-18,1988/1989,Northampton Town,Mansfield Town,2-1,2,1,Football League Third Division,3,H
+1989-03-18,1988/1989,Aldershot,Chesterfield,2-0,2,0,Football League Third Division,3,H
+1989-03-19,1988/1989,Barnsley,Leeds United,2-2,2,2,Football League Second Division,2,D
+1989-03-19,1988/1989,Swansea City,Gillingham,3-2,3,2,Football League Third Division,3,H
+1989-03-20,1988/1989,Tranmere Rovers,Exeter City,2-0,2,0,Football League Fourth Division,4,H
+1989-03-21,1988/1989,Arsenal,Charlton Athletic,2-2,2,2,Football League First Division,1,D
+1989-03-21,1988/1989,Queens Park Rangers,Luton Town,1-1,1,1,Football League First Division,1,D
+1989-03-21,1988/1989,Leyton Orient,Hartlepool United,4-3,4,3,Football League Fourth Division,4,H
+1989-03-21,1988/1989,Burnley,Carlisle United,0-0,0,0,Football League Fourth Division,4,D
+1989-03-21,1988/1989,Sunderland,Chelsea,1-2,1,2,Football League Second Division,2,A
+1989-03-21,1988/1989,Chesterfield,Cardiff City,4-0,4,0,Football League Third Division,3,H
+1989-03-21,1988/1989,Bristol City,Mansfield Town,2-0,2,0,Football League Third Division,3,H
+1989-03-22,1988/1989,Nottingham Forest,Tottenham Hotspur,1-2,1,2,Football League First Division,1,A
+1989-03-22,1988/1989,Coventry City,Liverpool,1-3,1,3,Football League First Division,1,A
+1989-03-22,1988/1989,Newcastle United,Everton,2-0,2,0,Football League First Division,1,H
+1989-03-22,1988/1989,Swansea City,Huddersfield Town,1-0,1,0,Football League Third Division,3,H
+1989-03-24,1988/1989,Colchester United,Grimsby Town,0-0,0,0,Football League Fourth Division,4,D
+1989-03-24,1988/1989,Oldham Athletic,Blackburn Rovers,1-1,1,1,Football League Second Division,2,D
+1989-03-24,1988/1989,Watford,Crystal Palace,0-1,0,1,Football League Second Division,2,A
+1989-03-24,1988/1989,Gillingham,Wigan Athletic,2-1,2,1,Football League Third Division,3,H
+1989-03-24,1988/1989,Brentford,Fulham,0-1,0,1,Football League Third Division,3,A
+1989-03-25,1988/1989,Derby County,Nottingham Forest,0-2,0,2,Football League First Division,1,A
+1989-03-25,1988/1989,Everton,Millwall,1-1,1,1,Football League First Division,1,D
+1989-03-25,1988/1989,Manchester United,Luton Town,2-0,2,0,Football League First Division,1,H
+1989-03-25,1988/1989,Norwich City,Newcastle United,0-2,0,2,Football League First Division,1,A
+1989-03-25,1988/1989,Sheffield Wednesday,Queens Park Rangers,0-2,0,2,Football League First Division,1,A
+1989-03-25,1988/1989,Southampton,Arsenal,1-3,1,3,Football League First Division,1,A
+1989-03-25,1988/1989,Wimbledon,Middlesbrough,1-1,1,1,Football League First Division,1,D
+1989-03-25,1988/1989,Charlton Athletic,Coventry City,0-0,0,0,Football League First Division,1,D
+1989-03-25,1988/1989,Aston Villa,West Ham United,0-1,0,1,Football League First Division,1,A
+1989-03-25,1988/1989,Cambridge United,Peterborough United,2-1,2,1,Football League Fourth Division,4,H
+1989-03-25,1988/1989,Carlisle United,Crewe Alexandra,0-1,0,1,Football League Fourth Division,4,A
+1989-03-25,1988/1989,Darlington,Wrexham,2-1,2,1,Football League Fourth Division,4,H
+1989-03-25,1988/1989,Exeter City,Stockport County,2-2,2,2,Football League Fourth Division,4,D
+1989-03-25,1988/1989,Leyton Orient,Rochdale,3-0,3,0,Football League Fourth Division,4,H
+1989-03-25,1988/1989,Lincoln City,York City,2-1,2,1,Football League Fourth Division,4,H
+1989-03-25,1988/1989,Rotherham United,Hartlepool United,4-0,4,0,Football League Fourth Division,4,H
+1989-03-25,1988/1989,Scarborough,Doncaster Rovers,2-0,2,0,Football League Fourth Division,4,H
+1989-03-25,1988/1989,Scunthorpe United,Halifax Town,0-0,0,0,Football League Fourth Division,4,D
+1989-03-25,1988/1989,Torquay United,Hereford United,1-0,1,0,Football League Fourth Division,4,H
+1989-03-25,1988/1989,Burnley,Tranmere Rovers,2-2,2,2,Football League Fourth Division,4,D
+1989-03-25,1988/1989,Walsall,Manchester City,3-3,3,3,Football League Second Division,2,D
+1989-03-25,1988/1989,Brighton & Hove Albion,Oxford United,2-1,2,1,Football League Second Division,2,H
+1989-03-25,1988/1989,Chelsea,AFC Bournemouth,2-0,2,0,Football League Second Division,2,H
+1989-03-25,1988/1989,Hull City,Plymouth Argyle,3-0,3,0,Football League Second Division,2,H
+1989-03-25,1988/1989,Leeds United,Portsmouth,1-0,1,0,Football League Second Division,2,H
+1989-03-25,1988/1989,Leicester City,Birmingham City,2-0,2,0,Football League Second Division,2,H
+1989-03-25,1988/1989,Shrewsbury Town,Bradford City,1-3,1,3,Football League Second Division,2,A
+1989-03-25,1988/1989,Stoke City,Barnsley,1-1,1,1,Football League Second Division,2,D
+1989-03-25,1988/1989,Sunderland,Ipswich Town,4-0,4,0,Football League Second Division,2,H
+1989-03-25,1988/1989,Swindon Town,West Bromwich Albion,0-0,0,0,Football League Second Division,2,D
+1989-03-25,1988/1989,Chester,Wolverhampton Wanderers,1-1,1,1,Football League Third Division,3,D
+1989-03-25,1988/1989,Chesterfield,Sheffield United,2-1,2,1,Football League Third Division,3,H
+1989-03-25,1988/1989,Mansfield Town,Bolton Wanderers,1-1,1,1,Football League Third Division,3,D
+1989-03-25,1988/1989,Notts County,Port Vale,1-4,1,4,Football League Third Division,3,A
+1989-03-25,1988/1989,Preston North End,Northampton Town,3-2,3,2,Football League Third Division,3,H
+1989-03-25,1988/1989,Reading,Swansea City,2-0,2,0,Football League Third Division,3,H
+1989-03-25,1988/1989,Southend United,Huddersfield Town,2-4,2,4,Football League Third Division,3,A
+1989-03-25,1988/1989,Cardiff City,Aldershot,3-2,3,2,Football League Third Division,3,H
+1989-03-25,1988/1989,Bury,Blackpool,0-0,0,0,Football League Third Division,3,D
+1989-03-25,1988/1989,Bristol Rovers,Bristol City,1-1,1,1,Football League Third Division,3,D
+1989-03-26,1988/1989,Tottenham Hotspur,Liverpool,1-2,1,2,Football League First Division,1,A
+1989-03-27,1988/1989,Coventry City,Southampton,2-1,2,1,Football League First Division,1,H
+1989-03-27,1988/1989,Middlesbrough,Everton,3-3,3,3,Football League First Division,1,D
+1989-03-27,1988/1989,Millwall,Wimbledon,0-1,0,1,Football League First Division,1,A
+1989-03-27,1988/1989,Newcastle United,Sheffield Wednesday,1-3,1,3,Football League First Division,1,A
+1989-03-27,1988/1989,Nottingham Forest,Manchester United,2-0,2,0,Football League First Division,1,H
+1989-03-27,1988/1989,Queens Park Rangers,Aston Villa,1-0,1,0,Football League First Division,1,H
+1989-03-27,1988/1989,West Ham United,Norwich City,0-2,0,2,Football League First Division,1,A
+1989-03-27,1988/1989,York City,Scarborough,0-0,0,0,Football League Fourth Division,4,D
+1989-03-27,1988/1989,Crewe Alexandra,Rotherham United,1-3,1,3,Football League Fourth Division,4,A
+1989-03-27,1988/1989,Doncaster Rovers,Cambridge United,1-1,1,1,Football League Fourth Division,4,D
+1989-03-27,1988/1989,Halifax Town,Darlington,1-0,1,0,Football League Fourth Division,4,H
+1989-03-27,1988/1989,Hartlepool United,Scunthorpe United,0-2,0,2,Football League Fourth Division,4,A
+1989-03-27,1988/1989,Hereford United,Exeter City,1-0,1,0,Football League Fourth Division,4,H
+1989-03-27,1988/1989,Peterborough United,Colchester United,3-0,3,0,Football League Fourth Division,4,H
+1989-03-27,1988/1989,Rochdale,Carlisle United,0-0,0,0,Football League Fourth Division,4,D
+1989-03-27,1988/1989,Stockport County,Torquay United,0-0,0,0,Football League Fourth Division,4,D
+1989-03-27,1988/1989,Tranmere Rovers,Leyton Orient,3-0,3,0,Football League Fourth Division,4,H
+1989-03-27,1988/1989,Wrexham,Burnley,4-2,4,2,Football League Fourth Division,4,H
+1989-03-27,1988/1989,Grimsby Town,Lincoln City,1-0,1,0,Football League Fourth Division,4,H
+1989-03-27,1988/1989,Crystal Palace,Brighton & Hove Albion,2-1,2,1,Football League Second Division,2,H
+1989-03-27,1988/1989,Barnsley,Sunderland,3-0,3,0,Football League Second Division,2,H
+1989-03-27,1988/1989,AFC Bournemouth,Leicester City,2-1,2,1,Football League Second Division,2,H
+1989-03-27,1988/1989,Blackburn Rovers,Leeds United,2-0,2,0,Football League Second Division,2,H
+1989-03-27,1988/1989,Bradford City,Hull City,1-1,1,1,Football League Second Division,2,D
+1989-03-27,1988/1989,Manchester City,Stoke City,2-1,2,1,Football League Second Division,2,H
+1989-03-27,1988/1989,Oxford United,Walsall,1-0,1,0,Football League Second Division,2,H
+1989-03-27,1988/1989,Plymouth Argyle,Swindon Town,4-1,4,1,Football League Second Division,2,H
+1989-03-27,1988/1989,Portsmouth,Watford,2-2,2,2,Football League Second Division,2,D
+1989-03-27,1988/1989,West Bromwich Albion,Oldham Athletic,3-1,3,1,Football League Second Division,2,H
+1989-03-27,1988/1989,Birmingham City,Shrewsbury Town,1-2,1,2,Football League Second Division,2,A
+1989-03-27,1988/1989,Huddersfield Town,Chesterfield,1-1,1,1,Football League Third Division,3,D
+1989-03-27,1988/1989,Northampton Town,Southend United,2-2,2,2,Football League Third Division,3,D
+1989-03-27,1988/1989,Port Vale,Mansfield Town,1-2,1,2,Football League Third Division,3,A
+1989-03-27,1988/1989,Sheffield United,Notts County,1-1,1,1,Football League Third Division,3,D
+1989-03-27,1988/1989,Swansea City,Cardiff City,1-1,1,1,Football League Third Division,3,D
+1989-03-27,1988/1989,Wigan Athletic,Chester,3-0,3,0,Football League Third Division,3,H
+1989-03-27,1988/1989,Wolverhampton Wanderers,Bristol Rovers,0-1,0,1,Football League Third Division,3,A
+1989-03-27,1988/1989,Fulham,Gillingham,1-2,1,2,Football League Third Division,3,A
+1989-03-27,1988/1989,Bristol City,Bury,3-0,3,0,Football League Third Division,3,H
+1989-03-27,1988/1989,Blackpool,Brentford,0-3,0,3,Football League Third Division,3,A
+1989-03-27,1988/1989,Bolton Wanderers,Preston North End,1-0,1,0,Football League Third Division,3,H
+1989-03-27,1988/1989,Aldershot,Reading,1-1,1,1,Football League Third Division,3,D
+1989-03-28,1988/1989,Luton Town,Tottenham Hotspur,1-3,1,3,Football League First Division,1,A
+1989-03-28,1988/1989,Ipswich Town,Chelsea,0-1,0,1,Football League Second Division,2,A
+1989-03-29,1988/1989,Liverpool,Derby County,1-0,1,0,Football League First Division,1,H
+1989-03-31,1988/1989,Torquay United,Crewe Alexandra,2-1,2,1,Football League Fourth Division,4,H
+1989-03-31,1988/1989,Colchester United,Rochdale,3-0,3,0,Football League Fourth Division,4,H
+1989-03-31,1988/1989,Cambridge United,Wrexham,2-0,2,0,Football League Fourth Division,4,H
+1989-03-31,1988/1989,Southend United,Sheffield United,2-1,2,1,Football League Third Division,3,H
+1989-04-01,1988/1989,Norwich City,Liverpool,0-1,0,1,Football League First Division,1,A
+1989-04-01,1988/1989,Aston Villa,Luton Town,2-1,2,1,Football League First Division,1,H
+1989-04-01,1988/1989,Charlton Athletic,Middlesbrough,2-0,2,0,Football League First Division,1,H
+1989-04-01,1988/1989,Derby County,Coventry City,1-0,1,0,Football League First Division,1,H
+1989-04-01,1988/1989,Sheffield Wednesday,Millwall,3-0,3,0,Football League First Division,1,H
+1989-04-01,1988/1989,Southampton,Newcastle United,1-0,1,0,Football League First Division,1,H
+1989-04-01,1988/1989,Tottenham Hotspur,West Ham United,3-0,3,0,Football League First Division,1,H
+1989-04-01,1988/1989,Wimbledon,Nottingham Forest,4-1,4,1,Football League First Division,1,H
+1989-04-01,1988/1989,Everton,Queens Park Rangers,4-1,4,1,Football League First Division,1,H
+1989-04-01,1988/1989,Carlisle United,Hartlepool United,2-1,2,1,Football League Fourth Division,4,H
+1989-04-01,1988/1989,Darlington,Tranmere Rovers,1-2,1,2,Football League Fourth Division,4,A
+1989-04-01,1988/1989,Exeter City,Peterborough United,3-1,3,1,Football League Fourth Division,4,H
+1989-04-01,1988/1989,Leyton Orient,Grimsby Town,5-0,5,0,Football League Fourth Division,4,H
+1989-04-01,1988/1989,Lincoln City,Stockport County,0-0,0,0,Football League Fourth Division,4,D
+1989-04-01,1988/1989,Rotherham United,York City,0-1,0,1,Football League Fourth Division,4,A
+1989-04-01,1988/1989,Scarborough,Halifax Town,3-1,3,1,Football League Fourth Division,4,H
+1989-04-01,1988/1989,Scunthorpe United,Doncaster Rovers,2-1,2,1,Football League Fourth Division,4,H
+1989-04-01,1988/1989,Burnley,Hereford United,3-3,3,3,Football League Fourth Division,4,D
+1989-04-01,1988/1989,Walsall,West Bromwich Albion,0-0,0,0,Football League Second Division,2,D
+1989-04-01,1988/1989,Watford,Ipswich Town,3-2,3,2,Football League Second Division,2,H
+1989-04-01,1988/1989,Brighton & Hove Albion,Manchester City,2-1,2,1,Football League Second Division,2,H
+1989-04-01,1988/1989,Hull City,Portsmouth,1-1,1,1,Football League Second Division,2,D
+1989-04-01,1988/1989,Leeds United,AFC Bournemouth,3-0,3,0,Football League Second Division,2,H
+1989-04-01,1988/1989,Leicester City,Oxford United,1-0,1,0,Football League Second Division,2,H
+1989-04-01,1988/1989,Oldham Athletic,Bradford City,1-1,1,1,Football League Second Division,2,D
+1989-04-01,1988/1989,Shrewsbury Town,Crystal Palace,2-1,2,1,Football League Second Division,2,H
+1989-04-01,1988/1989,Stoke City,Plymouth Argyle,2-2,2,2,Football League Second Division,2,D
+1989-04-01,1988/1989,Sunderland,Birmingham City,2-2,2,2,Football League Second Division,2,D
+1989-04-01,1988/1989,Chelsea,Barnsley,5-3,5,3,Football League Second Division,2,H
+1989-04-01,1988/1989,Swindon Town,Blackburn Rovers,1-1,1,1,Football League Second Division,2,D
+1989-04-01,1988/1989,Bristol Rovers,Blackpool,1-0,1,0,Football League Third Division,3,H
+1989-04-01,1988/1989,Bury,Huddersfield Town,0-6,0,6,Football League Third Division,3,A
+1989-04-01,1988/1989,Cardiff City,Bristol City,1-1,1,1,Football League Third Division,3,D
+1989-04-01,1988/1989,Chester,Bolton Wanderers,0-0,0,0,Football League Third Division,3,D
+1989-04-01,1988/1989,Chesterfield,Swansea City,2-0,2,0,Football League Third Division,3,H
+1989-04-01,1988/1989,Gillingham,Northampton Town,1-0,1,0,Football League Third Division,3,H
+1989-04-01,1988/1989,Mansfield Town,Wolverhampton Wanderers,3-1,3,1,Football League Third Division,3,H
+1989-04-01,1988/1989,Notts County,Wigan Athletic,1-0,1,0,Football League Third Division,3,H
+1989-04-01,1988/1989,Preston North End,Fulham,1-4,1,4,Football League Third Division,3,A
+1989-04-01,1988/1989,Reading,Port Vale,3-0,3,0,Football League Third Division,3,H
+1989-04-01,1988/1989,Brentford,Aldershot,2-1,2,1,Football League Third Division,3,H
+1989-04-02,1988/1989,Manchester United,Arsenal,1-1,1,1,Football League First Division,1,D
+1989-04-04,1988/1989,Burnley,Crewe Alexandra,1-0,1,0,Football League Fourth Division,4,H
+1989-04-04,1988/1989,Carlisle United,Doncaster Rovers,0-1,0,1,Football League Fourth Division,4,A
+1989-04-04,1988/1989,Rotherham United,Peterborough United,1-1,1,1,Football League Fourth Division,4,D
+1989-04-04,1988/1989,Darlington,Grimsby Town,1-1,1,1,Football League Fourth Division,4,D
+1989-04-04,1988/1989,Leyton Orient,Halifax Town,2-0,2,0,Football League Fourth Division,4,H
+1989-04-04,1988/1989,Scunthorpe United,Stockport County,1-1,1,1,Football League Fourth Division,4,D
+1989-04-04,1988/1989,Torquay United,Wrexham,0-0,0,0,Football League Fourth Division,4,D
+1989-04-04,1988/1989,Colchester United,Hereford United,1-1,1,1,Football League Fourth Division,4,D
+1989-04-04,1988/1989,Cambridge United,York City,1-1,1,1,Football League Fourth Division,4,D
+1989-04-04,1988/1989,Chelsea,Birmingham City,3-1,3,1,Football League Second Division,2,H
+1989-04-04,1988/1989,Hull City,Oxford United,1-2,1,2,Football League Second Division,2,A
+1989-04-04,1988/1989,Oldham Athletic,Ipswich Town,4-0,4,0,Football League Second Division,2,H
+1989-04-04,1988/1989,Stoke City,West Bromwich Albion,0-0,0,0,Football League Second Division,2,D
+1989-04-04,1988/1989,Shrewsbury Town,Manchester City,0-1,0,1,Football League Second Division,2,A
+1989-04-04,1988/1989,Swindon Town,Bradford City,1-0,1,0,Football League Second Division,2,H
+1989-04-04,1988/1989,Walsall,AFC Bournemouth,1-1,1,1,Football League Second Division,2,D
+1989-04-04,1988/1989,Watford,Blackburn Rovers,2-2,2,2,Football League Second Division,2,D
+1989-04-04,1988/1989,Sunderland,Plymouth Argyle,2-1,2,1,Football League Second Division,2,H
+1989-04-04,1988/1989,Notts County,Swansea City,1-0,1,0,Football League Third Division,3,H
+1989-04-04,1988/1989,Preston North End,Aldershot,2-2,2,2,Football League Third Division,3,D
+1989-04-04,1988/1989,Southend United,Blackpool,2-1,2,1,Football League Third Division,3,H
+1989-04-04,1988/1989,Mansfield Town,Sheffield United,0-1,0,1,Football League Third Division,3,A
+1989-04-04,1988/1989,Gillingham,Bolton Wanderers,0-1,0,1,Football League Third Division,3,A
+1989-04-04,1988/1989,Cardiff City,Wolverhampton Wanderers,1-1,1,1,Football League Third Division,3,D
+1989-04-04,1988/1989,Chesterfield,Wigan Athletic,1-1,1,1,Football League Third Division,3,D
+1989-04-04,1988/1989,Brentford,Bristol City,3-0,3,0,Football League Third Division,3,H
+1989-04-04,1988/1989,Bury,Northampton Town,0-1,0,1,Football League Third Division,3,A
+1989-04-05,1988/1989,Sheffield Wednesday,Wimbledon,1-1,1,1,Football League First Division,1,D
+1989-04-05,1988/1989,Nottingham Forest,Norwich City,2-0,2,0,Football League First Division,1,H
+1989-04-05,1988/1989,Lincoln City,Rochdale,4-1,4,1,Football League Fourth Division,4,H
+1989-04-05,1988/1989,Exeter City,Tranmere Rovers,0-1,0,1,Football League Fourth Division,4,A
+1989-04-05,1988/1989,Scarborough,Hartlepool United,2-0,2,0,Football League Fourth Division,4,H
+1989-04-05,1988/1989,Leeds United,Crystal Palace,1-2,1,2,Football League Second Division,2,A
+1989-04-05,1988/1989,Brighton & Hove Albion,Portsmouth,2-1,2,1,Football League Second Division,2,H
+1989-04-05,1988/1989,Reading,Huddersfield Town,2-1,2,1,Football League Third Division,3,H
+1989-04-05,1988/1989,Chester,Fulham,7-0,7,0,Football League Third Division,3,H
+1989-04-05,1988/1989,Bristol Rovers,Port Vale,2-2,2,2,Football League Third Division,3,D
+1989-04-07,1988/1989,Stockport County,Carlisle United,1-1,1,1,Football League Fourth Division,4,D
+1989-04-07,1988/1989,Tranmere Rovers,Scunthorpe United,2-1,2,1,Football League Fourth Division,4,H
+1989-04-07,1988/1989,Halifax Town,Rotherham United,1-1,1,1,Football League Fourth Division,4,D
+1989-04-07,1988/1989,Wigan Athletic,Cardiff City,1-0,1,0,Football League Third Division,3,H
+1989-04-08,1988/1989,Queens Park Rangers,Wimbledon,4-3,4,3,Football League First Division,1,H
+1989-04-08,1988/1989,Arsenal,Everton,2-0,2,0,Football League First Division,1,H
+1989-04-08,1988/1989,Coventry City,Norwich City,2-1,2,1,Football League First Division,1,H
+1989-04-08,1988/1989,Liverpool,Sheffield Wednesday,5-1,5,1,Football League First Division,1,H
+1989-04-08,1988/1989,Middlesbrough,Southampton,3-3,3,3,Football League First Division,1,D
+1989-04-08,1988/1989,Millwall,Manchester United,0-0,0,0,Football League First Division,1,D
+1989-04-08,1988/1989,Newcastle United,Aston Villa,1-2,1,2,Football League First Division,1,A
+1989-04-08,1988/1989,West Ham United,Derby County,1-1,1,1,Football League First Division,1,D
+1989-04-08,1988/1989,Hereford United,Darlington,1-1,1,1,Football League Fourth Division,4,D
+1989-04-08,1988/1989,Doncaster Rovers,Lincoln City,0-1,0,1,Football League Fourth Division,4,A
+1989-04-08,1988/1989,Grimsby Town,Burnley,1-0,1,0,Football League Fourth Division,4,H
+1989-04-08,1988/1989,Hartlepool United,Colchester United,2-1,2,1,Football League Fourth Division,4,H
+1989-04-08,1988/1989,Peterborough United,Torquay United,3-1,3,1,Football League Fourth Division,4,H
+1989-04-08,1988/1989,Rochdale,Cambridge United,2-1,2,1,Football League Fourth Division,4,H
+1989-04-08,1988/1989,Wrexham,Leyton Orient,0-1,0,1,Football League Fourth Division,4,A
+1989-04-08,1988/1989,York City,Exeter City,3-1,3,1,Football League Fourth Division,4,H
+1989-04-08,1988/1989,Crewe Alexandra,Scarborough,1-1,1,1,Football League Fourth Division,4,D
+1989-04-08,1988/1989,Barnsley,Shrewsbury Town,1-0,1,0,Football League Second Division,2,H
+1989-04-08,1988/1989,AFC Bournemouth,Watford,0-1,0,1,Football League Second Division,2,A
+1989-04-08,1988/1989,Blackburn Rovers,Leicester City,0-0,0,0,Football League Second Division,2,D
+1989-04-08,1988/1989,Bradford City,Walsall,3-1,3,1,Football League Second Division,2,H
+1989-04-08,1988/1989,Crystal Palace,Oldham Athletic,2-0,2,0,Football League Second Division,2,H
+1989-04-08,1988/1989,Ipswich Town,Hull City,1-1,1,1,Football League Second Division,2,D
+1989-04-08,1988/1989,Manchester City,Swindon Town,2-1,2,1,Football League Second Division,2,H
+1989-04-08,1988/1989,Oxford United,Stoke City,3-2,3,2,Football League Second Division,2,H
+1989-04-08,1988/1989,Portsmouth,Sunderland,2-0,2,0,Football League Second Division,2,H
+1989-04-08,1988/1989,Birmingham City,Brighton & Hove Albion,1-2,1,2,Football League Second Division,2,A
+1989-04-08,1988/1989,West Bromwich Albion,Chelsea,2-3,2,3,Football League Second Division,2,A
+1989-04-08,1988/1989,Swansea City,Bristol Rovers,1-2,1,2,Football League Third Division,3,A
+1989-04-08,1988/1989,Fulham,Chesterfield,2-1,2,1,Football League Third Division,3,H
+1989-04-08,1988/1989,Huddersfield Town,Mansfield Town,2-0,2,0,Football League Third Division,3,H
+1989-04-08,1988/1989,Northampton Town,Chester,0-2,0,2,Football League Third Division,3,A
+1989-04-08,1988/1989,Port Vale,Gillingham,2-1,2,1,Football League Third Division,3,H
+1989-04-08,1988/1989,Bristol City,Southend United,0-2,0,2,Football League Third Division,3,A
+1989-04-08,1988/1989,Sheffield United,Preston North End,3-1,3,1,Football League Third Division,3,H
+1989-04-08,1988/1989,Wolverhampton Wanderers,Brentford,2-0,2,0,Football League Third Division,3,H
+1989-04-08,1988/1989,Bolton Wanderers,Notts County,3-3,3,3,Football League Third Division,3,D
+1989-04-08,1988/1989,Aldershot,Bury,4-1,4,1,Football League Third Division,3,H
+1989-04-08,1988/1989,Blackpool,Reading,2-4,2,4,Football League Third Division,3,A
+1989-04-09,1988/1989,Plymouth Argyle,Leeds United,1-0,1,0,Football League Second Division,2,H
+1989-04-10,1988/1989,Everton,Charlton Athletic,3-2,3,2,Football League First Division,1,H
+1989-04-11,1988/1989,West Ham United,Middlesbrough,1-2,1,2,Football League First Division,1,A
+1989-04-11,1988/1989,Millwall,Liverpool,1-2,1,2,Football League First Division,1,A
+1989-04-11,1988/1989,Hartlepool United,Scarborough,3-1,3,1,Football League Fourth Division,4,H
+1989-04-11,1988/1989,Watford,Stoke City,3-2,3,2,Football League Second Division,2,H
+1989-04-11,1988/1989,Leicester City,Barnsley,0-1,0,1,Football League Second Division,2,A
+1989-04-11,1988/1989,Hull City,Crystal Palace,0-1,0,1,Football League Second Division,2,A
+1989-04-11,1988/1989,Shrewsbury Town,AFC Bournemouth,1-0,1,0,Football League Second Division,2,H
+1989-04-11,1988/1989,Bristol City,Brentford,0-1,0,1,Football League Third Division,3,A
+1989-04-11,1988/1989,Sheffield United,Cardiff City,0-1,0,1,Football League Third Division,3,A
+1989-04-12,1988/1989,Nottingham Forest,Southampton,3-0,3,0,Football League First Division,1,H
+1989-04-12,1988/1989,Tottenham Hotspur,Sheffield Wednesday,0-0,0,0,Football League First Division,1,D
+1989-04-12,1988/1989,Hereford United,Colchester United,1-1,1,1,Football League Fourth Division,4,D
+1989-04-14,1988/1989,Halifax Town,York City,0-0,0,0,Football League Fourth Division,4,D
+1989-04-14,1988/1989,Doncaster Rovers,Stockport County,2-2,2,2,Football League Fourth Division,4,D
+1989-04-14,1988/1989,Crewe Alexandra,Rochdale,3-1,3,1,Football League Fourth Division,4,H
+1989-04-14,1988/1989,Southend United,Reading,2-1,2,1,Football League Third Division,3,H
+1989-04-15,1988/1989,Arsenal,Newcastle United,1-0,1,0,Football League First Division,1,H
+1989-04-15,1988/1989,Luton Town,Coventry City,2-2,2,2,Football League First Division,1,D
+1989-04-15,1988/1989,Manchester United,Derby County,0-2,0,2,Football League First Division,1,A
+1989-04-15,1988/1989,Queens Park Rangers,Middlesbrough,0-0,0,0,Football League First Division,1,D
+1989-04-15,1988/1989,West Ham United,Southampton,1-2,1,2,Football League First Division,1,A
+1989-04-15,1988/1989,Wimbledon,Tottenham Hotspur,1-2,1,2,Football League First Division,1,A
+1989-04-15,1988/1989,Burnley,Darlington,0-1,0,1,Football League Fourth Division,4,A
+1989-04-15,1988/1989,Exeter City,Rotherham United,0-0,0,0,Football League Fourth Division,4,D
+1989-04-15,1988/1989,Grimsby Town,Hereford United,1-1,1,1,Football League Fourth Division,4,D
+1989-04-15,1988/1989,Hartlepool United,Tranmere Rovers,2-2,2,2,Football League Fourth Division,4,D
+1989-04-15,1988/1989,Leyton Orient,Torquay United,3-1,3,1,Football League Fourth Division,4,H
+1989-04-15,1988/1989,Lincoln City,Colchester United,1-1,1,1,Football League Fourth Division,4,D
+1989-04-15,1988/1989,Peterborough United,Wrexham,1-0,1,0,Football League Fourth Division,4,H
+1989-04-15,1988/1989,Scarborough,Scunthorpe United,1-0,1,0,Football League Fourth Division,4,H
+1989-04-15,1988/1989,Carlisle United,Cambridge United,1-1,1,1,Football League Fourth Division,4,D
+1989-04-15,1988/1989,Walsall,Hull City,1-1,1,1,Football League Second Division,2,D
+1989-04-15,1988/1989,Crystal Palace,Portsmouth,2-0,2,0,Football League Second Division,2,H
+1989-04-15,1988/1989,AFC Bournemouth,Stoke City,0-1,0,1,Football League Second Division,2,A
+1989-04-15,1988/1989,Barnsley,Birmingham City,0-0,0,0,Football League Second Division,2,D
+1989-04-15,1988/1989,Blackburn Rovers,Manchester City,4-0,4,0,Football League Second Division,2,H
+1989-04-15,1988/1989,Bradford City,Ipswich Town,2-2,2,2,Football League Second Division,2,D
+1989-04-15,1988/1989,Leeds United,Brighton & Hove Albion,1-0,1,0,Football League Second Division,2,H
+1989-04-15,1988/1989,Leicester City,Chelsea,2-0,2,0,Football League Second Division,2,H
+1989-04-15,1988/1989,Oldham Athletic,Sunderland,2-2,2,2,Football League Second Division,2,D
+1989-04-15,1988/1989,Shrewsbury Town,Oxford United,2-2,2,2,Football League Second Division,2,D
+1989-04-15,1988/1989,Swindon Town,Watford,1-1,1,1,Football League Second Division,2,D
+1989-04-15,1988/1989,West Bromwich Albion,Plymouth Argyle,2-2,2,2,Football League Second Division,2,D
+1989-04-15,1988/1989,Swansea City,Wigan Athletic,1-2,1,2,Football League Third Division,3,A
+1989-04-15,1988/1989,Fulham,Bolton Wanderers,1-1,1,1,Football League Third Division,3,D
+1989-04-15,1988/1989,Gillingham,Mansfield Town,3-0,3,0,Football League Third Division,3,H
+1989-04-15,1988/1989,Huddersfield Town,Chester,3-1,3,1,Football League Third Division,3,H
+1989-04-15,1988/1989,Northampton Town,Sheffield United,1-2,1,2,Football League Third Division,3,A
+1989-04-15,1988/1989,Preston North End,Notts County,3-0,3,0,Football League Third Division,3,H
+1989-04-15,1988/1989,Chesterfield,Port Vale,1-2,1,2,Football League Third Division,3,A
+1989-04-15,1988/1989,Bury,Cardiff City,1-0,1,0,Football League Third Division,3,H
+1989-04-15,1988/1989,Bristol City,Blackpool,1-2,1,2,Football League Third Division,3,A
+1989-04-15,1988/1989,Aldershot,Wolverhampton Wanderers,1-2,1,2,Football League Third Division,3,A
+1989-04-15,1988/1989,Brentford,Bristol Rovers,2-1,2,1,Football League Third Division,3,H
+1989-04-18,1988/1989,Birmingham City,Swindon Town,1-2,1,2,Football League Second Division,2,A
+1989-04-18,1988/1989,Watford,Walsall,5-0,5,0,Football League Second Division,2,H
+1989-04-18,1988/1989,Southend United,Brentford,1-1,1,1,Football League Third Division,3,D
+1989-04-18,1988/1989,Cardiff City,Notts County,0-1,0,1,Football League Third Division,3,A
+1989-04-18,1988/1989,Bristol City,Huddersfield Town,6-1,6,1,Football League Third Division,3,H
+1989-04-19,1988/1989,Southampton,Norwich City,0-0,0,0,Football League First Division,1,D
+1989-04-19,1988/1989,Chester,Sheffield United,0-1,0,1,Football League Third Division,3,A
+1989-04-19,1988/1989,Reading,Wigan Athletic,0-3,0,3,Football League Third Division,3,A
+1989-04-21,1988/1989,Stockport County,Peterborough United,1-2,1,2,Football League Fourth Division,4,A
+1989-04-21,1988/1989,Wrexham,Halifax Town,3-0,3,0,Football League Fourth Division,4,H
+1989-04-21,1988/1989,Colchester United,Carlisle United,1-1,1,1,Football League Fourth Division,4,D
+1989-04-21,1988/1989,Port Vale,Bristol City,0-1,0,1,Football League Third Division,3,A
+1989-04-22,1988/1989,Norwich City,Aston Villa,2-2,2,2,Football League First Division,1,D
+1989-04-22,1988/1989,Charlton Athletic,Manchester United,1-0,1,0,Football League First Division,1,H
+1989-04-22,1988/1989,Coventry City,Queens Park Rangers,0-3,0,3,Football League First Division,1,A
+1989-04-22,1988/1989,Derby County,Sheffield Wednesday,1-0,1,0,Football League First Division,1,H
+1989-04-22,1988/1989,Middlesbrough,Nottingham Forest,3-4,3,4,Football League First Division,1,A
+1989-04-22,1988/1989,Newcastle United,Luton Town,0-0,0,0,Football League First Division,1,D
+1989-04-22,1988/1989,Southampton,Wimbledon,0-0,0,0,Football League First Division,1,D
+1989-04-22,1988/1989,West Ham United,Millwall,3-0,3,0,Football League First Division,1,H
+1989-04-22,1988/1989,Tottenham Hotspur,Everton,2-1,2,1,Football League First Division,1,H
+1989-04-22,1988/1989,Cambridge United,Crewe Alexandra,1-1,1,1,Football League Fourth Division,4,D
+1989-04-22,1988/1989,Darlington,Scarborough,2-1,2,1,Football League Fourth Division,4,H
+1989-04-22,1988/1989,Hereford United,Doncaster Rovers,3-1,3,1,Football League Fourth Division,4,H
+1989-04-22,1988/1989,Rochdale,Hartlepool United,0-0,0,0,Football League Fourth Division,4,D
+1989-04-22,1988/1989,Rotherham United,Burnley,3-1,3,1,Football League Fourth Division,4,H
+1989-04-22,1988/1989,Scunthorpe United,Lincoln City,0-0,0,0,Football League Fourth Division,4,D
+1989-04-22,1988/1989,Torquay United,Exeter City,0-4,0,4,Football League Fourth Division,4,A
+1989-04-22,1988/1989,York City,Leyton Orient,1-1,1,1,Football League Fourth Division,4,D
+1989-04-22,1988/1989,Brighton & Hove Albion,Swindon Town,0-2,0,2,Football League Second Division,2,A
+1989-04-22,1988/1989,Sunderland,Shrewsbury Town,2-1,2,1,Football League Second Division,2,H
+1989-04-22,1988/1989,Watford,Leicester City,2-1,2,1,Football League Second Division,2,H
+1989-04-22,1988/1989,Chelsea,Leeds United,1-0,1,0,Football League Second Division,2,H
+1989-04-22,1988/1989,Hull City,Oldham Athletic,1-1,1,1,Football League Second Division,2,D
+1989-04-22,1988/1989,Ipswich Town,West Bromwich Albion,2-1,2,1,Football League Second Division,2,H
+1989-04-22,1988/1989,Manchester City,Barnsley,1-2,1,2,Football League Second Division,2,A
+1989-04-22,1988/1989,Oxford United,AFC Bournemouth,3-1,3,1,Football League Second Division,2,H
+1989-04-22,1988/1989,Plymouth Argyle,Crystal Palace,0-2,0,2,Football League Second Division,2,A
+1989-04-22,1988/1989,Portsmouth,Bradford City,1-2,1,2,Football League Second Division,2,A
+1989-04-22,1988/1989,Stoke City,Walsall,0-3,0,3,Football League Second Division,2,A
+1989-04-22,1988/1989,Birmingham City,Blackburn Rovers,2-0,2,0,Football League Second Division,2,H
+1989-04-22,1988/1989,Bristol Rovers,Northampton Town,1-1,1,1,Football League Third Division,3,D
+1989-04-22,1988/1989,Cardiff City,Southend United,2-0,2,0,Football League Third Division,3,H
+1989-04-22,1988/1989,Chester,Preston North End,0-1,0,1,Football League Third Division,3,A
+1989-04-22,1988/1989,Mansfield Town,Bury,1-1,1,1,Football League Third Division,3,D
+1989-04-22,1988/1989,Notts County,Huddersfield Town,3-0,3,0,Football League Third Division,3,H
+1989-04-22,1988/1989,Reading,Gillingham,1-2,1,2,Football League Third Division,3,A
+1989-04-22,1988/1989,Sheffield United,Brentford,2-2,2,2,Football League Third Division,3,D
+1989-04-22,1988/1989,Wigan Athletic,Fulham,0-1,0,1,Football League Third Division,3,A
+1989-04-22,1988/1989,Bolton Wanderers,Aldershot,1-0,1,0,Football League Third Division,3,H
+1989-04-22,1988/1989,Wolverhampton Wanderers,Swansea City,1-1,1,1,Football League Third Division,3,D
+1989-04-22,1988/1989,Blackpool,Chesterfield,1-2,1,2,Football League Third Division,3,A
+1989-04-25,1988/1989,Peterborough United,Grimsby Town,1-2,1,2,Football League Fourth Division,4,A
+1989-04-25,1988/1989,Torquay United,York City,2-0,2,0,Football League Fourth Division,4,H
+1989-04-25,1988/1989,Rochdale,Halifax Town,1-1,1,1,Football League Fourth Division,4,D
+1989-04-25,1988/1989,Colchester United,Wrexham,2-1,2,1,Football League Fourth Division,4,H
+1989-04-25,1988/1989,Swindon Town,Crystal Palace,1-0,1,0,Football League Second Division,2,H
+1989-04-25,1988/1989,Plymouth Argyle,Barnsley,1-2,1,2,Football League Second Division,2,A
+1989-04-25,1988/1989,Sheffield United,Mansfield Town,1-2,1,2,Football League Third Division,3,A
+1989-04-25,1988/1989,Bolton Wanderers,Port Vale,1-1,1,1,Football League Third Division,3,D
+1989-04-25,1988/1989,Huddersfield Town,Brentford,1-2,1,2,Football League Third Division,3,A
+1989-04-25,1988/1989,Aldershot,Fulham,1-2,1,2,Football League Third Division,3,A
+1989-04-28,1988/1989,Torquay United,Scunthorpe United,0-2,0,2,Football League Fourth Division,4,A
+1989-04-28,1988/1989,Tranmere Rovers,Stockport County,1-0,1,0,Football League Fourth Division,4,H
+1989-04-28,1988/1989,Gillingham,Bristol Rovers,2-3,2,3,Football League Third Division,3,A
+1989-04-28,1988/1989,Southend United,Notts County,1-1,1,1,Football League Third Division,3,D
+1989-04-29,1988/1989,Wimbledon,Newcastle United,4-0,4,0,Football League First Division,1,H
+1989-04-29,1988/1989,Aston Villa,Middlesbrough,1-1,1,1,Football League First Division,1,D
+1989-04-29,1988/1989,Luton Town,Derby County,3-0,3,0,Football League First Division,1,H
+1989-04-29,1988/1989,Manchester United,Coventry City,0-1,0,1,Football League First Division,1,A
+1989-04-29,1988/1989,Millwall,Tottenham Hotspur,0-5,0,5,Football League First Division,1,A
+1989-04-29,1988/1989,Queens Park Rangers,Charlton Athletic,1-0,1,0,Football League First Division,1,H
+1989-04-29,1988/1989,Burnley,Doncaster Rovers,3-0,3,0,Football League Fourth Division,4,H
+1989-04-29,1988/1989,Halifax Town,Lincoln City,0-1,0,1,Football League Fourth Division,4,A
+1989-04-29,1988/1989,Exeter City,Hartlepool United,2-1,2,1,Football League Fourth Division,4,H
+1989-04-29,1988/1989,Grimsby Town,Carlisle United,0-0,0,0,Football League Fourth Division,4,D
+1989-04-29,1988/1989,York City,Rochdale,3-3,3,3,Football League Fourth Division,4,D
+1989-04-29,1988/1989,Leyton Orient,Cambridge United,1-1,1,1,Football League Fourth Division,4,D
+1989-04-29,1988/1989,Peterborough United,Crewe Alexandra,3-2,3,2,Football League Fourth Division,4,H
+1989-04-29,1988/1989,Rotherham United,Hereford United,6-0,6,0,Football League Fourth Division,4,H
+1989-04-29,1988/1989,Wrexham,Scarborough,0-1,0,1,Football League Fourth Division,4,A
+1989-04-29,1988/1989,Darlington,Colchester United,1-2,1,2,Football League Fourth Division,4,A
+1989-04-29,1988/1989,Walsall,Swindon Town,2-2,2,2,Football League Second Division,2,D
+1989-04-29,1988/1989,AFC Bournemouth,Barnsley,3-2,3,2,Football League Second Division,2,H
+1989-04-29,1988/1989,Bradford City,Leicester City,2-1,2,1,Football League Second Division,2,H
+1989-04-29,1988/1989,Crystal Palace,West Bromwich Albion,1-0,1,0,Football League Second Division,2,H
+1989-04-29,1988/1989,Ipswich Town,Birmingham City,4-0,4,0,Football League Second Division,2,H
+1989-04-29,1988/1989,Oldham Athletic,Plymouth Argyle,2-2,2,2,Football League Second Division,2,D
+1989-04-29,1988/1989,Oxford United,Manchester City,2-4,2,4,Football League Second Division,2,A
+1989-04-29,1988/1989,Portsmouth,Blackburn Rovers,1-2,1,2,Football League Second Division,2,A
+1989-04-29,1988/1989,Shrewsbury Town,Chelsea,1-1,1,1,Football League Second Division,2,D
+1989-04-29,1988/1989,Stoke City,Leeds United,2-3,2,3,Football League Second Division,2,A
+1989-04-29,1988/1989,Sunderland,Brighton & Hove Albion,1-0,1,0,Football League Second Division,2,H
+1989-04-29,1988/1989,Hull City,Watford,0-3,0,3,Football League Second Division,2,A
+1989-04-29,1988/1989,Swansea City,Port Vale,0-0,0,0,Football League Third Division,3,D
+1989-04-29,1988/1989,Chesterfield,Chester,1-2,1,2,Football League Third Division,3,A
+1989-04-29,1988/1989,Fulham,Sheffield United,2-2,2,2,Football League Third Division,3,D
+1989-04-29,1988/1989,Huddersfield Town,Wolverhampton Wanderers,0-0,0,0,Football League Third Division,3,D
+1989-04-29,1988/1989,Northampton Town,Cardiff City,3-0,3,0,Football League Third Division,3,H
+1989-04-29,1988/1989,Bury,Bolton Wanderers,0-0,0,0,Football League Third Division,3,D
+1989-04-29,1988/1989,Preston North End,Reading,2-1,2,1,Football League Third Division,3,H
+1989-04-29,1988/1989,Bristol City,Wigan Athletic,0-1,0,1,Football League Third Division,3,A
+1989-04-29,1988/1989,Brentford,Mansfield Town,1-0,1,0,Football League Third Division,3,H
+1989-04-29,1988/1989,Aldershot,Blackpool,1-0,1,0,Football League Third Division,3,H
+1989-05-01,1988/1989,Arsenal,Norwich City,5-0,5,0,Football League First Division,1,H
+1989-05-01,1988/1989,Carlisle United,Leyton Orient,2-1,2,1,Football League Fourth Division,4,H
+1989-05-01,1988/1989,Colchester United,Halifax Town,3-2,3,2,Football League Fourth Division,4,H
+1989-05-01,1988/1989,Doncaster Rovers,Grimsby Town,2-3,2,3,Football League Fourth Division,4,A
+1989-05-01,1988/1989,Hartlepool United,Peterborough United,2-1,2,1,Football League Fourth Division,4,H
+1989-05-01,1988/1989,Hereford United,Tranmere Rovers,2-1,2,1,Football League Fourth Division,4,H
+1989-05-01,1988/1989,Rochdale,Torquay United,2-1,2,1,Football League Fourth Division,4,H
+1989-05-01,1988/1989,Scarborough,Exeter City,2-1,2,1,Football League Fourth Division,4,H
+1989-05-01,1988/1989,Scunthorpe United,Rotherham United,0-0,0,0,Football League Fourth Division,4,D
+1989-05-01,1988/1989,Stockport County,Wrexham,2-2,2,2,Football League Fourth Division,4,D
+1989-05-01,1988/1989,Crewe Alexandra,York City,1-2,1,2,Football League Fourth Division,4,A
+1989-05-01,1988/1989,Lincoln City,Burnley,2-3,2,3,Football League Fourth Division,4,A
+1989-05-01,1988/1989,Barnsley,Oxford United,1-0,1,0,Football League Second Division,2,H
+1989-05-01,1988/1989,Birmingham City,Bradford City,1-0,1,0,Football League Second Division,2,H
+1989-05-01,1988/1989,Blackburn Rovers,AFC Bournemouth,2-0,2,0,Football League Second Division,2,H
+1989-05-01,1988/1989,Chelsea,Stoke City,2-1,2,1,Football League Second Division,2,H
+1989-05-01,1988/1989,Leeds United,Walsall,1-0,1,0,Football League Second Division,2,H
+1989-05-01,1988/1989,Brighton & Hove Albion,Hull City,1-1,1,1,Football League Second Division,2,D
+1989-05-01,1988/1989,Manchester City,Crystal Palace,1-1,1,1,Football League Second Division,2,D
+1989-05-01,1988/1989,Plymouth Argyle,Ipswich Town,0-1,0,1,Football League Second Division,2,A
+1989-05-01,1988/1989,Swindon Town,Shrewsbury Town,1-0,1,0,Football League Second Division,2,H
+1989-05-01,1988/1989,Watford,Sunderland,0-1,0,1,Football League Second Division,2,A
+1989-05-01,1988/1989,West Bromwich Albion,Portsmouth,3-0,3,0,Football League Second Division,2,H
+1989-05-01,1988/1989,Leicester City,Oldham Athletic,1-2,1,2,Football League Second Division,2,A
+1989-05-01,1988/1989,Port Vale,Northampton Town,1-2,1,2,Football League Third Division,3,A
+1989-05-01,1988/1989,Reading,Fulham,0-1,0,1,Football League Third Division,3,A
+1989-05-01,1988/1989,Sheffield United,Aldershot,1-0,1,0,Football League Third Division,3,H
+1989-05-01,1988/1989,Wigan Athletic,Preston North End,1-1,1,1,Football League Third Division,3,D
+1989-05-01,1988/1989,Wolverhampton Wanderers,Bristol City,2-0,2,0,Football League Third Division,3,H
+1989-05-01,1988/1989,Notts County,Brentford,3-0,3,0,Football League Third Division,3,H
+1989-05-01,1988/1989,Chester,Bury,2-0,2,0,Football League Third Division,3,H
+1989-05-01,1988/1989,Bristol Rovers,Southend United,1-1,1,1,Football League Third Division,3,D
+1989-05-01,1988/1989,Cardiff City,Chesterfield,0-1,0,1,Football League Third Division,3,A
+1989-05-01,1988/1989,Blackpool,Gillingham,4-1,4,1,Football League Third Division,3,H
+1989-05-01,1988/1989,Bolton Wanderers,Huddersfield Town,3-1,3,1,Football League Third Division,3,H
+1989-05-02,1988/1989,Aston Villa,Southampton,1-2,1,2,Football League First Division,1,A
+1989-05-02,1988/1989,Luton Town,Charlton Athletic,5-2,5,2,Football League First Division,1,H
+1989-05-02,1988/1989,Manchester United,Wimbledon,1-0,1,0,Football League First Division,1,H
+1989-05-02,1988/1989,Cambridge United,Darlington,1-3,1,3,Football League Fourth Division,4,A
+1989-05-02,1988/1989,Mansfield Town,Swansea City,0-0,0,0,Football League Third Division,3,D
+1989-05-03,1988/1989,Nottingham Forest,Millwall,4-1,4,1,Football League First Division,1,H
+1989-05-03,1988/1989,Newcastle United,West Ham United,1-2,1,2,Football League First Division,1,A
+1989-05-03,1988/1989,Everton,Liverpool,0-0,0,0,Football League First Division,1,D
+1989-05-03,1988/1989,Torquay United,Carlisle United,1-0,1,0,Football League Fourth Division,4,H
+1989-05-03,1988/1989,Wigan Athletic,Bristol Rovers,3-0,3,0,Football League Third Division,3,H
+1989-05-05,1988/1989,Colchester United,Exeter City,4-0,4,0,Football League Fourth Division,4,H
+1989-05-05,1988/1989,Crewe Alexandra,Halifax Town,2-2,2,2,Football League Fourth Division,4,D
+1989-05-05,1988/1989,Cardiff City,Preston North End,0-0,0,0,Football League Third Division,3,D
+1989-05-05,1988/1989,Reading,Bristol City,1-2,1,2,Football League Third Division,3,A
+1989-05-06,1988/1989,Charlton Athletic,Wimbledon,1-0,1,0,Football League First Division,1,H
+1989-05-06,1988/1989,Derby County,Aston Villa,2-1,2,1,Football League First Division,1,H
+1989-05-06,1988/1989,Middlesbrough,Arsenal,0-1,0,1,Football League First Division,1,A
+1989-05-06,1988/1989,Newcastle United,Millwall,1-1,1,1,Football League First Division,1,D
+1989-05-06,1988/1989,Norwich City,Everton,1-0,1,0,Football League First Division,1,H
+1989-05-06,1988/1989,Southampton,Manchester United,2-1,2,1,Football League First Division,1,H
+1989-05-06,1988/1989,West Ham United,Luton Town,1-0,1,0,Football League First Division,1,H
+1989-05-06,1988/1989,Cambridge United,Torquay United,3-0,3,0,Football League Fourth Division,4,H
+1989-05-06,1988/1989,Hartlepool United,Burnley,2-2,2,2,Football League Fourth Division,4,D
+1989-05-06,1988/1989,Doncaster Rovers,Tranmere Rovers,0-0,0,0,Football League Fourth Division,4,D
+1989-05-06,1988/1989,Hereford United,York City,1-2,1,2,Football League Fourth Division,4,A
+1989-05-06,1988/1989,Lincoln City,Leyton Orient,0-1,0,1,Football League Fourth Division,4,A
+1989-05-06,1988/1989,Rochdale,Peterborough United,0-0,0,0,Football League Fourth Division,4,D
+1989-05-06,1988/1989,Scarborough,Grimsby Town,2-3,2,3,Football League Fourth Division,4,A
+1989-05-06,1988/1989,Scunthorpe United,Darlington,5-1,5,1,Football League Fourth Division,4,H
+1989-05-06,1988/1989,Stockport County,Rotherham United,1-3,1,3,Football League Fourth Division,4,A
+1989-05-06,1988/1989,Carlisle United,Wrexham,1-2,1,2,Football League Fourth Division,4,A
+1989-05-06,1988/1989,Watford,Shrewsbury Town,0-0,0,0,Football League Second Division,2,D
+1989-05-06,1988/1989,West Bromwich Albion,Sunderland,0-0,0,0,Football League Second Division,2,D
+1989-05-06,1988/1989,Barnsley,Portsmouth,1-0,1,0,Football League Second Division,2,H
+1989-05-06,1988/1989,Birmingham City,Hull City,1-0,1,0,Football League Second Division,2,H
+1989-05-06,1988/1989,Brighton & Hove Albion,Ipswich Town,0-1,0,1,Football League Second Division,2,A
+1989-05-06,1988/1989,Chelsea,Bradford City,3-1,3,1,Football League Second Division,2,H
+1989-05-06,1988/1989,Leeds United,Oldham Athletic,0-0,0,0,Football League Second Division,2,D
+1989-05-06,1988/1989,Leicester City,Crystal Palace,2-2,2,2,Football League Second Division,2,D
+1989-05-06,1988/1989,Manchester City,AFC Bournemouth,3-3,3,3,Football League Second Division,2,D
+1989-05-06,1988/1989,Plymouth Argyle,Oxford United,3-1,3,1,Football League Second Division,2,H
+1989-05-06,1988/1989,Swindon Town,Stoke City,3-0,3,0,Football League Second Division,2,H
+1989-05-06,1988/1989,Blackburn Rovers,Walsall,3-0,3,0,Football League Second Division,2,H
+1989-05-06,1988/1989,Bristol Rovers,Fulham,0-0,0,0,Football League Third Division,3,D
+1989-05-06,1988/1989,Mansfield Town,Chesterfield,3-1,3,1,Football League Third Division,3,H
+1989-05-06,1988/1989,Notts County,Aldershot,4-1,4,1,Football League Third Division,3,H
+1989-05-06,1988/1989,Port Vale,Southend United,2-0,2,0,Football League Third Division,3,H
+1989-05-06,1988/1989,Sheffield United,Swansea City,5-1,5,1,Football League Third Division,3,H
+1989-05-06,1988/1989,Wigan Athletic,Bury,1-0,1,0,Football League Third Division,3,H
+1989-05-06,1988/1989,Wolverhampton Wanderers,Northampton Town,3-2,3,2,Football League Third Division,3,H
+1989-05-06,1988/1989,Bolton Wanderers,Brentford,4-2,4,2,Football League Third Division,3,H
+1989-05-06,1988/1989,Blackpool,Huddersfield Town,2-1,2,1,Football League Third Division,3,H
+1989-05-06,1988/1989,Chester,Gillingham,2-0,2,0,Football League Third Division,3,H
+1989-05-08,1988/1989,Queens Park Rangers,Manchester United,3-2,3,2,Football League First Division,1,H
+1989-05-09,1988/1989,Sheffield Wednesday,West Ham United,0-2,0,2,Football League First Division,1,A
+1989-05-09,1988/1989,York City,Cambridge United,1-2,1,2,Football League Fourth Division,4,A
+1989-05-09,1988/1989,Wrexham,Torquay United,1-0,1,0,Football League Fourth Division,4,H
+1989-05-09,1988/1989,Tranmere Rovers,Grimsby Town,3-2,3,2,Football League Fourth Division,4,H
+1989-05-09,1988/1989,Crewe Alexandra,Burnley,4-0,4,0,Football League Fourth Division,4,H
+1989-05-09,1988/1989,Crystal Palace,Stoke City,1-0,1,0,Football League Second Division,2,H
+1989-05-09,1988/1989,Wolverhampton Wanderers,Sheffield United,2-2,2,2,Football League Third Division,3,D
+1989-05-09,1988/1989,Port Vale,Bristol Rovers,1-0,1,0,Football League Third Division,3,H
+1989-05-09,1988/1989,Brentford,Swansea City,1-1,1,1,Football League Third Division,3,D
+1989-05-09,1988/1989,Bolton Wanderers,Wigan Athletic,1-1,1,1,Football League Third Division,3,D
+1989-05-09,1988/1989,Blackpool,Southend United,3-2,3,2,Football League Third Division,3,H
+1989-05-09,1988/1989,Cardiff City,Chester,2-0,2,0,Football League Third Division,3,H
+1989-05-10,1988/1989,Charlton Athletic,Derby County,3-0,3,0,Football League First Division,1,H
+1989-05-10,1988/1989,Liverpool,Nottingham Forest,1-0,1,0,Football League First Division,1,H
+1989-05-10,1988/1989,Manchester United,Everton,1-2,1,2,Football League First Division,1,A
+1989-05-13,1988/1989,Arsenal,Derby County,1-2,1,2,Football League First Division,1,A
+1989-05-13,1988/1989,Aston Villa,Coventry City,1-1,1,1,Football League First Division,1,D
+1989-05-13,1988/1989,Everton,West Ham United,3-1,3,1,Football League First Division,1,H
+1989-05-13,1988/1989,Luton Town,Norwich City,1-0,1,0,Football League First Division,1,H
+1989-05-13,1988/1989,Manchester United,Newcastle United,2-0,2,0,Football League First Division,1,H
+1989-05-13,1988/1989,Millwall,Southampton,1-1,1,1,Football League First Division,1,D
+1989-05-13,1988/1989,Nottingham Forest,Charlton Athletic,4-0,4,0,Football League First Division,1,H
+1989-05-13,1988/1989,Queens Park Rangers,Tottenham Hotspur,1-0,1,0,Football League First Division,1,H
+1989-05-13,1988/1989,Sheffield Wednesday,Middlesbrough,1-0,1,0,Football League First Division,1,H
+1989-05-13,1988/1989,Wimbledon,Liverpool,1-2,1,2,Football League First Division,1,A
+1989-05-13,1988/1989,Burnley,Scarborough,0-1,0,1,Football League Fourth Division,4,A
+1989-05-13,1988/1989,Darlington,Carlisle United,2-3,2,3,Football League Fourth Division,4,A
+1989-05-13,1988/1989,Leyton Orient,Scunthorpe United,4-1,4,1,Football League Fourth Division,4,H
+1989-05-13,1988/1989,Grimsby Town,Hartlepool United,3-0,3,0,Football League Fourth Division,4,H
+1989-05-13,1988/1989,Halifax Town,Hereford United,2-2,2,2,Football League Fourth Division,4,D
+1989-05-13,1988/1989,Peterborough United,Doncaster Rovers,2-0,2,0,Football League Fourth Division,4,H
+1989-05-13,1988/1989,Rotherham United,Cambridge United,0-0,0,0,Football League Fourth Division,4,D
+1989-05-13,1988/1989,Torquay United,Colchester United,1-3,1,3,Football League Fourth Division,4,A
+1989-05-13,1988/1989,Tranmere Rovers,Crewe Alexandra,1-1,1,1,Football League Fourth Division,4,D
+1989-05-13,1988/1989,Wrexham,Rochdale,2-1,2,1,Football League Fourth Division,4,H
+1989-05-13,1988/1989,York City,Stockport County,2-0,2,0,Football League Fourth Division,4,H
+1989-05-13,1988/1989,Exeter City,Lincoln City,0-1,0,1,Football League Fourth Division,4,A
+1989-05-13,1988/1989,Walsall,Barnsley,1-3,1,3,Football League Second Division,2,A
+1989-05-13,1988/1989,AFC Bournemouth,Plymouth Argyle,0-0,0,0,Football League Second Division,2,D
+1989-05-13,1988/1989,Crystal Palace,Birmingham City,4-1,4,1,Football League Second Division,2,H
+1989-05-13,1988/1989,Hull City,West Bromwich Albion,0-1,0,1,Football League Second Division,2,A
+1989-05-13,1988/1989,Ipswich Town,Blackburn Rovers,2-0,2,0,Football League Second Division,2,H
+1989-05-13,1988/1989,Oldham Athletic,Swindon Town,2-2,2,2,Football League Second Division,2,D
+1989-05-13,1988/1989,Oxford United,Watford,0-4,0,4,Football League Second Division,2,A
+1989-05-13,1988/1989,Portsmouth,Chelsea,2-3,2,3,Football League Second Division,2,A
+1989-05-13,1988/1989,Shrewsbury Town,Leeds United,3-3,3,3,Football League Second Division,2,D
+1989-05-13,1988/1989,Stoke City,Brighton & Hove Albion,2-2,2,2,Football League Second Division,2,D
+1989-05-13,1988/1989,Sunderland,Leicester City,2-2,2,2,Football League Second Division,2,D
+1989-05-13,1988/1989,Bradford City,Manchester City,1-1,1,1,Football League Second Division,2,D
+1989-05-13,1988/1989,Swansea City,Blackpool,1-2,1,2,Football League Third Division,3,A
+1989-05-13,1988/1989,Southend United,Chester,1-0,1,0,Football League Third Division,3,H
+1989-05-13,1988/1989,Preston North End,Wolverhampton Wanderers,3-3,3,3,Football League Third Division,3,D
+1989-05-13,1988/1989,Chesterfield,Reading,2-4,2,4,Football League Third Division,3,A
+1989-05-13,1988/1989,Huddersfield Town,Wigan Athletic,1-1,1,1,Football League Third Division,3,D
+1989-05-13,1988/1989,Gillingham,Notts County,2-1,2,1,Football League Third Division,3,H
+1989-05-13,1988/1989,Bury,Bristol Rovers,0-0,0,0,Football League Third Division,3,D
+1989-05-13,1988/1989,Northampton Town,Bolton Wanderers,2-3,2,3,Football League Third Division,3,A
+1989-05-13,1988/1989,Bristol City,Sheffield United,2-0,2,0,Football League Third Division,3,H
+1989-05-13,1988/1989,Brentford,Cardiff City,1-1,1,1,Football League Third Division,3,D
+1989-05-13,1988/1989,Fulham,Port Vale,1-2,1,2,Football League Third Division,3,A
+1989-05-13,1988/1989,Aldershot,Mansfield Town,0-0,0,0,Football League Third Division,3,D
+1989-05-15,1988/1989,Everton,Derby County,1-0,1,0,Football League First Division,1,H
+1989-05-15,1988/1989,Coventry City,Nottingham Forest,2-2,2,2,Football League First Division,1,D
+1989-05-16,1988/1989,Liverpool,Queens Park Rangers,2-0,2,0,Football League First Division,1,H
+1989-05-16,1988/1989,Cardiff City,Blackpool,0-0,0,0,Football League Third Division,3,D
+1989-05-16,1988/1989,Wigan Athletic,Wolverhampton Wanderers,1-1,1,1,Football League Third Division,3,D
+1989-05-17,1988/1989,Arsenal,Wimbledon,2-2,2,2,Football League First Division,1,D
+1989-05-17,1988/1989,Sheffield Wednesday,Norwich City,2-2,2,2,Football League First Division,1,D
+1989-05-18,1988/1989,Nottingham Forest,West Ham United,1-2,1,2,Football League First Division,1,A
+1989-05-23,1988/1989,Liverpool,West Ham United,5-1,5,1,Football League First Division,1,H
+1989-05-26,1988/1989,Liverpool,Arsenal,0-2,0,2,Football League First Division,1,A

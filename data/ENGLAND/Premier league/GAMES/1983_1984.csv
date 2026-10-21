@@ -1,0 +1,2029 @@
+Date,Season,HomeTeam,AwayTeam,Score,hGoal,aGoal,Division,Tier,Result
+1983-08-27,1983/1984,Arsenal,Luton Town,2-1,2,1,Football League First Division,1,H
+1983-08-27,1983/1984,Aston Villa,West Bromwich Albion,4-3,4,3,Football League First Division,1,H
+1983-08-27,1983/1984,Everton,Stoke City,1-0,1,0,Football League First Division,1,H
+1983-08-27,1983/1984,Ipswich Town,Tottenham Hotspur,3-1,3,1,Football League First Division,1,H
+1983-08-27,1983/1984,Leicester City,Notts County,0-4,0,4,Football League First Division,1,A
+1983-08-27,1983/1984,Manchester United,Queens Park Rangers,3-1,3,1,Football League First Division,1,H
+1983-08-27,1983/1984,Nottingham Forest,Southampton,0-1,0,1,Football League First Division,1,A
+1983-08-27,1983/1984,Sunderland,Norwich City,1-1,1,1,Football League First Division,1,D
+1983-08-27,1983/1984,West Ham United,Birmingham City,4-0,4,0,Football League First Division,1,H
+1983-08-27,1983/1984,Watford,Coventry City,2-3,2,3,Football League First Division,1,A
+1983-08-27,1983/1984,Wolverhampton Wanderers,Liverpool,1-1,1,1,Football League First Division,1,D
+1983-08-27,1983/1984,Stockport County,York City,0-2,0,2,Football League Fourth Division,4,A
+1983-08-27,1983/1984,Tranmere Rovers,Bury,1-1,1,1,Football League Fourth Division,4,D
+1983-08-27,1983/1984,Aldershot,Hereford United,1-4,1,4,Football League Fourth Division,4,A
+1983-08-27,1983/1984,Blackpool,Reading,1-0,1,0,Football League Fourth Division,4,H
+1983-08-27,1983/1984,Bristol City,Mansfield Town,4-0,4,0,Football League Fourth Division,4,H
+1983-08-27,1983/1984,Chester,Northampton Town,1-1,1,1,Football League Fourth Division,4,D
+1983-08-27,1983/1984,Chesterfield,Swindon Town,1-0,1,0,Football League Fourth Division,4,H
+1983-08-27,1983/1984,Darlington,Colchester United,0-2,0,2,Football League Fourth Division,4,A
+1983-08-27,1983/1984,Doncaster Rovers,Wrexham,3-0,3,0,Football League Fourth Division,4,H
+1983-08-27,1983/1984,Halifax Town,Torquay United,2-2,2,2,Football League Fourth Division,4,D
+1983-08-27,1983/1984,Peterborough United,Hartlepool United,3-1,3,1,Football League Fourth Division,4,H
+1983-08-27,1983/1984,Rochdale,Crewe Alexandra,1-0,1,0,Football League Fourth Division,4,H
+1983-08-27,1983/1984,Swansea City,Sheffield Wednesday,0-1,0,1,Football League Second Division,2,A
+1983-08-27,1983/1984,Barnsley,Fulham,3-0,3,0,Football League Second Division,2,H
+1983-08-27,1983/1984,Blackburn Rovers,Huddersfield Town,2-2,2,2,Football League Second Division,2,D
+1983-08-27,1983/1984,Carlisle United,Cambridge United,0-0,0,0,Football League Second Division,2,D
+1983-08-27,1983/1984,Charlton Athletic,Cardiff City,2-0,2,0,Football League Second Division,2,H
+1983-08-27,1983/1984,Chelsea,Derby County,5-0,5,0,Football League Second Division,2,H
+1983-08-27,1983/1984,Crystal Palace,Manchester City,0-2,0,2,Football League Second Division,2,A
+1983-08-27,1983/1984,Grimsby Town,Shrewsbury Town,1-1,1,1,Football League Second Division,2,D
+1983-08-27,1983/1984,Leeds United,Newcastle United,0-1,0,1,Football League Second Division,2,A
+1983-08-27,1983/1984,Oldham Athletic,Brighton & Hove Albion,1-0,1,0,Football League Second Division,2,H
+1983-08-27,1983/1984,Portsmouth,Middlesbrough,0-1,0,1,Football League Second Division,2,A
+1983-08-27,1983/1984,Exeter City,Walsall,0-1,0,1,Football League Third Division,3,A
+1983-08-27,1983/1984,Hull City,Burnley,4-1,4,1,Football League Third Division,3,H
+1983-08-27,1983/1984,Leyton Orient,Bradford City,2-0,2,0,Football League Third Division,3,H
+1983-08-27,1983/1984,Newport County,Bristol Rovers,2-1,2,1,Football League Third Division,3,H
+1983-08-27,1983/1984,Oxford United,Lincoln City,3-0,3,0,Football League Third Division,3,H
+1983-08-27,1983/1984,Port Vale,Scunthorpe United,0-0,0,0,Football League Third Division,3,D
+1983-08-27,1983/1984,Sheffield United,Gillingham,4-0,4,0,Football League Third Division,3,H
+1983-08-27,1983/1984,Southend United,Rotherham United,2-2,2,2,Football League Third Division,3,D
+1983-08-27,1983/1984,Brentford,Millwall,2-2,2,2,Football League Third Division,3,D
+1983-08-27,1983/1984,Bolton Wanderers,Wimbledon,2-0,2,0,Football League Third Division,3,H
+1983-08-27,1983/1984,Plymouth Argyle,Wigan Athletic,0-0,0,0,Football League Third Division,3,D
+1983-08-27,1983/1984,AFC Bournemouth,Preston North End,0-1,0,1,Football League Third Division,3,A
+1983-08-29,1983/1984,Wolverhampton Wanderers,Arsenal,1-2,1,2,Football League First Division,1,A
+1983-08-29,1983/1984,Stoke City,West Bromwich Albion,3-1,3,1,Football League First Division,1,H
+1983-08-29,1983/1984,Southampton,Queens Park Rangers,0-0,0,0,Football League First Division,1,D
+1983-08-29,1983/1984,Manchester United,Nottingham Forest,1-2,1,2,Football League First Division,1,A
+1983-08-29,1983/1984,Everton,West Ham United,0-1,0,1,Football League First Division,1,A
+1983-08-29,1983/1984,Aston Villa,Sunderland,1-0,1,0,Football League First Division,1,H
+1983-08-29,1983/1984,Tottenham Hotspur,Coventry City,1-1,1,1,Football League First Division,1,D
+1983-08-29,1983/1984,Newcastle United,Shrewsbury Town,0-1,0,1,Football League Second Division,2,A
+1983-08-29,1983/1984,Leeds United,Brighton & Hove Albion,3-2,3,2,Football League Second Division,2,H
+1983-08-29,1983/1984,Derby County,Sheffield Wednesday,1-1,1,1,Football League Second Division,2,D
+1983-08-29,1983/1984,Carlisle United,Blackburn Rovers,0-1,0,1,Football League Second Division,2,A
+1983-08-29,1983/1984,Cardiff City,Manchester City,2-1,2,1,Football League Second Division,2,H
+1983-08-30,1983/1984,Notts County,Birmingham City,2-1,2,1,Football League First Division,1,H
+1983-08-30,1983/1984,Watford,Ipswich Town,2-2,2,2,Football League First Division,1,D
+1983-08-31,1983/1984,Norwich City,Liverpool,0-1,0,1,Football League First Division,1,A
+1983-08-31,1983/1984,Leicester City,Luton Town,0-3,0,3,Football League First Division,1,A
+1983-09-03,1983/1984,Norwich City,Wolverhampton Wanderers,3-0,3,0,Football League First Division,1,H
+1983-09-03,1983/1984,Birmingham City,Watford,2-0,2,0,Football League First Division,1,H
+1983-09-03,1983/1984,Coventry City,Everton,1-1,1,1,Football League First Division,1,D
+1983-09-03,1983/1984,Luton Town,Sunderland,4-1,4,1,Football League First Division,1,H
+1983-09-03,1983/1984,Notts County,Ipswich Town,0-2,0,2,Football League First Division,1,A
+1983-09-03,1983/1984,Queens Park Rangers,Aston Villa,2-1,2,1,Football League First Division,1,H
+1983-09-03,1983/1984,Southampton,Arsenal,1-0,1,0,Football League First Division,1,H
+1983-09-03,1983/1984,Stoke City,Manchester United,0-1,0,1,Football League First Division,1,A
+1983-09-03,1983/1984,Tottenham Hotspur,West Ham United,0-2,0,2,Football League First Division,1,A
+1983-09-03,1983/1984,West Bromwich Albion,Leicester City,1-0,1,0,Football League First Division,1,H
+1983-09-03,1983/1984,Liverpool,Nottingham Forest,1-0,1,0,Football League First Division,1,H
+1983-09-03,1983/1984,Bury,Bristol City,2-1,2,1,Football League Fourth Division,4,H
+1983-09-03,1983/1984,Mansfield Town,Doncaster Rovers,1-2,1,2,Football League Fourth Division,4,A
+1983-09-03,1983/1984,Crewe Alexandra,Chesterfield,2-1,2,1,Football League Fourth Division,4,H
+1983-09-03,1983/1984,Hartlepool United,Aldershot,0-1,0,1,Football League Fourth Division,4,A
+1983-09-03,1983/1984,Hereford United,Halifax Town,0-0,0,0,Football League Fourth Division,4,D
+1983-09-03,1983/1984,Northampton Town,Darlington,2-0,2,0,Football League Fourth Division,4,H
+1983-09-03,1983/1984,York City,Rochdale,2-0,2,0,Football League Fourth Division,4,H
+1983-09-03,1983/1984,Reading,Stockport County,6-2,6,2,Football League Fourth Division,4,H
+1983-09-03,1983/1984,Swindon Town,Chester,4-0,4,0,Football League Fourth Division,4,H
+1983-09-03,1983/1984,Torquay United,Tranmere Rovers,1-1,1,1,Football League Fourth Division,4,D
+1983-09-03,1983/1984,Wrexham,Peterborough United,2-2,2,2,Football League Fourth Division,4,D
+1983-09-03,1983/1984,Colchester United,Blackpool,2-1,2,1,Football League Fourth Division,4,H
+1983-09-03,1983/1984,Shrewsbury Town,Crystal Palace,1-1,1,1,Football League Second Division,2,D
+1983-09-03,1983/1984,Cambridge United,Blackburn Rovers,2-0,2,0,Football League Second Division,2,H
+1983-09-03,1983/1984,Brighton & Hove Albion,Chelsea,1-2,1,2,Football League Second Division,2,A
+1983-09-03,1983/1984,Sheffield Wednesday,Carlisle United,2-0,2,0,Football League Second Division,2,H
+1983-09-03,1983/1984,Middlesbrough,Leeds United,2-2,2,2,Football League Second Division,2,D
+1983-09-03,1983/1984,Manchester City,Barnsley,3-2,3,2,Football League Second Division,2,H
+1983-09-03,1983/1984,Newcastle United,Oldham Athletic,3-0,3,0,Football League Second Division,2,H
+1983-09-03,1983/1984,Fulham,Portsmouth,0-2,0,2,Football League Second Division,2,A
+1983-09-03,1983/1984,Derby County,Swansea City,2-1,2,1,Football League Second Division,2,H
+1983-09-03,1983/1984,Cardiff City,Grimsby Town,3-1,3,1,Football League Second Division,2,H
+1983-09-03,1983/1984,Huddersfield Town,Charlton Athletic,0-0,0,0,Football League Second Division,2,D
+1983-09-03,1983/1984,Wimbledon,Newport County,6-0,6,0,Football League Third Division,3,H
+1983-09-03,1983/1984,Lincoln City,Sheffield United,0-2,0,2,Football League Third Division,3,A
+1983-09-03,1983/1984,Millwall,Plymouth Argyle,1-0,1,0,Football League Third Division,3,H
+1983-09-03,1983/1984,Preston North End,Brentford,3-3,3,3,Football League Third Division,3,D
+1983-09-03,1983/1984,Rotherham United,Port Vale,2-1,2,1,Football League Third Division,3,H
+1983-09-03,1983/1984,Scunthorpe United,Exeter City,3-1,3,1,Football League Third Division,3,H
+1983-09-03,1983/1984,Walsall,Leyton Orient,0-1,0,1,Football League Third Division,3,A
+1983-09-03,1983/1984,Gillingham,Hull City,1-2,1,2,Football League Third Division,3,A
+1983-09-03,1983/1984,Wigan Athletic,Oxford United,0-2,0,2,Football League Third Division,3,A
+1983-09-03,1983/1984,Burnley,AFC Bournemouth,5-1,5,1,Football League Third Division,3,H
+1983-09-03,1983/1984,Bristol Rovers,Southend United,2-1,2,1,Football League Third Division,3,H
+1983-09-03,1983/1984,Bradford City,Bolton Wanderers,0-2,0,2,Football League Third Division,3,A
+1983-09-06,1983/1984,Arsenal,Manchester United,2-3,2,3,Football League First Division,1,A
+1983-09-06,1983/1984,Birmingham City,Stoke City,1-0,1,0,Football League First Division,1,H
+1983-09-06,1983/1984,Coventry City,Notts County,2-1,2,1,Football League First Division,1,H
+1983-09-06,1983/1984,Ipswich Town,Everton,3-0,3,0,Football League First Division,1,H
+1983-09-06,1983/1984,Liverpool,Southampton,1-1,1,1,Football League First Division,1,D
+1983-09-06,1983/1984,Luton Town,Norwich City,2-2,2,2,Football League First Division,1,D
+1983-09-06,1983/1984,West Ham United,Leicester City,3-1,3,1,Football League First Division,1,H
+1983-09-06,1983/1984,Queens Park Rangers,Watford,1-1,1,1,Football League First Division,1,D
+1983-09-06,1983/1984,Bury,Blackpool,0-0,0,0,Football League Fourth Division,4,D
+1983-09-06,1983/1984,Swindon Town,Halifax Town,2-3,2,3,Football League Fourth Division,4,A
+1983-09-06,1983/1984,Crewe Alexandra,Aldershot,0-0,0,0,Football League Fourth Division,4,D
+1983-09-06,1983/1984,Mansfield Town,Stockport County,1-2,1,2,Football League Fourth Division,4,A
+1983-09-06,1983/1984,Northampton Town,Tranmere Rovers,0-0,0,0,Football League Fourth Division,4,D
+1983-09-06,1983/1984,Wrexham,Rochdale,5-1,5,1,Football League Fourth Division,4,H
+1983-09-06,1983/1984,York City,Peterborough United,2-0,2,0,Football League Fourth Division,4,H
+1983-09-06,1983/1984,Colchester United,Bristol City,0-0,0,0,Football League Fourth Division,4,D
+1983-09-06,1983/1984,Shrewsbury Town,Cardiff City,1-0,1,0,Football League Second Division,2,H
+1983-09-06,1983/1984,Swansea City,Oldham Athletic,0-0,0,0,Football League Second Division,2,D
+1983-09-06,1983/1984,Charlton Athletic,Carlisle United,1-0,1,0,Football League Second Division,2,H
+1983-09-06,1983/1984,Grimsby Town,Leeds United,2-0,2,0,Football League Second Division,2,H
+1983-09-06,1983/1984,Huddersfield Town,Crystal Palace,2-1,2,1,Football League Second Division,2,H
+1983-09-06,1983/1984,Middlesbrough,Newcastle United,3-2,3,2,Football League Second Division,2,H
+1983-09-06,1983/1984,Portsmouth,Barnsley,2-1,2,1,Football League Second Division,2,H
+1983-09-06,1983/1984,Sheffield Wednesday,Cambridge United,1-0,1,0,Football League Second Division,2,H
+1983-09-06,1983/1984,Brighton & Hove Albion,Derby County,1-0,1,0,Football League Second Division,2,H
+1983-09-06,1983/1984,Gillingham,Bolton Wanderers,2-0,2,0,Football League Third Division,3,H
+1983-09-06,1983/1984,Wimbledon,AFC Bournemouth,3-2,3,2,Football League Third Division,3,H
+1983-09-06,1983/1984,Millwall,Port Vale,3-2,3,2,Football League Third Division,3,H
+1983-09-06,1983/1984,Preston North End,Southend United,4-1,4,1,Football League Third Division,3,H
+1983-09-06,1983/1984,Rotherham United,Plymouth Argyle,2-0,2,0,Football League Third Division,3,H
+1983-09-06,1983/1984,Wigan Athletic,Exeter City,1-1,1,1,Football League Third Division,3,D
+1983-09-06,1983/1984,Burnley,Newport County,2-0,2,0,Football League Third Division,3,H
+1983-09-06,1983/1984,Bristol Rovers,Brentford,3-1,3,1,Football League Third Division,3,H
+1983-09-06,1983/1984,Walsall,Sheffield United,1-2,1,2,Football League Third Division,3,A
+1983-09-07,1983/1984,West Bromwich Albion,Tottenham Hotspur,1-1,1,1,Football League First Division,1,D
+1983-09-07,1983/1984,Sunderland,Wolverhampton Wanderers,3-2,3,2,Football League First Division,1,H
+1983-09-07,1983/1984,Nottingham Forest,Aston Villa,2-2,2,2,Football League First Division,1,D
+1983-09-07,1983/1984,Torquay United,Darlington,0-1,0,1,Football League Fourth Division,4,A
+1983-09-07,1983/1984,Reading,Doncaster Rovers,3-2,3,2,Football League Fourth Division,4,H
+1983-09-07,1983/1984,Hereford United,Chester,2-1,2,1,Football League Fourth Division,4,H
+1983-09-07,1983/1984,Hartlepool United,Chesterfield,2-2,2,2,Football League Fourth Division,4,D
+1983-09-07,1983/1984,Manchester City,Fulham,0-0,0,0,Football League Second Division,2,D
+1983-09-07,1983/1984,Blackburn Rovers,Chelsea,0-0,0,0,Football League Second Division,2,D
+1983-09-07,1983/1984,Scunthorpe United,Oxford United,0-0,0,0,Football League Third Division,3,D
+1983-09-07,1983/1984,Lincoln City,Leyton Orient,2-0,2,0,Football League Third Division,3,H
+1983-09-07,1983/1984,Bradford City,Hull City,0-0,0,0,Football League Third Division,3,D
+1983-09-09,1983/1984,Halifax Town,Mansfield Town,0-0,0,0,Football League Fourth Division,4,D
+1983-09-09,1983/1984,Stockport County,Colchester United,0-0,0,0,Football League Fourth Division,4,D
+1983-09-09,1983/1984,Leyton Orient,Scunthorpe United,1-0,1,0,Football League Third Division,3,H
+1983-09-10,1983/1984,Aston Villa,Norwich City,1-0,1,0,Football League First Division,1,H
+1983-09-10,1983/1984,Everton,West Bromwich Albion,0-0,0,0,Football League First Division,1,D
+1983-09-10,1983/1984,Ipswich Town,Stoke City,5-0,5,0,Football League First Division,1,H
+1983-09-10,1983/1984,Leicester City,Tottenham Hotspur,0-3,0,3,Football League First Division,1,A
+1983-09-10,1983/1984,Manchester United,Luton Town,2-0,2,0,Football League First Division,1,H
+1983-09-10,1983/1984,Nottingham Forest,Queens Park Rangers,3-2,3,2,Football League First Division,1,H
+1983-09-10,1983/1984,Sunderland,Southampton,0-2,0,2,Football League First Division,1,A
+1983-09-10,1983/1984,Watford,Notts County,3-1,3,1,Football League First Division,1,H
+1983-09-10,1983/1984,West Ham United,Coventry City,5-2,5,2,Football League First Division,1,H
+1983-09-10,1983/1984,Wolverhampton Wanderers,Birmingham City,1-1,1,1,Football League First Division,1,D
+1983-09-10,1983/1984,Arsenal,Liverpool,0-2,0,2,Football League First Division,1,A
+1983-09-10,1983/1984,Tranmere Rovers,Wrexham,2-1,2,1,Football League Fourth Division,4,H
+1983-09-10,1983/1984,Bristol City,Hartlepool United,2-0,2,0,Football League Fourth Division,4,H
+1983-09-10,1983/1984,Aldershot,Bury,1-2,1,2,Football League Fourth Division,4,A
+1983-09-10,1983/1984,Blackpool,Northampton Town,2-3,2,3,Football League Fourth Division,4,A
+1983-09-10,1983/1984,Chester,Crewe Alexandra,0-1,0,1,Football League Fourth Division,4,A
+1983-09-10,1983/1984,Chesterfield,York City,2-1,2,1,Football League Fourth Division,4,H
+1983-09-10,1983/1984,Darlington,Swindon Town,1-0,1,0,Football League Fourth Division,4,H
+1983-09-10,1983/1984,Peterborough United,Torquay United,5-0,5,0,Football League Fourth Division,4,H
+1983-09-10,1983/1984,Rochdale,Reading,4-1,4,1,Football League Fourth Division,4,H
+1983-09-10,1983/1984,Chelsea,Cambridge United,2-1,2,1,Football League Second Division,2,H
+1983-09-10,1983/1984,Portsmouth,Manchester City,1-2,1,2,Football League Second Division,2,A
+1983-09-10,1983/1984,Barnsley,Middlesbrough,0-2,0,2,Football League Second Division,2,A
+1983-09-10,1983/1984,Blackburn Rovers,Derby County,5-1,5,1,Football League Second Division,2,H
+1983-09-10,1983/1984,Carlisle United,Shrewsbury Town,1-0,1,0,Football League Second Division,2,H
+1983-09-10,1983/1984,Charlton Athletic,Sheffield Wednesday,1-1,1,1,Football League Second Division,2,D
+1983-09-10,1983/1984,Grimsby Town,Newcastle United,1-1,1,1,Football League Second Division,2,D
+1983-09-10,1983/1984,Leeds United,Cardiff City,1-0,1,0,Football League Second Division,2,H
+1983-09-10,1983/1984,Oldham Athletic,Huddersfield Town,0-3,0,3,Football League Second Division,2,A
+1983-09-10,1983/1984,Swansea City,Brighton & Hove Albion,1-3,1,3,Football League Second Division,2,A
+1983-09-10,1983/1984,Port Vale,Bristol Rovers,2-0,2,0,Football League Third Division,3,H
+1983-09-10,1983/1984,Exeter City,Rotherham United,0-1,0,1,Football League Third Division,3,A
+1983-09-10,1983/1984,Hull City,Millwall,5-0,5,0,Football League Third Division,3,H
+1983-09-10,1983/1984,Newport County,Bradford City,4-3,4,3,Football League Third Division,3,H
+1983-09-10,1983/1984,Oxford United,Burnley,2-2,2,2,Football League Third Division,3,D
+1983-09-10,1983/1984,Brentford,Lincoln City,3-0,3,0,Football League Third Division,3,H
+1983-09-10,1983/1984,Plymouth Argyle,Gillingham,1-1,1,1,Football League Third Division,3,D
+1983-09-10,1983/1984,Sheffield United,Preston North End,1-1,1,1,Football League Third Division,3,D
+1983-09-10,1983/1984,Bolton Wanderers,Walsall,8-1,8,1,Football League Third Division,3,H
+1983-09-10,1983/1984,Southend United,Wimbledon,1-1,1,1,Football League Third Division,3,D
+1983-09-10,1983/1984,AFC Bournemouth,Wigan Athletic,0-1,0,1,Football League Third Division,3,A
+1983-09-11,1983/1984,Doncaster Rovers,Hereford United,3-0,3,0,Football League Fourth Division,4,H
+1983-09-11,1983/1984,Crystal Palace,Fulham,1-1,1,1,Football League Second Division,2,D
+1983-09-16,1983/1984,Wrexham,Bristol City,3-1,3,1,Football League Fourth Division,4,H
+1983-09-16,1983/1984,Scunthorpe United,Bolton Wanderers,1-0,1,0,Football League Third Division,3,H
+1983-09-17,1983/1984,Birmingham City,Ipswich Town,1-0,1,0,Football League First Division,1,H
+1983-09-17,1983/1984,Liverpool,Aston Villa,2-1,2,1,Football League First Division,1,H
+1983-09-17,1983/1984,Luton Town,Wolverhampton Wanderers,4-0,4,0,Football League First Division,1,H
+1983-09-17,1983/1984,Norwich City,Nottingham Forest,2-3,2,3,Football League First Division,1,A
+1983-09-17,1983/1984,Notts County,Arsenal,0-4,0,4,Football League First Division,1,A
+1983-09-17,1983/1984,Queens Park Rangers,Sunderland,3-0,3,0,Football League First Division,1,H
+1983-09-17,1983/1984,Southampton,Manchester United,3-0,3,0,Football League First Division,1,H
+1983-09-17,1983/1984,Stoke City,Watford,0-4,0,4,Football League First Division,1,A
+1983-09-17,1983/1984,Coventry City,Leicester City,2-1,2,1,Football League First Division,1,H
+1983-09-17,1983/1984,West Bromwich Albion,West Ham United,1-0,1,0,Football League First Division,1,H
+1983-09-17,1983/1984,Tottenham Hotspur,Everton,1-2,1,2,Football League First Division,1,A
+1983-09-17,1983/1984,York City,Chester,4-1,4,1,Football League Fourth Division,4,H
+1983-09-17,1983/1984,Colchester United,Rochdale,4-0,4,0,Football League Fourth Division,4,H
+1983-09-17,1983/1984,Crewe Alexandra,Darlington,2-1,2,1,Football League Fourth Division,4,H
+1983-09-17,1983/1984,Hartlepool United,Doncaster Rovers,1-0,1,0,Football League Fourth Division,4,H
+1983-09-17,1983/1984,Hereford United,Peterborough United,2-1,2,1,Football League Fourth Division,4,H
+1983-09-17,1983/1984,Mansfield Town,Tranmere Rovers,1-0,1,0,Football League Fourth Division,4,H
+1983-09-17,1983/1984,Reading,Chesterfield,1-1,1,1,Football League Fourth Division,4,D
+1983-09-17,1983/1984,Swindon Town,Blackpool,0-0,0,0,Football League Fourth Division,4,D
+1983-09-17,1983/1984,Torquay United,Aldershot,0-1,0,1,Football League Fourth Division,4,A
+1983-09-17,1983/1984,Shrewsbury Town,Barnsley,3-2,3,2,Football League Second Division,2,H
+1983-09-17,1983/1984,Huddersfield Town,Swansea City,1-0,1,0,Football League Second Division,2,H
+1983-09-17,1983/1984,Newcastle United,Crystal Palace,3-1,3,1,Football League Second Division,2,H
+1983-09-17,1983/1984,Sheffield Wednesday,Chelsea,2-1,2,1,Football League Second Division,2,H
+1983-09-17,1983/1984,Brighton & Hove Albion,Carlisle United,1-1,1,1,Football League Second Division,2,D
+1983-09-17,1983/1984,Cambridge United,Charlton Athletic,2-2,2,2,Football League Second Division,2,D
+1983-09-17,1983/1984,Cardiff City,Portsmouth,0-0,0,0,Football League Second Division,2,D
+1983-09-17,1983/1984,Derby County,Oldham Athletic,2-2,2,2,Football League Second Division,2,D
+1983-09-17,1983/1984,Fulham,Leeds United,2-1,2,1,Football League Second Division,2,H
+1983-09-17,1983/1984,Manchester City,Blackburn Rovers,6-0,6,0,Football League Second Division,2,H
+1983-09-17,1983/1984,Middlesbrough,Grimsby Town,1-1,1,1,Football League Second Division,2,D
+1983-09-17,1983/1984,Bradford City,Southend United,1-1,1,1,Football League Third Division,3,D
+1983-09-17,1983/1984,Bristol Rovers,Exeter City,2-0,2,0,Football League Third Division,3,H
+1983-09-17,1983/1984,Gillingham,Oxford United,2-3,2,3,Football League Third Division,3,A
+1983-09-17,1983/1984,Lincoln City,Plymouth Argyle,3-1,3,1,Football League Third Division,3,H
+1983-09-17,1983/1984,Millwall,AFC Bournemouth,3-1,3,1,Football League Third Division,3,H
+1983-09-17,1983/1984,Preston North End,Hull City,0-0,0,0,Football League Third Division,3,D
+1983-09-17,1983/1984,Rotherham United,Leyton Orient,0-1,0,1,Football League Third Division,3,A
+1983-09-17,1983/1984,Walsall,Newport County,3-2,3,2,Football League Third Division,3,H
+1983-09-17,1983/1984,Wimbledon,Port Vale,4-2,4,2,Football League Third Division,3,H
+1983-09-17,1983/1984,Wigan Athletic,Brentford,2-1,2,1,Football League Third Division,3,H
+1983-09-18,1983/1984,Bury,Halifax Town,3-0,3,0,Football League Fourth Division,4,H
+1983-09-18,1983/1984,Northampton Town,Stockport County,0-0,0,0,Football League Fourth Division,4,D
+1983-09-19,1983/1984,Southend United,Millwall,3-2,3,2,Football League Third Division,3,H
+1983-09-23,1983/1984,Tranmere Rovers,Hereford United,0-1,0,1,Football League Fourth Division,4,A
+1983-09-23,1983/1984,Stockport County,Swindon Town,1-3,1,3,Football League Fourth Division,4,A
+1983-09-23,1983/1984,Halifax Town,Hartlepool United,3-2,3,2,Football League Fourth Division,4,H
+1983-09-23,1983/1984,Leyton Orient,Bristol Rovers,0-1,0,1,Football League Third Division,3,A
+1983-09-24,1983/1984,Arsenal,Norwich City,3-0,3,0,Football League First Division,1,H
+1983-09-24,1983/1984,Aston Villa,Southampton,1-0,1,0,Football League First Division,1,H
+1983-09-24,1983/1984,Everton,Birmingham City,1-1,1,1,Football League First Division,1,D
+1983-09-24,1983/1984,Ipswich Town,West Bromwich Albion,3-4,3,4,Football League First Division,1,A
+1983-09-24,1983/1984,Manchester United,Liverpool,1-0,1,0,Football League First Division,1,H
+1983-09-24,1983/1984,Nottingham Forest,Luton Town,1-0,1,0,Football League First Division,1,H
+1983-09-24,1983/1984,Sunderland,Coventry City,1-0,1,0,Football League First Division,1,H
+1983-09-24,1983/1984,Watford,Tottenham Hotspur,2-3,2,3,Football League First Division,1,A
+1983-09-24,1983/1984,West Ham United,Notts County,3-0,3,0,Football League First Division,1,H
+1983-09-24,1983/1984,Leicester City,Stoke City,2-2,2,2,Football League First Division,1,D
+1983-09-24,1983/1984,Wolverhampton Wanderers,Queens Park Rangers,0-4,0,4,Football League First Division,1,A
+1983-09-24,1983/1984,Blackpool,Crewe Alexandra,3-0,3,0,Football League Fourth Division,4,H
+1983-09-24,1983/1984,Bristol City,Torquay United,5-0,5,0,Football League Fourth Division,4,H
+1983-09-24,1983/1984,Chester,Reading,2-1,2,1,Football League Fourth Division,4,H
+1983-09-24,1983/1984,Chesterfield,Colchester United,1-1,1,1,Football League Fourth Division,4,D
+1983-09-24,1983/1984,Darlington,York City,0-0,0,0,Football League Fourth Division,4,D
+1983-09-24,1983/1984,Doncaster Rovers,Bury,3-1,3,1,Football League Fourth Division,4,H
+1983-09-24,1983/1984,Peterborough United,Mansfield Town,3-0,3,0,Football League Fourth Division,4,H
+1983-09-24,1983/1984,Rochdale,Northampton Town,1-1,1,1,Football League Fourth Division,4,D
+1983-09-24,1983/1984,Aldershot,Wrexham,1-1,1,1,Football League Fourth Division,4,D
+1983-09-24,1983/1984,Swansea City,Cambridge United,2-1,2,1,Football League Second Division,2,H
+1983-09-24,1983/1984,Oldham Athletic,Sheffield Wednesday,1-3,1,3,Football League Second Division,2,A
+1983-09-24,1983/1984,Barnsley,Newcastle United,1-1,1,1,Football League Second Division,2,D
+1983-09-24,1983/1984,Blackburn Rovers,Brighton & Hove Albion,2-2,2,2,Football League Second Division,2,D
+1983-09-24,1983/1984,Carlisle United,Huddersfield Town,0-0,0,0,Football League Second Division,2,D
+1983-09-24,1983/1984,Charlton Athletic,Derby County,1-0,1,0,Football League Second Division,2,H
+1983-09-24,1983/1984,Chelsea,Middlesbrough,0-0,0,0,Football League Second Division,2,D
+1983-09-24,1983/1984,Grimsby Town,Fulham,2-1,2,1,Football League Second Division,2,H
+1983-09-24,1983/1984,Portsmouth,Shrewsbury Town,4-1,4,1,Football League Second Division,2,H
+1983-09-24,1983/1984,Leeds United,Manchester City,1-2,1,2,Football League Second Division,2,A
+1983-09-24,1983/1984,Sheffield United,Wigan Athletic,2-2,2,2,Football League Third Division,3,D
+1983-09-24,1983/1984,Bolton Wanderers,Rotherham United,2-0,2,0,Football League Third Division,3,H
+1983-09-24,1983/1984,Exeter City,Wimbledon,0-3,0,3,Football League Third Division,3,A
+1983-09-24,1983/1984,Hull City,Lincoln City,2-0,2,0,Football League Third Division,3,H
+1983-09-24,1983/1984,Newport County,Scunthorpe United,1-1,1,1,Football League Third Division,3,D
+1983-09-24,1983/1984,Oxford United,Millwall,4-2,4,2,Football League Third Division,3,H
+1983-09-24,1983/1984,Plymouth Argyle,Preston North End,1-0,1,0,Football League Third Division,3,H
+1983-09-24,1983/1984,Port Vale,Bradford City,1-2,1,2,Football League Third Division,3,A
+1983-09-24,1983/1984,Southend United,Walsall,0-0,0,0,Football League Third Division,3,D
+1983-09-24,1983/1984,AFC Bournemouth,Gillingham,2-0,2,0,Football League Third Division,3,H
+1983-09-24,1983/1984,Brentford,Burnley,0-0,0,0,Football League Third Division,3,D
+1983-09-26,1983/1984,Tranmere Rovers,Colchester United,2-1,2,1,Football League Fourth Division,4,H
+1983-09-26,1983/1984,Stockport County,Wrexham,1-1,1,1,Football League Fourth Division,4,D
+1983-09-26,1983/1984,Port Vale,Wigan Athletic,1-1,1,1,Football League Third Division,3,D
+1983-09-27,1983/1984,Blackpool,Mansfield Town,2-0,2,0,Football League Fourth Division,4,H
+1983-09-27,1983/1984,Rochdale,Hartlepool United,2-0,2,0,Football League Fourth Division,4,H
+1983-09-27,1983/1984,Halifax Town,Northampton Town,2-2,2,2,Football League Fourth Division,4,D
+1983-09-27,1983/1984,Doncaster Rovers,York City,2-2,2,2,Football League Fourth Division,4,D
+1983-09-27,1983/1984,Darlington,Bury,1-2,1,2,Football League Fourth Division,4,A
+1983-09-27,1983/1984,Chesterfield,Hereford United,0-0,0,0,Football League Fourth Division,4,D
+1983-09-27,1983/1984,Bristol City,Reading,3-1,3,1,Football League Fourth Division,4,H
+1983-09-27,1983/1984,Aldershot,Swindon Town,2-1,2,1,Football League Fourth Division,4,H
+1983-09-27,1983/1984,Oldham Athletic,Charlton Athletic,0-0,0,0,Football League Second Division,2,D
+1983-09-27,1983/1984,Fulham,Middlesbrough,2-1,2,1,Football League Second Division,2,H
+1983-09-27,1983/1984,Crystal Palace,Portsmouth,2-1,2,1,Football League Second Division,2,H
+1983-09-27,1983/1984,Barnsley,Grimsby Town,3-1,3,1,Football League Second Division,2,H
+1983-09-27,1983/1984,Sheffield United,Bradford City,2-0,2,0,Football League Third Division,3,H
+1983-09-27,1983/1984,Newport County,Preston North End,1-1,1,1,Football League Third Division,3,D
+1983-09-27,1983/1984,Plymouth Argyle,Scunthorpe United,4-0,4,0,Football League Third Division,3,H
+1983-09-27,1983/1984,Hull City,Wimbledon,1-0,1,0,Football League Third Division,3,H
+1983-09-27,1983/1984,Bolton Wanderers,Burnley,0-0,0,0,Football League Third Division,3,D
+1983-09-27,1983/1984,AFC Bournemouth,Bristol Rovers,0-1,0,1,Football League Third Division,3,A
+1983-09-28,1983/1984,Peterborough United,Crewe Alexandra,1-0,1,0,Football League Fourth Division,4,H
+1983-09-28,1983/1984,Chester,Torquay United,1-2,1,2,Football League Fourth Division,4,A
+1983-09-28,1983/1984,Exeter City,Lincoln City,0-3,0,3,Football League Third Division,3,A
+1983-09-28,1983/1984,Oxford United,Walsall,6-3,6,3,Football League Third Division,3,H
+1983-09-30,1983/1984,Crewe Alexandra,Stockport County,0-3,0,3,Football League Fourth Division,4,A
+1983-09-30,1983/1984,Scunthorpe United,Southend United,1-6,1,6,Football League Third Division,3,A
+1983-10-01,1983/1984,Notts County,Everton,0-1,0,1,Football League First Division,1,A
+1983-10-01,1983/1984,Birmingham City,Leicester City,2-1,2,1,Football League First Division,1,H
+1983-10-01,1983/1984,Liverpool,Sunderland,0-1,0,1,Football League First Division,1,A
+1983-10-01,1983/1984,Luton Town,Aston Villa,1-0,1,0,Football League First Division,1,H
+1983-10-01,1983/1984,Norwich City,Manchester United,3-3,3,3,Football League First Division,1,D
+1983-10-01,1983/1984,Queens Park Rangers,Arsenal,2-0,2,0,Football League First Division,1,H
+1983-10-01,1983/1984,Southampton,Wolverhampton Wanderers,1-0,1,0,Football League First Division,1,H
+1983-10-01,1983/1984,Stoke City,West Ham United,3-1,3,1,Football League First Division,1,H
+1983-10-01,1983/1984,West Bromwich Albion,Watford,2-0,2,0,Football League First Division,1,H
+1983-10-01,1983/1984,Coventry City,Ipswich Town,1-2,1,2,Football League First Division,1,A
+1983-10-01,1983/1984,Torquay United,Doncaster Rovers,4-1,4,1,Football League Fourth Division,4,H
+1983-10-01,1983/1984,Hartlepool United,Tranmere Rovers,0-1,0,1,Football League Fourth Division,4,A
+1983-10-01,1983/1984,Hereford United,Bristol City,0-2,0,2,Football League Fourth Division,4,A
+1983-10-01,1983/1984,Mansfield Town,Aldershot,5-2,5,2,Football League Fourth Division,4,H
+1983-10-01,1983/1984,Northampton Town,Chesterfield,1-1,1,1,Football League Fourth Division,4,D
+1983-10-01,1983/1984,Reading,Darlington,1-0,1,0,Football League Fourth Division,4,H
+1983-10-01,1983/1984,Swindon Town,Rochdale,2-1,2,1,Football League Fourth Division,4,H
+1983-10-01,1983/1984,Wrexham,Halifax Town,1-0,1,0,Football League Fourth Division,4,H
+1983-10-01,1983/1984,York City,Blackpool,4-0,4,0,Football League Fourth Division,4,H
+1983-10-01,1983/1984,Colchester United,Chester,1-0,1,0,Football League Fourth Division,4,H
+1983-10-01,1983/1984,Sheffield Wednesday,Blackburn Rovers,4-2,4,2,Football League Second Division,2,H
+1983-10-01,1983/1984,Shrewsbury Town,Leeds United,5-1,5,1,Football League Second Division,2,H
+1983-10-01,1983/1984,Cambridge United,Oldham Athletic,2-1,2,1,Football League Second Division,2,H
+1983-10-01,1983/1984,Brighton & Hove Albion,Charlton Athletic,7-0,7,0,Football League Second Division,2,H
+1983-10-01,1983/1984,Middlesbrough,Crystal Palace,1-3,1,3,Football League Second Division,2,A
+1983-10-01,1983/1984,Manchester City,Grimsby Town,2-1,2,1,Football League Second Division,2,H
+1983-10-01,1983/1984,Huddersfield Town,Chelsea,2-3,2,3,Football League Second Division,2,A
+1983-10-01,1983/1984,Newcastle United,Portsmouth,4-2,4,2,Football League Second Division,2,H
+1983-10-01,1983/1984,Derby County,Carlisle United,1-4,1,4,Football League Second Division,2,A
+1983-10-01,1983/1984,Cardiff City,Barnsley,0-3,0,3,Football League Second Division,2,A
+1983-10-01,1983/1984,Fulham,Swansea City,5-0,5,0,Football League Second Division,2,H
+1983-10-01,1983/1984,Wigan Athletic,Hull City,1-1,1,1,Football League Third Division,3,D
+1983-10-01,1983/1984,Gillingham,Brentford,4-2,4,2,Football League Third Division,3,H
+1983-10-01,1983/1984,Lincoln City,AFC Bournemouth,3-0,3,0,Football League Third Division,3,H
+1983-10-01,1983/1984,Burnley,Plymouth Argyle,2-1,2,1,Football League Third Division,3,H
+1983-10-01,1983/1984,Millwall,Sheffield United,1-2,1,2,Football League Third Division,3,A
+1983-10-01,1983/1984,Preston North End,Oxford United,1-2,1,2,Football League Third Division,3,A
+1983-10-01,1983/1984,Rotherham United,Newport County,0-1,0,1,Football League Third Division,3,A
+1983-10-01,1983/1984,Walsall,Port Vale,2-0,2,0,Football League Third Division,3,H
+1983-10-01,1983/1984,Wimbledon,Leyton Orient,2-2,2,2,Football League Third Division,3,D
+1983-10-01,1983/1984,Bristol Rovers,Bolton Wanderers,2-1,2,1,Football League Third Division,3,H
+1983-10-01,1983/1984,Bradford City,Exeter City,1-3,1,3,Football League Third Division,3,A
+1983-10-02,1983/1984,Tottenham Hotspur,Nottingham Forest,2-1,2,1,Football League First Division,1,H
+1983-10-07,1983/1984,York City,Colchester United,3-0,3,0,Football League Fourth Division,4,H
+1983-10-08,1983/1984,Blackpool,Rochdale,0-2,0,2,Football League Fourth Division,4,A
+1983-10-08,1983/1984,Aldershot,Tranmere Rovers,1-1,1,1,Football League Fourth Division,4,D
+1983-10-08,1983/1984,Bristol City,Halifax Town,3-0,3,0,Football League Fourth Division,4,H
+1983-10-08,1983/1984,Torquay United,Hartlepool United,0-0,0,0,Football League Fourth Division,4,D
+1983-10-08,1983/1984,Chesterfield,Stockport County,2-0,2,0,Football League Fourth Division,4,H
+1983-10-08,1983/1984,Crewe Alexandra,Swindon Town,2-0,2,0,Football League Fourth Division,4,H
+1983-10-08,1983/1984,Darlington,Chester,2-1,2,1,Football League Fourth Division,4,H
+1983-10-08,1983/1984,Peterborough United,Doncaster Rovers,1-1,1,1,Football League Fourth Division,4,D
+1983-10-08,1983/1984,Wrexham,Hereford United,0-0,0,0,Football League Fourth Division,4,D
+1983-10-08,1983/1984,Bury,Mansfield Town,2-2,2,2,Football League Fourth Division,4,D
+1983-10-08,1983/1984,Brighton & Hove Albion,Portsmouth,0-1,0,1,Football League Second Division,2,A
+1983-10-08,1983/1984,Cambridge United,Crystal Palace,1-3,1,3,Football League Second Division,2,A
+1983-10-08,1983/1984,Cardiff City,Carlisle United,2-0,2,0,Football League Second Division,2,H
+1983-10-08,1983/1984,Derby County,Barnsley,0-2,0,2,Football League Second Division,2,A
+1983-10-08,1983/1984,Fulham,Chelsea,3-5,3,5,Football League Second Division,2,A
+1983-10-08,1983/1984,Manchester City,Swansea City,2-1,2,1,Football League Second Division,2,H
+1983-10-08,1983/1984,Huddersfield Town,Grimsby Town,0-0,0,0,Football League Second Division,2,D
+1983-10-08,1983/1984,Newcastle United,Charlton Athletic,2-1,2,1,Football League Second Division,2,H
+1983-10-08,1983/1984,Sheffield Wednesday,Leeds United,3-1,3,1,Football League Second Division,2,H
+1983-10-08,1983/1984,Shrewsbury Town,Oldham Athletic,2-0,2,0,Football League Second Division,2,H
+1983-10-08,1983/1984,Middlesbrough,Blackburn Rovers,1-2,1,2,Football League Second Division,2,A
+1983-10-08,1983/1984,Rotherham United,Walsall,0-1,0,1,Football League Third Division,3,A
+1983-10-08,1983/1984,Wigan Athletic,Lincoln City,2-0,2,0,Football League Third Division,3,H
+1983-10-08,1983/1984,Wimbledon,Bristol Rovers,1-1,1,1,Football League Third Division,3,D
+1983-10-08,1983/1984,Newport County,Leyton Orient,0-0,0,0,Football League Third Division,3,D
+1983-10-08,1983/1984,Hull City,Sheffield United,4-1,4,1,Football League Third Division,3,H
+1983-10-08,1983/1984,Oxford United,Brentford,2-1,2,1,Football League Third Division,3,H
+1983-10-08,1983/1984,Exeter City,Bolton Wanderers,2-2,2,2,Football League Third Division,3,D
+1983-10-08,1983/1984,AFC Bournemouth,Plymouth Argyle,2-1,2,1,Football League Third Division,3,H
+1983-10-08,1983/1984,Bradford City,Scunthorpe United,2-2,2,2,Football League Third Division,3,D
+1983-10-08,1983/1984,Gillingham,Preston North End,2-0,2,0,Football League Third Division,3,H
+1983-10-09,1983/1984,Northampton Town,Reading,2-2,2,2,Football League Fourth Division,4,D
+1983-10-09,1983/1984,Millwall,Burnley,2-0,2,0,Football League Third Division,3,H
+1983-10-14,1983/1984,Tranmere Rovers,Bristol City,2-0,2,0,Football League Fourth Division,4,H
+1983-10-14,1983/1984,Reading,Crewe Alexandra,5-0,5,0,Football League Fourth Division,4,H
+1983-10-14,1983/1984,Leeds United,Cambridge United,3-1,3,1,Football League Second Division,2,H
+1983-10-14,1983/1984,Leyton Orient,Port Vale,3-0,3,0,Football League Third Division,3,H
+1983-10-15,1983/1984,Arsenal,Coventry City,0-1,0,1,Football League First Division,1,A
+1983-10-15,1983/1984,Everton,Luton Town,0-1,0,1,Football League First Division,1,A
+1983-10-15,1983/1984,Ipswich Town,Queens Park Rangers,0-2,0,2,Football League First Division,1,A
+1983-10-15,1983/1984,Manchester United,West Bromwich Albion,3-0,3,0,Football League First Division,1,H
+1983-10-15,1983/1984,Sunderland,Stoke City,2-2,2,2,Football League First Division,1,D
+1983-10-15,1983/1984,Watford,Norwich City,1-3,1,3,Football League First Division,1,A
+1983-10-15,1983/1984,West Ham United,Liverpool,1-3,1,3,Football League First Division,1,A
+1983-10-15,1983/1984,Aston Villa,Birmingham City,1-0,1,0,Football League First Division,1,H
+1983-10-15,1983/1984,Wolverhampton Wanderers,Tottenham Hotspur,2-3,2,3,Football League First Division,1,A
+1983-10-15,1983/1984,Colchester United,Northampton Town,2-2,2,2,Football League Fourth Division,4,D
+1983-10-15,1983/1984,Doncaster Rovers,Aldershot,3-1,3,1,Football League Fourth Division,4,H
+1983-10-15,1983/1984,Halifax Town,Peterborough United,2-1,2,1,Football League Fourth Division,4,H
+1983-10-15,1983/1984,Hartlepool United,Wrexham,1-1,1,1,Football League Fourth Division,4,D
+1983-10-15,1983/1984,Mansfield Town,Torquay United,1-3,1,3,Football League Fourth Division,4,A
+1983-10-15,1983/1984,Swindon Town,York City,3-2,3,2,Football League Fourth Division,4,H
+1983-10-15,1983/1984,Stockport County,Darlington,2-0,2,0,Football League Fourth Division,4,H
+1983-10-15,1983/1984,Rochdale,Chesterfield,2-4,2,4,Football League Fourth Division,4,A
+1983-10-15,1983/1984,Portsmouth,Sheffield Wednesday,0-1,0,1,Football League Second Division,2,A
+1983-10-15,1983/1984,Barnsley,Huddersfield Town,2-2,2,2,Football League Second Division,2,D
+1983-10-15,1983/1984,Carlisle United,Fulham,2-0,2,0,Football League Second Division,2,H
+1983-10-15,1983/1984,Charlton Athletic,Manchester City,1-0,1,0,Football League Second Division,2,H
+1983-10-15,1983/1984,Chelsea,Cardiff City,2-0,2,0,Football League Second Division,2,H
+1983-10-15,1983/1984,Crystal Palace,Derby County,0-1,0,1,Football League Second Division,2,A
+1983-10-15,1983/1984,Oldham Athletic,Middlesbrough,2-1,2,1,Football League Second Division,2,H
+1983-10-15,1983/1984,Grimsby Town,Brighton & Hove Albion,5-0,5,0,Football League Second Division,2,H
+1983-10-15,1983/1984,Burnley,Gillingham,2-3,2,3,Football League Third Division,3,A
+1983-10-15,1983/1984,Lincoln City,Millwall,2-2,2,2,Football League Third Division,3,D
+1983-10-15,1983/1984,Plymouth Argyle,Oxford United,2-1,2,1,Football League Third Division,3,H
+1983-10-15,1983/1984,Preston North End,Wigan Athletic,2-3,2,3,Football League Third Division,3,A
+1983-10-15,1983/1984,Scunthorpe United,Rotherham United,1-2,1,2,Football League Third Division,3,A
+1983-10-15,1983/1984,Sheffield United,AFC Bournemouth,2-0,2,0,Football League Third Division,3,H
+1983-10-15,1983/1984,Southend United,Exeter City,0-3,0,3,Football League Third Division,3,A
+1983-10-15,1983/1984,Walsall,Wimbledon,4-0,4,0,Football League Third Division,3,H
+1983-10-15,1983/1984,Bristol Rovers,Bradford City,1-0,1,0,Football League Third Division,3,H
+1983-10-15,1983/1984,Brentford,Hull City,1-1,1,1,Football League Third Division,3,D
+1983-10-15,1983/1984,Bolton Wanderers,Newport County,2-3,2,3,Football League Third Division,3,A
+1983-10-16,1983/1984,Nottingham Forest,Notts County,3-1,3,1,Football League First Division,1,H
+1983-10-16,1983/1984,Blackburn Rovers,Shrewsbury Town,1-1,1,1,Football League Second Division,2,D
+1983-10-16,1983/1984,Swansea City,Newcastle United,1-2,1,2,Football League Second Division,2,A
+1983-10-17,1983/1984,Stockport County,Aldershot,2-2,2,2,Football League Fourth Division,4,D
+1983-10-17,1983/1984,Tranmere Rovers,Swindon Town,2-1,2,1,Football League Fourth Division,4,H
+1983-10-18,1983/1984,Wrexham,Blackpool,0-1,0,1,Football League Fourth Division,4,A
+1983-10-18,1983/1984,Rochdale,Peterborough United,2-1,2,1,Football League Fourth Division,4,H
+1983-10-18,1983/1984,Northampton Town,Torquay United,2-1,2,1,Football League Fourth Division,4,H
+1983-10-18,1983/1984,Halifax Town,Crewe Alexandra,1-0,1,0,Football League Fourth Division,4,H
+1983-10-18,1983/1984,Colchester United,Bury,1-0,1,0,Football League Fourth Division,4,H
+1983-10-18,1983/1984,Chesterfield,Doncaster Rovers,0-0,0,0,Football League Fourth Division,4,D
+1983-10-18,1983/1984,Bristol City,York City,1-0,1,0,Football League Fourth Division,4,H
+1983-10-18,1983/1984,Cambridge United,Huddersfield Town,0-3,0,3,Football League Second Division,2,A
+1983-10-18,1983/1984,Scunthorpe United,Wigan Athletic,0-0,0,0,Football League Third Division,3,D
+1983-10-18,1983/1984,Walsall,AFC Bournemouth,3-1,3,1,Football League Third Division,3,H
+1983-10-18,1983/1984,Rotherham United,Millwall,1-0,1,0,Football League Third Division,3,H
+1983-10-18,1983/1984,Plymouth Argyle,Bristol Rovers,1-1,1,1,Football League Third Division,3,D
+1983-10-18,1983/1984,Newport County,Lincoln City,1-0,1,0,Football League Third Division,3,H
+1983-10-18,1983/1984,Leyton Orient,Sheffield United,2-0,2,0,Football League Third Division,3,H
+1983-10-18,1983/1984,Gillingham,Exeter City,3-1,3,1,Football League Third Division,3,H
+1983-10-18,1983/1984,Burnley,Southend United,3-0,3,0,Football League Third Division,3,H
+1983-10-18,1983/1984,Brentford,Port Vale,3-1,3,1,Football League Third Division,3,H
+1983-10-18,1983/1984,Bolton Wanderers,Hull City,0-0,0,0,Football League Third Division,3,D
+1983-10-18,1983/1984,Preston North End,Wimbledon,2-3,2,3,Football League Third Division,3,A
+1983-10-19,1983/1984,Norwich City,Leicester City,3-1,3,1,Football League First Division,1,H
+1983-10-19,1983/1984,Reading,Mansfield Town,4-0,4,0,Football League Fourth Division,4,H
+1983-10-19,1983/1984,Hartlepool United,Chester,1-1,1,1,Football League Fourth Division,4,D
+1983-10-19,1983/1984,Hereford United,Darlington,1-0,1,0,Football League Fourth Division,4,H
+1983-10-19,1983/1984,Cardiff City,Newcastle United,0-2,0,2,Football League Second Division,2,A
+1983-10-19,1983/1984,Oxford United,Bradford City,2-0,2,0,Football League Third Division,3,H
+1983-10-21,1983/1984,Doncaster Rovers,Halifax Town,3-2,3,2,Football League Fourth Division,4,H
+1983-10-21,1983/1984,Millwall,Preston North End,1-0,1,0,Football League Third Division,3,H
+1983-10-21,1983/1984,Southend United,Leyton Orient,3-0,3,0,Football League Third Division,3,H
+1983-10-22,1983/1984,Arsenal,Nottingham Forest,4-1,4,1,Football League First Division,1,H
+1983-10-22,1983/1984,Birmingham City,Tottenham Hotspur,0-1,0,1,Football League First Division,1,A
+1983-10-22,1983/1984,Coventry City,West Bromwich Albion,1-2,1,2,Football League First Division,1,A
+1983-10-22,1983/1984,Everton,Watford,1-0,1,0,Football League First Division,1,H
+1983-10-22,1983/1984,Ipswich Town,Leicester City,0-0,0,0,Football League First Division,1,D
+1983-10-22,1983/1984,Luton Town,Southampton,3-1,3,1,Football League First Division,1,H
+1983-10-22,1983/1984,Notts County,Stoke City,1-1,1,1,Football League First Division,1,D
+1983-10-22,1983/1984,Queens Park Rangers,Liverpool,0-1,0,1,Football League First Division,1,A
+1983-10-22,1983/1984,Sunderland,Manchester United,0-1,0,1,Football League First Division,1,A
+1983-10-22,1983/1984,West Ham United,Norwich City,0-0,0,0,Football League First Division,1,D
+1983-10-22,1983/1984,Aldershot,Bristol City,1-0,1,0,Football League Fourth Division,4,H
+1983-10-22,1983/1984,Blackpool,Chesterfield,1-0,1,0,Football League Fourth Division,4,H
+1983-10-22,1983/1984,York City,Reading,2-2,2,2,Football League Fourth Division,4,D
+1983-10-22,1983/1984,Chester,Stockport County,2-4,2,4,Football League Fourth Division,4,A
+1983-10-22,1983/1984,Crewe Alexandra,Northampton Town,3-2,3,2,Football League Fourth Division,4,H
+1983-10-22,1983/1984,Darlington,Rochdale,1-0,1,0,Football League Fourth Division,4,H
+1983-10-22,1983/1984,Mansfield Town,Hartlepool United,5-0,5,0,Football League Fourth Division,4,H
+1983-10-22,1983/1984,Peterborough United,Tranmere Rovers,2-0,2,0,Football League Fourth Division,4,H
+1983-10-22,1983/1984,Swindon Town,Colchester United,2-1,2,1,Football League Fourth Division,4,H
+1983-10-22,1983/1984,Torquay United,Hereford United,1-1,1,1,Football League Fourth Division,4,D
+1983-10-22,1983/1984,Bury,Wrexham,2-0,2,0,Football League Fourth Division,4,H
+1983-10-22,1983/1984,Barnsley,Leeds United,0-2,0,2,Football League Second Division,2,A
+1983-10-22,1983/1984,Shrewsbury Town,Fulham,0-0,0,0,Football League Second Division,2,D
+1983-10-22,1983/1984,Blackburn Rovers,Oldham Athletic,3-1,3,1,Football League Second Division,2,H
+1983-10-22,1983/1984,Brighton & Hove Albion,Sheffield Wednesday,1-3,1,3,Football League Second Division,2,A
+1983-10-22,1983/1984,Carlisle United,Chelsea,0-0,0,0,Football League Second Division,2,D
+1983-10-22,1983/1984,Charlton Athletic,Swansea City,2-2,2,2,Football League Second Division,2,D
+1983-10-22,1983/1984,Grimsby Town,Crystal Palace,2-0,2,0,Football League Second Division,2,H
+1983-10-22,1983/1984,Huddersfield Town,Derby County,3-0,3,0,Football League Second Division,2,H
+1983-10-22,1983/1984,Manchester City,Middlesbrough,2-1,2,1,Football League Second Division,2,H
+1983-10-22,1983/1984,Exeter City,Newport County,1-2,1,2,Football League Third Division,3,A
+1983-10-22,1983/1984,Hull City,Plymouth Argyle,1-2,1,2,Football League Third Division,3,A
+1983-10-22,1983/1984,Lincoln City,Burnley,3-1,3,1,Football League Third Division,3,H
+1983-10-22,1983/1984,Port Vale,Bolton Wanderers,1-2,1,2,Football League Third Division,3,A
+1983-10-22,1983/1984,Sheffield United,Brentford,0-0,0,0,Football League Third Division,3,D
+1983-10-22,1983/1984,Wigan Athletic,Gillingham,1-2,1,2,Football League Third Division,3,A
+1983-10-22,1983/1984,Wimbledon,Rotherham United,3-1,3,1,Football League Third Division,3,H
+1983-10-22,1983/1984,Bristol Rovers,Scunthorpe United,4-1,4,1,Football League Third Division,3,H
+1983-10-22,1983/1984,Bradford City,Walsall,0-0,0,0,Football League Third Division,3,D
+1983-10-22,1983/1984,AFC Bournemouth,Oxford United,2-1,2,1,Football League Third Division,3,H
+1983-10-23,1983/1984,Wolverhampton Wanderers,Aston Villa,1-1,1,1,Football League First Division,1,D
+1983-10-24,1983/1984,Leyton Orient,Gillingham,1-1,1,1,Football League Third Division,3,D
+1983-10-28,1983/1984,Watford,West Ham United,0-0,0,0,Football League First Division,1,D
+1983-10-29,1983/1984,Aston Villa,Arsenal,2-6,2,6,Football League First Division,1,A
+1983-10-29,1983/1984,Leicester City,Everton,2-0,2,0,Football League First Division,1,H
+1983-10-29,1983/1984,Liverpool,Luton Town,6-0,6,0,Football League First Division,1,H
+1983-10-29,1983/1984,Manchester United,Wolverhampton Wanderers,3-0,3,0,Football League First Division,1,H
+1983-10-29,1983/1984,Norwich City,Queens Park Rangers,0-3,0,3,Football League First Division,1,A
+1983-10-29,1983/1984,Southampton,Ipswich Town,3-2,3,2,Football League First Division,1,H
+1983-10-29,1983/1984,Stoke City,Coventry City,1-3,1,3,Football League First Division,1,A
+1983-10-29,1983/1984,Tottenham Hotspur,Notts County,1-0,1,0,Football League First Division,1,H
+1983-10-29,1983/1984,West Bromwich Albion,Birmingham City,1-2,1,2,Football League First Division,1,A
+1983-10-29,1983/1984,Nottingham Forest,Sunderland,1-1,1,1,Football League First Division,1,D
+1983-10-29,1983/1984,Wrexham,Torquay United,2-2,2,2,Football League Fourth Division,4,D
+1983-10-29,1983/1984,Bristol City,Peterborough United,0-1,0,1,Football League Fourth Division,4,A
+1983-10-29,1983/1984,Halifax Town,Aldershot,1-0,1,0,Football League Fourth Division,4,H
+1983-10-29,1983/1984,Hartlepool United,Bury,1-3,1,3,Football League Fourth Division,4,A
+1983-10-29,1983/1984,Hereford United,Mansfield Town,0-0,0,0,Football League Fourth Division,4,D
+1983-10-29,1983/1984,Northampton Town,York City,1-2,1,2,Football League Fourth Division,4,A
+1983-10-29,1983/1984,Reading,Swindon Town,2-2,2,2,Football League Fourth Division,4,D
+1983-10-29,1983/1984,Rochdale,Chester,1-1,1,1,Football League Fourth Division,4,D
+1983-10-29,1983/1984,Stockport County,Blackpool,1-2,1,2,Football League Fourth Division,4,A
+1983-10-29,1983/1984,Tranmere Rovers,Doncaster Rovers,1-1,1,1,Football League Fourth Division,4,D
+1983-10-29,1983/1984,Chesterfield,Darlington,1-1,1,1,Football League Fourth Division,4,D
+1983-10-29,1983/1984,Colchester United,Crewe Alexandra,2-0,2,0,Football League Fourth Division,4,H
+1983-10-29,1983/1984,Chelsea,Charlton Athletic,3-2,3,2,Football League Second Division,2,H
+1983-10-29,1983/1984,Crystal Palace,Barnsley,0-1,0,1,Football League Second Division,2,A
+1983-10-29,1983/1984,Derby County,Grimsby Town,1-2,1,2,Football League Second Division,2,A
+1983-10-29,1983/1984,Leeds United,Portsmouth,2-1,2,1,Football League Second Division,2,H
+1983-10-29,1983/1984,Middlesbrough,Shrewsbury Town,4-0,4,0,Football League Second Division,2,H
+1983-10-29,1983/1984,Newcastle United,Manchester City,5-0,5,0,Football League Second Division,2,H
+1983-10-29,1983/1984,Oldham Athletic,Carlisle United,2-3,2,3,Football League Second Division,2,A
+1983-10-29,1983/1984,Sheffield Wednesday,Huddersfield Town,0-0,0,0,Football League Second Division,2,D
+1983-10-29,1983/1984,Swansea City,Blackburn Rovers,0-1,0,1,Football League Second Division,2,A
+1983-10-29,1983/1984,Cambridge United,Brighton & Hove Albion,3-4,3,4,Football League Second Division,2,A
+1983-10-29,1983/1984,Leyton Orient,Exeter City,2-2,2,2,Football League Third Division,3,D
+1983-10-29,1983/1984,Newport County,Port Vale,2-1,2,1,Football League Third Division,3,H
+1983-10-29,1983/1984,Oxford United,Hull City,1-1,1,1,Football League Third Division,3,D
+1983-10-29,1983/1984,Plymouth Argyle,Sheffield United,0-1,0,1,Football League Third Division,3,A
+1983-10-29,1983/1984,Preston North End,Lincoln City,1-2,1,2,Football League Third Division,3,A
+1983-10-29,1983/1984,Rotherham United,Bradford City,1-0,1,0,Football League Third Division,3,H
+1983-10-29,1983/1984,Scunthorpe United,Wimbledon,5-1,5,1,Football League Third Division,3,H
+1983-10-29,1983/1984,Walsall,Bristol Rovers,2-1,2,1,Football League Third Division,3,H
+1983-10-29,1983/1984,Gillingham,Millwall,3-3,3,3,Football League Third Division,3,D
+1983-10-29,1983/1984,Burnley,Wigan Athletic,3-0,3,0,Football League Third Division,3,H
+1983-10-29,1983/1984,Bolton Wanderers,Southend United,2-0,2,0,Football League Third Division,3,H
+1983-10-29,1983/1984,Brentford,AFC Bournemouth,1-1,1,1,Football League Third Division,3,D
+1983-10-31,1983/1984,Fulham,Cardiff City,0-2,0,2,Football League Second Division,2,A
+1983-10-31,1983/1984,Port Vale,Plymouth Argyle,0-1,0,1,Football League Third Division,3,A
+1983-10-31,1983/1984,Southend United,Brentford,6-0,6,0,Football League Third Division,3,H
+1983-11-01,1983/1984,Bury,Stockport County,2-1,2,1,Football League Fourth Division,4,H
+1983-11-01,1983/1984,Crewe Alexandra,Hartlepool United,2-0,2,0,Football League Fourth Division,4,H
+1983-11-01,1983/1984,Darlington,Tranmere Rovers,1-0,1,0,Football League Fourth Division,4,H
+1983-11-01,1983/1984,York City,Wrexham,3-2,3,2,Football League Fourth Division,4,H
+1983-11-01,1983/1984,Mansfield Town,Rochdale,3-0,3,0,Football League Fourth Division,4,H
+1983-11-01,1983/1984,Swindon Town,Hereford United,3-0,3,0,Football League Fourth Division,4,H
+1983-11-01,1983/1984,Doncaster Rovers,Colchester United,3-3,3,3,Football League Fourth Division,4,D
+1983-11-01,1983/1984,Aldershot,Northampton Town,1-0,1,0,Football League Fourth Division,4,H
+1983-11-01,1983/1984,Blackpool,Bristol City,1-0,1,0,Football League Fourth Division,4,H
+1983-11-01,1983/1984,Portsmouth,Cambridge United,5-0,5,0,Football League Second Division,2,H
+1983-11-01,1983/1984,Wigan Athletic,Leyton Orient,0-1,0,1,Football League Third Division,3,A
+1983-11-01,1983/1984,Sheffield United,Scunthorpe United,5-3,5,3,Football League Third Division,3,H
+1983-11-01,1983/1984,Millwall,Newport County,1-1,1,1,Football League Third Division,3,D
+1983-11-01,1983/1984,Hull City,Walsall,2-2,2,2,Football League Third Division,3,D
+1983-11-01,1983/1984,Bristol Rovers,Preston North End,3-1,3,1,Football League Third Division,3,H
+1983-11-01,1983/1984,AFC Bournemouth,Rotherham United,4-2,4,2,Football League Third Division,3,H
+1983-11-01,1983/1984,Wimbledon,Oxford United,3-1,3,1,Football League Third Division,3,H
+1983-11-02,1983/1984,Torquay United,Chesterfield,1-1,1,1,Football League Fourth Division,4,D
+1983-11-02,1983/1984,Chester,Halifax Town,1-1,1,1,Football League Fourth Division,4,D
+1983-11-02,1983/1984,Peterborough United,Reading,3-3,3,3,Football League Fourth Division,4,D
+1983-11-02,1983/1984,Exeter City,Burnley,1-1,1,1,Football League Third Division,3,D
+1983-11-02,1983/1984,Lincoln City,Bolton Wanderers,0-0,0,0,Football League Third Division,3,D
+1983-11-04,1983/1984,Halifax Town,Tranmere Rovers,1-2,1,2,Football League Fourth Division,4,A
+1983-11-05,1983/1984,Stoke City,Tottenham Hotspur,1-1,1,1,Football League First Division,1,D
+1983-11-05,1983/1984,Arsenal,Sunderland,1-2,1,2,Football League First Division,1,A
+1983-11-05,1983/1984,Birmingham City,Coventry City,1-2,1,2,Football League First Division,1,A
+1983-11-05,1983/1984,Manchester United,Aston Villa,1-2,1,2,Football League First Division,1,A
+1983-11-05,1983/1984,Norwich City,Southampton,1-0,1,0,Football League First Division,1,H
+1983-11-05,1983/1984,Nottingham Forest,Wolverhampton Wanderers,5-0,5,0,Football League First Division,1,H
+1983-11-05,1983/1984,Queens Park Rangers,Luton Town,0-1,0,1,Football League First Division,1,A
+1983-11-05,1983/1984,Watford,Leicester City,3-3,3,3,Football League First Division,1,D
+1983-11-05,1983/1984,West Bromwich Albion,Notts County,2-0,2,0,Football League First Division,1,H
+1983-11-05,1983/1984,West Ham United,Ipswich Town,2-1,2,1,Football League First Division,1,H
+1983-11-05,1983/1984,Aldershot,Peterborough United,3-2,3,2,Football League Fourth Division,4,H
+1983-11-05,1983/1984,Hartlepool United,Hereford United,0-0,0,0,Football League Fourth Division,4,D
+1983-11-05,1983/1984,Bristol City,Doncaster Rovers,1-2,1,2,Football League Fourth Division,4,A
+1983-11-05,1983/1984,Chesterfield,Chester,1-1,1,1,Football League Fourth Division,4,D
+1983-11-05,1983/1984,Wrexham,Mansfield Town,2-3,2,3,Football League Fourth Division,4,A
+1983-11-05,1983/1984,Colchester United,Reading,3-0,3,0,Football League Fourth Division,4,H
+1983-11-05,1983/1984,Crewe Alexandra,York City,0-3,0,3,Football League Fourth Division,4,A
+1983-11-05,1983/1984,Northampton Town,Swindon Town,2-0,2,0,Football League Fourth Division,4,H
+1983-11-05,1983/1984,Rochdale,Stockport County,2-2,2,2,Football League Fourth Division,4,D
+1983-11-05,1983/1984,Torquay United,Bury,2-0,2,0,Football League Fourth Division,4,H
+1983-11-05,1983/1984,Blackpool,Darlington,3-1,3,1,Football League Fourth Division,4,H
+1983-11-05,1983/1984,Swansea City,Carlisle United,0-0,0,0,Football League Second Division,2,D
+1983-11-05,1983/1984,Cambridge United,Derby County,0-1,0,1,Football League Second Division,2,A
+1983-11-05,1983/1984,Charlton Athletic,Blackburn Rovers,2-0,2,0,Football League Second Division,2,H
+1983-11-05,1983/1984,Leeds United,Crystal Palace,1-1,1,1,Football League Second Division,2,D
+1983-11-05,1983/1984,Middlesbrough,Cardiff City,2-0,2,0,Football League Second Division,2,H
+1983-11-05,1983/1984,Newcastle United,Fulham,3-2,3,2,Football League Second Division,2,H
+1983-11-05,1983/1984,Oldham Athletic,Chelsea,1-1,1,1,Football League Second Division,2,D
+1983-11-05,1983/1984,Portsmouth,Grimsby Town,4-0,4,0,Football League Second Division,2,H
+1983-11-05,1983/1984,Sheffield Wednesday,Barnsley,2-0,2,0,Football League Second Division,2,H
+1983-11-05,1983/1984,Shrewsbury Town,Manchester City,1-3,1,3,Football League Second Division,2,A
+1983-11-05,1983/1984,Brighton & Hove Albion,Huddersfield Town,3-1,3,1,Football League Second Division,2,H
+1983-11-05,1983/1984,Wimbledon,Bradford City,4-1,4,1,Football League Third Division,3,H
+1983-11-05,1983/1984,Exeter City,Port Vale,1-1,1,1,Football League Third Division,3,D
+1983-11-05,1983/1984,Gillingham,Lincoln City,2-0,2,0,Football League Third Division,3,H
+1983-11-05,1983/1984,Millwall,Wigan Athletic,2-0,2,0,Football League Third Division,3,H
+1983-11-05,1983/1984,Burnley,Preston North End,2-1,2,1,Football League Third Division,3,H
+1983-11-05,1983/1984,Newport County,Southend United,1-1,1,1,Football League Third Division,3,D
+1983-11-05,1983/1984,Oxford United,Sheffield United,2-2,2,2,Football League Third Division,3,D
+1983-11-05,1983/1984,Rotherham United,Bristol Rovers,2-2,2,2,Football League Third Division,3,D
+1983-11-05,1983/1984,Scunthorpe United,Walsall,0-0,0,0,Football League Third Division,3,D
+1983-11-05,1983/1984,Brentford,Plymouth Argyle,2-2,2,2,Football League Third Division,3,D
+1983-11-05,1983/1984,Bolton Wanderers,Leyton Orient,3-2,3,2,Football League Third Division,3,H
+1983-11-05,1983/1984,AFC Bournemouth,Hull City,2-3,2,3,Football League Third Division,3,A
+1983-11-06,1983/1984,Liverpool,Everton,3-0,3,0,Football League First Division,1,H
+1983-11-08,1983/1984,Crystal Palace,Cardiff City,1-0,1,0,Football League Second Division,2,H
+1983-11-08,1983/1984,Burnley,Sheffield United,2-1,2,1,Football League Third Division,3,H
+1983-11-09,1983/1984,Chester,Blackpool,0-2,0,2,Football League Fourth Division,4,A
+1983-11-11,1983/1984,Stockport County,Halifax Town,4-0,4,0,Football League Fourth Division,4,H
+1983-11-11,1983/1984,Fulham,Sheffield Wednesday,1-1,1,1,Football League Second Division,2,D
+1983-11-11,1983/1984,Southend United,AFC Bournemouth,0-0,0,0,Football League Third Division,3,D
+1983-11-12,1983/1984,Aston Villa,Stoke City,1-1,1,1,Football League First Division,1,D
+1983-11-12,1983/1984,Coventry City,Queens Park Rangers,1-0,1,0,Football League First Division,1,H
+1983-11-12,1983/1984,Ipswich Town,Arsenal,1-0,1,0,Football League First Division,1,H
+1983-11-12,1983/1984,Leicester City,Manchester United,1-1,1,1,Football League First Division,1,D
+1983-11-12,1983/1984,Luton Town,Birmingham City,1-1,1,1,Football League First Division,1,D
+1983-11-12,1983/1984,Notts County,Norwich City,1-1,1,1,Football League First Division,1,D
+1983-11-12,1983/1984,Southampton,West Bromwich Albion,1-0,1,0,Football League First Division,1,H
+1983-11-12,1983/1984,Sunderland,Watford,3-0,3,0,Football League First Division,1,H
+1983-11-12,1983/1984,Everton,Nottingham Forest,1-0,1,0,Football League First Division,1,H
+1983-11-12,1983/1984,Wolverhampton Wanderers,West Ham United,0-3,0,3,Football League First Division,1,A
+1983-11-12,1983/1984,Tottenham Hotspur,Liverpool,2-2,2,2,Football League First Division,1,D
+1983-11-12,1983/1984,York City,Torquay United,2-3,2,3,Football League Fourth Division,4,A
+1983-11-12,1983/1984,Chester,Aldershot,1-2,1,2,Football League Fourth Division,4,A
+1983-11-12,1983/1984,Darlington,Bristol City,0-1,0,1,Football League Fourth Division,4,A
+1983-11-12,1983/1984,Doncaster Rovers,Blackpool,2-1,2,1,Football League Fourth Division,4,H
+1983-11-12,1983/1984,Hereford United,Northampton Town,0-0,0,0,Football League Fourth Division,4,D
+1983-11-12,1983/1984,Mansfield Town,Colchester United,0-0,0,0,Football League Fourth Division,4,D
+1983-11-12,1983/1984,Peterborough United,Chesterfield,2-0,2,0,Football League Fourth Division,4,H
+1983-11-12,1983/1984,Reading,Wrexham,4-1,4,1,Football League Fourth Division,4,H
+1983-11-12,1983/1984,Swindon Town,Hartlepool United,3-2,3,2,Football League Fourth Division,4,H
+1983-11-12,1983/1984,Tranmere Rovers,Rochdale,2-2,2,2,Football League Fourth Division,4,D
+1983-11-12,1983/1984,Cardiff City,Cambridge United,5-0,5,0,Football League Second Division,2,H
+1983-11-12,1983/1984,Huddersfield Town,Shrewsbury Town,1-0,1,0,Football League Second Division,2,H
+1983-11-12,1983/1984,Manchester City,Brighton & Hove Albion,4-0,4,0,Football League Second Division,2,H
+1983-11-12,1983/1984,Barnsley,Swansea City,3-2,3,2,Football League Second Division,2,H
+1983-11-12,1983/1984,Blackburn Rovers,Leeds United,1-1,1,1,Football League Second Division,2,D
+1983-11-12,1983/1984,Carlisle United,Portsmouth,0-0,0,0,Football League Second Division,2,D
+1983-11-12,1983/1984,Chelsea,Newcastle United,4-0,4,0,Football League Second Division,2,H
+1983-11-12,1983/1984,Crystal Palace,Oldham Athletic,2-1,2,1,Football League Second Division,2,H
+1983-11-12,1983/1984,Derby County,Middlesbrough,1-0,1,0,Football League Second Division,2,H
+1983-11-12,1983/1984,Grimsby Town,Charlton Athletic,2-1,2,1,Football League Second Division,2,H
+1983-11-12,1983/1984,Hull City,Newport County,0-0,0,0,Football League Third Division,3,D
+1983-11-12,1983/1984,Leyton Orient,Brentford,2-0,2,0,Football League Third Division,3,H
+1983-11-12,1983/1984,Lincoln City,Scunthorpe United,2-1,2,1,Football League Third Division,3,H
+1983-11-12,1983/1984,Plymouth Argyle,Bolton Wanderers,2-0,2,0,Football League Third Division,3,H
+1983-11-12,1983/1984,Port Vale,Oxford United,1-3,1,3,Football League Third Division,3,A
+1983-11-12,1983/1984,Preston North End,Rotherham United,1-0,1,0,Football League Third Division,3,H
+1983-11-12,1983/1984,Sheffield United,Exeter City,2-2,2,2,Football League Third Division,3,D
+1983-11-12,1983/1984,Walsall,Gillingham,3-1,3,1,Football League Third Division,3,H
+1983-11-12,1983/1984,Bristol Rovers,Burnley,2-1,2,1,Football League Third Division,3,H
+1983-11-12,1983/1984,Wigan Athletic,Wimbledon,3-2,3,2,Football League Third Division,3,H
+1983-11-12,1983/1984,Bradford City,Millwall,3-3,3,3,Football League Third Division,3,D
+1983-11-13,1983/1984,Bury,Crewe Alexandra,1-1,1,1,Football League Fourth Division,4,D
+1983-11-15,1983/1984,Charlton Athletic,Chelsea,1-1,1,1,Football League Second Division,2,D
+1983-11-19,1983/1984,Aston Villa,Leicester City,3-1,3,1,Football League First Division,1,H
+1983-11-19,1983/1984,Sunderland,West Ham United,0-1,0,1,Football League First Division,1,A
+1983-11-19,1983/1984,Southampton,Notts County,0-2,0,2,Football League First Division,1,A
+1983-11-19,1983/1984,Queens Park Rangers,Birmingham City,2-1,2,1,Football League First Division,1,H
+1983-11-19,1983/1984,Nottingham Forest,Ipswich Town,2-1,2,1,Football League First Division,1,H
+1983-11-19,1983/1984,Norwich City,West Bromwich Albion,2-0,2,0,Football League First Division,1,H
+1983-11-19,1983/1984,Manchester United,Watford,4-1,4,1,Football League First Division,1,H
+1983-11-19,1983/1984,Luton Town,Tottenham Hotspur,2-4,2,4,Football League First Division,1,A
+1983-11-19,1983/1984,Liverpool,Stoke City,1-0,1,0,Football League First Division,1,H
+1983-11-19,1983/1984,Wolverhampton Wanderers,Coventry City,0-0,0,0,Football League First Division,1,D
+1983-11-19,1983/1984,Arsenal,Everton,2-1,2,1,Football League First Division,1,H
+1983-11-19,1983/1984,Swansea City,Grimsby Town,0-1,0,1,Football League Second Division,2,A
+1983-11-19,1983/1984,Sheffield Wednesday,Newcastle United,4-2,4,2,Football League Second Division,2,H
+1983-11-19,1983/1984,Oldham Athletic,Cardiff City,2-1,2,1,Football League Second Division,2,H
+1983-11-19,1983/1984,Huddersfield Town,Fulham,2-0,2,0,Football League Second Division,2,H
+1983-11-19,1983/1984,Derby County,Leeds United,1-1,1,1,Football League Second Division,2,D
+1983-11-19,1983/1984,Chelsea,Crystal Palace,2-2,2,2,Football League Second Division,2,D
+1983-11-19,1983/1984,Charlton Athletic,Barnsley,3-2,3,2,Football League Second Division,2,H
+1983-11-19,1983/1984,Carlisle United,Manchester City,2-0,2,0,Football League Second Division,2,H
+1983-11-19,1983/1984,Cambridge United,Middlesbrough,0-0,0,0,Football League Second Division,2,D
+1983-11-19,1983/1984,Brighton & Hove Albion,Shrewsbury Town,2-2,2,2,Football League Second Division,2,D
+1983-11-19,1983/1984,Blackburn Rovers,Portsmouth,2-1,2,1,Football League Second Division,2,H
+1983-11-22,1983/1984,Swansea City,Chelsea,1-3,1,3,Football League Second Division,2,A
+1983-11-25,1983/1984,Halifax Town,Darlington,0-2,0,2,Football League Fourth Division,4,A
+1983-11-26,1983/1984,Coventry City,Southampton,0-0,0,0,Football League First Division,1,D
+1983-11-26,1983/1984,Everton,Norwich City,0-2,0,2,Football League First Division,1,A
+1983-11-26,1983/1984,Ipswich Town,Liverpool,1-1,1,1,Football League First Division,1,D
+1983-11-26,1983/1984,Leicester City,Arsenal,3-0,3,0,Football League First Division,1,H
+1983-11-26,1983/1984,Notts County,Aston Villa,5-2,5,2,Football League First Division,1,H
+1983-11-26,1983/1984,Stoke City,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1983-11-26,1983/1984,Tottenham Hotspur,Queens Park Rangers,3-2,3,2,Football League First Division,1,H
+1983-11-26,1983/1984,Watford,Luton Town,1-2,1,2,Football League First Division,1,A
+1983-11-26,1983/1984,West Bromwich Albion,Wolverhampton Wanderers,1-3,1,3,Football League First Division,1,A
+1983-11-26,1983/1984,Birmingham City,Sunderland,0-1,0,1,Football League First Division,1,A
+1983-11-26,1983/1984,Aldershot,Rochdale,2-1,2,1,Football League Fourth Division,4,H
+1983-11-26,1983/1984,Mansfield Town,Swindon Town,2-2,2,2,Football League Fourth Division,4,D
+1983-11-26,1983/1984,Bury,Reading,2-3,2,3,Football League Fourth Division,4,A
+1983-11-26,1983/1984,Doncaster Rovers,Chester,0-0,0,0,Football League Fourth Division,4,D
+1983-11-26,1983/1984,Hartlepool United,York City,2-3,2,3,Football League Fourth Division,4,A
+1983-11-26,1983/1984,Hereford United,Blackpool,1-2,1,2,Football League Fourth Division,4,A
+1983-11-26,1983/1984,Peterborough United,Stockport County,2-0,2,0,Football League Fourth Division,4,H
+1983-11-26,1983/1984,Torquay United,Colchester United,2-1,2,1,Football League Fourth Division,4,H
+1983-11-26,1983/1984,Tranmere Rovers,Crewe Alexandra,2-3,2,3,Football League Fourth Division,4,A
+1983-11-26,1983/1984,Wrexham,Northampton Town,0-1,0,1,Football League Fourth Division,4,A
+1983-11-26,1983/1984,Bristol City,Chesterfield,2-0,2,0,Football League Fourth Division,4,H
+1983-11-26,1983/1984,Portsmouth,Oldham Athletic,3-4,3,4,Football League Second Division,2,A
+1983-11-26,1983/1984,Barnsley,Brighton & Hove Albion,3-1,3,1,Football League Second Division,2,H
+1983-11-26,1983/1984,Cardiff City,Huddersfield Town,3-1,3,1,Football League Second Division,2,H
+1983-11-26,1983/1984,Crystal Palace,Sheffield Wednesday,1-0,1,0,Football League Second Division,2,H
+1983-11-26,1983/1984,Fulham,Blackburn Rovers,0-1,0,1,Football League Second Division,2,A
+1983-11-26,1983/1984,Grimsby Town,Carlisle United,1-1,1,1,Football League Second Division,2,D
+1983-11-26,1983/1984,Shrewsbury Town,Charlton Athletic,1-1,1,1,Football League Second Division,2,D
+1983-11-26,1983/1984,Leeds United,Chelsea,1-1,1,1,Football League Second Division,2,D
+1983-11-26,1983/1984,Manchester City,Derby County,1-1,1,1,Football League Second Division,2,D
+1983-11-26,1983/1984,Middlesbrough,Swansea City,1-0,1,0,Football League Second Division,2,H
+1983-11-26,1983/1984,Newcastle United,Cambridge United,2-1,2,1,Football League Second Division,2,H
+1983-11-26,1983/1984,Burnley,Port Vale,7-0,7,0,Football League Third Division,3,H
+1983-11-26,1983/1984,Gillingham,Rotherham United,4-2,4,2,Football League Third Division,3,H
+1983-11-26,1983/1984,Hull City,Leyton Orient,2-1,2,1,Football League Third Division,3,H
+1983-11-26,1983/1984,Lincoln City,Bristol Rovers,4-0,4,0,Football League Third Division,3,H
+1983-11-26,1983/1984,Oxford United,Newport County,2-0,2,0,Football League Third Division,3,H
+1983-11-26,1983/1984,Preston North End,Exeter City,2-1,2,1,Football League Third Division,3,H
+1983-11-26,1983/1984,Sheffield United,Southend United,5-0,5,0,Football League Third Division,3,H
+1983-11-26,1983/1984,Wigan Athletic,Walsall,0-1,0,1,Football League Third Division,3,A
+1983-11-26,1983/1984,Brentford,Bradford City,1-4,1,4,Football League Third Division,3,A
+1983-11-26,1983/1984,AFC Bournemouth,Bolton Wanderers,2-2,2,2,Football League Third Division,3,D
+1983-11-26,1983/1984,Millwall,Scunthorpe United,2-1,2,1,Football League Third Division,3,H
+1983-11-27,1983/1984,West Ham United,Manchester United,1-1,1,1,Football League First Division,1,D
+1983-11-29,1983/1984,Bury,Peterborough United,2-2,2,2,Football League Fourth Division,4,D
+1983-11-30,1983/1984,Leicester City,Southampton,2-1,2,1,Football League First Division,1,H
+1983-12-02,1983/1984,Reading,Halifax Town,1-0,1,0,Football League Fourth Division,4,H
+1983-12-02,1983/1984,Stockport County,Torquay United,2-1,2,1,Football League Fourth Division,4,H
+1983-12-02,1983/1984,Southend United,Oxford United,0-1,0,1,Football League Third Division,3,A
+1983-12-03,1983/1984,Arsenal,West Bromwich Albion,0-1,0,1,Football League First Division,1,A
+1983-12-03,1983/1984,Aston Villa,West Ham United,1-0,1,0,Football League First Division,1,H
+1983-12-03,1983/1984,Liverpool,Birmingham City,1-0,1,0,Football League First Division,1,H
+1983-12-03,1983/1984,Manchester United,Everton,0-1,0,1,Football League First Division,1,A
+1983-12-03,1983/1984,Norwich City,Tottenham Hotspur,2-1,2,1,Football League First Division,1,H
+1983-12-03,1983/1984,Queens Park Rangers,Notts County,1-0,1,0,Football League First Division,1,H
+1983-12-03,1983/1984,Southampton,Stoke City,3-1,3,1,Football League First Division,1,H
+1983-12-03,1983/1984,Sunderland,Ipswich Town,1-1,1,1,Football League First Division,1,D
+1983-12-03,1983/1984,Luton Town,Coventry City,2-4,2,4,Football League First Division,1,A
+1983-12-03,1983/1984,Wolverhampton Wanderers,Watford,0-5,0,5,Football League First Division,1,A
+1983-12-03,1983/1984,Blackpool,Peterborough United,1-2,1,2,Football League Fourth Division,4,A
+1983-12-03,1983/1984,Chester,Bury,2-1,2,1,Football League Fourth Division,4,H
+1983-12-03,1983/1984,Chesterfield,Tranmere Rovers,3-3,3,3,Football League Fourth Division,4,D
+1983-12-03,1983/1984,Colchester United,Hartlepool United,6-0,6,0,Football League Fourth Division,4,H
+1983-12-03,1983/1984,Darlington,Mansfield Town,3-0,3,0,Football League Fourth Division,4,H
+1983-12-03,1983/1984,Rochdale,Hereford United,3-3,3,3,Football League Fourth Division,4,D
+1983-12-03,1983/1984,Swindon Town,Doncaster Rovers,2-1,2,1,Football League Fourth Division,4,H
+1983-12-03,1983/1984,York City,Aldershot,2-0,2,0,Football League Fourth Division,4,H
+1983-12-03,1983/1984,Northampton Town,Bristol City,1-0,1,0,Football League Fourth Division,4,H
+1983-12-03,1983/1984,Sheffield Wednesday,Shrewsbury Town,1-1,1,1,Football League Second Division,2,D
+1983-12-03,1983/1984,Swansea City,Crystal Palace,1-0,1,0,Football League Second Division,2,H
+1983-12-03,1983/1984,Brighton & Hove Albion,Cardiff City,3-1,3,1,Football League Second Division,2,H
+1983-12-03,1983/1984,Cambridge United,Fulham,1-1,1,1,Football League Second Division,2,D
+1983-12-03,1983/1984,Carlisle United,Leeds United,1-0,1,0,Football League Second Division,2,H
+1983-12-03,1983/1984,Charlton Athletic,Middlesbrough,2-0,2,0,Football League Second Division,2,H
+1983-12-03,1983/1984,Chelsea,Manchester City,0-1,0,1,Football League Second Division,2,A
+1983-12-03,1983/1984,Derby County,Newcastle United,3-2,3,2,Football League Second Division,2,H
+1983-12-03,1983/1984,Huddersfield Town,Portsmouth,2-1,2,1,Football League Second Division,2,H
+1983-12-03,1983/1984,Oldham Athletic,Barnsley,1-0,1,0,Football League Second Division,2,H
+1983-12-03,1983/1984,Bristol Rovers,Sheffield United,1-1,1,1,Football League Third Division,3,D
+1983-12-03,1983/1984,Exeter City,Hull City,2-1,2,1,Football League Third Division,3,H
+1983-12-03,1983/1984,Leyton Orient,Preston North End,2-1,2,1,Football League Third Division,3,H
+1983-12-03,1983/1984,Newport County,Wigan Athletic,5-3,5,3,Football League Third Division,3,H
+1983-12-03,1983/1984,Port Vale,Gillingham,0-1,0,1,Football League Third Division,3,A
+1983-12-03,1983/1984,Rotherham United,Burnley,1-1,1,1,Football League Third Division,3,D
+1983-12-03,1983/1984,Scunthorpe United,AFC Bournemouth,1-2,1,2,Football League Third Division,3,A
+1983-12-03,1983/1984,Walsall,Millwall,1-1,1,1,Football League Third Division,3,D
+1983-12-03,1983/1984,Bradford City,Plymouth Argyle,2-0,2,0,Football League Third Division,3,H
+1983-12-03,1983/1984,Wimbledon,Lincoln City,3-1,3,1,Football League Third Division,3,H
+1983-12-03,1983/1984,Bolton Wanderers,Brentford,1-0,1,0,Football League Third Division,3,H
+1983-12-04,1983/1984,Nottingham Forest,Leicester City,3-2,3,2,Football League First Division,1,H
+1983-12-04,1983/1984,Blackburn Rovers,Grimsby Town,1-1,1,1,Football League Second Division,2,D
+1983-12-06,1983/1984,Chelsea,Swansea City,6-1,6,1,Football League Second Division,2,H
+1983-12-10,1983/1984,West Ham United,Arsenal,3-1,3,1,Football League First Division,1,H
+1983-12-10,1983/1984,Coventry City,Liverpool,4-0,4,0,Football League First Division,1,H
+1983-12-10,1983/1984,Watford,Nottingham Forest,3-2,3,2,Football League First Division,1,H
+1983-12-10,1983/1984,Tottenham Hotspur,Southampton,0-0,0,0,Football League First Division,1,D
+1983-12-10,1983/1984,Stoke City,Luton Town,2-4,2,4,Football League First Division,1,A
+1983-12-10,1983/1984,Notts County,Sunderland,6-1,6,1,Football League First Division,1,H
+1983-12-10,1983/1984,Leicester City,Wolverhampton Wanderers,5-1,5,1,Football League First Division,1,H
+1983-12-10,1983/1984,Ipswich Town,Manchester United,0-2,0,2,Football League First Division,1,A
+1983-12-10,1983/1984,Everton,Aston Villa,1-1,1,1,Football League First Division,1,D
+1983-12-10,1983/1984,West Bromwich Albion,Queens Park Rangers,1-2,1,2,Football League First Division,1,A
+1983-12-10,1983/1984,Birmingham City,Norwich City,0-1,0,1,Football League First Division,1,A
+1983-12-10,1983/1984,Aldershot,Stockport County,1-1,1,1,Football League Fourth Division,4,D
+1983-12-10,1983/1984,Cardiff City,Blackburn Rovers,0-1,0,1,Football League Second Division,2,A
+1983-12-10,1983/1984,Shrewsbury Town,Cambridge United,1-0,1,0,Football League Second Division,2,H
+1983-12-10,1983/1984,Portsmouth,Derby County,3-0,3,0,Football League Second Division,2,H
+1983-12-10,1983/1984,Newcastle United,Huddersfield Town,5-2,5,2,Football League Second Division,2,H
+1983-12-10,1983/1984,Middlesbrough,Brighton & Hove Albion,0-0,0,0,Football League Second Division,2,D
+1983-12-10,1983/1984,Manchester City,Sheffield Wednesday,1-2,1,2,Football League Second Division,2,A
+1983-12-10,1983/1984,Fulham,Charlton Athletic,0-1,0,1,Football League Second Division,2,A
+1983-12-10,1983/1984,Barnsley,Chelsea,0-0,0,0,Football League Second Division,2,D
+1983-12-11,1983/1984,Crystal Palace,Carlisle United,1-2,1,2,Football League Second Division,2,A
+1983-12-13,1983/1984,Grimsby Town,Oldham Athletic,3-0,3,0,Football League Second Division,2,H
+1983-12-15,1983/1984,Charlton Athletic,Leeds United,2-0,2,0,Football League Second Division,2,H
+1983-12-16,1983/1984,Manchester United,Tottenham Hotspur,4-2,4,2,Football League First Division,1,H
+1983-12-16,1983/1984,Stockport County,Tranmere Rovers,2-1,2,1,Football League Fourth Division,4,H
+1983-12-17,1983/1984,Arsenal,Watford,3-1,3,1,Football League First Division,1,H
+1983-12-17,1983/1984,Aston Villa,Ipswich Town,4-0,4,0,Football League First Division,1,H
+1983-12-17,1983/1984,Liverpool,Notts County,5-0,5,0,Football League First Division,1,H
+1983-12-17,1983/1984,Norwich City,Coventry City,0-0,0,0,Football League First Division,1,D
+1983-12-17,1983/1984,Nottingham Forest,West Ham United,3-0,3,0,Football League First Division,1,H
+1983-12-17,1983/1984,Queens Park Rangers,Everton,2-0,2,0,Football League First Division,1,H
+1983-12-17,1983/1984,Southampton,Birmingham City,2-1,2,1,Football League First Division,1,H
+1983-12-17,1983/1984,Wolverhampton Wanderers,Stoke City,0-0,0,0,Football League First Division,1,D
+1983-12-17,1983/1984,Rochdale,Bristol City,0-1,0,1,Football League Fourth Division,4,A
+1983-12-17,1983/1984,Blackpool,Torquay United,1-0,1,0,Football League Fourth Division,4,H
+1983-12-17,1983/1984,Chester,Peterborough United,1-1,1,1,Football League Fourth Division,4,D
+1983-12-17,1983/1984,Chesterfield,Wrexham,1-1,1,1,Football League Fourth Division,4,D
+1983-12-17,1983/1984,Colchester United,Halifax Town,4-1,4,1,Football League Fourth Division,4,H
+1983-12-17,1983/1984,Darlington,Aldershot,0-1,0,1,Football League Fourth Division,4,A
+1983-12-17,1983/1984,Reading,Hartlepool United,5-1,5,1,Football League Fourth Division,4,H
+1983-12-17,1983/1984,Swindon Town,Bury,0-0,0,0,Football League Fourth Division,4,D
+1983-12-17,1983/1984,York City,Hereford United,4-0,4,0,Football League Fourth Division,4,H
+1983-12-17,1983/1984,Blackburn Rovers,Crystal Palace,2-1,2,1,Football League Second Division,2,H
+1983-12-17,1983/1984,Brighton & Hove Albion,Newcastle United,0-1,0,1,Football League Second Division,2,A
+1983-12-17,1983/1984,Cambridge United,Manchester City,0-0,0,0,Football League Second Division,2,D
+1983-12-17,1983/1984,Carlisle United,Barnsley,4-2,4,2,Football League Second Division,2,H
+1983-12-17,1983/1984,Chelsea,Grimsby Town,2-3,2,3,Football League Second Division,2,A
+1983-12-17,1983/1984,Derby County,Shrewsbury Town,1-0,1,0,Football League Second Division,2,H
+1983-12-17,1983/1984,Huddersfield Town,Middlesbrough,2-2,2,2,Football League Second Division,2,D
+1983-12-17,1983/1984,Oldham Athletic,Fulham,3-0,3,0,Football League Second Division,2,H
+1983-12-17,1983/1984,Sheffield Wednesday,Cardiff City,5-2,5,2,Football League Second Division,2,H
+1983-12-17,1983/1984,Swansea City,Portsmouth,1-2,1,2,Football League Second Division,2,A
+1983-12-17,1983/1984,Scunthorpe United,Gillingham,2-0,2,0,Football League Third Division,3,H
+1983-12-17,1983/1984,Southend United,Wigan Athletic,1-0,1,0,Football League Third Division,3,H
+1983-12-17,1983/1984,Rotherham United,Oxford United,1-2,1,2,Football League Third Division,3,A
+1983-12-17,1983/1984,Exeter City,Millwall,3-2,3,2,Football League Third Division,3,H
+1983-12-17,1983/1984,Newport County,Sheffield United,0-2,0,2,Football League Third Division,3,A
+1983-12-17,1983/1984,Leyton Orient,Plymouth Argyle,3-2,3,2,Football League Third Division,3,H
+1983-12-17,1983/1984,Walsall,Brentford,1-0,1,0,Football League Third Division,3,H
+1983-12-17,1983/1984,Port Vale,Lincoln City,0-1,0,1,Football League Third Division,3,A
+1983-12-17,1983/1984,Wimbledon,Burnley,1-4,1,4,Football League Third Division,3,A
+1983-12-17,1983/1984,Bristol Rovers,Hull City,1-3,1,3,Football League Third Division,3,A
+1983-12-17,1983/1984,Bolton Wanderers,Preston North End,2-2,2,2,Football League Third Division,3,D
+1983-12-17,1983/1984,Bradford City,AFC Bournemouth,5-2,5,2,Football League Third Division,3,H
+1983-12-18,1983/1984,Luton Town,West Bromwich Albion,2-0,2,0,Football League First Division,1,H
+1983-12-18,1983/1984,Sunderland,Leicester City,1-1,1,1,Football League First Division,1,D
+1983-12-18,1983/1984,Crewe Alexandra,Doncaster Rovers,1-1,1,1,Football League Fourth Division,4,D
+1983-12-18,1983/1984,Northampton Town,Mansfield Town,2-1,2,1,Football League Fourth Division,4,H
+1983-12-24,1983/1984,Brentford,Wimbledon,3-4,3,4,Football League Third Division,3,A
+1983-12-26,1983/1984,Coventry City,Manchester United,1-1,1,1,Football League First Division,1,D
+1983-12-26,1983/1984,Everton,Sunderland,0-0,0,0,Football League First Division,1,D
+1983-12-26,1983/1984,Ipswich Town,Wolverhampton Wanderers,3-1,3,1,Football League First Division,1,H
+1983-12-26,1983/1984,Leicester City,Queens Park Rangers,2-1,2,1,Football League First Division,1,H
+1983-12-26,1983/1984,Notts County,Luton Town,0-3,0,3,Football League First Division,1,A
+1983-12-26,1983/1984,Stoke City,Norwich City,2-0,2,0,Football League First Division,1,H
+1983-12-26,1983/1984,Tottenham Hotspur,Arsenal,2-4,2,4,Football League First Division,1,A
+1983-12-26,1983/1984,Watford,Aston Villa,3-2,3,2,Football League First Division,1,H
+1983-12-26,1983/1984,West Bromwich Albion,Liverpool,1-2,1,2,Football League First Division,1,A
+1983-12-26,1983/1984,Birmingham City,Nottingham Forest,1-2,1,2,Football League First Division,1,A
+1983-12-26,1983/1984,West Ham United,Southampton,0-1,0,1,Football League First Division,1,A
+1983-12-26,1983/1984,Wrexham,Chester,2-0,2,0,Football League Fourth Division,4,H
+1983-12-26,1983/1984,Aldershot,Reading,0-0,0,0,Football League Fourth Division,4,D
+1983-12-26,1983/1984,Bristol City,Stockport County,3-1,3,1,Football League Fourth Division,4,H
+1983-12-26,1983/1984,Doncaster Rovers,Northampton Town,1-0,1,0,Football League Fourth Division,4,H
+1983-12-26,1983/1984,Halifax Town,York City,1-2,1,2,Football League Fourth Division,4,A
+1983-12-26,1983/1984,Hartlepool United,Darlington,2-1,2,1,Football League Fourth Division,4,H
+1983-12-26,1983/1984,Hereford United,Crewe Alexandra,0-1,0,1,Football League Fourth Division,4,A
+1983-12-26,1983/1984,Mansfield Town,Chesterfield,0-1,0,1,Football League Fourth Division,4,A
+1983-12-26,1983/1984,Peterborough United,Colchester United,2-0,2,0,Football League Fourth Division,4,H
+1983-12-26,1983/1984,Torquay United,Swindon Town,1-0,1,0,Football League Fourth Division,4,H
+1983-12-26,1983/1984,Tranmere Rovers,Blackpool,3-2,3,2,Football League Fourth Division,4,H
+1983-12-26,1983/1984,Bury,Rochdale,3-1,3,1,Football League Fourth Division,4,H
+1983-12-26,1983/1984,Portsmouth,Charlton Athletic,4-0,4,0,Football League Second Division,2,H
+1983-12-26,1983/1984,Shrewsbury Town,Chelsea,2-4,2,4,Football League Second Division,2,A
+1983-12-26,1983/1984,Barnsley,Cambridge United,2-0,2,0,Football League Second Division,2,H
+1983-12-26,1983/1984,Middlesbrough,Carlisle United,0-1,0,1,Football League Second Division,2,A
+1983-12-26,1983/1984,Manchester City,Oldham Athletic,2-0,2,0,Football League Second Division,2,H
+1983-12-26,1983/1984,Leeds United,Huddersfield Town,1-2,1,2,Football League Second Division,2,A
+1983-12-26,1983/1984,Newcastle United,Blackburn Rovers,1-1,1,1,Football League Second Division,2,D
+1983-12-26,1983/1984,Fulham,Derby County,2-2,2,2,Football League Second Division,2,D
+1983-12-26,1983/1984,Crystal Palace,Brighton & Hove Albion,0-2,0,2,Football League Second Division,2,A
+1983-12-26,1983/1984,Cardiff City,Swansea City,3-2,3,2,Football League Second Division,2,H
+1983-12-26,1983/1984,Grimsby Town,Sheffield Wednesday,1-0,1,0,Football League Second Division,2,H
+1983-12-26,1983/1984,Gillingham,Southend United,5-1,5,1,Football League Third Division,3,H
+1983-12-26,1983/1984,Lincoln City,Walsall,2-1,2,1,Football League Third Division,3,H
+1983-12-26,1983/1984,Millwall,Leyton Orient,4-3,4,3,Football League Third Division,3,H
+1983-12-26,1983/1984,Oxford United,Bristol Rovers,3-2,3,2,Football League Third Division,3,H
+1983-12-26,1983/1984,Plymouth Argyle,Exeter City,2-2,2,2,Football League Third Division,3,D
+1983-12-26,1983/1984,Preston North End,Port Vale,4-0,4,0,Football League Third Division,3,H
+1983-12-26,1983/1984,Sheffield United,Rotherham United,3-0,3,0,Football League Third Division,3,H
+1983-12-26,1983/1984,Wigan Athletic,Bolton Wanderers,0-1,0,1,Football League Third Division,3,A
+1983-12-26,1983/1984,Burnley,Bradford City,1-2,1,2,Football League Third Division,3,A
+1983-12-26,1983/1984,AFC Bournemouth,Newport County,1-1,1,1,Football League Third Division,3,D
+1983-12-26,1983/1984,Hull City,Scunthorpe United,1-0,1,0,Football League Third Division,3,H
+1983-12-27,1983/1984,Aston Villa,Tottenham Hotspur,0-0,0,0,Football League First Division,1,D
+1983-12-27,1983/1984,Liverpool,Leicester City,2-2,2,2,Football League First Division,1,D
+1983-12-27,1983/1984,Luton Town,West Ham United,0-1,0,1,Football League First Division,1,A
+1983-12-27,1983/1984,Manchester United,Notts County,3-3,3,3,Football League First Division,1,D
+1983-12-27,1983/1984,Norwich City,Ipswich Town,0-0,0,0,Football League First Division,1,D
+1983-12-27,1983/1984,Southampton,Watford,1-0,1,0,Football League First Division,1,H
+1983-12-27,1983/1984,Sunderland,West Bromwich Albion,3-0,3,0,Football League First Division,1,H
+1983-12-27,1983/1984,Wolverhampton Wanderers,Everton,3-0,3,0,Football League First Division,1,H
+1983-12-27,1983/1984,Arsenal,Birmingham City,1-1,1,1,Football League First Division,1,D
+1983-12-27,1983/1984,Blackpool,Hartlepool United,1-0,1,0,Football League Fourth Division,4,H
+1983-12-27,1983/1984,Chester,Mansfield Town,0-4,0,4,Football League Fourth Division,4,A
+1983-12-27,1983/1984,Reading,Torquay United,2-2,2,2,Football League Fourth Division,4,D
+1983-12-27,1983/1984,Colchester United,Aldershot,4-1,4,1,Football League Fourth Division,4,H
+1983-12-27,1983/1984,Darlington,Doncaster Rovers,1-2,1,2,Football League Fourth Division,4,A
+1983-12-27,1983/1984,Northampton Town,Peterborough United,2-1,2,1,Football League Fourth Division,4,H
+1983-12-27,1983/1984,Rochdale,Halifax Town,1-1,1,1,Football League Fourth Division,4,D
+1983-12-27,1983/1984,Stockport County,Hereford United,1-0,1,0,Football League Fourth Division,4,H
+1983-12-27,1983/1984,Swindon Town,Wrexham,0-1,0,1,Football League Fourth Division,4,A
+1983-12-27,1983/1984,York City,Tranmere Rovers,1-1,1,1,Football League Fourth Division,4,D
+1983-12-27,1983/1984,Chesterfield,Bury,1-5,1,5,Football League Fourth Division,4,A
+1983-12-27,1983/1984,Brighton & Hove Albion,Fulham,1-1,1,1,Football League Second Division,2,D
+1983-12-27,1983/1984,Charlton Athletic,Crystal Palace,1-0,1,0,Football League Second Division,2,H
+1983-12-27,1983/1984,Chelsea,Portsmouth,2-2,2,2,Football League Second Division,2,D
+1983-12-27,1983/1984,Derby County,Cardiff City,2-3,2,3,Football League Second Division,2,A
+1983-12-27,1983/1984,Huddersfield Town,Manchester City,1-3,1,3,Football League Second Division,2,A
+1983-12-27,1983/1984,Oldham Athletic,Leeds United,3-2,3,2,Football League Second Division,2,H
+1983-12-27,1983/1984,Sheffield Wednesday,Middlesbrough,0-2,0,2,Football League Second Division,2,A
+1983-12-27,1983/1984,Swansea City,Shrewsbury Town,0-2,0,2,Football League Second Division,2,A
+1983-12-27,1983/1984,Carlisle United,Newcastle United,3-1,3,1,Football League Second Division,2,H
+1983-12-27,1983/1984,Newport County,Plymouth Argyle,2-0,2,0,Football League Third Division,3,H
+1983-12-27,1983/1984,Port Vale,Sheffield United,2-0,2,0,Football League Third Division,3,H
+1983-12-27,1983/1984,Rotherham United,Hull City,0-1,0,1,Football League Third Division,3,A
+1983-12-27,1983/1984,Scunthorpe United,Preston North End,1-5,1,5,Football League Third Division,3,A
+1983-12-27,1983/1984,Southend United,Lincoln City,2-0,2,0,Football League Third Division,3,H
+1983-12-27,1983/1984,Walsall,Burnley,1-1,1,1,Football League Third Division,3,D
+1983-12-27,1983/1984,Wimbledon,Millwall,4-3,4,3,Football League Third Division,3,H
+1983-12-27,1983/1984,Exeter City,Brentford,1-2,1,2,Football League Third Division,3,A
+1983-12-27,1983/1984,Bristol Rovers,Gillingham,3-0,3,0,Football League Third Division,3,H
+1983-12-27,1983/1984,Leyton Orient,AFC Bournemouth,2-0,2,0,Football League Third Division,3,H
+1983-12-27,1983/1984,Bolton Wanderers,Oxford United,1-0,1,0,Football League Third Division,3,H
+1983-12-27,1983/1984,Bradford City,Wigan Athletic,6-2,6,2,Football League Third Division,3,H
+1983-12-28,1983/1984,Nottingham Forest,Coventry City,3-0,3,0,Football League First Division,1,H
+1983-12-28,1983/1984,Crewe Alexandra,Bristol City,2-2,2,2,Football League Fourth Division,4,D
+1983-12-28,1983/1984,Cambridge United,Grimsby Town,2-2,2,2,Football League Second Division,2,D
+1983-12-28,1983/1984,Blackburn Rovers,Barnsley,1-1,1,1,Football League Second Division,2,D
+1983-12-30,1983/1984,Tranmere Rovers,Reading,2-3,2,3,Football League Fourth Division,4,A
+1983-12-30,1983/1984,Millwall,Bristol Rovers,1-0,1,0,Football League Third Division,3,H
+1983-12-31,1983/1984,Arsenal,Southampton,2-2,2,2,Football League First Division,1,D
+1983-12-31,1983/1984,Aston Villa,Queens Park Rangers,2-1,2,1,Football League First Division,1,H
+1983-12-31,1983/1984,Everton,Coventry City,0-0,0,0,Football League First Division,1,D
+1983-12-31,1983/1984,Ipswich Town,Notts County,1-0,1,0,Football League First Division,1,H
+1983-12-31,1983/1984,Leicester City,West Bromwich Albion,1-1,1,1,Football League First Division,1,D
+1983-12-31,1983/1984,Nottingham Forest,Liverpool,0-1,0,1,Football League First Division,1,A
+1983-12-31,1983/1984,Sunderland,Luton Town,2-0,2,0,Football League First Division,1,H
+1983-12-31,1983/1984,Watford,Birmingham City,1-0,1,0,Football League First Division,1,H
+1983-12-31,1983/1984,Manchester United,Stoke City,1-0,1,0,Football League First Division,1,H
+1983-12-31,1983/1984,Wolverhampton Wanderers,Norwich City,2-0,2,0,Football League First Division,1,H
+1983-12-31,1983/1984,West Ham United,Tottenham Hotspur,4-1,4,1,Football League First Division,1,H
+1983-12-31,1983/1984,Wrexham,Darlington,1-1,1,1,Football League Fourth Division,4,D
+1983-12-31,1983/1984,Aldershot,Chesterfield,2-1,2,1,Football League Fourth Division,4,H
+1983-12-31,1983/1984,Bristol City,Chester,4-2,4,2,Football League Fourth Division,4,H
+1983-12-31,1983/1984,Bury,York City,1-3,1,3,Football League Fourth Division,4,A
+1983-12-31,1983/1984,Doncaster Rovers,Stockport County,2-1,2,1,Football League Fourth Division,4,H
+1983-12-31,1983/1984,Halifax Town,Blackpool,1-0,1,0,Football League Fourth Division,4,H
+1983-12-31,1983/1984,Hartlepool United,Northampton Town,2-0,2,0,Football League Fourth Division,4,H
+1983-12-31,1983/1984,Mansfield Town,Crewe Alexandra,3-3,3,3,Football League Fourth Division,4,D
+1983-12-31,1983/1984,Peterborough United,Swindon Town,1-1,1,1,Football League Fourth Division,4,D
+1983-12-31,1983/1984,Torquay United,Rochdale,4-2,4,2,Football League Fourth Division,4,H
+1983-12-31,1983/1984,Swansea City,Derby County,2-0,2,0,Football League Second Division,2,H
+1983-12-31,1983/1984,Oldham Athletic,Newcastle United,1-2,1,2,Football League Second Division,2,A
+1983-12-31,1983/1984,Portsmouth,Fulham,1-4,1,4,Football League Second Division,2,A
+1983-12-31,1983/1984,Barnsley,Manchester City,1-1,1,1,Football League Second Division,2,D
+1983-12-31,1983/1984,Blackburn Rovers,Cambridge United,1-0,1,0,Football League Second Division,2,H
+1983-12-31,1983/1984,Carlisle United,Sheffield Wednesday,1-1,1,1,Football League Second Division,2,D
+1983-12-31,1983/1984,Charlton Athletic,Huddersfield Town,1-2,1,2,Football League Second Division,2,A
+1983-12-31,1983/1984,Chelsea,Brighton & Hove Albion,1-0,1,0,Football League Second Division,2,H
+1983-12-31,1983/1984,Crystal Palace,Shrewsbury Town,1-1,1,1,Football League Second Division,2,D
+1983-12-31,1983/1984,Grimsby Town,Cardiff City,1-0,1,0,Football League Second Division,2,H
+1983-12-31,1983/1984,Leeds United,Middlesbrough,4-1,4,1,Football League Second Division,2,H
+1983-12-31,1983/1984,Brentford,Newport County,2-0,2,0,Football League Third Division,3,H
+1983-12-31,1983/1984,Burnley,Scunthorpe United,5-0,5,0,Football League Third Division,3,H
+1983-12-31,1983/1984,Gillingham,Wimbledon,0-1,0,1,Football League Third Division,3,A
+1983-12-31,1983/1984,Hull City,Port Vale,1-0,1,0,Football League Third Division,3,H
+1983-12-31,1983/1984,Lincoln City,Bradford City,2-3,2,3,Football League Third Division,3,A
+1983-12-31,1983/1984,Oxford United,Leyton Orient,5-2,5,2,Football League Third Division,3,H
+1983-12-31,1983/1984,Plymouth Argyle,Southend United,4-0,4,0,Football League Third Division,3,H
+1983-12-31,1983/1984,Preston North End,Walsall,0-1,0,1,Football League Third Division,3,A
+1983-12-31,1983/1984,AFC Bournemouth,Exeter City,3-1,3,1,Football League Third Division,3,H
+1983-12-31,1983/1984,Wigan Athletic,Rotherham United,2-1,2,1,Football League Third Division,3,H
+1983-12-31,1983/1984,Sheffield United,Bolton Wanderers,5-0,5,0,Football League Third Division,3,H
+1984-01-02,1983/1984,Birmingham City,Everton,0-2,0,2,Football League First Division,1,A
+1984-01-02,1983/1984,Coventry City,Sunderland,2-1,2,1,Football League First Division,1,H
+1984-01-02,1983/1984,Liverpool,Manchester United,1-1,1,1,Football League First Division,1,D
+1984-01-02,1983/1984,Luton Town,Nottingham Forest,2-3,2,3,Football League First Division,1,A
+1984-01-02,1983/1984,Norwich City,Arsenal,1-1,1,1,Football League First Division,1,D
+1984-01-02,1983/1984,Notts County,West Ham United,2-2,2,2,Football League First Division,1,D
+1984-01-02,1983/1984,Queens Park Rangers,Wolverhampton Wanderers,2-1,2,1,Football League First Division,1,H
+1984-01-02,1983/1984,Stoke City,Leicester City,0-1,0,1,Football League First Division,1,A
+1984-01-02,1983/1984,Southampton,Aston Villa,2-2,2,2,Football League First Division,1,D
+1984-01-02,1983/1984,West Bromwich Albion,Ipswich Town,2-1,2,1,Football League First Division,1,H
+1984-01-02,1983/1984,Tottenham Hotspur,Watford,2-3,2,3,Football League First Division,1,A
+1984-01-02,1983/1984,Blackpool,Aldershot,5-0,5,0,Football League Fourth Division,4,H
+1984-01-02,1983/1984,York City,Mansfield Town,2-1,2,1,Football League Fourth Division,4,H
+1984-01-02,1983/1984,Colchester United,Wrexham,1-1,1,1,Football League Fourth Division,4,D
+1984-01-02,1983/1984,Crewe Alexandra,Torquay United,2-1,2,1,Football League Fourth Division,4,H
+1984-01-02,1983/1984,Darlington,Peterborough United,1-0,1,0,Football League Fourth Division,4,H
+1984-01-02,1983/1984,Northampton Town,Bury,1-0,1,0,Football League Fourth Division,4,H
+1984-01-02,1983/1984,Reading,Hereford United,3-1,3,1,Football League Fourth Division,4,H
+1984-01-02,1983/1984,Rochdale,Doncaster Rovers,3-3,3,3,Football League Fourth Division,4,D
+1984-01-02,1983/1984,Stockport County,Hartlepool United,1-0,1,0,Football League Fourth Division,4,H
+1984-01-02,1983/1984,Chester,Tranmere Rovers,0-0,0,0,Football League Fourth Division,4,D
+1984-01-02,1983/1984,Chesterfield,Halifax Town,0-0,0,0,Football League Fourth Division,4,D
+1984-01-02,1983/1984,Sheffield Wednesday,Oldham Athletic,3-0,3,0,Football League Second Division,2,H
+1984-01-02,1983/1984,Shrewsbury Town,Portsmouth,2-0,2,0,Football League Second Division,2,H
+1984-01-02,1983/1984,Brighton & Hove Albion,Blackburn Rovers,1-1,1,1,Football League Second Division,2,D
+1984-01-02,1983/1984,Cambridge United,Swansea City,1-1,1,1,Football League Second Division,2,D
+1984-01-02,1983/1984,Derby County,Charlton Athletic,0-1,0,1,Football League Second Division,2,A
+1984-01-02,1983/1984,Fulham,Grimsby Town,1-1,1,1,Football League Second Division,2,D
+1984-01-02,1983/1984,Huddersfield Town,Carlisle United,0-0,0,0,Football League Second Division,2,D
+1984-01-02,1983/1984,Manchester City,Leeds United,1-1,1,1,Football League Second Division,2,D
+1984-01-02,1983/1984,Middlesbrough,Chelsea,2-1,2,1,Football League Second Division,2,H
+1984-01-02,1983/1984,Newcastle United,Barnsley,1-0,1,0,Football League Second Division,2,H
+1984-01-02,1983/1984,Wimbledon,Sheffield United,3-1,3,1,Football League Third Division,3,H
+1984-01-02,1983/1984,Walsall,Plymouth Argyle,3-2,3,2,Football League Third Division,3,H
+1984-01-02,1983/1984,Southend United,Hull City,2-2,2,2,Football League Third Division,3,D
+1984-01-02,1983/1984,Exeter City,Oxford United,3-1,3,1,Football League Third Division,3,H
+1984-01-02,1983/1984,Rotherham United,Lincoln City,1-1,1,1,Football League Third Division,3,D
+1984-01-02,1983/1984,Port Vale,AFC Bournemouth,2-1,2,1,Football League Third Division,3,H
+1984-01-02,1983/1984,Leyton Orient,Burnley,1-2,1,2,Football League Third Division,3,A
+1984-01-02,1983/1984,Scunthorpe United,Brentford,4-4,4,4,Football League Third Division,3,D
+1984-01-02,1983/1984,Bradford City,Preston North End,3-2,3,2,Football League Third Division,3,H
+1984-01-02,1983/1984,Bolton Wanderers,Millwall,2-0,2,0,Football League Third Division,3,H
+1984-01-06,1983/1984,Stockport County,Reading,3-0,3,0,Football League Fourth Division,4,H
+1984-01-07,1983/1984,Halifax Town,Hereford United,2-1,2,1,Football League Fourth Division,4,H
+1984-01-07,1983/1984,Tranmere Rovers,Torquay United,3-0,3,0,Football League Fourth Division,4,H
+1984-01-07,1983/1984,Peterborough United,Wrexham,0-1,0,1,Football League Fourth Division,4,A
+1984-01-07,1983/1984,Doncaster Rovers,Mansfield Town,3-1,3,1,Football League Fourth Division,4,H
+1984-01-07,1983/1984,Aldershot,Hartlepool United,2-1,2,1,Football League Fourth Division,4,H
+1984-01-07,1983/1984,Chesterfield,Crewe Alexandra,1-3,1,3,Football League Fourth Division,4,A
+1984-01-07,1983/1984,Leyton Orient,Walsall,0-1,0,1,Football League Third Division,3,A
+1984-01-07,1983/1984,Bradford City,Wimbledon,5-2,5,2,Football League Third Division,3,H
+1984-01-09,1983/1984,Southend United,Bristol Rovers,1-2,1,2,Football League Third Division,3,A
+1984-01-13,1983/1984,Queens Park Rangers,Manchester United,1-1,1,1,Football League First Division,1,D
+1984-01-14,1983/1984,Coventry City,Watford,1-2,1,2,Football League First Division,1,A
+1984-01-14,1983/1984,Birmingham City,West Ham United,3-0,3,0,Football League First Division,1,H
+1984-01-14,1983/1984,Liverpool,Wolverhampton Wanderers,0-1,0,1,Football League First Division,1,A
+1984-01-14,1983/1984,Luton Town,Arsenal,1-2,1,2,Football League First Division,1,A
+1984-01-14,1983/1984,Norwich City,Sunderland,3-0,3,0,Football League First Division,1,H
+1984-01-14,1983/1984,Notts County,Leicester City,2-5,2,5,Football League First Division,1,A
+1984-01-14,1983/1984,Stoke City,Everton,1-1,1,1,Football League First Division,1,D
+1984-01-14,1983/1984,Tottenham Hotspur,Ipswich Town,2-0,2,0,Football League First Division,1,H
+1984-01-14,1983/1984,West Bromwich Albion,Aston Villa,3-1,3,1,Football League First Division,1,H
+1984-01-14,1983/1984,Colchester United,Darlington,2-1,2,1,Football League Fourth Division,4,H
+1984-01-14,1983/1984,Northampton Town,Chester,2-1,2,1,Football League Fourth Division,4,H
+1984-01-14,1983/1984,Hereford United,Aldershot,2-1,2,1,Football League Fourth Division,4,H
+1984-01-14,1983/1984,Reading,Blackpool,2-0,2,0,Football League Fourth Division,4,H
+1984-01-14,1983/1984,Swindon Town,Chesterfield,1-2,1,2,Football League Fourth Division,4,A
+1984-01-14,1983/1984,Torquay United,Halifax Town,1-1,1,1,Football League Fourth Division,4,D
+1984-01-14,1983/1984,York City,Stockport County,3-1,3,1,Football League Fourth Division,4,H
+1984-01-14,1983/1984,Wrexham,Doncaster Rovers,1-2,1,2,Football League Fourth Division,4,A
+1984-01-14,1983/1984,Crewe Alexandra,Rochdale,0-1,0,1,Football League Fourth Division,4,A
+1984-01-14,1983/1984,Shrewsbury Town,Grimsby Town,1-2,1,2,Football League Second Division,2,A
+1984-01-14,1983/1984,Middlesbrough,Portsmouth,0-0,0,0,Football League Second Division,2,D
+1984-01-14,1983/1984,Sheffield Wednesday,Swansea City,6-1,6,1,Football League Second Division,2,H
+1984-01-14,1983/1984,Brighton & Hove Albion,Oldham Athletic,4-0,4,0,Football League Second Division,2,H
+1984-01-14,1983/1984,Cambridge United,Carlisle United,0-2,0,2,Football League Second Division,2,A
+1984-01-14,1983/1984,Derby County,Chelsea,1-2,1,2,Football League Second Division,2,A
+1984-01-14,1983/1984,Fulham,Barnsley,1-0,1,0,Football League Second Division,2,H
+1984-01-14,1983/1984,Huddersfield Town,Blackburn Rovers,0-2,0,2,Football League Second Division,2,A
+1984-01-14,1983/1984,Manchester City,Crystal Palace,3-1,3,1,Football League Second Division,2,H
+1984-01-14,1983/1984,Bradford City,Leyton Orient,4-1,4,1,Football League Third Division,3,H
+1984-01-14,1983/1984,Bristol Rovers,Newport County,4-0,4,0,Football League Third Division,3,H
+1984-01-14,1983/1984,Gillingham,Sheffield United,4-2,4,2,Football League Third Division,3,H
+1984-01-14,1983/1984,Lincoln City,Oxford United,2-2,2,2,Football League Third Division,3,D
+1984-01-14,1983/1984,Preston North End,AFC Bournemouth,2-0,2,0,Football League Third Division,3,H
+1984-01-14,1983/1984,Walsall,Exeter City,4-1,4,1,Football League Third Division,3,H
+1984-01-14,1983/1984,Wimbledon,Bolton Wanderers,4-0,4,0,Football League Third Division,3,H
+1984-01-15,1983/1984,Millwall,Brentford,1-2,1,2,Football League Third Division,3,A
+1984-01-17,1983/1984,Queens Park Rangers,Stoke City,6-0,6,0,Football League First Division,1,H
+1984-01-18,1983/1984,Hereford United,Bury,1-2,1,2,Football League Fourth Division,4,A
+1984-01-18,1983/1984,Swansea City,Huddersfield Town,2-2,2,2,Football League Second Division,2,D
+1984-01-20,1983/1984,Aston Villa,Liverpool,1-3,1,3,Football League First Division,1,A
+1984-01-20,1983/1984,Stockport County,Northampton Town,1-0,1,0,Football League Fourth Division,4,H
+1984-01-21,1983/1984,Wolverhampton Wanderers,Luton Town,1-2,1,2,Football League First Division,1,A
+1984-01-21,1983/1984,West Ham United,West Bromwich Albion,1-0,1,0,Football League First Division,1,H
+1984-01-21,1983/1984,Watford,Stoke City,2-0,2,0,Football League First Division,1,H
+1984-01-21,1983/1984,Nottingham Forest,Norwich City,3-0,3,0,Football League First Division,1,H
+1984-01-21,1983/1984,Manchester United,Southampton,3-2,3,2,Football League First Division,1,H
+1984-01-21,1983/1984,Leicester City,Coventry City,1-1,1,1,Football League First Division,1,D
+1984-01-21,1983/1984,Ipswich Town,Birmingham City,1-2,1,2,Football League First Division,1,A
+1984-01-21,1983/1984,Everton,Tottenham Hotspur,2-1,2,1,Football League First Division,1,H
+1984-01-21,1983/1984,Arsenal,Notts County,1-1,1,1,Football League First Division,1,D
+1984-01-21,1983/1984,Aldershot,Torquay United,3-1,3,1,Football League Fourth Division,4,H
+1984-01-21,1983/1984,Blackpool,Swindon Town,1-1,1,1,Football League Fourth Division,4,D
+1984-01-21,1983/1984,Bristol City,Wrexham,2-1,2,1,Football League Fourth Division,4,H
+1984-01-21,1983/1984,Chesterfield,Reading,2-1,2,1,Football League Fourth Division,4,H
+1984-01-21,1983/1984,Halifax Town,Bury,0-0,0,0,Football League Fourth Division,4,D
+1984-01-21,1983/1984,Peterborough United,Hereford United,1-1,1,1,Football League Fourth Division,4,D
+1984-01-21,1983/1984,Portsmouth,Cardiff City,1-1,1,1,Football League Second Division,2,D
+1984-01-21,1983/1984,Oldham Athletic,Derby County,3-0,3,0,Football League Second Division,2,H
+1984-01-21,1983/1984,Leeds United,Fulham,1-0,1,0,Football League Second Division,2,H
+1984-01-21,1983/1984,Crystal Palace,Newcastle United,3-1,3,1,Football League Second Division,2,H
+1984-01-21,1983/1984,Chelsea,Sheffield Wednesday,3-2,3,2,Football League Second Division,2,H
+1984-01-21,1983/1984,Charlton Athletic,Cambridge United,5-2,5,2,Football League Second Division,2,H
+1984-01-21,1983/1984,Carlisle United,Brighton & Hove Albion,1-2,1,2,Football League Second Division,2,A
+1984-01-21,1983/1984,Blackburn Rovers,Manchester City,2-1,2,1,Football League Second Division,2,H
+1984-01-21,1983/1984,Grimsby Town,Middlesbrough,0-0,0,0,Football League Second Division,2,D
+1984-01-21,1983/1984,AFC Bournemouth,Millwall,1-1,1,1,Football League Third Division,3,D
+1984-01-21,1983/1984,Bolton Wanderers,Scunthorpe United,0-0,0,0,Football League Third Division,3,D
+1984-01-21,1983/1984,Brentford,Wigan Athletic,0-1,0,1,Football League Third Division,3,A
+1984-01-21,1983/1984,Exeter City,Bristol Rovers,1-2,1,2,Football League Third Division,3,A
+1984-01-21,1983/1984,Plymouth Argyle,Lincoln City,2-2,2,2,Football League Third Division,3,D
+1984-01-21,1983/1984,Port Vale,Wimbledon,2-0,2,0,Football League Third Division,3,H
+1984-01-21,1983/1984,Sheffield United,Burnley,0-0,0,0,Football League Third Division,3,D
+1984-01-22,1983/1984,Newport County,Walsall,3-1,3,1,Football League Third Division,3,H
+1984-01-22,1983/1984,Leyton Orient,Rotherham United,2-1,2,1,Football League Third Division,3,H
+1984-01-23,1983/1984,Southampton,Nottingham Forest,0-1,0,1,Football League First Division,1,A
+1984-01-24,1983/1984,Swindon Town,Bristol City,1-1,1,1,Football League Fourth Division,4,D
+1984-01-27,1983/1984,Leyton Orient,Wigan Athletic,0-0,0,0,Football League Third Division,3,D
+1984-01-28,1983/1984,Stoke City,Arsenal,1-0,1,0,Football League First Division,1,H
+1984-01-28,1983/1984,Hartlepool United,Bristol City,2-2,2,2,Football League Fourth Division,4,D
+1984-01-28,1983/1984,Torquay United,Peterborough United,1-0,1,0,Football League Fourth Division,4,H
+1984-01-28,1983/1984,Reading,Rochdale,0-0,0,0,Football League Fourth Division,4,D
+1984-01-28,1983/1984,Hereford United,Doncaster Rovers,0-3,0,3,Football League Fourth Division,4,A
+1984-01-28,1983/1984,Crewe Alexandra,Chester,1-1,1,1,Football League Fourth Division,4,D
+1984-01-28,1983/1984,Colchester United,Stockport County,1-1,1,1,Football League Fourth Division,4,D
+1984-01-28,1983/1984,Bristol Rovers,Port Vale,0-0,0,0,Football League Third Division,3,D
+1984-01-28,1983/1984,Wimbledon,Southend United,3-2,3,2,Football League Third Division,3,H
+1984-01-28,1983/1984,Walsall,Bolton Wanderers,1-0,1,0,Football League Third Division,3,H
+1984-01-28,1983/1984,Millwall,Hull City,1-0,1,0,Football League Third Division,3,H
+1984-01-30,1983/1984,Tranmere Rovers,Mansfield Town,1-0,1,0,Football League Fourth Division,4,H
+1984-01-30,1983/1984,Port Vale,Southend United,2-1,2,1,Football League Third Division,3,H
+1984-01-31,1983/1984,Bristol City,Bury,3-2,3,2,Football League Fourth Division,4,H
+1984-01-31,1983/1984,York City,Chesterfield,1-0,1,0,Football League Fourth Division,4,H
+1984-01-31,1983/1984,Cardiff City,Charlton Athletic,2-1,2,1,Football League Second Division,2,H
+1984-01-31,1983/1984,Preston North End,Sheffield United,2-2,2,2,Football League Third Division,3,D
+1984-02-01,1983/1984,Liverpool,Watford,3-0,3,0,Football League First Division,1,H
+1984-02-01,1983/1984,Lincoln City,Brentford,2-0,2,0,Football League Third Division,3,H
+1984-02-03,1983/1984,Stockport County,Crewe Alexandra,2-3,2,3,Football League Fourth Division,4,A
+1984-02-03,1983/1984,Tranmere Rovers,Hartlepool United,0-1,0,1,Football League Fourth Division,4,A
+1984-02-03,1983/1984,Exeter City,Bradford City,0-2,0,2,Football League Third Division,3,A
+1984-02-03,1983/1984,Southend United,Scunthorpe United,0-0,0,0,Football League Third Division,3,D
+1984-02-04,1983/1984,Aston Villa,Luton Town,0-0,0,0,Football League First Division,1,D
+1984-02-04,1983/1984,Everton,Notts County,4-1,4,1,Football League First Division,1,H
+1984-02-04,1983/1984,Ipswich Town,Coventry City,3-1,3,1,Football League First Division,1,H
+1984-02-04,1983/1984,Leicester City,Birmingham City,2-3,2,3,Football League First Division,1,A
+1984-02-04,1983/1984,Manchester United,Norwich City,0-0,0,0,Football League First Division,1,D
+1984-02-04,1983/1984,Nottingham Forest,Tottenham Hotspur,2-2,2,2,Football League First Division,1,D
+1984-02-04,1983/1984,Sunderland,Liverpool,0-0,0,0,Football League First Division,1,D
+1984-02-04,1983/1984,West Ham United,Stoke City,3-0,3,0,Football League First Division,1,H
+1984-02-04,1983/1984,Watford,West Bromwich Albion,3-1,3,1,Football League First Division,1,H
+1984-02-04,1983/1984,Arsenal,Queens Park Rangers,0-2,0,2,Football League First Division,1,A
+1984-02-04,1983/1984,Wolverhampton Wanderers,Southampton,0-1,0,1,Football League First Division,1,A
+1984-02-04,1983/1984,Aldershot,Mansfield Town,7-1,7,1,Football League Fourth Division,4,H
+1984-02-04,1983/1984,Bristol City,Hereford United,1-0,1,0,Football League Fourth Division,4,H
+1984-02-04,1983/1984,Chester,Colchester United,1-4,1,4,Football League Fourth Division,4,A
+1984-02-04,1983/1984,Chesterfield,Northampton Town,2-1,2,1,Football League Fourth Division,4,H
+1984-02-04,1983/1984,Darlington,Reading,1-1,1,1,Football League Fourth Division,4,D
+1984-02-04,1983/1984,Doncaster Rovers,Torquay United,1-1,1,1,Football League Fourth Division,4,D
+1984-02-04,1983/1984,Halifax Town,Wrexham,1-1,1,1,Football League Fourth Division,4,D
+1984-02-04,1983/1984,Peterborough United,Bury,2-1,2,1,Football League Fourth Division,4,H
+1984-02-04,1983/1984,Rochdale,Swindon Town,3-3,3,3,Football League Fourth Division,4,D
+1984-02-04,1983/1984,Blackpool,York City,3-0,3,0,Football League Fourth Division,4,H
+1984-02-04,1983/1984,Portsmouth,Newcastle United,1-4,1,4,Football League Second Division,2,A
+1984-02-04,1983/1984,Leeds United,Shrewsbury Town,3-0,3,0,Football League Second Division,2,H
+1984-02-04,1983/1984,Oldham Athletic,Cambridge United,0-0,0,0,Football League Second Division,2,D
+1984-02-04,1983/1984,Barnsley,Cardiff City,2-3,2,3,Football League Second Division,2,A
+1984-02-04,1983/1984,Blackburn Rovers,Sheffield Wednesday,0-0,0,0,Football League Second Division,2,D
+1984-02-04,1983/1984,Carlisle United,Derby County,2-1,2,1,Football League Second Division,2,H
+1984-02-04,1983/1984,Charlton Athletic,Brighton & Hove Albion,2-0,2,0,Football League Second Division,2,H
+1984-02-04,1983/1984,Chelsea,Huddersfield Town,3-1,3,1,Football League Second Division,2,H
+1984-02-04,1983/1984,Crystal Palace,Middlesbrough,1-0,1,0,Football League Second Division,2,H
+1984-02-04,1983/1984,Grimsby Town,Manchester City,1-1,1,1,Football League Second Division,2,D
+1984-02-04,1983/1984,Bolton Wanderers,Bristol Rovers,3-0,3,0,Football League Third Division,3,H
+1984-02-04,1983/1984,Sheffield United,Millwall,2-0,2,0,Football League Third Division,3,H
+1984-02-04,1983/1984,Brentford,Gillingham,2-3,2,3,Football League Third Division,3,A
+1984-02-04,1983/1984,Hull City,Wigan Athletic,1-0,1,0,Football League Third Division,3,H
+1984-02-04,1983/1984,Leyton Orient,Wimbledon,2-6,2,6,Football League Third Division,3,A
+1984-02-04,1983/1984,Newport County,Rotherham United,1-4,1,4,Football League Third Division,3,A
+1984-02-04,1983/1984,Oxford United,Preston North End,2-0,2,0,Football League Third Division,3,H
+1984-02-04,1983/1984,Plymouth Argyle,Burnley,1-1,1,1,Football League Third Division,3,D
+1984-02-04,1983/1984,AFC Bournemouth,Lincoln City,3-0,3,0,Football League Third Division,3,H
+1984-02-04,1983/1984,Port Vale,Walsall,0-2,0,2,Football League Third Division,3,A
+1984-02-05,1983/1984,Swansea City,Fulham,0-3,0,3,Football League Second Division,2,A
+1984-02-06,1983/1984,Southend United,Bolton Wanderers,0-1,0,1,Football League Third Division,3,A
+1984-02-07,1983/1984,Birmingham City,Manchester United,2-2,2,2,Football League First Division,1,D
+1984-02-07,1983/1984,Queens Park Rangers,West Ham United,1-1,1,1,Football League First Division,1,D
+1984-02-07,1983/1984,Bury,Tranmere Rovers,0-0,0,0,Football League Fourth Division,4,D
+1984-02-07,1983/1984,Sheffield United,Lincoln City,0-0,0,0,Football League Third Division,3,D
+1984-02-08,1983/1984,Tottenham Hotspur,Sunderland,3-0,3,0,Football League First Division,1,H
+1984-02-08,1983/1984,West Bromwich Albion,Nottingham Forest,0-5,0,5,Football League First Division,1,A
+1984-02-08,1983/1984,Chester,Swindon Town,0-3,0,3,Football League Fourth Division,4,A
+1984-02-10,1983/1984,Scunthorpe United,Newport County,3-3,3,3,Football League Third Division,3,D
+1984-02-11,1983/1984,Birmingham City,Wolverhampton Wanderers,0-0,0,0,Football League First Division,1,D
+1984-02-11,1983/1984,Coventry City,West Ham United,1-2,1,2,Football League First Division,1,A
+1984-02-11,1983/1984,Liverpool,Arsenal,2-1,2,1,Football League First Division,1,H
+1984-02-11,1983/1984,Norwich City,Aston Villa,3-1,3,1,Football League First Division,1,H
+1984-02-11,1983/1984,Notts County,Watford,3-5,3,5,Football League First Division,1,A
+1984-02-11,1983/1984,Queens Park Rangers,Nottingham Forest,0-1,0,1,Football League First Division,1,A
+1984-02-11,1983/1984,Southampton,Sunderland,1-1,1,1,Football League First Division,1,D
+1984-02-11,1983/1984,Stoke City,Ipswich Town,1-0,1,0,Football League First Division,1,H
+1984-02-11,1983/1984,Tottenham Hotspur,Leicester City,3-2,3,2,Football League First Division,1,H
+1984-02-11,1983/1984,West Bromwich Albion,Everton,1-1,1,1,Football League First Division,1,D
+1984-02-11,1983/1984,York City,Darlington,2-0,2,0,Football League Fourth Division,4,H
+1984-02-11,1983/1984,Bury,Doncaster Rovers,2-3,2,3,Football League Fourth Division,4,A
+1984-02-11,1983/1984,Hartlepool United,Halifax Town,3-0,3,0,Football League Fourth Division,4,H
+1984-02-11,1983/1984,Crewe Alexandra,Blackpool,2-1,2,1,Football League Fourth Division,4,H
+1984-02-11,1983/1984,Hereford United,Tranmere Rovers,0-1,0,1,Football League Fourth Division,4,A
+1984-02-11,1983/1984,Mansfield Town,Peterborough United,0-0,0,0,Football League Fourth Division,4,D
+1984-02-11,1983/1984,Northampton Town,Rochdale,1-1,1,1,Football League Fourth Division,4,D
+1984-02-11,1983/1984,Reading,Chester,1-0,1,0,Football League Fourth Division,4,H
+1984-02-11,1983/1984,Swindon Town,Stockport County,2-1,2,1,Football League Fourth Division,4,H
+1984-02-11,1983/1984,Torquay United,Bristol City,1-0,1,0,Football League Fourth Division,4,H
+1984-02-11,1983/1984,Wrexham,Aldershot,1-1,1,1,Football League Fourth Division,4,D
+1984-02-11,1983/1984,Colchester United,Chesterfield,2-0,2,0,Football League Fourth Division,4,H
+1984-02-11,1983/1984,Sheffield Wednesday,Charlton Athletic,4-1,4,1,Football League Second Division,2,H
+1984-02-11,1983/1984,Shrewsbury Town,Carlisle United,0-0,0,0,Football League Second Division,2,D
+1984-02-11,1983/1984,Brighton & Hove Albion,Swansea City,1-1,1,1,Football League Second Division,2,D
+1984-02-11,1983/1984,Cambridge United,Chelsea,0-1,0,1,Football League Second Division,2,A
+1984-02-11,1983/1984,Cardiff City,Leeds United,0-1,0,1,Football League Second Division,2,A
+1984-02-11,1983/1984,Derby County,Blackburn Rovers,1-1,1,1,Football League Second Division,2,D
+1984-02-11,1983/1984,Fulham,Crystal Palace,1-1,1,1,Football League Second Division,2,D
+1984-02-11,1983/1984,Huddersfield Town,Oldham Athletic,0-1,0,1,Football League Second Division,2,A
+1984-02-11,1983/1984,Manchester City,Portsmouth,2-1,2,1,Football League Second Division,2,H
+1984-02-11,1983/1984,Middlesbrough,Barnsley,2-1,2,1,Football League Second Division,2,H
+1984-02-11,1983/1984,Newcastle United,Grimsby Town,0-1,0,1,Football League Second Division,2,A
+1984-02-11,1983/1984,Gillingham,AFC Bournemouth,2-1,2,1,Football League Third Division,3,H
+1984-02-11,1983/1984,Lincoln City,Hull City,1-3,1,3,Football League Third Division,3,A
+1984-02-11,1983/1984,Millwall,Oxford United,2-1,2,1,Football League Third Division,3,H
+1984-02-11,1983/1984,Preston North End,Plymouth Argyle,2-1,2,1,Football League Third Division,3,H
+1984-02-11,1983/1984,Rotherham United,Bolton Wanderers,1-1,1,1,Football League Third Division,3,D
+1984-02-11,1983/1984,Walsall,Southend United,4-0,4,0,Football League Third Division,3,H
+1984-02-11,1983/1984,Wigan Athletic,Sheffield United,3-0,3,0,Football League Third Division,3,H
+1984-02-11,1983/1984,Wimbledon,Exeter City,2-1,2,1,Football League Third Division,3,H
+1984-02-11,1983/1984,Burnley,Brentford,2-2,2,2,Football League Third Division,3,D
+1984-02-11,1983/1984,Bristol Rovers,Leyton Orient,0-0,0,0,Football League Third Division,3,D
+1984-02-11,1983/1984,Bradford City,Port Vale,2-2,2,2,Football League Third Division,3,D
+1984-02-12,1983/1984,Luton Town,Manchester United,0-5,0,5,Football League First Division,1,A
+1984-02-13,1983/1984,Tranmere Rovers,Darlington,0-1,0,1,Football League Fourth Division,4,A
+1984-02-13,1983/1984,Stockport County,Bury,1-1,1,1,Football League Fourth Division,4,D
+1984-02-14,1983/1984,Queens Park Rangers,Norwich City,2-0,2,0,Football League First Division,1,H
+1984-02-14,1983/1984,Halifax Town,Chester,2-2,2,2,Football League Fourth Division,4,D
+1984-02-14,1983/1984,Rochdale,Mansfield Town,0-0,0,0,Football League Fourth Division,4,D
+1984-02-14,1983/1984,Northampton Town,Aldershot,1-4,1,4,Football League Fourth Division,4,A
+1984-02-14,1983/1984,Colchester United,Doncaster Rovers,1-1,1,1,Football League Fourth Division,4,D
+1984-02-14,1983/1984,Bristol City,Blackpool,1-1,1,1,Football League Fourth Division,4,D
+1984-02-14,1983/1984,Preston North End,Bristol Rovers,1-0,1,0,Football League Third Division,3,H
+1984-02-14,1983/1984,Plymouth Argyle,Port Vale,3-0,3,0,Football League Third Division,3,H
+1984-02-14,1983/1984,Gillingham,Bradford City,0-0,0,0,Football League Third Division,3,D
+1984-02-14,1983/1984,Burnley,Exeter City,4-0,4,0,Football League Third Division,3,H
+1984-02-14,1983/1984,Brentford,Southend United,0-0,0,0,Football League Third Division,3,D
+1984-02-14,1983/1984,Bolton Wanderers,Lincoln City,0-2,0,2,Football League Third Division,3,A
+1984-02-14,1983/1984,Newport County,Millwall,1-1,1,1,Football League Third Division,3,D
+1984-02-15,1983/1984,Reading,Peterborough United,1-1,1,1,Football League Fourth Division,4,D
+1984-02-15,1983/1984,Hartlepool United,Crewe Alexandra,2-1,2,1,Football League Fourth Division,4,H
+1984-02-15,1983/1984,Hereford United,Swindon Town,2-1,2,1,Football League Fourth Division,4,H
+1984-02-15,1983/1984,Leeds United,Swansea City,1-0,1,0,Football League Second Division,2,H
+1984-02-15,1983/1984,Oxford United,Wimbledon,2-0,2,0,Football League Third Division,3,H
+1984-02-18,1983/1984,Coventry City,Stoke City,2-3,2,3,Football League First Division,1,A
+1984-02-18,1983/1984,Luton Town,Liverpool,0-0,0,0,Football League First Division,1,D
+1984-02-18,1983/1984,Sunderland,Nottingham Forest,1-1,1,1,Football League First Division,1,D
+1984-02-18,1983/1984,Wolverhampton Wanderers,Manchester United,1-1,1,1,Football League First Division,1,D
+1984-02-18,1983/1984,Arsenal,Aston Villa,1-1,1,1,Football League First Division,1,D
+1984-02-18,1983/1984,Chester,Rochdale,1-0,1,0,Football League Fourth Division,4,H
+1984-02-18,1983/1984,Aldershot,Halifax Town,5-2,5,2,Football League Fourth Division,4,H
+1984-02-18,1983/1984,Crewe Alexandra,Colchester United,1-1,1,1,Football League Fourth Division,4,D
+1984-02-18,1983/1984,Bury,Hartlepool United,3-0,3,0,Football League Fourth Division,4,H
+1984-02-18,1983/1984,Darlington,Chesterfield,2-1,2,1,Football League Fourth Division,4,H
+1984-02-18,1983/1984,Doncaster Rovers,Tranmere Rovers,1-1,1,1,Football League Fourth Division,4,D
+1984-02-18,1983/1984,Peterborough United,Bristol City,4-1,4,1,Football League Fourth Division,4,H
+1984-02-18,1983/1984,Swindon Town,Reading,1-1,1,1,Football League Fourth Division,4,D
+1984-02-18,1983/1984,Torquay United,Wrexham,1-0,1,0,Football League Fourth Division,4,H
+1984-02-18,1983/1984,York City,Northampton Town,3-0,3,0,Football League Fourth Division,4,H
+1984-02-18,1983/1984,Mansfield Town,Hereford United,1-1,1,1,Football League Fourth Division,4,D
+1984-02-18,1983/1984,Carlisle United,Oldham Athletic,2-0,2,0,Football League Second Division,2,H
+1984-02-18,1983/1984,Barnsley,Crystal Palace,1-1,1,1,Football League Second Division,2,D
+1984-02-18,1983/1984,Portsmouth,Leeds United,2-3,2,3,Football League Second Division,2,A
+1984-02-18,1983/1984,Manchester City,Newcastle United,1-2,1,2,Football League Second Division,2,A
+1984-02-18,1983/1984,Wigan Athletic,Burnley,1-0,1,0,Football League Third Division,3,H
+1984-02-18,1983/1984,Port Vale,Newport County,4-2,4,2,Football League Third Division,3,H
+1984-02-18,1983/1984,Wimbledon,Scunthorpe United,1-1,1,1,Football League Third Division,3,D
+1984-02-18,1983/1984,Exeter City,Leyton Orient,3-4,3,4,Football League Third Division,3,A
+1984-02-18,1983/1984,Lincoln City,Preston North End,2-1,2,1,Football League Third Division,3,H
+1984-02-18,1983/1984,AFC Bournemouth,Brentford,0-3,0,3,Football League Third Division,3,A
+1984-02-18,1983/1984,Bradford City,Rotherham United,1-0,1,0,Football League Third Division,3,H
+1984-02-18,1983/1984,Bristol Rovers,Walsall,4-2,4,2,Football League Third Division,3,H
+1984-02-19,1983/1984,Cardiff City,Fulham,0-4,0,4,Football League Second Division,2,A
+1984-02-19,1983/1984,Millwall,Gillingham,2-2,2,2,Football League Third Division,3,D
+1984-02-21,1983/1984,West Ham United,Watford,2-4,2,4,Football League First Division,1,A
+1984-02-21,1983/1984,Ipswich Town,Southampton,0-3,0,3,Football League First Division,1,A
+1984-02-21,1983/1984,Notts County,Tottenham Hotspur,0-0,0,0,Football League First Division,1,D
+1984-02-21,1983/1984,Grimsby Town,Derby County,2-1,2,1,Football League Second Division,2,H
+1984-02-24,1983/1984,Tranmere Rovers,Peterborough United,0-0,0,0,Football League Fourth Division,4,D
+1984-02-24,1983/1984,Stockport County,Chester,2-1,2,1,Football League Fourth Division,4,H
+1984-02-25,1983/1984,Aston Villa,Wolverhampton Wanderers,4-0,4,0,Football League First Division,1,H
+1984-02-25,1983/1984,Leicester City,Ipswich Town,2-0,2,0,Football League First Division,1,H
+1984-02-25,1983/1984,Liverpool,Queens Park Rangers,2-0,2,0,Football League First Division,1,H
+1984-02-25,1983/1984,Manchester United,Sunderland,2-1,2,1,Football League First Division,1,H
+1984-02-25,1983/1984,Norwich City,West Ham United,1-0,1,0,Football League First Division,1,H
+1984-02-25,1983/1984,Nottingham Forest,Arsenal,0-1,0,1,Football League First Division,1,A
+1984-02-25,1983/1984,Southampton,Luton Town,2-1,2,1,Football League First Division,1,H
+1984-02-25,1983/1984,Stoke City,Notts County,1-0,1,0,Football League First Division,1,H
+1984-02-25,1983/1984,Watford,Everton,4-4,4,4,Football League First Division,1,D
+1984-02-25,1983/1984,Tottenham Hotspur,Birmingham City,0-1,0,1,Football League First Division,1,A
+1984-02-25,1983/1984,West Bromwich Albion,Coventry City,1-1,1,1,Football League First Division,1,D
+1984-02-25,1983/1984,Bristol City,Aldershot,2-1,2,1,Football League Fourth Division,4,H
+1984-02-25,1983/1984,Colchester United,Swindon Town,0-0,0,0,Football League Fourth Division,4,D
+1984-02-25,1983/1984,Halifax Town,Doncaster Rovers,1-2,1,2,Football League Fourth Division,4,A
+1984-02-25,1983/1984,Hartlepool United,Mansfield Town,4-1,4,1,Football League Fourth Division,4,H
+1984-02-25,1983/1984,Hereford United,Torquay United,1-1,1,1,Football League Fourth Division,4,D
+1984-02-25,1983/1984,Northampton Town,Crewe Alexandra,2-0,2,0,Football League Fourth Division,4,H
+1984-02-25,1983/1984,Reading,York City,1-0,1,0,Football League Fourth Division,4,H
+1984-02-25,1983/1984,Rochdale,Darlington,2-0,2,0,Football League Fourth Division,4,H
+1984-02-25,1983/1984,Wrexham,Bury,3-0,3,0,Football League Fourth Division,4,H
+1984-02-25,1983/1984,Chesterfield,Blackpool,1-1,1,1,Football League Fourth Division,4,D
+1984-02-25,1983/1984,Swansea City,Charlton Athletic,1-0,1,0,Football League Second Division,2,H
+1984-02-25,1983/1984,Oldham Athletic,Blackburn Rovers,0-0,0,0,Football League Second Division,2,D
+1984-02-25,1983/1984,Cambridge United,Portsmouth,1-3,1,3,Football League Second Division,2,A
+1984-02-25,1983/1984,Chelsea,Carlisle United,0-0,0,0,Football League Second Division,2,D
+1984-02-25,1983/1984,Crystal Palace,Grimsby Town,0-1,0,1,Football League Second Division,2,A
+1984-02-25,1983/1984,Derby County,Huddersfield Town,1-1,1,1,Football League Second Division,2,D
+1984-02-25,1983/1984,Fulham,Shrewsbury Town,3-0,3,0,Football League Second Division,2,H
+1984-02-25,1983/1984,Leeds United,Barnsley,1-2,1,2,Football League Second Division,2,A
+1984-02-25,1983/1984,Middlesbrough,Manchester City,0-0,0,0,Football League Second Division,2,D
+1984-02-25,1983/1984,Newcastle United,Cardiff City,3-1,3,1,Football League Second Division,2,H
+1984-02-25,1983/1984,Sheffield Wednesday,Brighton & Hove Albion,2-1,2,1,Football League Second Division,2,H
+1984-02-25,1983/1984,Bolton Wanderers,Port Vale,2-0,2,0,Football League Third Division,3,H
+1984-02-25,1983/1984,Brentford,Sheffield United,1-3,1,3,Football League Third Division,3,A
+1984-02-25,1983/1984,Burnley,Lincoln City,4-0,4,0,Football League Third Division,3,H
+1984-02-25,1983/1984,Newport County,Exeter City,1-0,1,0,Football League Third Division,3,H
+1984-02-25,1983/1984,Oxford United,AFC Bournemouth,3-2,3,2,Football League Third Division,3,H
+1984-02-25,1983/1984,Plymouth Argyle,Hull City,2-0,2,0,Football League Third Division,3,H
+1984-02-25,1983/1984,Preston North End,Millwall,0-0,0,0,Football League Third Division,3,D
+1984-02-25,1983/1984,Rotherham United,Wimbledon,1-2,1,2,Football League Third Division,3,A
+1984-02-25,1983/1984,Scunthorpe United,Bristol Rovers,2-2,2,2,Football League Third Division,3,D
+1984-02-25,1983/1984,Walsall,Bradford City,1-2,1,2,Football League Third Division,3,A
+1984-02-25,1983/1984,Gillingham,Wigan Athletic,3-0,3,0,Football League Third Division,3,H
+1984-02-26,1983/1984,Leyton Orient,Southend United,1-0,1,0,Football League Third Division,3,H
+1984-02-28,1983/1984,Birmingham City,West Bromwich Albion,2-1,2,1,Football League First Division,1,H
+1984-02-28,1983/1984,Wrexham,York City,0-0,0,0,Football League Fourth Division,4,D
+1984-02-28,1983/1984,Darlington,Northampton Town,5-3,5,3,Football League Fourth Division,4,H
+1984-02-28,1983/1984,Brighton & Hove Albion,Cambridge United,3-0,3,0,Football League Second Division,2,H
+1984-02-28,1983/1984,Shrewsbury Town,Middlesbrough,1-0,1,0,Football League Second Division,2,H
+1984-02-28,1983/1984,Sheffield United,Plymouth Argyle,2-0,2,0,Football League Third Division,3,H
+1984-02-28,1983/1984,Hull City,Oxford United,0-1,0,1,Football League Third Division,3,A
+1984-03-02,1983/1984,Southend United,Burnley,2-2,2,2,Football League Third Division,3,D
+1984-03-03,1983/1984,Aston Villa,Manchester United,0-3,0,3,Football League First Division,1,A
+1984-03-03,1983/1984,Coventry City,Birmingham City,0-1,0,1,Football League First Division,1,A
+1984-03-03,1983/1984,Everton,Liverpool,1-1,1,1,Football League First Division,1,D
+1984-03-03,1983/1984,Ipswich Town,West Ham United,0-3,0,3,Football League First Division,1,A
+1984-03-03,1983/1984,Leicester City,Watford,4-1,4,1,Football League First Division,1,H
+1984-03-03,1983/1984,Notts County,West Bromwich Albion,1-1,1,1,Football League First Division,1,D
+1984-03-03,1983/1984,Southampton,Norwich City,2-1,2,1,Football League First Division,1,H
+1984-03-03,1983/1984,Sunderland,Arsenal,2-2,2,2,Football League First Division,1,D
+1984-03-03,1983/1984,Luton Town,Queens Park Rangers,0-0,0,0,Football League First Division,1,D
+1984-03-03,1983/1984,Wolverhampton Wanderers,Nottingham Forest,1-0,1,0,Football League First Division,1,H
+1984-03-03,1983/1984,Tottenham Hotspur,Stoke City,1-0,1,0,Football League First Division,1,H
+1984-03-03,1983/1984,York City,Bristol City,1-1,1,1,Football League Fourth Division,4,D
+1984-03-03,1983/1984,Bury,Colchester United,1-1,1,1,Football League Fourth Division,4,D
+1984-03-03,1983/1984,Chester,Hartlepool United,4-1,4,1,Football League Fourth Division,4,H
+1984-03-03,1983/1984,Crewe Alexandra,Halifax Town,6-1,6,1,Football League Fourth Division,4,H
+1984-03-03,1983/1984,Darlington,Hereford United,0-0,0,0,Football League Fourth Division,4,D
+1984-03-03,1983/1984,Doncaster Rovers,Chesterfield,2-1,2,1,Football League Fourth Division,4,H
+1984-03-03,1983/1984,Mansfield Town,Reading,2-0,2,0,Football League Fourth Division,4,H
+1984-03-03,1983/1984,Peterborough United,Rochdale,2-0,2,0,Football League Fourth Division,4,H
+1984-03-03,1983/1984,Swindon Town,Tranmere Rovers,1-1,1,1,Football League Fourth Division,4,D
+1984-03-03,1983/1984,Torquay United,Northampton Town,2-1,2,1,Football League Fourth Division,4,H
+1984-03-03,1983/1984,Blackpool,Wrexham,4-0,4,0,Football League Fourth Division,4,H
+1984-03-03,1983/1984,Huddersfield Town,Brighton & Hove Albion,0-1,0,1,Football League Second Division,2,A
+1984-03-03,1983/1984,Manchester City,Shrewsbury Town,1-0,1,0,Football League Second Division,2,H
+1984-03-03,1983/1984,Fulham,Newcastle United,2-2,2,2,Football League Second Division,2,D
+1984-03-03,1983/1984,Derby County,Cambridge United,1-0,1,0,Football League Second Division,2,H
+1984-03-03,1983/1984,Crystal Palace,Leeds United,0-0,0,0,Football League Second Division,2,D
+1984-03-03,1983/1984,Grimsby Town,Portsmouth,3-4,3,4,Football League Second Division,2,A
+1984-03-03,1983/1984,Carlisle United,Swansea City,2-0,2,0,Football League Second Division,2,H
+1984-03-03,1983/1984,Cardiff City,Middlesbrough,2-1,2,1,Football League Second Division,2,H
+1984-03-03,1983/1984,Barnsley,Sheffield Wednesday,0-1,0,1,Football League Second Division,2,A
+1984-03-03,1983/1984,Chelsea,Oldham Athletic,3-0,3,0,Football League Second Division,2,H
+1984-03-03,1983/1984,Bristol Rovers,Plymouth Argyle,2-0,2,0,Football League Third Division,3,H
+1984-03-03,1983/1984,Hull City,Bolton Wanderers,1-1,1,1,Football League Third Division,3,D
+1984-03-03,1983/1984,Lincoln City,Newport County,2-3,2,3,Football League Third Division,3,A
+1984-03-03,1983/1984,Millwall,Rotherham United,2-0,2,0,Football League Third Division,3,H
+1984-03-03,1983/1984,Port Vale,Brentford,4-3,4,3,Football League Third Division,3,H
+1984-03-03,1983/1984,Sheffield United,Leyton Orient,6-3,6,3,Football League Third Division,3,H
+1984-03-03,1983/1984,Wigan Athletic,Scunthorpe United,2-0,2,0,Football League Third Division,3,H
+1984-03-03,1983/1984,Wimbledon,Preston North End,2-2,2,2,Football League Third Division,3,D
+1984-03-03,1983/1984,Bradford City,Oxford United,2-2,2,2,Football League Third Division,3,D
+1984-03-03,1983/1984,AFC Bournemouth,Walsall,3-0,3,0,Football League Third Division,3,H
+1984-03-03,1983/1984,Exeter City,Gillingham,0-0,0,0,Football League Third Division,3,D
+1984-03-05,1983/1984,Stockport County,Rochdale,2-1,2,1,Football League Fourth Division,4,H
+1984-03-05,1983/1984,Tranmere Rovers,Halifax Town,3-2,3,2,Football League Fourth Division,4,H
+1984-03-05,1983/1984,Port Vale,Exeter City,2-2,2,2,Football League Third Division,3,D
+1984-03-06,1983/1984,Bury,Torquay United,0-0,0,0,Football League Fourth Division,4,D
+1984-03-06,1983/1984,York City,Crewe Alexandra,5-2,5,2,Football League Fourth Division,4,H
+1984-03-06,1983/1984,Swindon Town,Northampton Town,0-0,0,0,Football League Fourth Division,4,D
+1984-03-06,1983/1984,Mansfield Town,Wrexham,3-4,3,4,Football League Fourth Division,4,A
+1984-03-06,1983/1984,Doncaster Rovers,Bristol City,1-0,1,0,Football League Fourth Division,4,H
+1984-03-06,1983/1984,Walsall,Scunthorpe United,1-1,1,1,Football League Third Division,3,D
+1984-03-06,1983/1984,Wigan Athletic,Millwall,0-0,0,0,Football League Third Division,3,D
+1984-03-06,1983/1984,Preston North End,Burnley,4-2,4,2,Football League Third Division,3,H
+1984-03-06,1983/1984,Sheffield United,Oxford United,1-2,1,2,Football League Third Division,3,A
+1984-03-06,1983/1984,Plymouth Argyle,Brentford,1-1,1,1,Football League Third Division,3,D
+1984-03-06,1983/1984,Newport County,Wimbledon,1-1,1,1,Football League Third Division,3,D
+1984-03-06,1983/1984,Leyton Orient,Bolton Wanderers,2-1,2,1,Football League Third Division,3,H
+1984-03-06,1983/1984,Hull City,AFC Bournemouth,3-1,3,1,Football League Third Division,3,H
+1984-03-06,1983/1984,Bristol Rovers,Rotherham United,2-0,2,0,Football League Third Division,3,H
+1984-03-07,1983/1984,Sunderland,Queens Park Rangers,1-0,1,0,Football League First Division,1,H
+1984-03-07,1983/1984,Reading,Colchester United,1-0,1,0,Football League Fourth Division,4,H
+1984-03-07,1983/1984,Peterborough United,Aldershot,1-2,1,2,Football League Fourth Division,4,A
+1984-03-07,1983/1984,Hereford United,Hartlepool United,5-0,5,0,Football League Fourth Division,4,H
+1984-03-07,1983/1984,Chester,Chesterfield,0-2,0,2,Football League Fourth Division,4,A
+1984-03-07,1983/1984,Sheffield Wednesday,Fulham,1-1,1,1,Football League Second Division,2,D
+1984-03-07,1983/1984,Blackburn Rovers,Swansea City,4-1,4,1,Football League Second Division,2,H
+1984-03-07,1983/1984,Lincoln City,Gillingham,4-0,4,0,Football League Third Division,3,H
+1984-03-09,1983/1984,Halifax Town,Stockport County,2-0,2,0,Football League Fourth Division,4,H
+1984-03-10,1983/1984,Queens Park Rangers,Coventry City,2-1,2,1,Football League First Division,1,H
+1984-03-10,1983/1984,Arsenal,Ipswich Town,4-1,4,1,Football League First Division,1,H
+1984-03-10,1983/1984,Manchester United,Leicester City,2-0,2,0,Football League First Division,1,H
+1984-03-10,1983/1984,Stoke City,Aston Villa,1-0,1,0,Football League First Division,1,H
+1984-03-10,1983/1984,West Ham United,Wolverhampton Wanderers,1-1,1,1,Football League First Division,1,D
+1984-03-10,1983/1984,Liverpool,Tottenham Hotspur,3-1,3,1,Football League First Division,1,H
+1984-03-10,1983/1984,Blackpool,Doncaster Rovers,3-1,3,1,Football League Fourth Division,4,H
+1984-03-10,1983/1984,Aldershot,Chester,5-2,5,2,Football League Fourth Division,4,H
+1984-03-10,1983/1984,Bristol City,Darlington,1-0,1,0,Football League Fourth Division,4,H
+1984-03-10,1983/1984,Torquay United,York City,1-3,1,3,Football League Fourth Division,4,A
+1984-03-10,1983/1984,Colchester United,Mansfield Town,1-0,1,0,Football League Fourth Division,4,H
+1984-03-10,1983/1984,Crewe Alexandra,Bury,2-1,2,1,Football League Fourth Division,4,H
+1984-03-10,1983/1984,Hartlepool United,Swindon Town,0-1,0,1,Football League Fourth Division,4,A
+1984-03-10,1983/1984,Wrexham,Reading,0-3,0,3,Football League Fourth Division,4,A
+1984-03-10,1983/1984,Northampton Town,Hereford United,0-3,0,3,Football League Fourth Division,4,A
+1984-03-10,1983/1984,Rochdale,Tranmere Rovers,2-3,2,3,Football League Fourth Division,4,A
+1984-03-10,1983/1984,Chesterfield,Peterborough United,1-0,1,0,Football League Fourth Division,4,H
+1984-03-10,1983/1984,Brighton & Hove Albion,Manchester City,1-1,1,1,Football League Second Division,2,D
+1984-03-10,1983/1984,Cambridge United,Cardiff City,0-2,0,2,Football League Second Division,2,A
+1984-03-10,1983/1984,Charlton Athletic,Grimsby Town,3-3,3,3,Football League Second Division,2,D
+1984-03-10,1983/1984,Newcastle United,Chelsea,1-1,1,1,Football League Second Division,2,D
+1984-03-10,1983/1984,Oldham Athletic,Crystal Palace,3-2,3,2,Football League Second Division,2,H
+1984-03-10,1983/1984,Portsmouth,Carlisle United,0-1,0,1,Football League Second Division,2,A
+1984-03-10,1983/1984,Shrewsbury Town,Huddersfield Town,1-0,1,0,Football League Second Division,2,H
+1984-03-10,1983/1984,Swansea City,Barnsley,1-0,1,0,Football League Second Division,2,H
+1984-03-10,1983/1984,Leeds United,Blackburn Rovers,1-0,1,0,Football League Second Division,2,H
+1984-03-10,1983/1984,Newport County,Hull City,1-1,1,1,Football League Third Division,3,D
+1984-03-10,1983/1984,Oxford United,Port Vale,2-0,2,0,Football League Third Division,3,H
+1984-03-10,1983/1984,Rotherham United,Preston North End,0-1,0,1,Football League Third Division,3,A
+1984-03-10,1983/1984,Scunthorpe United,Lincoln City,0-0,0,0,Football League Third Division,3,D
+1984-03-10,1983/1984,Wimbledon,Wigan Athletic,2-2,2,2,Football League Third Division,3,D
+1984-03-10,1983/1984,Millwall,Bradford City,0-0,0,0,Football League Third Division,3,D
+1984-03-10,1983/1984,Gillingham,Walsall,1-3,1,3,Football League Third Division,3,A
+1984-03-10,1983/1984,Burnley,Bristol Rovers,0-0,0,0,Football League Third Division,3,D
+1984-03-10,1983/1984,Exeter City,Sheffield United,1-2,1,2,Football League Third Division,3,A
+1984-03-10,1983/1984,AFC Bournemouth,Southend United,1-0,1,0,Football League Third Division,3,H
+1984-03-10,1983/1984,Brentford,Leyton Orient,1-1,1,1,Football League Third Division,3,D
+1984-03-13,1983/1984,Norwich City,Notts County,0-1,0,1,Football League First Division,1,A
+1984-03-13,1983/1984,Luton Town,Ipswich Town,2-1,2,1,Football League First Division,1,H
+1984-03-13,1983/1984,Coventry City,Aston Villa,3-3,3,3,Football League First Division,1,D
+1984-03-13,1983/1984,Nottingham Forest,Everton,1-0,1,0,Football League First Division,1,H
+1984-03-13,1983/1984,Bristol City,Rochdale,1-1,1,1,Football League Fourth Division,4,D
+1984-03-13,1983/1984,Barnsley,Shrewsbury Town,3-0,3,0,Football League Second Division,2,H
+1984-03-13,1983/1984,Oxford United,Gillingham,0-1,0,1,Football League Third Division,3,A
+1984-03-16,1983/1984,Southampton,Liverpool,2-0,2,0,Football League First Division,1,H
+1984-03-16,1983/1984,Stockport County,Chesterfield,2-0,2,0,Football League Fourth Division,4,H
+1984-03-16,1983/1984,Chelsea,Blackburn Rovers,2-1,2,1,Football League Second Division,2,H
+1984-03-17,1983/1984,Aston Villa,Nottingham Forest,1-0,1,0,Football League First Division,1,H
+1984-03-17,1983/1984,Everton,Ipswich Town,1-0,1,0,Football League First Division,1,H
+1984-03-17,1983/1984,Leicester City,West Ham United,4-1,4,1,Football League First Division,1,H
+1984-03-17,1983/1984,Manchester United,Arsenal,4-0,4,0,Football League First Division,1,H
+1984-03-17,1983/1984,Norwich City,Luton Town,0-0,0,0,Football League First Division,1,D
+1984-03-17,1983/1984,Notts County,Coventry City,2-1,2,1,Football League First Division,1,H
+1984-03-17,1983/1984,Tottenham Hotspur,West Bromwich Albion,0-1,0,1,Football League First Division,1,A
+1984-03-17,1983/1984,Watford,Queens Park Rangers,1-0,1,0,Football League First Division,1,H
+1984-03-17,1983/1984,Wolverhampton Wanderers,Sunderland,0-0,0,0,Football League First Division,1,D
+1984-03-17,1983/1984,Stoke City,Birmingham City,2-1,2,1,Football League First Division,1,H
+1984-03-17,1983/1984,Chester,Darlington,2-1,2,1,Football League Fourth Division,4,H
+1984-03-17,1983/1984,Doncaster Rovers,Peterborough United,1-1,1,1,Football League Fourth Division,4,D
+1984-03-17,1983/1984,Halifax Town,Bristol City,1-2,1,2,Football League Fourth Division,4,A
+1984-03-17,1983/1984,Hartlepool United,Torquay United,2-1,2,1,Football League Fourth Division,4,H
+1984-03-17,1983/1984,Hereford United,Wrexham,3-0,3,0,Football League Fourth Division,4,H
+1984-03-17,1983/1984,Mansfield Town,Bury,1-1,1,1,Football League Fourth Division,4,D
+1984-03-17,1983/1984,Reading,Northampton Town,3-0,3,0,Football League Fourth Division,4,H
+1984-03-17,1983/1984,Rochdale,Blackpool,1-0,1,0,Football League Fourth Division,4,H
+1984-03-17,1983/1984,Tranmere Rovers,Aldershot,3-0,3,0,Football League Fourth Division,4,H
+1984-03-17,1983/1984,Colchester United,York City,1-3,1,3,Football League Fourth Division,4,A
+1984-03-17,1983/1984,Oldham Athletic,Swansea City,3-3,3,3,Football League Second Division,2,D
+1984-03-17,1983/1984,Cambridge United,Sheffield Wednesday,1-2,1,2,Football League Second Division,2,A
+1984-03-17,1983/1984,Cardiff City,Shrewsbury Town,2-0,2,0,Football League Second Division,2,H
+1984-03-17,1983/1984,Carlisle United,Charlton Athletic,3-0,3,0,Football League Second Division,2,H
+1984-03-17,1983/1984,Crystal Palace,Huddersfield Town,0-0,0,0,Football League Second Division,2,D
+1984-03-17,1983/1984,Derby County,Brighton & Hove Albion,0-3,0,3,Football League Second Division,2,A
+1984-03-17,1983/1984,Fulham,Manchester City,5-1,5,1,Football League Second Division,2,H
+1984-03-17,1983/1984,Leeds United,Grimsby Town,2-1,2,1,Football League Second Division,2,H
+1984-03-17,1983/1984,Newcastle United,Middlesbrough,3-1,3,1,Football League Second Division,2,H
+1984-03-17,1983/1984,Barnsley,Portsmouth,0-3,0,3,Football League Second Division,2,A
+1984-03-17,1983/1984,Scunthorpe United,Bradford City,2-1,2,1,Football League Third Division,3,H
+1984-03-17,1983/1984,Sheffield United,Hull City,2-2,2,2,Football League Third Division,3,D
+1984-03-17,1983/1984,Preston North End,Gillingham,2-2,2,2,Football League Third Division,3,D
+1984-03-17,1983/1984,Burnley,Millwall,1-0,1,0,Football League Third Division,3,H
+1984-03-17,1983/1984,Lincoln City,Wigan Athletic,0-1,0,1,Football League Third Division,3,A
+1984-03-17,1983/1984,Leyton Orient,Newport County,2-2,2,2,Football League Third Division,3,D
+1984-03-17,1983/1984,Walsall,Rotherham United,2-2,2,2,Football League Third Division,3,D
+1984-03-17,1983/1984,Plymouth Argyle,AFC Bournemouth,1-0,1,0,Football League Third Division,3,H
+1984-03-17,1983/1984,Bristol Rovers,Wimbledon,1-1,1,1,Football League Third Division,3,D
+1984-03-17,1983/1984,Brentford,Oxford United,1-2,1,2,Football League Third Division,3,A
+1984-03-17,1983/1984,Bolton Wanderers,Exeter City,1-0,1,0,Football League Third Division,3,H
+1984-03-18,1983/1984,Chesterfield,Torquay United,3-2,3,2,Football League Fourth Division,4,H
+1984-03-18,1983/1984,Swindon Town,Crewe Alexandra,1-0,1,0,Football League Fourth Division,4,H
+1984-03-19,1983/1984,Southend United,Port Vale,1-2,1,2,Football League Third Division,3,A
+1984-03-20,1983/1984,Everton,Leicester City,1-1,1,1,Football League First Division,1,D
+1984-03-20,1983/1984,Watford,Sunderland,2-1,2,1,Football League First Division,1,H
+1984-03-20,1983/1984,Birmingham City,Luton Town,1-1,1,1,Football League First Division,1,D
+1984-03-20,1983/1984,Northampton Town,Blackpool,1-5,1,5,Football League Fourth Division,4,A
+1984-03-20,1983/1984,Middlesbrough,Derby County,0-0,0,0,Football League Second Division,2,D
+1984-03-20,1983/1984,Plymouth Argyle,Millwall,0-1,0,1,Football League Third Division,3,A
+1984-03-20,1983/1984,Wigan Athletic,AFC Bournemouth,1-3,1,3,Football League Third Division,3,A
+1984-03-20,1983/1984,Brentford,Rotherham United,2-1,2,1,Football League Third Division,3,H
+1984-03-21,1983/1984,Blackburn Rovers,Charlton Athletic,1-1,1,1,Football League Second Division,2,D
+1984-03-23,1983/1984,Crewe Alexandra,Reading,1-1,1,1,Football League Fourth Division,4,D
+1984-03-23,1983/1984,Exeter City,Southend United,3-3,3,3,Football League Third Division,3,D
+1984-03-24,1983/1984,Queens Park Rangers,Southampton,4-0,4,0,Football League First Division,1,H
+1984-03-24,1983/1984,Birmingham City,Notts County,0-0,0,0,Football League First Division,1,D
+1984-03-24,1983/1984,Coventry City,Tottenham Hotspur,2-4,2,4,Football League First Division,1,A
+1984-03-24,1983/1984,Ipswich Town,Watford,0-0,0,0,Football League First Division,1,D
+1984-03-24,1983/1984,Luton Town,Leicester City,0-0,0,0,Football League First Division,1,D
+1984-03-24,1983/1984,Sunderland,Aston Villa,0-1,0,1,Football League First Division,1,A
+1984-03-24,1983/1984,Arsenal,Wolverhampton Wanderers,4-1,4,1,Football League First Division,1,H
+1984-03-24,1983/1984,West Bromwich Albion,Stoke City,3-0,3,0,Football League First Division,1,H
+1984-03-24,1983/1984,Aldershot,Doncaster Rovers,2-1,2,1,Football League Fourth Division,4,H
+1984-03-24,1983/1984,Blackpool,Chester,3-3,3,3,Football League Fourth Division,4,D
+1984-03-24,1983/1984,Bristol City,Tranmere Rovers,1-1,1,1,Football League Fourth Division,4,D
+1984-03-24,1983/1984,Northampton Town,Colchester United,3-1,3,1,Football League Fourth Division,4,H
+1984-03-24,1983/1984,Chesterfield,Rochdale,3-0,3,0,Football League Fourth Division,4,H
+1984-03-24,1983/1984,Peterborough United,Halifax Town,4-0,4,0,Football League Fourth Division,4,H
+1984-03-24,1983/1984,Torquay United,Mansfield Town,1-0,1,0,Football League Fourth Division,4,H
+1984-03-24,1983/1984,Wrexham,Hartlepool United,1-4,1,4,Football League Fourth Division,4,A
+1984-03-24,1983/1984,York City,Swindon Town,2-0,2,0,Football League Fourth Division,4,H
+1984-03-24,1983/1984,Bury,Hereford United,1-4,1,4,Football League Fourth Division,4,A
+1984-03-24,1983/1984,Shrewsbury Town,Newcastle United,2-2,2,2,Football League Second Division,2,D
+1984-03-24,1983/1984,Brighton & Hove Albion,Leeds United,3-0,3,0,Football League Second Division,2,H
+1984-03-24,1983/1984,Charlton Athletic,Oldham Athletic,2-1,2,1,Football League Second Division,2,H
+1984-03-24,1983/1984,Huddersfield Town,Cambridge United,3-0,3,0,Football League Second Division,2,H
+1984-03-24,1983/1984,Manchester City,Cardiff City,2-1,2,1,Football League Second Division,2,H
+1984-03-24,1983/1984,Middlesbrough,Fulham,0-2,0,2,Football League Second Division,2,A
+1984-03-24,1983/1984,Portsmouth,Crystal Palace,0-1,0,1,Football League Second Division,2,A
+1984-03-24,1983/1984,Blackburn Rovers,Carlisle United,4-1,4,1,Football League Second Division,2,H
+1984-03-24,1983/1984,Newport County,Bolton Wanderers,2-3,2,3,Football League Third Division,3,A
+1984-03-24,1983/1984,Oxford United,Plymouth Argyle,5-0,5,0,Football League Third Division,3,H
+1984-03-24,1983/1984,Wigan Athletic,Preston North End,1-0,1,0,Football League Third Division,3,H
+1984-03-24,1983/1984,Wimbledon,Walsall,2-0,2,0,Football League Third Division,3,H
+1984-03-24,1983/1984,Hull City,Brentford,2-0,2,0,Football League Third Division,3,H
+1984-03-24,1983/1984,Gillingham,Burnley,0-1,0,1,Football League Third Division,3,A
+1984-03-24,1983/1984,AFC Bournemouth,Sheffield United,0-1,0,1,Football League Third Division,3,A
+1984-03-27,1983/1984,Hartlepool United,Peterborough United,1-1,1,1,Football League Fourth Division,4,D
+1984-03-27,1983/1984,Mansfield Town,Bristol City,0-1,0,1,Football League Fourth Division,4,A
+1984-03-27,1983/1984,Darlington,Crewe Alexandra,2-0,2,0,Football League Fourth Division,4,H
+1984-03-27,1983/1984,Rochdale,York City,0-2,0,2,Football League Fourth Division,4,A
+1984-03-27,1983/1984,Walsall,Hull City,2-1,2,1,Football League Third Division,3,H
+1984-03-27,1983/1984,Newport County,Gillingham,1-0,1,0,Football League Third Division,3,H
+1984-03-27,1983/1984,Burnley,Oxford United,1-1,1,1,Football League Third Division,3,D
+1984-03-27,1983/1984,Bristol Rovers,Wigan Athletic,2-1,2,1,Football League Third Division,3,H
+1984-03-27,1983/1984,Bolton Wanderers,Bradford City,0-2,0,2,Football League Third Division,3,A
+1984-03-27,1983/1984,Scunthorpe United,Sheffield United,1-1,1,1,Football League Third Division,3,D
+1984-03-28,1983/1984,Newcastle United,Leeds United,1-0,1,0,Football League Second Division,2,H
+1984-03-30,1983/1984,Halifax Town,Swindon Town,2-1,2,1,Football League Fourth Division,4,H
+1984-03-30,1983/1984,Tranmere Rovers,Northampton Town,1-0,1,0,Football League Fourth Division,4,H
+1984-03-30,1983/1984,Wrexham,Stockport County,1-2,1,2,Football League Fourth Division,4,A
+1984-03-30,1983/1984,Shrewsbury Town,Blackburn Rovers,1-0,1,0,Football League Second Division,2,H
+1984-03-30,1983/1984,Plymouth Argyle,Rotherham United,1-1,1,1,Football League Third Division,3,D
+1984-03-30,1983/1984,Preston North End,Newport County,2-0,2,0,Football League Third Division,3,H
+1984-03-31,1983/1984,Birmingham City,Aston Villa,2-1,2,1,Football League First Division,1,H
+1984-03-31,1983/1984,Coventry City,Arsenal,1-4,1,4,Football League First Division,1,A
+1984-03-31,1983/1984,Everton,Southampton,1-0,1,0,Football League First Division,1,H
+1984-03-31,1983/1984,Ipswich Town,Luton Town,3-0,3,0,Football League First Division,1,H
+1984-03-31,1983/1984,Leicester City,Norwich City,2-1,2,1,Football League First Division,1,H
+1984-03-31,1983/1984,Notts County,Nottingham Forest,0-0,0,0,Football League First Division,1,D
+1984-03-31,1983/1984,Tottenham Hotspur,Wolverhampton Wanderers,1-0,1,0,Football League First Division,1,H
+1984-03-31,1983/1984,Stoke City,Sunderland,2-1,2,1,Football League First Division,1,H
+1984-03-31,1983/1984,West Bromwich Albion,Manchester United,2-0,2,0,Football League First Division,1,H
+1984-03-31,1983/1984,West Ham United,Queens Park Rangers,2-2,2,2,Football League First Division,1,D
+1984-03-31,1983/1984,Watford,Liverpool,0-2,0,2,Football League First Division,1,A
+1984-03-31,1983/1984,Aldershot,Crewe Alexandra,0-0,0,0,Football League Fourth Division,4,D
+1984-03-31,1983/1984,Bristol City,Colchester United,4-1,4,1,Football League Fourth Division,4,H
+1984-03-31,1983/1984,Hartlepool United,Rochdale,1-2,1,2,Football League Fourth Division,4,A
+1984-03-31,1983/1984,Hereford United,Chesterfield,3-1,3,1,Football League Fourth Division,4,H
+1984-03-31,1983/1984,Mansfield Town,Blackpool,1-1,1,1,Football League Fourth Division,4,D
+1984-03-31,1983/1984,Portsmouth,Brighton & Hove Albion,5-1,5,1,Football League Second Division,2,H
+1984-03-31,1983/1984,Middlesbrough,Oldham Athletic,3-2,3,2,Football League Second Division,2,H
+1984-03-31,1983/1984,Newcastle United,Swansea City,2-0,2,0,Football League Second Division,2,H
+1984-03-31,1983/1984,Leeds United,Sheffield Wednesday,1-1,1,1,Football League Second Division,2,D
+1984-03-31,1983/1984,Barnsley,Derby County,5-1,5,1,Football League Second Division,2,H
+1984-03-31,1983/1984,Cardiff City,Chelsea,3-3,3,3,Football League Second Division,2,D
+1984-03-31,1983/1984,Fulham,Carlisle United,0-0,0,0,Football League Second Division,2,D
+1984-03-31,1983/1984,Grimsby Town,Huddersfield Town,2-1,2,1,Football League Second Division,2,H
+1984-03-31,1983/1984,Manchester City,Charlton Athletic,0-1,0,1,Football League Second Division,2,A
+1984-03-31,1983/1984,Hull City,Bradford City,1-0,1,0,Football League Third Division,3,H
+1984-03-31,1983/1984,Gillingham,Leyton Orient,3-1,3,1,Football League Third Division,3,H
+1984-03-31,1983/1984,Lincoln City,Exeter City,1-1,1,1,Football League Third Division,3,D
+1984-03-31,1983/1984,Brentford,Bristol Rovers,2-2,2,2,Football League Third Division,3,D
+1984-03-31,1983/1984,AFC Bournemouth,Wimbledon,2-3,2,3,Football League Third Division,3,A
+1984-03-31,1983/1984,Burnley,Bolton Wanderers,2-2,2,2,Football League Third Division,3,D
+1984-03-31,1983/1984,Oxford United,Scunthorpe United,1-0,1,0,Football League Third Division,3,H
+1984-03-31,1983/1984,Wigan Athletic,Port Vale,3-0,3,0,Football League Third Division,3,H
+1984-03-31,1983/1984,Sheffield United,Walsall,2-0,2,0,Football League Third Division,3,H
+1984-04-01,1983/1984,Peterborough United,York City,0-2,0,2,Football League Fourth Division,4,A
+1984-04-01,1983/1984,Bury,Darlington,0-3,0,3,Football League Fourth Division,4,A
+1984-04-01,1983/1984,Crystal Palace,Cambridge United,1-1,1,1,Football League Second Division,2,D
+1984-04-02,1983/1984,Port Vale,Rotherham United,2-3,2,3,Football League Third Division,3,A
+1984-04-03,1983/1984,Wigan Athletic,Plymouth Argyle,1-1,1,1,Football League Third Division,3,D
+1984-04-03,1983/1984,Brentford,Preston North End,4-1,4,1,Football League Third Division,3,H
+1984-04-04,1983/1984,Hereford United,Colchester United,1-1,1,1,Football League Fourth Division,4,D
+1984-04-06,1983/1984,Stockport County,Mansfield Town,0-4,0,4,Football League Fourth Division,4,A
+1984-04-06,1983/1984,Southend United,Preston North End,1-1,1,1,Football League Third Division,3,D
+1984-04-07,1983/1984,Arsenal,Stoke City,3-1,3,1,Football League First Division,1,H
+1984-04-07,1983/1984,Aston Villa,Coventry City,2-0,2,0,Football League First Division,1,H
+1984-04-07,1983/1984,Liverpool,West Ham United,6-0,6,0,Football League First Division,1,H
+1984-04-07,1983/1984,Luton Town,Everton,0-3,0,3,Football League First Division,1,A
+1984-04-07,1983/1984,Manchester United,Birmingham City,1-0,1,0,Football League First Division,1,H
+1984-04-07,1983/1984,Nottingham Forest,West Bromwich Albion,3-1,3,1,Football League First Division,1,H
+1984-04-07,1983/1984,Queens Park Rangers,Ipswich Town,1-0,1,0,Football League First Division,1,H
+1984-04-07,1983/1984,Southampton,Leicester City,2-2,2,2,Football League First Division,1,D
+1984-04-07,1983/1984,Sunderland,Tottenham Hotspur,1-1,1,1,Football League First Division,1,D
+1984-04-07,1983/1984,Norwich City,Watford,6-1,6,1,Football League First Division,1,H
+1984-04-07,1983/1984,Wolverhampton Wanderers,Notts County,0-1,0,1,Football League First Division,1,A
+1984-04-07,1983/1984,Swindon Town,Aldershot,0-2,0,2,Football League Fourth Division,4,A
+1984-04-07,1983/1984,Chester,Hereford United,0-1,0,1,Football League Fourth Division,4,A
+1984-04-07,1983/1984,Blackpool,Bury,1-1,1,1,Football League Fourth Division,4,D
+1984-04-07,1983/1984,Chesterfield,Hartlepool United,4-1,4,1,Football League Fourth Division,4,H
+1984-04-07,1983/1984,Colchester United,Tranmere Rovers,0-1,0,1,Football League Fourth Division,4,A
+1984-04-07,1983/1984,Crewe Alexandra,Peterborough United,0-1,0,1,Football League Fourth Division,4,A
+1984-04-07,1983/1984,Darlington,Torquay United,0-1,0,1,Football League Fourth Division,4,A
+1984-04-07,1983/1984,Northampton Town,Halifax Town,1-1,1,1,Football League Fourth Division,4,D
+1984-04-07,1983/1984,Reading,Bristol City,2-0,2,0,Football League Fourth Division,4,H
+1984-04-07,1983/1984,Rochdale,Wrexham,1-2,1,2,Football League Fourth Division,4,A
+1984-04-07,1983/1984,Swansea City,Manchester City,0-2,0,2,Football League Second Division,2,A
+1984-04-07,1983/1984,Oldham Athletic,Shrewsbury Town,0-1,0,1,Football League Second Division,2,A
+1984-04-07,1983/1984,Blackburn Rovers,Middlesbrough,1-0,1,0,Football League Second Division,2,H
+1984-04-07,1983/1984,Derby County,Crystal Palace,3-0,3,0,Football League Second Division,2,H
+1984-04-07,1983/1984,Chelsea,Fulham,4-0,4,0,Football League Second Division,2,H
+1984-04-07,1983/1984,Charlton Athletic,Newcastle United,1-3,1,3,Football League Second Division,2,A
+1984-04-07,1983/1984,Huddersfield Town,Barnsley,0-1,0,1,Football League Second Division,2,A
+1984-04-07,1983/1984,Cambridge United,Leeds United,2-2,2,2,Football League Second Division,2,D
+1984-04-07,1983/1984,Brighton & Hove Albion,Grimsby Town,2-0,2,0,Football League Second Division,2,H
+1984-04-07,1983/1984,Carlisle United,Cardiff City,1-1,1,1,Football League Second Division,2,D
+1984-04-07,1983/1984,Sheffield Wednesday,Portsmouth,2-0,2,0,Football League Second Division,2,H
+1984-04-07,1983/1984,Bolton Wanderers,Gillingham,0-1,0,1,Football League Third Division,3,A
+1984-04-07,1983/1984,Bradford City,Sheffield United,2-1,2,1,Football League Third Division,3,H
+1984-04-07,1983/1984,Bristol Rovers,AFC Bournemouth,1-3,1,3,Football League Third Division,3,A
+1984-04-07,1983/1984,Leyton Orient,Lincoln City,1-1,1,1,Football League Third Division,3,D
+1984-04-07,1983/1984,Newport County,Burnley,1-0,1,0,Football League Third Division,3,H
+1984-04-07,1983/1984,Rotherham United,Brentford,4-0,4,0,Football League Third Division,3,H
+1984-04-07,1983/1984,Scunthorpe United,Plymouth Argyle,3-0,3,0,Football League Third Division,3,H
+1984-04-07,1983/1984,Walsall,Oxford United,0-1,0,1,Football League Third Division,3,A
+1984-04-07,1983/1984,Wimbledon,Hull City,1-4,1,4,Football League Third Division,3,A
+1984-04-07,1983/1984,Exeter City,Wigan Athletic,1-1,1,1,Football League Third Division,3,D
+1984-04-08,1983/1984,York City,Doncaster Rovers,1-1,1,1,Football League Fourth Division,4,D
+1984-04-09,1983/1984,Everton,Arsenal,0-0,0,0,Football League First Division,1,D
+1984-04-09,1983/1984,AFC Bournemouth,Burnley,1-0,1,0,Football League Third Division,3,H
+1984-04-09,1983/1984,Port Vale,Leyton Orient,2-0,2,0,Football League Third Division,3,H
+1984-04-10,1983/1984,Northampton Town,Hartlepool United,1-1,1,1,Football League Fourth Division,4,D
+1984-04-10,1983/1984,Mansfield Town,Halifax Town,7-1,7,1,Football League Fourth Division,4,H
+1984-04-10,1983/1984,Blackpool,Stockport County,1-1,1,1,Football League Fourth Division,4,D
+1984-04-10,1983/1984,Sheffield Wednesday,Derby County,3-1,3,1,Football League Second Division,2,H
+1984-04-10,1983/1984,Grimsby Town,Barnsley,1-0,1,0,Football League Second Division,2,H
+1984-04-10,1983/1984,Rotherham United,Southend United,0-0,0,0,Football League Third Division,3,D
+1984-04-10,1983/1984,Plymouth Argyle,Wimbledon,1-2,1,2,Football League Third Division,3,A
+1984-04-10,1983/1984,Hull City,Preston North End,3-0,3,0,Football League Third Division,3,H
+1984-04-11,1983/1984,Bradford City,Gillingham,3-2,3,2,Football League Third Division,3,H
+1984-04-11,1983/1984,Exeter City,Scunthorpe United,1-1,1,1,Football League Third Division,3,D
+1984-04-13,1983/1984,Halifax Town,Reading,0-1,0,1,Football League Fourth Division,4,A
+1984-04-14,1983/1984,Birmingham City,Queens Park Rangers,0-2,0,2,Football League First Division,1,A
+1984-04-14,1983/1984,Coventry City,Wolverhampton Wanderers,2-1,2,1,Football League First Division,1,H
+1984-04-14,1983/1984,Ipswich Town,Nottingham Forest,2-2,2,2,Football League First Division,1,D
+1984-04-14,1983/1984,Leicester City,Aston Villa,2-0,2,0,Football League First Division,1,H
+1984-04-14,1983/1984,Notts County,Manchester United,1-0,1,0,Football League First Division,1,H
+1984-04-14,1983/1984,Stoke City,Liverpool,2-0,2,0,Football League First Division,1,H
+1984-04-14,1983/1984,West Bromwich Albion,Norwich City,0-0,0,0,Football League First Division,1,D
+1984-04-14,1983/1984,West Ham United,Sunderland,0-1,0,1,Football League First Division,1,A
+1984-04-14,1983/1984,Tottenham Hotspur,Luton Town,2-1,2,1,Football League First Division,1,H
+1984-04-14,1983/1984,Aldershot,York City,1-4,1,4,Football League Fourth Division,4,A
+1984-04-14,1983/1984,Doncaster Rovers,Swindon Town,3-0,3,0,Football League Fourth Division,4,H
+1984-04-14,1983/1984,Bury,Chester,2-1,2,1,Football League Fourth Division,4,H
+1984-04-14,1983/1984,Hartlepool United,Colchester United,0-0,0,0,Football League Fourth Division,4,D
+1984-04-14,1983/1984,Hereford United,Rochdale,2-1,2,1,Football League Fourth Division,4,H
+1984-04-14,1983/1984,Mansfield Town,Darlington,1-0,1,0,Football League Fourth Division,4,H
+1984-04-14,1983/1984,Peterborough United,Blackpool,4-0,4,0,Football League Fourth Division,4,H
+1984-04-14,1983/1984,Torquay United,Stockport County,1-1,1,1,Football League Fourth Division,4,D
+1984-04-14,1983/1984,Tranmere Rovers,Chesterfield,0-3,0,3,Football League Fourth Division,4,A
+1984-04-14,1983/1984,Wrexham,Crewe Alexandra,0-1,0,1,Football League Fourth Division,4,A
+1984-04-14,1983/1984,Bristol City,Northampton Town,4-1,4,1,Football League Fourth Division,4,H
+1984-04-14,1983/1984,Middlesbrough,Cambridge United,1-1,1,1,Football League Second Division,2,D
+1984-04-14,1983/1984,Shrewsbury Town,Brighton & Hove Albion,2-1,2,1,Football League Second Division,2,H
+1984-04-14,1983/1984,Barnsley,Charlton Athletic,2-0,2,0,Football League Second Division,2,H
+1984-04-14,1983/1984,Crystal Palace,Chelsea,0-1,0,1,Football League Second Division,2,A
+1984-04-14,1983/1984,Fulham,Huddersfield Town,0-2,0,2,Football League Second Division,2,A
+1984-04-14,1983/1984,Grimsby Town,Swansea City,3-0,3,0,Football League Second Division,2,H
+1984-04-14,1983/1984,Leeds United,Derby County,0-0,0,0,Football League Second Division,2,D
+1984-04-14,1983/1984,Manchester City,Carlisle United,3-1,3,1,Football League Second Division,2,H
+1984-04-14,1983/1984,Newcastle United,Sheffield Wednesday,0-1,0,1,Football League Second Division,2,A
+1984-04-14,1983/1984,Portsmouth,Blackburn Rovers,2-4,2,4,Football League Second Division,2,A
+1984-04-14,1983/1984,Cardiff City,Oldham Athletic,2-0,2,0,Football League Second Division,2,H
+1984-04-14,1983/1984,Gillingham,Port Vale,1-1,1,1,Football League Third Division,3,D
+1984-04-14,1983/1984,Hull City,Exeter City,1-0,1,0,Football League Third Division,3,H
+1984-04-14,1983/1984,Lincoln City,Wimbledon,1-2,1,2,Football League Third Division,3,A
+1984-04-14,1983/1984,Millwall,Walsall,2-0,2,0,Football League Third Division,3,H
+1984-04-14,1983/1984,Oxford United,Southend United,2-1,2,1,Football League Third Division,3,H
+1984-04-14,1983/1984,Preston North End,Leyton Orient,3-1,3,1,Football League Third Division,3,H
+1984-04-14,1983/1984,Sheffield United,Bristol Rovers,4-0,4,0,Football League Third Division,3,H
+1984-04-14,1983/1984,Wigan Athletic,Newport County,1-0,1,0,Football League Third Division,3,H
+1984-04-14,1983/1984,Burnley,Rotherham United,2-2,2,2,Football League Third Division,3,D
+1984-04-14,1983/1984,Brentford,Bolton Wanderers,3-0,3,0,Football League Third Division,3,H
+1984-04-14,1983/1984,AFC Bournemouth,Scunthorpe United,1-1,1,1,Football League Third Division,3,D
+1984-04-16,1983/1984,Bolton Wanderers,Plymouth Argyle,2-1,2,1,Football League Third Division,3,H
+1984-04-16,1983/1984,Southend United,Bradford City,2-1,2,1,Football League Third Division,3,H
+1984-04-17,1983/1984,West Ham United,Luton Town,3-1,3,1,Football League First Division,1,H
+1984-04-17,1983/1984,Watford,Manchester United,0-0,0,0,Football League First Division,1,D
+1984-04-17,1983/1984,Southampton,Everton,3-1,3,1,Football League First Division,1,H
+1984-04-17,1983/1984,Coventry City,Nottingham Forest,2-1,2,1,Football League First Division,1,H
+1984-04-17,1983/1984,Rochdale,Colchester United,0-0,0,0,Football League Fourth Division,4,D
+1984-04-17,1983/1984,Bristol City,Crewe Alexandra,2-1,2,1,Football League Fourth Division,4,H
+1984-04-17,1983/1984,Swindon Town,Darlington,1-0,1,0,Football League Fourth Division,4,H
+1984-04-17,1983/1984,Cardiff City,Crystal Palace,0-2,0,2,Football League Second Division,2,A
+1984-04-17,1983/1984,Scunthorpe United,Port Vale,1-1,1,1,Football League Third Division,3,D
+1984-04-17,1983/1984,Wigan Athletic,Bristol Rovers,0-0,0,0,Football League Third Division,3,D
+1984-04-17,1983/1984,Rotherham United,AFC Bournemouth,1-0,1,0,Football League Third Division,3,H
+1984-04-17,1983/1984,Hull City,Gillingham,0-0,0,0,Football League Third Division,3,D
+1984-04-18,1983/1984,Leicester City,Liverpool,3-3,3,3,Football League First Division,1,D
+1984-04-18,1983/1984,Tottenham Hotspur,Aston Villa,2-1,2,1,Football League First Division,1,H
+1984-04-18,1983/1984,Chester,York City,1-1,1,1,Football League Fourth Division,4,D
+1984-04-18,1983/1984,Millwall,Southend United,4-0,4,0,Football League Third Division,3,H
+1984-04-20,1983/1984,Wrexham,Swindon Town,0-3,0,3,Football League Fourth Division,4,A
+1984-04-20,1983/1984,Hartlepool United,Blackpool,0-1,0,1,Football League Fourth Division,4,A
+1984-04-20,1983/1984,York City,Halifax Town,4-1,4,1,Football League Fourth Division,4,H
+1984-04-20,1983/1984,Oldham Athletic,Manchester City,2-2,2,2,Football League Second Division,2,D
+1984-04-20,1983/1984,Carlisle United,Middlesbrough,1-1,1,1,Football League Second Division,2,D
+1984-04-20,1983/1984,Blackburn Rovers,Newcastle United,1-1,1,1,Football League Second Division,2,D
+1984-04-20,1983/1984,Southend United,Gillingham,3-1,3,1,Football League Third Division,3,H
+1984-04-20,1983/1984,Plymouth Argyle,Newport County,0-1,0,1,Football League Third Division,3,A
+1984-04-20,1983/1984,Brentford,Exeter City,3-0,3,0,Football League Third Division,3,H
+1984-04-20,1983/1984,Oxford United,Bolton Wanderers,5-0,5,0,Football League Third Division,3,H
+1984-04-21,1983/1984,Liverpool,West Bromwich Albion,3-0,3,0,Football League First Division,1,H
+1984-04-21,1983/1984,Arsenal,Tottenham Hotspur,3-2,3,2,Football League First Division,1,H
+1984-04-21,1983/1984,Aston Villa,Watford,2-1,2,1,Football League First Division,1,H
+1984-04-21,1983/1984,Luton Town,Notts County,3-2,3,2,Football League First Division,1,H
+1984-04-21,1983/1984,Norwich City,Stoke City,2-2,2,2,Football League First Division,1,D
+1984-04-21,1983/1984,Nottingham Forest,Birmingham City,5-1,5,1,Football League First Division,1,H
+1984-04-21,1983/1984,Queens Park Rangers,Leicester City,2-0,2,0,Football League First Division,1,H
+1984-04-21,1983/1984,Southampton,West Ham United,2-0,2,0,Football League First Division,1,H
+1984-04-21,1983/1984,Sunderland,Everton,2-1,2,1,Football League First Division,1,H
+1984-04-21,1983/1984,Manchester United,Coventry City,4-1,4,1,Football League First Division,1,H
+1984-04-21,1983/1984,Wolverhampton Wanderers,Ipswich Town,0-3,0,3,Football League First Division,1,A
+1984-04-21,1983/1984,Blackpool,Tranmere Rovers,0-1,0,1,Football League Fourth Division,4,A
+1984-04-21,1983/1984,Chester,Wrexham,1-0,1,0,Football League Fourth Division,4,H
+1984-04-21,1983/1984,Colchester United,Peterborough United,1-1,1,1,Football League Fourth Division,4,D
+1984-04-21,1983/1984,Crewe Alexandra,Hereford United,1-1,1,1,Football League Fourth Division,4,D
+1984-04-21,1983/1984,Darlington,Hartlepool United,2-0,2,0,Football League Fourth Division,4,H
+1984-04-21,1983/1984,Northampton Town,Doncaster Rovers,1-4,1,4,Football League Fourth Division,4,A
+1984-04-21,1983/1984,Reading,Aldershot,1-0,1,0,Football League Fourth Division,4,H
+1984-04-21,1983/1984,Rochdale,Bury,0-2,0,2,Football League Fourth Division,4,A
+1984-04-21,1983/1984,Stockport County,Bristol City,0-0,0,0,Football League Fourth Division,4,D
+1984-04-21,1983/1984,Swindon Town,Torquay United,2-3,2,3,Football League Fourth Division,4,A
+1984-04-21,1983/1984,Chesterfield,Mansfield Town,0-0,0,0,Football League Fourth Division,4,D
+1984-04-21,1983/1984,Brighton & Hove Albion,Crystal Palace,3-1,3,1,Football League Second Division,2,H
+1984-04-21,1983/1984,Cambridge United,Barnsley,0-3,0,3,Football League Second Division,2,A
+1984-04-21,1983/1984,Charlton Athletic,Portsmouth,2-1,2,1,Football League Second Division,2,H
+1984-04-21,1983/1984,Chelsea,Shrewsbury Town,3-0,3,0,Football League Second Division,2,H
+1984-04-21,1983/1984,Derby County,Fulham,1-0,1,0,Football League Second Division,2,H
+1984-04-21,1983/1984,Huddersfield Town,Leeds United,2-2,2,2,Football League Second Division,2,D
+1984-04-21,1983/1984,Sheffield Wednesday,Grimsby Town,1-0,1,0,Football League Second Division,2,H
+1984-04-21,1983/1984,Swansea City,Cardiff City,3-2,3,2,Football League Second Division,2,H
+1984-04-21,1983/1984,Leyton Orient,Millwall,5-3,5,3,Football League Third Division,3,H
+1984-04-21,1983/1984,Newport County,AFC Bournemouth,2-1,2,1,Football League Third Division,3,H
+1984-04-21,1983/1984,Port Vale,Preston North End,1-1,1,1,Football League Third Division,3,D
+1984-04-21,1983/1984,Rotherham United,Sheffield United,0-1,0,1,Football League Third Division,3,A
+1984-04-21,1983/1984,Scunthorpe United,Hull City,2-0,2,0,Football League Third Division,3,H
+1984-04-21,1983/1984,Walsall,Lincoln City,0-1,0,1,Football League Third Division,3,A
+1984-04-21,1983/1984,Wimbledon,Brentford,2-1,2,1,Football League Third Division,3,H
+1984-04-21,1983/1984,Exeter City,Plymouth Argyle,1-1,1,1,Football League Third Division,3,D
+1984-04-21,1983/1984,Bristol Rovers,Oxford United,1-1,1,1,Football League Third Division,3,D
+1984-04-21,1983/1984,Bolton Wanderers,Wigan Athletic,0-1,0,1,Football League Third Division,3,A
+1984-04-21,1983/1984,Bradford City,Burnley,2-1,2,1,Football League Third Division,3,H
+1984-04-23,1983/1984,Birmingham City,Arsenal,1-1,1,1,Football League First Division,1,D
+1984-04-23,1983/1984,Everton,Wolverhampton Wanderers,2-0,2,0,Football League First Division,1,H
+1984-04-23,1983/1984,Ipswich Town,Norwich City,2-0,2,0,Football League First Division,1,H
+1984-04-23,1983/1984,Stoke City,Queens Park Rangers,1-2,1,2,Football League First Division,1,A
+1984-04-23,1983/1984,West Bromwich Albion,Sunderland,3-1,3,1,Football League First Division,1,H
+1984-04-23,1983/1984,Tranmere Rovers,York City,0-1,0,1,Football League Fourth Division,4,A
+1984-04-23,1983/1984,Hereford United,Stockport County,2-0,2,0,Football League Fourth Division,4,H
+1984-04-23,1983/1984,Bury,Chesterfield,2-0,2,0,Football League Fourth Division,4,H
+1984-04-23,1983/1984,Halifax Town,Rochdale,5-0,5,0,Football League Fourth Division,4,H
+1984-04-23,1983/1984,Torquay United,Reading,2-2,2,2,Football League Fourth Division,4,D
+1984-04-23,1983/1984,Aldershot,Colchester United,5-1,5,1,Football League Fourth Division,4,H
+1984-04-23,1983/1984,Fulham,Brighton & Hove Albion,3-1,3,1,Football League Second Division,2,H
+1984-04-23,1983/1984,Manchester City,Huddersfield Town,2-3,2,3,Football League Second Division,2,A
+1984-04-23,1983/1984,Newcastle United,Carlisle United,5-1,5,1,Football League Second Division,2,H
+1984-04-23,1983/1984,Barnsley,Blackburn Rovers,0-0,0,0,Football League Second Division,2,D
+1984-04-23,1983/1984,Cardiff City,Derby County,1-0,1,0,Football League Second Division,2,H
+1984-04-23,1983/1984,Crystal Palace,Charlton Athletic,2-0,2,0,Football League Second Division,2,H
+1984-04-23,1983/1984,Grimsby Town,Cambridge United,0-0,0,0,Football League Second Division,2,D
+1984-04-23,1983/1984,Hull City,Rotherham United,5-0,5,0,Football League Third Division,3,H
+1984-04-23,1983/1984,Lincoln City,Southend United,1-2,1,2,Football League Third Division,3,A
+1984-04-23,1983/1984,Millwall,Wimbledon,1-1,1,1,Football League Third Division,3,D
+1984-04-23,1983/1984,Wigan Athletic,Bradford City,0-1,0,1,Football League Third Division,3,A
+1984-04-23,1983/1984,Gillingham,Bristol Rovers,1-2,1,2,Football League Third Division,3,A
+1984-04-23,1983/1984,Burnley,Walsall,0-2,0,2,Football League Third Division,3,A
+1984-04-24,1983/1984,Watford,Southampton,1-1,1,1,Football League First Division,1,D
+1984-04-24,1983/1984,Doncaster Rovers,Darlington,3-2,3,2,Football League Fourth Division,4,H
+1984-04-24,1983/1984,Mansfield Town,Chester,3-1,3,1,Football League Fourth Division,4,H
+1984-04-24,1983/1984,Peterborough United,Northampton Town,6-0,6,0,Football League Fourth Division,4,H
+1984-04-24,1983/1984,Leeds United,Oldham Athletic,2-0,2,0,Football League Second Division,2,H
+1984-04-24,1983/1984,Portsmouth,Chelsea,2-2,2,2,Football League Second Division,2,D
+1984-04-24,1983/1984,Shrewsbury Town,Swansea City,2-0,2,0,Football League Second Division,2,H
+1984-04-24,1983/1984,AFC Bournemouth,Leyton Orient,3-2,3,2,Football League Third Division,3,H
+1984-04-24,1983/1984,Preston North End,Scunthorpe United,1-0,1,0,Football League Third Division,3,H
+1984-04-24,1983/1984,Sheffield United,Port Vale,3-1,3,1,Football League Third Division,3,H
+1984-04-25,1983/1984,Middlesbrough,Sheffield Wednesday,2-0,2,0,Football League Second Division,2,H
+1984-04-25,1983/1984,Bradford City,Newport County,1-0,1,0,Football League Third Division,3,H
+1984-04-27,1983/1984,Stockport County,Peterborough United,4-1,4,1,Football League Fourth Division,4,H
+1984-04-27,1983/1984,Swansea City,Middlesbrough,2-1,2,1,Football League Second Division,2,H
+1984-04-27,1983/1984,Scunthorpe United,Millwall,0-1,0,1,Football League Third Division,3,A
+1984-04-28,1983/1984,Arsenal,Leicester City,2-1,2,1,Football League First Division,1,H
+1984-04-28,1983/1984,Aston Villa,Notts County,3-1,3,1,Football League First Division,1,H
+1984-04-28,1983/1984,Liverpool,Ipswich Town,2-2,2,2,Football League First Division,1,D
+1984-04-28,1983/1984,Luton Town,Watford,1-2,1,2,Football League First Division,1,A
+1984-04-28,1983/1984,Manchester United,West Ham United,0-0,0,0,Football League First Division,1,D
+1984-04-28,1983/1984,Nottingham Forest,Stoke City,0-0,0,0,Football League First Division,1,D
+1984-04-28,1983/1984,Queens Park Rangers,Tottenham Hotspur,2-1,2,1,Football League First Division,1,H
+1984-04-28,1983/1984,Southampton,Coventry City,8-2,8,2,Football League First Division,1,H
+1984-04-28,1983/1984,Norwich City,Everton,1-1,1,1,Football League First Division,1,D
+1984-04-28,1983/1984,Wolverhampton Wanderers,West Bromwich Albion,0-0,0,0,Football League First Division,1,D
+1984-04-28,1983/1984,Sunderland,Birmingham City,2-1,2,1,Football League First Division,1,H
+1984-04-28,1983/1984,Chesterfield,Bristol City,1-1,1,1,Football League Fourth Division,4,D
+1984-04-28,1983/1984,Colchester United,Torquay United,3-0,3,0,Football League Fourth Division,4,H
+1984-04-28,1983/1984,Crewe Alexandra,Tranmere Rovers,3-0,3,0,Football League Fourth Division,4,H
+1984-04-28,1983/1984,Darlington,Halifax Town,3-2,3,2,Football League Fourth Division,4,H
+1984-04-28,1983/1984,Northampton Town,Wrexham,3-3,3,3,Football League Fourth Division,4,D
+1984-04-28,1983/1984,Reading,Bury,1-1,1,1,Football League Fourth Division,4,D
+1984-04-28,1983/1984,Rochdale,Aldershot,3-1,3,1,Football League Fourth Division,4,H
+1984-04-28,1983/1984,York City,Hartlepool United,2-0,2,0,Football League Fourth Division,4,H
+1984-04-28,1983/1984,Blackpool,Hereford United,3-1,3,1,Football League Fourth Division,4,H
+1984-04-28,1983/1984,Chester,Doncaster Rovers,1-0,1,0,Football League Fourth Division,4,H
+1984-04-28,1983/1984,Oldham Athletic,Portsmouth,3-2,3,2,Football League Second Division,2,H
+1984-04-28,1983/1984,Sheffield Wednesday,Crystal Palace,1-0,1,0,Football League Second Division,2,H
+1984-04-28,1983/1984,Brighton & Hove Albion,Barnsley,1-0,1,0,Football League Second Division,2,H
+1984-04-28,1983/1984,Cambridge United,Newcastle United,1-0,1,0,Football League Second Division,2,H
+1984-04-28,1983/1984,Carlisle United,Grimsby Town,1-1,1,1,Football League Second Division,2,D
+1984-04-28,1983/1984,Charlton Athletic,Shrewsbury Town,2-4,2,4,Football League Second Division,2,A
+1984-04-28,1983/1984,Chelsea,Leeds United,5-0,5,0,Football League Second Division,2,H
+1984-04-28,1983/1984,Derby County,Manchester City,1-0,1,0,Football League Second Division,2,H
+1984-04-28,1983/1984,Huddersfield Town,Cardiff City,4-0,4,0,Football League Second Division,2,H
+1984-04-28,1983/1984,Bristol Rovers,Lincoln City,3-1,3,1,Football League Third Division,3,H
+1984-04-28,1983/1984,Exeter City,Preston North End,2-1,2,1,Football League Third Division,3,H
+1984-04-28,1983/1984,Leyton Orient,Hull City,3-1,3,1,Football League Third Division,3,H
+1984-04-28,1983/1984,Newport County,Oxford United,1-1,1,1,Football League Third Division,3,D
+1984-04-28,1983/1984,Port Vale,Burnley,2-3,2,3,Football League Third Division,3,A
+1984-04-28,1983/1984,Rotherham United,Gillingham,3-0,3,0,Football League Third Division,3,H
+1984-04-28,1983/1984,Southend United,Sheffield United,0-1,0,1,Football League Third Division,3,A
+1984-04-28,1983/1984,Walsall,Wigan Athletic,3-0,3,0,Football League Third Division,3,H
+1984-04-28,1983/1984,Wimbledon,Plymouth Argyle,1-0,1,0,Football League Third Division,3,H
+1984-04-28,1983/1984,Bradford City,Brentford,1-1,1,1,Football League Third Division,3,D
+1984-04-28,1983/1984,Bolton Wanderers,AFC Bournemouth,0-1,0,1,Football League Third Division,3,A
+1984-04-29,1983/1984,Swindon Town,Mansfield Town,1-1,1,1,Football League Fourth Division,4,D
+1984-04-29,1983/1984,Blackburn Rovers,Fulham,0-1,0,1,Football League Second Division,2,A
+1984-04-30,1983/1984,Southend United,Newport County,3-1,3,1,Football League Third Division,3,H
+1984-05-01,1983/1984,Notts County,Wolverhampton Wanderers,4-0,4,0,Football League First Division,1,H
+1984-05-01,1983/1984,Blackpool,Colchester United,3-2,3,2,Football League Fourth Division,4,H
+1984-05-01,1983/1984,Doncaster Rovers,Reading,2-3,2,3,Football League Fourth Division,4,A
+1984-05-01,1983/1984,Bury,Aldershot,0-3,0,3,Football League Fourth Division,4,A
+1984-05-01,1983/1984,Huddersfield Town,Sheffield Wednesday,0-1,0,1,Football League Second Division,2,A
+1984-05-01,1983/1984,Scunthorpe United,Leyton Orient,3-1,3,1,Football League Third Division,3,H
+1984-05-01,1983/1984,Millwall,Lincoln City,0-2,0,2,Football League Third Division,3,A
+1984-05-01,1983/1984,Gillingham,Plymouth Argyle,2-1,2,1,Football League Third Division,3,H
+1984-05-01,1983/1984,Rotherham United,Exeter City,1-0,1,0,Football League Third Division,3,H
+1984-05-02,1983/1984,Darlington,Stockport County,1-0,1,0,Football League Fourth Division,4,H
+1984-05-02,1983/1984,Torquay United,Chester,1-0,1,0,Football League Fourth Division,4,H
+1984-05-02,1983/1984,Bradford City,Bristol Rovers,0-1,0,1,Football League Third Division,3,A
+1984-05-02,1983/1984,Oxford United,Wigan Athletic,0-0,0,0,Football League Third Division,3,D
+1984-05-04,1983/1984,Halifax Town,Chesterfield,2-1,2,1,Football League Fourth Division,4,H
+1984-05-04,1983/1984,Manchester City,Chelsea,0-2,0,2,Football League Second Division,2,A
+1984-05-05,1983/1984,Birmingham City,Liverpool,0-0,0,0,Football League First Division,1,D
+1984-05-05,1983/1984,Coventry City,Luton Town,2-2,2,2,Football League First Division,1,D
+1984-05-05,1983/1984,Everton,Manchester United,1-1,1,1,Football League First Division,1,D
+1984-05-05,1983/1984,Ipswich Town,Sunderland,1-0,1,0,Football League First Division,1,H
+1984-05-05,1983/1984,Leicester City,Nottingham Forest,2-1,2,1,Football League First Division,1,H
+1984-05-05,1983/1984,Notts County,Queens Park Rangers,0-3,0,3,Football League First Division,1,A
+1984-05-05,1983/1984,Stoke City,Southampton,1-1,1,1,Football League First Division,1,D
+1984-05-05,1983/1984,Tottenham Hotspur,Norwich City,2-0,2,0,Football League First Division,1,H
+1984-05-05,1983/1984,Watford,Wolverhampton Wanderers,0-0,0,0,Football League First Division,1,D
+1984-05-05,1983/1984,West Ham United,Aston Villa,0-1,0,1,Football League First Division,1,A
+1984-05-05,1983/1984,West Bromwich Albion,Arsenal,1-3,1,3,Football League First Division,1,A
+1984-05-05,1983/1984,Wrexham,Colchester United,0-2,0,2,Football League Fourth Division,4,A
+1984-05-05,1983/1984,Bristol City,Swindon Town,1-0,1,0,Football League Fourth Division,4,H
+1984-05-05,1983/1984,Bury,Northampton Town,1-2,1,2,Football League Fourth Division,4,A
+1984-05-05,1983/1984,Doncaster Rovers,Rochdale,3-0,3,0,Football League Fourth Division,4,H
+1984-05-05,1983/1984,Hartlepool United,Stockport County,1-2,1,2,Football League Fourth Division,4,A
+1984-05-05,1983/1984,Hereford United,Reading,1-1,1,1,Football League Fourth Division,4,D
+1984-05-05,1983/1984,Mansfield Town,York City,0-1,0,1,Football League Fourth Division,4,A
+1984-05-05,1983/1984,Peterborough United,Darlington,2-2,2,2,Football League Fourth Division,4,D
+1984-05-05,1983/1984,Torquay United,Crewe Alexandra,3-1,3,1,Football League Fourth Division,4,H
+1984-05-05,1983/1984,Tranmere Rovers,Chester,2-2,2,2,Football League Fourth Division,4,D
+1984-05-05,1983/1984,Aldershot,Blackpool,3-2,3,2,Football League Fourth Division,4,H
+1984-05-05,1983/1984,Barnsley,Oldham Athletic,0-1,0,1,Football League Second Division,2,A
+1984-05-05,1983/1984,Shrewsbury Town,Sheffield Wednesday,2-1,2,1,Football League Second Division,2,H
+1984-05-05,1983/1984,Cardiff City,Brighton & Hove Albion,2-2,2,2,Football League Second Division,2,D
+1984-05-05,1983/1984,Crystal Palace,Swansea City,2-0,2,0,Football League Second Division,2,H
+1984-05-05,1983/1984,Fulham,Cambridge United,1-0,1,0,Football League Second Division,2,H
+1984-05-05,1983/1984,Grimsby Town,Blackburn Rovers,3-2,3,2,Football League Second Division,2,H
+1984-05-05,1983/1984,Leeds United,Carlisle United,3-0,3,0,Football League Second Division,2,H
+1984-05-05,1983/1984,Middlesbrough,Charlton Athletic,1-0,1,0,Football League Second Division,2,H
+1984-05-05,1983/1984,Newcastle United,Derby County,4-0,4,0,Football League Second Division,2,H
+1984-05-05,1983/1984,Portsmouth,Huddersfield Town,1-1,1,1,Football League Second Division,2,D
+1984-05-05,1983/1984,Gillingham,Newport County,4-1,4,1,Football League Third Division,3,H
+1984-05-05,1983/1984,Hull City,Southend United,2-1,2,1,Football League Third Division,3,H
+1984-05-05,1983/1984,Lincoln City,Rotherham United,0-1,0,1,Football League Third Division,3,A
+1984-05-05,1983/1984,Millwall,Bolton Wanderers,3-0,3,0,Football League Third Division,3,H
+1984-05-05,1983/1984,Oxford United,Exeter City,1-1,1,1,Football League Third Division,3,D
+1984-05-05,1983/1984,Plymouth Argyle,Walsall,3-1,3,1,Football League Third Division,3,H
+1984-05-05,1983/1984,Preston North End,Bradford City,1-2,1,2,Football League Third Division,3,A
+1984-05-05,1983/1984,Sheffield United,Wimbledon,1-2,1,2,Football League Third Division,3,A
+1984-05-05,1983/1984,Burnley,Leyton Orient,2-3,2,3,Football League Third Division,3,A
+1984-05-05,1983/1984,Brentford,Scunthorpe United,3-0,3,0,Football League Third Division,3,H
+1984-05-05,1983/1984,AFC Bournemouth,Port Vale,1-1,1,1,Football League Third Division,3,D
+1984-05-07,1983/1984,Arsenal,West Ham United,3-3,3,3,Football League First Division,1,D
+1984-05-07,1983/1984,Aston Villa,Everton,0-2,0,2,Football League First Division,1,A
+1984-05-07,1983/1984,Liverpool,Coventry City,5-0,5,0,Football League First Division,1,H
+1984-05-07,1983/1984,Luton Town,Stoke City,0-1,0,1,Football League First Division,1,A
+1984-05-07,1983/1984,Manchester United,Ipswich Town,1-2,1,2,Football League First Division,1,A
+1984-05-07,1983/1984,Norwich City,Birmingham City,1-1,1,1,Football League First Division,1,D
+1984-05-07,1983/1984,Nottingham Forest,Watford,5-1,5,1,Football League First Division,1,H
+1984-05-07,1983/1984,Queens Park Rangers,West Bromwich Albion,1-1,1,1,Football League First Division,1,D
+1984-05-07,1983/1984,Southampton,Tottenham Hotspur,5-0,5,0,Football League First Division,1,H
+1984-05-07,1983/1984,Sunderland,Notts County,0-0,0,0,Football League First Division,1,D
+1984-05-07,1983/1984,Wolverhampton Wanderers,Leicester City,1-0,1,0,Football League First Division,1,H
+1984-05-07,1983/1984,Blackpool,Halifax Town,4-0,4,0,Football League Fourth Division,4,H
+1984-05-07,1983/1984,Reading,Tranmere Rovers,1-0,1,0,Football League Fourth Division,4,H
+1984-05-07,1983/1984,Chesterfield,Aldershot,3-1,3,1,Football League Fourth Division,4,H
+1984-05-07,1983/1984,Colchester United,Hereford United,3-0,3,0,Football League Fourth Division,4,H
+1984-05-07,1983/1984,Crewe Alexandra,Mansfield Town,1-3,1,3,Football League Fourth Division,4,A
+1984-05-07,1983/1984,Rochdale,Torquay United,1-0,1,0,Football League Fourth Division,4,H
+1984-05-07,1983/1984,Stockport County,Doncaster Rovers,0-2,0,2,Football League Fourth Division,4,A
+1984-05-07,1983/1984,Swindon Town,Peterborough United,2-0,2,0,Football League Fourth Division,4,H
+1984-05-07,1983/1984,York City,Bury,3-0,3,0,Football League Fourth Division,4,H
+1984-05-07,1983/1984,Chester,Bristol City,1-2,1,2,Football League Fourth Division,4,A
+1984-05-07,1983/1984,Sheffield Wednesday,Manchester City,0-0,0,0,Football League Second Division,2,D
+1984-05-07,1983/1984,Blackburn Rovers,Cardiff City,1-1,1,1,Football League Second Division,2,D
+1984-05-07,1983/1984,Brighton & Hove Albion,Middlesbrough,3-0,3,0,Football League Second Division,2,H
+1984-05-07,1983/1984,Cambridge United,Shrewsbury Town,1-0,1,0,Football League Second Division,2,H
+1984-05-07,1983/1984,Carlisle United,Crystal Palace,2-2,2,2,Football League Second Division,2,D
+1984-05-07,1983/1984,Charlton Athletic,Fulham,3-4,3,4,Football League Second Division,2,A
+1984-05-07,1983/1984,Chelsea,Barnsley,3-1,3,1,Football League Second Division,2,H
+1984-05-07,1983/1984,Huddersfield Town,Newcastle United,2-2,2,2,Football League Second Division,2,D
+1984-05-07,1983/1984,Oldham Athletic,Grimsby Town,2-1,2,1,Football League Second Division,2,H
+1984-05-07,1983/1984,Swansea City,Leeds United,2-2,2,2,Football League Second Division,2,D
+1984-05-07,1983/1984,Walsall,Preston North End,2-1,2,1,Football League Third Division,3,H
+1984-05-07,1983/1984,Southend United,Plymouth Argyle,1-1,1,1,Football League Third Division,3,D
+1984-05-07,1983/1984,Scunthorpe United,Burnley,4-0,4,0,Football League Third Division,3,H
+1984-05-07,1983/1984,Leyton Orient,Oxford United,1-2,1,2,Football League Third Division,3,A
+1984-05-07,1983/1984,Port Vale,Hull City,1-0,1,0,Football League Third Division,3,H
+1984-05-07,1983/1984,Newport County,Brentford,1-1,1,1,Football League Third Division,3,D
+1984-05-07,1983/1984,Wimbledon,Gillingham,1-3,1,3,Football League Third Division,3,A
+1984-05-07,1983/1984,Rotherham United,Wigan Athletic,4-1,4,1,Football League Third Division,3,H
+1984-05-07,1983/1984,Bradford City,Lincoln City,0-0,0,0,Football League Third Division,3,D
+1984-05-07,1983/1984,Bolton Wanderers,Sheffield United,3-1,3,1,Football League Third Division,3,H
+1984-05-07,1983/1984,Exeter City,AFC Bournemouth,0-2,0,2,Football League Third Division,3,A
+1984-05-08,1983/1984,Darlington,Wrexham,2-2,2,2,Football League Fourth Division,4,D
+1984-05-08,1983/1984,Bristol Rovers,Millwall,3-2,3,2,Football League Third Division,3,H
+1984-05-09,1983/1984,Derby County,Portsmouth,2-0,2,0,Football League Second Division,2,H
+1984-05-09,1983/1984,Plymouth Argyle,Bradford City,3-0,3,0,Football League Third Division,3,H
+1984-05-11,1983/1984,Halifax Town,Colchester United,4-1,4,1,Football League Fourth Division,4,H
+1984-05-12,1983/1984,Birmingham City,Southampton,0-0,0,0,Football League First Division,1,D
+1984-05-12,1983/1984,Coventry City,Norwich City,2-1,2,1,Football League First Division,1,H
+1984-05-12,1983/1984,Everton,Queens Park Rangers,3-1,3,1,Football League First Division,1,H
+1984-05-12,1983/1984,Ipswich Town,Aston Villa,2-1,2,1,Football League First Division,1,H
+1984-05-12,1983/1984,Leicester City,Sunderland,0-2,0,2,Football League First Division,1,A
+1984-05-12,1983/1984,Notts County,Liverpool,0-0,0,0,Football League First Division,1,D
+1984-05-12,1983/1984,Stoke City,Wolverhampton Wanderers,4-0,4,0,Football League First Division,1,H
+1984-05-12,1983/1984,Watford,Arsenal,2-1,2,1,Football League First Division,1,H
+1984-05-12,1983/1984,West Bromwich Albion,Luton Town,3-0,3,0,Football League First Division,1,H
+1984-05-12,1983/1984,Tottenham Hotspur,Manchester United,1-1,1,1,Football League First Division,1,D
+1984-05-12,1983/1984,West Ham United,Nottingham Forest,1-2,1,2,Football League First Division,1,A
+1984-05-12,1983/1984,Aldershot,Darlington,0-0,0,0,Football League Fourth Division,4,D
+1984-05-12,1983/1984,Bury,Swindon Town,2-1,2,1,Football League Fourth Division,4,H
+1984-05-12,1983/1984,Hartlepool United,Reading,3-3,3,3,Football League Fourth Division,4,D
+1984-05-12,1983/1984,Hereford United,York City,2-1,2,1,Football League Fourth Division,4,H
+1984-05-12,1983/1984,Mansfield Town,Northampton Town,3-1,3,1,Football League Fourth Division,4,H
+1984-05-12,1983/1984,Peterborough United,Chester,1-0,1,0,Football League Fourth Division,4,H
+1984-05-12,1983/1984,Torquay United,Blackpool,1-0,1,0,Football League Fourth Division,4,H
+1984-05-12,1983/1984,Tranmere Rovers,Stockport County,1-0,1,0,Football League Fourth Division,4,H
+1984-05-12,1983/1984,Wrexham,Chesterfield,4-2,4,2,Football League Fourth Division,4,H
+1984-05-12,1983/1984,Doncaster Rovers,Crewe Alexandra,1-0,1,0,Football League Fourth Division,4,H
+1984-05-12,1983/1984,Portsmouth,Swansea City,5-0,5,0,Football League Second Division,2,H
+1984-05-12,1983/1984,Shrewsbury Town,Derby County,3-0,3,0,Football League Second Division,2,H
+1984-05-12,1983/1984,Barnsley,Carlisle United,2-1,2,1,Football League Second Division,2,H
+1984-05-12,1983/1984,Cardiff City,Sheffield Wednesday,0-2,0,2,Football League Second Division,2,A
+1984-05-12,1983/1984,Crystal Palace,Blackburn Rovers,0-2,0,2,Football League Second Division,2,A
+1984-05-12,1983/1984,Fulham,Oldham Athletic,3-0,3,0,Football League Second Division,2,H
+1984-05-12,1983/1984,Grimsby Town,Chelsea,0-1,0,1,Football League Second Division,2,A
+1984-05-12,1983/1984,Leeds United,Charlton Athletic,1-0,1,0,Football League Second Division,2,H
+1984-05-12,1983/1984,Manchester City,Cambridge United,5-0,5,0,Football League Second Division,2,H
+1984-05-12,1983/1984,Middlesbrough,Huddersfield Town,0-0,0,0,Football League Second Division,2,D
+1984-05-12,1983/1984,Newcastle United,Brighton & Hove Albion,3-1,3,1,Football League Second Division,2,H
+1984-05-12,1983/1984,Burnley,Wimbledon,0-2,0,2,Football League Third Division,3,A
+1984-05-12,1983/1984,Gillingham,Scunthorpe United,1-1,1,1,Football League Third Division,3,D
+1984-05-12,1983/1984,Hull City,Bristol Rovers,0-0,0,0,Football League Third Division,3,D
+1984-05-12,1983/1984,Lincoln City,Port Vale,3-2,3,2,Football League Third Division,3,H
+1984-05-12,1983/1984,Millwall,Exeter City,3-0,3,0,Football League Third Division,3,H
+1984-05-12,1983/1984,Oxford United,Rotherham United,3-2,3,2,Football League Third Division,3,H
+1984-05-12,1983/1984,Plymouth Argyle,Leyton Orient,3-1,3,1,Football League Third Division,3,H
+1984-05-12,1983/1984,Preston North End,Bolton Wanderers,2-1,2,1,Football League Third Division,3,H
+1984-05-12,1983/1984,Sheffield United,Newport County,2-0,2,0,Football League Third Division,3,H
+1984-05-12,1983/1984,Wigan Athletic,Southend United,1-0,1,0,Football League Third Division,3,H
+1984-05-12,1983/1984,Brentford,Walsall,1-1,1,1,Football League Third Division,3,D
+1984-05-12,1983/1984,AFC Bournemouth,Bradford City,4-1,4,1,Football League Third Division,3,H
+1984-05-14,1983/1984,West Bromwich Albion,Southampton,0-2,0,2,Football League First Division,1,A
+1984-05-14,1983/1984,West Ham United,Everton,0-1,0,1,Football League First Division,1,A
+1984-05-14,1983/1984,Port Vale,Millwall,1-0,1,0,Football League Third Division,3,H
+1984-05-15,1983/1984,Liverpool,Norwich City,1-1,1,1,Football League First Division,1,D
+1984-05-15,1983/1984,Darlington,Blackpool,2-0,2,0,Football League Fourth Division,4,H
+1984-05-15,1983/1984,Doncaster Rovers,Hartlepool United,0-1,0,1,Football League Fourth Division,4,A
+1984-05-15,1983/1984,Crewe Alexandra,Wrexham,1-1,1,1,Football League Fourth Division,4,D
+1984-05-15,1983/1984,Rotherham United,Scunthorpe United,3-0,3,0,Football League Third Division,3,H
+1984-05-15,1983/1984,Burnley,Hull City,0-2,0,2,Football League Third Division,3,A
+1984-05-16,1983/1984,Nottingham Forest,Manchester United,2-0,2,0,Football League First Division,1,H
+1984-05-17,1983/1984,Notts County,Southampton,1-3,1,3,Football League First Division,1,A
+1984-05-21,1983/1984,Wrexham,Tranmere Rovers,5-1,5,1,Football League Fourth Division,4,H
