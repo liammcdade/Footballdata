@@ -14,6 +14,18 @@ LEAGUES = {
     "SC1": r"C:\Users\liam\Documents\GitHub\Footballdata\data\SCOTLAND\Championship\games",
     "SC2": r"C:\Users\liam\Documents\GitHub\Footballdata\data\SCOTLAND\League1\games",
     "SC3": r"C:\Users\liam\Documents\GitHub\Footballdata\data\SCOTLAND\League2\games",
+    "I1": r"C:\Users\liam\Documents\GitHub\Footballdata\data\ITALY\serie-a\games",
+    "I2": r"C:\Users\liam\Documents\GitHub\Footballdata\data\ITALY\serie-b\games",
+    "D1": r"C:\Users\liam\Documents\GitHub\Footballdata\data\GERMANY\bundesliga\games",
+    "D2": r"C:\Users\liam\Documents\GitHub\Footballdata\data\GERMANY\2-bundesliga\games",
+    "SP1": r"C:\Users\liam\Documents\GitHub\Footballdata\data\SPAIN\la-liga\games",
+    "SP2": r"C:\Users\liam\Documents\GitHub\Footballdata\data\SPAIN\la-liga-2\games",
+    "F1": r"C:\Users\liam\Documents\GitHub\Footballdata\data\FRANCE\ligue-1\games",
+    "F2": r"C:\Users\liam\Documents\GitHub\Footballdata\data\FRANCE\ligue-2\games",
+    "B1": r"C:\Users\liam\Documents\GitHub\Footballdata\data\BELGIUM\jupiler-pro-league\games",
+    "N1": r"C:\Users\liam\Documents\GitHub\Footballdata\data\NETHERLANDS\eredivisie\games",
+    "P1": r"C:\Users\liam\Documents\GitHub\Footballdata\data\PORTUGAL\primeira-liga\games",
+    
 }
 
 START_YEAR = 1993
