@@ -2,8 +2,8 @@
 
 This repository contains a comprehensive collection of clean, historical football (soccer) datasets spanning domestic leagues, international fixtures, FIFA World Cups, and player-level analytics, alongside Python analysis scripts and data tools.
 
-- **Total CSV files:** 148
-- **Total data points (numeric cells):** 4,064,986
+- **Total CSV files:** 802
+- **Total data points (numeric cells):** 13,853,667
 - **Temporal Scope:** 1993/94 Season to Present / Future Projections (2026+)
 
 ---
