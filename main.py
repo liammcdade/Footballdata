@@ -1,5 +1,6 @@
 import os
 import re
+import sys
 import time
 import json
 import argparse
@@ -41,14 +42,12 @@ ROOT_DIR = r"C:\Users\liam\Documents\GitHub\Footballdata"
 # ---------------------------------------------------------------------------
 # If your Excel uses DD/MM (UK, AU, EU, most non-US) → "EU"
 # If your Excel uses MM/DD (US)                        → "US"
-#
-# This matters: typing '1-2' in Excel gives Feb 1 in EU locale but Jan 2 in
-# US locale. We use this to reverse the auto-conversion back to a score.
 DATE_LOCALE = "EU"
 
 DISCOVERED_ROOT = os.path.join(ROOT_DIR, "data", "_discovered")
 DISCOVERY_REPORT = os.path.join(DISCOVERED_ROOT, "discovery.json")
 
+# Default for the optional site-search step.  False => will prompt (if TTY).
 SEARCH_NEW_CSVS = False
 
 DISCOVERY_PAGES = [
@@ -76,8 +75,12 @@ _HREF_CSV_RE = re.compile(r'href=["\']([^"\']+\.csv[^"\']*)["\']', re.IGNORECASE
 _SEASON_LINK_RE = re.compile(r"mmz4281/(\d{4})/([A-Za-z0-9]+)\.csv", re.IGNORECASE)
 _NEW_PATH_RE = re.compile(r"/new/([A-Za-z0-9]+)\.csv", re.IGNORECASE)
 
-# Column names we treat as "this contains a score"
 _SCORE_COLUMN_KEYWORDS = ("result", "score", "scoreline", "ftscore", "fulltime")
+
+HOME_GOALS_COL = "Home Goals"
+AWAY_GOALS_COL = "Away Goals"
+
+_SCORE_SPLIT_RE = re.compile(r"^\s*(\d+)\s*[-–—:]\s*(\d+)\s*$")
 
 
 def season_codes():
@@ -96,15 +99,46 @@ def ensure_folders():
     return ready
 
 
+def _ask_yes_no(question, default=False):
+    """Ask on the terminal; return default (without prompting) if not a TTY."""
+    if not sys.stdin.isatty():
+        return default
+    suffix = " [Y/n] " if default else " [y/N] "
+    try:
+        ans = input(question + suffix).strip().lower()
+    except (EOFError, KeyboardInterrupt):
+        print()
+        return default
+    if not ans:
+        return default
+    return ans in ("y", "yes")
+
+
 # ---------------------------------------------------------------------------
-# XLSX -> CSV with score-recovery
+# XLSX -> CSV with score -> Home/Away Goals split
 # ---------------------------------------------------------------------------
 
-def _fix_date_in_score_columns(df, locale=None):
-    """Reverse Excel's auto-conversion of scores like '1-2' into dates.
+def _score_value_to_pair(v, locale, pd):
+    """Return (home_goals, away_goals) for one cell, or (None, None) if unknown."""
+    if pd.isna(v):
+        return (None, None)
 
-    Returns (df, fixed_count).
-    """
+    # Excel auto-converted 'X-Y' into a date.  Reverse based on locale.
+    if isinstance(v, (pd.Timestamp, datetime, date)):
+        if locale == "US":
+            return (v.month, v.day)
+        return (v.day, v.month)
+
+    if isinstance(v, str):
+        m = _SCORE_SPLIT_RE.match(v)
+        if m:
+            return (int(m.group(1)), int(m.group(2)))
+
+    return (None, None)
+
+
+def _split_score_columns(df, locale=None):
+    """Replace any combined-score column with Home Goals / Away Goals."""
     try:
         import pandas as pd
     except ImportError:
@@ -119,23 +153,37 @@ def _fix_date_in_score_columns(df, locale=None):
         return df, 0
 
     df = df.copy()
-    fixed = 0
+    changed = 0
 
+    parsed = []
     for col in score_columns:
-        def _fix(v):
-            nonlocal fixed
-            if pd.isna(v):
-                return v
-            if isinstance(v, (pd.Timestamp, datetime, date)):
-                fixed += 1
-                if locale == "US":
-                    return f"{v.month} - {v.day}"
-                return f"{v.day} - {v.month}"
-            return v
+        homes, aways = [], []
+        any_filled = False
+        for v in df[col]:
+            h, a = _score_value_to_pair(v, locale, pd)
+            homes.append(h)
+            aways.append(a)
+            if h is not None or a is not None:
+                any_filled = True
+                changed += 1
+        if any_filled:
+            parsed.append((col, homes, aways))
 
-        df[col] = df[col].apply(_fix)
+    if not parsed:
+        return df, 0
 
-    return df, fixed
+    multi = len(parsed) > 1
+
+    for col, homes, aways in parsed:
+        home_col = f"{HOME_GOALS_COL} ({col})" if multi else HOME_GOALS_COL
+        away_col = f"{AWAY_GOALS_COL} ({col})" if multi else AWAY_GOALS_COL
+
+        idx = df.columns.get_loc(col)
+        df.insert(idx, home_col, homes)
+        df.insert(idx + 1, away_col, aways)
+        df = df.drop(columns=[col])
+
+    return df, changed
 
 
 def convert_xlsx_to_csv(root):
@@ -152,7 +200,7 @@ def convert_xlsx_to_csv(root):
     for dirpath, _, filenames in os.walk(root):
         for fname in filenames:
             if fname.startswith("~$"):
-                continue  # Excel lock file
+                continue
             if not fname.lower().endswith(".xlsx"):
                 continue
 
@@ -166,28 +214,27 @@ def convert_xlsx_to_csv(root):
 
                 if len(sheets) == 1:
                     df = xls.parse(sheets[0])
-                    df, fixed = _fix_date_in_score_columns(df)
+                    df, fixed = _split_score_columns(df)
                     dest = os.path.join(dirpath, base + ".csv")
                     df.to_csv(dest, index=False)
                     if fixed:
-                        print(f"   ↻ {fname}: converted {fixed} date-in-score cell(s) "
-                              f"back to scores (locale={DATE_LOCALE})")
+                        print(f"   ↻ {fname}: split {fixed} score cell(s) into "
+                              f"{HOME_GOALS_COL}/{AWAY_GOALS_COL} "
+                              f"(locale={DATE_LOCALE})")
                 else:
                     for sheet in sheets:
                         df = xls.parse(sheet)
-                        df, fixed = _fix_date_in_score_columns(df)
+                        df, fixed = _split_score_columns(df)
                         safe_sheet = "".join(
                             c if c.isalnum() or c in "-_" else "_" for c in sheet
                         )
                         dest = os.path.join(dirpath, f"{base}_{safe_sheet}.csv")
                         df.to_csv(dest, index=False)
                         if fixed:
-                            print(f"   ↻ {fname} [{sheet}]: converted {fixed} "
-                                  f"date-in-score cell(s) back to scores")
+                            print(f"   ↻ {fname} [{sheet}]: split {fixed} "
+                                  f"score cell(s) into "
+                                  f"{HOME_GOALS_COL}/{AWAY_GOALS_COL}")
 
-                # CRITICAL: release the file handle BEFORE trying to delete it.
-                # On Windows, os.remove() fails with WinError 32 if the xlsx is
-                # still open somewhere (including inside pandas).
                 try:
                     xls.close()
                 except Exception:
@@ -207,7 +254,6 @@ def convert_xlsx_to_csv(root):
                 failed += 1
                 print(f"!! Failed to convert {src}: {e}")
             finally:
-                # Belt-and-braces: make sure handle is closed even on error
                 if xls is not None:
                     try:
                         xls.close()
@@ -218,7 +264,61 @@ def convert_xlsx_to_csv(root):
 
 
 # ---------------------------------------------------------------------------
-# Downloads
+# Retro: split score columns in already-existing CSVs
+# ---------------------------------------------------------------------------
+
+def retro_split_scores_in_csvs(root):
+    try:
+        import pandas as pd
+    except ImportError:
+        print("!! pandas not installed - skipping retro split.")
+        return
+
+    updated = 0
+    for dirpath, _, filenames in os.walk(root):
+        for fname in filenames:
+            if not fname.lower().endswith(".csv"):
+                continue
+            path = os.path.join(dirpath, fname)
+
+            try:
+                header = pd.read_csv(path, nrows=0)
+            except Exception as e:
+                print(f"!! Could not read header of {path}: {e}")
+                continue
+
+            score_columns = [
+                c for c in header.columns
+                if any(k in str(c).lower() for k in _SCORE_COLUMN_KEYWORDS)
+            ]
+            if not score_columns:
+                continue
+            if HOME_GOALS_COL in header.columns and AWAY_GOALS_COL in header.columns:
+                continue
+
+            try:
+                df = pd.read_csv(path)
+            except Exception as e:
+                print(f"!! Could not read {path}: {e}")
+                continue
+
+            new_df, changed = _split_score_columns(df)
+            if not changed:
+                continue
+
+            try:
+                new_df.to_csv(path, index=False)
+                updated += 1
+                print(f"   ↻ {path}: split {changed} score cell(s) -> "
+                      f"{HOME_GOALS_COL}/{AWAY_GOALS_COL}")
+            except Exception as e:
+                print(f"!! Could not write {path}: {e}")
+
+    print(f"Retro split done: {updated} CSV file(s) updated.")
+
+
+# ---------------------------------------------------------------------------
+# Downloads / discovery
 # ---------------------------------------------------------------------------
 
 def download(url, dest):
@@ -288,57 +388,93 @@ def register_discovered_leagues(discovered, folders):
 
 
 # ---------------------------------------------------------------------------
+# Optional site-search phase
+# ---------------------------------------------------------------------------
+
+def maybe_run_site_search(args, folders):
+    """Return (discovered, flat_leagues).  discovered is None if skipped.
+
+    Decides whether to run the full football-data.co.uk search:
+      --no-search            -> never
+      --search / SEARCH_NEW_CSVS -> yes
+      otherwise (interactive)-> prompt the user, default No
+    Non-interactive shells skip by default so scheduled runs don't block.
+    """
+    if args.no_search:
+        print("\nSite search skipped (--no-search).")
+        return None, {}
+
+    if args.search or SEARCH_NEW_CSVS:
+        run = True
+    else:
+        run = _ask_yes_no(
+            "\nRun a full football-data.co.uk search for new leagues/seasons now?",
+            default=False,
+        )
+
+    if not run:
+        print("Site search skipped.")
+        return None, {}
+
+    print("\nSearching football-data.co.uk for available CSVs...")
+    discovered = discover_available()
+    flat_leagues = discovered["flat"]
+    known = sum(len(s) for s in discovered["seasonal"].values())
+    print(f"   Found {len(discovered['seasonal'])} seasonal league(s) "
+          f"({known} season files) and {len(flat_leagues)} flat league(s).")
+
+    new_leagues = register_discovered_leagues(discovered, folders)
+    if new_leagues:
+        print(f"NEW leagues discovered ({len(new_leagues)}):")
+        for code, folder, n in sorted(new_leagues):
+            print(f"  + {code}: {n} season(s) -> {folder}")
+    else:
+        print("   No new leagues found.")
+
+    if flat_leagues:
+        print(f"Single-file leagues under /new/ ({len(flat_leagues)}):")
+        for code in sorted(flat_leagues):
+            print(f"  + {code}  ({flat_leagues[code]})")
+
+    save_discovery_report(discovered, DISCOVERY_REPORT)
+    return discovered, flat_leagues
+
+
+# ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
 
 def main():
     parser = argparse.ArgumentParser(description="Download football-data.co.uk CSVs.")
     parser.add_argument("--search", action="store_true",
-                        help="Search the site for new leagues/seasons first.")
+                        help="Run the full site search for new leagues/seasons without prompting.")
     parser.add_argument("--no-search", action="store_true",
-                        help="Disable discovery even if SEARCH_NEW_CSVS=True.")
+                        help="Never run the site search (skip the prompt too).")
     parser.add_argument("--discover-only", action="store_true",
                         help="Only discover what's on the site, don't download.")
     parser.add_argument("--date-locale", choices=["US", "EU"],
                         help="Excel locale used for reversing date->score. Overrides DATE_LOCALE.")
+    parser.add_argument("--no-retro", action="store_true",
+                        help="Skip retroactive split of existing CSVs.")
     args = parser.parse_args()
 
-    # Allow overriding locale from CLI
     global DATE_LOCALE
     if args.date_locale:
         DATE_LOCALE = args.date_locale
 
-    search = args.search or (SEARCH_NEW_CSVS and not args.no_search)
-
+    # ---- Phase 1: XLSX -> CSV -------------------------------------------
     print(f"Scanning {ROOT_DIR} for XLSX files...")
     convert_xlsx_to_csv(ROOT_DIR)
 
+    # ---- Phase 2: Retro split of existing CSVs --------------------------
+    if not args.no_retro:
+        print("Retrofitting existing CSVs (combined score -> Home Goals / Away Goals)...")
+        retro_split_scores_in_csvs(ROOT_DIR)
+
     folders = ensure_folders()
 
-    discovered = None
-    flat_leagues = {}
-    if search:
-        print("Searching football-data.co.uk for available CSVs...")
-        discovered = discover_available()
-        flat_leagues = discovered["flat"]
-        known = sum(len(s) for s in discovered["seasonal"].values())
-        print(f"   Found {len(discovered['seasonal'])} seasonal league(s) "
-              f"({known} season files) and {len(flat_leagues)} flat league(s).")
-
-        new_leagues = register_discovered_leagues(discovered, folders)
-        if new_leagues:
-            print(f"NEW leagues discovered ({len(new_leagues)}):")
-            for code, folder, n in sorted(new_leagues):
-                print(f"  + {code}: {n} season(s) -> {folder}")
-        else:
-            print("   No new leagues found.")
-
-        if flat_leagues:
-            print(f"Single-file leagues under /new/ ({len(flat_leagues)}):")
-            for code in sorted(flat_leagues):
-                print(f"  + {code}  ({flat_leagues[code]})")
-
-        save_discovery_report(discovered, DISCOVERY_REPORT)
+    # ---- Phase 3: OPTIONAL full site search -----------------------------
+    discovered, flat_leagues = maybe_run_site_search(args, folders)
 
     if args.discover_only:
         print("Discovery complete (no downloads performed).")
@@ -350,6 +486,7 @@ def main():
 
     seasonal_map = discovered["seasonal"] if discovered is not None else None
 
+    # ---- Phase 4: Downloads --------------------------------------------
     for code in season_codes():
         for league, folder in folders.items():
             if seasonal_map is not None and league in seasonal_map:

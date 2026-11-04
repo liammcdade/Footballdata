@@ -1,149 +1,149 @@
-Match Number,Round Number,Date,Location,Home Team,Away Team,Result
-1,1,43749.3541666667,Coopers Stadium,Adelaide United,Sydney FC,2 - 3
-2,1,43750.25,Bankwest Stadium,Western Sydney Wanderers FC,Central Coast Mariners,2 - 1
-3,1,43750.3541666667,Marvel Stadium,Melbourne Victory,Melbourne City FC,0 - 0
-4,1,43751.2083333333,Sky Stadium,Wellington Phoenix,Western United FC,0 - 1
-5,1,43751.2916666667,HBF Park,Perth Glory,Brisbane Roar FC,1 - 1
-6,2,43756.3541666667,Marvel Stadium,Melbourne Victory,Western Sydney Wanderers FC,1 - 2
-7,2,43757.25,GMHBA Stadium,Western United FC,Perth Glory,1 - 1
-8,2,43757.3541666667,Central Coast Stadium,Central Coast Mariners,Newcastle Jets,1 - 1
-9,2,43758.2083333333,AAMI Park,Melbourne City FC,Adelaide United,2 - 1
-10,2,43758.2916666667,Leichhardt Oval,Sydney FC,Wellington Phoenix,2 - 1
-11,3,43763.3541666667,Suncorp Stadium,Brisbane Roar FC,Melbourne Victory,0 - 1
-12,3,43764.25,McDonald Jones Stadium,Newcastle Jets,Adelaide United,1 - 2
-13,3,43764.3541666667,Bankwest Stadium,Western Sydney Wanderers FC,Sydney FC,1 - 0
-14,3,43765.2083333333,Sky Stadium,Wellington Phoenix,Perth Glory,1 - 2
-15,3,43765.2916666667,GMHBA Stadium,Western United FC,Melbourne City FC,1 - 2
-16,4,43770.3541666667,Leichhardt Oval,Sydney FC,Newcastle Jets,4 - 1
-17,4,43771.25,Bankwest Stadium,Western Sydney Wanderers FC,Brisbane Roar FC,0 - 0
-18,4,43771.3541666667,Marvel Stadium,Melbourne Victory,Western United FC,2 - 3
-19,4,43772.2083333333,AAMI Park,Melbourne City FC,Wellington Phoenix,3 - 2
-20,4,43772.2916666667,HBF Park,Perth Glory,Central Coast Mariners,1 - 2
-21,5,43777.3541666667,AAMI Park,Melbourne City FC,Central Coast Mariners,3 - 1
-22,5,43778.25,McDonald Jones Stadium,Newcastle Jets,Perth Glory,1 - 1
-23,5,43778.3541666667,GMHBA Stadium,Western United FC,Western Sydney Wanderers FC,2 - 1
-24,5,43779.2083333333,AAMI Park,Melbourne Victory,Wellington Phoenix,1 - 1
-25,5,43779.2916666667,Coopers Stadium,Adelaide United,Brisbane Roar FC,1 - 0
-26,6,43785.25,Central Coast Stadium,Central Coast Mariners,Adelaide United,1 - 3
-28,6,43785.3541666667,GMHBA Stadium,Western United FC,Newcastle Jets,0 - 1
-29,6,43786.2083333333,Dolphin Stadium,Brisbane Roar FC,Melbourne City FC,4 - 3
-27,6,43786.3125,Netstrata Jubilee Stadium,Sydney FC,Melbourne Victory,2 - 1
-30,7,43791.3791666667,Bankwest Stadium,Western Sydney Wanderers FC,Melbourne City FC,2 - 3
-31,7,43792.25,Sky Stadium,Wellington Phoenix,Brisbane Roar FC,2 - 1
-32,7,43792.3541666667,Coopers Stadium,Adelaide United,Melbourne Victory,3 - 1
-33,7,43792.4479166667,HBF Park,Perth Glory,Sydney FC,1 - 3
-34,7,43793.2916666667,Central Coast Stadium,Central Coast Mariners,Western United FC,1 - 0
-35,8,43798.3541666667,AAMI Park,Melbourne Victory,Perth Glory,1 - 0
-36,8,43799.25,Suncorp Stadium,Brisbane Roar FC,Central Coast Mariners,2 - 0
-37,8,43799.3541666667,McDonald Jones Stadium,Newcastle Jets,Western Sydney Wanderers FC,2 - 0
-38,8,43800.2083333333,GMHBA Stadium,Western United FC,Sydney FC,0 - 2
-39,8,43800.2916666667,Coopers Stadium,Adelaide United,Wellington Phoenix,1 - 2
-40,9,43805.3541666667,AAMI Park,Melbourne City FC,Perth Glory,0 - 3
-41,9,43806.25,Eden Park,Wellington Phoenix,Western Sydney Wanderers FC,2 - 1
-42,9,43806.3541666667,Netstrata Jubilee Stadium,Sydney FC,Brisbane Roar FC,5 - 1
-43,9,43807.2083333333,GMHBA Stadium,Western United FC,Melbourne Victory,3 - 1
-44,9,43807.2916666667,Coopers Stadium,Adelaide United,Newcastle Jets,2 - 1
-45,10,43812.3541666667,Suncorp Stadium,Brisbane Roar FC,Western United FC,0 - 2
-46,10,43813.25,AAMI Park,Melbourne Victory,Wellington Phoenix,0 - 0
-47,10,43813.3541666667,Netstrata Jubilee Stadium,Sydney FC,Central Coast Mariners,1 - 0
-48,10,43813.4479166667,HBF Park,Perth Glory,Western Sydney Wanderers FC,2 - 0
-49,10,43814.3125,McDonald Jones Stadium,Newcastle Jets,Melbourne City FC,0 - 4
-50,11,43819.3541666667,Bankwest Stadium,Western Sydney Wanderers FC,Western United FC,1 - 1
-51,11,43820.15625,Sky Stadium,Wellington Phoenix,Sydney FC,2 - 2
-52,11,43820.25,AAMI Park,Melbourne City FC,Melbourne Victory,1 - 2
-53,11,43820.3541666667,HBF Park,Perth Glory,Newcastle Jets,6 - 2
-54,11,43821.2916666667,Central Coast Stadium,Central Coast Mariners,Adelaide United,2 - 1
-55,12,43826.3541666667,Coopers Stadium,Adelaide United,Western Sydney Wanderers FC,2 - 3
-56,12,43827.25,Mars Stadium,Western United FC,Wellington Phoenix,1 - 3
-57,12,43827.3541666667,McDonald Jones Stadium,Newcastle Jets,Brisbane Roar FC,1 - 1
-58,12,43828.3125,Netstrata Jubilee Stadium,Sydney FC,Melbourne City FC,2 - 1
-59,12,43830.3333333333,Central Coast Stadium,Central Coast Mariners,Perth Glory,0 - 3
-60,13,43831.3541666667,Bankwest Stadium,Western Sydney Wanderers FC,Brisbane Roar FC,1 - 2
-61,13,43833.3541666667,AAMI Park,Melbourne City FC,Western United FC,3 - 2
-62,13,43834.25,Sky Stadium,Wellington Phoenix,Central Coast Mariners,2 - 1
-63,13,43834.3541666667,Netstrata Jubilee Stadium,Sydney FC,Adelaide United,2 - 1
-64,13,43835.3125,AAMI Park,Melbourne Victory,Newcastle Jets,4 - 0
-65,14,43840.3541666667,McDonald Jones Stadium,Newcastle Jets,Sydney FC,1 - 2
-66,14,43841.15625,Sky Stadium,Wellington Phoenix,Western Sydney Wanderers FC,2 - 0
-67,14,43841.25,Suncorp Stadium,Brisbane Roar FC,Melbourne City FC,2 - 2
-68,14,43841.3541666667,HBF Park,Perth Glory,Adelaide United,3 - 0
-69,14,43842.2916666667,Central Coast Stadium,Central Coast Mariners,Melbourne Victory,3 - 2
-70,15,43847.3541666667,Coopers Stadium,Adelaide United,Melbourne Victory,1 - 0
-71,15,43848.25,Suncorp Stadium,Brisbane Roar FC,Wellington Phoenix,1 - 0
-72,15,43848.3541666667,AAMI Park,Melbourne City FC,Newcastle Jets,2 - 0
-73,15,43849.2083333333,GMHBA Stadium,Western United FC,Central Coast Mariners,3 - 0
-74,15,43849.3125,Bankwest Stadium,Western Sydney Wanderers FC,Perth Glory,0 - 1
-75,16,43854.2604166667,Sky Stadium,Wellington Phoenix,Newcastle Jets,2 - 1
-76,16,43854.3541666667,AAMI Park,Melbourne Victory,Sydney FC,0 - 3
-77,16,43855.25,Central Coast Stadium,Central Coast Mariners,Brisbane Roar FC,0 - 1
-78,16,43855.3541666667,AAMI Park,Melbourne City FC,Perth Glory,0 - 0
-79,16,43856.2916666667,GMHBA Stadium,Western United FC,Adelaide United,3 - 4
-80,17,43861.3541666667,Netstrata Jubilee Stadium,Sydney FC,Brisbane Roar FC,1 - 0
-81,17,43862.25,McDonald Jones Stadium,Newcastle Jets,Western United FC,0 - 0
-82,17,43862.3541666667,Coopers Stadium,Adelaide United,Melbourne City FC,3 - 1
-83,17,43862.4479166667,HBF Park,Perth Glory,Melbourne Victory,2 - 2
-84,17,43863.2083333333,Central Coast Stadium,Central Coast Mariners,Western Sydney Wanderers FC,1 - 3
-85,18,43868.3541666667,AAMI Park,Melbourne City FC,Melbourne Victory,2 - 1
-86,18,43868.4479166667,HBF Park,Perth Glory,Wellington Phoenix,4 - 2
-88,18,43869.3541666667,Suncorp Stadium,Brisbane Roar FC,Adelaide United,2 - 1
-89,18,43870.2083333333,McDonald Jones Stadium,Newcastle Jets,Central Coast Mariners,4 - 3
-90,19,43875.3541666667,Coopers Stadium,Adelaide United,Central Coast Mariners,2 - 0
-91,19,43876.25,Eden Park,Wellington Phoenix,Melbourne City FC,1 - 0
-92,19,43876.3680555556,Bankwest Stadium,Western Sydney Wanderers FC,Newcastle Jets,1 - 1
-93,19,43877.2083333333,Mars Stadium,Western United FC,Brisbane Roar FC,0 - 1
-94,20,43882.2604166667,Sky Stadium,Wellington Phoenix,Western United FC,2 - 0
-95,20,43882.3541666667,Bankwest Stadium,Western Sydney Wanderers FC,Adelaide United,5 - 2
-98,20,43883.25,Dolphin Stadium,Brisbane Roar FC,Perth Glory,1 - 1
-96,20,43883.3541666667,McDonald Jones Stadium,Newcastle Jets,Melbourne Victory,1 - 1
-97,20,43884.2916666667,Central Coast Stadium,Central Coast Mariners,Sydney FC,0 - 3
-87,21,43889.375,Netstrata Jubilee Stadium,Sydney FC,Western Sydney Wanderers FC,0 - 1
-100,21,43890.25,McDonald Jones Stadium,Newcastle Jets,Perth Glory,2 - 1
-101,21,43890.3541666667,Marvel Stadium,Melbourne Victory,Adelaide United,2 - 1
-102,21,43891.2083333333,GMHBA Stadium,Western United FC,Central Coast Mariners,6 - 2
-103,21,43891.3125,AAMI Park,Melbourne City FC,Brisbane Roar FC,1 - 0
-104,22,43896.3958333333,Suncorp Stadium,Brisbane Roar FC,Western Sydney Wanderers FC,3 - 1
-105,22,43897.25,Coopers Stadium,Adelaide United,Western United FC,1 - 5
-106,22,43897.3541666667,Marvel Stadium,Melbourne Victory,Sydney FC,1 - 4
-107,22,43898.2083333333,Central Coast Stadium,Central Coast Mariners,Wellington Phoenix,1 - 3
-108,22,43898.2916666667,HBF Park,Perth Glory,Melbourne City FC,2 - 3
-109,23,43903.3541666667,Suncorp Stadium,Brisbane Roar FC,Central Coast Mariners,1 - 0
-110,23,43904.25,Netstrata Jubilee Stadium,Sydney FC,Perth Glory,0 - 0
-111,23,43904.3541666667,AAMI Park,Melbourne City FC,Western Sydney Wanderers FC,1 - 1
-112,23,43905.2222222222,Sky Stadium,Wellington Phoenix,Melbourne Victory,3 - 0
-113,23,43905.3055555556,Coopers Stadium,Adelaide United,Newcastle Jets,0 - 3
-114,24,43910.2708333333,Central Coast Stadium,Central Coast Mariners,Melbourne City FC,2 - 4
-132,24,43910.3541666667,Cbus Super Stadium,Brisbane Roar FC,Newcastle Jets,1 - 0
-115,24,43911.3541666667,Bankwest Stadium,Western Sydney Wanderers FC,Sydney FC,1 - 1
-128,24,43913.3541666667,McDonald Jones Stadium,Newcastle Jets,Melbourne City FC,2 - 1
-99,25,44029.3958333333,Netstrata Jubilee Stadium,Sydney FC,Wellington Phoenix,3 - 1
-143,25,44030.2916666667,Central Coast Stadium,Perth Glory,Central Coast Mariners,1 - 0
-140,25,44031.3958333333,Cbus Super Stadium,Brisbane Roar FC,Adelaide United,0 - 1
-135,25,44033.3958333333,Netstrata Jubilee Stadium,Sydney FC,Newcastle Jets,1 - 2
-133,26,44034.3958333333,Bankwest Stadium,Perth Glory,Wellington Phoenix,1 - 2
-120,26,44036.3958333333,Central Coast Stadium,Central Coast Mariners,Newcastle Jets,0 - 0
-127,26,44037.2916666667,Bankwest Stadium,Wellington Phoenix,Adelaide United,1 - 1
-136,26,44037.3993055556,Bankwest Stadium,Melbourne Victory,Western United FC,1 - 2
-138,26,44039.3958333333,Central Coast Stadium,Central Coast Mariners,Western Sydney Wanderers FC,1 - 1
-118,26,44041.3958333333,Bankwest Stadium,Melbourne Victory,Brisbane Roar FC,1 - 2
-134,27,44042.3958333333,Bankwest Stadium,Adelaide United,Perth Glory,5 - 3
-141,27,44043.3958333333,Bankwest Stadium,Western Sydney Wanderers FC,Wellington Phoenix,1 - 0
-142,27,44044.2916666667,ANZ Stadium,Melbourne City FC,Sydney FC,2 - 0
-139,27,44045.3958333333,McDonald Jones Stadium,Newcastle Jets,Western United FC,1 - 0
-125,27,44046.3958333333,Netstrata Jubilee Stadium,Melbourne Victory,Central Coast Mariners,2 - 3
-126,27,44047.3958333333,Bankwest Stadium,Western Sydney Wanderers FC,Perth Glory,1 - 3
-137,27,44048.3333333333,McDonald Jones Stadium,Wellington Phoenix,Brisbane Roar FC,1 - 1
-131,28,44049.3958333333,ANZ Stadium,Adelaide United,Sydney FC,1 - 1
-122,28,44050.3958333333,Netstrata Jubilee Stadium,Western United FC,Western Sydney Wanderers FC,5 - 3
-123,28,44051.2916666667,Netstrata Jubilee Stadium,Perth Glory,Melbourne Victory,0 - 4
-121,28,44053.3958333333,McDonald Jones Stadium,Brisbane Roar FC,Sydney FC,1 - 1
-119,28,44054.3958333333,ANZ Stadium,Melbourne City FC,Adelaide United,2 - 2
-116,28,44055.3159722222,Bankwest Stadium,Perth Glory,Western United FC,0 - 2
-130,28,44055.4236111111,Bankwest Stadium,Western Sydney Wanderers FC,Melbourne Victory,2 - 1
-117,29,44056.3958333333,Netstrata Jubilee Stadium,Newcastle Jets,Wellington Phoenix,3 - 0
-124,29,44058.2916666667,Leichhardt Oval,Sydney FC,Western United FC,1 - 2
-129,29,44062.3958333333,Netstrata Jubilee Stadium,Western United FC,Melbourne City FC,1 - 3
-144,Elim Finals,44065.2916666667,Bankwest Stadium,Wellington Phoenix,Perth Glory,0 - 1
-145,Elim Finals,44066.3333333333,Bankwest Stadium,Brisbane Roar FC,Western United FC,0 - 1
-146,Semi Finals,44069.2916666667,Bankwest Stadium,Melbourne City FC,Western United FC,2 - 0
-147,Semi Finals,44069.4236111111,Bankwest Stadium,Sydney FC,Perth Glory,2 - 0
-148,Grand Final,44073.3541666667,Bankwest Stadium,Sydney FC,Melbourne City FC,1 - 0
+Match Number,Round Number,Date,Location,Home Team,Away Team,Home Goals,Away Goals
+1,1,43749.3541666667,Coopers Stadium,Adelaide United,Sydney FC,2,3
+2,1,43750.25,Bankwest Stadium,Western Sydney Wanderers FC,Central Coast Mariners,2,1
+3,1,43750.3541666667,Marvel Stadium,Melbourne Victory,Melbourne City FC,0,0
+4,1,43751.2083333333,Sky Stadium,Wellington Phoenix,Western United FC,0,1
+5,1,43751.2916666667,HBF Park,Perth Glory,Brisbane Roar FC,1,1
+6,2,43756.3541666667,Marvel Stadium,Melbourne Victory,Western Sydney Wanderers FC,1,2
+7,2,43757.25,GMHBA Stadium,Western United FC,Perth Glory,1,1
+8,2,43757.3541666667,Central Coast Stadium,Central Coast Mariners,Newcastle Jets,1,1
+9,2,43758.2083333333,AAMI Park,Melbourne City FC,Adelaide United,2,1
+10,2,43758.2916666667,Leichhardt Oval,Sydney FC,Wellington Phoenix,2,1
+11,3,43763.3541666667,Suncorp Stadium,Brisbane Roar FC,Melbourne Victory,0,1
+12,3,43764.25,McDonald Jones Stadium,Newcastle Jets,Adelaide United,1,2
+13,3,43764.3541666667,Bankwest Stadium,Western Sydney Wanderers FC,Sydney FC,1,0
+14,3,43765.2083333333,Sky Stadium,Wellington Phoenix,Perth Glory,1,2
+15,3,43765.2916666667,GMHBA Stadium,Western United FC,Melbourne City FC,1,2
+16,4,43770.3541666667,Leichhardt Oval,Sydney FC,Newcastle Jets,4,1
+17,4,43771.25,Bankwest Stadium,Western Sydney Wanderers FC,Brisbane Roar FC,0,0
+18,4,43771.3541666667,Marvel Stadium,Melbourne Victory,Western United FC,2,3
+19,4,43772.2083333333,AAMI Park,Melbourne City FC,Wellington Phoenix,3,2
+20,4,43772.2916666667,HBF Park,Perth Glory,Central Coast Mariners,1,2
+21,5,43777.3541666667,AAMI Park,Melbourne City FC,Central Coast Mariners,3,1
+22,5,43778.25,McDonald Jones Stadium,Newcastle Jets,Perth Glory,1,1
+23,5,43778.3541666667,GMHBA Stadium,Western United FC,Western Sydney Wanderers FC,2,1
+24,5,43779.2083333333,AAMI Park,Melbourne Victory,Wellington Phoenix,1,1
+25,5,43779.2916666667,Coopers Stadium,Adelaide United,Brisbane Roar FC,1,0
+26,6,43785.25,Central Coast Stadium,Central Coast Mariners,Adelaide United,1,3
+28,6,43785.3541666667,GMHBA Stadium,Western United FC,Newcastle Jets,0,1
+29,6,43786.2083333333,Dolphin Stadium,Brisbane Roar FC,Melbourne City FC,4,3
+27,6,43786.3125,Netstrata Jubilee Stadium,Sydney FC,Melbourne Victory,2,1
+30,7,43791.3791666667,Bankwest Stadium,Western Sydney Wanderers FC,Melbourne City FC,2,3
+31,7,43792.25,Sky Stadium,Wellington Phoenix,Brisbane Roar FC,2,1
+32,7,43792.3541666667,Coopers Stadium,Adelaide United,Melbourne Victory,3,1
+33,7,43792.4479166667,HBF Park,Perth Glory,Sydney FC,1,3
+34,7,43793.2916666667,Central Coast Stadium,Central Coast Mariners,Western United FC,1,0
+35,8,43798.3541666667,AAMI Park,Melbourne Victory,Perth Glory,1,0
+36,8,43799.25,Suncorp Stadium,Brisbane Roar FC,Central Coast Mariners,2,0
+37,8,43799.3541666667,McDonald Jones Stadium,Newcastle Jets,Western Sydney Wanderers FC,2,0
+38,8,43800.2083333333,GMHBA Stadium,Western United FC,Sydney FC,0,2
+39,8,43800.2916666667,Coopers Stadium,Adelaide United,Wellington Phoenix,1,2
+40,9,43805.3541666667,AAMI Park,Melbourne City FC,Perth Glory,0,3
+41,9,43806.25,Eden Park,Wellington Phoenix,Western Sydney Wanderers FC,2,1
+42,9,43806.3541666667,Netstrata Jubilee Stadium,Sydney FC,Brisbane Roar FC,5,1
+43,9,43807.2083333333,GMHBA Stadium,Western United FC,Melbourne Victory,3,1
+44,9,43807.2916666667,Coopers Stadium,Adelaide United,Newcastle Jets,2,1
+45,10,43812.3541666667,Suncorp Stadium,Brisbane Roar FC,Western United FC,0,2
+46,10,43813.25,AAMI Park,Melbourne Victory,Wellington Phoenix,0,0
+47,10,43813.3541666667,Netstrata Jubilee Stadium,Sydney FC,Central Coast Mariners,1,0
+48,10,43813.4479166667,HBF Park,Perth Glory,Western Sydney Wanderers FC,2,0
+49,10,43814.3125,McDonald Jones Stadium,Newcastle Jets,Melbourne City FC,0,4
+50,11,43819.3541666667,Bankwest Stadium,Western Sydney Wanderers FC,Western United FC,1,1
+51,11,43820.15625,Sky Stadium,Wellington Phoenix,Sydney FC,2,2
+52,11,43820.25,AAMI Park,Melbourne City FC,Melbourne Victory,1,2
+53,11,43820.3541666667,HBF Park,Perth Glory,Newcastle Jets,6,2
+54,11,43821.2916666667,Central Coast Stadium,Central Coast Mariners,Adelaide United,2,1
+55,12,43826.3541666667,Coopers Stadium,Adelaide United,Western Sydney Wanderers FC,2,3
+56,12,43827.25,Mars Stadium,Western United FC,Wellington Phoenix,1,3
+57,12,43827.3541666667,McDonald Jones Stadium,Newcastle Jets,Brisbane Roar FC,1,1
+58,12,43828.3125,Netstrata Jubilee Stadium,Sydney FC,Melbourne City FC,2,1
+59,12,43830.3333333333,Central Coast Stadium,Central Coast Mariners,Perth Glory,0,3
+60,13,43831.3541666667,Bankwest Stadium,Western Sydney Wanderers FC,Brisbane Roar FC,1,2
+61,13,43833.3541666667,AAMI Park,Melbourne City FC,Western United FC,3,2
+62,13,43834.25,Sky Stadium,Wellington Phoenix,Central Coast Mariners,2,1
+63,13,43834.3541666667,Netstrata Jubilee Stadium,Sydney FC,Adelaide United,2,1
+64,13,43835.3125,AAMI Park,Melbourne Victory,Newcastle Jets,4,0
+65,14,43840.3541666667,McDonald Jones Stadium,Newcastle Jets,Sydney FC,1,2
+66,14,43841.15625,Sky Stadium,Wellington Phoenix,Western Sydney Wanderers FC,2,0
+67,14,43841.25,Suncorp Stadium,Brisbane Roar FC,Melbourne City FC,2,2
+68,14,43841.3541666667,HBF Park,Perth Glory,Adelaide United,3,0
+69,14,43842.2916666667,Central Coast Stadium,Central Coast Mariners,Melbourne Victory,3,2
+70,15,43847.3541666667,Coopers Stadium,Adelaide United,Melbourne Victory,1,0
+71,15,43848.25,Suncorp Stadium,Brisbane Roar FC,Wellington Phoenix,1,0
+72,15,43848.3541666667,AAMI Park,Melbourne City FC,Newcastle Jets,2,0
+73,15,43849.2083333333,GMHBA Stadium,Western United FC,Central Coast Mariners,3,0
+74,15,43849.3125,Bankwest Stadium,Western Sydney Wanderers FC,Perth Glory,0,1
+75,16,43854.2604166667,Sky Stadium,Wellington Phoenix,Newcastle Jets,2,1
+76,16,43854.3541666667,AAMI Park,Melbourne Victory,Sydney FC,0,3
+77,16,43855.25,Central Coast Stadium,Central Coast Mariners,Brisbane Roar FC,0,1
+78,16,43855.3541666667,AAMI Park,Melbourne City FC,Perth Glory,0,0
+79,16,43856.2916666667,GMHBA Stadium,Western United FC,Adelaide United,3,4
+80,17,43861.3541666667,Netstrata Jubilee Stadium,Sydney FC,Brisbane Roar FC,1,0
+81,17,43862.25,McDonald Jones Stadium,Newcastle Jets,Western United FC,0,0
+82,17,43862.3541666667,Coopers Stadium,Adelaide United,Melbourne City FC,3,1
+83,17,43862.4479166667,HBF Park,Perth Glory,Melbourne Victory,2,2
+84,17,43863.2083333333,Central Coast Stadium,Central Coast Mariners,Western Sydney Wanderers FC,1,3
+85,18,43868.3541666667,AAMI Park,Melbourne City FC,Melbourne Victory,2,1
+86,18,43868.4479166667,HBF Park,Perth Glory,Wellington Phoenix,4,2
+88,18,43869.3541666667,Suncorp Stadium,Brisbane Roar FC,Adelaide United,2,1
+89,18,43870.2083333333,McDonald Jones Stadium,Newcastle Jets,Central Coast Mariners,4,3
+90,19,43875.3541666667,Coopers Stadium,Adelaide United,Central Coast Mariners,2,0
+91,19,43876.25,Eden Park,Wellington Phoenix,Melbourne City FC,1,0
+92,19,43876.3680555556,Bankwest Stadium,Western Sydney Wanderers FC,Newcastle Jets,1,1
+93,19,43877.2083333333,Mars Stadium,Western United FC,Brisbane Roar FC,0,1
+94,20,43882.2604166667,Sky Stadium,Wellington Phoenix,Western United FC,2,0
+95,20,43882.3541666667,Bankwest Stadium,Western Sydney Wanderers FC,Adelaide United,5,2
+98,20,43883.25,Dolphin Stadium,Brisbane Roar FC,Perth Glory,1,1
+96,20,43883.3541666667,McDonald Jones Stadium,Newcastle Jets,Melbourne Victory,1,1
+97,20,43884.2916666667,Central Coast Stadium,Central Coast Mariners,Sydney FC,0,3
+87,21,43889.375,Netstrata Jubilee Stadium,Sydney FC,Western Sydney Wanderers FC,0,1
+100,21,43890.25,McDonald Jones Stadium,Newcastle Jets,Perth Glory,2,1
+101,21,43890.3541666667,Marvel Stadium,Melbourne Victory,Adelaide United,2,1
+102,21,43891.2083333333,GMHBA Stadium,Western United FC,Central Coast Mariners,6,2
+103,21,43891.3125,AAMI Park,Melbourne City FC,Brisbane Roar FC,1,0
+104,22,43896.3958333333,Suncorp Stadium,Brisbane Roar FC,Western Sydney Wanderers FC,3,1
+105,22,43897.25,Coopers Stadium,Adelaide United,Western United FC,1,5
+106,22,43897.3541666667,Marvel Stadium,Melbourne Victory,Sydney FC,1,4
+107,22,43898.2083333333,Central Coast Stadium,Central Coast Mariners,Wellington Phoenix,1,3
+108,22,43898.2916666667,HBF Park,Perth Glory,Melbourne City FC,2,3
+109,23,43903.3541666667,Suncorp Stadium,Brisbane Roar FC,Central Coast Mariners,1,0
+110,23,43904.25,Netstrata Jubilee Stadium,Sydney FC,Perth Glory,0,0
+111,23,43904.3541666667,AAMI Park,Melbourne City FC,Western Sydney Wanderers FC,1,1
+112,23,43905.2222222222,Sky Stadium,Wellington Phoenix,Melbourne Victory,3,0
+113,23,43905.3055555556,Coopers Stadium,Adelaide United,Newcastle Jets,0,3
+114,24,43910.2708333333,Central Coast Stadium,Central Coast Mariners,Melbourne City FC,2,4
+132,24,43910.3541666667,Cbus Super Stadium,Brisbane Roar FC,Newcastle Jets,1,0
+115,24,43911.3541666667,Bankwest Stadium,Western Sydney Wanderers FC,Sydney FC,1,1
+128,24,43913.3541666667,McDonald Jones Stadium,Newcastle Jets,Melbourne City FC,2,1
+99,25,44029.3958333333,Netstrata Jubilee Stadium,Sydney FC,Wellington Phoenix,3,1
+143,25,44030.2916666667,Central Coast Stadium,Perth Glory,Central Coast Mariners,1,0
+140,25,44031.3958333333,Cbus Super Stadium,Brisbane Roar FC,Adelaide United,0,1
+135,25,44033.3958333333,Netstrata Jubilee Stadium,Sydney FC,Newcastle Jets,1,2
+133,26,44034.3958333333,Bankwest Stadium,Perth Glory,Wellington Phoenix,1,2
+120,26,44036.3958333333,Central Coast Stadium,Central Coast Mariners,Newcastle Jets,0,0
+127,26,44037.2916666667,Bankwest Stadium,Wellington Phoenix,Adelaide United,1,1
+136,26,44037.3993055556,Bankwest Stadium,Melbourne Victory,Western United FC,1,2
+138,26,44039.3958333333,Central Coast Stadium,Central Coast Mariners,Western Sydney Wanderers FC,1,1
+118,26,44041.3958333333,Bankwest Stadium,Melbourne Victory,Brisbane Roar FC,1,2
+134,27,44042.3958333333,Bankwest Stadium,Adelaide United,Perth Glory,5,3
+141,27,44043.3958333333,Bankwest Stadium,Western Sydney Wanderers FC,Wellington Phoenix,1,0
+142,27,44044.2916666667,ANZ Stadium,Melbourne City FC,Sydney FC,2,0
+139,27,44045.3958333333,McDonald Jones Stadium,Newcastle Jets,Western United FC,1,0
+125,27,44046.3958333333,Netstrata Jubilee Stadium,Melbourne Victory,Central Coast Mariners,2,3
+126,27,44047.3958333333,Bankwest Stadium,Western Sydney Wanderers FC,Perth Glory,1,3
+137,27,44048.3333333333,McDonald Jones Stadium,Wellington Phoenix,Brisbane Roar FC,1,1
+131,28,44049.3958333333,ANZ Stadium,Adelaide United,Sydney FC,1,1
+122,28,44050.3958333333,Netstrata Jubilee Stadium,Western United FC,Western Sydney Wanderers FC,5,3
+123,28,44051.2916666667,Netstrata Jubilee Stadium,Perth Glory,Melbourne Victory,0,4
+121,28,44053.3958333333,McDonald Jones Stadium,Brisbane Roar FC,Sydney FC,1,1
+119,28,44054.3958333333,ANZ Stadium,Melbourne City FC,Adelaide United,2,2
+116,28,44055.3159722222,Bankwest Stadium,Perth Glory,Western United FC,0,2
+130,28,44055.4236111111,Bankwest Stadium,Western Sydney Wanderers FC,Melbourne Victory,2,1
+117,29,44056.3958333333,Netstrata Jubilee Stadium,Newcastle Jets,Wellington Phoenix,3,0
+124,29,44058.2916666667,Leichhardt Oval,Sydney FC,Western United FC,1,2
+129,29,44062.3958333333,Netstrata Jubilee Stadium,Western United FC,Melbourne City FC,1,3
+144,Elim Finals,44065.2916666667,Bankwest Stadium,Wellington Phoenix,Perth Glory,0,1
+145,Elim Finals,44066.3333333333,Bankwest Stadium,Brisbane Roar FC,Western United FC,0,1
+146,Semi Finals,44069.2916666667,Bankwest Stadium,Melbourne City FC,Western United FC,2,0
+147,Semi Finals,44069.4236111111,Bankwest Stadium,Sydney FC,Perth Glory,2,0
+148,Grand Final,44073.3541666667,Bankwest Stadium,Sydney FC,Melbourne City FC,1,0
