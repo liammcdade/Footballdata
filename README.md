@@ -2,8 +2,8 @@
 
 This repository contains a comprehensive collection of clean, historical football (soccer) datasets spanning domestic leagues, international fixtures, FIFA World Cups, and player-level analytics, alongside Python analysis scripts and data tools.
 
-- **Total CSV files:** 802
-- **Total data points (numeric cells):** 13,853,667
+- **Total CSV files:** 817
+- **Total games (data rows):** 475,853
 - **Temporal Scope:** 1993/94 Season to Present / Future Projections (2026+)
 
 ---
@@ -11,7 +11,7 @@ This repository contains a comprehensive collection of clean, historical footbal
 ## 📋 Data Collections & Coverage
 
 ### 1. English Football Pyramid (`data/ENGLAND/`)
-Comprehensive season-by-season match logs and results across five tiers of English professional football:
+Comprehensive season-by-season match logs and results across six tiers of English professional football:
 
 | Tier | Modern Name | Directory Path | Seasons / Scope | Matches Per Season |
 | :--- | :--- | :--- | :--- | :--- |
@@ -19,6 +19,7 @@ Comprehensive season-by-season match logs and results across five tiers of Engli
 | **Tier 2** | EFL Championship | `data/ENGLAND/championship/games/` | 1993/94 – 2025/26 | 552 |
 | **Tier 3** | EFL League One | `data/ENGLAND/League1/games/` | 1993/94 – 2025/26 | 552 |
 | **Tier 4** | EFL League Two | `data/ENGLAND/League2/games/` | 1993/94 – 2025/26 | 552 |
+| **Tier 5** | National League | `data/ENGLAND/nationalleague/games/` | 1993/94 – 2025/26 | 552 (462 in 93/94 & 94/95) |
 | **Tier 6** | National League North | `data/ENGLAND/nationalleaguenorth/` | 2022 – 2026 (Flat CSVs) | Flat fixtures/results |
 
 ### 2. International Football (`data/international/`)
@@ -52,17 +53,6 @@ Standard match logs contain:
 The repository includes several Python scripts for dataset maintenance, analytics, and modeling:
 
 * **`datapointcounter.py`**
-  Recursively scans all `.csv` files in the repository, counts non-empty numeric data points, and automatically updates the total summary figures in `README.md`.
+  Recursively scans all `.csv` files in the repository, counts non-empty data rows (games, excluding headers), and automatically updates the total summary figures in `README.md`.
   ```bash
   python datapointcounter.py .
-  ```
-
-* **`data/calculateelo.py`**
-  Calculates league-weighted Elo ratings for English football clubs across all historical fixtures, tracking team expected vs. actual performance deviations and identifying each club's most and least favourable opponents.
-
-* **`data/averagegoals.py`**
-  Scans match CSV files to aggregate total, home, and away goal averages per game across folders, identifying historical high-scoring and low-scoring seasons.
-
-* **Scraping & Renaming Utilities (`data/ENGLAND/League2/games/`)**
-  * `main.py`: Automated script to fetch historical season CSVs from Football-Data.co.uk.
-  * `python.py`: Utility script to parse match dates in CSVs and standardize file names based on detected season date ranges (e.g., `1993-1994.csv`).
