@@ -1,0 +1,126 @@
+Match Number,Round Number,Date,Location,Home Team,Away Team,Group,Home Goals,Away Goals
+1,1,43361.7881944444,Stadio San Siro,Internazionale,Tottenham,Group B,2,1
+2,1,43361.7881944444,Camp Nou,Barcelona,PSV,Group B,4,0
+3,1,43361.875,Stade Louis II,Monaco,Atlético,Group A,1,2
+4,1,43361.875,Jan Breydelstadion,Club Brugge,Dortmund,Group A,0,1
+5,1,43361.875,Stadion Rajko Mitic,Crvena zvezda,Napoli,Group C,0,0
+6,1,43361.875,Anfield,Liverpool,Paris,Group C,3,2
+7,1,43361.875,Arena AufSchalke,Schalke,Porto,Group D,1,1
+8,1,43361.875,Ali Sami Yen Spor Kompleksi,Galatasaray,Lokomotiv Moskva,Group D,3,0
+9,1,43362.7881944444,Johan Cruijff ArenA,Ajax,AEK,Group E,3,0
+10,1,43362.7881944444,OSK Metalist Stadion,Shakhtar Donetsk,Hoffenheim,Group F,2,2
+11,1,43362.875,Estádio do Sport Lisboa e Benfica,Benfica,Bayern,Group E,0,2
+12,1,43362.875,City of Manchester Stadium,Man. City,Lyon,Group F,1,2
+13,1,43362.875,Štruncovy Sady Stadion,Plzen,CSKA Moskva,Group G,2,2
+14,1,43362.875,Estadio Santiago Bernabéu,Real Madrid,Roma,Group G,3,0
+15,1,43362.875,Estadi de Mestalla,Valencia,Juventus,Group H,0,2
+16,1,43362.875,Stade de Suisse,Young Boys,Man. United,Group H,0,3
+17,2,43375.7881944444,Rhein-Neckar-Arena,Hoffenheim,Man. City,Group F,1,2
+18,2,43375.7881944444,Juventus Stadium,Juventus,Young Boys,Group H,3,0
+19,2,43375.875,OAKA Spyros Louis,AEK,Benfica,Group E,2,3
+20,2,43375.875,Fußball Arena München,Bayern,Ajax,Group E,1,1
+21,2,43375.875,OL Stadium,Lyon,Shakhtar Donetsk,Group F,2,2
+22,2,43375.875,Stadio Olimpico,Roma,Plzen,Group G,5,0
+23,2,43375.875,Luzhniki Stadium,CSKA Moskva,Real Madrid,Group G,1,0
+24,2,43375.875,Old Trafford,Man. United,Valencia,Group H,0,0
+25,2,43376.7881944444,Parc des Princes,Paris,Crvena zvezda,Group C,6,1
+26,2,43376.7881944444,Stadion Lokomotiv,Lokomotiv Moskva,Schalke,Group D,0,1
+27,2,43376.875,BVB Stadion Dortmund,Dortmund,Monaco,Group A,3,0
+28,2,43376.875,Estadio Metropolitano,Atlético,Club Brugge,Group A,3,1
+29,2,43376.875,PSV Stadion,PSV,Internazionale,Group B,1,2
+30,2,43376.875,Wembley Stadium,Tottenham,Barcelona,Group B,2,4
+31,2,43376.875,Stadio San Paolo,Napoli,Liverpool,Group C,1,0
+32,2,43376.875,Estádio do Dragão,Porto,Galatasaray,Group D,1,0
+33,3,43396.7881944444,OAKA Spyros Louis,AEK,Bayern,Group E,0,2
+34,3,43396.7881944444,Stade de Suisse,Young Boys,Valencia,Group H,1,1
+35,3,43396.875,Johan Cruijff ArenA,Ajax,Benfica,Group E,1,0
+36,3,43396.875,OSK Metalist Stadion,Shakhtar Donetsk,Man. City,Group F,0,3
+37,3,43396.875,Rhein-Neckar-Arena,Hoffenheim,Lyon,Group F,3,3
+38,3,43396.875,Estadio Santiago Bernabéu,Real Madrid,Plzen,Group G,2,1
+39,3,43396.875,Stadio Olimpico,Roma,CSKA Moskva,Group G,3,0
+40,3,43396.875,Old Trafford,Man. United,Juventus,Group H,0,1
+41,3,43397.7881944444,Jan Breydelstadion,Club Brugge,Monaco,Group A,1,1
+42,3,43397.7881944444,PSV Stadion,PSV,Tottenham,Group B,2,2
+43,3,43397.875,BVB Stadion Dortmund,Dortmund,Atlético,Group A,4,0
+44,3,43397.875,Camp Nou,Barcelona,Internazionale,Group B,2,0
+45,3,43397.875,Anfield,Liverpool,Crvena zvezda,Group C,4,0
+46,3,43397.875,Parc des Princes,Paris,Napoli,Group C,2,2
+47,3,43397.875,Ali Sami Yen Spor Kompleksi,Galatasaray,Schalke,Group D,0,0
+48,3,43397.875,Stadion Lokomotiv,Lokomotiv Moskva,Porto,Group D,1,3
+49,4,43410.7881944444,Stade Louis II,Monaco,Club Brugge,Group A,0,4
+50,4,43410.7881944444,Stadion Rajko Mitic,Crvena zvezda,Liverpool,Group C,2,0
+51,4,43410.875,Estadio Metropolitano,Atlético,Dortmund,Group A,2,0
+52,4,43410.875,Stadio San Siro,Internazionale,Barcelona,Group B,1,1
+53,4,43410.875,Wembley Stadium,Tottenham,PSV,Group B,2,1
+54,4,43410.875,Stadio San Paolo,Napoli,Paris,Group C,1,1
+55,4,43410.875,Arena AufSchalke,Schalke,Galatasaray,Group D,2,0
+56,4,43410.875,Estádio do Dragão,Porto,Lokomotiv Moskva,Group D,4,1
+57,4,43411.7881944444,Luzhniki Stadium,CSKA Moskva,Roma,Group G,1,2
+58,4,43411.7881944444,Estadi de Mestalla,Valencia,Young Boys,Group H,3,1
+59,4,43411.875,Estádio do Sport Lisboa e Benfica,Benfica,Ajax,Group E,1,1
+60,4,43411.875,Fußball Arena München,Bayern,AEK,Group E,2,0
+61,4,43411.875,City of Manchester Stadium,Man. City,Shakhtar Donetsk,Group F,6,0
+62,4,43411.875,OL Stadium,Lyon,Hoffenheim,Group F,2,2
+63,4,43411.875,Štruncovy Sady Stadion,Plzen,Real Madrid,Group G,0,5
+64,4,43411.875,Juventus Stadium,Juventus,Man. United,Group H,1,2
+65,5,43431.7881944444,OAKA Spyros Louis,AEK,Ajax,Group E,0,2
+66,5,43431.7881944444,Luzhniki Stadium,CSKA Moskva,Plzen,Group G,1,2
+67,5,43431.875,Fußball Arena München,Bayern,Benfica,Group E,5,1
+68,5,43431.875,OL Stadium,Lyon,Man. City,Group F,2,2
+69,5,43431.875,Rhein-Neckar-Arena,Hoffenheim,Shakhtar Donetsk,Group F,2,3
+70,5,43431.875,Stadio Olimpico,Roma,Real Madrid,Group G,0,2
+71,5,43431.875,Juventus Stadium,Juventus,Valencia,Group H,1,0
+72,5,43431.875,Old Trafford,Man. United,Young Boys,Group H,1,0
+73,5,43432.7881944444,Estadio Metropolitano,Atlético,Monaco,Group A,2,0
+74,5,43432.7881944444,Stadion Lokomotiv,Lokomotiv Moskva,Galatasaray,Group D,2,0
+75,5,43432.875,BVB Stadion Dortmund,Dortmund,Club Brugge,Group A,0,0
+76,5,43432.875,Wembley Stadium,Tottenham,Internazionale,Group B,1,0
+77,5,43432.875,PSV Stadion,PSV,Barcelona,Group B,1,2
+78,5,43432.875,Stadio San Paolo,Napoli,Crvena zvezda,Group C,3,1
+79,5,43432.875,Parc des Princes,Paris,Liverpool,Group C,2,1
+80,5,43432.875,Estádio do Dragão,Porto,Schalke,Group D,3,1
+81,6,43445.7881944444,Arena AufSchalke,Schalke,Lokomotiv Moskva,Group D,1,0
+82,6,43445.7881944444,Ali Sami Yen Spor Kompleksi,Galatasaray,Porto,Group D,2,3
+83,6,43445.875,Stade Louis II,Monaco,Dortmund,Group A,0,2
+84,6,43445.875,Jan Breydelstadion,Club Brugge,Atlético,Group A,0,0
+85,6,43445.875,Stadio San Siro,Internazionale,PSV,Group B,1,1
+86,6,43445.875,Camp Nou,Barcelona,Tottenham,Group B,1,1
+87,6,43445.875,Stadion Rajko Mitic,Crvena zvezda,Paris,Group C,1,4
+88,6,43445.875,Anfield,Liverpool,Napoli,Group C,1,0
+89,6,43446.7881944444,Štruncovy Sady Stadion,Plzen,Roma,Group G,2,1
+90,6,43446.7881944444,Estadio Santiago Bernabéu,Real Madrid,CSKA Moskva,Group G,0,3
+91,6,43446.875,Estádio do Sport Lisboa e Benfica,Benfica,AEK,Group E,1,0
+92,6,43446.875,Johan Cruijff ArenA,Ajax,Bayern,Group E,3,3
+93,6,43446.875,City of Manchester Stadium,Man. City,Hoffenheim,Group F,2,1
+94,6,43446.875,NSK Olimpiyskyi,Shakhtar Donetsk,Lyon,Group F,1,1
+95,6,43446.875,Estadi de Mestalla,Valencia,Man. United,Group H,2,1
+96,6,43446.875,Stade de Suisse,Young Boys,Juventus,Group H,2,1
+97,R16 Game 1,43508.875,Stadio Olimpico,Roma,Porto,,2,1
+98,R16 Game 1,43508.875,Old Trafford,Man. United,Paris,,0,2
+99,R16 Game 1,43509.875,Wembley Stadium,Tottenham,Dortmund,,3,0
+100,R16 Game 1,43509.875,Johan Cruijff ArenA,Ajax,Real Madrid,,1,2
+101,R16 Game 1,43515.875,OL Stadium,Lyon,Barcelona,,0,0
+102,R16 Game 1,43515.875,Anfield,Liverpool,Bayern,,0,0
+103,R16 Game 1,43516.875,Estadio Metropolitano,Atlético,Juventus,,2,0
+104,R16 Game 1,43516.875,Arena AufSchalke,Schalke,Man. City,,2,3
+105,R16 Game 2,43529.875,BVB Stadion Dortmund,Dortmund,Tottenham,,0,1
+106,R16 Game 2,43529.875,Estadio Santiago Bernabéu,Real Madrid,Ajax,,1,4
+107,R16 Game 2,43530.875,Parc des Princes,Paris,Man. United,,1,3
+108,R16 Game 2,43530.875,Estádio do Dragão,Porto,Roma,,3,1
+109,R16 Game 2,43536.875,Juventus Stadium,Juventus,Atlético,,3,0
+110,R16 Game 2,43536.875,City of Manchester Stadium,Man. City,Schalke,,7,0
+111,R16 Game 2,43537.875,Camp Nou,Barcelona,Lyon,,5,1
+112,R16 Game 2,43537.875,Fußball Arena München,Bayern,Liverpool,,1,3
+113,QF Game 1,43564.875,Tottenham Hotspur Stadium,Tottenham,Man. City,,1,0
+114,QF Game 1,43564.875,Anfield,Liverpool,Porto,,2,0
+115,QF Game 1,43565.875,Old Trafford,Man. United,Barcelona,,0,1
+116,QF Game 1,43565.875,Johan Cruijff ArenA,Ajax,Juventus,,1,1
+117,QF Game 2,43571.875,Juventus Stadium,Juventus,Ajax,,1,2
+118,QF Game 2,43571.875,Camp Nou,Barcelona,Man. United,,3,0
+119,QF Game 2,43572.875,Estádio do Dragão,Porto,Liverpool,,1,4
+120,QF Game 2,43572.875,City of Manchester Stadium,Man. City,Tottenham,,4,3
+121,SF Game 1,43585.875,Tottenham Hotspur Stadium,Tottenham,Ajax,,0,1
+122,SF Game 1,43586.875,Camp Nou,Barcelona,Liverpool,,3,0
+123,SF Game 2,43592.875,Anfield,Liverpool,Barcelona,,4,0
+124,SF Game 2,43593.875,Johan Cruijff ArenA,Ajax,Tottenham,,2,3
+125,Final,43617.875,Estadio Metropolitano,Tottenham,Liverpool,,0,2

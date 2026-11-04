@@ -1,0 +1,126 @@
+Match Number,Round Number,Date,Location,Home Team,Away Team,Group,Home Goals,Away Goals
+1,1,44810.6979166667,Stadion Maksimir,Dinamo Zagreb,Chelsea,Group E,1,0
+2,1,44810.6979166667,BVB Stadion Dortmund,Dortmund,Copenhagen,Group G,3,0
+3,1,44810.7916666667,Stadion Salzburg,Salzburg,Milan,Group E,1,1
+4,1,44810.7916666667,Celtic Park,Celtic,Real Madrid,Group F,0,3
+5,1,44810.7916666667,RB Arena,Leipzig,Shakhtar Donetsk,Group F,1,4
+6,1,44810.7916666667,Estadio Ramón Sánchez-Pizjuán,Sevilla,Man City,Group G,0,4
+7,1,44810.7916666667,Parc des Princes,Paris,Juventus,Group H,2,1
+8,1,44810.7916666667,Estádio do SL Benfica,Benfica,M. Haifa,Group H,2,0
+9,1,44811.6979166667,Johan Cruijff ArenA,Ajax,Rangers,Group A,4,0
+10,1,44811.6979166667,Frankfurt Stadion,Frankfurt,Sporting CP,Group D,0,3
+11,1,44811.7916666667,Stadio Diego Armando Maradona,Napoli,Liverpool,Group A,4,1
+12,1,44811.7916666667,Estadio Metropolitano,Atlético,Porto,Group B,2,1
+13,1,44811.7916666667,Jan Breydelstadion,Club Brugge,Leverkusen,Group B,1,0
+14,1,44811.7916666667,Camp Nou,Barcelona,Plzen,Group C,5,1
+15,1,44811.7916666667,Stadio San Siro,Inter,Bayern,Group C,0,2
+16,1,44811.7916666667,Tottenham Hotspur Stadium,Tottenham,Marseille,Group D,2,0
+17,2,44817.6979166667,Stadion mesta Plzne,Plzen,Inter,Group C,0,2
+18,2,44817.6979166667,Estádio José Alvalade,Sporting CP,Tottenham,Group D,2,0
+19,2,44817.7916666667,Anfield,Liverpool,Ajax,Group A,2,1
+21,2,44817.7916666667,Estádio do Dragão,Porto,Club Brugge,Group B,0,4
+22,2,44817.7916666667,BayArena,Leverkusen,Atlético,Group B,2,0
+23,2,44817.7916666667,Fußball Arena München,Bayern,Barcelona,Group C,2,0
+24,2,44817.7916666667,Stade de Marseille,Marseille,Frankfurt,Group D,0,1
+25,2,44818.6979166667,Stadio San Siro,Milan,Dinamo Zagreb,Group E,3,1
+26,2,44818.6979166667,Municipal Stadium of Legia Warszawa,Shakhtar Donetsk,Celtic,Group F,1,1
+20,2,44818.7916666667,Ibrox Stadium,Rangers,Napoli,Group A,0,3
+27,2,44818.7916666667,Stamford Bridge,Chelsea,Salzburg,Group E,1,1
+28,2,44818.7916666667,Estadio Santiago Bernabéu,Real Madrid,Leipzig,Group F,2,0
+29,2,44818.7916666667,City of Manchester Stadium,Man City,Dortmund,Group G,2,1
+30,2,44818.7916666667,Parken,Copenhagen,Sevilla,Group G,0,0
+31,2,44818.7916666667,Juventus Stadium,Juventus,Benfica,Group H,1,2
+32,2,44818.7916666667,Sammy Ofer Stadium,M. Haifa,Paris,Group H,1,3
+33,3,44838.6979166667,Fußball Arena München,Bayern,Plzen,Group C,5,0
+34,3,44838.6979166667,Stade de Marseille,Marseille,Sporting CP,Group D,4,1
+35,3,44838.7916666667,Anfield,Liverpool,Rangers,Group A,2,0
+36,3,44838.7916666667,Johan Cruijff ArenA,Ajax,Napoli,Group A,1,6
+37,3,44838.7916666667,Estádio do Dragão,Porto,Leverkusen,Group B,2,0
+38,3,44838.7916666667,Jan Breydelstadion,Club Brugge,Atlético,Group B,2,0
+39,3,44838.7916666667,Stadio San Siro,Inter,Barcelona,Group C,1,0
+40,3,44838.7916666667,Frankfurt Stadion,Frankfurt,Tottenham,Group D,0,0
+41,3,44839.6979166667,Stadion Salzburg,Salzburg,Dinamo Zagreb,Group E,1,0
+42,3,44839.6979166667,RB Arena,Leipzig,Celtic,Group F,3,1
+43,3,44839.7916666667,Stamford Bridge,Chelsea,Milan,Group E,3,0
+44,3,44839.7916666667,Estadio Santiago Bernabéu,Real Madrid,Shakhtar Donetsk,Group F,2,1
+45,3,44839.7916666667,City of Manchester Stadium,Man City,Copenhagen,Group G,5,0
+46,3,44839.7916666667,Estadio Ramón Sánchez-Pizjuán,Sevilla,Dortmund,Group G,1,4
+47,3,44839.7916666667,Juventus Stadium,Juventus,M. Haifa,Group H,3,1
+48,3,44839.7916666667,Estádio do SL Benfica,Benfica,Paris,Group H,1,1
+49,4,44845.6979166667,Parken,Copenhagen,Man City,Group G,0,0
+50,4,44845.6979166667,Sammy Ofer Stadium,M. Haifa,Juventus,Group H,2,0
+51,4,44845.7916666667,Stadion Maksimir,Dinamo Zagreb,Salzburg,Group E,1,1
+52,4,44845.7916666667,Stadio San Siro,Milan,Chelsea,Group E,0,2
+53,4,44845.7916666667,Municipal Stadium of Legia Warszawa,Shakhtar Donetsk,Real Madrid,Group F,1,1
+54,4,44845.7916666667,Celtic Park,Celtic,Leipzig,Group F,0,2
+55,4,44845.7916666667,BVB Stadion Dortmund,Dortmund,Sevilla,Group G,1,1
+56,4,44845.7916666667,Parc des Princes,Paris,Benfica,Group H,1,1
+57,4,44846.6979166667,Stadio Diego Armando Maradona,Napoli,Ajax,Group A,4,2
+58,4,44846.6979166667,Estadio Metropolitano,Atlético,Club Brugge,Group B,0,0
+59,4,44846.7916666667,Ibrox Stadium,Rangers,Liverpool,Group A,1,7
+60,4,44846.7916666667,BayArena,Leverkusen,Porto,Group B,0,3
+61,4,44846.7916666667,Camp Nou,Barcelona,Inter,Group C,3,3
+62,4,44846.7916666667,Stadion mesta Plzne,Plzen,Bayern,Group C,2,4
+63,4,44846.7916666667,Tottenham Hotspur Stadium,Tottenham,Frankfurt,Group D,3,2
+64,4,44846.7916666667,Estádio José Alvalade,Sporting CP,Marseille,Group D,0,2
+65,5,44859.6979166667,Stadion Salzburg,Salzburg,Chelsea,Group E,1,2
+66,5,44859.6979166667,Estadio Ramón Sánchez-Pizjuán,Sevilla,Copenhagen,Group G,3,0
+67,5,44859.7916666667,Stadion Maksimir,Dinamo Zagreb,Milan,Group E,0,4
+68,5,44859.7916666667,Celtic Park,Celtic,Shakhtar Donetsk,Group F,1,1
+69,5,44859.7916666667,RB Arena,Leipzig,Real Madrid,Group F,3,2
+70,5,44859.7916666667,BVB Stadion Dortmund,Dortmund,Man City,Group G,0,0
+71,5,44859.7916666667,Parc des Princes,Paris,M. Haifa,Group H,7,2
+72,5,44859.7916666667,Estádio do SL Benfica,Benfica,Juventus,Group H,4,3
+73,5,44860.6979166667,Jan Breydelstadion,Club Brugge,Porto,Group B,0,4
+74,5,44860.6979166667,Stadio San Siro,Inter,Plzen,Group C,4,0
+75,5,44860.7916666667,Stadio Diego Armando Maradona,Napoli,Rangers,Group A,3,0
+76,5,44860.7916666667,Johan Cruijff ArenA,Ajax,Liverpool,Group A,0,3
+77,5,44860.7916666667,Estadio Metropolitano,Atlético,Leverkusen,Group B,2,2
+78,5,44860.7916666667,Camp Nou,Barcelona,Bayern,Group C,0,3
+79,5,44860.7916666667,Tottenham Hotspur Stadium,Tottenham,Sporting CP,Group D,1,1
+80,5,44860.7916666667,Frankfurt Stadion,Frankfurt,Marseille,Group D,2,1
+81,6,44866.7395833333,Estádio do Dragão,Porto,Atlético,Group B,2,1
+82,6,44866.7395833333,BayArena,Leverkusen,Club Brugge,Group B,0,0
+83,6,44866.8333333333,Anfield,Liverpool,Napoli,Group A,2,0
+84,6,44866.8333333333,Ibrox Stadium,Rangers,Ajax,Group A,1,3
+85,6,44866.8333333333,Fußball Arena München,Bayern,Inter,Group C,2,0
+86,6,44866.8333333333,Stadion mesta Plzne,Plzen,Barcelona,Group C,2,4
+87,6,44866.8333333333,Estádio José Alvalade,Sporting CP,Frankfurt,Group D,1,2
+88,6,44866.8333333333,Stade de Marseille,Marseille,Tottenham,Group D,1,2
+89,6,44867.7395833333,Estadio Santiago Bernabéu,Real Madrid,Celtic,Group F,5,1
+90,6,44867.7395833333,Municipal Stadium of Legia Warszawa,Shakhtar Donetsk,Leipzig,Group F,0,4
+91,6,44867.8333333333,Stamford Bridge,Chelsea,Dinamo Zagreb,Group E,2,1
+92,6,44867.8333333333,Stadio San Siro,Milan,Salzburg,Group E,4,0
+93,6,44867.8333333333,City of Manchester Stadium,Man City,Sevilla,Group G,3,1
+94,6,44867.8333333333,Parken,Copenhagen,Dortmund,Group G,1,1
+95,6,44867.8333333333,Juventus Stadium,Juventus,Paris,Group H,1,2
+96,6,44867.8333333333,Sammy Ofer Stadium,M. Haifa,Benfica,Group H,1,6
+97,R16 Game 1,44971.8333333333,Stadio San Siro,Milan,Tottenham,,1,0
+98,R16 Game 1,44971.8333333333,Parc des Princes,Paris,Bayern,,0,1
+99,R16 Game 1,44972.8333333333,Jan Breydelstadion,Club Brugge,Benfica,,0,2
+100,R16 Game 1,44972.8333333333,BVB Stadion Dortmund,Dortmund,Chelsea,,1,0
+101,R16 Game 1,44978.8333333333,Anfield,Liverpool,Real Madrid,,2,5
+102,R16 Game 1,44978.8333333333,Frankfurt Stadion,Frankfurt,Napoli,,0,2
+103,R16 Game 1,44979.8333333333,RB Arena,Leipzig,Man City,,1,1
+104,R16 Game 1,44979.8333333333,Stadio San Siro,Inter,Porto,,1,0
+105,R16 Game 2,44992.8333333333,Estádio do SL Benfica,Benfica,Club Brugge,,5,1
+106,R16 Game 2,44992.8402777778,Stamford Bridge,Chelsea,Dortmund,,2,0
+108,R16 Game 2,44993.8333333333,Fußball Arena München,Bayern,Paris,,2,0
+107,R16 Game 2,44993.8402777778,Tottenham Hotspur Stadium,Tottenham,Milan,,0,0
+109,R16 Game 2,44999.8333333333,City of Manchester Stadium,Man City,Leipzig,,7,0
+110,R16 Game 2,44999.8333333333,Estádio do Dragão,Porto,Inter,,0,0
+111,R16 Game 2,45000.8333333333,Estadio Santiago Bernabéu,Real Madrid,Liverpool,,1,0
+112,R16 Game 2,45000.8333333333,Stadio Diego Armando Maradona,Napoli,Frankfurt,,3,0
+113,QF Game 1,45027.7916666667,Estádio do SL Benfica,Benfica,Inter,,0,2
+114,QF Game 1,45027.7916666667,City of Manchester Stadium,Man City,Bayern,,3,0
+115,QF Game 1,45028.7916666667,Estadio Santiago Bernabéu,Real Madrid,Chelsea,,2,0
+116,QF Game 1,45028.7916666667,Stadio San Siro,Milan,Napoli,,1,0
+117,QF Game 2,45034.7916666667,Stadio Diego Armando Maradona,Napoli,Milan,,1,1
+118,QF Game 2,45034.7916666667,Stamford Bridge,Chelsea,Real Madrid,,0,2
+119,QF Game 2,45035.7916666667,Fußball Arena München,Bayern,Man City,,1,1
+120,QF Game 2,45035.7916666667,Stadio San Siro,Inter,Benfica,,3,3
+121,SF Game 1,45055.7916666667,Estadio Santiago Bernabéu,Real Madrid,Man City,,1,1
+122,SF Game 1,45056.7916666667,Stadio San Siro,Milan,Inter,,0,2
+123,SF Game 2,45062.7916666667,Stadio San Siro,Inter,Milan,,1,0
+124,SF Game 2,45063.7916666667,City of Manchester Stadium,Man City,Real Madrid,,4,0
+125,Final,45087.7916666667,Atatürk Olimpiyat Stadyumu,Man City,Inter,,1,0

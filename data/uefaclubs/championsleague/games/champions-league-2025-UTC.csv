@@ -1,0 +1,190 @@
+Match Number,Round Number,Date,Location,Home Team,Away Team,Home Goals,Away Goals
+1,1,45916.6979166667,PSV Stadion,PSV,Union SG,1,3
+2,1,45916.6979166667,Estadio de San Mamés,Athletic Club,Arsenal,0,2
+3,1,45916.7916666667,Estadio Santiago Bernabéu,Real Madrid,Marseille,2,1
+4,1,45916.7916666667,Estádio do SL Benfica,Benfica,Qarabag,2,3
+5,1,45916.7916666667,Juventus Stadium,Juventus,B. Dortmund,4,4
+6,1,45916.7916666667,Tottenham Hotspur Stadium,Tottenham,Villarreal,1,0
+7,1,45917.6979166667,Stadio Georgios Karaiskakis,Olympiacos,Pafos,0,0
+8,1,45917.6979166667,Eden Arena,Slavia Praha,Bodø/Glimt,2,2
+9,1,45917.7916666667,Parc des Princes,Paris,Atalanta,4,0
+10,1,45917.7916666667,Fußball Arena München,Bayern München,Chelsea,3,1
+11,1,45917.7916666667,Anfield,Liverpool,Atleti,3,2
+12,1,45917.7916666667,Johan Cruijff ArenA,Ajax,Inter,0,2
+13,1,45918.6979166667,Jan Breydelstadion,Club Brugge,Monaco,4,1
+14,1,45918.6979166667,Parken,Copenhagen,Leverkusen,2,2
+15,1,45918.7916666667,City of Manchester Stadium,Man City,Napoli,2,0
+16,1,45918.7916666667,Frankfurt Stadion,Frankfurt,Galatasaray,5,1
+17,1,45918.7916666667,Estádio José Alvalade,Sporting CP,Kairat Almaty,4,1
+18,1,45918.7916666667,St James' Park,Newcastle,Barcelona,1,2
+19,2,45930.6979166667,Stadio di Bergamo,Atalanta,Club Brugge,2,1
+20,2,45930.6979166667,Almaty Ortalyk Stadion,Kairat Almaty,Real Madrid,0,5
+21,2,45930.7916666667,Stadio San Siro,Inter,Slavia Praha,3,0
+22,2,45930.7916666667,Stamford Bridge,Chelsea,Benfica,1,0
+23,2,45930.7916666667,Estadio Metropolitano,Atleti,Frankfurt,5,1
+24,2,45930.7916666667,Aspmyra,Bodø/Glimt,Tottenham,2,2
+25,2,45930.7916666667,Stade de Marseille,Marseille,Ajax,4,0
+26,2,45930.7916666667,Ali Sami Yen Spor Kompleksi,Galatasaray,Liverpool,1,0
+27,2,45930.7916666667,Limassol Stadium,Pafos,Bayern München,1,5
+28,2,45931.6979166667,RSC Anderlecht Stadium,Union SG,Newcastle,0,4
+29,2,45931.6979166667,Tofiq Bahramov Republican Stadium,Qarabag,Copenhagen,2,0
+30,2,45931.7916666667,Arsenal Stadium,Arsenal,Olympiacos,2,0
+31,2,45931.7916666667,BayArena,Leverkusen,PSV,1,1
+32,2,45931.7916666667,Estadio de la Cerámica,Villarreal,Juventus,2,2
+33,2,45931.7916666667,Stadio Diego Armando Maradona,Napoli,Sporting CP,2,1
+34,2,45931.7916666667,Stade Louis II,Monaco,Man City,2,2
+35,2,45931.7916666667,BVB Stadion Dortmund,B. Dortmund,Athletic Club,4,1
+36,2,45931.7916666667,Estadi Olímpic Lluís Companys,Barcelona,Paris,1,2
+37,3,45951.6979166667,Estadi Olímpic Lluís Companys,Barcelona,Olympiacos,6,1
+38,3,45951.6979166667,Almaty Ortalyk Stadion,Kairat Almaty,Pafos,0,0
+39,3,45951.7916666667,Arsenal Stadium,Arsenal,Atleti,4,0
+40,3,45951.7916666667,BayArena,Leverkusen,Paris,2,7
+41,3,45951.7916666667,Estadio de la Cerámica,Villarreal,Man City,0,2
+42,3,45951.7916666667,PSV Stadion,PSV,Napoli,6,2
+43,3,45951.7916666667,Parken,Copenhagen,B. Dortmund,2,4
+44,3,45951.7916666667,RSC Anderlecht Stadium,Union SG,Inter,0,4
+45,3,45951.7916666667,St James' Park,Newcastle,Benfica,3,0
+46,3,45952.6979166667,Ali Sami Yen Spor Kompleksi,Galatasaray,Bodø/Glimt,3,1
+47,3,45952.6979166667,Estadio de San Mamés,Athletic Club,Qarabag,3,1
+48,3,45952.7916666667,Stamford Bridge,Chelsea,Ajax,5,1
+49,3,45952.7916666667,Stadio di Bergamo,Atalanta,Slavia Praha,0,0
+50,3,45952.7916666667,Frankfurt Stadion,Frankfurt,Liverpool,1,5
+51,3,45952.7916666667,Estádio José Alvalade,Sporting CP,Marseille,2,1
+52,3,45952.7916666667,Stade Louis II,Monaco,Tottenham,0,0
+53,3,45952.7916666667,Estadio Santiago Bernabéu,Real Madrid,Juventus,1,0
+54,3,45952.7916666667,Fußball Arena München,Bayern München,Club Brugge,4,0
+55,4,45965.7395833333,Stadio Diego Armando Maradona,Napoli,Frankfurt,0,0
+56,4,45965.7395833333,Eden Arena,Slavia Praha,Arsenal,0,3
+57,4,45965.8333333333,Parc des Princes,Paris,Bayern München,1,2
+58,4,45965.8333333333,Anfield,Liverpool,Real Madrid,1,0
+59,4,45965.8333333333,Estadio Metropolitano,Atleti,Union SG,3,1
+60,4,45965.8333333333,Juventus Stadium,Juventus,Sporting CP,1,1
+61,4,45965.8333333333,Tottenham Hotspur Stadium,Tottenham,Copenhagen,4,0
+62,4,45965.8333333333,Stadio Georgios Karaiskakis,Olympiacos,PSV,1,1
+63,4,45965.8333333333,Aspmyra,Bodø/Glimt,Monaco,0,1
+64,4,45966.7395833333,Tofiq Bahramov Republican Stadium,Qarabag,Chelsea,2,2
+65,4,45966.7395833333,Limassol Stadium,Pafos,Villarreal,1,0
+66,4,45966.8333333333,City of Manchester Stadium,Man City,B. Dortmund,4,1
+67,4,45966.8333333333,Stadio San Siro,Inter,Kairat Almaty,2,1
+68,4,45966.8333333333,Estádio do SL Benfica,Benfica,Leverkusen,0,1
+69,4,45966.8333333333,Jan Breydelstadion,Club Brugge,Barcelona,3,3
+70,4,45966.8333333333,Johan Cruijff ArenA,Ajax,Galatasaray,0,3
+71,4,45966.8333333333,Stade de Marseille,Marseille,Atalanta,0,1
+72,4,45966.8333333333,St James' Park,Newcastle,Athletic Club,2,0
+73,5,45986.7395833333,Johan Cruijff ArenA,Ajax,Benfica,0,2
+74,5,45986.7395833333,Ali Sami Yen Spor Kompleksi,Galatasaray,Union SG,0,1
+75,5,45986.8333333333,City of Manchester Stadium,Man City,Leverkusen,0,2
+76,5,45986.8333333333,Stamford Bridge,Chelsea,Barcelona,3,0
+77,5,45986.8333333333,BVB Stadion Dortmund,B. Dortmund,Villarreal,4,0
+78,5,45986.8333333333,Stadio Diego Armando Maradona,Napoli,Qarabag,2,0
+79,5,45986.8333333333,Eden Arena,Slavia Praha,Athletic Club,0,0
+80,5,45986.8333333333,Aspmyra,Bodø/Glimt,Juventus,2,3
+81,5,45986.8333333333,Stade de Marseille,Marseille,Newcastle,2,1
+82,5,45987.7395833333,Parken,Copenhagen,Kairat Almaty,3,2
+83,5,45987.7395833333,Limassol Stadium,Pafos,Monaco,2,2
+84,5,45987.8333333333,Parc des Princes,Paris,Tottenham,5,3
+85,5,45987.8333333333,Anfield,Liverpool,PSV,1,4
+86,5,45987.8333333333,Arsenal Stadium,Arsenal,Bayern München,3,1
+87,5,45987.8333333333,Estadio Metropolitano,Atleti,Inter,2,1
+88,5,45987.8333333333,Frankfurt Stadion,Frankfurt,Atalanta,0,3
+89,5,45987.8333333333,Estádio José Alvalade,Sporting CP,Club Brugge,3,0
+90,5,45987.8333333333,Stadio Georgios Karaiskakis,Olympiacos,Real Madrid,3,4
+91,6,46000.6458333333,Astana Arena,Kairat Almaty,Olympiacos,0,1
+92,6,46000.7395833333,Fußball Arena München,Bayern München,Sporting CP,3,1
+93,6,46000.8333333333,Stadio San Siro,Inter,Liverpool,0,1
+94,6,46000.8333333333,Camp Nou,Barcelona,Frankfurt,2,1
+95,6,46000.8333333333,Stadio di Bergamo,Atalanta,Chelsea,2,1
+96,6,46000.8333333333,Tottenham Hotspur Stadium,Tottenham,Slavia Praha,3,0
+97,6,46000.8333333333,PSV Stadion,PSV,Atleti,2,3
+98,6,46000.8333333333,Stade Louis II,Monaco,Galatasaray,1,0
+99,6,46000.8333333333,RSC Anderlecht Stadium,Union SG,Marseille,2,3
+100,6,46001.7395833333,Estadio de la Cerámica,Villarreal,Copenhagen,2,3
+101,6,46001.7395833333,Tofiq Bahramov Republican Stadium,Qarabag,Ajax,2,4
+102,6,46001.8333333333,BVB Stadion Dortmund,B. Dortmund,Bodø/Glimt,2,2
+103,6,46001.8333333333,BayArena,Leverkusen,Newcastle,2,2
+104,6,46001.8333333333,Estádio do SL Benfica,Benfica,Napoli,2,0
+105,6,46001.8333333333,Juventus Stadium,Juventus,Pafos,2,0
+106,6,46001.8333333333,Jan Breydelstadion,Club Brugge,Arsenal,0,3
+107,6,46001.8333333333,Estadio de San Mamés,Athletic Club,Paris,0,0
+108,6,46001.8333333333,Estadio Santiago Bernabéu,Real Madrid,Man City,1,2
+109,7,46042.6458333333,Astana Arena,Kairat Almaty,Club Brugge,1,4
+110,7,46042.7395833333,Aspmyra,Bodø/Glimt,Man City,3,1
+111,7,46042.8333333333,Estadio Santiago Bernabéu,Real Madrid,Monaco,6,1
+112,7,46042.8333333333,Stadio San Siro,Inter,Arsenal,1,3
+113,7,46042.8333333333,Estadio de la Cerámica,Villarreal,Ajax,1,2
+114,7,46042.8333333333,Tottenham Hotspur Stadium,Tottenham,B. Dortmund,2,0
+115,7,46042.8333333333,Estádio José Alvalade,Sporting CP,Paris,2,1
+116,7,46042.8333333333,Stadio Georgios Karaiskakis,Olympiacos,Leverkusen,2,0
+117,7,46042.8333333333,Parken,Copenhagen,Napoli,1,1
+118,7,46043.7395833333,Ali Sami Yen Spor Kompleksi,Galatasaray,Atleti,1,1
+119,7,46043.7395833333,Tofiq Bahramov Republican Stadium,Qarabag,Frankfurt,3,2
+120,7,46043.8333333333,Stamford Bridge,Chelsea,Pafos,1,0
+121,7,46043.8333333333,Stadio di Bergamo,Atalanta,Athletic Club,2,3
+122,7,46043.8333333333,Juventus Stadium,Juventus,Benfica,2,0
+123,7,46043.8333333333,Eden Arena,Slavia Praha,Barcelona,2,4
+124,7,46043.8333333333,Stade de Marseille,Marseille,Liverpool,0,3
+125,7,46043.8333333333,St James' Park,Newcastle,PSV,3,0
+126,7,46043.8333333333,Fußball Arena München,Bayern München,Union SG,2,0
+127,8,46050.8333333333,Parc des Princes,Paris,Newcastle,1,1
+128,8,46050.8333333333,City of Manchester Stadium,Man City,Galatasaray,2,0
+129,8,46050.8333333333,Anfield,Liverpool,Qarabag,6,0
+130,8,46050.8333333333,BVB Stadion Dortmund,B. Dortmund,Inter,0,2
+131,8,46050.8333333333,Camp Nou,Barcelona,Copenhagen,4,1
+132,8,46050.8333333333,Arsenal Stadium,Arsenal,Kairat Almaty,3,2
+133,8,46050.8333333333,BayArena,Leverkusen,Villarreal,3,0
+134,8,46050.8333333333,Estadio Metropolitano,Atleti,Bodø/Glimt,1,2
+135,8,46050.8333333333,Estádio do SL Benfica,Benfica,Real Madrid,4,2
+136,8,46050.8333333333,Frankfurt Stadion,Frankfurt,Tottenham,0,2
+137,8,46050.8333333333,Jan Breydelstadion,Club Brugge,Marseille,3,0
+138,8,46050.8333333333,PSV Stadion,PSV,Bayern München,1,2
+139,8,46050.8333333333,Johan Cruijff ArenA,Ajax,Olympiacos,1,2
+140,8,46050.8333333333,Stadio Diego Armando Maradona,Napoli,Chelsea,2,3
+141,8,46050.8333333333,Stade Louis II,Monaco,Juventus,0,0
+142,8,46050.8333333333,RSC Anderlecht Stadium,Union SG,Atalanta,1,0
+143,8,46050.8333333333,Estadio de San Mamés,Athletic Club,Sporting CP,2,3
+144,8,46050.8333333333,Limassol Stadium,Pafos,Slavia Praha,4,1
+145,Play-off Game 1,46070.7395833333,Ali Sami Yen Spor Kompleksi,Galatasaray,Juventus,5,2
+146,Play-off Game 1,46070.8333333333,Stade Louis II,Monaco,Paris,2,3
+147,Play-off Game 1,46070.8333333333,Estádio do SL Benfica,Benfica,Real Madrid,0,1
+148,Play-off Game 1,46070.84375,BVB Stadion Dortmund,B. Dortmund,Atalanta,2,0
+149,Play-off Game 1,46071.7395833333,Tofiq Bahramov Republican Stadium,Qarabag,Newcastle,1,6
+150,Play-off Game 1,46071.8333333333,Stadio Georgios Karaiskakis,Olympiacos,Leverkusen,0,2
+151,Play-off Game 1,46071.8333333333,Aspmyra,Bodø/Glimt,Inter,3,1
+152,Play-off Game 1,46071.8333333333,Jan Breydelstadion,Club Brugge,Atleti,3,3
+153,Play-off Game 2,46077.7395833333,Estadio Metropolitano,Atleti,Club Brugge,4,1
+154,Play-off Game 2,46077.8333333333,BayArena,Leverkusen,Olympiacos,0,0
+155,Play-off Game 2,46077.8333333333,Stadio San Siro,Inter,Bodø/Glimt,1,2
+156,Play-off Game 2,46077.8333333333,St James' Park,Newcastle,Qarabag,3,2
+157,Play-off Game 2,46078.7395833333,Stadio di Bergamo,Atalanta,B. Dortmund,4,1
+158,Play-off Game 2,46078.8333333333,Parc des Princes,Paris,Monaco,2,2
+159,Play-off Game 2,46078.8333333333,Juventus Stadium,Juventus,Galatasaray,3,2
+160,Play-off Game 2,46078.8333333333,Estadio Santiago Bernabéu,Real Madrid,Benfica,2,1
+161,R16 Game 1,46091.7395833333,Ali Sami Yen Spor Kompleksi,Galatasaray,Liverpool,1,0
+162,R16 Game 1,46091.8333333333,Stadio di Bergamo,Atalanta,Bayern München,1,6
+163,R16 Game 1,46091.8333333333,St James' Park,Newcastle,Barcelona,1,1
+164,R16 Game 1,46091.8333333333,Estadio Metropolitano,Atleti,Tottenham,5,2
+165,R16 Game 1,46092.7395833333,BayArena,Leverkusen,Arsenal,1,1
+166,R16 Game 1,46092.8333333333,Parc des Princes,Paris,Chelsea,5,2
+167,R16 Game 1,46092.8333333333,Estadio Santiago Bernabéu,Real Madrid,Man City,3,0
+168,R16 Game 1,46092.8333333333,Aspmyra,Bodø/Glimt,Sporting CP,3,0
+169,R16 Game 2,46098.7395833333,Estádio José Alvalade,Sporting CP,Bodø/Glimt,5,0
+170,R16 Game 2,46098.8333333333,Stamford Bridge,Chelsea,Paris,0,3
+171,R16 Game 2,46098.8333333333,City of Manchester Stadium,Man City,Real Madrid,1,2
+172,R16 Game 2,46098.8333333333,Arsenal Stadium,Arsenal,Leverkusen,2,0
+173,R16 Game 2,46099.7395833333,Camp Nou,Barcelona,Newcastle,7,2
+174,R16 Game 2,46099.8333333333,Anfield,Liverpool,Galatasaray,4,0
+175,R16 Game 2,46099.8333333333,Fußball Arena München,Bayern München,Atalanta,4,1
+176,R16 Game 2,46099.8333333333,Tottenham Hotspur Stadium,Tottenham,Atleti,3,2
+177,QF Game 1,46119.7916666667,Estadio Santiago Bernabéu,Real Madrid,Bayern München,1,2
+178,QF Game 1,46119.7916666667,Estádio José Alvalade,Sporting CP,Arsenal,0,1
+179,QF Game 1,46120.7916666667,Parc des Princes,Paris,Liverpool,2,0
+180,QF Game 1,46120.7916666667,Camp Nou,Barcelona,Atleti,0,2
+181,QF Game 2,46126.7916666667,Estadio Metropolitano,Atleti,Barcelona,1,2
+182,QF Game 2,46126.7916666667,Anfield,Liverpool,Paris,0,2
+183,QF Game 2,46127.7916666667,Arsenal Stadium,Arsenal,Sporting CP,0,0
+184,QF Game 2,46127.7916666667,Fußball Arena München,Bayern München,Real Madrid,4,3
+185,SF Game 1,46140.7916666667,Parc des Princes,Paris,Bayern München,5,4
+186,SF Game 1,46141.7916666667,Estadio Metropolitano,Atleti,Arsenal,1,1
+187,SF Game 2,46147.7916666667,Arsenal Stadium,Arsenal,Atleti,1,0
+188,SF Game 2,46148.7916666667,Fußball Arena München,Bayern München,Paris,1,1
+189,Final,46172.6666666667,Puskás Aréna,Paris,Arsenal,1,1
